@@ -1,0 +1,1387 @@
+It might be a bit of a stretch for video work but if he only does audio then it won't really matter
+You can use any graphics card. Adapter cables shouldn't be an issue either
+The board you chose has HDMI and DVI, and you can use inexpensive ebay adapters if you need something else
+I see. In your case I'd probably skip the GPU and just use the onboard graphics, they're probably enough
+Are you going to install OS X on there?
+Don't waste money on a dead platform.
+Hmm nevermind, I had checked on the Newegg app which apparently wasn't set to Canada
+you can get a brand new one on Newegg for 220
+A bit of a mistake in your pricing there mate?
+They're literally the same thing
+That's just simply not true. It changes nothing or it's better than DDR4 in some cases. 
+
+https://www.anandtech.com/show/9483/intel-skylake-review-6700k-6600k-ddr4-ddr3-ipc-6th-generation/8
+Nothing.
+Might be dead for good
+I wouldn't bother. Get a Ryzen or cheap Intel
+Yeah. Keep in mind that you're in Australia too so things vary wildly in pricing for no reason
+Ah okay, I think that might have something to do with this as they're thinner than micros. Make sure your bit of paper is on the actual sim and it's not on the adapter, and if it doesn't work try adding more paper lol
+any performance difference isn't worth anywhere near 100$
+It worked on mine for at least 6 months, but I don't use that phone anymore. It's probably going to work until something else breaks lol. AFAIK it doesn't really change anything either.
+
+Is your SIM also a Nano SIM?
+Your only option is pretty much to bring it to a trans shop. That can get quite expensive tho. Check the fluid level while the car is running, if it's low then it's going to cause all kinds of problems. If you're too cheap to pay a trans shop then you can try Lucas Transmission Fix which is basically very thick trans oil which can help with some worn transmissions. Of course, YMMV with these kinds of fixes
+It's quite a bit better than a PS4 Pro and you can get any framerate you want on PCs
+I'd guess that most cars don't have their ATF changed ever and they mostly work fine. Doing a simple change yourself is easy, you just need to buy the proper ATF, get under the car, find the bolt with that has an Allen key hole and drain what you can and fill it back up. It's not a complete flush, but it should be more than enough for just simple preventative maintenance
+> Secondlife
+
+people actually play that?
+no get one local
+Yeah lol. Put a heatsink on it
+elgato devices are really only useful if you're recording from consoles
+Yeah it's gonna work but not much above 3000 MHz
+Do we really need someone to tell you it's dead when it smoked and now there's crashing and flickering dots?
+Yeah that's typical of NVMe SSDs. You're pretty much intended to run them heatsinked if you want the best performance
+Really whatever. I think that WD may have a slight edge on reliability tho. 
+
+SATA cables do come with the board yeah
+That was always there. Just go in Disk Management and remove it's letter.
+get another phone, it's the same price or cheaper
+SIM reader on LG G3s isn't really an uncommon problem, on mine it stopped working after I took it out to test something. Try shimming the card with a folded bit of paper and see if that works
+you can get DDR3 on a 7700K if you want
+They're pretty silent when compared to old HDDs. That being said I'd never buy a WD Black as they're a ripoff when you can get a same speed Blue for half the price or a 2TB Seagate for 10$ more
+Most ASUS PCs are pretty standard so you'd need a CPU and RAM and you should be set
+Yeah, use WD's DLGDIAG and do an extended test. It's an extremely light program and it works for everything.
+why do you have windows 7 if your laptop is brand new
+So is Windows it seems since MS has a working version of Windows 10 that runs x86 apps on ARM
+when that's done do rm -rf / to make sure the PC works real well afterwards
+get an amazon gift card if you can
+and take 5 minutes to get all the paste off of a CPU? no thanks!
+it's 2018 dude
+I recommend things that people actually have
+yeah just clean it off with alcohol and toilet paper
+"replacement AC adapter"
+
+no wonder it blew
+if you had to "fix" it to get it working I don't call that working fine
+yeah like why the fuck would you even want to remove it? 
+r/choosingbeggars
+sugru is a total ripoff
+they are, but I'm in Canada and they sell them at my local canadian tire for 4$
+you already lost the rating when it cracked
+3.6GB is tiny
+if shit works fine there's no reason to update drivers
+radeon 10 nm for power efficency shintel 14 nm cuz they cant go any fuckin lower lmaoo
+shifting everything a key over seems like a good idea
+Let me know if you'd sell the CPU alone!
+Yeah. A fully populated board is hard to kill. I always build on carpet with slippers and a coat, it's not the best but I only work on my PCs so I can take the loss if anything
+okay then
+I AGREE
+My fucking god people are annoying with the whole moisture thing in air compressors. No, you won't damage your fucking PC with the miniscule amount of damn water that comes out of the damn hose. That's just stupid.
+hmm
+who the fuck would even want to knowingly run java it's 2018
+[There's these](https://www.amazon.com/Rii-Multiple-Mechanical-Multimedia-Keyboard/dp/B01MRN26ES/ref=sr_1_4?ie=UTF8&qid=1525025683&sr=8-4&keywords=keyboard), I don't think that they make classic looking ones lol
+
+However you might as well go for a [real mechanical](https://www.amazon.com/TOMOKO-Water-Resistant-Mechanical-Keyboard-Non-Conflicting/dp/B01DBJTZU2/ref=sr_1_4?s=videogames&ie=UTF8&qid=1525025869&sr=1-4&keywords=keyboard+mechanical) for 10$ more if you don't mind not having a numpad
+I think it is. I don't have that car but you can probably look up relay or fuse replacement videos for your car on Youtube
+They're now owned by TechTronic Industries which are chinese people that also do most consumer drills (Wilfuckye, Reedgeed, Cryobi). Your vacuum is probably also sold as a Dirt Devil unit too
+They make mechanical feel rubber domes now, they feel quite good too. And they're cheap! And they have fancy lighting!
+Check the headlight relay. Usually there's a few relays of the same type that you can swap around to test.
+Yeah AC compressors aren't silent
+so the defroster. This is by design and is normal
+Some 15 year old cases have very similar panels that are pretty interchangeable, and some prebuilts use the same internal frame with only the external plastics being different between models
+Get a Ryzen and you'll be good for a few years
+technically no
+it's just a fake HP, it's a standard UV-5R in a different case
+SpeedFan can also mess with FSB speeds, but this only works on (now extremely) old motherboards
+I see. Even with no static bags if it's in the box it should be fine. You'll want to pack everything with plenty of bubble wrap, and when the box is closed, there should be no movement when shaken.
+Got the original boxes?
+More like the other way, HDDs can be failing and slow for years and flash storage shows no warning signs and just quits
+yes
+
+take it apart first to be sure
+r/fellowkids
+Ah okay, in that case yeah it is a pretty good upgrade lol
+750 G2 is 10 year, fully sleeved and is fully modular
+Sleeved cables are more expensive, that PSU is semi modular and it's got a 5 year warranty instead of a 10 year one
+Yeah these Pentiums are amazing value, they're essentially an i3 6100
+wow you definitely got ripped off on that RMA
+I know it's possible if you heat the glass and use some kind of fishing line type stuff on a non curved phone, but you need very specialized equipment and it's hard to get it right. Since it's curved, there's probably no way
+Is crossing yourself your favourite sport?
+Yeah you need a 7th gen CPU on iGPU or 1030
+4K DRM is supported on anything lol
+Good question, but a quality power brick is pretty cheap
+Yeah well luck is luck. I wouldn't be concerned about running this PSU on my main PC
+Not really. I've seen plenty of blown older Seasonics and the systems have never died
+Yeah they're fine if you can find them in stock
+Okay but it's pointless?
+a case is 25$ and a good PSU that's not going to kill your shit is 25$ you're crazy dude
+Hmm I see.
+
+Even then, it scored very good in JonnyGuru's testing so I still wouldn't worry about it
+they're already out
+
+B450 isn't here yet but X470 is
+I see. You'd need to find a Lenovo repair center that would be willing to sell you one. It's probably going to be insanely expensive tho
+Your cooler is fine really
+Use CrystalDiskInfo, I can't make heads or tails about what that means
+There's nothing wrong with a used SSD lol, and no you can't get them new.
+Hm, I don't think it's that bad of a price. I'd try to get it down to 110$ to get a good deal but if you can't then no big deal. It performs about the same as a 1050 Ti.
+I'd never get a laptop if you never intend to move it. Also Acers are notoriously unreliable so I'd stay well away from them
+Yeah, in the Settings.
+
+You can also type password in cortana and that does it too
+I'd get this. The CPU gets on sale sometimes and you'll be in budget then
+
+[PCPartPicker part list](https://pcpartpicker.com/list/gRw7XP) / [Price breakdown by merchant](https://pcpartpicker.com/list/gRw7XP/by_merchant/)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [AMD - Ryzen 7 2700X 3.7GHz 8-Core Processor](https://pcpartpicker.com/product/bddxFT/amd-ryzen-7-2700x-37ghz-8-core-processor-yd270xbgafbox) | $329.99 @ Amazon 
+**Motherboard** | [MSI - B350 TOMAHAWK ATX AM4 Motherboard](https://pcpartpicker.com/product/Y4kwrH/msi-b350-tomahawk-atx-am4-motherboard-b350-tomahawk) | $64.89 @ OutletPC 
+**Memory** | [Crucial - Ballistix Sport LT 8GB (1 x 8GB) DDR4-2666 Memory](https://pcpartpicker.com/product/d8dxFT/crucial-ballistix-sport-lt-8gb-1-x-8gb-ddr4-2666-memory-bls8g4d26bfse) | $82.88 @ Amazon 
+**Storage** | [Samsung - 850 EVO-Series 250GB 2.5" Solid State Drive](https://pcpartpicker.com/product/3kL7YJ/samsung-internal-hard-drive-mz75e250bam) | $99.99 @ Samsung 
+**Storage** | [Seagate - BarraCuda 1TB 3.5" 7200RPM Internal Hard Drive](https://pcpartpicker.com/product/44Gj4D/seagate-barracuda-1tb-35-7200rpm-internal-hard-drive-st1000dm010) | $44.18 @ OutletPC 
+**Video Card** | [Asus - Radeon RX 580 8GB DUAL Video Card](https://pcpartpicker.com/product/jkFXsY/asus-radeon-rx-580-8gb-dual-video-card-dual-rx580-o8g) | $339.99 @ Newegg 
+**Power Supply** | [SeaSonic - FOCUS Plus Gold 550W 80+ Gold Certified Fully-Modular ATX Power Supply](https://pcpartpicker.com/product/bkp323/seasonic-focus-plus-gold-550w-80-gold-certified-fully-modular-atx-power-supply-ssr-550fx) | $54.99 @ Newegg 
+ | *Prices include shipping, taxes, rebates, and discounts* |
+ | Total (before mail-in rebates) | $1081.91
+ | Mail-in rebates | -$65.00
+ | **Total** | **$1016.91**
+ | Generated by [PCPartPicker](http://pcpartpicker.com) 2018-04-26 19:32 EDT-0400 |
+Go in accounts and  then in the key icon lol
+Did you try turning up the mic boost?
+I was talking more about the i9s but Threadripper is 720 for a 16 core which is a very good deal
+I think it's a bit expensive for what it is but it seems to be pretty much the going price for these. Is it a 2 or 4GB?
+Okay then I'd try cleaning it with alcohol and see if it comes off.
+Is your CPU fan running?
+I don't thing there's really much treatment going on, but was the CPU 's box still sealed?
+RAID 5 is very slow especially on motherboards. And RAID doesn't replace backups.
+
+Get one big HDD (like a 10TB or something) and buy an online backup solution instead of dealing with RAID.
+Yeah, that's for the chipset or GPU that's next to the CPU
+Yeah if you have a Micro Center local then it's pretty much always a better option
+Well you sell the used PC whole or you part it out. 
+
+Why RAID?
+I LOVE watching my movies and shit in 60 FPS. I even bought a piece of software to do real time frame interpolation.
+lol yeah I see. I do IT and some of our techs go out on stupid jobs at 100$ an hour for doing shit like filling up printers or running a damn speedtest
+Press the Reddit logo at the top of the list to get the code.
+
+I'd still get the 8700K as else resale value isn't going to be very high and really it's pretty stupid to not get the K. 
+
+I did find ASRock's card on Amazon but it's 150$.
+
+The Samsung SSD is much faster, for a system in that price range I'd get it. 
+
+What do you intend to use RAID for anyways? The built in RAID controller is fine for most stuff but there's almost always better options
+
+Use PCPartPicker, and if you're on that tight of a budget don't waste your cash on the most expensive shit you can find
+Ah, that sucks.
+I'd suggest this for the PC
+
+[PCPartPicker part list](https://pcpartpicker.com/list/wJyVcY) / [Price breakdown by merchant](https://pcpartpicker.com/list/wJyVcY/by_merchant/)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [Intel - Core i7-8700K 3.7GHz 6-Core Processor](https://pcpartpicker.com/product/sxDzK8/intel-core-i7-8700k-37ghz-6-core-processor-bx80684i78700k) | $339.89 @ OutletPC 
+**CPU Cooler** | [CRYORIG - H7 49.0 CFM CPU Cooler](https://pcpartpicker.com/product/93Crxr/cryorig-cpu-cooler-h7) | $34.89 @ OutletPC 
+**Motherboard** | [Asus - Prime Z370-A ATX LGA1151 Motherboard](https://pcpartpicker.com/product/3MJkcf/asus-prime-z370-a-atx-lga1151-motherboard-prime-z370-a) | $139.99 @ Newegg 
+**Memory** | [G.Skill - Ripjaws V Series 16GB (2 x 8GB) DDR4-3000 Memory](https://pcpartpicker.com/product/LhgPxr/gskill-memory-f43000c15d16gvrb) | $179.99 @ Newegg 
+**Storage** | [Samsung - 960 EVO 500GB M.2-2280 Solid State Drive](https://pcpartpicker.com/product/Ykbkcf/samsung-960-evo-500gb-m2-2280-solid-state-drive-mz-v6e500) | $199.89 @ OutletPC 
+**Storage** | [Hitachi - Ultrastar 7K3000 3TB 3.5" 7200RPM Internal Hard Drive](https://pcpartpicker.com/product/Cs4gXL/hitachi-internal-hard-drive-hua723030ala640) | $58.30 @ Amazon 
+**Storage** | [Hitachi - Ultrastar 7K3000 3TB 3.5" 7200RPM Internal Hard Drive](https://pcpartpicker.com/product/Cs4gXL/hitachi-internal-hard-drive-hua723030ala640) | $58.30 @ Amazon 
+**Video Card** | [EVGA - GeForce GTX 1070 Ti 8GB FTW ULTRA SILENT GAMING Video Card](https://pcpartpicker.com/product/Z6BTwP/evga-geforce-gtx-1070-ti-8gb-ftw-ultra-silent-gaming-video-card-08g-p4-6678-kr) | $509.99 @ Amazon 
+**Case** | [Rosewill - B2 SPIRIT ATX Full Tower Case](https://pcpartpicker.com/product/r298TW/rosewill-b2-spirit-atx-full-tower-case-b2-spirit) | $169.99 @ Amazon 
+**Power Supply** | [EVGA - SuperNOVA G3 650W 80+ Gold Certified Fully-Modular ATX Power Supply](https://pcpartpicker.com/product/y88H99/evga-supernova-g3-650w-80-gold-certified-fully-modular-atx-power-supply-220-g3-0650) | $73.98 @ Newegg 
+**Optical Drive** | [Pioneer - BDR-211UBK Blu-Ray/DVD/CD Writer](https://pcpartpicker.com/product/32s8TW/pioneer-bdr-211ubk-blu-raydvdcd-writer-bdr-211ubk) | $114.03 @ OutletPC 
+**Operating System** | [Microsoft - Windows 10 Pro OEM 64-bit](https://pcpartpicker.com/product/MfH48d/microsoft-os-fqc08930) | $128.89 @ OutletPC 
+ | *Prices include shipping, taxes, rebates, and discounts* |
+ | Total (before mail-in rebates) | $2048.13
+ | Mail-in rebates | -$40.00
+ | **Total** | **$2008.13**
+ | Generated by [PCPartPicker](http://pcpartpicker.com) 2018-04-26 18:33 EDT-0400 |
+
+As far as 4K content goes, I'd get a 4K Smart Blu Ray player and go with that. Dealing with your PC when you want to watch a movie isn't fun, and you'll need to buy proper software (probably powerDVD).
+
+SGX is supported on Intel CPUs starting from 6th gen so you're good.
+
+If you want Thunderbolt, you'll need to get [this card.](https://www.ebay.com/itm/ASUS-Original-ThunderboltEX-3-PCI-Express-Expansion-Card-/201990435143?_trksid=p2349526.m4383.l4275.c1)
+
+As for RAID, get a RAID card or get another server machine as networked storage
+lol, I don't believe in ghosts but I guess it could be possible. But probably not. Was it billable each time?
+Yeah that's why I suggested using Imgur. If you're on mobile and you don't want to install the app, you'll need to tell your mobile browser to use the desktop version of the site and then you'll be able to upload images
+That's a server, it was never intended to be used as a standard desktop PC. There's nothing standard in these machines.
+Okay. It's not really a cheap PSU so it's probably a defect in the cable somewhere. I'd return it
+With MIR it's a very good case for the price and pretty much the cheapest mATX case available. The front panel will need some trial and error (try googling around) but it should be doable. Audio should be standard.
+Try using UNetBootin instead and see if that works
+You probably have no GPU. You'll want at least a 1050
+Okay then anything 8th gen i5 or i7 will beat it. If he doesn't need too much graphical horsepower he probably can get away with a 1050 if that has enough display outputs or a 1060. If he uses any pro apps like SolidWorks or AutoCAD you might want to go to a Quadro or Radeon Pro WX.
+
+If he needs more power than his Mac then you might want to look at desktop Ryzen such as the 2700 or Ryzen Threadripper, or i9 but you'll bust your budget for sure
+go in a store and try it out
+Use the boot menu, and did you use the Media Creation Tool from Microsoft?
+Did you update the BIOS?
+Alright then. Do you know what kind of Mac he's got?
+Okay but what do these have anything to do with whatever file crunching is
+https://pcpartpicker.com/product/CdndnQ/cooler-master-masterbox-lite-31-tg-microatx-mid-tower-case-mcw-l3s3-kgnn-00
+Well yeah probably? 
+What is the software? 
+Do the individual cells have anything written on them?
+Should be, SLA batteries are pretty solid and 3 ft isn't that high
+Hmm, so it's a stupid technology added in Windows 10 then. 
+
+Since that's only on the currently more expensive NVMe drives then why wouldn't you get one that already has cache built in instead of getting something that's just not as good
+Can you get a picture (on imgur)?
+From a good quality PSU no. This is a Platinum unit so I wouldn't bother replacing it, it's just wasting money.
+What's the PSU? Any extensions or custom cable on there?
+not how that works
+there's definitely thermal compound on there
+Sounds like the motherboard might be on it's way out. 
+Check how much these macs sell used and how much your iPad sells used, and check how much that config goes for on Dell's site
+what model is it?
+sounds legit
+Smell it too, if it smells burnt then it's bad. I'd get it test driven by a transmission shop, Honda trannys aren't the best.
+Wait until 1803 comes out and wipe the whole thing. The stock HP install is full of shit anyways
+I have a D850 on Telus and it works fine. i think Rogers pretty much has the same frequencies so it's good. Just make sure you know the correct board model if you wanna do custom ROMs or something
+I've never done it but from the videos I've seen SMD work isn't that difficult
+How fucking stupid do you have to be to put old dead batteries in something that obviously needs fresh ones to work
+Yeah it does work when you remove all apps lol
+Yeah I see. I'll keep looking then! Sucks as the car drove quite well
+The adapter, it should still be detected even without a controller hooked up to it
+Yeah okay. I suspect it might be dying, if it happens again try to play with the USB cable a bit and see if that changes anything
+Okay. Did you check in device manager too?
+Can you try it on another PC?
+With a GPU? Yeah
+They turned down the heat lol
+shows how much Intel has been sitting on ass for the past decade
+Go in Windows' USB controllers thing and recalibrate it. You can find the utility by typing USB in the search
+Might as well consider it as standard maintenance on Subarus
+No it's priced as a working car. So it's not really repairable and it's just better to replace the engine?
+On iOS you can pretty much always restore without issues which removes all traces (if you don't restore a backup of course)
+That was like a decade ago lol
+Hm, so that's fairly bad. Is it an "easy-ish" repair on these Toyotas?
+I think you need to contact Casio. They're 29$ each tho so I'd go for the "cheapy".
+good catch lol
+You said motherfucker, you're now banned from MP
+Yeah but the USB things aren't heating up as much as that headset
+But Windows already comes with sysprep and that's what I used on 7. On 10 it refuses to work at all
+How do you sysprep on Win10 tho? Do you HAVE to go thru the audit mode or can it be done on an existing install?
+270$ is pretty much the cost of a complete WMR kit shipped and taxed lol
+And? There's still no point in having 32GBs of RAM in a 650$ laptop
+If device manager doesn't detect it I'd say the onboard ethernet is dead. Return the board and get another one
+You'll need at least a 5W adapter. 5V 1A.
+Playing minecraft isn't resource intensive, it doesn't need 16GB RAM, the CPU sucks, there's no dedicated GPU and upgrading RAM will do pretty much nothing to the performance
+Yeah but there's no point
+Yeah but there's no point on an i3 7100U.
+Probably not
+Looks like the pad is burnt or torn off. It's probably going to work fine
+Yeah it's an 8 core but if you have to ask then no you won't notice it
+He got completely the wrong kind of motherboard, and it probably requires a BIOS update for that CPU to work in it.
+I wouldn't, sounds like a great idea to wear it out faster judging by the amount of wasted heat that comes out of there
+willy
+Yeah I see. I had a chinese 2$ thing and it works fine for one controller lol
+Yeah they're not prebuilts they're more custom PCs
+Lol yeah, at least you tried. For the price I can't complain either. Does your PC support Bluetooth? That was an issue I had so I got a more reputable adapter as I was only able to use one controller at a time
+Yeah it's not something really critical so I can understand why
+Might be long but it's worth it! Good luck!
+Cool! Let us know!
+Sounds good!
+I still think that starting and having a successful side business is the way to go. And "forgetting" to declare some of that income helps massively
+Can confirm, am 18 and soon will have 3500$ of dental work, and I'm the one payin it
+Yeah that would probably work. The cameras are black and white so they don't need to see color or anything. I'd test with my IR flashlight but I have no idea where that's at...
+probably accidental damage, and Apple are kinda dicks so they'll find a reason to not cover it
+lol that's totally just a velociraptor heatsink repurposed for no reason
+The main difference between this and the odyssey is that the samsung has a mechanical IPD adjustment. For me I don't think it really matters. On mine, I swapped the front and back pads as that should bring the headset closer to the face. I also unstuck the sides and brought them closer to the inside a bit to prevent light leakage.
+
+I've already burnt thru the included batteries on one controller, but I have some rechargeables (get some!). SteamVR games do work well. I had a great  time in The Lab.
+Be careful when people are buying bags and buckets and containers, things that can hold other things. 
+
+aaaand that's pretty much it? 
+Yes.
+I used Lucas trans fix in my 99 RL and I don't think it did anything really. Sounds like OP's transmission is way too far gone for that to do anything tho
+Damn. Just to be clear it is an electronic odometer
+Anything modern lol
+
+[PCPartPicker part list](https://pcpartpicker.com/list/KzkLP3) / [Price breakdown by merchant](https://pcpartpicker.com/list/KzkLP3/by_merchant/)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [AMD - Ryzen 5 2600 3.4GHz 6-Core Processor](https://pcpartpicker.com/product/jLF48d/amd-ryzen-5-2600-34ghz-6-core-processor-yd2600bbafbox) | $198.97 @ Newegg Business 
+**Motherboard** | [MSI - B350 TOMAHAWK ATX AM4 Motherboard](https://pcpartpicker.com/product/Y4kwrH/msi-b350-tomahawk-atx-am4-motherboard-b350-tomahawk) | $64.89 @ OutletPC 
+**Memory** | [G.Skill - Ripjaws V Series 16GB (2 x 8GB) DDR4-3000 Memory](https://pcpartpicker.com/product/LhgPxr/gskill-memory-f43000c15d16gvrb) | $162.89 @ OutletPC 
+**Storage** | [SanDisk - SSD PLUS 240GB 2.5" Solid State Drive](https://pcpartpicker.com/product/8jH48d/sandisk-ssd-plus-240gb-25-solid-state-drive-sdssda-240g-g26) | $69.89 @ OutletPC 
+**Storage** | [Seagate - Barracuda 2TB 3.5" 7200RPM Internal Hard Drive](https://pcpartpicker.com/product/CbL7YJ/seagate-barracuda-2tb-35-7200rpm-internal-hard-drive-st2000dm006) | $59.79 @ OutletPC 
+**Video Card** | [EVGA - GeForce GTX 1060 6GB 6GB GAMING Video Card](https://pcpartpicker.com/product/pbL7YJ/evga-geforce-gtx-1060-6gb-gaming-video-card-06g-p4-6161-kr) | $294.88 @ OutletPC 
+**Case** | [NZXT - S340 (Black) ATX Mid Tower Case](https://pcpartpicker.com/product/ms6BD3/nzxt-case-cas340wb1) | $54.99 @ Newegg 
+**Power Supply** | [EVGA - SuperNOVA G3 550W 80+ Gold Certified Fully-Modular ATX Power Supply](https://pcpartpicker.com/product/sMM323/evga-supernova-g3-550w-80-gold-certified-fully-modular-atx-power-supply-220-g3-0550) | $49.99 @ Newegg 
+**Operating System** | [Microsoft - Windows 10 Home OEM 64-bit](https://pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $89.89 @ OutletPC 
+ | *Prices include shipping, taxes, rebates, and discounts* |
+ | Total (before mail-in rebates) | $1111.18
+ | Mail-in rebates | -$65.00
+ | **Total** | **$1046.18**
+ | Generated by [PCPartPicker](http://pcpartpicker.com) 2018-04-23 21:19 EDT-0400 |
+no but that build is a piece of shit
+It's a garbage case that's extremely ugly
+Yeah but they're much more expensive for no real reason
+
+https://pcpartpicker.com/product/yqBTwP/
+
+or go Z370 at that point
+
+https://pcpartpicker.com/product/V9WfrH/
+I'm guessing caffeine overdose, but I'm not sure if that's possible. I don't think it would taste good tho
+I'd reinstall Windows and see if that does it
+No it's no longer relevant but here's an equivalent current gen one
+
+[PCPartPicker part list](https://pcpartpicker.com/list/xzf7XP) / [Price breakdown by merchant](https://pcpartpicker.com/list/xzf7XP/by_merchant/)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [AMD - Ryzen 5 2400G 3.6GHz Quad-Core Processor](https://pcpartpicker.com/product/FGPKHx/amd-ryzen-5-2400g-36ghz-quad-core-processor-yd2400c5fbbox) | $162.79 @ OutletPC 
+**Motherboard** | [MSI - B350 TOMAHAWK ATX AM4 Motherboard](https://pcpartpicker.com/product/Y4kwrH/msi-b350-tomahawk-atx-am4-motherboard-b350-tomahawk) | $64.89 @ OutletPC 
+**Storage** | [SanDisk - SSD PLUS 240GB 2.5" Solid State Drive](https://pcpartpicker.com/product/8jH48d/sandisk-ssd-plus-240gb-25-solid-state-drive-sdssda-240g-g26) | $69.89 @ OutletPC 
+**Storage** | [Western Digital - Caviar Blue 1TB 3.5" 7200RPM Internal Hard Drive](https://pcpartpicker.com/product/MwW9TW/western-digital-internal-hard-drive-wd10ezex) | $43.85 @ OutletPC 
+**Case** | [NZXT - S340 (Black) ATX Mid Tower Case](https://pcpartpicker.com/product/ms6BD3/nzxt-case-cas340wb1) | $54.99 @ Newegg 
+**Power Supply** | [Corsair - CX (2017) 450W 80+ Bronze Certified ATX Power Supply](https://pcpartpicker.com/product/Q7L7YJ/corsair-cx-2017-450w-80-bronze-certified-atx-power-supply-cp-9020120-na) | $23.98 @ Newegg 
+**Operating System** | [Microsoft - Windows 10 Home OEM 64-bit](https://pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $89.89 @ OutletPC 
+ | *Prices include shipping, taxes, rebates, and discounts* |
+ | Total (before mail-in rebates) | $575.28
+ | Mail-in rebates | -$65.00
+ | **Total** | **$510.28**
+ | Generated by [PCPartPicker](http://pcpartpicker.com) 2018-04-23 20:41 EDT-0400 |
+The 2600 for sure
+Okay yeah then that's good. It's probably your other software that was reporting the VRAM wrong.
+
+Check while gaming the CPU and GPU usage and see if the GPU usage drops, and check the CPU usage if it's in the 90s
+Those are good but they're extremely expensive boards for what they are.
+
+I'd probably get something a bit cheaper like this https://pcpartpicker.com/product/PgQG3C/ 
+
+or for a more expensive board go for a Z370 as it's in that price range
+Yeah the LX non USB 3 is 95 W only
+Hmm okay. It might be whatever software you're using that's reporting wrong. Can you run GPU Z and screenshot that?
+If you're going for a non K CPU go for an H310 or B360 board, no real need to go fancy
+PM me an offer and I'll check how much shipping is
+Well then I dunno lol. You sure you got the model right? ASUS board models are all similar but they're very different
+Go Ryzen or 8th gen.
+It says 2GB and yeah I'd be concerned. Can you link the product page or screenshot the receipt with the numbers obscured?
+The other day I saw a guy with a similarly crappy board and he had a 9590 in there. 
+
+That board supports 125W CPUs natively and your CPU is supported since the first BIOS release
+Get both
+...the 1600? or don't and get a 2600?
+looks like you have a fakeass 1060, where'd you get it
+It's a Lenovo.
+Yep! It's an i7 920 with a 212 EVO for overclocking (but I also have the stock cooler which is fine for stock), a Radeon HD 2900 PRO, and I think 9GBs of triple channel RAM, some Antec case, a Cooler Master 850W 80+ PSU, your choice of storage and it comes with keys for XP Pro and 7/10 Pro
+I have a whole system lol
+I have an ASUS P6T, which is full ATX
+ATX is like "okay let's power up"
+
+ AT is like "OH SHIT POWER"
+
+ or something
+There's a big mirror right in front of my PC lol, but it still seems to work fine. I'll wait for the stable version to roll out as it works fine for now (and 1709 was a disaster lol)
+So far my CASIO WSD F20 is still intact. I never take it off or otherwise be careful with it as I treat it like a standard Casio. Also it doesn't look stupid like most smartwatches.
+
+It's out of budget tho but you might be able to find the last gen one for cheaper used
+My tracking is excellent on 1709, I don't know why so many people have issues
+My onboard USB 3 has Microsoft drivers and it doesn't work. I already had a PCIe USB 3 card tho and that works fine
+Odyssey is the most expensive WMR headset too so it makes sense
+I'd try enabling the onboard graphics in the BIOS and see if it still does it with that. Another PC would be the best but if the onboard GPU still does it then I think it's DOA
+They never carried any parts, they don't even repair em, you need to go to a third party shop because Apple knows fuck all about their own products
+You made the dog into a carpet?!
+Looks like a dead GPU! We got a winner!
+You can try without wiping but if it doesn't work then be prepared to wipe.
+I have a 4GB 470 and it's fine in VR (Lenovo Explorer, higher res than Vive and Rift)
+No I was just curious
+Yeah for sure. I pulled out a laptop from the trash and it's like a 300$ thing. Made it so there was no moving parts and I get like 5:30 hours web browsing and streaming. Recent Intel CPUs are just so much better than this
+My LG TV from 2005 has a CableCard slot built-in. Perhaps you can find something with an older LG TV?
+Ah I see then.
+What happened to your job?
+It's much slower really
+Yep, it is. If you want to keep it for longer without going for a new board then AMD might be better
+How's this?
+
+[PCPartPicker part list](https://pcpartpicker.com/list/Gbs6RJ) / [Price breakdown by merchant](https://pcpartpicker.com/list/Gbs6RJ/by_merchant/)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [Intel - Core i5-8500 3GHz 6-Core Processor](https://pcpartpicker.com/product/kFKcCJ/intel-core-i5-8500-3ghz-6-core-processor-bx80684i58500) | $186.37 @ Amazon 
+**Motherboard** | [MSI - H310M PRO-VD Micro ATX LGA1151 Motherboard](https://pcpartpicker.com/product/gPgzK8/msi-h310m-pro-vd-micro-atx-lga1151-motherboard-h310m-pro-vd) | $57.99 @ SuperBiiz 
+**Memory** | [ADATA - XPG GAMMIX D10 16GB (2 x 8GB) DDR4-2666 Memory](https://pcpartpicker.com/product/jFTPxr/adata-xpg-gammix-d10-16gb-2-x-8gb-ddr4-2666-memory-ax4u266638g16-drg) | $157.99 @ Newegg 
+**Storage** | [SanDisk - SSD PLUS 240GB 2.5" Solid State Drive](https://pcpartpicker.com/product/8jH48d/sandisk-ssd-plus-240gb-25-solid-state-drive-sdssda-240g-g26) | $69.89 @ OutletPC 
+**Storage** | [Western Digital - Caviar Blue 1TB 3.5" 7200RPM Internal Hard Drive](https://pcpartpicker.com/product/MwW9TW/western-digital-internal-hard-drive-wd10ezex) | $43.85 @ OutletPC 
+**Video Card** | [Gigabyte - GeForce GTX 1070 8GB Windforce OC Video Card](https://pcpartpicker.com/product/4XyxFT/gigabyte-geforce-gtx-1070-8gb-windforce-oc-video-card-gv-n1070wf2oc-8gd) | $484.98 @ Newegg 
+**Case** | [NZXT - S340 (White) ATX Mid Tower Case](https://pcpartpicker.com/product/Vpdqqs/nzxt-case-cas340ww1) | $49.99 @ Newegg 
+**Power Supply** | [EVGA - SuperNOVA G3 550W 80+ Gold Certified Fully-Modular ATX Power Supply](https://pcpartpicker.com/product/sMM323/evga-supernova-g3-550w-80-gold-certified-fully-modular-atx-power-supply-220-g3-0550) | $49.99 @ Newegg 
+ | *Prices include shipping, taxes, rebates, and discounts* |
+ | Total (before mail-in rebates) | $1141.05
+ | Mail-in rebates | -$40.00
+ | **Total** | **$1101.05**
+ | Generated by [PCPartPicker](http://pcpartpicker.com) 2018-04-22 23:24 EDT-0400 |
+Yeah then in that case a CPU upgrade would probably be a pretty big improvement. 
+I'd definitely replace the PSU, but if the case and HDD are fine then you can keep em. I'd open up CrystalDiskInfo and if that says good then it should be good.
+
+[PCPartPicker part list](https://pcpartpicker.com/list/bQCBZR) / [Price breakdown by merchant](https://pcpartpicker.com/list/bQCBZR/by_merchant/)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [AMD - Ryzen 5 2400G 3.6GHz Quad-Core Processor](https://pcpartpicker.com/product/FGPKHx/amd-ryzen-5-2400g-36ghz-quad-core-processor-yd2400c5fbbox) | $160.81 @ OutletPC 
+**Motherboard** | [MSI - B350M GAMING PRO Micro ATX AM4 Motherboard](https://pcpartpicker.com/product/TsfmP6/msi-b350m-gaming-pro-micro-atx-am4-motherboard-b350m-gaming-pro) | $60.88 @ OutletPC 
+**Memory** | [ADATA - XPG GAMMIX D10 8GB (2 x 4GB) DDR4-3000 Memory](https://pcpartpicker.com/product/VC8j4D/adata-xpg-gammix-d10-8gb-2-x-4gb-ddr4-3000-memory-ax4u3000w4g16-dbg) | $85.99 @ Newegg 
+**Storage** | [ADATA - Ultimate SU800 128GB 2.5" Solid State Drive](https://pcpartpicker.com/product/mPgPxr/a-data-ultimate-su800-128gb-25-solid-state-drive-asu800ss-128gt-c) | $40.99 @ Amazon 
+**Storage** | [Western Digital - Caviar Blue 1TB 3.5" 7200RPM Internal Hard Drive](https://pcpartpicker.com/product/MwW9TW/western-digital-internal-hard-drive-wd10ezex) | $43.85 @ OutletPC 
+**Case** | [Thermaltake - Versa H21 Window ATX Mid Tower Case](https://pcpartpicker.com/product/bqxfrH/thermaltake-case-ca1b200m1wn00) | $14.99 @ Newegg 
+**Power Supply** | [Corsair - CX (2017) 450W 80+ Bronze Certified ATX Power Supply](https://pcpartpicker.com/product/Q7L7YJ/corsair-cx-2017-450w-80-bronze-certified-atx-power-supply-cp-9020120-na) | $23.98 @ Newegg 
+ | *Prices include shipping, taxes, rebates, and discounts* |
+ | Total (before mail-in rebates) | $491.49
+ | Mail-in rebates | -$60.00
+ | **Total** | **$431.49**
+ | Generated by [PCPartPicker](http://pcpartpicker.com) 2018-04-22 23:19 EDT-0400 |
+Check CPU and GPU utilisation. If the CPU is in the 90s then it would make a difference, if not then not really. If GPU utilisation drops below 99% then it would also probably make a difference
+I don't think Antec makes anything anymore unfortunately, and they don't seem to have anything on sale with a built in PSU
+I wouldn't, I don't think there's any modern case with a decent PSU anymore.
+A 1070 Ti is closer to a 1080 than a 1070
+Yeah, productivity and streaming while gaming. However they're pretty equal when it comes to an 8700 and an R7 2700
+Ah okay I see. I'd probably get this one, and the X470 chipset may give you some extra features or something lol. It's pretty expensive but I haven't found a cheaper board with AC Wave 2 so I don't know if you care about that. If you're only gaming on a standard router there's definitely cheaper options tho
+
+https://pcpartpicker.com/product/zytQzy/gigabyte-x470-aorus-gaming-5-wifi-atx-am4-motherboard-x470-aorus-gaming-5-wifi
+Well single core performance is what dictates the multicore performance, and most games still benefit from good single core performance which is still why Intel is better than AMD in most games even tho AMD has more cores
+Why aren't you going with a 2600? And I'd probably get a 1070 Ti to save money
+Sounds like he has a PhD in bullshittery
+Which power cable?
+Yeah 1070 or 1070 Ti (performs like a 1080)
+BmanUltima explained it quite well, and the truth is they suck
+Thermal cameras aren't cheap and they're not meant to be cheap. The cheapest you're gonna get is a cellphone thing and they start at 250$
+The downside is that they suck lol. An SSD is much better
+Most laptops aren't as bad, but this one is especially crappy since it uses a standard desktop CPU which was never intended to run on battery
+Even when the battery dies there's still the clock on it so it's not useless lol
+Sounds like OP only wants to run a modern OS on there which it obviously can do
+Tried a lubricant? And if it won't budge you should try torching it
+And? What's wrong with a core 2 duo as a file server?
+I've accidentally smashed my controller against a wood shelf and it hurt pretty bad but the controller is fine. Top is scratched but it's going to get scratched if you leave it on it's ring all the time
+Sounds like a bug in your beta Windows build instead of a hardware issue
+It's mainly missing overclocking, and it's an overall cheaper design. If you're not going to overclock it won't change anything
+Well the engine being the same means the service is pretty much the same, but I found the US one but it's in a PDF and it seems more complete than the easy to use Canadian site.
+
+https://www.toyota.com/t3Portal/document/omms-s/T-MMS-11Tacoma/pdf/T-MMS-11Tacoma.pdf
+Yeah it's the same engine lol
+I'd never buy anything Land Rover as they're well known for being pieces of shit but it's up to you
+Couldn't find a maintenance schedule for US Toyotas but in Canada it's specced at 5000 miles.
+
+https://www.toyota.ca/toyota/en/my-toyota/maintenance-schedule
+According to previous posts, it's an 07 Mazda Speed 3.
+
+It might be easier to know what it is if you know what's aftermarket on the car
+Because you're putting a ton of sharp force in there and a breaker bar is smoother force. If that makes sense. In many cases a breaker bar with a long enough handle is much more powerful than an impact
+It's a great laptop, but you've got an hour of battery life on there and not much more.
+Not my point. The point is that a file server doesn't need much horsepower to run.
+Well you'll need a new PC and I don't see the point
+Your HDD is backwards, and the SSD goes in the middle holes on the bracket.
+It should be good enough. Did you check GPU and CPU temps and utilisation?
+I don't think I'd remove any value on a card even if it's been mined with, especially if it was undervolted
+If it stripped isn't it more likely that it was too strong? A breaker bar would've probably been safer tho
+I meant office 2010 or newer. if it's 2013 it wont work
+Get the codes and you'll know.
+Ah I see. That sucks in a way because you won't be able to do overclocking on there (setFSB lol?)
+Yeah, a 390 is equal to a 6GB 1060
+lol how the hell did you get a 1366 board for 10$
+Yeah, it's just a much better board than yours. I'd keep yours as a backup if everything fails tho
+LGA 1366 boards are usually pretty expensive. And no, it's not good, first gen i7s are fucking garbage. Get an i3
+Yeah,  I don't know anything about music making either but from the Audacity I've used it doesn't really need anything that powerful.
+ProduKey doesn't work on anything newer than 2010
+They're... pretty equal. The Cyberpower one is technically a lil bit better, but it's more expensive and open box. I also trust Dell more than CyberpowerPC lol
+Yeah, unless you're using RAID. 
+It's not as bad but it's still going. The cheapest 1070 Ti on PcPartPicker is 535$, but for the whole system I don't think 800 is really a bad deal, but then again I wouldn't get that CPU and that GPU. If the system doesn't include a hard drive either then I wonder what the point really is?
+...lol? Linux is the go-to OS for people with shitty PCs and it's a file server dude. My file server is a Core 2 Quad and it's way more powerful than necessary for a damn file server
+...eh? Looks like it was built by an idiot that doesn't know how to build a PC. I wouldn't pair a 1200 with a 1070 Ti that's for sure
+Because they're the only one with the MIR and the other guy is the same price
+I know Dell has quite a few all AMD systems, and so does AMD. However Nvidia and Intel are scummy and they do more advertising at the retailer level
+What's the system anyways?
+Because MIRs suck. 
+Then I'd get this, it's an excellent motherboard
+
+https://uk.pcpartpicker.com/product/tBZ2FT/
+It's equal or better depending on the router
+Yeah they're essentially the same gen. I'd use the new board tho as you can overclock and it's overall better. If you want to use your old motherboard then you may need a BIOS update but that's it
+Prebuilts use way more Nvidias and Intels that's for sure. Usually most AMD systems I see are cheapass laptops with crappy APUs or cheap ass desktops with APUs that belong in a craptop at best. OEMs do have Ryzen and AMD GPU options tho
+Probably a driver crash for some reason. If it happens only once then I wouldn't worry about it
+I dunno, you want overclocking? Full ATX? Budget?
+Some ISP techs are nice. When I got my fiber installed here in Canada the guy left me a router that didn't boot (but was fine after a reset) and a nice 25ft Belden Ethernet cable. And the guy was nice too
+According to Steam, 10% of Steam users use an AMD GPU, 82% uses Nvidias, and the rest is on Intel or something else.
+
+The most popular GPUs are the 1060, 1050 Tis and 960s. 
+On their website, they include a 90W USB C power adapter, but they also say that it can power share up to 60W to the laptop which would only leave 30W power to the GPU, which is half of the total 60W board power that's stated for a mobile MXM 1050
+Ah okay yeah I see. I didn't check their page but they do use the Nvidia VR ready badge. These guys are in Montreal so part of me wants to go visit them or something lol.
+
+But even on Nvidia's website, the lowest supported GPU they support is the 1060 so even then that doesn't make sense.
+
+ninjaedit: on their website, they include a 90W USB C power adapter so it makes sense.
+RAM has really nothing to do with performance, but the 1060 6 and 3GB are actually different parts with different performance. They're close tho.
+
+A 1050 will run VR easily, it just depends what you're trying to do. According to Microsoft, their Mixed Reality platform will run on Intel HD 620 graphics which are way slower than anything current from Nvidia
+get a headset that's for computers and not for phones
+Probably not. RMA it.
+Not really lol, I don't use tilt to wake as it's useless, and I use it mainly to check notifications and I answer mainly on my phone
+I'd try using DISM to remove any pending updates,  and try again.
+That's fucking insane and total bullshit. It costs literally nothing to PayPal to send money to another email address
+It probably tasted more like fruit punch Hawaiian Punch but whatever
+Nice lol
+Does the speedo stilk work fine?
+Probably oil
+Return and get another model lol
+No it was the 2nd top comment when I checked
+You sure your laptop isn't just broken? I'd think about returning it if it's that unstable
+Where I'm at weed is so cheap it doesn't really change anything lol
+update the BIOS if you haven't already
+And maybe GPUs in the future apparently
+The intel stock coolers would be fine if they were soldered lol
+Comment is so high up I didn't even need a link
+Based on it's condition I'd value it at about a cent
+Now that's cool! I'm guessing that lag is pretty much undetectable?
+I think the new WD 16TB ones can do 250MB/s reads or something
+noahboddy likes Malört.
+Yeah that's pretty common for PCs that didn't come with Windows 10
+chuck that thing right in the garbage lol, upgrading it is a waste of time and you can't hackintosh APUs anyways
+Well yeah they'll make a Ryzen APU which is essentially the same thing
+They didn't do anything with AMD, they did it with Radeon Technologies Group
+Shipping isn't that expensive. I can get a laptop shipped in a week from the USA for 15$.
+Yeah you can replace the panel but you need to find a panel 
+that's actually a semi common LPT, get in the class and see if the teacher uses it at all because it's apparently fairly common for teachers to not use the book
+As a Canadian, I find this very weird. Here we've had chips for over a decade and the only time the magnetic strip comes in handy is when you go to the states lol
+They do say using enterprise HBAs and business critical, nothing about the home gamer in there
+Yeah their shipping fee is a joke to get you to buy more shit at the cart which is why they're so pushy. Fuck em.
+
+Ensourced probably does the same quality or better cables, they're all custom cable makers at the end of the day
+well the 2200g, you don't really have much of a choice
+an APU/using integrated graphics is the only time that dual channel RAM actually makes a big difference on performance so I'd keep it or buy a 4 slot motherboard, they're not that much more expensive
+
+also don't get the AB350M Pro4, it's garbage
+get a ryzen APU now, these CPUs are fucking garbage
+probably
+Yeah it should work. Try putting in the key at the installer and see if that works
+Somewhere in between the 3 and 6GB 1060
+Not really, stick the file on a FAT 32 USB drive and update it in the BIOS and that's it
+It's a wireless headset. You can't get a soundcard on it
+Well I overclocked my 750 to factory overclocked 750 Ti levels so...
+1. find one of the size you need
+2. buy it­.
+used is the way to go. You can get great deals if you're lucky, I got a 3570k, good board and 16GB RAM for 150$
+What was the other PSU?
+Yeah well I'd still consider updating it as these kinds of weird issues can be solved by BIOS updates. As far as other things go, it could be the board but you won't know until you try it really
+Yeah it's just a standard fan header renamed
+I didn't know that things left outside get dusty
+Tape off the wires individually and you're good
+Make the CPU cooler blow towards the back exhaust? Wtf kind of setup is this lol
+should've bought a card that had 4 outputs
+Get a 1050 (ti) and you're good
+last time I ran a game on my laptop with an AMD logo it ran extremely well, perhaps I should try this one too.
+At the same time, in the 70s, who cared about security? What's a computer?
+I sent a bent Intel CPU in recently and had a similar experience. It's the other guys that do motherboards and GPUs that are an issue
+Yeah lol built in backplate on these sockets since they're so massive and Intel doesn't give you a cooler anyways
+Exactly
+First step where you install the backplate
+There's no such thing as a WD Blue NVMe drive
+Manual says that these sockets don't require a backplate.
+Read the manual.
+Turn off fast boot in Windows and see if that fixes it
+Well according to the BSOD it's the GPU, but that doesn't tell much. The best way would be to test with the GPU removed and see if the freezing persists on the onboard graphics, but that's going to be hard to test since they're so infrequent. The PSU probably doesn't have anything to do with it really.
+
+Is the BIOS up to date? Is XMP enabled?
+I'm an IT guy, and you've never seen my desk.
+it's the only way to enjoy the game without being an idiot and paying rockstar lol
+Well the new i9s are not soldered anymore. No idea about the xeons tho
+Yeah but I didn't expect turbo boost to bring the power THAT high lol. Temps were fine tho at 75C on a 212EVO is impressive. Must be that soldered die.
+Seriously, I have a Priv and the first day I had it (a week ago) it was propped up on the floor and it gently slid down on it's face and the screen cracked. 
+
+Meanwhile I use my 9900 as a hammer and it's mostly fine
+lol yeah, I installed a 212 EVO on a 3930K and Core Temp said it used 180W under intel burn test lol... I did not expect that lol especially since TDP is 130W on thatt CPU
+My dad pulls a small trailer with his 1.8 Corolla so I don't think a motorcycle is impossible lol
+Most people don't have the power hog of an overclocked FX chip lol
+500w is fine for a 770
+Do you mean their webstore?
+With Skylake it is possible tho and you can overclock locked CPUs with it
+He is definitely talking about R3 CPUs
+If you don't do anything stupid like changing the extension before flashing (I've done this lol) then it's safe really. Most boards nowadays you have an online download feature right in the BIOS and I think it's really the safest way. 
+
+One click to start the update, then you sit back and be really anxious for 2 minutes while not touching anything until you get to the BIOS desktop
+I'd even go as far to say that I think Thermaltake cases are more name brand than Cooler Master
+Well then take all the keys out and do something lol...
+just because you own a small microwave doesn't mean everyone also has a small microwave
+What does steam say about the disk usage?
+No it's just to decrease the load on the motherboard as it's nowhere near good enough for the CPU you have
+your friend is stupid then, as every CPUs on that platform sucks, and that CPU draws so much power that you need the BEST 250$ boards on the market to get them to work properly.
+
+Underclocking will make it use less power which is what you want. Get a fan on the CPU socket area and it will probably help a ton. If you have a desk fan or something laying around stick that in the side panel of your case and it should help a lot with only that
+your CPU is throttling like crazy, your motherboard sucks and is totally inadequate for the idiotic CPU you have. Underclock and undervolt the CPU until you get down to 8370 levels and you should be good.
+at 500 yeah. CPU itself used is around 150 and GPU is 300 on a good day, RAM is about 80 and the HDD is 50. Excluding around 100$ for a case and PSU
+If it's a membrane keyboard then throw it away and get another one, they're 10$
+There doesn't seem to be anything on the Z side of things yet for some reason, but there's a few B-H series MSi boards that are white
+
+[PCPartPicker part list](https://pcpartpicker.com/list/sNfgw6) / [Price breakdown by merchant](https://pcpartpicker.com/list/sNfgw6/by_merchant/)
+
+Type|Item|Price
+:----|:----|:----
+**Motherboard** | [MSI - B360 GAMING ARCTIC ATX LGA1151 Motherboard](https://pcpartpicker.com/product/L7prxr/msi-b360-gaming-arctic-atx-lga1151-motherboard-b360-gaming-arctic) | $132.64 @ Newegg 
+ | *Prices include shipping, taxes, rebates, and discounts* |
+ | **Total** | **$132.64**
+ | Generated by [PCPartPicker](http://pcpartpicker.com) 2018-04-16 22:20 EDT-0400 |
+Usually what would happen is that the 2x4 and the 1x8 ran as dual channel, not in a sort of half configuration. I've seen some motherboards do this but you'll know when you try it
+neither go 8th gen
+lol no problem
+Well cheapest would be to leave it as is, or you can replace the CPU MB and RAM for like 250$. 
+
+[PCPartPicker part list](https://pcpartpicker.com/list/26Hskd) / [Price breakdown by merchant](https://pcpartpicker.com/list/26Hskd/by_merchant/)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [Intel - Core i3-8100 3.6GHz Quad-Core Processor](https://pcpartpicker.com/product/YqKhP6/intel-core-i3-8100-36ghz-6-core-processor-bx80684i38100) | $113.74 @ OutletPC 
+**Motherboard** | [MSI - H310M PRO-VD Micro ATX LGA1151 Motherboard](https://pcpartpicker.com/product/gPgzK8/msi-h310m-pro-vd-micro-atx-lga1151-motherboard-h310m-pro-vd) | $57.99 @ SuperBiiz 
+**Memory** | [Patriot - Viper Elite 8GB (1 x 8GB) DDR4-2133 Memory](https://pcpartpicker.com/product/ckVBD3/patriot-viper-elite-8gb-1-x-8gb-ddr4-2133-memory-pve48g213c4gy) | $79.99 @ Amazon 
+ | *Prices include shipping, taxes, rebates, and discounts* |
+ | **Total** | **$251.72**
+ | Generated by [PCPartPicker](http://pcpartpicker.com) 2018-04-16 22:07 EDT-0400 |
+
+I'd recommend a new case tho as it will be a pain to get the front panel wiring working
+Bluetooth works via USB so make sure you got that hooked up
+OS X isn't windows 10
+Yeah. They're hard to bend tho so have 2 pliers on hand
+Basically brand new, except the front camera doesn't work. Battery seems fine too. I got it from r/hardwareswap
+Well rule 3 says that it doesn't have to be electronic so that clarifies it a bit lol
+Toilets are a form of technology tho
+Gotta bend it with pliers
+Keep in mind that OS X is designed to run on 100% known hardware, so imaging probably works for real Macs and (very similar) PCs but once you change something then it's probably not gonna work
+Yeah, I paid 75$ shipped for my BlackBerry Priv
+Yeah but it's not really a real time thing unless you pay for it
+only in america lmao
+Windows defender or if you're an idiot that MUST pay for an AV then get NOD32 and don't anything fancier than the regular antivirus
+Do you need to activate cards where you live?
+Why tho?
+sick of people askin where he at ayoooo
+Pretty much, but nowadays you can listen into pretty much anything that's not encrypted for like 10$ (and a PC or cell phone)
+Okay but what do these fancy features actually do? People have been welding aluminum fine for decades no?
+I'm guessing this is about their two way radios?
+Ahhh yeah when you buy a CPU you can get it retail or tray. The tray CPUs don't come with a warranty and cooler but they're like 10$ cheaper lol
+Google your system and get the same speed as what HP specifies
+How did intel refuse it? I literally sent in a bent CPU and they replaced it
+You say you cant afford expensive RAM but you're getting high end 3GHz RAM and you're getting 16gbs of it lol
+Best budget phone of any year is always a used flagship. Fight me.
+Good ol Aussie50
+I did it with my 3570k and 212 evo and it didnt do much difference if any
+bring a laptop u doofus
+the vega or the evga u shill
+I'm pretty sure they dropped all russia today branding and they're now only known as RT
+Thanks for reminding me what to do, I was about to not vote on the guy.
+Your board's charging circuitry is probably blown
+I dunno, just look at the price? Isnt Miele more expensive lol?
+Return it as DOA and tell no one. We never met.
+It is! But last year I got a 3570 with a high end board and 16 GB RAM for 150 cad so yeah
+Calling someone an idiot isnt that bad lol
+No one uses fucking apps.
+You're not supposed to use the year and a half old version either you idiot
+I have it on my car, it's useless
+I have never seen that
+Oh yeah. If you're unsure then it's probably a good idea to have em on
+did you try the smallest size of eartips?
+If when you're done selling then I'd buy your fan stuffs if you want
+sounds like a guy doesn't know how to replace a fucking fan
+Yeah. I think cars with DRLs look better and it's just way safer. It's not like it's hard to implement either since it's pretty much only a software option lol
+Riding in the back of a pickup truck in some states apparently
+They're standard everywhere except the USA pretty much lol
+Crazy americans with no DRLs on their car
+There's probably people before you on the waiting list
+Yeah it's fine but it's pretty stupid as you won't get any overclocking
+check if anything's missing in device manager, if yes then you probably need the all in one one, if not then it's fine
+If you need to ask then it probably doesn't matter what motherboard you get
+lol this is pretty good. stick that on the floor of the shop and let it chooch
+Tried this?
+
+http://www.biostar.com.tw/app/en/support/faq_content.php?S_ID=392
+
+Make sure you're using a USB drive that's formatted as FAT32
+Hard drives are a bit touchy but other than that it's good
+Not really.
+Yeah they're not guaranteed. Heat and power limits might limit it, but I've never seen a CPU not turbo tbh (except in laptops where turbo is disabled when on battery but that's okay)
+If I had children, I'd never let them in a moving vehicle on the highway without seatbelts, even less in the back of a truck's bed.
+It's illegal to not be in a designated seating area in a moving vehicle anywhere where people aren't stupid rednecks that don't care about their fucking children
+Helping someone not kill themselves in the back of a truck isn't bad advice lol
+If it's not illegal then someone's being a dumbass.
+Is the BIOS up to date? If it is then the board or GPU or PSU is probably dying
+How's the bars lol?
+You mean in the bed? There's nothing legal about that lol
+Tried a laptop? Phones and tablets wifis suck, laptops are usually WAY better
+They still end up with 1000s of disks as most companies provide a recovery DVD. These keys are still technically against TOS and I wouldn't buy them, I'd crack Windows instead
+Retailers get their keys on stickers, and stick the stickers on the PCs they build. They're OEM keys that come with the same DVD I mentioned.
+Yes, OEM keys come on stickers with a DVD that come by mail. Not by email.
+That's exactly why they're not legit. Microsoft does not sell keys via email
+me too
+Windows 8 Pro keys will activate fine on Windows 10, but real Windows keys are mailed with a CD. Never by email. If you got it by email then you got scammed.
+For Windows 7 use Windows Loader, it's the easiest to use and the most reliable
+Not piracy but it is very good
+Ive done this with HDDs, as long as they dont move in operation it's fine really
+They got paid at the original purchase
+Well, at the end they still get paid which I guess is better than nothing
+Within a month its gonna dry up and become pretty ineffective which is why you want a thermal pad
+PT Cruisers are surprisingly reliable. The only bad thing is that it's got a timing belt and it's 1000$ to replace it
+Upload to youtube as unlisted and do it that way
+Not really. Get a decent PSU and you're good for years usually. HDDs fail often too but they're mechanical
+holy shit 30$? i'll buy em all
+What does the manual say?
+these days prebuilts are in some cases WAY cheaper than DIYing it
+Well it's probably dying then. 
+Did you check the board if capacitors are bloated? Also tried another PSU as that dies often too
+Right click the unallocated space and create a partition on it. Leave it at default and spam next
+Probably died of old age tbh
+define professional
+
+I see, thanks!
+Anker seems to make generally decent stuff. They make some aftermarket laptop batteries
+How the hell does one send a mower? Does a Briggs guy come around or they give you prepaid labels or something lol
+They mean Briggs branded oil
+How does anyone know? Do you have to send out an oil sample when you do something under warranty?
+Manual first to get it working, then do the power savings stuff.
+buy mastercrap from the cambodian tire
+I've filled up my leaky PS with Lucas oil with additives and it doesn't leak anymore so that's great
+RAM with DRM? don't be stupid
+I've never seen or heard of this before
+I have a 1/4 drive metric set, and I have never seen a 5.5mm socket lol
+You'll need a thermal pad to really help
+Tried it, ran fine but got rid of it because it's boring. It's an LG G3 so your thumb will catch on fire but whatever
+They made like 500 million different versions and designs lol
+Or stop buying them.
+Okay but who the hell has that
+Its cheaper but you get much slower speed and reliability
+Yeah I see how a soldered onboard SSD would need a specialized DR facility.
+6500?
+If it's a desktop then it doesn't really matter
+I'm talking more about take out the SSD and get it on another computer type thing?
+Can you get the data off of broken laptops?
+Escalate to retentions. Why the hell do you even have install fees?
+Eh that's odd. I'd probably return the board and get a different model as that's easier than screwing around to fix it
+I doubt its cheaper. Hunt a promo and you're good
+You might be better off doing a new post in r/suggestalaptop. At 500$ tho you might be better off with a decent used laptop and add an SSD to that
+Apparently they have a sort of back room but they don't even have tools to do semi advanced stuff
+Piss is extremely conductive, I don't think most radios would've survived tbh
+You need a 7/32, not a 5.5
+I'm still using an LG G3, I use it because that's what I have and it's fine. Nothing more, nothing less.
+Not a repost but he meant already posted
+If Rossmann's videos are correct, the guys at an Apple Store are all fucking idiots that can't do any repairs
+Why would you even want DSL when cable and fiber are superior
+It's a waste of money
+or motherboard related
+An SSD would be a great improvement but if your model has a Pentium in there I wouldn't bother. Get a new laptop with an i5 and an SSD from the factory
+Tell him look, it was 500. Tell him to fuck off with his price increase
+It's the gap that's the main problem
+You don't need it, but it does mean that your temps will be higher and overclocking will definitely be affected
+You'll need to order expensive aftermarket cables then. CableMod has some and I think EVGA has some too
+Yeah 1080p60 or 4K30
+1080Ti Armor
+A DP splitter is as expensive as a GPU so I wouldn't use that. I've never seen anyone use one too so IDK how well they work
+I wouldn't use an AMD FX system unless you're buying it used
+Meh, they work
+[This board is pretty much your only option.](https://www.ebay.com/itm/Gigabyte-H170-HD3-DDR3-LGA-1151-DDR3-ATX-M-2-Support-Intel-H170-HDMI/142253412926?hash=item211ef6d23e:g:FWUAAOSwUKxYfc1E)
+
+You'll need to update the BIOS yourself or get the seller to update it or it **won't work.**
+
+If you're buying new, junk the RAM and go 8400/8500 and get 8GB DDR4. Also, I'd get a 30$ CX450M PSU instead of reusing something from a prebuilt.
+So you won't do anything that would use the FirePro GPUs? They're worth like 300$ on eBay so if anything you can get rid of those and get a 1050 Ti or something for when you're gaming.
+Ah okay I see. Well good luck in your build!
+Odd, is the BIOS configured for UEFI? If so, try Legacy
+You can get a m.2 to PCIe adapter, but if you only want another display output then get a USB adapter
+Amount before speed. 8GB is sufficient, but 16GB isn't a luxury these days. The added speed doesn't help much, but if it's AMD Ryzen then RAM speed has a fairly significant performance difference.
+Yeah but one single 256MB stick isn't over 384 MB. For 98 yeah it's fine, but if you want XP then I'd really go with at least 512
+It's probably a fuse which is good. A replacement 1366 board is way too expensive anyways so if it works then I'd use it like that.
+Definitely the GPU. That's so old it doesn't even get driver updates anymore. Any GPU you buy today is more powerful than this basically (1050 beats it).
+
+I'd get [this](https://au.pcpartpicker.com/product/Yz2rxr/galax-geforce-gtx-1060-3gb-3gb-video-card-60nnh7dsl9c3) and call it a day really
+
+(make sure you have a DVI cable for your monitor or get something the GPU and monitor supports)
+Yeah I'd say it's pretty good for a PC with a decent GPU
+Yeah you need a hard drive but you need to install Windows on there too of course. The key that's on the side is probably for Windows 7, and Office which is what Word comes in is a separate 150$ purchase, or 230$ if you need Outlook.
+At this point I'd wait for them, I'm pretty sure they're right around the corner. Yeah current boards will work fine, but some features may be limited to 400 series chipsets.
+4560 by a long shot for plenty of reasons
+semi-serious?! fuck yeah!
+Yeah that's very possible. I know with a lot of PCs you can go above what they say the limit is, as it's not actually hardcoded anywhere. 
+
+256MB sticks could've existed only as registered(ECC?) sticks at the time.
+AFAIK you can't damage anything even if you max everything out on there, at least not without a BIOS mod.
+The kind of RAM that's used in PCs and GPUs is volatile memory, so when power is off the memory is cleared. You could do it while it's on, but if you turn it off then it's gone
+These things are very hit or miss. I'd let the factory power management do it's thing instead
+Yeah, I've heard plenty of issues about them. I stick to Realtek and Intel networking when I can lol. My current board has Qualcomm Atheros networking and it works fine tho. I'm pre-killer days lol
+lol, Killer NICs. Enable Fast Boot in the BIOS and you should be good (this can have many names tho)
+Get on eBay and get 3 sticks of 128MB SDRAM. Registered RAM is usually ECC, but I'm not sure if registered non ECC RAM exists for that era. ECC may or may not be supported.
+
+Also, there's a chance that higher capacity RAM will work, but the manufacturer didn't test it/they didn't exist when the board was released. You'd need to test it to find out
+Yeah PEG+IGD should work fine. Make sure your Intel graphics driver is installed.
+Yeah Antec PSUs are good. If it's that old tho I'd replace it as some old capacitors have a tendency to puff up and not work right anymore. In any case, it shouldn't damage the rest of the PC.
+
+That being said, a modular 450w unit from Corsair is like 30$ new so I'd consider that too
+XMP is overclocking since officially Ryzen supports up to 2666. This is indicated on your motherboard's spec page as overclocking. (DDR4 3200+(OC)/2933(OC) is what it says). 
+
+In any case, Ryzen's memory support just sucks. Update the BIOS to the latest revision and try again. If that still doesn't work then you'll need a specific kit or just run it at lower speeds
+Yeah but since you overclocked the RAM you need to set it back
+Ryzen is like that. Did you update the BIOS? Also, to get it working you'll need to reset the CMOS. Check the manual to find the jumper and short it out with a screwdriver to reset it.
+Any new CPU can handle PUBG. I'd make sure you're getting a 7300HQ and not a 7300U as it's much better.
+Check the HDD with CrystalDiskInfo, most of the time that's a failing HDD.
+An 8700k is way more powerful, but mainly because it's a 6 core instead of a quad core like yours. In terms of raw per core performance I don't think it's really worth it, especially if you overclock.
+Ah okay. Well good luck lol
+Most high end PSUs are pre sleeved (in black). [I'd probably get this](https://pcpartpicker.com/product/y88H99/)
+The cooler is always what's going to have the pre applied paste if that cooler has some (which yours doesn't). Yeah you put the paste on the CPU.
+Yeah I wouldn't get a 750 now and expect it to still perform that well in 5 years, but I could also see how a 1050 might last 5 years without too many problems. 
+
+If the CPU vendor is the same (AMD to AMD, Intel to Intel) then it's probably going to work. If it's not then you might need to reinstall. If anything, have a Windows USB key ready
+At 100$ it's a kinda okay price, but if you're in Canada there's not much choice. There's a few ways to overclock these CPUs even on non overclockable motherboards, and upgrades are like 20$.
+I see. If you're strapped for money then I wouldn't buy their most expensive card, honestly, a GTX 750 is enough for 1080p gaming at medium settings for most games (including GTA 5)
+Well for that you'll need AMD's best GPU, which is currently the ~~Vega 64~~ .
+
+If you find a 1080 expensive, then might as well not even bother mentioning that card. In fact, I'll cross it out for ya.
+Well it won't be unsafe, but it might not work as expected.
+I don't see why it would stop being good in 5 years. An 8800 GTS can run GTA 5 at playable levels, and that's like 11 years old
+It's probably normal, and the best way is probably to get another model. In any case, go thru the retailer instead of Corsair, as it's probably much faster
+It's a PC card that was reflashed. If it doesn't work, put it in a PC with enabled built in graphics or a PC with another GPU, and reflash the BIOS using the proper tools. You can get the BIOS from TechPowerUp.
+If anything, go for a 3000 and run the whole thing at 3000, but it will probably work at 3200.
+Did you try recreating the USB drive? Also possibly with another drive?
+An H7 comes with a tube of thermal paste and none pre applied. Take off the cooler, make sure there's no protective film on the cooler, stick some paste on and reinstall it.
+Damn lol, 1000$ is pretty much what we sell our HP workstations with a 7700 equivalent and I think 8GB RAM and no dedicated graphics
+Airflow is basically how much air can go thru the case. This shouldn't be an issue or concern with most modern cases, and with hardware being so efficient these days, it really doesn't matter that much unless you're doing fairly intense overclocking
+Yeah but I don't actually have a Cockford-Ollie sticker lol sorry! I didn't expect anyone to have 6$ in CT money laying around
+Hmm yeah I see. 1000$ is very cheap tho for a workstation that includes such a GPU tho
+From what I've seen most people buy 600-1000 series Quadros, so finding a used 4000 model is going to be quite hard, I'd check how much a new one is (thru a local shop with no crazy pricing, go with one that mainly does commercial stuff)
+Got a heatsink?
+From what I've seen, having your own successful business is probably one of the best ways to get rich quickly.
+here's some spares 000000000000000000000000
+I do too on my side monitors, that way they turn off when I'm not using them
+Yep, CASIO WSD series seem pretty rugged from what I've done with mine (which includes not taking care or being careful with it because it's a fucking casio)
+I'll sell you one for 6$ in CT money
+That doesn't really work, it seems to change on its own
+Realistically, Pro does the same shit. Best way is to do it in Windows 7 or 8
+No but I guess I am since the battery won't really charge when in Windows. Do you have a USB multimeter? I have one and it's been very useful for this tablet lol
+You did a fresh install of Windows and it's not the original image right?
+Yeah Windows is like that and that's fine, I just can't charge the damn thing when it's in Windows now. I dual boot with Android but I don't really care about android as I wanted a nice Windows tablet lol
+I have a MiPad 2, and after way overpaying it, it's total garbage. Can't even charge the fucking thing under Windows.
+You bought the wrong M.2 drive then
+Condom snorting is older than the tide pods challenge that's for sure
+https://imgur.com/DpQ9YJl
+Here we have some bio shit that smells exactly like hand sanitizer and it seems to work extremely well from the little I've seen of it
+Well you need a good GPU as intel HD wont cut it. 8 gigs is on the limit for these modern emulators. An i7 is the best you can get so its the best for these things too.
+RPCS3 for PS3. many playable games too
+Most motherboards won't boot from PCIe, and the ones that do already have a proper m.2 slot.
+
+Anyways, no point in going NVMe, as they make 0 difference in real world use
+ok pls update op thx
+Yep it is. It's a 500$ tablet, the least it should do is play YouTube videos, my 15 year old PC can do it.
+call corp lol
+The amount will change what you get charged for, if you have 30 grams then it's not really normal when compared to having like 2
+The 4 pack dollar store tubes I get I always reuse them until they're empty, I've never had one dry out
+Yeah that's possible.
+I'm not saying make it free, I'm saying that £2.79 is very expensive for something that should be priced at a maximum of 99 cents as I don't think it's really worth much more than that
+What's wrong with legacy boot? 
+
+Also, on all recent laptops (on the PC side at least), all graphics go thru the Intel HD, so you HAVE to get that working before you get anything out of your Nvidia graphics
+Okay well if it comes back I'd try that first
+Get an ATX mid tower then
+Did you try a factory reset?
+tbh last (and only) time I installed Windows on a Mac, I was with my friend with a trash picked plastic iMac, we stuck a USB stick with Windows, went in the boot menu, booted from it, deleted the whole drive and did a fresh install of Windows 7. Works fine.
+AMD has had 6 core CPUs for a good decade, Intel quadcores still beat them. And dual cores in some workloads
+Yeah it's not a very good price for what it is, any i3 is better than that CPU 
+Ziptie it on then lol
+I don't use Chrome OS, and I don't know anybody who does. Google has billions of daily users
+I can have all 4 as DVD rips. They're only french tho I think. Here's the specs, they're all similar
+
+    Format                                   : AVI
+    File size                                : 1.37 GiB
+    Duration                                 : 1h 26mn
+    Overall bit rate                         : 2 277 Kbps
+    
+    Video
+    Format                                   : MPEG-4 Visual
+    Codec                                    : XVID
+    Bit rate                                 : 2 078 Kbps
+    Width                                    : 640 pixels
+    Height                                   : 272 pixels
+    Display aspect ratio                     : 2.35:1
+    Frame rate                               : 29.970 fps
+    
+    Audio
+    Format                                   : AC-3
+    Bit rate mode                            : Constant
+    Bit rate                                 : 192 Kbps
+    Channel(s)                               : 2 channels        
+Just a 2100, but the onboard graphics are blown on there and the only thing I have that fits is a 3450
+Let me know if it's still available after a while
+Please let me know if you're parting out, I'd be interested in the GPU and possibly some other stuff if it's cheap. Thanks!
+At the price they sell for, stick it in the garbage and get a better cooler at the same time
+Still better than the typical CoolMax 400W or HEC 585W that I see often in 400$ APU shitboxes
+Must be nice. There was a nice looking oldish SUV for sale with something ridiculous like 30k kms but the frame was basically completely rust lol
+Yeah I'm in Quebec. (which is even worse since USD is worth a lot more than CAD lol) but it may have something to do with the fact that cars of that kind of age kinda start falling apart with the rust and whatnot.
+uh, any of Casio's watches have an always on standard LCD layer to get the time
+You don't have to make money on everything in life, and this looks extremely simple to make
+Yeah same here. You gotta get the right angle to get a decent seal tho
+Speaking of 10+ years, I had this modem 10 years ago.
+Why are you looking for non heliums?
+It's Core 2 based, won't be that bad
+It's double the price, a 500B is a fine PSU for a budget system, and it's much better than most PCs in that price range.
+Here at 2600 you get an 08 manual 2 door, and for an 01 it's more like 500-1500
+I bought a priv on hardwareswap at 75 USD shipped. Front camera is broken but I don't use that. Good luck in your search!
+2500$ holy shit that's so expensive
+Looks just like a standard cheap ass clock mechanism. I don't see why a battery type would change anything on these things
+New Retro Arcade Neon looks fucking amazing. You have to set it up tho but it's amazing.
+Hm yeah my supply of 2GB sticks is quite low and they're quite rare where I'm at so I think I'll keep mine at that price
+Use Chrome
+It doesn't
+They sell a glorified can of air for this. Fairly expensive tho
+Well as you know, the sinky one works fine for both really
+Hm, check on eBay for sold listings and that might give you an idea
+How much you offering shipped?
+It's about as outdated as a 1080
+Confirmed
+30% is after the reboot tho
+Yeah that doesn't mean much. Did you try reseating the RAM, removing RAM sticks?
+Any chance that one of those raised points going somewhere where there's no matching screw hole?
+Suuuure, but I don't see why a 580 wouldn't be a future safe card, especially when a Vega 56 is 500$, and you already have a good GPU....
+There's probably a better way to do it than that lol
+Modern games like the new Final Fantasy use something ridiculous like 150 GBs so... it depends on what games lol
+Have you updated the BIOS? It's the kind of issues an update can fix.
+Is the GPU properly inserted with all it's power connectors connected? 1600 has no built in graphics so that's never going to work if you're hooked up to the motherboard
+GTA 5. I can put the graphics higher, sure, but I'm still getting 60 FPS and I can't really tell the difference lol
+Yeah it's definitely still going on.
+I use a bootable USB drive with Macrium Reflect. However with failing HDDs it often fails, so I use Ghost 11.5.
+RMAing is usually slow. Does Zotac have an RMA center in the UK? If they do then it shouldn't be that slow. Also, email your retailer and ask if a replacement is possible.
+Honestly on Intel it doesn't matter. As far as the voltage goes, it should all be 1.2v, except maybe on some high end kits with XMP enabled. 1.35 might be with XMP, but you don't need to care about that. 
+
+The lower the CAS, the better. And higher frequency RAM will have higher CAS ratings but that's normal. The Vengeance LPX you mentioned is probably a good price/performance RAM that doesn't have useless features so I'd probably get that
+Any protruding things from the case? Such as a standoff or the case being bent or dented?
+GPU won't fit unless you leave the case open (and maybe some other mods)
+I have a hard time noticing the jump from my 750 to my RX 470 tbh. If I had to do it again I would've kept  my 750 lol
+FYI: Logitech's customer support is excellent
+Pointless to know since you'll leave everything stock.
+It's shit. Get Ryzen and a good PSU.
+What's your Steam64 ID?
+Ehhhh well I don't think OS X supports SLI at all, so it's only going to use one card. If you use some productivity apps then that is probably different but as far as gaming in OS X it's not going to change anything. Besides, I don't recommend SLI at all anyways
+Sounds like it. If you want to test further I'd try a fresh install of Windows to see if that fixes it, but if it doesn't then it's the board
+Yeah it sounds like it's the board. Can you still return it to the retailer?
+Unless you can get it at like 50$ and know it's more likely to be fun than functional then I wouldn't
+Ah you mean SLI lol
+I'm not sure what an akimbo is, but if you mean a 1080 then the OS X web drivers shouldn't really be an issue
+1. not that hard, there's tons of guides
+
+2. these days prebuilts are often cheaper, watch /r/buildapcsales
+I seriously doubt your daughter will notice or care.
+I believe the SC2 is technically better, but really it only has a bunch of extra crap that has dubious usefulness. Get the cheapest, or the one that looks the best in your case.
+
+Also, I'm pretty sure both have RGB at this price point, but check on their respective product pages to be sure
+Yeah but it's not fun if you don't have to manage 13 drive letters
+Not enough drives floating around
+It may have something to do with the fact that I'm cheap. Reuse over buying new. I took this pic because I've received my 2TB external HDD back from RMA and I had to install it. A drive I got from work as they couldn't be bothered to send it themselves lol
+Yeah, just make sure your GPU's chipset is supported (it should be)
+A brand new 8600k is 240. 260 is an insane price.
+Yeah?
+Yeah I think it's possible. You won't be able to replace the PSU but a 1050 doesn't need a PSU replacement.
+Update the BIOS
+Yeah but use one SSD and partition it like everyone else. It's called multibooting, and it's been done for years. I've even triple-booted Windows, Mac and Linux on my own PC for a while.
+That's a standard PSU, no more, no less.
+Yep, I'd unplug all other drives, as Windows has a bad tendency to put the bootloader on whatever drive is first, and if that drive fails and your SSD doesn't, then you won't be able to go back into Windows (at least not with some fucking around)
+You should be able to find me with dan_du, currently I'm named sava
+Okay, that would be great!
+fuck off, call 911
+I doubt he did it because of time, I think he did it because he's ignorant. He did an advanced RMA so it doesn't matter
+how much you pay
+liar
+"I guess I’ll call them to see if they can at least pay me back half of it somehow."
+says the guy that expects a refund for his own mistake
+wtf are you doing man
+You're a fucking idiot. You chose the 70$ shipping and you knew they didn't cover a penny of it. Your fault not theirs.
+You're blaming AMD for the mistake you did.
+I've sent plenty of shit by mail. It's your decision to choose insurance. They don't care or know or give a shit
+I have 9 tabs open and I have 10 GBs free.
+he has brown chicken
+I'll give you 20$
+"oh idk my CPUs 6 months old perhaps it's useless and outdated I should throw it away"
+I was talking about the general arch, not the Pentium specifically.
+
+This 5400 is the same thing as an i3-6100 except with worse graphics and missing AVX.
+
+And guess what, in Cinebench, this CPU gets 392 and the 6100 gets 402. They're 100% identical
+Yeah, even the new Ryzen mobiles seem to be BGAs­. That sucks.
+Very rarely are boards used for just one model of CPU. Often they're available with better CPUs or are reused for other models with better CPUs
+Yeah but we already knew that it's still Kaby Lake, no one had to buy it to know it's the same thing. And Kaby Lake is the same damn thing as Skylake.
+You're the idiot for using 70$ shipping. It's your fault, not theirs.
+It's a fucking kid, they might not even know how to fuckin read
+yes you may now exit this area
+how much did that domain cost?
+Don't autistic people generally have more feelings towards pets?
+The problem with iPhones is the ridiculous specs. Like this thing has 512 MB of RAM. That's insane. The 6 only had 1GB lmao
+Get the cheapest TV you can get. If a 300$ 43in 4K TV gets you 10 years, it's probably going to be outdated at that point and you can get the cheapest 8K TV at 300$.
+Well I'm pretty sure 15$ is pretty much a standard rate Canada wide for packages, but if you wanna sell it as a bundle then it's up to you. I'd buy it all but I don't have that kind of budget lol
+Yeah but that's different from QC which uses higher voltages to deliver more power over a standard cable
+Are you able to do 35 shipped or you're looking for more?
+OP is probably canadian tho
+I still feel like the LG G3 is one of the best phones ever. It would be perfect if it had a fingerprint reader but it's a bit before it's time.
+No, I'm in Quebec
+I've done an RMA with Intel and I didn't send any kind of receipt or proof of purchase.
+Hm, 35 shipped?
+670 alone?
+Sounds good!
+PM me for Priv if still available
+600 is pretty damn expensive for that. I bought a MB CPU RAM combo with a 3570k a few months ago for 150 CAD.
+Paying 30-50$ for a motherboard instead of 100 for features you won't be able to use
+lol, you ripped off the PCIe slot's lock. Try snapping it back in, if you can't then it won't lock anymore but it doesn't change anything
+Use compressed air from a can or from a compressor. Use fan filters, but you'll need to clean those too.
+A 580 is supposed to cost 230$, I wouldn't pay 300$ for a used one that comes from a friend
+Well, THAT one's no longer active.
+No but I don't see how not having it is such a problem
+It probably wasn't a power tap, but a surge protector. The surge protection may not handle 220V on there
+They're easily overloaded if you use high power stuff.
+My god, what the hell happened to the old "plug your phone at night and it's ready 9 hours later"
+Wait for H310 boards (they're releasing now) and get that instead. I'd probably get 1 stick of 8GB instead too, as you'll probably have only 2 slots on a cheap board.
+
+Also, I'd use the onboard graphics, they're equal or faster than your GPUs
+nothing lol
+Oh yeah some are a pain. In the future, if the fan gets clogged up, you can try using canned air or a compressor to blow the vents backwards, and see if you can go back and forth from the exhaust and the intake to get most of the crap out. 
+
+Of course, if the thermal paste is bad then you can't really do anything
+You have your heatsink's backplate installed? In that case, it's fairly normal for motherboards to bend from what I've seen. Is it so extreme that things don't line up anymore? It should straighten up once you screw it down
+Alright good.
+I'm guessing it's a second USB 3 header? In that case then yeah I'd do that. If the pin is stuck in the connector, then it might work fine. Speaking of working fine, it's probably going to work fine, but there might be a USB port that doesn't work or works intermittently
+Great! Did you try all keys? Also, never take it apart again lol
+That's to get memtest working yeah
+Did you try the auto installer for USB keys? You'll probably need to switch the BIOS into Legacy mode or enable CSM too. (don't forget to switch it back or Windows may not boot)
+Did you run memtest86+?
+That's just a standard 80mm (measure it) PWM fan. There's thousands of models that will fit on there
+For an all in one benchmark, there's PassMark's thing, and UserBenchmark and that's pretty much it. Other than that, there's 3DMark that does CPU and GPU and plenty of others. As far as bootable tools go apparently PassMark has one but I don't see why anyone would actually buy that.
+Nothing is compatible, you'll need a new set of CPU, MB and RAM. I'd wait for the next gen Ryzen stuff and then get that.
+f or c? please use C, no one uses fahrenheit anymore
+For 99.9% of people don't bother
+Thinking more around the lines of a motherboard, but you need to try another PSU to know.
+I'd try using only hot glue on the cable, but it depends if you can get the white piece back on semi properly. If you can then I may use a dab of super glue at each end instead
+Put the plug back in and hot glue it on
+On an SSD it won't really do a difference
+Yeah it depends on your price range really
+I see, well it should run really, but not sure how well. 
+Sure but what kind of crappy old?
+I still feel like 16GB is a waste of money for a standard gaming PC.
+Do you already have a PC?
+Yeah well current Intel CPUs are 6 cores so games will probably use 6 cores so going to an 8 core isn't really going to change anything. 
+If anything, return it and wait for next gen. R7 CPUs perform the same or worse in gaming.
+I dunno, look at  task manager, check the RAM and CPU usage.
+
+Your CPU is pretty crap tho by today's standard. Upgrading to a better Xeon may be cheap and possible.
+On Intel it should have an empty slot between them. Try it out and check in the BIOS or in CPU Z if it's running in dual channel.
+Eh, get the same thing at a scrapyard?
+How about settling for anything diesel?
+
+Oh wait, none of those either.
+I legit made like 150 CAD lol
+I ran AC origins on my 650 Ti with no issues
+Not many used things are no good.
+It's called common sense. 
+If it wasn't okay then people wouldn't sell their used shit eh?
+good
+I have subs that I post frequently in and they still do this shit.
+then smash it and snort it.
+Did you try using a 1000 degree knife?
+air
+fuck her op
+Use another PC to make a USB drive using the media creation tool instead of going with a DVD
+Oh shit lol gg
+10 does that with it's creators updates things. To add onto this, they work fine for most people but they do tend to break for no reason and you need to spend a little bit of time fixing it
+Hook up your power button normally, and reinstall Windows. Don't update the BIOS if you don't know how.
+i dunno man a fuckin 750 instead of paying 100$ for a stupidly outdated GPU
+Yeah, as you can install 10 yourself without issues, and 7 is faster and you don't wanna deal with a PC that takes 3 hours to update every 6 months.
+
+For 100$, you may do better if you look at auctions, but other than that then I think it's as good as you're gonna get really
+I wouldn't bother. Chuck the whole thing in the garbage and get a new machine before putting money in this
+None. Get something recent.
+10 uses way more resources, especially when it comes to disk usage. It's insane. And yeah it is a big upgrade, but it still is a 10 year old PC so it's not going to be as fast as your main PC probably
+Fix your other PC before getting this if you can. Get the cheapest, 8 vs 4GB in a living room PC doesn't make a difference, Windows 7 can be upgraded for free to 10, and 10 is unusable on a mechanical HDD anyways
+Yeah I wouldn't use a 5400 RPM for any apps. Storage sure, for games? It's unplayable lol
+It's smaller so there's just less to spin. They're also designed for laptops so they're made quieter basically. If you want the most quiet thing possible then go for a 5400 RPM Blue drive but they're very slow
+Get a WD Black 2.5in
+A GTX 660 runs anything. I played GTA 5 on a 8800 GTS 512, don't tell me your 660 don't runs anything.
+Have the money for another phone ready lol
+I mean holy shit, 1GB RAM. My LG G3 has 3GB and a 1440p screen lol
+This guy gets it
+Chat is the way to go. Phone support sucks. I had my tablet exchanged after 10 minutes, I didn't have to send the tablet back either. (It was a 100$ thing tho, and the replacement allowed me to get my data back which was really nice)
+Yeah but it's cooled by the heatsink. You can't really damage modern CPUs with heat either
+No, and yeah it's fine to not have a system fan as long as your PSU acts as an exhaust
+Sell both GPUs and use the onboard graphics
+The 770. A 1050 Ti isn't worth anywhere close to 300$, and you can probably do better than 200 for the 770.
+None?
+If it's a retail chip and not tray it should have one. Check it when you get it on Intel's site.
+The mixamp IS the sound card
+wtf is up with americans and black friday? calm your ass down idk
+ok u did it
+Just in case it's not RGB I guess
+Yeah if you're in some thirdish world country then you don't have much choice
+If it says that then I'm thinking it may be dead. I don't see why they would use a card reader that requires a driver that you can't get anywhere
+If your board doesn't have an RGB header then anything will work as long as you get a controller for the type of strip you get (addressable or not). Simplest thing would just be to buy a kit with the controller and the strip
+It's not unsafe, but there's definitely better options out there
+Drivers for USB card readers should be built into Windows/Windows Update will get it. Can you see it in Device Management?
+If you don't do anything color sensitive then what  the fuck are you doing calibrating your shit
+Not surprising considering the laughable specs of the wii even when compared to the laughable specs of the consoles of the time
+It's because the asshats at Rogers won't let them register anything else on their network.
+Not really, but your board should include 4
+Get a job. My current laptop was 110$ used
+Can you try another data cable
+Having to enable it means that it's not there for 99.99999% of people that use Windows.
+It's impossible to get into safe mode in 8 or higher with a key combo
+I'm pretty sure it was done as the only thing in the day. He didn't seem the least concerned about speeding the install, he took his time and did it proper
+Less than an hour?! My god, my FTTH install took 6 hours.
+> which is now basically bricked
+
+you're an idiot. your CPU is still good.
+yeah
+Because Apple is Apple and that's what Apple does.
+No the onboard audio is fine
+Don't worry about any of the issues, if they sell it then it means that Dell tested it and it's fine. 
+The 1 thing I'd recommend is to pop into a local store and try them out and see if you can get something that fits you. I wouldn't get a gamer chair tho they're all kinda shit
+I'd probably get a 8700 and use it's stock heatsink, there's probably better options for equivalent cheaper PSUs, and I'd definitely get more than 4GB of RAM and the cheapest board you can get. And a PCIe SATA controller card.
+
+Also I'm pretty sure that on most boards you can't use both all the M.2 slots and SATA ports at the same time
+Okay then yeah, try another SATA port and confirm that the HDD is running by putting your ear to it or checking if you can feel it vibrating slightly
+Your parts list isn't the good link, but try another SATA port on the board and see if that does it
+I don't think it's really worth it.
+Alright. Feel free to post again if you have other questions!
+Yeah if it doesn't boot at all then it's pretty pointless. Did you make sure your RAM slots weren't dusty? Did you try your good RAM in the other slots too?
+Try memtest86+ to make sure, but yeah it sounds like it's dead. I'd also try the kit by itself
+I'd upgrade the CPU before the GPU. A 750 is still plenty if you ask me
+Enable ASUS QFan in quiet mode. Should be under hardware monitoring
+Get the cheapest of the 3
+Yeah. I'm guessing you have nothing as far as PC parts go?
+Get on eBay, get a cheap used board, and get a cheap 115x cooler while you're there. Get a decent 500W or so PSU and you're good.
+any GPU you can find used
+Optical smoke detectors on eBay are literally 3$. They're technically not legal, but since it's not supposed to be a critical life saving device in a bathroom then I don't see why they wouldn't do that.
+What kind of specs will an 800$ Mac have? At 27in a Mac is 1440p which are still fairly expensive monitors if included in your budget
+If you're going off grid then typically you don't really give a shit about the government right?
+No I'm saying it won't do anything considering that you can use Nvidia's encoder in OBS and have no performance decrease
+That's an 840 Pro I believe, which is better.
+Hmm yeah that's new enough to have ReLive, but unless you're gaming on that then it won't do anything. That being said, if you use NVENC in OBS then that should provide a good stream while having 0 impact on performance.
+I got it on the first try...
+Yes they're incompatible.
+OS has nothing do with the spec of the actual card. If it's AC it's AC. Not to mention the fact that it would be stupid to support AC on an older OS and not 10.
+HDMI 2.0 supports 4k 60hz so you're good.
+Yeah. 
+They fucked up a bit but it doesn't change anything. You can bend them back easily. (they're very easy to bend)
+How old we talking about here? Technology moved extremely fast as far as GPU acceleration for streaming goes
+Yeah, they're cheap TLC SSDs
+theme park restaurants lol
+It's not even mechanical lol
+Yeah I'd take the K since you're already getting a Z board and cooler. It's fine, I'd probably get a cheap 2TB seagate HDD instead tho.
+Probably some incompatibility with the BIOS and the keyboard. Check for a BIOS update, if that doesn't do it then get  another model keyboard
+getting non K is shooting yourself in the foot for reselling it, and future overclocking
+Get it on Newegg, it's got free shipping.
+[PCPartPicker part list](https://pcpartpicker.com/list/qZRQV6) / [Price breakdown by merchant](https://pcpartpicker.com/list/qZRQV6/by_merchant/)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [Intel - Core i5-8600K 3.6GHz 6-Core Processor](https://pcpartpicker.com/product/Mr2rxr/intel-core-i5-8600k-36ghz-6-core-processor-bx80684i58600k) | $234.89 @ OutletPC 
+**CPU Cooler** | [Cooler Master - Hyper 212 EVO 82.9 CFM Sleeve Bearing CPU Cooler](https://pcpartpicker.com/product/hmtCmG/cooler-master-cpu-cooler-rr212e20pkr2) | $24.89 @ OutletPC 
+**Motherboard** | [MSI - Z370-A PRO ATX LGA1151 Motherboard](https://pcpartpicker.com/product/fjPzK8/msi-z370-a-pro-atx-lga1151-motherboard-z370-a-pro) | $105.39 @ OutletPC 
+**Memory** | [G.Skill - Aegis 8GB (1 x 8GB) DDR4-3000 Memory](https://pcpartpicker.com/product/XJYWGX/gskill-aegis-8gb-1-x-8gb-ddr4-3000-memory-f4-3000c16s-8gisb) | $77.99 @ Newegg 
+**Storage** | [ADATA - Premier SP550 240GB 2.5" Solid State Drive](https://pcpartpicker.com/product/gf98TW/a-data-internal-hard-drive-asp550ss3240gmc) | $66.99 @ Amazon 
+**Storage** | [Western Digital - Caviar Blue 1TB 3.5" 7200RPM Internal Hard Drive](https://pcpartpicker.com/product/MwW9TW/western-digital-internal-hard-drive-wd10ezex) | $43.89 @ OutletPC 
+**Video Card** | [Asus - GeForce GTX 1050 Ti 4GB Dual Video Card](https://pcpartpicker.com/product/MndFf7/asus-geforce-gtx-1050-ti-4gb-dual-video-card-dual-gtx1050ti-4g) | Purchased For $0.00 
+**Case** | [NZXT - S340 Elite (White) ATX Mid Tower Case](https://pcpartpicker.com/product/F28H99/nzxt-ca-s340w-w2-atx-mid-tower-case-ca-s340w-w2) | $79.99 @ SuperBiiz 
+**Power Supply** | [EVGA - SuperNOVA G3 550W 80+ Gold Certified Fully-Modular ATX Power Supply](https://pcpartpicker.com/product/sMM323/evga-supernova-g3-550w-80-gold-certified-fully-modular-atx-power-supply-220-g3-0550) | $58.99 @ Newegg 
+**Operating System** | [Microsoft - Windows 10 Home OEM 64-bit](https://pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $89.89 @ OutletPC 
+**Keyboard** | [Logitech - G910 Orion Spectrum RGB Wired Gaming Keyboard](https://pcpartpicker.com/product/YrvZxr/logitech-920-008012-wired-gaming-keyboard-920-008012) | $119.99 @ Best Buy 
+**Mouse** | [Logitech - G603 Wireless Optical Mouse](https://pcpartpicker.com/product/HgdFf7/logitech-g603-wireless-optical-mouse-910-005099) | $58.79 @ Newegg 
+**Headphones** | [Corsair - VOID PRO RGB USB (White/Black) 7.1 Channel  Headset](https://pcpartpicker.com/product/RqKhP6/corsair-void-pro-rgb-usb-whiteblack-71-channel-headset-ca-9011155-na) | $59.99 @ Amazon 
+ | *Prices include shipping, taxes, rebates, and discounts* |
+ | Total (before mail-in rebates) | $1051.68
+ | Mail-in rebates | -$30.00
+ | **Total** | **$1021.68**
+ | Generated by [PCPartPicker](http://pcpartpicker.com) 2018-03-22 20:11 EDT-0400 |
+Yeah 25$ is a pretty good deal for a 128GB SSD. It's basically an 850 EVO.
+Okay, have you tried another PSU? If it still does it with another one then it's probably the board that's dead
+Don't jump it and power it on properly instead of blowing something up.
+Yeah it's probably the PSU. Depends on your budget, but I'd get this as it's a great deal.
+
+https://pcpartpicker.com/product/sMM323/evga-supernova-g3-550w-80-gold-certified-fully-modular-atx-power-supply-220-g3-0550
+Common issue on that motherboard, return it and get another model.
+You probably need a tiny flat head screwdriver to rebend the clips outwards, and then you'll be able to snap it right back in
+If your monitor only supports VGA then it's fucking garbage.
+They'll most likely give you a price to get it fixed. You can get chinese boards for like 100$ on eBay. You won't be able to overclock, but they work.
+Yeah but why would you set your monitor sleep to never?
+Yeah
+LCD burn in can happen I think but you'd need to leave it on for days. Why would you leave your monitor on sitting on the background for that long?
+You only have a 3 year warranty, and even 3 years ago this was obsolete.
+
+I'd just sell the CPU at 150-200$ on eBay and throw the board on eBay at 50$ for parts or repair.
+Get a 240. You have HDDs, and as far as I'm concerned, putting games on an SSD is a waste of money.
+Yeah it might be only the board, I guess we'll never know lol
+Looks like some sort of mosfet or voltage regulator. You should've sent it to ASUS for an RMA. It may be repairable if it's the only thing that popped and nothing else is dead.
+
+This often happens with dodgy PSUs. What was it?
+Okay. Well you'll need a GPU regardless and if you wanna game then you'll want a used 750 or better really (depending on what you're looking for). Also, these CPUs OC easily and you should be able to squeeze out a bit more performance even with the stock cooler.
+
+As far as the PSU goes, good 400W PSUs are hard to find so it's probably a fairly crappy unit so I wouldn't really game with that considering that these CPUs are a power hog
+video link pls
+Ideally you'd replace the whole PC, but do you know if it even works fine?
+I think you get a good 5 applications out of it, you really need nothing, but it's easy to put way too much too
+you stop being nice after you see it hundreds of times
+This an old as fuck repost, it's fake, overdone, unfunny, and it doesn't fit the fucking sub at all.
+Not only is this an old as fuck repost, it's fake, overdone, unfunny, and it doesn't fit the fucking sub at all. We should hang OP.
+LOL! This is gold.
+Samsung browser is SO much smoother than chrome tho
+A proper exhaust shop should be able to weld it back on for around 50$ most of the time. 914$ sounds like it's for the whole exhaust, which may be falling apart.
+I'd start putting in some high mileage oil as it contains additives to help the rubbers and that will probably help the engine last longer
+How did that work? Do you remember what kind of offer and how hard it was?
+pmed
+Eh, LimeWire?
+Where?
+No idea, it was brought in by the customer
+I have no idea. The HDD was dying tho
+Did they replace em?
+2500$ can get you way more than a fuckin kia lmao
+my burps
+It's not a DTR, it's a gaming laptop. It's not a Zbook with a docking station
+Get a proper Delta with handles that turn instead of unscrewing.
+Yeah it's just like brand new really.
+If they're at least 200W and they're recent enough to have the 4 pin CPU connector and you're using the onboard graphics then it's good enough
+Sounds good. CPUs don't fail often but that doesn't mean that they don't at all so it's not impossible
+What do you mean by couldn't supply the power?
+The only way to properly test a PSU is by using another one on the affected system.
+WSD F20 buy one
+no pls
+Is there a radio in there?
+"I bought the best cooler on the market turns out it's massive. I'll just buy another massive cooler and install that!"
+Yeah they were stored in the grocery store's paper bags and they didn't get wet and the cans look brand new so
+That's what I thought. Thanks!
+Serious question, I just found 30 year old cans of maple syrup in my grandmother's basement. Is it still good?
+Yeah
+I wouldn't.
+580s and 1080s aren't anywhere close to the same level. That being said, go for a single 1080ti.
+Yeah you can use it as long as it's in good health (run crystaldiskinfo on it)
+It's a waste of money considering the 4560 is the same thing (with lesser graphics) at 60$.
+
+240GB of storage is plenty for most people
+[PCPartPicker part list](https://pcpartpicker.com/list/rHhwV6) / [Price breakdown by merchant](https://pcpartpicker.com/list/rHhwV6/by_merchant/)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [Intel - Pentium G4560 3.5GHz Dual-Core Processor](https://pcpartpicker.com/product/8gKhP6/intel-pentium-g4560-35ghz-dual-core-processor-bx80677g4560) | $58.79 @ OutletPC 
+**Motherboard** | [MSI - B250M PRO-VD Micro ATX LGA1151 Motherboard](https://pcpartpicker.com/product/JNH48d/msi-b250m-pro-vd-micro-atx-lga1151-motherboard-b250m-pro-vd) | $49.90 @ OutletPC 
+**Memory** | [G.Skill - Aegis 8GB (1 x 8GB) DDR4-2133 Memory](https://pcpartpicker.com/product/YRvZxr/gskill-memory-f42133c15s8gis) | $82.89 @ OutletPC 
+**Storage** | [SanDisk - SSD PLUS 240GB 2.5" Solid State Drive](https://pcpartpicker.com/product/8jH48d/sandisk-ssd-plus-240gb-25-solid-state-drive-sdssda-240g-g26) | $69.99 @ Amazon 
+**Case** | [Cooler Master - N200 MicroATX Mini Tower Case](https://pcpartpicker.com/product/T3rG3C/cooler-master-case-nse200kkn1) | $36.99 @ Newegg 
+**Power Supply** | [Corsair - CXM (2015) 450W 80+ Bronze Certified Semi-Modular ATX Power Supply](https://pcpartpicker.com/product/FQ648d/corsair-power-supply-cp9020101na) | $26.99 @ Newegg 
+**Operating System** | [Microsoft - Windows 10 Home OEM 64-bit](https://pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $89.89 @ OutletPC 
+ | *Prices include shipping, taxes, rebates, and discounts* |
+ | Total (before mail-in rebates) | $465.44
+ | Mail-in rebates | -$50.00
+ | **Total** | **$415.44**
+ | Generated by [PCPartPicker](http://pcpartpicker.com) 2018-03-18 22:24 EDT-0400 |
+Get a Seagate 7200 instead of getting ripped off by WD
+had?! it still has it it seems 
+
+https://www.youtube.com/watch?v=QrGrOK8oZG8
+
+now that's fuckin weird
+Get the 2400G now, else you're wasting 75$ on a shit CPU that can't be resold.
+Meh, they're alright. I have one here with Windows 7 and it works fairly well for what it is. It does have a dedicated GPU tho which helps immensely
+it's literally a 40$ CPU and has like 10$ worth of RAM
+No, it's just full of localized content for people of this province
+A local private one, I don't see myself extracting a 50GB 4k movie in 100mb parts.
+https://i.imgur.com/QhjPRrO.png
+I don't know, or care, I'll just get my movies somewhere else lol
+That's how you get your game cracked
+Well Bell's FTTH pricing is pretty much the same everywhere
+Seriously, I use a MicroUSB cable with my phone and I often use it crushed up on the cable end and it's still brand new
+WTF? Since when does YouTube do polls
+I'm assuming it's no longer under warranty
+Lol you're telling me I'm getting a better price than an employee
+Not at all
+Damn, if they keep shutting them down, why doesn't the owner of said fiber just don't rent it out or something
+I've had months with 12 TB of total usage (11TB of that is upload) and the ISP's unlimited thing only goes up to 9999GB on their web page, so it says you've exceeded your limit, but you never get billed for it of course
+...I don't think that's legal.
+Free with the purchase of gold yeah!
+It may lead into people not caring anymore, and ISIS may (won't) stop doing them if nobody cares about them
+The data itself does cost nothing, but I don't think raising the price of the service by 4$ per year is a good way to upgrade their infrastructure. They already rip off millions of customers, and they're just finding an excuse to get more money
+
+ Infrastructure upgrades aren't cheap, but these upgrade costs go down as technology gets better
+I only have used drives, and I never got anything over 500GB until like 6 months ago. I have 7 drives in my PC and I have a storage server with 5.
+I'm in Canada, ISP don't threaten us, they receive emails from the owners of the content, and their job is to forward it to us and nothing more. They don't give a fuck
+At most you get a letter that means nothing lol
+Who said anything about a VPN?
+I'd probably go with this, it's much faster in everything and includes Wifi.
+
+[PCPartPicker part list](https://pcpartpicker.com/list/q8YBP3) / [Price breakdown by merchant](https://pcpartpicker.com/list/q8YBP3/by_merchant/)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [AMD - Ryzen 5 1600 3.2GHz 6-Core Processor](https://pcpartpicker.com/product/mV98TW/amd-ryzen-5-1600-32ghz-6-core-processor-yd1600bbaebox) | $169.99 @ Newegg 
+**Motherboard** | [MSI - B350 TOMAHAWK PLUS ATX AM4 Motherboard](https://pcpartpicker.com/product/xwM323/msi-b350-tomahawk-plus-atx-am4-motherboard-b350-tomahawk-plus) | $88.99 @ Newegg 
+**Memory** | [G.Skill - Aegis 16GB (2 x 8GB) DDR4-3000 Memory](https://pcpartpicker.com/product/FNprxr/gskill-aegis-16gb-2-x-8gb-ddr4-3000-memory-f43000c16d16gisb) | $152.99 @ Newegg 
+**Storage** | [Western Digital - Blue 250GB 2.5" Solid State Drive](https://pcpartpicker.com/product/NhgzK8/western-digital-blue-250gb-25-solid-state-drive-wds250g2b0a) | $74.99 @ Amazon 
+**Storage** | [Western Digital - Caviar Blue 1TB 3.5" 7200RPM Internal Hard Drive](https://pcpartpicker.com/product/MwW9TW/western-digital-internal-hard-drive-wd10ezex) | $43.89 @ OutletPC 
+**Video Card** | [MSI - GeForce GTX 1060 3GB 3GB GT OC Video Card](https://pcpartpicker.com/product/4Np323/msi-geforce-gtx-1060-3gb-3gb-oc-video-card-geforce-gtx-1060-3gt-oc) | $274.88 @ OutletPC 
+**Case** | [NZXT - S340 Elite (Black) ATX Mid Tower Case](https://pcpartpicker.com/product/3TYWGX/nzxt-ca-s340w-b3-atx-mid-tower-case-ca-s340w-b3) | $59.99 @ Newegg 
+**Power Supply** | [Corsair - CXM (2015) 450W 80+ Bronze Certified Semi-Modular ATX Power Supply](https://pcpartpicker.com/product/FQ648d/corsair-power-supply-cp9020101na) | $26.99 @ Newegg 
+**Operating System** | [Microsoft - Windows 10 Home OEM 64-bit](https://pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $89.89 @ OutletPC 
+**Wireless Network Adapter** | [Gigabyte - GC-WB867D-I PCI-Express x1 802.11a/b/g/n/ac Wi-Fi Adapter](https://pcpartpicker.com/product/tTdqqs/gigabyte-wireless-network-card-gcwb867di) | $35.89 @ OutletPC 
+**Monitor** | [Samsung - C24F390 24.0" 1920x1080 60Hz Monitor](https://pcpartpicker.com/product/YsL7YJ/samsung-monitor-c24f390) | $149.99 @ Newegg 
+ | *Prices include shipping, taxes, rebates, and discounts* |
+ | Total (before mail-in rebates) | $1258.48
+ | Mail-in rebates | -$90.00
+ | **Total** | **$1168.48**
+ | Generated by [PCPartPicker](http://pcpartpicker.com) 2018-03-17 21:26 EDT-0400 |
+MX Master, not a gaming mouse but it's a good mouse.
+/u/Giffdev, focus on the bugs.
+Speaking of updates.
+
+I blocked them on one of my laptops with a GPO and instead of being automatic it just pops up the big ass popup that takes up the whole screen and it's IMPOSSIBLE to dismiss. Press esc, it brings up the windows update window for you. So conveniant!
+bugfixes > picture format
+I have an account on there but I've never used it. I get everything I need from TPB and my other tracker
+
+edit: tried getting a movie from there, why the fuck is it in 100mb rar files? What the fuck is that? When I download movies I expect them to be on my Plex server without any fucking around damnit!
+Not Microsoft's problem that Apple uses a format that nobody else supports
+They sure do. Often the deals are shit, and in that case you switch to another ISP that has a decent new customer promo and just go with that
+Can you get the model off of it?
+What kind of 400W is it?
+On most systems you need to reinstall Windows to get them working, and your CPU is not compatible with Windows 7.
+Gotta leverage on dat loyalty department.
+64, we're in 2018
+You'll lose dual channel, but unless you're using the built in graphics (which the 1600 doesn't have) then it doesn't do much of a difference.
+My current PC has the reset button hooked up to the CMOS reset jumper and I've used it plenty of times when it was powered on. It resets the PC and the CMOS and that's all. There's no current, it's designed to be shorted out
+No it's all good lol, you'll probably want to enable XMP 
+None. All the providers are fucking dickheads, with their yearly price increase to "improve their network". If you ask me, technology advances so prices go down, not up. I'm waiting for TPIAs to have access to Bell's FTTH network and then I'll probably switch to one of them.
+petnieum gold vs bronze for video rendering plz answer
+It's probably wired for phone instead of internet, if it's Cat5e or better then it's just a matter of changing the plugs and you don't need to rerun another one
+You don't need anything special but you do need a GPU 
+Then get it wired properly. Wifi will ALWAYS have latency and packet loss issues, that's just how wifi is.
+If you're not using Ethernet then use Ethernet as it's the only thing that's going to work. An ethernet cable is 10$.
+Use Macrium Reflect and make a bootable USB with it
+I doubt your router is slowing it down. And spending 300$ on a router is an absolute ripoff
+Nothing went wrong, that's just what AMD does. Use your fingers, firmly grab the corners and twist it off.
+If you do it via the jumper it shouldn't matter, but if you're removing the battery then you need to unplug the power from the system.
+They don't recommend it for overclocking, so you'd probably need to delid it to get a meaningful OC.
+Some kind of Canadian internet for 40 USD 300/100Mbps
+The top of the CPU gets hot, not the back, else you'd need a heatsink on the back of the board
+Most of the top ones are from some public trackers, but most torrents are from a local private tracker.
+Probably
+The back of the motherboard doesn't get hot
+You won't even notice the boot times.
+>everything installed besides the graphics card
+
+>I don't know what else im suppose to do.
+
+> Still waiting for it to ship)
+Yeah. I'd suggest Ubuntu for something that runs well and easily
+The mobo doesn't come with screws, the screws you need comes with the case.
+Data caps are fucking bullshit. Data costs them nothing, they're just too cheap to upgrade their networks to support everyone's data needs at the same time.
+I'm not saying it's a bad thing, I'm just saying there's more important shit to focus on than yet another one of the 500 picture formats that exist.
+Test each RAM stick by itself. And use memtest86+ and not the crap one that comes with Windows.
+Again, it's not 2001. We have cloud storage and mobile data and cheap 128GB SD cards.
+How about fixing bugs instead of adding useless shit. It's not 2001, we have 12 TB HDDs.
+Yes
+Yep, start with the AMD driver, and then remove the Intel one. Then install the Intel one first and then the AMD one
+Well you should try to do that first and see if that helps lol
+
+I've tested Universe Sandbox on my laptop and I can run it smoothly at high  settings.
+No, and you can't. In a decade it might go solid tho, I've seen this happen on some.
+I'm guessing you tried using DDU on both drivers and reinstalled the latests from Intel and AMD?
+It's a tiny bit slower but it equals out in most games
+Well you won't be able to fix it yourself unless you spend money, as it kinda sounds like the GPU is dying so
+No it's not necessary
+It's a bit on the limit but a 970 is what I'd go for
+Even if you did figure it out, you'd need to return it to them anyways
+If it's using the same CPU then it's not necessary.
+Return it. No point in diagnosing it yourself
+No, of course not. Make sure the strip is actually powered on and gets power with something you know works
+it's not supposed to require an expensive PC, minimum specs are a 3rd gen i3 with built in graphics.
+okay then that's not a shitty laptop, if you're having issues  make sure your games are set to run on the AMD graphics and not on intel HD
+ok and
+The amount does sure, but not the speed
+RAM does fuck all to performance.

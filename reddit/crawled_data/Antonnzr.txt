@@ -1,0 +1,249 @@
+Like I replied to the other guy, adb doesn't seem to be enabled and is not detected by my computer.
+Tried plugging my device while its turned on and on the error message.
+
+Seems as though adb is not enabled, the adb shell cant find any devices and turns up a "device not found" error.
+Loading.... 
+RAM sticks and GPUs. My computer is due a new processor but I'm holding out just because I will have to shell out an additional $160 for 8gb of ram.
+
+Plus this whole gpu craze with crypto mining is getting out of hand. 
+iPhones ship with Lighting to USB-A cables, enjoy your dongle. 
+Nexus 6 here, still runs like a champ. The only reason I have to replace the battery is that it doesn't hold as long as it used to.
+
+Stock roms on Samsung phones are way more stable and worthy of dailying than aosp... Can't point my finger at one reason specifically, it's just the way it is. 
+From what I read the unofficial build over at xda gas some camera modifications to make it take better pictures.
+
+As for Oreo I wouldn't get my hopes up especially not for aosp 8.0, Oreo beta is just now rolling out for the S8. 
+All the stock-based roms are pretty identical other than an added feature here and there (from my experience they don't even integrate too well).
+Aosp is wonky in terms of battery life and stability, and the camera situation isn't helping much either.
+
+I just use whatever version is on the newest version of android and is closest to stock.
+Why not have a microSD slot on the thin MacBook that will literally have no impact on how thick it is and allow us to expand our storage?
+Instead we're just stuck with what they offer or forced to pay premium for storage space. 
+Just use a film protector. Samsung store installed an expensive otterbox glass protector for me and it's garage. Went and bought a clearcoat film protector and it's miles better plus it sticks to the curves proper. 
+The HTC 10 is closer to the S7 Edge than it is to the regular S7
+RULES OF NATURE!!! 
+Except the G5 with its 5.3" display somehow manages to be taller than the G3 and its 5.5" one. 
+Any info on the G3 bootlooping? Haven't heard anything of the sort. 
+What about the mi4c? There seems to be a real lack of info about it both on xda and in general. 
+Already did. 
+The best SOT I remember is 3.5 hrs when the phone was brand new. 
+I rub max brightness and the screen must be taking its toll. 
+Hearing "All metal body" makes me worry because it usually means it will be sealed. 
+What puts me off is the second screen, I can't help but feel it's gimmicky. 
+I get 2.5 hours max. 
+So jealous of Z compacts and the likes with their 5+ hours. 
+Good news! 6.0 is out on XDA
+I think it's the fish butt wallpaper from Apple. 
+Been on the fence about a new gpu for some time now, my 7850 is showing its age. I can't decide between the R9 290x, R9 390 or R9 390x.
+
+From what I understand the 390 is a rebranded 290 and the x version is almost as good as a 390x. I will be playing at 1080p at most so I don't think 8gb of vram will do me any better than 4gb.
+
+Price-wise the 290x and 390 cost about the same and the 390x goes for $100 more. Also worthy of note is that the 290x is a sapphire reference card (seems like the cooler isn't really as good) while the 390 and 390x come in a bunch of different setups with good cooling solutions. 
+
+Any advice on what should I go for? 
+And at that price point it competes against the 6P and other way better phones. HTC done goofed. 
+Having a protruding camera and a small battery really grinds my gears. 
+
+Why not make the phone as thick as the camera, and have the excess space be taken up by extra battery? That way you solve both problems. 
+I know what you mean. I held an iPhone 6 I was amazed at how fragile and slippery it feels in the hand.
+
+On the other hand I finally got my hands on a OPO yesterday and was really impressed at how well the sandstone back feels, it has a great texture that doesn't slip easily. 
+How about why do I have to buy an extra case that takes up my port just so I can have a little bit more time of the grid? Why don't manufacturers just use bigger batteries? 
+It's about the same price as the Spark, around 20 grand. 
+Israeli here, cars are even more absurd. 
+
+The cheapest car I can name in a Chevy Spark at $20 thousand dollars. A 64gb iPhone 6s is $1300. Good times.
+I'm looking for a nice (preferably free) running app. Something to track distance and such. 
+If you don't mind a huge phone, get a nexus 6, or a 6P if you can dish out some more money. 
+
+Otherwise you can just get a G4 and install a different launcher if you hate LGs launcher so bad. 
+I can see these being used in stores and such where a large screen with touch response is required, but why not use Windows? 
+Xiaomi and Meizu do the same. 
+It's all a matter of preference. 
+Install a different launcher, problem solved. 
+Anyone tried it with a G3? What variant is it for? 
+Mostly due to orthodox Jews having 12 kids on average or something. 
+I remember now my Z used to have it too... Wonder why no one else has it, then. 
+Unfortunately apple has a patent on it or something that prevents anyone else from using it. 
+Pretty sure the tab S 10.5 is RGB AMOLED
+Here I am replying to this from my week old Tab S. In truth I'm not really impressed by the specs and the screen - I like 16:9.
+
+And that battery dear God, thinnes alone does not sell a device. 
+I like the 16:9 ratio, it makes me feel as if I'm holding a small laptop screen in my hands rather than a magazine. 
+What's getting to me right now is the (relatively) aged internals and a KNOX induced headache - I'm too afraid of tripping it and losing my warranty to flash a rom or do anything I would with a different device. 
+I bought a tab S 10.5 just 4 days ago. This makes me sad. 
+Mouse sensitivity means nothing on a tablet since it calculates the position of the cursor based on absolute position of the pen over the surface (i.e where the pen IS rather than how it moves).
+
+If you want to cursor to move faster (move more per distance on the tablet) just reduce your active area. I play osu on 2x1 inches for fast jumps, you can gently increase the size until you feel comfortable.
+I'm super good at getting excited about beating highscores and subsequently choking.
+I also need that Kappa sectioncleared thing.
+
+Please.
+The ultimate HD
+Oh god I bought the same pen from eBay for like $27. 
+
+I feel so dumb now.
+That is painful to look at.
+I will never understand how people tap one key that fast.
+I am forever bound to alternate my fingers no matter how slow the map is.
+You can get one on eBay or Amazon, maybe ask around local electronic stores to see if they sell them.
+Price is around $25 for the model they use for the osu!tablet but it goes up as you look at bigger\better models (I bought mine for $40, it's bigger and has pressure levels).
+Why not just find an image you would like to have as an avatar and use a web service to shrink it (at least, that's what I did) in case it doesn't fit? Nobody is forcing you to have a profile pic.
+http://osu.ppy.sh/b/346774
+
+I played this 200 times in the last two weeks, I absolutely love it.
+[Where do I collect my prize?](http://i.imgur.com/hRcE9eL.png)
+Did you try enabling the new raw-input-thingy? I cant really say anything because I stopped playing mouse around 3 weeks ago.
+This is one of the first songs I ever played in osu, failing the easiest difficulty. Coming back to it and doing insane is a great feeling.
+
+Nice play and thank you for reintroducing me to this great map!
+I ended up ordering the 580 linked in the OP, although I ended up paying $60 because of shipping and such (which is still cheaper than local shops) so I guess I'll have to wait for it to arrive to have a good impression on the buy. 
+Does the pen randomly turn off or during long idle periods?
+Israel.
+
+Taxes on electronics here are **insane** (as are pretty much taxes on everything). I can buy anything online and have it shipped to me taxfree as long as the package is under $75 so I end up buying small stuff like car accessories online to save a buck.
+Didn't see the part where they showed the 5 screen split of the faces of gambit and instead of the 5 members it was 5 times Dariens cam.
+
+That shit made me spill my drink.
+So did qtpie, kiwikid and scarra.
+NA probably went down gg
+Happens to me on any CM. After I boot my phone and unlock it the first time the recents button does nothing, always solved by locking and unlocking again.
+Z owner reporting in. Dropped mine about 3 times already from roughly 3 to 4 feet, glass is good as new. 
+I kind of like the glass surfaces though, it gives a sturdy feeling Samsung plastics just can't achieve. 
+I said the stock 4.3 that was posted is a lot smoother that cm11 right now, but I think 10.2 is pretty much as smooth as stock. 
+iirc There's a flashable zip someone made that is deodexed rooted and has recovery. Give it a look. 
+Tried it already but I'd rather wait for something official. 
+I'm running cm11 myself and the 4.3 release we have is waaaay smoother than that,  but I like the auto hiding navbar too much. 
+No Z? Aw come on! 
+wtf 2 shens 2 zeds
+>Uploaded on Nov 9, 2011
+
+Why is this here, exactly?
+They did the menu theme for Blur as well and I absolutely fell for it.
+Judging by his name, it seems like it's BladeMastahs smurf. Nothing new here, just athene getting carried by his Gold (Actually Diamond I) partner.
+I thought Krepo was going to hook the location in order to catch him after he swaps.
+
+I was pleasantly surprised.
+Oh I wish I could say that.  Unfortunately, the Hebrew word for "gods" is the same as "god" (I live in Israel). I usually just state that I don't believe in **any** god just to make myself clear. 
+I read this entire thread in Sivs voice.
+**Whose** new smurf?
+Seriously, nobody with more than 4 brain cells cares about him. Every video he makes is about how awesome he is and about how awful he thinks the community is.
+
+I think the sooner he leaves, the better.
+I can't notice a difference aside from the shopkeeper, to be honest.
+Hyrqbot's smite key is broken.
+He keeps proving himself with every game he plays.
+Just hit the damn turret!
+The misplays in early game were really shocking. It looked like a soloQ game, especially the part where EG didn't take a 50hp turret in a dive and Snoopeh ended up dying to that.
+I should really start watching OGN, sounds like good stuff.
+Oh, I guess I got confused. Your point is correct though, the Korean teams are probably so itching to get that victory money and they go to extreme lengths to get there :P
+I think Koreans play on such a level because their treatment and view of e-Sports is on such a higher level than everyone else. I've seen some Starcraft 2 tourneys and I've watched Chaox's videos where he walks around a giant gaming house that looks more like a gaming complex and I was blown away.
+
+I have no idea why EU and NA teams can't take the game as serious as Korean (and asian teams overall) because after all, this is their job and source of income.
+It's really sad to watch lose game after game, as if they are not scrimming at all in between weekends.
+>An EG game looks like random soloQ
+
+FTFY
+Does Crumbz always play with this towel thingy on his mouse? It seems so awkward to me.
+And then he waves his hand angrily like "fuck this shit" haha
+Very nice plays from both teams, an excellent game.
+Did anyone see how Edward was denied the handshake? lol
+The comp had potential, but some mistakes from TSM and Vulcun's good control of the map really turned the game one way.
+Its PBE, it doesn't mean it will be like that on release.
+Give it time, jeez.
+That last game was just... wow.
+Pretty sure the damage is applied after the animation ends.
+Yeaaaaa... No. 
+How do you feel about being in Curse so far? How are you fitting in in America?
+Lol so did I. I don't know how can you possibly like his stream unless you're a charity junkie.
+Because we're talking about League of Legends streamers.
+The map does bear a striking resemblance. It even has buffs and stuff in the jungle.
+When you put it like that, I suppose you have a point.
+I wanted to see a match between Alex and Athene. we all wanted it. we were expecting a good and normal game. We were not expecting a shitshow from Athenes side.
+
+It doesn't matter that he had no chance, that is no excuse to be disrespectful.
+Everyone came to watch a 1v1 between the two, and Athene pulled off a "show" in the middle of game 1 and again after game 3. If he did it in his normal hours in which he does nothing but type away at his keyboard, It would have been funny.
+
+Doing this stunt in the middle of a game against a pro player like Alex that decided to give his time for your charity is extremely disrespectful.
+Actually in the first game he played the video and went afk and Alex killed him and ended the game. It was in the third game that he played it after he lost already.
+Athene played a video of him being "raided" by swat in his room obviously prerecorded. The first game it happened mid game and he went afk for like 5 mins until alex killed him, The third game he did it again ( THE EXACT SAME VIDEO ) after he was killed.
+
+Alex was not in on the joke and he was quite disappointed about it. Athene was just the usual dick that he is.
+Confirmed on Saints stream?
+Even Athenes own viewers couldn't take this shit.
+Am I the only one who thinks Ryze v. Ryze will be a boring and rather awkward matchup? I mean, he has no skillshots and almost 0 outplay opportunity ( take for example the Best Riven NA tournament, which was fantastic ).
+I'm looking at you, Athene.
+With a username like this, I honestly did not expect anything better.
+Why is there a 10 near satans bar in the same fashion gods bar has a number next to it then?
+
+EDIT: I have created 2 images.
+The first one is what I suggested at first: http://imgur.com/tXi7TyG 
+The second one is what you suggested (deaths are in millions and i adjusted the actual numbers on the graph): http://imgur.com/WXWTPPu
+
+Hopefully I have made the differences clear enough.
+But if it says "in millions" it will still imply that god killed 2.47 million million people (aka a 2 with 12 zeroes behind it) and satan killed 10 million, which of course is not the intended number.
+
+All you need to do is change it to "Deaths" or whatever (without any additions since the graph already counts 2 MILLION deaths).
+The bid is now 15k.
+
+What. The. Fuck.
+
+Edit: 18...
+The bottom axis should say "people", not "millions".
+ The way you show it is as though god killed 2 million **million** people.
+That's how warnings work.
+Downvoted because this is about athene but props to Destiny for calling him out on the trolling, I'm definitely on Destiny's side. 
+The most insane bo5 Iv'e seen since I started watching eSports.
+Shouldn't *every* religion become a hated minority?
+What he is saying is that when someone who is at a disadvantage ( handicap, etc. ) makes something amazing the result is more impressive than an average person doing the same thing.
+
+Basically, because the creation is the ultimate good thing the only way we can make it better is by assuming the creator had a disability of creating it ( hence, a creator that is at a disadvantage yet still manages to create something so wonderful ), leading us to the conclusion that the disability was very severe ( = not existing at all ).
+This has nothing to do with League of Legends, dude.
+http://www.lolking.net/summoner/euw/21997679#history
+
+His entire match history is like that. Occasionally he gets carried and wins but as support Shaco all he does is mass traps in useless places, runs around in circles during teamfights and laughs whenever people call him out on his trolling.
+
+
+Yes, please.
+I find your username quite fitting.
+Hopefully they get the change they are looking for. As a citizen of Israel I'm glad the government decided to hide the "Nationality" field in our ID's to prevent similar discrimination.
+I am disgusted by the lack of respect this brat has for anything.
+Gambit is a strong team and Wickd is a good toplaner. I think it will be pretty cool.
+Somethings up with your game.
+My laptop runs it just fine with normal ping and usually above 120fps in 1080p.
+try reinstalling the game or your graphic drivers.
+How many keyboards did it take?
+Very nice fights went down.
+What does a yellow badge even mean? I've never seen one.
+I lol'd
+Well since they added cooldown indicators on some passives it would seem logical to add a small line of text in the passive's description to indicate the exact amount (like nasus' Q where it has text indicating the bonus damage).
+
+tl;dr I agree.
+It should change all the particles and effects into the appropriate ones on the skin you install.
+I don't know if SIU is accepted by Riot, but I've been using for a while some time ago.
+"Don't upvote" Pretty ironic lol.
+Try using Skin Installer Ultimate. Instead of installing a new skin to the default one, try installing the default skin (or any you wish) into the skin you don't want to see anymore.
+
+For example, for Lux, take the default skin and install it over the Steel Legion skin. Hopefully, this will replace her model whenever you encounter this skin in-game.
+Here's the Vi cosplayer: https://www.facebook.com/christina.erring
+My hero man.
+
+His reaction, too good.
+"In my book I won, I won. Don't forget to subscribe and pledge"
+Why must you be so childish?
+
+This whole Jelly Hater shit is nonsense, it's like two five year old kids throwing sand at each other. Start understanding that not everyone likes you.
+
+Also, for the topic: Play without Ryze.
+Agreed, but Riot has to make money somehow, right?
+More new champions that people can buy for money = more people who buy new champions for money = more money made for Riot. Revamping a skin people already own won't bring revenue.
+"I did penta vote for me" - Alex Ich 2013.
+I agree. Supporting charity is cool and he does it for the greater good, But it is not excuse for being such an asshole in-game. Also this constant crying for the so called "Jelly Haters" is pretty annoying, he should just accept that there are people out there that don't like him/his stream/whatever.
+
+And hey, I read this thread ;)
+
+aaaaaand OP got removed.
+Video does not exist.
+So was QualityPlayer and Athene ( BTW Athene's reaction was hilariously sad ).
+Now that's bling right there.
+I'm sure she would like that. lol

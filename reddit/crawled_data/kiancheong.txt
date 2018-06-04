@@ -1,0 +1,170 @@
+Use the Memory Graph debugger. I’ve been quite successful in nailing down some retain cycle issues by looking at the relationship of objects as presented by the graph. 
+That doesn’t qualify as a line. 
+You’ll get to meet a lot of dumb fucks too. 
+I requested to delete my account. That wasn’t news. But this is Woz. The Woz!
+You’re not alone. 
+Now he Woznt anymore. 
+Some programmers, when confronted with a problem think: git blame
+And now they have no problems.
+He got the company to buy him a work phone. Many companies practice locking down the phone with device management software. This allows them to ensure that the said device is only used for work purposes, or that it can be wiped if lost or stolen. 
+
+He asked me about defeating the device management software. Being a friend, I did some research and tried answering as much as I can and concluded that: no, you can’t do that. 
+
+Nevertheless, he took the phone (still in its box) from the device admin before they were able to install the device management software on it. It’s beyond me that the admin would have allowed that in the first place and never followed thru to install the device management software. 
+
+Fast forward a few days later, he posted pics of the phone, still in its box, on his Fakebook timeline, right next to a rose. I realized that he was gonna “gift” the phone to his wife for her birthday. 
+
+Well, that’s not the end of it. A few days later, I met the wife on the train while on my way to work. The wife flashed her new phone, compared it with mine (I was using an iPhone 6s at the time, and the phone she got was an iPhone 7 Plus) and concluded that her phone was bigger and thus, better than what I had. 
+Why stop at 50 million when you can get 87 million. Heck, let’s just download everything! 
+This. 
+By pointing a droid to his head.
+That CommBank ad though...
+Looks like I’ll need to delete the beta profile then check for updates. 
+I like how businesses can customize the title bar with their logo and color scheme.
+My iPad is currently running the last pre-GM beta, says I'm up-to-date when checking for Software Update. I assuming this one won't expire. 
+In the past, I’ve seen more detailed release notes for software that weren’t released thru the App Store. 
+Where do I sign up?
+It’s hard to swallow that people still don’t get the fact that “if you’re not paying for it, you’re the product.”
+Money is the last reason. Imagine all the Apple-deprived users getting nothing but Droids. 
+If you don’t have the money to pay for the drawing, end of story. 
+There’s a very well written guide here for those taking the next step: https://deletefacebook.com
+Hope you like going to PayPal’s site, fill up your username and password (skippable, yes), pick the delivery address, confirm payment, then wait while they redirect you back to the merchant site. 
+That’s not the Kind of tip that you want to give Godzilla sir. 
+No idea why, but I secretly hope this is the case. 
+No idea why they can’t fix this easily. Just use the time stamp!
+Chief Dumb Fuck
+And I’m not even sorry, hehehe!
+Casual stormtrooper, Force projection alright. 
+Starts with being clueless, then glueless 
+Someone that’s clueless obviously. 
+4 tattoos now, maybe 5. 
+Wait, upon careful inspection, that’s Red Three aka Biggs! 
+That’s Luke’s X-wing 😋
+Just occurred to me that Ashoka came back to Lothal escorted by Rebel X-wings?!?
+Sorry, we got caught. Removing it now. 
+That’s where the Jedi holy texts are stored. 
+Then why label it Others instead of System. Sorry, but I don’t think that is correct. 
+This is Telegram. Note the difference in the “Send” arrow. 
+
+https://i.imgur.com/ARMqZJZ.jpg
+Cameraman shot first. 
+Signing out of your own personal Apple ID also signs you out from Apple Music, which means you have to re-download the tracks you previously downloaded. Mildly annoying. 
+I had this issue when I was testing auto-renewing subscriptions for my app, and yeah, it keeps popping up. I ended up just signing out of that account (since it’s a throwaway) and use a new one every time it starts to misbehave. 
+Don’t use your personal Apple ID to test IAPs. Create new, throwaway ones. 
+^ There’s one. 
+Did you accidentally tapped on a video? Happened to me once as the video continues playing in the background even after exiting the app. 
+Guilty as charged. 
+Here, have an upvote. 😀
+Not until after he eats his member!
+Occurred to me a couple of times. Still trying to figure out which app is causing that. 
+My launch day 6s did that and when I brought it in to the store, the graph that was shown to me tells the story that the battery’s defective. Got it replaced with a refurbished. 
+First thought that came in mind was that you haven’t flossed in 50 days. 
+TIE Fighter
+How long before Apple realizes it and removes the update?
+You need to charge your X
+It would be “10 code” if it’s written as “X code”.
+Can’t recall where I got it from, most likely Reddit. Please let me know if it’s yours and I’ll put the credit. 
+
+https://i.imgur.com/4I6lPql.jpg
+I will make it legal!
+I love you.
+I know. 
+Nope, sorry. 
+Hello everyone. 
+
+I’d like to introduce you to BrikBiz, a mobile BrickLink store manager app that I've been working on for the past year and a half while at the same time, running our own BrickLink store. This is an app designed for BrickLink store owners, therefore, it requires a BrickLink Seller account to operate.
+
+Here’s a summary of what it does: 
+Easily manage your BrickLink store on-the-go. Keep track of incoming Orders, or send Drive Thru messages immediately after dropping off the Order. And see your store’s overall performance. 
+
+Update your inventory without having to squint. Increase (or decrease) item pricing or send them to the Stockroom. Look up the Price Guide and have your items competitively priced. Share links to Inventory items and save your customers from having to dig around your store. 
+
+Search for Catalog items, and see each item in it’s full detail, including Item Number, Year Released, Inventory, where the Item appears, Color Info and Price Guide. The Part Out Value feature comes useful when you’re out shopping for the best sets to Part Out. 
+
+Last but not least, mark lots as Complete or Incomplete in the Part Out Helper. Useful when parting out multiple large sets. 
+
+
+Following is a comprehensive list of features:
+ORDER MANAGEMENT
+View Orders as you receive them
+Update Order status as you see fit
+Send Messages to your customers
+Post Feedback once the order is Completed
+Send Drive Thru messages right after dropping off the Order
+View list of Items in the Order, including batched orders
+Mark Items in the Order as Verified after pulling them
+Add Shipping, Insurance and other Costs
+Send Invoices when the Order is Ready
+
+INVENTORY MANAGEMENT
+Load your entire store Inventory
+View your Inventory based on Category, Color, Item Type and Availability
+Update Inventory details with ease
+Set Pricing and Discounts
+Edit Tiered Pricing
+Send Items to StockRoom
+Share links to Inventory items
+
+CATALOG
+Look up the BrickLink Catalog
+See detailed Item information
+Check Item availability and Color
+See up-to-date Price Guide
+Check Part Out Value for Sets, Minifigs and Gear
+
+PART OUT HELPER
+Mark lots as Complete, Incomplete when parting out multiple large sets
+
+CLOUD SYNCING
+Sync Orders, Catalog and Part Out Helper data across multiple devices
+
+OFFICIAL BRICKLINK STORE API
+Please ensure that you have enabled API access beforehand. Instructions to enable this is available within the app, or check out http://www.brikbiz.com
+
+
+GET STARTED TODAY!
+Download BrikBiz today and use the Orders listing feature for free. Subscribe to BrikBiz Premium from within the app in order to work on Orders, e.g. changing Order status, sending Messages, etc. BrikBiz Premium subscribers will also gain full access to every other features such as Inventory management, Catalog, Part Out Helper and Cloud Syncing. Monthly and yearly subscription plans are available. We’ve also added Demo features for each Premium feature, so don’t forget to check it out and see if BrikBiz works for you.
+That's one hell of a dough-filled Nutella!
+16 to collect!
+Speaking of TIE bombers, I don't recall seeing any escort other than 2 TIE fighters throughout the OT. 
+It's there as an excuse for the Special Editions. 
+Not long. Elevator ride not long.
+They're TIE bombers. 
+You are unwise... to lower your defenses! 
+I'll let you guys in on a secret: all LEGO sets are designed in the toilet :P
+Now the question is, will it transform? 
+Up voted
+Dak? Dak?!? Wedge, I just lost my gunner. 
+R2-D2, it is you, it is you!!!
+Wrong line?
+There's Emmet in the third pic. 
+There's
+At least you get to buy both of 'em before she kills you ;-)
++1 for anyone mentioning the UCS B-wing
+There's the 9493 X-wing which is not UCS, and 10240 Red 5 (aka Luke)'s X-wing which is UCS. 
+I see what you did with the horse there. :-)
+First time seeing a bar being used as a stand. I've been looking to build some for mine and have always steered towards support beams. Thanks, I now know of an alternative ;-)
+QC must be sleeping on the job. 
+What happened to your original cockpit windscreen that you replaced it with the one from Benny's SSS?
+Love the reference to 1138!
+Aye!
+It's normal. They usually get aligned in my sets. 
+Ghostbusters to the rescue!
+SPACESHIP!!!
+That one odd set in there is for yourself?
+Id love to see the A-wing and Snowspeeder if someone cared to share the links. Thanks!
+The two Star Wars sets itself are worth far more than $50! Congrats!
+Mind showing photos of the stand itself as I'm looking to build some for mine. 
+At least these buggers made it look horrible so we know which ones are real and which ones are not. 
+Yes, spaceship, spaceship, SPACESHIP!!!
+Yes, they need to remake those games. I got into Star Wars thanks to TIE Fighter for DOS. I am that young!
+URL schemes look like this - xyz://parameter
+If you have the official Twitter for iPhone, try typing this into mobile Safari - twitter:
+it gets moved into a "suspended" state where it doesn't use any CPU cycles. however, it continues to hold on to resources like memory where it needs to release if ever told by the operating system. 
+it does its detection using low level UNIX APIs (Mac OS X/iOS runs a flavor of UNIX)..
+
+there are no private APIs in use throughout the app ;)
+* I have some screens posted over at my [website](http://xcoolapps.com/AppSwitch.html) and more over at [Facebook](http://www.facebook.com/album.php?aid=2089605&id=1135230044&l=6e29111335)
+* if you run AppSwitch on the iPad now (e.g. iOS3.2.x) it will work, but it won't show any backgrounded apps other than Apple's.. when iOS4.2 is out, it will work just like when it is run on a multitask-capable iOS device 
+
+note that the app is not Universal yet.. :)

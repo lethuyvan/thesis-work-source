@@ -1,0 +1,1799 @@
+So if I plug in my i7+ into my friends  xbox it would make it an iPhoneX right?
+
+/s
+Inb4removed
+omg I freaking loved that game! Had all gold guns and several world records of all species. Its a shame they don’t make this kind of hunting games anymore. I mean besides thehunter of course. 
+What problems would one run into? 
+I always used my backups from my older, jailbroken phones and I never had any issues (at least not that I’m aware of). 
+Been doing it since my iPhone 3G.
+Like TheAdminRP ?
+Maybe on r/shitty_car_mods
+I don’t think he hit the breaks tbh
+If it works like v0rtexnonce it will keep the nonce after reboot. 
+Like I said, i would save them in a text file. 
+I have my model (Axxxx / 9,4) and  ecid in hex and dec saved so and can easily access them. 
+ 
+You could also save them in your phones notes app so you wouldn’t even meed that txt file from your pc.
+Maybe tim sits in his office laughing his ass off while switching the signing on and off. Totally knowing a good amount of r/jailbreaker will ruin their downgrade bc the signing stops in the middle of the process.
+Why did you wait for itunes?
+You could have just went to the tss saver page and save them.
+
+I saved my ecid and all infos in a txt file so i can save blobs without having to check ecid in itunes
+As long as there is no SEP workaround its not possible
+Just restore?
+!remindme 31 days
+Try cydia eraser or do it via find my iphone
+Thanks for that picture. Not that I wouldn’t believe you otherwise ;)
+However I never had my watch update without me doing anything so I think I’m good. Maybe I’ll try to reinstall.
+[This might help. You’re welcome ](https://m.wikihow.com/Be-Patient) 
+Did that but didn’t got that message. It just installed directly to the phone
+Not sure if missing /s ... if not: weneta much?
+How?
+Your welcome! 
+Unfortunately there is no way. Tbh i lost my 9.3.3 jb on my old i6 and I absolutely miss it. Even if it’s just for the sake of having had it on 9.3.3 for so long and being on a stable jb. 
+Just stay on that version - believe me once you get a new device you’ll love it on 9.2
+Restore in itunes (10.3.3 to 10.3.3)? Wont work as it loads the last signed SEP which is 11.2.x. Even with future restore you need a signed sep to work
+
+However you could try cydia eraser to delete everything jb related, not sure if it deletes all data too. Better make a backup
+
+E: Happy cake day
+It works but only with A7 devices
+
+E: assuming he has another device than stated in the flair
+It also didn’t save it for my i6
+Just had to update my precious i6 (ex pangu 9.3.3) to 11.2... fml
+But at least i did so before they stop signing <11.2.5.
+Although i rarely used my i6 it’s such a bloody shame that i lost my 9.3.3 jb
+We’ll change happens all the time in life I guess 
+
+E: hoping for a solution to set nonce on 11.2 before the sep won’t be compatible anymore 
+Just to be clear, with FFZ enabled you dont see embedded clips? - not talking about legacy here oc
+The thing I don’t understand is that they are a twitch feature not a ffz one. And they show up without ffz/bttv.
+Most of the ppl don’t have this issue so I really don’t know what’s going on.
+Especially now that I encountered this on a brand new laptop with a fresh firefox install.
+Well, as one would expect it works fine on legacy as it literally is the „old twitch“.
+But yes, I saw some features pop back up over time.
+I just don’t understand how ffz could affect embedded clips if there isnt even an option to hide them?
+bttv on the other hand has a switch to turn them off so you would only see the link but mine isn’t set.
+
+I started to ask around in the channels I normaly hang out and have found other people saying they also have this bug. 
+Hitting F12 in the browser doesn’t give any clue - although I sadly don’t exactly know what to look for.
+I’m on 11.1.2 on my 7+ and watchOS 4.2 and only get the move goal achievements. Do I have to activate some settings to get those „personalized“ achievements?
+Judging by his username he can’t be that experienced in life
+Don’t feed the troll.. smh
+Happy cake day
+For people like us  it should be normal to NOT assume things and gather information before doing anything. 
+
+Just saying. 
+The good old days... sigh
+Oh man did I have a crush on her back then
+Doesn’t colorflow use MS?
+or Damn NFO Viewer
+v0rtexnonce to set nonce on 10.3.x
+Bc people these days think “they know/can jelbrek” just because they hit a “jailbreak button” once or twice and read 2-3 posts in this sub.. smh
+Or at least do some research on reddit or google
+Not sure if theres a typo in your title but yes, upgrading to 11.2.2 will make you lose your jb
+But only 3.60 games, right?
+You should check out r/catsareassholes
+You’re welcome
+
+Just hide the app somewhere in a folder.
+
+You could check in the settings - i think it’s in settings -> general -> storage or something like that and there should be the update files. 
+Maybe deleting that could get rid of that red badge.
+What device and iOS version?
+Use tvOS beta profile (tvOS10) to stop your phone from downloading iOS11
+I’m not 100% sure regarding yalu 10.2 and if cydia eraser is a must before restoring.
+*NORMALY* you could just (backup if needed) and restore with future restore. 
+Some jb related files will remain on your phones, but cydia eraser technically should delete them all.
+
+E: note if you back up there will be some jb related files left behind. Iirc those files are tweak setting files and stuff like that. Thats just how itunes backup works.
+I think your caps broke
+Check [ipsw.me](www.ipsw.me) only 11.2+ are signed
+What about:
+
+r/ios
+r/iphone
+r/apple
+The more you try to keep things away from people, the more they seek to get said things.
+If you haven’t already done I suggest to x-post to r/legacyjailbreak
+Dude you really should do some jailbreak homework... If you are not sure - and judging by your post history in r/jailbreak in some cases you are simply not - please don’t spread false information. At least google before commenting. We all had to learn jb related stuff sooner or later, but again if you’re not sure or just think you know the answer -> google is your friend. 
+You may kill someone’s jailbreak, please keep that in mind.
+
+Also paging u/PacmanSteve
+
+Cydia Eraser doesn’t just delete Cydia:
+
+> Running this tool will destroy all of your data: this is the goal. Do not run this unless you want to destroy all data.
+
+
+> Cydia Eraser is a tool which has only one feature: to remove and revert all changes made to the device and return it to "stock" Apple iOS software without updating to a new version of iOS.
+
+Source:
+https://cydia.saurik.com/package/com.saurik.impactor/
+Was that the reason for your boot loop?
+What did you do?
+Any infos on folder enhancer?
+What I meant was that you need a signed SEP (the ones from 11.2.x in that case) that will be compatible with 11.1.2. And I don’t know if the beta one would work 
+There is a windows fork which was used be many people in this sub.
+Oh the irony 
+Just ignore it, he hasn’t done his homework. 11.2.2 SEP is still compatible with 11.1.2. Not sure about thebeta ones though 
+One reason would be that the next ios update also updates SEP. You wouldn’t be able to update anymore
+How is folderenhancer not on this list?
+what are you talking about??
+Why should he use ios11 sep on ios10? He wants to update so SEP isn’t even a problem here..
+
+
+I mean we saw what happened...
+I still don’t understand why the hell they did this..smh
+They had both controls in one app. Also why is the now playing complication not available on every watch face.. I don’t get it
+I’m on 4.2 but don’t seem to find that complication. Do you have to add it in the watch app?
+[Thats one pic of the article posted in the comments](https://images.bonkersabouttech.com/image-server/vmgalyuzpfoot7pojt9eq9v8cdsinfqa.jpg) 
+Do you mean Norway?
+Cringe
+I was talking about watchOS not iOS.
+
+E: however I’m not sure if that makes a difference as ipsw.me does not show if they are signed. 
+I’m not even sure if you could use those builds of watchOS with those $100 cables but that’s what I was referring to
+Dang it. 
+
+It seems kinda strange that we are not able to do that. I remember someone mentioning that all versions of watchOS are still being signed and could be installed at any given time. But I’m not 100% sure if thats true.
+Yep
+I know that, but afaik these version can eventually be jailbroken.
+Just regular salt?
+You might want to keep a good eye on him. I know some girls who would do almost anything to get their fingers on a man like him while on a shopping spree.
+Aaand heer wee go!
+Forgot to add -> x-post from r/gifs
+See sally? Told you I can jump over that bus!
+I get that but I just try to understand whats going on.
+Thing is I used the same passcode for years, why should I forget it? 
+Also, doesn’t iOS count the same wrong passcode as one attempt? I think I read that somewhere..
+
+However, I think 2-step verification (which I don’t blame) has a very confusing wording which can be seen [in this Apple Community post](https://discussions.apple.com/thread/7537318) 
+
+Well, I guess RIP my testing device as it is disabled now.
+You don’t drag the future restore into cmd.exe.
+First put all files into the future restore folder. Open cmd.exe and cd into that folder. Type in the command and drag in the shsh2/ipsw file where you are supposed to enter their file name. 
+Is that a speck case?
+iCat.
+Speed is key!
+[l/leichtpenis](https://www.reddit.com/r/mildlypenis) 
+The ting goes skrrrah
+Happy ~~karma~~ cake day
+Thanks, subscribed and posted it there too
+r/legacyjailbreak
+what would happen if my nonce does not match? would i be forced to upgrade  to 11.2.2, or could i use ireboot to get it working on the version it was/is?
+Ball in the balls
+I got a "ceramic" one from wish for 20$ or so. Don't know if it is actual ceramic but it feels very smooth.
+It's on the internet, it is. 
+r/gifsthatendtoosoon i guess
+I like naplams
+> Late with seth night meyers
+
+FTFY
+That didn't work on my 7+ (ios 10.3)
+Secure Enclave Processor 
+The face of the woman on the right
+Who do you mean?
+Happy cake day
+There should be an auto block feature based on blacklisted words
+I need to reinstall firefox and don't want to use sync as it syncs back all settings. For some reason I can't watch streams above 480p without heavy buffering and I guess it's because of some setting. 
+However I installed chrome and imported my passwords and hope to reimport them to firefox.
+is there a way to import them through passwordfox? 
+like save them as *.html and import them to firefox?
+If not we have to manually type in at least 30-50 username/password combos which would be a real pain in the backside tbh
+Thanks. I just "found" my old iPod 4G(?) on 6.1.x (man that felt awkward) and was wondering how to install compatible apps.
+You and other devs should just block all those ppl - sore thumb incomming ;)
+I'm thankful for everything you guys do - and even if I am an inpatient person myself I would never go and spam some devs twitter or shit post in this sub.
+However, thanks again for all the work.
+
+I just felt the need to say that.
+
+Which blobs beside 10.1 aren't usable for A10s?
+Then what? Sideload?
+yea, I noticed Faegwent a long time ago (a year or even more).
+xdbot started appearing around xmas
+
+E: found [this post](https://www.reddit.com/r/Twitch/comments/4hewxr/whowhat_is_the_twitchuser_faegwent/) about Faegwent
+There where some dup glitches, which one do you mean? And is it still working on PS4?
+
+Rigged
+Not from that far, but in close combat? I mean if you hear a squad fire and hear a lot of empty mags go "ping" you'd know that at least some of the soldiers are out of ammunition.
+Again, I don't want to argue with you, I'm just wondering where that "myth" came from and how it could make sense 
+
+E: I got it. Like I said, I'm not here to start an argument!
+I've never shot a rifle myself and I didn't have the time to do much research. To you it might seem very obvious that you wouldn't hear the clip eject.
+The only question I was asking - or was going for - is why this even was a myth or if it was plausible.
+
+Thanks for all your answers and explanations. Everyone else can put their pitchforks away.
+It's a wide spread rumor and it's not that I don't believe you but have you any source? 
+
+E: Before you answer check my edit in my next comment
+rip beautiful gun! Ding!
+Too good to be true.... Sadly enough 
+🤔🙄
+Would be worth it tbh
+Looking at [this chart](https://i.pinimg.com/originals/e7/84/ac/e784ac7b73a8bd37971605aacfe71e46.jpg) and having had a ton of ristretti or espresso I would say there's no need for a banana.
+This is never ever an espresso. 
+Just saying
+There was a cat in this vid?
+
+/s
+Don't! Laugh! For the love of god! Don't! Laugh! - Guy probably 
+Hello acid my old friend
+Top comment you say, huh? I don't get it
+Wow thats a big ass espresso right there.
+Those russians know how to play battlefield! Davaj!
+Police discount 
+I want to kiss it on the nose. Like really bad!
+> I think the tiger is trying to figure out the dogs taste in the end
+
+
+> "It's okay bro I'm not gonna eat you today"
+
+FTFY
+
+/s-ish
+Wow how did he even saw that without his colorblind-correcting glasses?
+
+/s
+Maybe thats just because of the spring?
+Good luck, hope they can separate you from that tree 
+So 2017
+> This doggo being lazy
+
+FTFY
+This dogs mom was definitely a falcon
+Fourth repost in 24hrs in this sub alone
+
+E: just saying
+Now try to not lose one of them
+u/nutboy12 would like this
+It gets weirder every fucking day...
+No need to worry though, it's still attached to the rope
+Happy cat day
+Back to back
+What watchOS version is running on your watch?
+I still don't see my perfect month achievement. I can see it the day I unlocked it (dec 31st) but it won't show up in achievement. Also my January (greyed out) isn't showing
+
+Edit: restarted both iphone and watch several times and still nothing
+Same problem here. 
+7+ on 10.3.1 and S2 on 3.1.3. I got the achievement on my watch and I can see in the activity app on the day I got it but it's missing under achievements.
+And like OP said I'm also missing the January achievement which normally is shown greyed out
+
+Edit: OP what watchOS you've got installed?
+I didn't get my monthly December achievement :( My watch is still on 3.1.3, so I'm wondering what version you've got installed?
+*Fidget the spinner
+Kinda true. You can read the title in two ways though: 
+- Which jailbreak am I missing for those versions of iOS
+- These are the only jailbreaks I know of, which am I missing
+No offense and I really get your point, BUT it's like saying Mac OS X Lion (10.7) had nothing to do with OS X Mountain Lion (10.8). 
+Its just the name of an operating system given by the company who developed it. It evolves in terms of coding AND naming. (Check wikipedia for the evolution of Macintosh System Software -> macOS)
+However the "jump" from iPhone OS to iOS isn't that big of a change
+Can someone tell my what exactly they (apple) are trying to revoke?
+What is this? A cooking show for ants?
+r/thingsforants
+Cat.
+Touchy the meaty!
+Kat.
+r/wildlypenis
+Happy cake day 
+After reading the list and seeing your name twice on it I was gonna say RIGGED. 
+Then I saw your comment about giving away reddit gold and I must say you definitely earned your spots on the list! 🤗
+
+/s-ish
+> that *hole* sub could be cross-posted here 
+
+FTFY
+*little* dinosaurs 
+*Player 1 smashes gamepad*
+Hated them in Battlefield
+Erma Guard! 
+Tree fiddy
+Can't you use a mirror?
+Would like to know that too. Also what about the date bug when using calendar events or "local reminder" apps
+Why do they even produce both models?
+I miss windows 7...
+lol I never understood the panic back then. 
+True.. they own you and can [brighten up your day a lot](www.reddit.com/r/catsareassholes) 
+
+Jokes aside, thats a cute fur ball 
+Maybe you should stick to ferrets? 
+I swear to god.. one more time and I freaking stomp you like this!
+Cat.
+lol somebody seems to hate cake day :(
+
+Edit for clarification: the whole convo got downvoted before. Why should I say OP hates cake day?! Calm down reddit ;)
+Is that Coldmirror?
+The cat adapted very well. Has to work on the pose though
+
+Edit: words 
+Also funny that they actually have put a "10" instead of two zeros
+Yes, it is what it means
+What about paintings?
+Happy cake day
+Oh I thought he uses quick maffs
+Kat.
+r/mildlypenis
+
+No kidding!!!!!!
+
+/s
+As long as there is no way to set nonce, no
+"Please ociffer, its my cake day"
+
+Ps: Happy cake day OP
+r/iamverybadass
+Happy cake day
+It's ok, seen it a lot ;)
+I don't see it 🤔
+Found the CIA interrogator
+Lemme help, lemme help, omg it's a bomb
+Sweeet ! :)
+
+[Reminds me of this](https://images.maskworld.com/is/image/maskworld/bigview/gremlins-stripe-mogwai-puppe--mw-132891-1.jpg) 
+
+
+True it was Williams, my bad.
+
+So why where there so many Toyota guys?
+I see at least 3 Toyota shirts (not including the one Michael is wearing) and one McLaren shirt so my guess would be that they where celebrating with Michael's brother Ralf (driving for Toyota at the time)
+Where do you see this pop up?
+
+E: why the downvote? I was just asking where did that show up.. 
+Happy cake day
+The SEP must be signed so no, it isn't possible
+Der grosse Brudi machts vor und der kleine muss natürlich mithalten.
+😳
+Need more sticky tape 
+
+/s
+> Salma Hayek
+
+FTFY
+
+As always it depends on what tweaks are installed, and as for now not many useful ones can be installed.
+So I think it's too early to ask such questions
+Happy cake day
+Used up all the luck for a lifetime for not getting impaled.
+Happy cake day
+> Literally unjailbreakable
+
+FTFY
+This reminds me of a pro tip for gamer:
+
+Just. DONT. Die.
+To get to the front page and cause drama 
+
+/s-ish
+You could use a vm with sierra 10.12.6 or high sierra
+Ok got it... I'ma just smelly the doggy
+Just a little bit?
+Om nom nomlem mlem mlom nom nom
+Touchy the doggy ?
+> The iOS 11 Secure Enclave Processor (SEP) is not compatible with iOS 10
+
+FTFY
+Do they really celebrate with members from other teams? I mean seeing this picture its quite obvious but is this a common thing?
+Username checks out
+"Cool a free parking spot, let me just.." BOOOM! "Oh nvm I'll keep on searching."
+We used those to open boxes containing books. It is nearly impossible to cut deeper than the thickness of the box so you won't get any cut marks on the books themselves.
+Cat.
+What a fluffy little murder attempt 🐼 
+Wait you can use a ds 4 with the switch?
+Maybe the discount is in CAD? 
+
+/s-ish
+Am I the only one offended that they don't line up?
+After that he might need one
+I got most of my dog tags on that map. Running from the hilltop to the forest and back, occasionally lurking  in the bushes and taking out entire squads with my knife.
+
+Got my furthest shot (900+m) there as well but somehow it didn't register on battlelog :(
+Thank you
+Edit: posted on r/theydidthemath 
+
+Ps: Get your pitchforks ready
+
+
+
+I freaking LOVE that map to bits!
+Good times were had
+I remember having the green one as a kid. Still looking kinda gross tbh
+Pretty morbid considering he died the same year.
+Happy barfday doggo
+[Cousins ](https://www.reddit.com/r/pics/comments/7mlxx3/u_wot_m8/?st=JBQLKXPC&sh=98fb0b5e) 
+Cat.
+*2017
+What a Backstreet Cats ripoff...
+Dog.
+The amount of times I deleted/dismissed or accidentally did something instead of dismissing it... smh
+r/whatswrongwithyourcat
+Rip.
+The ME262 is one of my favorite and iconic planes and on the same page as the BF109 imo.
+My OCD just kicked in... thanks u/milkrusk 😤
+You sir hurt my eyes!
+r/trypophobia
+CAT.
+That went from what could possibly go wrong to oh nvm, happy ending to kinda unexpected
+I really hope they will reimplement the touch id as inscreen sensor. 
+One reason I will not buy an iPhone X is the missing touch id.
+Caspian Border?
+Sweaty hands? As long as the metal is hot enough it will not stick to your hand.
+r/de would like this
+No worries I was focusing on the middle of the gif 
+Took me about 3 loops until I saw it... well done
+bc r/wildlypenis ?
+Are those snoot-boops or snoot-beeps? I'm confused 
+I mean you can eat a lot faster, right?
+That movie was beautiful!
+Remember... cute and cuddly.. cuuute aand cuddly!
+me_irl
+FFS OP.. couldn't you tag it NSFL? Jeees
+
+/s-ish
+Flop, rub, flop, barrel roll, flop.. oh hi there
+
+Ps: Happy cake day
+I mean its recycled wood, right?
+🤚🏼
+Repost within 8 mins?
+Why is this creepy.. it is smiling at you 
+Just read the community infos, its all in there
+!Remindme 30 years
+!remindme 1 year
+It gets worse if you switch back and forth between the consoles (no pun intended).
+
+I also play psvita and 3ds and the button placement as well as the missing right analog on the 3ds always throws me off..
+Wanna play knifey and spoony?!
+I somehow had a russian girl in my live-feed that I couldn't remember following. I thought this was an accident as I often check usernames for their info and I somehow could have clicked on follow by mistake.
+But even that is hard to do imo.
+After reading this, it seems to be real problem twitch is facing here.
+The face of pure disaB O Y Entment!
+How dare you not buying a present for your doggo
+Make sure you grab version 1.3 - just check the date. 
+I renamed the zip to ipa and sideloaded it
+
+Edited version number 
+I just downloaded the updated v0rtexnonce, and it worked first try! Tbh I haven't set nonce yet, but at least it didn't crash or gave me an error. Had to try several times to get it working a second time. 
+Just a heads up ;)
+Could you please also report back if you encounter the date bug while using calendar events or reminder apps?
+
+And could you post a link to the v0rtexnonce version you used?
+
+Thanks in advance :)
+
+E: Is your i7 a GSM or International model?
+To use this tutorial you need to have cydia and mterminal installed -> you need to be jailbroken. How should that work on a 10.3.2 i7?
+Or am I missing something?
+You got v0rtexnonce to work?
+Thing is, if you want to go to 11.1.2 to jailbreak you need a compatible SEP. So sadly it isn't "any time you want". Just throwing that out there ;)
+Thanks, same to you! o/
+Happy cake day
+Well looking at the username .. I did worse while being drunk 
+No offense OP but inb4 r/quityourbullshit
+
+Oh the memories.. 
+RiP Melanie Thornton
+r/mildlypenis
+Repost in the same sub after 8 hours? 
+Or am I missing something?🤔
+I apologize!
+2 paws and a nose mark in the snow
+The effect still applies. And iirc the bigger the difference in heat the better
+Was waiting for the smoke
+Its ea so probably yeah
+For everyone wondering how this is possible:
+
+[Leidenfrost effect shown by mystbusters](https://m.youtube.com/watch?v=yTOCAd2QhGg) 
+Also Leidenfrost effect
+
+[mystbusters clip](https://m.youtube.com/watch?v=yTOCAd2QhGg) 
+Leidenfrost effect
+
+[Finger in molten lead](https://m.youtube.com/watch?v=yTOCAd2QhGg) 
+Yin & Yang
+Never saw that. Good one
+But why xbox?
+r/nostalgia
+
+r/seagullsareassholes
+Wow, almost zero face expression ...
+Fair enough 
+Cat.
+.. and slow motion 
+Cat.
+r/wildlypenis
+Why?
+What are those, hands for ants?
+What is this, a gif for ants? 
+r/thingsforants
+Ffs at least tag it N S F W
+
+
+NukaCola
+Now show us the "Not Made In The USA" tag
+"Please kill me...."
+Cat.
+Minecraft meets real life 
+[Relevant ](https://www.reddit.com/r/pics/comments/68dezi/close_up_of_a_cats_tongue_terrifying/?st=JBP45O72&sh=a6f1f748) 
+Inb4 removed
+
+
+Edit: called it
+You should really answer your phone  when it rings
+lol still adorable though 
+Speak for yourself. I'm talking about what she wrote as caption 
+Mine! Mine! Mine! Mine! 
+Aww the old "not allowed on the couch" rule :(
+Never let a brother hangin!
+You beat me to it.
+
+[Here's the Air Crash Investigation Episode covering that accident](http://www.dailymotion.com/video/x1wq8tq) 
+Did you close the activity apps on both devices before restarting? I had this bug several times but I resolved it in different ways.
+
+ "Kill" the activity app on the watch by bringing it up, pressing the side button until the power down screen shows up and then press the crown until you see your watch face again. 
+
+Optional: At this point you could close the activity app on the phone and reboot it. Unlock your phone and open the app switcher.
+
+On your watch the activity app and wait until the "Activity - from "your_watch" tab shows up in the app switcher. Hit that and see what happens.
+Your devices *should* now synch up again.
+
+As last option you could play with the phone's date settings. Try setting it to yesterday/tomorrow and back again. Sometimes that triggers the rings to close in the activity app.
+
+Thats how I resolve this bug. Sorry for the wall of text, hope it helps!
+Restart the watch and maybe also your phone
+r/perfectloop
+# weldporn
+I'd like to know how much bigger Richards hand are compared to a certain president..
+Just .. you know.. for science 
+I'd fear to slice my tongue if I did that
+They did talk about it in a yt video iirc. I'll try and find it and edit my comment
+
+E: [found it](https://youtu.be/5RMyOvpOwdw) 
+Check his post history.. says it all
+Free tiddy?
+
+Sorry, I'll show myself out.
+I can't get it to work sadly. Tried it for at least 20-30times in a row and it either crashed or failed exploit. And afaik most of i7/+ users have the same problem with v0rtexnonce. 
+Thats why I'm asking.
+Big thanks for that! One question:
+As of now and in this state, will we be able to set nonce? 
+Def 7+ or newer as the 6s+ didn't have a dual cam
+Shoving ads in our faces
+Boing boing boing
+r/gifsthatendtoosoon
+😍
+r/wildlypenis
+What is this white stu.. NOPE not today!
+PROMOTEEEEEEED!!!
+Thanks for showing me that sub, good sir
+[Nahmean](https://www.internetslang.com/NAHMEAN-meaning-definition.asp) 
+
+/s
+lol I just saw the sign behind her 🤣
+Plot twist: her beard and the baby's hair are braided together 
+Love me some t-bags in the morning
+There is always something people will go and collect signatures on the street. 
+
+[Thats what I found on wiki for 2017](https://en.m.wikipedia.org/wiki/Swiss_referendums,_2017) 
+It also is one of a few countries with a [(semi-) direct democracy.](https://en.wikipedia.org/wiki/Direct_democracy#Overview) 
+
+> This form of direct democracy effectively grants the voting public a veto on laws adopted by the elected legislature, as is done in Switzerland.
+Might have some softening chemicals in them that aren't good when in contact with skin and or sweat.
+I haven't had any issues with mine (except from rust under the band where it closes), but I don't use them as often. 
+Love my china milanaise, steel or even "ceramic" bands though! 
+Wasted!
+Then feed the flowers to the newborn?
+Had to check if this was r/oldschoolcool
+
+Your friend looks like a young Fidel Castro
+I was going for the tail first... and then he turned around 😍
+Those ears... awww
+I prefer to smoke my weed 
+Now do it with a bottle
+You would still snort that?
+Nice.
+Me too, thanks.
+5th most populous city in France
+Nice.. I guess
+Hard to watch if you have the impression to hear his tongue rip every time he moves his head back :/
+Did you also have the impression to hear the tongue rip each time he moves his head back?
+Tbf I tried it several times as a kid, but I never got it to work. Guess I was lucky
+Watching youtube for several years I must say: yes, sadly it is how it works
+r/instant_regret for the lazy
+Found the EA employee 
+
+Edit: get the pitchforks my dudes
+[Do eet or I rape yuo next weak](https://pics.me.me/hii-i-will-trace-ur-network-wich-u-r-usin-25760040.png) 
+Wrong use of /s  buddy
+I guess he did that.. but not on his phone
+That says it all *sigh*
+[Follow the link in the first comment ](https://www.reddit.com/r/jailbreak/comments/7m1esw/comment/drqmejv?st=JBNQ6A7H&sh=66d74632) 
+Nope, SEP is incompatible 
+Fatality!
+[Follow the link in the first comment](https://www.reddit.com/r/jailbreak/comments/7m1esw/comment/drqmejv?st=JBNQ6A7H&sh=66d74632) 
+[Follow the link in the first comment](https://www.reddit.com/r/jailbreak/comments/7m1esw/comment/drqmejv?st=JBNQ6A7H&sh=66d74632) 
+r/kidsarefuckingstupid should be a friend sub 
+https://www.reddit.com/r/jailbreak/comments/7m1esw/comment/drqmejv?st=JBNQ6A7H&sh=66d74632
+Remember to use the right beta profile though. Beta 10 for ios 10 - beta 11 for ios 11
+Stay and wait till a jailbreak drops (and enjoy it) or use that to set a nonce to upgrade to 11.1.2 (if wanted/needed). 
+I second that. One should expect at least some will to wanting to understand what your doing BEFORE you do it. 
+And I don't mean understanding a jailbreak in terms of how it works technically. But at least get some basic knowledge on the matter as it could totally brick your phone a few years back. Today it will only fuck up your jailbreak in the worst case.
+Ladies first
+He is talking about making it tethered..
+
+^/s
+Thank for the.. uhm ...useless info?
+This is reddit not facebook
+How should we know which repos will be useful? Time will tell 
+> Dude, how is he supposed to know if everyone keeps pushing posts about new jailbreaks missing Cydia?
+
+FTFY
+https://www.reddit.com/r/jailbreak/comments/7m1esw/comment/drqmejv?st=JBNQ6A7H&sh=66d74632
+Or his girlfriend/mother
+Haha, I think I'll give it a try.
+Oh ok. I'm too lazy to test other reddit apps tbh
+Nope, as SEP will be incompatible.
+You could try julio vernes nonceseter112 (not sure if it is the exact name) and try to set nonce. If it works you can use futurerestore and one of the update/downgrade tutorials that match your device/computer setup to restore to the same fw
+
+I see it on mobile though:) you're welcome 
+1 year reddit anniversary dude ;) hence the cake near your name
+Happy cake day
+Custom firmware? What is this? 2012?
+the good old: 
+MLEM MLEM MLEM vs OMNOMNOM
+doggo: MLEM MLEM MLEM MLEM
+cow: you sweet pupper.. lemme eat you
+Looks like hot chocolate
+1. Winter
+2. frozen surface on pole
+3. kid with wet tongue
+4. combine to freeze together 
+5. ??
+6. Profit
+
+You may consider: 
+7 Free kid with warm fluid
+8 Profit again
+
+E: spelling and format
+Left one: ..the hell are you doing?! 🙄
+Right one: how do you do that? 😁
+r/kidsarefuckingstupid 
+Rip small guy in the back
+And you only watched that for ... science, right?
+That's because those devices depend on each other when paired. Thats normal. 
+
+Edit: The only thing you could do is to unpair them, but thats kinda useless right? Just in general: With iOS 10 you had to have watchOS 3.x, with iOS 11 came watchOS 4 etc
+However, as long as your watch is still compatible with your iOS and therefore pairs with it you should be fine. 
+What iOS and watchOS were you prior to that?
+
+Edit:
+What I mean is, did you update your SE before the watch forced an update?
+lol was going to suggest r/mildlypenis but then I zoomed in.. 
+I like the color combination of white and gold!
+As non american, can you explain why there's this controversy whether you say merry christmas or happy holidays?
+I would suggest to install the iOS 11 beta profile, just to be on the safe side. Google it as I can't link it here ;)
+This reminds me a bit of [The Evil Within 2](http://image.lag.vn/upload/news/17/10/17/The_Evil_Within_2_Story_06_IFNJ.png) 
+
+E: picture
+r/wildlypenis  anyone?
+Happy Cake day
+I feel sorry for you! And just ignore those comments laughing at you. 
+
+@ everyone laughing at OP - No offense but:
+I mean even if such things CAN be obvious, some times you do just fuck up. Still no need to laugh at someone. Always think about how you'd feel if it was you :) Happy Holidays everyone 
+
+
+E: words
+ Good video but nothing we didn't knew a year ago tbh
+
+
+Did you press them shortly and held down the power button? 
+Thats what I found on google.. maybe just try till you figure out how long you have to press the vol buttons.
+Good luck man
+See my edit ;)
+Which iphone?
+
+E: For 6s and older its Power+Home, for 7 its Power+Vol down and 8 is short vol up, vol down then hold power
+We reach last years level where everyone posted everything Luca tweeted.
+Stay away from the eggnog for tonight
+If you mean v0rtex-s then it is almost the same. And afaik the i7/+ offsets are the same as v0rtexnonce 
+Isnt nonceset112 for <=11.1.2 only?
+And as most of 7+ users (me included) say, they can't get v0rtexnonce to work
+I don't get v0rtexnonce to work. Tried over 20times in a row and had to stop bc my battery was about to die
+As of now, it isn't possible. But maybe someone finds a method of setting nonce permanently when the jailbreak drops
+Who tweeted this (didn't read the whole post tbh)?
+
+How is she not banned yet?
+
+And to answer your question: boobie streamer enjoy a special treatment from twitch stuff. So yes it is kinda normal - but this one is a very extreme example 
+r/therewasanattempt 
+Yeah I kinda saw that but was looking for something ... else I guess :)
+Thanks
+Pls help
+It is u loony
+
+E: spelling
+r/catsstandingup
+Cat.
+
+E: r/catsstandingup
+The demo is free. Or are we talking about piracy?
+!redditsilver
+now do it with a bottle
+r/thingsforants
+Would that work to fly jets in bf4? :)
+Aww what a sweet smile! Merry Christmas to you, too. 🎉🎁
+
+Hand(s) down, I think r/prettygirls will like this.
+
+Ninja edit: joke
+7+ ones seem to be the same :(
+There are plenty of tutorials on how to use it. Search for one suitable for your phone
+Try vmware
+I get exploit failed, a white screen (lasts forever) or it insta reboots. But I'm not in a hurry right now so its ok.
+It keept crashing the last time I checked it. Maybe I should redownload and compile again
+Aww , sorry to hear that! I'd like to update both my phone and my S2 so yeah I hope they fix v0rtexnonce OR that there will be a nonce setter in the upcoming 64bit jailbreak
+It got worse with the last app update.
+Oh didn't notice at first, but yea our struggle is real these days (wanting to update to 11) 😂
+Are you on mobile? 
+For some odd reason I can't click the link.
+Well done r/redditmobile 🙄
+
+Edit: sorry OP wasn't meant to highjack your post!
+Sweet girl ya have and adorable to see such a young rebel ;D
+I never did that so I can say for sure. 
+I mean there wasn't for over 3 years unlike iOS. Like I said you have to trigger the update by using the watch app. And even then you must have it on a charger so there is more than 1 moment to back out of an unwanted update process 
+I get that but why? You will still be able to pair it with your phone? And as long as you don't click update in the watch app it will not update on its own.
+At least my S2 didn't and is still running 3.1.3 
+Why is that a problem? Serious question.
+
+Edit: your phone wont update the watch to a version it wouldn't support.
+TL;DR
+As of now there is no way to set nonce on >=11.2
+Too gibberish :Didn't understand ;)
+
+Wants to save blobs with cydia 
+Wants to know difference between tethered, semi-tethered, etc 
+
+
+Edit: words
+We won't see apples private keys being leaked. Ever!
+And SEP needs to be signed by apple so as long as there isn't a way to install unsigned SEP my point is still valid
+> If you bring can me a read glass this of win
+
+FTFY
+Or make automod post this whenever someone uses more than 2 question marks ;)
+I will have to save this comment for a later use in this sub! Thank you :D
+
+Oh and take my upvote as a delayed christmas gift
+This won't help for newer devices with A8 or higher (i6 and up) as their SEP (the chip that handles touchid etc) will not work on older firmwares.
+Just search for SEP, downgrade and blobs in this sub
+Jesus... 
+Listen wheneta kid. People like you are the reason why:
+A) devs leave this scene and 
+B) this sub gets more and more toxic
+ And putting 10 question marks at the end of your question won't help you in the slightest.
+
+Edit: However merry christmas to you! Wish you all the patience in the world. :)
+No
+I'm running vmware on my "shitty" laptop and I found that running ONLY vmware and once it's booted (takes a while) it runs surprisingly good.
+However good luck with whatever route your going!
+I don't know then. If you have the time to hand I would suggest to try out vmware as I see many people having issues with virtualbox in the past.
+I used vmware.
+The problem is most likely that your phone is "plugged in" into your host system and not tunneled to your guest (vm). Search for a unplug from host option. Or google it
+"Unplug from host" in the bottom right (iphone icon).
+Can take a few tries
+Delete your phone through find my iPhone. 
+But thats resetting not restoring
+Please do :)
+It seems that - besides the yalu 10.1.1 - we i7/+ users are kinda fucked in almost every situation regarding jailbreaking.
+
+Edit: my only hope in case we don't get a working v0rtexnonce is that we can set nonce with a 10.3.x jailbreak and 11.2.1 is still signed then
+Same here. Exploit failed, insta crash or white screen. 
+7+ GSM 10.3.1
+Not even in theory.. A fresh 10.x install on i7 isn't possible as the SEP will NOT be compatible. The only devices that can be downgraded/restored to 10.2-10.3 are A7s.
+E: Just a friendly heads up
+R/cutereveryloop
+Wasn't meant to sound rude, and if it did I apologize. 
+It's just that so many get things mixed up in the past few days that it leads to spreading "false" information and in worst case ppl will fuck up their phones.
+He is talking about v0rtexnonce which is supposed to work on i7. The only thing that is for A7 devices is a fresh 10.2 or 10.3 install. 
+
+Don't get things mixed up
+I wonder if you use any reminder apps like waterminder or local calendar events and encounter the date bug?
+If everything fails use find my iphone and delete it. 
+[Secure Enclave Processor](https://www.theiphonewiki.com/wiki/Secure_Enclave) 
+
+Edit: the only devices capable to downgrade to iOS 10 are those with an [A7 chip](https://en.wikipedia.org/wiki/Apple_A7#Products_that_include_the_Apple_A7) 
+No. As iOS 11 SEP is the only one signed and is incompatible to iOS 10
+Open source =/= free to modify and/or redistribute 
+At least give us the option to change the layout.
+
+You know that it will not help in the slightest if you post certain comments out of context right? Even worse, they are not even in order.
+Why not write some sort of a TL;DR of the  whole threads?
+
+
+- People who care already read those comments IN context to the rest
+- Others will misunderstand them and start to bully devs who may have /be involved in bullying other devs.
+- Wheneta kids .. do whatever they did before
+
+I see where you're coming from and get your motivation for this post BUT in conclusion it isnt a very helpful post and should be edited/rewritten or deleted completely.
+
+Edit: spelling
+
+> saurik
+
+FTFY
+
+Oh and why is this worth posting as there are other postings with actual responses from saurik and other devs? 
+And isn't it obvious to just wait till a stable jb drops..?
+
+!redditsilver
+Can't set nonce on 11.2 afaik
+Tbh I was never jailbroken on iOS 10. I will if I fail to use futurerestore on mac vm. 
+However my i6 will remain on iOS 9.3.3 and my 7+ (if futurerestore/vmware doesn't fail) will be and most likely stay on 11.1.2. 
+!remindme 2 days
+Not all heroes wear capes (had to use that sentence)
+
+Took us long enough for a windows port! Thanks good sir!
+> Running cydia =/= installing essential tweaks 
+
+FTFY
+I don't exactly know whats the difference between them. I was trying to set nonce to upgrade to 11.1.2
+hi, mine is iphone 9.4 (GSM) on 10.3.1.
+I've just  started using vm and tbh I don't know what I have to do after finding my offsets. would you mind uploading your ipa? would be much appreciated
+Thanks man, same to you! Glad I could help.
+
+Btw I slightly edited my previous comments just to not confuse others. Put in a " *please ignore* " warning.
+
+
+Omg.. this is getting embarrassing! No worries man, I really should get some sleep!
+
+Yes you chose 7+ GSM 11.1.2 .ipsw
+
+I'm sorry for all the confusion :((
+Sorry, my previous answer was a bit confusing - I haven't slept much in the past days🙄 - yeah.. excuses I know 
+
+Edit
+However *ignore this part*
+> You only need the 7+ 11.1.2 ipsw - as there is only one. Futurerestore will then automatically get the correct baseband for your iphone 9,4. 
+Got that mixed up. 
+
+Jeez I tell you, with every year that goes by jailbreaking gets more confusing. Or I'm just getting to old for it .. who knows.
+Good night, I show myself out.
+Should be a GSM model.
+You can check here though: 
+[https://www.theiphonewiki.com/wiki/Models](https://www.theiphonewiki.com/wiki/Models) 
+
+Edit: after that check tsssaver homepage and search for your iphone x,x to verify your model
+
+E2: *please ignore*
+> No, ipsw doesn't matter. Just the baseband as there are 2 different chipsets
+
+
+Between 10 to 20 tries. 
+It will insta reboot / fail exploit on my 7+ on 10.3.1.
+Am I doing something wrong?
+
+Edit 
+Also on Win10 (had no mac/vm and wanted to try) Cydia Impactor gave me this error:
+> --------------------------- Error ---------------------
+plist.hpp:201 not PLIST_STRING <dict>
+<key>CFBundleIdentifier</key>
+<string>xyz.xninja.v0rtexNonce</string> </dict>[Status]
+--------------------------- OK    ---------------------------
+
+Edit2: sorry for that format cancer - I'm on mobile and it seemed fine :/
+Insta crash or "exploit failed" on app start - 7+ 10.3.1
+V0rtexNonce keeps crashing my 7+ (10.3.1) as soon as I start the app.
+
+What provider has TIM as "carrier tag" in germany?
+
+
+E: the only provider that comes to mind would be Telecom Italia Mobile -> TIM - but that is obviously not german :)
+As long as you have 11.1.2 blobs I'd say it would. Just take the right version of baseband as there are two versions of i7/+ -> GSM and international
+I'm sorry but thats not possible w/o blobs for 11.1.2
+I don't think so as 10.3.3 isn't signed for 7/7+ meaning the SEP isn't compatible 
+Whats the difference between the SEP from 11.2 and 11.2.1? 
+
+Edit: did you encounter the date bug? If not, do you use any local reminder apps like waterminder or calendar events that could trigger it?
+> The source was closed down to prevent Rock 1.0 from commercializing jailbreaking
+
+FTFY
+Like I said before, I didn't mean to sound rude.
+Some people just don't know saurik.com even exists. Sometimes it's just easier to ask in a forum or subreddit where you know there's people that know their stuff as to google for hours. I'm not saying thats the case here, and I get your point of it being annoying at times. 
+However if someone knows the answer or can do a quick google search why not do it? Thats all I meant to say ;)
+
+E: spelling
+https://en.wikipedia.org/wiki/Apple_A7#Products_that_include_the_Apple_A7
+Saurik - unlike other devs - has always pointed out why he made it closed source. So why not provide that info? 
+Isn't this sub supposed to share information and not telling people to "deal with the way it is" when they perhaps wanna get some in depth info?
+
+Isn't that what we call a fork?
+Thats like saying: Because it is. 
+No offense by any means But why not provide some info explaining WHY it is?
+Taken from [saurik.com](http://www.saurik.com/id/22) - read all (recommended even if it's old) or scroll down to "Open Source is not enough"
+
+> The central reason is that we have already seen others come in and use an embrace-and-extend strategy on Substrate in order to build a totally-closed ecosystem: that was Rock Your Phone, with their Rock Extensions. People always think back to Rock 2.0, which was a reasonable "Cydia competitor" that supported APT repositories; but the mission of Rock 1.0 was to build a siloed, commercial-first (if not even commercial-only: I was told by them I should sell Cycorder, which had been free) store.
+
+> The reason why Rock got forced to support APT repositories (which became Rock 2.0) was that iOS 3.1 required some major reimplementation work on Substrate, and I made the project closed source. This meant that for Rock's software to operate, they needed access to a legitimate copy of Substrate, and their strategy for doing that was to support APT repositories and then just download it in the same manner as Cydia. A world where Rock 1.0 became the core ecosystem would be a world very unlike the one we have.
+What phone do you have? 
+The frustration was real when the iphone dev team only released mac tools.
+Wrong sub dude 
+
+^/s
+Literally unplayable! 
+> Reddit is weird sometimes .
+
+FTFY
+I did try to run sierra on vmware but it lags the hell out of my laptop. 
+I would give it a try with linux (vm) but have no clue how to compile things to get them working on linux.
+My 7+ is on 10.3.1 rn but I'd like to update mainly to get my watch to watchOS 4. Are there any tutorials to achieve this with a linux vm (incl compiling things) instead of sierra - sierra lags the shit out of my laptop to the point I can hardly move the cursor
+Is there any chance to get a tutorial for this doing it on a linux vm? 
+Did you update before or after dec, 2nd?
+There is [another post](https://www.reddit.com/r/jailbreak/comments/7kx6pp/tutorial_today_i_upgraded_my_6s_from_102_yalu_to/?st=JBEF4RLT&sh=05e66d5c) that says you needed a mac bc it won't work with a virtual machine.
+
+Can anyone confirm this?
+
+Edit: if so rip windows users
+with the latest 11.2.5 beta out, did anyone check if the SEP is compatible?
+
+E: Thing is I would like to update to 11.1.2 so I could finaly update my watch to watchOS 4. So it would suck to miss another signing window. I'm not stressing to update, but on the ohter hand I'm a little hestitant because of the date bug that all where talking about a while ago and I can't find confirmed info if it's still affecting ppl or not
+Slightly off topic:
+
+1. How is the perfomance of 11.1.2 on a 7+?
+2. Did you encounter the date bug while on 11.1.2 (did a post where I asked this but sadly it got removed)
+> NOTHING WORSE than waiting possibly months to a year for another JB to drop.. 
+
+been there, done that (7+ 10.3.1)
+sorry for your loss
+Would like to know too: 7+ on 10.3.1 here. 
+What about pure aroma, will they be taxed?
+
+Edit: Can pure aromas still be bought online? I used to order a lot of aromas from flavourart in the past.
+A little addition
+(feel free to correct me on part I got wrong instead of downvoting. that way we all learn something)
+
+- Like you said: There are not more risks than on PC.
+If you don't download everything you come across and have some common sense you should be fine.
+- You must have openSSH enabled to be vulnerable to be "hacked" via wifi. But hardly anyone runs the service 24/7
+- You don't need a jailbreak to sideload. There is a tool called Cydia Impactor that does this on unjailbroken phones. Also as long as you don't have r/w on / there is ALMOST no problem in sideloading apps as they are sandboxed.
+- Cydia is indeed the most popular AppStore alternative but there are trusted repositories (aka sources) to install from. Pirating on the other hand.. you have to decide if its worth the risk. Like I said before, a bit of common sense and you're good to go.
+Not just architecture tbh
+TIL looking modern = looking boring
+Freedom unit ... smh
+It went wheelie rong
+!remindme 6 years
+I wasn't gonna count them all tbh. And I don't think that any researcher HAS to make an exploit public.
+
+Pandora and pangu however are backed by alibaba and some company I can't remember from the top of my head. 
+
+
+We're talking about two different things here. Money being one of them, the other is the fact that those jailbreak devs they hired - at least for what I know - always released there tools (iphone dev team just to mention one)
+But I get your point
+I don't think they can do much with that version of cydia as substrate is closed source. But it is a poc to be able to install it
+But wouldn't that also kill your reputation in the long run if you dont share these exploits with apple and instead sell them to "private" companies?
+So there shouldn't be any incompatibility between a rewritten substrate for ios 11 and ios 10?
+I'm jailbreaking since 1. Gen ipod/ iphone 3g but it never felt so confusing since the introduction of SEP and especially the i7=< hardware
+r/perfecttiming
+idk then
+I have a question for those on 11.1.2:
+
+Do you guys encounter the date bug that crashes/freezes your phones? Did you up-/downgrade before or after dec, 2nd?
+Maybe sideloaded
+Weird. All I read about this bug is that it starts after dec, 2nd. Maybe it won't affect a phone when 11.1.2 is installed after dec, 2nd?
+Do you still encounter the date bug? 
+Calm down and just use ^/s next time mkay?
+I think the nostalgia part is how they are/were made. Somewhere in the comments one user said that instead of frying the bake them now. So the crusty outside isn't as crusty as it was before. 
+OP, correct me if I'm wrong.
+Just enjoy your new piece of apple hardware and calm your boobies.
+Why even bother reading the article?! Lets just all cry wen eta and annoy the fuck out of good devs so they leave this snapcancer-community.
+Kids these days....
+No offense but tbf, thats just another panicky what should I do comment. 
+Stay as they won't release an exploit or a jailbreak. 11.2.1 just got released, so apple won't unsign it for a couple of weeks. Chances are better on 11.1.2.
+I think the most important question would be: will there be someone trustworthy as saurik working on rewriting cydia/substrate? 
+The reason for my statement is the fact saurik said he isn't really interested in rewriting substrate
+r/okami would like this
+That sounds delicious!
+Here in Switzerland we also have a special [raspberry one](https://d12n5g6olnywxe.cloudfront.net/images/200229_hero_himbeertasche_1920x96.2e16d0ba.fill-1520x760.jpg).
+
+E: did a quick search and added a pic
+E2: thanks op.. now I'm hungry
+Afaik we still have them here in the EU. At least in some parts.
+I'm still hesitating on buying it on ps4. Mostly bc the missing dlc and info on the size of the maps and or content.
+
+r/tipofapenis
+is that the rear view of the pic that was posted the other day?
+I'm on 10.3.1 and see this happening with several apps 
+This is cool and creepy at the same time
+Just guessing:
+Watch youtube on your tv, record it on a vhs you reused at least 25 times, use your crt tv to watch it back, record what you see with your mid 2000 nokia cell phone and send that video via email to your pc.
+
+Fermented apple..
+
+/s
+This is why r/catsareassholes exists
+That must be the by far most realistic PJSalt I've ever seen!
+
+/s
+
+ps: it's a twitch.tv emote for those wondering
+[*https://archive.org/details/EDIS-SCD-02](https://archive.org/details/EDIS-SCD-02) 
+For the lazy on mobile
+To be honest I misread that as "number one has a proof". 
+That was just an example bc you said you saved blobs since 10.3.1. On the other hand we don't know how stable the first iOS 11 jb would be compared to an also yet to come 10.3.1 jb.
+If the iOS 11 one has the same issues as yalu when it first came out I would guess I rather be on a hopefully stable 10.3.1 jb.
+
+In the end, all I said is just speculations
+The problem would be SEP and/or baseband. As you theoretically can downgrade with blobs, iTunes would still use the signed SEP and baseband which (in your case going from 11.x to say 10.3.1) would break your TouchID. 
+Yummy 
+Sauce? 
+
+E: The reason I'm asking for a source is [this comment](https://www.reddit.com/r/jailbreak/comments/7jailk/comment/dr4w1vt?st=JB584YUD&sh=2afbc150) 
+Not to sound rude, but if it isn't a known dev to confirm that I won't bet a single cent on what that guy said in his post.
+Ian Beer tweeted 11.1.2 and lower so I'm guessing everything from 11.1 -> 11.1.2 should work, but don't quote me on that as he didn't confirm this yet. 
+If you are on 11.1 just update to be safe. If not decide for yourself.
+As always, some exploits only work for certain versions. 
+Not thats this is the case but just as explanation: if an exploit works for lets say 11.1, Apple could have changed something in that version that wasn't even there in version 11.0.2. 
+So the mentioned exploit wouldn't work for anything lower than 11.1. There is no given downward compatibility.
+Is it just me or does the aspect ratio of the iphone in the back looks weird
+You misspelled assholes (in reference to r/catsareassholes )
+RemindMe! 3 years
+r/killthecameraman worthy
+That may be true as I didn't translate the site. However I was referring to the webmail itself which doesn't seem to work. Try clicking "sign up" or "forgot your password"
+Sidenote: It also states "powered by load" but if you try to reach www.load.com you will land on Gmails login page. The linked page corporate.load.com doesn't even exist.
+I guess they shut it down on March 31, 2008
+"Saved 6 times between March 25, 2004 and March 31, 2008"
+
+Just a little nostagia post while we're waiting for the new album:
+
+The service was run on eminem.com/webmail but I couldn't find any infos to when it was shut down. Must have been mid 2000. If you google it you'll find a "rip off" version of the original page where I took this screenshot.
+
+I lost several messenger and other mail accounts due to the fact that I used my @eminem.com mail as backup account for forgotten passwords.
+However I got some nice reactions telling my friends my email adress.
+
+I wonder if anyone else used to use it.
+
+
+E: words
+
+Even if arms are heavy?
+It's beyond stupid that they make these events region specific in the first place.
+You mean I cant buy it through a loot crate?
+Salty?
+*dual ?
+*ian
+How are the chances that staying on 10.3.x will fuck us over when 11.2s SEP isn't compatible with 11.1.2?
+Too bad ian beer is no jb developer so no jb will come from him. Just saying 
+I think the i7 users are the ones to cry tbh. The other ones just got their phones and we never got a jb that quick after a release iirc
+Why?
+dang it, so I'm in the same situation as I was when jumping from 10.1 to 10.3.1
+iirc the sep didn't change from 10.2 to 10.3.x. Does anybody know if they did in ios11?
+Regarding SEP and blobs, would it be possible to update to 11.1.2 with this?
+Just in case it still is unclear: if you have a Series 3 Apple Watch and ANY iPhone device on iOS 10 -> 10.3.3 you are not in luck.
+
+/s
+how old is he? eventually he will build a dickbutt ;)
+r/catsareassholes and this proofs it
+All good. Cool we got this worked out in a normal/peaceful way tho. Take my upvote plus a virtual coffe and some cookies :) o/
+I didn't mean to be rude by all means, I was just trying to make it a bit more obvious why I wrote what I did. For a bit more context. Maybe I went a bit overboard though. 
+
+E: typo
+True 
+Not for the sake of karma (as I didn't delete my downvoted comment) but it does take my comment out of context. So yes, in some way it matters.
+No offense by any means. I was just referring to the fact that the "button" itself isn't physical, even if you still can push it physically. 
+And don't get me wrong, the fact they removed the home button (besides the notch which is debatable point oc) is one reason for me not to buy the X.
+Exacly what I told you in my first comment.. 
+No need to tell us AFTER you edited your original post that clearly said SD cards are too expensive. 
+On top of that you even referred to it as PS Vita SD card in your first comment BUT PS Vita Memory Card (which is the correct term) in your second comment.
+
+At least put in an "edit:" so ppl know what you edited..
+
+E: Re-phrased a bit
+Sorry for being that guy, but the i7 had a home button but it wasn't physical.
+I don't know where you buy your SD cards, but your comment implies that you never bought an original Sony Memory Card (c)
+
+Edit: 
+Clarification for all downvoters:
+He edited the "PS Vita" part in, so his comment only stated that SD cards are way to expensive. 
+Besides that sony mem cards are never referred to as SD cards
+I'm sorry for your loss 
+l/dawareinversuch
+Start Wandows with whatdafahk pls
+Sexy SNES edition
+But.. but it says iPhoneX...
+
+/s
+r/youseeingthisshit
+r/youfeelingthisshit
+Isn't that marios mustache?
+Awww BF3 coop campaign ❤️
+
+E: word
+r/justiceserved
+What is the difference? I just checked my two xls, one is double tn the other double ips
+r/misheardlyrics
+Touchy the frogy
+r/bigcatslaps
+r/youseeingthisshit
+
+r/coolguides
+r/thingsforants
+No, i mean the fact that the plate isn't flat - look at the numbers
+
+E: looks like an european plate, but it seems to be custom made
+No worries, you can easily snow them off to your friends 
+Nobody noticed that license plate? Or are these common in certain places?
+Despite your username, I agree with you
+If you haven't already: r/nostalgia 
+Not sure if you mean that they're not the best selling or not but according to Google/Wikipedia 2 Unlimited are from the Netherlands
+Or just pretend to be such a creature
+[just. don't.](https://www.reddit.com/r/ExpectationVsReality/comments/77hojd/i_bought_this_bob_ross_chia_pet_these_are_not) 
+Do yourself a favor and don't buy it..
+[Sauce](https://www.reddit.com/r/ExpectationVsReality/comments/77hojd/i_bought_this_bob_ross_chia_pet_these_are_not/) 
+Is that one of those tanks where they mounted the main gun backwards so they could retreat faster?
+Turn it off and on again
+r/trypophobia would love this 
+Should have arranged then to form a notch.. Missed that opportunity OP.
+8/10
+Brain freeze in ... 3...2...1
+r/maybemaybemaybe
+Exactly what notch intended 
+
+/s for reasons 
+Thats my favorite quote of the entire movie! 
+Wouldn't they all be made in japan?
+The way the numbers align with the dogs eyes makes it look like he's wearing glasses 🤓 
+Doz has bambuuzel byebass, yeh?!?!
+eta, i rely sowy fo you, mai son?!?!
+Now that's a good point!
+Thanks, now I'm missing the old settings and weather icon again. 
+
+You bastard! Stop messing with our feelings!
+
+/s (at least for the last part)
+Pls, ffs someone lube the orange one...
+SENSOR_ISSUE_COMMENT_TEXT
+
+FTFY
+
+Edit: dang format
+He didn't even beat the devil once... Happy little sadface
+Why ask if you already have the answer?!?!
+Username checks out ^
+Zoom in on the troll face and you'll find some code written by him
+There was also Action Replay
+Exactly. Sorry for the confusion 
+idk, never had a wii u. But like I said, if the content is decent: count me in
+Strange, in advanced settings it always told me what options of bttv wouldn't work if I enabled them in ffz.
+Maybe I got that wrong.. idk
+At least I never had major issues using both plugins. The only thing I can think of that really annoys me is the (somehow not working) "pause chat on mouse over". 
+One EA will get you that PLUS a bunch of angry neighbors 
+Wow, and they made me believe that the wii u was family friendly. FeelsBadMan
+This guy soundwaves
+Should have turned off the wii u
+Was about the write the same. But I don't think they will do a DLC for Mario Odyssey. Not that I wouldn't buy it if it has enough content.
+
+E: typo
+Like I said before, I wasn't expecting it to work.
+I can't remember where I saw it but in another post the bot refused to remind the person who summoned it. 
+Thats not the same as "swiss style" like stated on the box
+The look on the dogs face. 10/10
+Good bot 
+
+E: i didn't think this would work 
+!remindme 47 years 
+Don't make us hope for things that most likely won't ever happen.
+
+E: 
+
+/s
+r/animalsbeingbros
+As far as I understand it, ffz will overwrite the functions of bttv. So there shouldn't be any conflicts that could prevent one plugin from not working properly.
+At least I never really encountered one
+It isn't, the tiger just burped in that moment
+True, I was just curious bc the guy posting the stickers even put it in the title that he wants it to be public. So I assumed that maybe ppl would even contact him via pm to get the layout for the stickers. 
+However the rest makes absolutely sense.
+It didn't feel like it would slow down firefox on twitch significantly while using both plugins. 
+And why should I use the ffz addon (bttv emotes that is) when I already got bttv installed? Or do you mean using the ffz addon and disable bttv?
+I'm aware of that. Was using both for a long time. Also you can disable certain features to work better with bttv.
+In the end it's personal preference
+It has been released (beta). The bttv emote pack isn't really needed if you're going to use it alongside bttv
+Yeah thats what I was thinking, but i wasn't sure if the script actually had to be rewritten as well or if it just loads off the plugin.
+E: noticed that after seeing 2 icons at the top after updating the plugin.
+May be a dumb question but why censor it in the first place?
+Is it just me/the angle or is one support slightly higher than the other?
+is there a way to just make chat (api) messages like subs english? the translation sucks balls
+
+
+lol this looks like a character from mario odyssey. Forgive me, I played too much the last few days..
+Rip his cam
+i just noticed that at least the user script for frankerfacez is back. it isn't located under the chat but instead i have it at the top right. just noticed that a few moments ago.
+
+Edit: seems to be the actual (firefox) plugin and not just the user script.
+
+Quote: 
+
+Welcome to the v4.0 Beta
+
+This is the initial, beta release of FrankerFaceZ v4.0 with support for the Twitch website rewrite. As you'll notice, this release is not complete. There are missing features. There are bugs. If you are a moderator, you will want to just keep opening a Legacy Chat Popout for now. 
+...
+For a possibly more up-to-date list of what I'm working on, please consult [this Trello board](https://trello.com/b/LGcYPFwi/frankerfacez-v4) . 
+my bttv still works (at least some parts of it). but violentmonkey and the frankerfacez userscript doesn't. FeelsBadMan
+Took me way too long to figure this out. The upper part has mirrors while the bottom part and the whole middle section (vertical) doesn't. Very clever
+Nothing wrong with posting here. Maybe I should've mentioned that I thought you could also have posted it in the other sub. 
+Because some of them should be posted over there in the first place?
+I'd say the same speed as the plane
+Nice catch
+Last picture he took and two had their eyes closed and the guy in the back isn't even looking at the cam. Would give a 4/10.
+
+/s
+Yeah, I mean nothing against you posting this, but I just don't get it. 
+I can't understand the use of those red circles and arrows.. especially in this thumbnail.
+r/catsstandingup
+r/dontopendeadinside
+r/catslaps bad doggo
+r/dontdeadopeninside ?
+I forgot to mention there's also r/ps4deals and r/playstationplus to look out for sales or deals
+
+e: lol didn't checked the sub.. sorry I had no sleep last night. 🙄
+Try Gamestop or Amazon.
+
+Oh and if you're not waiting for a jailbreak you should update your phone ;)
+*facepalm* sure its watchOS and not iOS. Got it confused as you only get watchOS4 with iOS11. However thank you 😊 
+Is this an iOS 11 feature?
+How do you get 2 badges for October? 
+I was referring to the "Legend" bit in the title ;)
+Wouldn't that be the 4 in the first place?
+
+Edit: asking for a friend
+Depends on the situation your in. Jokes aside:
+Tbf it might not be the best sub to pull this joke but it didn't seem too out of place.
+Besides I never said one situation is worse than the other.
+Exactly. Like you get no good reception in a german car if you hold the steering wheel.
+Most packages are designed that way. They're simply just not put on shelves like that.  
+[Sagtest du gerade 60kg Hackfleisch?](https://youtu.be/QNzWxGsc0e8) 
+r/therewasanattempt
+
+reminds me of apple:
+"The phone is ok, you're just holding it wrong"
+Just assuming after reading Apple's Newsroom page where they say: 
+["...for Apple Watch users in the US..."](https://www.apple.com/newsroom/2017/11/honoring-americas-veterans/) 
+
+Its US only. If you're not in the US just change region in the watch app. Do another 11mins and enjoy your badge ;)
+Has to be done through the workout app ;)
+Just adding a workout in the health app doesn't count
+It does.
+My guess is that once you get a certain badge it will stay in your achievements - maybe this is some kind of travel feature but I'm not sure about that
+r/firstworldanarchists
+Edit: in reference to r/sirifail  this would be perfect to start r/alexafail
+Can you get this living outside the US?
+
+Edit: just change your region in the watch app to US and you're good to go. (General > Language & Region > Region Format > United States)
+Guy is steering left while Mario goes right
+r/evilmachines
+I love how it has 666 upvotes (at the time of me commenting)
+May add screenshot later
+r/pokies
+Same
+Same here.. frustrating and suuuper annoying 
+r/therewasanattempt
+
+"Something something "
+i know why i didn't update
+No love for teddy?!
+r/funnyandsad
+
+E: rip little balls
+r/trypophobia
+Aldi?
+r/catpranks
+Cool, thanks you!
+I was aware that I wouldn't get February's free games.
+So it's not enough to just "buy" them via PS app on my phone? Aren't they kind of bound to my account, even if they were free at the time? 
+What if lets say my PS+ runs out in January and I buy a one year membership in March. Will I be able to DL and play all the free monthly games I got over the past months?
+Good bot
+
+E: /s 🙄
+Is that a little dent on your macbook (top right in the pic)?
+Might just be the lighting..
+
+Edit: spelling..
+She kinda reminds me [of this](https://i.pinimg.com/236x/ea/1b/c2/ea1bc250d5a72113dacfa40800fbaefc.jpg) 
+
+And another "why people freak ou..." oh nvm.
+r/gifsthatstarttoolate
+True. However I'd say this belongs to r/watchpeoplesurvive
+r/watchpeoplesurvive
+I guess you meant r/watchpeopledie
+Still waiting ... badbot
+And still, looking at how many ppl misread that for "die for success" .. 
+but I get the point
+Sue me
+Just a guess but:
+In firefox they're considered an old type of addon. Meaning they want the devs to modernize their addon technology. 
+If the devs won't update their addons firefox will disable them w/o option to re enable them
+r/therewasanattempt
+
+r/dontdeadopeninside
+
+
+"HASHISH"
+r/gifsthatendtoosoon
+
+OP just to make it more obvious in your post, maybe add that one must install registry editor to edit said string.
+I too was searching in vitashell first ;)
+Thanks but I finally got it working with my main account
+My vita is activated (although I don't have a psmdrm folder in tm0) and I even tried the registry method but I'm still unable to launch the games. I can't get past the loading screen where it tells me to activate
+
+Edit: I don't know what I did, but it seems like I got it to work
+What exactly do you mean by bypassing psn on enso?
+Did that, rebooted and it's still asking me to activate?
+Any suggestions?
+
+Edit: got both (normal and 2.01) PSM-Runtime thingy installed.
+E2: I'm also using a backup from my act.dat made with acc switcher -> my vita is activated
+Last Edit: Somehow I got it to work...
+"Royal Tiger" <- let me guess, thats a british sheet
+
+Edit: After posting my comment I realized that it says "British Armoured Battles"
+I'll post this in 65 days
+First would be my iPod Video (custom firmware - can't remember the version)
+
+My real first jb considering iPhoneOS would be a iPod Touch 1G on 1.1.3.
+Last one was my i6 on 9.3.3.
+
+My 7+ on 10.3.1 is still patiently waiting
+r/instantregret
+Rodrigo Alves, the human Ken doll:
+
+[Before | After](https://cdn.images.express.co.uk/img/dynamic/1/590x/secondary/Cosmetic-Surgery-Ken-Doll-Comparison-Before-After-Surgery-222836.jpg) 
+
+[Bonus](http://i.dailymail.co.uk/i/pix/2017/02/03/11/3CCC614B00000578-0-image-a-27_1486122311611.jpg) 
+
+Edit: and those pictures aren't even up to date
+r/whatswrongwithyourdog 
+I was referring to the *"apple normally checks apps before allowing them in the appstore..."*  and *"..dont...let something that big leak through"* part.
+
+However, the app in the post linked was the camouflaged pangu 9.3.3 jailbreak tool. 
+It simply downloaded the closed source code (3+mb) and jailbreaked the phone.
+
+Edit: words
+108k
+[*cough* *cough*](https://www.reddit.com/r/jailbreak/comments/506eyp/release_ppjailbreak_on_the_appstore/?st=J8UW5WE8&sh=994d7cca) 
+They are device specific 
+I must have been blind then. Nvm its also the first link.. now i feel dumb 
+*Or on a phone using a browser*
+FTFY
+
+Afaik there's no option in the reddit app
+
+E: nvm, see comment below
+Let it die on its own, recharge and enter save mode by holding either vol up or down (can't remember right now sry) so it loads w/o substrate
+The lower your iOS version the better! THEORETICALLY you can always update by using blobs. 
+We can't tell you what to do, because - no offense - like you we are no wizard nor can we predict the future.
+Best thing I can tell you is to check here. If this sub is filled with posts about a new jb, then most likely it COULD be real. Also the amounts of shitposts about the new jb would give a good indication.
+But to answer your question: its 100% fake
+That could be it. 
+But still kinda strange that it recognizes the games but not every patch/dlc. However I'll give the "power down first" way a try next time
+You have to like this bot
+dang, me and my 7+ just got hyped up a bit
+Well for my sd adapter it may work that way (transferring via ftp) bc normally i just put it directly into my laptop and transfer that way.
+I haven't tried it with a $ony mem card. 
+
+Did you try to transfer via usb then?
+
+Edit: words
+Was about to write this. Besides the phone the best part of buying the i4 
+By powering down the vita, and then pressing the power button, the playstation button AND the right shoulder button for a couple of seconds. Then simply rebuild database.
+
+But only if the guy stood still and iirc only at certain body parts - at least some patches in.
+However, it wouldn't take as long as with a syringe.
+C'mon! Throw that freaking ball already!!
+Strange. Don't get me wrong but did you try a reboot or rebuilding database?
+
+did you accept the ToS that changed some days ago?
+Small badaboom
+
+/s
+r/trypophobia
+At first I thought you would say the konami code... but nvm
+Boom! 
+In bf3 I loved to defi kill my enemies: "zap! zap! Motherf*cker!"
+Tl;dr - delete patch/dlc folder and transfer them again via ftp/wifi. Refresh Livearea and you should be good to go.
+
+Are you using a sd2vita?
+If so, you probably transferred the files with the sd in your computer which for some reason "corrupts" them. Try to open the folder/files of your DLC in Vitashell. If it gives you a error, delete the folder through your computer (won't work directly on your vita) and transfer them via FTP/Wifi.
+Same thing goes for Patch data. 
+I can't explain why this happens, but after putting patch folders in the right place it still told me I was using version 1.0 of whatever game it was. Plus vitashell could not open the folder/files.
+r/whatswrongwithyourdog
+Oh my bad then. I didn't zoom in
+Looks like a tablet
+Laptop
+*insert the jaws theme here*
+There is another leopard behind the kill on its left side.
+The dog has the exact same picture as profile pic as the guy behind him just took
+
+E: words
+r/catslaps or even r/catsareassholes
+
+E: typo
+Exactly!
+He's the former prime minister of Italy. 
+Known for his sex escapades with possible underage girls.
+It's Wednesday on a Saturday my dudes 
+
+- FTFY
+r/hittablefaces 
+Creepy sh!t
+Not wanting to be "that guy", but it sure made me giggle 
+Halloween noodle
+*Luzerner RaHmkäse 
+htoL#NiQ - the firefly diary is one
+Iirc it's the way the plugin is written and how the sd is mounted. Nothing unusual, its just the fact that the vita turns on the screen and goes back to sleep. 
+There was a post that I can't find atm where it all was explained
+Not for games that require it (even if there aren't many)
+I highly doubt they will include the original end title which is very sad.
+But hey, hope is the last to die!
+r/stoppedworking
+This should be a gif...
+Just back it up using savemanager or copy the corresponding folder in ux0:user/00/savegame/game_id (not sure if its the right path cause i don't have my vita here, but it's something like that)
+It's in the description on imgur and also here in the comments: "Project started in 2014" and "working hours 1800+"
+
+Edit: added hrs
+Ist ein Ausschnitt aus dem Hitler-Parodie Film "Sein oder Nichtsein", 1942
+
+E: zus. Infos
+Und ob er sich selber heilt!
+[ab ca 1:25](https://youtu.be/YCAg84wtOoM) 
+wow that "spot" in the middle looks like a halloween pumpkin 
+r/mildlyinfuriating
+Even for the window part?
+Good bot
+r/confusedboners
+aka the USNCCSSCAS
+Good bot
+Good bot
+At least r/therewasanattempt
+can I still use the accountswitcher app? since tm0 is read only it wouldn't be able to write the acc.dat from the other account, right? how should one proceed? remove the roactdat line from config.txt-> reboot-> switch accounts-> add the line back in config.txt-> then reboot again?
+is there a shorter way to do this?
+Should be posted on r/letmeholdyourbeer
+
+E: lol didn't knew that was a thing
+Good to know! Thank you 
+Would be great to be able to download directly from sonys server, but was this confirmed by theflow? On his github it says that you need the update/dlc folder to install them?
+
+r/pokies for sure 
+HAAAAA haaaa haaa haaa haa 🤣
+
+E: The real mvp is always in the comments!
+I didn't think of that, but it makes sense. 
+Either that or the fact that it is not Wednesday anymore.
+
+/s
+
+Good bot
+r/notmyjob but apart from this, why not just tow it?!
+I meant the fact that this got posted soo many times in even more subs. Besides reddit, it was also kinda all over the internet. But I give you all the point of not actually being old per se.
+r/wellthatsucks
+Oldie but goodie
+
+Edit: Just to be clear. I meant the fact that this particular clip was all over reddit/the internet. Not the game per se.
+Definitely r/dontdeadopeninside
+It seems to be the same as in [this post](https://www.reddit.com/r/shittylimos/comments/706u9y/kill_me/?st=J82KIKL6&sh=95928c20) , so I would say yes
+
+Edit: the plates are different, so i cant say if they really made more than one of these or just changed the plates
+should be posted on r/watchpeopledie
+this is kinda r/funnyandsad
+r/youseeingthisshit
+did you resolve the problem? can't delete anything too... on top of that I have to install vitashell nearly every second/third time I wanna use it. 
+Thanks for your explanation. 
+Or use AccountSwitcher. Afaik there are more files needed than just act.dat to have your vita activated. But I could be wrong. Said app backs up act.dat, id.dat, system.dreg and system.ireg
+True. I just thought of a perm-fix. 
+
+Correct me if I'm wrong, but if it did that you wouldn't be able to rejailbreak again.
+
+I remember that there was a fix on cydia to close the tiff/pdf (or whatever it was) bugs that were exploited in the first place. 
+
+But like I said before since henkaku (unlike enso) must be run after each reboot I don't think henkaku fixes that bug.
+
+E: typo and format
+ETA son
+Now that you mention it.. but how comes the bot used the exact same link?
+I guess you're not talking about Celsius..
+Did you just repost u/stabbot s link?
+That must have been some level tweak or a labyrinth game on the first ipod touch running iPhoneOS 1.1.3.
+
+lol! iphone dev team, ziphone jb, installer.app and summerboard... those where the good old days.. sigh
+Is r/evilmachines a thing?
+
+E: lol it is but filled with much emptiness 
+Or DeWalt drills
+You're welcome! I even jokingly commented that it reminded me of the mostly unseen minecraft cactus underside. 
+[just like irl](https://www.reddit.com/r/ThingsCutInHalfPorn/comments/7057d9/this_cactus_1242x2208/?st=J7UGT4WO&sh=d892a5e4) 
+tl;dr
+r/catsareassholes ;)
+sounds weird.. did you also check if your config.txt is correct? (Added gamesd under *KERNEL, no typos in path etc)
+
+If you haven't already installed/transfered too many games I'd suggest to redo the whole sd2vita process (deleting sd2vita files you copied to your vita and format your sd. Pay attention to how it gets formated - allocation size or how it's called)
+
+If that doesn't work you can still reset your vita to factory settings and use henkaku to install enso.
+But do yourself a favor!!:
+If your vita was activated PLEASE backup your account data with AccountSwitcher and save those files somewhere on your pc. You'll find them at ux0:data/AccountSwitcher/your_profile
+What a happy little accident :)
+Your vitashell install should be fine then. 
+
+If you mount your sd2vita as ux0 (via gamesd.skprx) there should be (at least for me) another tai folder on your sd card. If you can't access it on your vita try it on a pc. 
+
+Last thing i could think of is to check if you put the files in the correct location and used the right gamesd file.
+
+Hope you can get it to work
+r/notmyjob
+r/stoppedworking and r/whatswrongwithyourdog comes to mind
+Did you delete/move the config from ux0:tai? 
+
+What do you mean by transferred vitashell to ur0? Moved the files or reinstalled? 
+
+There is no need to move vitashell in the first place - you can however remove/revert your changes (using only your internal storage without sd2vita) and install directly to ur0
+
+Edit: typo/format
+Looks more like r/trashy
+I was about to say John Goodman
+Should I close it or not.. f*ck it that MUST stop him..
+
+..dang it
+r/whatswrongwithyourdog
+
+r/mildlyinfuriating 
+r/fullunderwaterscorpion
+Boom headshot!
+Aww that sucks! I didn't know that you need an activated account to properly use nonpdrm - I'm still getting used to this plugin. 
+I was very lucky to install hidden apps and activate my secondary account a week before sony blocked activation. Normally I ain't that lucky. 
+Does anyone know if you can backup your mai/vpk saves with SaveManager and use them with a nonpdrm game?
+There is/was a tool called *HiddenApplications which could change accounts. Not sure if it was implemented in a newer tool, just google it (I'm on mobile right now).
+After setting up accounts you can backup/switch them using AccountSwitcher
+The mostly unseen underside of a r/minecraft cactus.
+
+/s
+Is this from the peter jackson movie braindead?
+Ok i know most people there can afford to abandon those cars.. and still... WHY?!
+
+Thing is (in most cases) we - in europe - don't get all games discounted on that list. I see Battlefront discounted but not Yakuza. So its a fair point to ask to include a region in the title. I'm not saying this in a mean way, just a heads up.
+
+For me its still at full price (EUR)
+They are saved as *.mov on your phone iirc.
+So you should be able to convert them to a gif or whatever format with a converting app on windows
+OP mentioned Persona in the title so.. 
+Let me throw that spanish flag to calm the raging bull... or let him know what awaits him in the arena
+sheeesh
+r/hittablefaces
+This is the real question 
+What was he trying to do?
+r/battlefield_irl
+I've come to talk with you again
+lol, not sure if it was posted already but OP should post this on r/catpranks
+Tbh... looking at it one more time I must say: you're right!
+Too much catnip -> r/stoppedworking 
+Would be more sarcastic if it mentioned to go out to get some wind/water pokemon
+This is the comment i was expecting to see!
+I know there were other handhelds but this post is about the gamecube/nintendo.
+Gotta get some batteries for my G&W Zelda ;)
+this reminds me of the [watch](http://radioactive-studios.com/biohazard-films/files/2017/03/Columbo-Playback-12-MidasStar-e1489865387537.jpg) seen in an episode of columbo 
+Thats the spirit!
+I hope all goes well!
+Wait.. did you really just do that?! *wink* just kidding i like it
+
+r/youseeingthisshit 
+
+
+better link without terrible music in the background ;)
+
+https://www.youtube.com/watch?v=Mlo1pqg5adY
+
+E: link and obviously NSFL
+I know, thats why I posted my comment.  they both were associates in the others team, iirc
+That gap in the middle where the doors are... sheeesh!
+r/atbge anyone?
+Wasn't he part of the iphone dev team?
+
+Edit: just to clarify, I meant muscleneard not pod2g
+r/getdemotivated 
+
+/s
+*Baby chickens
+F or C?
+wow there's no sub comments like this.. come on reddit
+Good bot
+r/killthecameraman or even better r/killtheeditor
+Om nom nom... - pupper
+I'm too old for this! - hitcat
+Hahaha! That face in the end.. perfect r/youseeingthisshit material 
+r/startledcats
+
+Geronim.. uh-oh! 
+It's made by Puma and designed by Ferrari (I guess). 
+Not sure if its the same issue with mine. But sometimes (after a long sleep) my vita won't start any games/apps.
+By just slightly pressing down my sd card (not removing it) the led starts flashing and all is fine again.
+Maybe give it a try?
+Nice diy hack ;)
+I just release (push down) my sd card and pull it out at a slight angle so the sd catches on the adapter and voila! 
+You could also buy a new mainboard with (most likely) 3.60 and swap it. But like others said, there are some good 3.61+ games out there! Not mentioning all the cool updates we can not dump/install.
+Reddit can be a strange place sometimes.
+I'm nacho friend anymore!
+remote activated mines ftw! *insert_evil_grin_here*
+u/Serariron could you please post this theme over at r/vitapiracy?
+I think most of us Persona gamers would love to have the original one besides the custom made ones <3
+Same for 128gb sd cards.
+you misspelled SNAKE
+After seeing [the beginning ](https://www.reddit.com/r/StopTouchingMe/comments/6w6vj1/stop_trying_to_smell_me/) of this gif the only thing that came to mind was r/justiceserved
+Good bot
+Call them danger noodles if that makes you feel better..
+
+/s
+I'm really running out of possible solutions :(
+
+Edit: before formating your sd: is your mem card inserted? If so try to remove it otherwise try it vice versa
+
+
+You could try and reformat your sd card. Just copy over system files/folders (no game folders) to your sd and redo the wololo tutorial. There was a tutorial on reddit to setup a sd2vita w/o the use of a sony mem card. Im on mobile but I'll try to search it. Maybe that could help.
+
+
+As it was said before: Since we cant dl them anymore and there already is a huge amount of psp isos from back then, adrenaline should be your choice.
+
+
+Just reinstall vitashell (or any other app it says its corrupted) and you should be good to go. A reinstall adds the needed lines in your config.txt which I'd backup somewhere just to be save.
+I set up my sd as ux0 and my memory card as uma0.
+Could it be you took the wrong gamesd.skprx? 
+
+Speaking of mounting: i got some minor problems mounting my sd card as uma0, but as soon as i changed that to ux0 everything worked fine.
+
+E: typo
+Ohh reddit..
+
+<3
+The reason to move/copy your tai folder is the config file with all plugins installed in it.
+Try to move the folder and redo the procedure from wololo. 
+
+E: did you see your sd card in vitashell before installing enso?
+Spicy sauce ftw
+This, but also r/legacyjailbreak can provide you with more infos on how to jb your device
+r/hipposareassholes
+Good bot
+oh cool thanks! I didn't know that.
+"Shake, shake, shake... shake your booty"
+[[FolderEnhancer (iOS 7/8/9/10)]]
+
+I love the 4x4 layout in folders. To bad my 7+ isn't jailbroken. I still cant understand why Apple didn't make this an option for the plus in the first place 
+
+(resubmitted for the bot - hope it works this time)
+I know this works for ps4 (hit square iirc) but for some reason it won't on my vita. Could this be a firmware issue (>3.60)?
+.. wearing air cooled sandals
+The green one reminds me of plankton after spongebob stepped on it
+iirc "they are very dangerous and can attack at any moment"
+And here we go!
+This! Pls fix r/nonexistentsubcrashiosapp
+r/humansbeingbros
+Leo-nel  Messi
+Definitely needs a red stripe on its side and a red spoiler!
+r/youseeingthisshit
+40% eyes. 60% rest of animal.
+
+FTFY
+reminds me of nick carter back in the 90ies
+You! Stop it! My human doesn't like sky water
+My guess is that she's trying to look down.
+I knew i remembered it from bf1942. Secret weapon addon right?
+How isn't there a bot to reply to this sort of comments?
+Thats how they make ports
+Oh thats a dog?! Looks like a ewok
+
+/s
+.. or shoot myself in the balls
+r/catsareassholes
+
+Just for the record: i like cats 
+Cruel... Off to bed!
+Steven doctor, king sleep hey
+
+FTFY
+Love the camo
+- Honey come over!
+- Nah, it's raining..
+- But I'm home alone
+-> see gif
+Late on this one but I hope it still helps.
+I highly recommend you [the youtube video in this reddit post](https://www.reddit.com/r/hearpeopledie/comments/6w3548/titanic_final_distress_transmissions/) (50-ish minutes long)
+Except this is 100+ years old and wasn't started on Reddit. But I get your point
+
+E: forgot the +
+Watched the whole thing. It's hard to imagine how those radio operators must have felt. Does anyone know why the frankfurt kept asking "what's the matter?"
+
+E: typo
+E2 regarding the frankfurt: On one hand there could have been some language barriers between the Frankfurt and the Titanic, on the other I learned that there was a good amount of prank messages sent on radio in those days. 
+Not really. But I thought the same at first
+lol I didn't even see that.
+tbh with you.. I really don't know. What's the difference between them?
+
+E/ google didn't help.. result where unclear. However my washing machine goes crazy right now... 
+
+/s
+*fire-extinguishing foam
+Looks like someone who doesn't understand Roman numerals -> I & II = 1 & 2 = 12 
+The rest will make sense in a way or another.
+Or just "meh it's friday and I really can't be bothered"
+Good bot
+r/dontdeadopeninside
+At least r/slightlytitlegore
+lol same
+More like every 5-8 posts
+I'm pretty sure it's a Jessica cosplay 
+This should be on top
+The Escapist, more Persona titles, Yakuza, another Okami game
+r/killthespotter 
+I swear to god.. no more catnip! Never. Again. - Cat, the next day (possibly)
+Whats the point of an empty list.dat? Does it get rebuild after wake up? (like the bubble database at start after removing a memcard)
+❗️
+Came here to post something along those lines. Don't remember the cars being so different in the same year. 
+So it was erdogan who created earth?
+
+/s
+Should have repainted her nails
+Kim looks way better
+lol that badge looks like a smiling cartoon lion
+Good bot
+RIP ups guy
+Could be just me, but this reminds me of a bf109.
+However its a nice plane
+r/bettereveryloop material right there 
+Noticed that too
+Could also be a triple potato slicer. You don't want to crash nose first..
+Should have tried vodka
+
+/s
+My adapter is mounted as ux0 and (besides the fact I have too many games installed and can't read properly in maidump) it works perfectly fine.
+Have you ever installed something on a mc or ur0? Or switched accounts?
+Assuming you want to install dumped games: Just get vitashell and install from there.
+
+Edit: [Here](https://nicoblog.org/guides/nicoblogs-ps-vita-general-guide) is a good tutorial. Just go right to point "VII"
+Hope this helps
+Pancakes
+r/youseeingthisshit
+r/expected 
+
+E/ 
+sidenote: That made me laugh harder than it should. Well done
+lol someone should add a 60ies batman "splat" to it 
+Did they hit a happy little tree?
+So this "thing" bouncing on the water is his body?
+Good bot
+Good bot
+r/shiny_car_mods
+this. sadly there's no scroll option in maidump and reading gets realy hard over time.
+.Cause the car is a girl
+
+FTFY
+lol, myspace xD
+Tbf the icon was chosen by apple at the time.
+r/nostalgia would like this
+..you become u/groundedguy12
+
+FTFY
+
+E: typo
+Leave at least one shot for u/waterguy12 
+You should post this on r/wallpaper
+Must. Go. Faster.
+Don't drink and drive..
+Hired by youtube. You can spot him in various thumbnails along with his mate red arrow.
+u/waterguy12 should see this
+lol, thats some pretty r/crappydesign
+
+E: linked wrong sub
+looks more like r/shitty_car_mods
+God i hate these airblades..
+Or at least from driving through at high speeds
+See ya there hooman
+Aka repost
+They look absolutely delicious! 
+That or just freaking hungry

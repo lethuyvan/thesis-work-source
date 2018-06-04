@@ -1,0 +1,780 @@
+I use Hitmonchan and Hitmonlee!
+I answered kicker. So I hope you're right. But the other mechanics all have the potential to trigger miracle, a mechanic that cares about drawing specific cards in order to function.
+I hope we got there friend, because I definitely got the 0/0 wrong and I'm pretty sure the answer for 37 was Transmute, so...
+I also chose monopolizing play time. "Not getting a chance to play" is the experience that tournament players want to avoid the most.
+I sure hope so because I answered kicker.
+Does anyone else think the answer to 37 was transmute? The wording references drawing specific cards (think miracle) and that doesn't draw cards, but kicker can.
+This is consistent with Green's resistance to change, as well.
+Gotta take risks sometimes. Hope it works out.
+Are we allowed to share answers publicly yet?
+On Fire TV Stick, Firefox takes two extra button presses to get to the exact same YouTube experience, bookmarked by default.
+Gotta fade 60 from Doug Martin. The sweat is real.
+Williams by a significant margin in my opinion.
+
+- a stranger from the internet
+And you flatter us all, my good man. I hold you in high favor.
+
+- another dude in the same situation
+According to his description in ESPN, he has stated that he doesn't think he'll miss Sunday's game.
+Not this time Julian.
+.5 PPR, Jordy Nelson or Marquise Goodwin or Marquise Lee?
+Stafford or Keenum, 14-person .5 PPR, looking to win this week to clinch a bye. Also have Ravens D vs Bears D.
+Hundley would be my choice by a wide mile. Been looking better.
+My finishes so far are 2nd, 1st, dead last (inherited a team with Le'Veon Bell and nothing else in a keep 3 league and intentionally tanked to get 1st pick this year). 
+
+This year secured the bye in one league and will make the playoffs in the other if I win this week or lose it by less than 70 points.
+Craig?
+Determining whether very large numbers are prime or not can be done in polynomial-time.
+Got a good, hearty chuckle. Very relatable. 
+I saw it.
+Ty Montgomery and Aaron Jones.
+RemindMe! December 31
+Link?
+Garcon or JJ Nelson .5 ppr?
+Good luck, brother.
+You're in a great spot with a lot of upside. Team is solid and if one of your FLEX receivers blows up you could potentially trade for an RB, especially in PPR. Good luck!
+14 person .5 PPR, ESPN, Snake, 10th pick.
+
+QB: Rodgers
+RB: Melvin, Montgomery, Stewart
+WR: Parker, Garcon, Jones, Shepard, Moncrief, Hurns
+TE: Gronk
+DEF: Bills
+K: Viniateri
+
+I figured this year I would attempt to ride the lightning and go all out with the hype on this sub in WR. Hope at least one of Parker, Jones, Garcon is a stud. Missed Cook by one pick.
+I went Gordon/Gronk/ARod but I picked up every WR that's been hyped on this sub. Parker, Jones, Garcon. I hope something sticks.
+Thanks for doing the work that the rest of us were too lazy for.
+The miraculous, unprecedented birth of an ent-lamb crossbreed.
+Using a Hackintosh as a main machine in the workplace is a pretty exclusive club. Congrats!
+Create the usual topology over an infinite metric space.
+My interest.
+I find the anticipation of whether I will win this allows me to spend the next seven hours daydreaming of the fantasy success it may bring to me.
+https://m.youtube.com/watch?v=tEDY0-vPFR8
+Very interested. Thanks for running it back!
+I like being able to see my team labeled on the consensus rankings on FantasyPros. I'm in two leagues so it's worth it to me just to have a slightly more luxurious experience for four months.
+That's awesome.
+I'm pretty late to this party, but I'd love one with 
+
+"Because the Boys in the Hood FFL" with 12 stars, and done very brightly with no real color preference.
+
+If you get to it, awesome, if you can't thanks anyways. Very cool!
+Reddit: What is it, how did it get here, and is it the devil?
+Uh oh.
+I'm thinking it's the controller. USB keyboard was giving me no lag with DCM off.
+USB keyboard on the TV with DCM off is essentially lagless
+Would formatting the drive before using it be enough to prevent this?
+Jesus Christ.
+When the title of the film is one word long, and during a major shift in the plot, that word is said with a lot of emphasis by one of the characters. 
+Exactly. This is an empty threat in so many leagues. My leaguemates act like they're doing me a favor by playing.
+Similarly, what I came here to post was "seeing a wall of CDs or cassette tapes."
+I always thought that downvote is for when you think something is bad for discussion. You're expressing your opinion. I think that's great for discussion so why would I downvote it?
+False.
+On the waiver wire. Use BeerSheets to draft and you'll have drafted competently (in fact more than likely better than the rest of your league if they're drafting on their intuition). Pay attention to the waiver wire, read articles, and make trades that cover your weak spots. Start your studs.
+
+Finally, don't blindly take the advice of anyone on this sub. Not even this.
+What card is "Antidazient?" Because that's what I see when glancing at Daze in this way. I'm happy to be getting three chances to open a $50 bill per draft, though. I'd certainly take this over "no masterpiece collection," which it seems that a lot of people need to be reminded is an option.
+You're good. Make sure you disable VT-d in your BIOS.
+Let the guy be happy!
+Okay, this is basically the same system as mine. Using KextBeast was the trick for me. Hope your mileage doesn't vary.
+What I did for the same card is install them using KextBeast. Then using Clover Configurator, mount your EFI, make the change, save, and restart the machine.
+"The Kexts?" How many of them and what are their names? What's the rest of your build?
+Glad to have helped. 
+Will you describe in more detail what you've done?
+We should hang out.
+Yeah, let him shitpost!
+To me, it's not so bad. I'm going to spend money and I recognize that, so I appreciate getting a free draft every ten. Reminds me of a haircut or FroYo "loyalty card."
+You can get blown out really badly by Rapid Shot as well. Your best cards in the matchup (storm, healer) don't stack up against Champion of Chaos.
+That sounds like me. 
+While you're technically right, I prefer to look on the bright side.
+I like it based on the fact that they're reaching into the design space of having a card game which is completely digital. It's an indicator of more animations down the line.
+I got 0 in five packs.
+Because you don't get to tell the eldest how to live her life.
+Yeah. Unzipped the zip, put the ones I wanted on the desktop (FakePCIID, FakePCIIDBroadcom_Wifi, ran KextBeast, edited in CC.
+
+Did it three or so times actually, after various attempts to get audio working and reinstalls. 
+Just went through this exact battle. Use Clover configurator, open up your config.plist. You've installed the kexts, so what's left to patch them.
+
+In Clover Configurator, go to Kernel and Kext Patches, add a new kext patch:
+
+Name: AirPortBrcm4360
+
+Find: 81F952AA00007529.
+
+Replace With: 81F952AA00006690
+
+Save it, and shut down, then power it back on. 
+
+I'm pretty new to this, but I have your exact board. Do you have audio working? I wouldn't say I've tried everything, but if someone found a super easy way, I wouldn't mind hearing about it.
+Check his name.
+I'm actually having a TON of difficulty with it, as it's my first time through the process.
+
+This thread: http://www.insanelymac.com/forum/topic/312759-fix-macos-sierra-dp1-bcm94532z-wifi/ goes through how to get the card to work. What I'm having trouble finding or figuring out is just how to find and edit that kext. What sort of interface do I use?
+
+Was able to get to boot. UniBeast didn't create a bootable drive for me originally.
+Was able to boot and install, currently having difficulty with video and wifi kexts.
+Got the boot to work. UniBeast didn't create a bootable drive the first time, but after I wiped it, everything worked fine. 
+
+I have it at the point that it will boot from the solid state drive, and Mac OS is fully functional, but it currently isn't recognizing other drives, nor is WiFI functional using this m.2 card (Wifi was NOT an option during setup either).
+
+https://www.amazon.com/gp/product/B00JGFA50U/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
+
+Also the video is very choppy, and black lines will appear around text boxes at login, as well as a collection of horizontal lines during login of various greys and whites. Currently, "About this Mac" shows Graphics "Display 7 MB"
+I've just remade it with UEFI Boot Mode and Sierra, neither graphics injected.
+It does, pressing F12 or selecting "SanDisk" from BIOS menu yields the same result. 
+I'm gonna try to make the drive with UniBeast again and give it a whirl later on. Although apparently after installing Sierra on my real MacBook the installer was promptly deleted afterwards.
+I actually just saw that and tried it right before you suggested it. Didn't do anything. Still getting the same results.
+I have.
+Southington?
+Would the onboard wifi work with the z170n gaming? Trying to make a similar build this week.
+1) Julio Jones
+2) Jamaal Charles
+3) Latavius Murray
+4) Aaron Rodgers
+
+12 team Snake
+28.
+I started Aaron Rodgers, Bilal Powell, and SD DST. AMA.
+Last Ask: Start three of David Johnson, Thomas Rawls, Spencer Ware, Bilal Powell, Mark Ingram.
+
+Good luck, friends. See you next year.
+Rawls Johnson Ware Ingram Powell 
+
+Pick 3, standard, 28.4 points ahead looking for the trophy!
+I'd start Kelley because I see more throwing in GB future. He's feeling better.
+Standard pick 3: 
+
+DJ Ware Powell Rawls Ingram.
+
+I'm ahead 28.4 for the championship.
+This week about fifteen points.
+Left.
+Left.
+Giving this one to you.
+I like Reigning Champ.
+12-man Standard
+
+http://imgur.com/a/Sh0G2
+Can we get a source on adding himself in fantasy?
+I want a small game from Olsen and Kelley. I hope you're dead on.
+Rule 86.
+CT-based Seahawks fan. What's up?
+Kaepernick **QB** Rodgers
+
+Elliot **RB** Johnson
+
+Martin **RB** Ware
+
+Hilton **WR** Baldwin
+
+Mitchell **WR** Cooks
+
+Olsen **TE** Brate
+
+Kelley **FLEX** Rawls
+
+Bryant **K** Hauschka
+
+Cardinals **D/ST** Bills
+
+Booker, Benjamin, Morris **BENCH** Landry, Ingram, Mariota
+Is this that huge load I keep hearing about?
+Hoping for Rodgers to run TDs himself.
+Standard Scoring, two weeks, points already accrued in parentheses.
+
+Team A: (126)
+QB: Roethlisberger or Stafford
+RB: Jordan Howard
+RB: Melvin Gordon
+WR: Antonio Brown
+WR: Jordy Nelson
+TE: Zach Etrz
+FLEX: Tevin Coleman or Jordan Reed or Willie Snead
+DST Chargers or Chiefs
+Kicker: Tucker
+
+Team B: (131.3)
+QB: Mariota or Rodgers
+RB: David Johnson
+RB: Thomas Rawls
+WR: Doug Baldwin
+WR: Brandin Cooks
+TE: Cameron Brate
+FLEX: Mark Ingram or Spencer Ware or Jarvis Landry
+DST: Eagles or Bills
+K: Hauschka
+I like Team A.
+I'm giving it to Team B.
+Locked for the playoffs, in standard scoring league.
+
+Currently have the Eagles and Bills Defense but dropped my kicker to pull Rawls out of IR.
+
+Which Defense should I keep?
+David Johnson, Spencer Ware, Mark Ingram, Thomas Rawls. I can start three including the FLEX and my WR aren't anything special
+He's going against Tampa twice in the fantasy playoffs.
+Standard Scoring:
+
+My David Johnson for his TY Hilton, Booker, and D Martin.
+
+I currently own Ware, Rawls, and Ingram at RB, and Baldwin, Landry, Cooks, and Kerley at WR.
+
+Do I just snap this off like nobody's business?
+If I recall correctly, part of that ritual required that they took his blood by force. So, even after all that, Harry could have volunteered his blood to Wormtail, and the ritual would have been another failure.
+
+Smart thinking, Harry.
+Start your studs. 
+I see what you did there.
+
+The "adult pick" would be cutting the black, but YOLO.
+Don't pass Pyrokinesis.
+Standard 12 man scoring. I'm in Bye Week Hell with no Ingram Cooks Baldwin Ware. Currently starting:
+
+Aaron Rodgers, David Johnson (30.5!!), Fozzy, Landry, Tavon Austin, Cameron Brate, Robert Woods, Eagles DST, Mike Nugent
+
+My Doug Baldwin for his Terelle Pryor?
+Trade Doug Baldwin straight up standard scoring?
+Noble Hierarch. Happy to eat a card or something like that if it doesn't happen by the second set.
+Fair enough. It's completely reasonable to attack on turn 4 5 6 with your mana up and your opponent to use a combat trick or removal spell during combat though. Especially Chandra's Pyrohelix.
+I think Insidious Will is very very good because a good number of the combat tricks are playable. But yeah, definitely not a bomb, but I'd always play it in blue.
+Traded Murray for Jarvis Landry. I also have Ingram, David Johnson, Ware, and Gore so I figured I could ship some Running Back equity.
+Seattle fan living in CT here. Let me get some side action?
+Does this increase the value of Baldwin? I wondered if the Seahawks would be throwing more now without Marshawn Lynch.
+Would definitely like a key if someone can help me out. <3
+Thanks!
+You're awesome, dude. 
+
+If anyone wants to emulate this awesomeness my way, that'd be cool. Take care of /u/tsMQ first, though.
+I also have a black cat named Penelope.
+True statement.
+Have my upvote, buddy.
+Haven't seen Prometheus, but I don't think I've ever wanted a Metroid movie more than after seeing this picture.
+See you there!
+The end of your post said "needs reprinted," and in traveling in and out of Pennsylvania, I've noticed that dialect. Removing "to be," from certain sentences, especially after the word "need."
+Question, OP. Are you from Pennsylvania?
+Thanks! Good luck in the GP.
+Do you think Bite is defensible there? 
+Any idea what the guy to your right took over Dreadknight?
+This was exactly the advice I would have given. Have my upvote, my like-minded fellow.
+Seriously?
+My playgroup sometimes uses a foil or full-page printed Urza's Hot Tub as their command zone.
+12 team head to head R, HR, RBI, SB, OBP, SLG, K, QS, SV, ERA, WHIP, K/BB
+
+Castillo, Encarnacion, Altuve, Valencia, Correa, Forsythe, Harrison, Cruz, Braun, Holliday, Heyward, Ramirez, Alvarez.
+
+AJ Reed and Hunter Pence on Bench and DL.
+
+Kershaw, Carrasco, Lackey, Ross, Kazmir, Taillon, Hammel, Happ, Karns streaming, Davis and Familia in the bull pen.
+
+Considering using WW1 on Puig and trying to find a sell high for Hammel before he tanks.
+Speed has everything to do with it. Speed's the name of the game.
+I took Magic drama off for two weeks. Who "forgot to shuffle?"
+K
+I read it to the meter of "'Twas the night before Christmas..."
+Beautiful spacing and rhyme scheme.
+While I don't agree with this point, I definitely think it should be visible. Have an upvote.
+Please make this a recurring thing.
+Narset is a good example. I think what I'd really want to see though is the retirement of Jace and the induction of the new blue female planeswalker similarly to Nissa essentially taking over for Garruk and Gideon essentially taking over for Ajani.
+
+You can't throw something without hitting Jace in the face. I don't think I'm alone in thinking Jace is boring and played out.
+From a marketing standpoint, I've always sort of thought that most magic players are "blue," so why has there never been a powerful, human, female blue planeswalker? 
+
+I remember one of the bigger outcries after the death of Elspeth was that there wasn't a female human planeswalker that wasn't oversexualized. Tamiyo makes sense for Shadows Over Innistrad, but there definitely seems to be design space open for a non-Jace mono blue (and possibly uw eventually) character.
+It took me a little bit to realize that the video skipped a number of picks. 
+
+Maybe since draft coverage follows one player through the entire draft, they could display the previous picks on the side of the screen? That would certainly give the viewers at home something to talk about while they were watching.
+
+Does anyone else think that would improve the experience?
+Sorry, could I ask what you meant by "Platooning Lind against right handed starters?" This is my first Fantasy Baseball season and I don't really know much about baseball to begin with. 
+12 team H2H Categories [(Home runs, Runs scored, Runs batted in, Stolen bases, Slugging PCT, On Base PCT), (ERA, WHIP, K, SV, QS, K/BB) snake draft. Got 12th pick.
+
+I think the team is pretty solid.
+
+C	Welington Castillo
+
+1B	Edwin Encarnacion
+
+2B	Ian Kinsler
+
+3B	Josh Harrison
+
+SS	Carlos Correa	
+
+2B/SS	Addison Russell
+
+1B/3B	Pedro Alvarez
+
+OF	Nelson Cruz	
+
+OF	Ryan Braun	
+
+OF	Hanley Ramirez	
+
+OF	Delino DeShields
+
+OF	Kevin Pillar	
+
+UTIL	Jarrod Dyson, KC OF  DTDRecent News	
+
+Bench	Gerardo Parra, Col OF	
+
+Bench	Joey Gallo, Tex OF	
+
+Bench	Adam Lind, Sea 1B	
+
+DL	 	
+
+PITCHERS		
+P	Corey Kluber
+
+P	Carlos Carrasco	
+
+P	Jeff Samardzija
+
+P	Gio Gonzalez
+
+P	Lance McCullers
+
+P	John Lackey	
+
+P	Joe Ross	
+
+RP	Wade Davis
+
+RP	Jeurys Familia
+Yeah.
+Didn't like the Orlando theme park? I loved it.
+Would it be possible to add a corner infielder and middle infielder to the list?
+Maybe add a tool to turn an entire row or column on or off?
+I can't seem to find a link in the body of your post.
+Artist proof Totally Lost :)
+Phyrexian Arena. Please please please.
+I can do a Squirtle egg. You hatch it yourself and then you'll be the OT. It'll be in a Premier Ball though.
+Hold on to the ticket they give you in the poker room, it's good for 24 hours. Silently give it to someone else on the (non-poker) floor when you're leaving for good. Don't be afraid to ask any questions about the etiquette if you feel overwhelmed, most of the tables have really good chatter with friendly gamblers. Work your mojo when you set up your Turning Stone account and they'll give you a bigger bonus to play slots. Might as well play them with your free money. Most importantly, enjoy it.
+
+Pee in the bathrooms.
+That was awesome.
+Went 3-1 with two 30-card demo giveaway decks shuffled together. Demolish OP.
+The Wu-Tang Clan.
+... Joe?
+I was playing Living End in a GPT and my opponent was on a Sultai value Snapcaster Mage homebrew. Game 3 he played [[Grafdigger's Cage]] on turn one and a spectator loudly said "DOESN'T THAT NOT DO ANYTHING?!" 
+
+My only objection was "... Dude!" I went on to lose that game by way of Deathrite Shaman. The spectator received a match loss in the next round.
+Thank you for taking the time to write this up and share it with us. I disagree and don't want to quit Magic, but I respect your opinion and your choice, stranger from the internet. 
+Yes. In both senses. 
+
+The +1/+1 counters from Steel Overseer will cause Hangarback Walker to create more thopter tokens. Then, if Steel Overseer is activated while the thopters are out, they will each receive a +1/+1 counter every time the ability is activated.
+Another New Havener. Nice.
+This was very well-written. I bet you could make an extra $500/month writing short stories.
+Sorry, rather "Is there... ANYTHING I can do to improve my grade?" while making direct eye contact and placing her hand on my shoulder. It was a remedial math class at a small private college.
+Happened once during a class. Classic "is there anything I can do to improve my final grade?" 
+
+"Yes, you can study."
+Estimating probability/odds, particularly for conjunctions. There have been many studies on this, but the most famous example is probably this one, which involved a description of woman named Linda:
+
+*Linda is 31 years old, single, outspoken, and very bright. She majored in philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.*
+
+and asked the participants which is more likely between the following options.
+
+1. Linda is a bank teller.
+2. Linda is a bank teller and is active in the feminist movement.
+
+The majority of participants chose option 2, despite the fact that option 1 is contained in option 2.
+Yea, it is the only thing that ever has.
+Nay, but we can not posit upon Brodin. He is our Lord, ergo he works in mysterious ways.
+But I thought "Trogg no stupid!"
+A thousand blessings of Brodin! Did he fill your arms and pecs with his wonder on this day?
+Wheymen.
+My momma taught me sharing is caring.
+Hey, thanks!! You rock, too!
+CT resident here. Can confirm. Ain't no party like a CT party. Almost definitely involves a bonfire.
+Statistics professor here. You don't let your student miss this part.
+I wanted to hear that she dropped his ass and went straight to you. But this is even better.
+Gifts Ungiven - A birthday/wedding/Christmas repo service.
+Has Haven been pulling its weight? I've found Silumgar's Scorn amazing and I'm afraid to play too many lands that don't make blue whenever I want. I'm already deep into mountains as is.
+For sure. Show 'em off!
+Taco Hell is my weakness. I'm on three weeks clean this Saturday. Stay strong brother
+Hell yeah. We'd respect each other but we'd probably argue a lot until we realized we agreed on everything.
+I mean, this is good for general purpose living, but I was more inquiring into involvement in this, specifically.
+Is there anything that males can do to help support the initiative?
+n=2?
+Scrub. Paul?
+Scrub.
+Late to the party, but the chocobo mini game and butterfly game in final fantasy x.
+What about in play?
+You are my kind of person.
+Your Garruk is awesome. It does a great job of feeling like a black card while also feeling like a Garruk
+"Slow cooking" my ass!!
+If for each pound you lost you were traveling 1 MPH, you could go back in time.
+Fatass here. 240 down from lifetime max 330. Every single time you're about to snack or sip, ask yourself "is this taste worth more than a marginal increase of literally every single aspect of my entire life?" Suddenly Pepsi and Doritos seem less enticing.
+Amazing.
+Nice. Will touch base when I do. Way to go.
+Before exile was coined, the zone was "removed from game." Any "wish" could get those cards back (presuming the card types matched the wish condition). I am curious how do you feel about that? Personally, I miss it.
+[[Berserk]]
+Cheese.
+Made vegetarian macaroni and cheese for the workplace holiday party. That usually goes over well.
+I have no idea the source of these down votes. Maybe it's a northeast thing.
+You've got time to playtest. Consider looking out for decks that beat whatever you think you'll run into the most and play testing them. Looks like the whip of erebos deck is good right now because it beats abzan midrange, which is the most popular deck. What beats that? 18 mountains seems like it would lose with a slow start against an enchantment that gives lifelink to everyone and a deck full of 1/1 dudes with death touch. You'd be at the mercy of your mulligans. But I'm only spitballing.
+Bet they wished they left a mana open.
+Some people play for a higher seed. In the top 8 of a Grand Prix, the winner of the die roll is whoever had a higher place going into the top 8. 
+My little brother pissed me off one day so I did this while he was playing Minecraft.
+Barrage of Boulders was outright insanity. This card is severely underrated.
+Banding vs. Storm. 
+
+But seriously, alternate art Dark Ritual, foil copies of Dralnu and Ayesha Tanaka.
+There's no going for a run like anything other than a champion. Good for you!
+You look great man! 
+[[Telling Time]] would be banned in Modern.
+I've been tossing around the idea of (Tar)mogoyf. Seems like it plays well with Thought seize and the new Jace. Maybe some graveyard interaction with the BUG clan?
+"Say nice things about me 'cause I'm gone" in Carolina in My Mind
+You're not getting to the top without winning one of these. Every great player had to play their first as well. Go, and have a blast.
+I'm guessing Ashiok vs. Xenagos with Glimpse the Unthinkable alternate art.
+I've gone up and down a million times in my life. That -50 reflects being down from when I started Reddit I was 310ish and just got on the scale this morning and saw 257. 
+
+Highest lifetime was the end of spring semester of sophomore year of college, 330. I was depressed and had three shirts that fit. I didn't even bother going to two of my classes. 
+
+In a few words, the feeling is so much stronger from knowing the feeling of ludicrous obesity. Trees are greener, food is more savory, it's easier to teach my students. My mood is always better, my body feels better. It's all tied together. Nothing tastes as good as this feels, and like you, I'm only going down from here. 
+Damn right!!
+I won't either.
+You said you signed up for Planet Fitness. Try a few of the classes. If you end up liking one of the trainers, keep going. I've been working with one of the trainers at my local planet fitness and it's been totally awesome. 
+
+Tonight's pizza night at PF. Resist it.
+I had a similar experience today. Out of the gym in full gear, got a call from a friend asking if I wanted to chill, had to get there in time so no going home. Bought a pair of jeans while we were out.
+
+Not a size down yet, but my 36" are getting loose.
+Romeo kills him, I think in Act III. 
+Weeeeoooh weeeeoooh 
+
+Oh crap it's the fun police!
+Fear that it isn't a spike and it's going only up
+You think buy 4 force at 160?
+I'm late to the party, but I've been playing mono red in every format on magic online and have been super partial to this one:
+
+magiccards.info/un/en/286.html
+Get a commander starter deck. Look up staples of the color. For whatever it's worth, I've really enjoyed the Jund deck with Prossh.
+I actually just bought my 40 last night. I think they're definitely a good long term call. It seems to me like they've gone up over the past week.
+I love it.
+Ice Imports does limited at least three days a week including $15 sealed deck on Sundays. This will be the best way to bring your collection from 0 cards to a positive number of cards. Go in, buy a binder for rares and a box for commons, play some sealed, and have a blast.
+What does anyone here think of cards from different games as proxies? I've played a Force of Will from from Vampire the Eternal Struggle and a Drain Mana from World of Warcraft in Commander decks, for instance.
+No. Manamorphose' copy has to resolve completely before you can do anything else. And even still the copy a spell ability is triggered so it only happens once. It can be done, but not with only those two cards.
+Straight up, 100%, the single best card in a Riku deck is Manamorphose.
+In general, I don't like Venser's Journal, so I definitely recommend cutting it for Sol Ring.
+I've found their cheese to be kind of flavorless. Did I get a bad batch? Should I try it again?
+More fun: do it yourself.
+
+Hint: consider that a natural number divisible by three is equivalent to 0 (mod 3). Let n = n0 * 10^0 + n1 * 10^1 + n2 * 10^2 + ...
+Pic?
+Gorgeous, but does it bother anyone else that the time-based magics, Slow and Haste aren't in the Yuna section of the Sphere Grid?
+This is actually the contrapositive, rather than the converse. It's also very good advice that I hadn't really considered before.
+Play M15 limited like crazy. Limited magic will teach you the ins and outs of technical play like nothing else.
+See, to me this is just a fact and I find the coverage is thinner and it melts faster and more thoroughly. 
+I've done 320 to 290 before. It was a huge pain in the ass. Good on you dude.
+Fire breathing
+White Trash is kinda LD.
+Upvote for Ice Imports
+Go the medium way and use Phoenix Downs on the boss.
+Went down too far too find this.
+I will say that I've found great success with a lesser-known Commander in the form of Gwendlyn Di Corci in Grixis. That's the sort of card that goes well in any Grixis deck though. 
+If you live in the US, [this](http://en.wikipedia.org/wiki/List_of_anti-sexual_assault_organizations_in_the_United_States#By_U.S._state) might be helpful for you to get in touch with someone.
+Do you have 16000 pg? 2 Valkyries jumping with Lu Bu's Spear and two healers is extremely effective.
+Sure! It's gonna be a while though
+My only concern with Great Sable Stag is that during the extended season, the Faeries deck tended to have 4x Vampire Nighthawk in their sideboard, and racing with Nighthawk was effective against Stag and Mono Red. 
+I have neither, but mind if I add you?
+You will.
+Jirachi is available on the Jirachi Wishmaker disc. Any Tom Dick and Jane can get one.
+It had no effect!
+Haha nope. But you look like Stephen Page.
+
+http://www.google.com/imgres?imgurl=http://upload.wikimedia.org/wikipedia/en/thumb/5/5e/StevenPage2.jpg/220px-StevenPage2.jpg&imgrefurl=http://en.wikipedia.org/wiki/Steven_Page&h=248&w=220&sz=16&tbnid=KxBEFntbZRNwTM:&tbnh=98&tbnw=87&zoom=1&usg=__CFJ2e--JxTPbeQVcbrvq6WdDB6U=&docid=NnI2rLUixHRwiM&sa=X&ei=h5WiUv6dKsjmsATn9oGoDg&ved=0CIMBEP4dMAs
+Were you ever the singer for Barenaked Ladies?
+I was called 'she' a few times based on my username. Didn't want any confusion that I'm just not afraid to be fabulous.
+We absolutely can.
+As a teacher with a four year degree I can attest this is what I make. This thread is making my blood boil.
+
+EDIT: Thank you all very much for your honest replies. I feel very fortunate to have sparked such a meaningful discussion here. My best reddit accomplishment to date, by far.
+
+My boiling blood does not come from a place of wanting to make more than those who work in the fast food industry, nor from a want to validate the time that I've spent teaching for poor pay. 
+
+**I am in full support of all people being able to survive on their wages. However, I'm just not convinced that this sort of payout is sustainable in the fast food industry.**  I find it to be incredibly frustrating that a group of people feel the sense of entitlement to that amount of compensation when the skills used in the workplace are entirely transferable. 
+
+If someone does not wish to work for their wage, the typical Burger King should be able to find someone who will without a great deal of difficulty. The same is true for many places of business, including educators.
+
+Furthermore, the most reliable source I know, some random website I found on google on my phone an hour ago told me that 65% of McDonald's locations are independently owned franchises. 
+
+The McDonald's in my hometown is open 19 hours a day, every day. It usually has at least five employees in it, and an average of closer to 7.
+
+The current minimum wage is $7.25 per hour. 15/7.25 = 2.068966. If McDonald's is open 19 hours a day, every day, paying 7.25(7)(19)(365)=$351951.25 in labor cost per year. If the labor cost were instead 15(351951.25)/7.25 = $728175, a full $376223.75 more. I know this is assuming everything else remains constant, but I don't think that my local burger joint can afford that sort of payout without going into the red. There simply isn't enough in the business model to stay profitable.
+
+Second Edit: I'm a dude.
+
+Third Edit: I appreciate that a great number of you have reached out to me and recommended new courses of action or inquired about my employment situation. I would prefer not to discuss that, so please do not be offended when I don't respond. I'm very excited to see the reddit community come together here in support of the search for real discussion and real improvements in the economic/education world. Thank you!
+Thank you for the most descriptive post in this thread.
+It isn't too late. Start now. Right now. Not tomorrow. Right the fuck now.
+This should be on top.
+And naming them a number in the order they hatch and making said markings with a pen and paper.
+So do I. It's so much faster.
+1996?
+I'd like the ASM 9 if it's still up for grabs.
+A flamboyant moisturizing balm.
+Add me!
+Add me!
+Kirlia and Swirlix
+Added! Sweet!
+Add me please!!!!
+Around 6
+I'd like to add you as well. May I?
+Hey I'm going to add you but I can't be online for a few hours. Around 6 EST :)
+I'd love a ditto safari! I also have a bunch of Snovers with good IVs if you want one of those to sweeten the pot. Been breedin'!
+Can I add you as well?
+Do you mind if I add you? Your safari is like... perfect for the team I'm trying to build.
+Add me?
+Added
+Hi, you have Ivysaur? Would you add me please?
+Thanks a lot dude. What a terrible spread I got. That's cool though. I can promise that these Snovers will become an amazing Abomasnow and wreck the Battle Maison.
+I'll add you right now!! Tell me what I have!
+Can I add you?
+I also don't have what you're looking for but I'd love me some Charizard. Could you tell me what I have?
+
+Added.
+Added!
+
+Added!
+Vile bile
+I've had holiday parties go south over uncle fezziwig
+I'd like to give this a whirl. I've been right on a lot of calls in my life but I've never taken the time to put forth my money (mostly because of a lack of disposable income). 
+
+An exercise like this would be a good chance to take my speculation to the next level and build some real-world confidence. 
+
+I'd be more than happy to write an article describing any of my choices and my not-choices.
+> I also enjoy making people happy and food is the best way for me to do that because overall I'm a bit of a prick.
+
+I might say that when I read this, I genuinely laughed and was happy.
+Is this a 100% occurrence?
+
+Does this work on legendary one-time pokemon?
+Hearing someone who doesn't work in education discuss how someone should teach.
+I am the great ShayFabulous and I also recommend Ice Imports. Sprior, PM me!!
+So I posted this from my phone so I could link it over in the Magic subreddit. Thanks for the upvote whoever.
+I've been waiting on this for awhile. Now seems as good a time as I'll get. Found this on a set of wine glasses at Christmas Tree Shops.
+
+http://i.imgur.com/BVhaZm9.png
+I don't get it.
+What advice would you give to someone interested in creating/opening a bar? How does a bar owner "do it right" from the very beginning?
+
+What are some of the most common "traps" that bar-owners run into?
+I would add that it would be helpful for you if you chose a two or three color general in one of the Shards of Alara because in about a month and a half you'll be seein' some sweet new options in whatever deck(s) in the new commander lineup fit your colors.
+I prefer .info because .info sites aren't blocked on my work network.
+You. You use magiccards.info instead of gatherer. I like you.
+HAVE: 1x Sword of Fire and Ice, 1x Sword of Light and Shadow (Both DS) 
+
+WANT: 1x Sword of Fire and Ice, 1x Sword of Light and Shadow (Both MMA)
+Holy shit, I forgot Sol Ring? I need to be taken out behind the barn and shot. In any case, your deck sounds awesome. I used to play a RUG Splinter Twin deck for EDH but it became less fun when nobody wanted to play anymore, so I'm trying to avoid the combo table kill. Mimeoplasm exiling Skittles McBlightingshire and getting mad pumps is a combo, but it takes one player out instead of a bunch. As for artifact lands, I find too much artifact board wipe is in my meta. There's a good amount of artifacts in here already, a number I might want to go down on (there might be too much ramp in general, to be honest). 
+Tell me what you think. What seems good? What doesn't fit? Anything you'd like to know about why I chose it?
+Anyone who refuses to play with someone using a Nephilim as a commander is a jackass. The format is about having fun and your choice of color combination just doesn't exist yet. You can't be held responsible. Nephilim as commanders is something that happens all the time.
+If I had enough disposable income, I'd give you reddit gold for this comment.
+What does the average turn n look like in this format? Is what I'm doing at least that good? What's he doing? What will his turn 3, 4, 5 look like? I mostly play draft and EDH.
+We aim to please.
+I once asked this exact question to Kibler. I'll parrot his response to the best of my ability.
+
+He said the biggest thing was looking at his opening hand and asking himself "What does this hand do?" And figuring out his game plan from there.
+
+Play your playtest games not to figure out "which deck wins," but rather "what do these decks do to interact?" And that knowledge is considered more valuable than a statistic based on a ten-game set.
+Am I the only one thought it was a brownie porno watching the first ten seconds of that video?
+With you on anything other than the nicotine.
+That was cuteness overload.
+Aww. What was it, if we may?
+There's no way someone with such high social standards could possibly know anything.
+Right there with you buddy!
+Probably a little late to the party here. Former CEC Kitchen/Kid Check/Game Room employee here. Worst thing I ever saw in my time was the unmistakable aftermath of someone (an adult based on the stain altitude) opening a used diaper in the women's bathroom, and smearing the contents on the walls in a sort of double-helix pattern.
+Wouldn't it make more sense if they didn't have exponents? So that the mother could be on top of the mail man and the kid could be tan(x)?
+My first thought was Yawgmoth's Bargain.
+Seems like something the magic finance guy trusts. Would you recommend it?
+
+Also, keep up the good work!
+In your most recent article, you talk about getting an email notification in regards to Manriki-Gusari. How did you set that up?
+Maybe all the thought that you've been putting into this is what makes you such a sucky boyfriend.
+
+But yeah, I've always felt a similar way to what you're saying here. There will always be Team Shayfabulous and team otherwise, but I try to make Team Shay as large as possible even in just my own life.
+Maybe all the thought that you've been putting into this is what makes you such a sucky boyfriend.
+
+But yeah, I've always felt a similar way to what you're saying here. There will always be Team Shayfabulous and team otherwise, but I try to make Team Shay as large as possible even in just my own life.
+Same here. Whole family didn't fit into one cab?
+I can't access it from where I am right now but the judge website has many practice questions. Try to become a rules advisor first!
+Warranty. I wasn't able to launch any ROMs when I made the post. I continued to try to flash because of your suggestion.
+I'm able to launch aokp on it though. So, hopefully I can use the Droid 4 Utility [here](http://forum.xda-developers.com/showthread.php?t=2207384) to flash back to factory settings.
+I was able to install AOKP 4.2.2 milestone. Is there a way that I can restore the phone to its factory settings?
+I recently found a cable there for $15. Still a little pricy but i expected closer to 50. Not that bad.
+Is it weird that this sounds good to me? Use a salty peanut butter with some crushed peanuts on top and a pepper jelly... 
+My opponent Genesis Wave'd for every last card in his deck. Then he put a Spreading Seas into play off of the Wave and couldn't draw a card. I was as dead as dead could be, and I won the game and match.
+August.
+I used to chew on my pencils a lot, so the taste of the metal that holds the eraser in place is something I know all-too-well. It's disgusting, and the sound of trying to erase with no eraser as the metal digs into the paper causes me to wince.
+I think not. Depends if they cover it with a sealer.
+There's probably gonna be some sealer. Otherwise how do we clean between the pennies?
+I think it's going to be covered with a sealer.
+Have you been smoking in here?
+Where the hell is that dude who dramatically reads comments??
+I think Adaptive Automaton would be very good in your deck.
+Why did I click this? Did I expect something other than exactly what I got?
+... Fine. Upvote.
+I had no choice.
+What is this from?
+Two bottles of SmartWater before bed.
+Subway Eggplant. Your candle was short but it shined the brightest.
+Recovering from the heart attack I had when I found out I'd won 100 million dollars.
+I worked at a Laser Tag place and we were asked for this very frequently. Customers referred to it as "PowerSprite."
+Super Mario Bros 3. 
+
+I was born in 1988, near the game's release. My mother and father both played it frequently, and as I grew old enough, so did I. My parents and I bonded during that time, and it caused me to grow into a more avid gamer in my later years.
+
+During college, my roommates had a Wii with Super Mario Bros 3 on virtual console, and I beat it for the first time. I bought a Nintendo Wii of my own and introduced my younger brother to the game as well. When I graduated from college, my final thesis was a project in Game Theory. Gaming has had a profound impact on my life, and this was the start. 
+Alice in Wonderland. I've been awaiting this for a long time, and Shadowmoor isn't close enough.
+It makes me sad that your comment will receive the fewest upvotes because of its placement.
+Eldrazi Monument.
+"Let there be light."
+It does a lot of things for very little cost. You should think of it as the first planeswalker ever printed, but for 4 colorless mana.
+It's white. I've just already used it and I recall them saying it's a one use kind of disc.
+I can't think of anything for quick loss of not sweat, but I would recommend turning the heat way wayyyyy up.
+My only goal is 5-Color Gate Control. 17 gates. 23 spells. 5 card sideboard. 0 basic lands. 0 problems.
+Nicely done. Now keep pushing for 250!
+It probably won't because it has 0 calories, so from that perspective you'll be fine.
+
+But when I drink soda, it makes me feel slow and groggy and that might demotivate you from the exercise. I say drink lots and lots of water.
+I always found that SmartWater was the most effective. Get two bottles, drink them both after you're done drinking alcohol. No hangover no matter what, 0 calories.
+As the logo, I can confirm this.
+Absolutely. Even if first and second paid the same, first place gets the glory.
+Target something. Then redirect it to their Spellskite to kill them or bring them to 1.
+Actually, the reason I ask is because I'm in a very similar height/weight situation as you were a year ago, and I'm so impressed with your progress that it's a huge motivator. 
+
+I can certainly understand where you're coming from, though. I was a competitive Magic the Gathering player for a good while and I would be very disappointed with coming in any place other than first at any given event. So I can tell you've got the "anything shy of perfection is unacceptable" mentality. Thing is, second place still pays, and your accomplishments are still awesome. Keep up the good work.
+How much did you lose each month?
+Kills with Man Lands.
+Yes to both of those. Play Jund and draw cards. Always target yourself, and play the good GBR cards. Tooth and Nail for Kiki Jiki and Zealous Conscripts is an autowin.
+I'm someone random!
+Came here to say Zedruu.
+There's been an emergence of a control deck in Vintage that runs this guy in an attempt to blank Tarmogoyfs and Lodestone Golems. Blocking with him after having drawn a card is the icing on the cake.
+
+http://www.eternal-central.com/?p=2827
+Pay Phones attract crime?
+I'll bearfuck this bot every chance I get.
+Nobody has said Seymour Asses from Futurama? Fuck!
+If it were an opponent I didn't particularly like, I would tell them to suck it up because she named Arc Slogger. Then at the end of the game I would show them I had the Dispatch anyway.
+
+Still had all deez.
+Oh you'd better believe it.
+You are an excellent writer.
+It says "Fabulous" in my name. What reddit powers do I get?
+I worked at a Chuck-E-Cheese's a few years ago and I can personally attest to the difficulty of breaking the "my pleasure" habit.
+
+In the spirit of the thread, though, I will say that the pizza is comparable to pan pizza, and the ingredients are fresh.
+One a related note, I can't wait until Gruesome Encore is out of Standard.
+This sounds pretty awesome. I would love to help out with something like this.
+Yeah, what the hell do you side this in against?
+I trusted you.
+It's like, SUPER bad for you.
+Your name is Tappen_Zee and you're not on Eastern Time?
+Video game controllers. Sweet Jesus. Always with the bullshit MadCatz and the last person over has to use that one. You have three god damn Microsoft brand controllers. Why?
+All planechase. All the time.
+I like what you're doing against Zombies, though. It messes up your curve, but the 19 lands don't make a huge difference. You shouldn't have much trouble hitting your land drops if you have the full set of Ponder, Thought Scour and Gitaxian Probe. 
+
+Against Delver, I like bringing in Mutagenic Growth. I'm surprised you don't have one. If you're playing the Yuuya list, you don't really need Dismember because your Pikes are enough to make it so you're hitting them harder than they're hitting you. Image is excellent and it's better for you than everyone else because of your 19 lands. 
+Gideon is considered the best card in the format by a lot of pros.
+I mean, I upvoted just to be part of the in-crowd.
+Loved it and love Hairspray.
+I'm not sure this makes sense. I'm gathering it's "Buffalo from the city of Buffalo annoy buffalo from the city of Buffalo" but then there's the extra one at the end.
+
+I think for six words, it would have to be "buffalo Buffalo buffalo Buffalo buffalo buffalo," which would be a command, "annoy buffalo from Buffalo whom buffalo from Buffalo annoy."
+Let's make music together.
+Only one person so far has said brainstorm? It's versatility we're talking about. That card can do everything!
+I think his name is "Mother Shabubu" now.
+Jai Alai?
+Seconded.
+"It looks like a mouse. Take a picture."
+I believe this is one of the best blue cards in the format.
+City Steam seconded.
+[I see what you did there.](http://weknowmemes.com/wp-content/uploads/2012/01/i-see-what-you-did-there.png)
+Tell me more!
+Torpor Orb, Sundial of the Infinite, Platinum Angel, Thrull Wizard, Withering Boon. 
+I don't think he was supposed to be involved with any guild. Kinda like [Torpid Moloch](http://magiccards.info/query?q=torpid+moloch&v=card&s=cname) or [Guardian of the Guildpact](http://magiccards.info/query?q=guardian+of+the+guildpact&v=card&s=cname). Just some badass dude drawing cards in the city.
+http://i.imgur.com/y3TJd.gif
+Ask yourself "what does this deck do?" 
+
+If you can't answer in roughly two sentences, you're on the wrong track.
+I would say I win by Commander damage 60% of the time, concession 30% of the time, and somewhat pure card advantage after a Bribery 10% of the time. I play Vendilion Clique.
+Sprizzout Swizzarm
+He was 99 before. He can't get past level 100 unless he was caught with the Missingno. glitch.
+In my opinion, the single most important aspect of being a good player is simply to think about your plays, and examine every option. Some people just jam out cards and wonder why they lose all the time.
+This guy knows what's up, right here.
+The reason the Scars Fast Lands are valuable is because they're no longer being drafted. If they re-release shock lands then they'll be 249-card set rares that are being opened every day. They should be cheaper than they were during their original stay in Standard, which was about $20. 
+
+Here's hoping they print them in m13 so their prices in standard will inflate.
+Grains and bricks adjacent?! Sick!
+Yeah. Slime isn't at his best there, but he can wreck equipment and turn Mirran Crusader from "instant death" to "a problem."
+What isnt Acidic Slime good against?
+Same. Upvotes for both of you for curiosity.
+Storm Crow gets more guff for being uninteresting than unplayable.
+Up. Fucking. Vote. :')
+I could have spent my whole life not having heard this joke... But I'm glad I heard it.
+we will miss you sir! rabble on!
+I don't understand, Gallagher. Why would you have hurt this happy young man?
+Take it down!
+This. It kills Doomed Traveler three times and if you live long enough to resolve it, you stabilize most of the time and their topdecks are much worse.
+Every single pick you make, you want to evaluate:
+The quality of your choice by itself
+The quality and colors of the cards you're passing/what else you see in the pack
+What you hope to couple this with in the future.
+
+If I firstpick Spider Spawning (a controversial decision), then I'm considering that there was a Geistflame or a Bonds of Faith in that pack. I'm also hoping to get a few Boneyard Wurms and Armored Skaabs.
+I liked it.
+The shadows on the water droplet are all wrong.
+It's officially over? The touchpads are still on their store page.
+I've been having trouble with their servers. After about 500 clicks of buy it now I've been able to get to "Review Purchase" once, but is it now impossible?
+They're officially sold out?
+Mono Red is really good in Standard right now. It almost always has a place.
+I was watching the finals and I was impressed with how you played around Timely Reinforcements. Cheers!
+Hey, I've played U/R Delver for about a month now, and I was wondering why you'd made some of your choices.
+
+Is there any reason you've chosen Brimstone Volley over Incinerate in your maindeck?
+
+Why don't you have Spellskite in your sideboard?
+"Deece."
+Always English, no foil, oldest printing available, Unhinged Lands.
+Nice ass.
+This is amazing, and I love you for it.
+41 minutes and 0 upvotes on this? Fine, I'll do it.
+I hope this is you in the picture. Have an upvote.
+I think Doomed Traveler is just underwhelming in Constructed, personally. You have a lot of swords, so Mirran Crusader can pick one up very well. I play Esper against a friend who plays a Puresteel deck and I find myself having to trade a Day of Judgment for Crusader by itself.
+I would go -2 Traveler -1 Geist of Saint Traft, +3 Trinket Mage. That card needs a little bit of love that nobody's giving it. I think the coverage recently described him as a "cross-format all-star that has won multiple pro tours."
+Some thoughts:
+
+I would definitely include at least one island. You don't want to be Ghost Quartered and be unable to get a blue source.
+
+Angelic Destiny on Invisible Stalker is better than anyone realizes. 
+
+If you do go the Trinket Mage route, make sure to have Hex Parasite in your sideboard, it rips Gideon apart, and he's usually a problem for the Puresteel decks.
+The world is a better place because people like you are in it.
+The idea of "You are the Hero" cards is fucking AWESOME!
+Fuck yeah, human condition!
+Conley Woods would be proud.
+Your idea is correct. With Parallel Lives in play, Hero of Bladehold will create four 1/1 white soldier tokens, tapped and attacking. I highly recommend stacking the triggers with battle cry before the token creation, so that they all get +1/+0 as well.
+There are truly not enough upvotes in the world for this comment. Watch as many draft videos as you can, and get amazing at limited, and leave with store credit every week. For $15/week, in six months your collection will be nuts.
+Sounds awesome. I would love to do so from time to time.
+http://www.palzoo.net/file/pic/gallery/1311_view.jpg
+You, ma'am, have done this world a service.
+Hmmmm...
+I shall do for you the same, sir!
+Wow. Thanks! I couldn't agree more. This is why I went into Mathematics Education. 
+Relevant:
+Congratulations! I hope college brings you only the best experiences!
+It was Pre-Alg.
+Upvote for intelligence.
+Haha!
+If you're not building for any particular format, I highly recommend Flametongue Kavu.
+It was a long time ago. I just needed a subject to make my first comic about and thought of that moment. True Story.
+Cut a Swamp and add a Mountain, maybe two because your higher-end cards want heavy red commitment for Firebreathing on Inferno Titan and the "ping" effect on Ancient Hellkite. 
+Paul's Online Notes are very helpful, I've found. I nearly have a Master's Degree in Math at this point, and I've referenced them in all of the applied math classes I've taken at least once. As far as what to review, I strongly suggest taking a look at using radians and the basic trig functions, sine and cosine. Best of luck! PM me if you need any help!
+
+http://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx
+
+Also, I haven't checked out the pre-calc or calculus series on Academic Earth, but I imagine those are fine, too.
+
+http://academicearth.org/subjects/mathematics/page:2/category:8
+

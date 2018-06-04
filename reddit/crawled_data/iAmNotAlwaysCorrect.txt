@@ -1,0 +1,892 @@
+I chose the aukey since i have power cables from them so i recognize the brand. The A119 i chose since dashcamtalk.com said it was a great all around cam
+Thanks for the details! I actually just made a post asking about these dashcams and this answers a lot
+You can either get them to fix it, order the part, or return it. 
+Make your connection a metered connection and problems solved. Or use windows 10 pro and defer feature updates for 180 days. 
+Dang, OP may get the same thing then? Good thing Amazon has a great return policy 
+Yea idc about paying MS for a license. Tbh probably they make more money from telemetry data than us buying office or windows 10. So they already have enough as it is lmao
+https://www.reddit.com/r/thinkpad/comments/8fnbr1/multiple_offers_for_a_thinkpad_t470_at_280/?st=JGO76QRJ&sh=4f64727a
+Dammit. I knew i should have ordered lol
+I forgot this was /r/piracy
+
+I thought it was /r/windows10 until the other guy said he used Microsoft toolkit 
+Sounds like the perfect windows 10! Did you also activate it with Microsoft toolkit like the other guy? 
+Will it work with 8th gen systems? I heard that MS wasn't gonna release a new build to support new cpu's until 2019. 
+
+I have another rig with a 6th gen cpu, so I nay load it up on that. Where did you buy your license key since you need enterprise? 
+Do you use it? How is it? 
+What's your opinion on Aukey dashcams? 
+
+[https://www.amazon.com/dp/B072FGL63X/?coliid=I56OEJ5PNMB0H&colid=2P5R2IJJA7KI3&psc=0&ref\_=lv\_ov\_lig\_dp\_it#customerReviews](https://www.amazon.com/dp/B072FGL63X/?coliid=I56OEJ5PNMB0H&colid=2P5R2IJJA7KI3&psc=0&ref_=lv_ov_lig_dp_it#customerReviews)
+Hmm. I assumed that the system as a whole (including psu) would support the upgrade to the faster cpu. Dell support even said the same thing. 
+
+Ill try to see what the recommended psu is. The thing is this is a SFF pc so finding a higher psu may be hard since dell usually makes them proprietary and one per model. Dell even shows in the manual [page 11](http://www.dell.com/downloads/global/products/optix/en/optiplex-580-tech-guide.pdf)  that the SFF version supports the quad core cpu. Kinda dumb of dell to cheap out like that. 
+With only 2 months in and you need a new mobo. 
+
+My unpopular opinion (prob gonna be downvoted) would be to send it back since not only will the part be a refurb but with the price of precision laptops that would be unacceptable to get a whole mobo replaced in such a new laptop. 
+
+Edit: yup the downvotes are coming in, but whatever its the truth
+I think its a pricing bot like the other guy said. Most likely will get cancelled. I have had sellers lie to me on amazon and say an item i purchased was "out of stock" so they cancel my order when they made a price error. 
+Dammit if i didn't have a T480 I would have bought immediately 
+As someone with brand new t480, thats nice to hear. If it happened since the t450 I'm surprised why its never been fixed 
+It would be the Galaxy Active phones. Pretty much rugged versions of their flagships
+How long did u reinstall windows? Immediately when u got the computer or after using it for a while? Im starting to think its a hardware issue unless u disabled it in bios, but then it would not work at all. 
+The OS and integrated GPU take up ram 
+Update bios and all drivers from dells site. Or try redownloading the iso and start over since its a new computer 
+Did it work before reinstall? 
+This has to be a scam or a troll 😂😂
+https://www.monoprice.com/product?p_id=24284
+
+Is this the cable you have? 
+Will it fry/damage the battery or damage the computer? 
+Will everything when switching over work fine? I want to switch to the windows store version 
+If you install the windows store version will it uninstall the desktop version? 
+Fedex couldn't find it so the store gave me a refund 
+Yup. I have had two xbox ones get lost at my local fedex center. They were legit 30 minutes from my house yet they BOTH just disappeared into thin air
+I have a USG, an AC LR, and a Dell power-connect switch in the setup. I may ditch the dell and get a unifi switch though. 
+I took this photo before rebooting the AP for an update. The USG didn't have an update at the time as I am on the LTS controller branch 
+ISP provided routers 🤢🤮
+I had worse photo on my t480 but since to my normal eye it wasnt visible it was acceptable 
+Garbage fios router. Its refreshing not having to worry about the internet getting slow and rebooting the router
+This is my first business type networking gear. I used an ISP router and a TP Link router before upgrading to the unifi setup. Overall very satisfied. 
+Never had to reboot the AP or USG for anything but updates. Way less annoyances compared to normal consumer devices. 
+
+Pretty much set and forget 
+Go to interfacelift.com 
+
+They have good wallpapers
+If in the USA make a BBB complaint. They will suddenly have a corporate claim advisor contact you who cares and will give you a replacement. I had to do this when Dell broke my laptop too and the outsourced support couldn't care less. 
+Forget twitter call them and ask them. If you get no where ask for a manager since your problem is time sensitive. If not then hang up and try with another rep
+You could ask, but knowing dell probably not. You may be forced to deal with the downtime. Try using the school's computers. 
+
+You could argue and get a manager on the line and express your dissatisfaction
+Tell them your laptop is important for school and you cant be without it. They can usually upgrade your service to expedited so you'll get it back in a week. I had this and i got it back quickly, but they also damaged my laptop even more so good luck. You might need it. 
+Maybe a laptop sleeve or mouse? 
+Perfect! Thats exactly what I am looking for
+
+I found a tutorial on google to enable the gpo
+Is there a GPO or option to prevent windows from automatically restarting when my laptop is plugged in and in sleep mode? 
+
+I have had instances where I have multiple programs or documents open and then windows decides to update when I plug my laptop overnight
+Download lenovo system update and run an update on everything. And try windows updates too. 
+
+Try after that, I had a intel update that needed a reboot so maybe thats it
+My inspiron 7559 has a bright white spot on the LCD conveniently a month after warranty. I also got several annoying emails from their sales encouraging me to pay $150 for an extra year of the shitty mail in warranty. 
+
+Haven't bought a dell laptop since. 
+
+Now I use a ThinkPad T480. So far everything is fine however if anything happens out of the 1 year warranty this will be my last windows computer and I will probably just take out a loan and buy a Mac (/s) 
+
+Edit: good luck with the repair depot. They damaged my xps 13 and I had to chargeback it with my cc to get my money back
+This is true. At least now with the T480 with have the bright QHD screen. And with the x1c6 500nit screen you would have no issues seeing the screen outdoors. 
+
+If Lenovo gave more options of higher end and brighter screens they would probably make more money since the screen wouldn't be such a huge drawback. 
+I have the WQHD and you made the right choice. I was about to go with the FHD screen but Im glad I didn't cheap out. Its a lot nicer to look at and the slight battery life hit is worth it imo. 
+Did you get the WQHD screen? 
+It isn't 1995 anymore. Students use the internet for research too. And in this case OP uses it to listen to music while doing work and hopefully not messing around. Just let him do him. 
+Try a repaste of the cpu and gpu? 
+Took 2 weeks total for my T480
+
+I guess i got lucky with shipping
+If you can take out the hard drive. If you cant then they may format and reinstall the OS. 
+Credit card chargeback. 
+
+This isnt your fault, its theirs 
+I just use my credit card price match policy. Dell only price matched a pc game for me when the difference was $5 and even then i was on hold for 15 min while they approved it. 
+He posted download links from his own site so he benefited from ad revenue from someone else's work. He also clickbaits a lot and has long winded videos just to tell you not to update to the latest iOS if you want a jb (like I couldn't figure that out myself). 
+
+I stick to everythingapplepro since his vids are short and to the point
+Lenovo doesn't sell the internal one? 
+I haven't set limits for charging the battery. Lets see how much they degrade in a year. 
+
+At least both batteries are user accessible and I'm assuming can be purchased from directly from Lenovo to extend the life of the device. 
+Yikes thats alot of wear with not that much use
+- Lower brightness (<50%)
+- Enable battery saver mode on W10
+- Disable certain programs at startup or in the background
+-  Upgrade to an SSD
+
+Yea, just reinstall windows completely and use Lenovo vantage to get drivers automatically 
+Just got off the chat with a rep. I emailed him the screenshot of the lower price and he submitted it. I just hope now it gets approved since he said a manager has to approve within 3-5 days. 
+Called em and they said the perks discounts override price match since perks is already a discount. I used my credit card so i will contact them to see their price match benefits 
+Does Lenovo price match if i got the T580 2 weeks ago when it was only 10%? 
+Also try
+
+/r/thinkpadsforsale and /r/hardwareswap
+Increase handling time to 4+ days and list that in the description. But i would wait until you get it
+I wonder how common this is? I plan on buying a ThinkPad soon
+Is 72% NTSC good? Im not familiar with gamut numbers 
+You need to call them for a return label. And insist on then waiving the restocking fee
+Havent bought Dell since 3 of their xps laptops had issues within months of each other. I suggest we talk with our wallets 
+Lol i was drinking water when i read this and nearly choked 😂😂
+Gotcha,
+
+Yea i see it now. It looks like the nub is touching the G key and leaning up on it. How long ago did you order and receive the laptop? Mine hasn't shipped and I'm hoping all is well with mine when it arrives. 
+Im new to the track point but how do u know its crooked? It looks fine in the pic. 
+
+Asking since I ordered a t480 a bit ago 
+I wouldn't sell a $1000 watch on eBay, but if thats the only option then do what the other users said. File non payment claim. 
+Looks like it wasn't announced? I guess that means WWDC will be the announcement along with iOS 12
+Microsoft in an attempt to push everyone on the latest OS made upgrades from 7 and 8.1 free to go to windows 10. It makes sense since windows 10 is practically an advertisement with the preinstalled bloatware apps and telemetry. But at least in windows 10 pro you can disable most of it. 
+Seems like that the direction Microsoft is headed in with the free updates to windows 10 
+Oh yea i heard about that. I think the rumor was either tomorrow or sometime in June since it wasn't gonna be ready in time. 
+
+Ill wait and watch tmor event 
+I am wondering the same thing about the t480
+Geez, all those issues in just 4 days? Without looking at the subreddit I would have thought you were describing the xps 13 lol
+
+Does the t470 have the quality issues described? I would assume its near perfect since its last years model?
+Lenovo blog post before release said base price would be $990 but base price now is $1,050 for some reason. 
+I have been waiting for the t480 prices to drop since its higher than what they should be
+Fortnite
+Wonder how many betas they will chug out
+I would call and ask BH Photo
+Try swappa or /r/HardwareSwap 
+Just like how apple still uses 128gb ssd in their macbooks
+Do you own a desktop? If so, you can use the local iTunes wifi sync and it should automatically sync your phone. As long as you're on the same wifi network. You can set itunes to start up with windows minimized to the taskbar tray so it stays out of sight. 
+
+I do this and its like a "poor mans iCloud" lol 
+My 6S is starting to slow down. I was thinking of doing a full clean restore but i would also lose my messages on my phone and it would be a pain to have to re add everything back into my phone
+Mines 10gb was 9gb a month ago
+/r/HardwareSwap 
+Same. I think they will do that once previous gen stock runs out
+Yup. I was confused. Lenovo is trying to bank of ppl who dont know what the correct price is 
+According to the Lenovo blog post the t480 should be $990 base price lol. Its at least $100-300$ more depending on where you live. 
+After t470 stock runs out
+/r/HardwareSwap 
+I want to get the WQHD on the T480 but idk how much battery will suffer. I may go with 1080p unless the battery difference is negligible 
+Surprised it did better than the x270 since i would prefer that to no upgradability or serviceability 
+The last of us remastered also (unless you played the og version) 
+You cant stack the perks with savextra5 unfortunately 
+I would recommend not using WEP security. You should switch to WPA2 
+Sounds scammy. Use PayPal if your card isn't working. I don't think dell accepts wire transfer as a means of payment anyway. 
+Does it feel heavy with the extended battery? 
+Hows the trackpad and trackpoint? 
+I assume the biggest issue with 8th gen chips is heat and thermal throttling? I think the t470 stayed cool most of the times so i think the implementation if Lenovo does cooling right should be fine (hopefully) 
+Will it work with any sim? Like if i put my Verizon sim from my mobile phone inside for example. 
+So you recommend the 8250u? 
+
+I was planning on picking up for a university student so battery life and staying under $1000 is important, but I also wanted to get the fast laptop 
+Gonna wait for the reviews. 
+
+Anyone have any thoughts for i5 8250u vs i7 8550u? This is going to be given to a student in university.  
+Finally! Yes!!
+I was planning to use the sata enclosure for a 2.5' ssd
+
+According to a sales rep the CTO options wont be available till next month. However, sales reps may not have the most updated info. I really hope it comes out this week. 
+Yup, pretty much exactly what I was going to do. 
+
+Im hoping the reviews will be out soon because I wanted to skimp out on ram and hdd so I can spend more on the cpu since thats one of the few things you cant upgrade later. 
+Whats the difference between the vantage software and the Lenovo system update? They both seem the same
+Waiting for the t480 build options as well
+Good deal
+
+You can also try /r/Thinkpad and /r/thinkpadsforsale if no one picks up
+Maybe after they crack down on android users they will switch to hunting down the guys on iOS? I will be backing up my app data and music just in case as well. 
+https://www.parts-people.com/index.php?action=item&id=14719
+Buy an xps 12
+78, so i can build a pc in the summer 
+Not exactly sure UK laws sorry. You may have to cite your consumer protection laws that you have and bring them up with Dell or if you paid by credit card, the credit card company. 
+
+
+Better business bureau if you are in the USA
+
+ https://www.bbb.org/central-texas/business-reviews/computer-dealers/dell-inc-in-round-rock-tx-41453
+
+File a complaint 
+I bought a book from them on Amazon. 
+
+Shitty customer service. They cancelled my book order because it was out of stock because someone else bought it too. They never respond to messages either. 
+Make a BBB report. Got my issue fixed with them 
+Does this impact iOS users of Spotify ++? 
+iOS impacted by this? I have spotify ++ 
+Seller warranty are a joke since eBay wont enforce them. If you used your credit card then you may be able to get your money back since you don't have your laptop at all now but your money is with the seller. 
+Just pick up an x270 (thats what i did when i saw the x280) 
+I would assume that any brand new laptop comes with a charger. It would be weird if they didn't. 
+Leave a neg
+Xps laptops don't have those options. The battery should last about a year before showing signs of degradation. After that it will still work fine just wont hold as much as it should. 
+Bad on the x270
+
+Its fine for basic videos but for listening to music i just cant. I gotta use earbuds
+A little bit slower on my 6S. May need to restore but i will wait for the full release
+Dumb question, but were there no locks on the doors? Every classroom i have seen has locks in them.  
+Not bad. I usually use black tape since it blends in and i dont use the cam anyway
+If you were really annoyed you could have not responded and blocked them. Sometimes really dumb buyers ask me if an item is used or not and it says so in the first part of the item description. 
+Dont respond to scam offers. It will allow them to send another. 
+Take off bids and do BIN only
+
+And turn buyer restrictions all the way up. 
+We need more truck drivers like you. At least you care for others on the road and parking
+
+Downvoted. LOL typical reddit
+I would recomend posting this on /r/Thinkpad and /r/SysAdmin as well 
+Kinda is your problem since your own post got removed 😂😂😂😂😂😂
+
+But aight 👌🏼
+Why is PayPal hated so much? I use them for any online store that accepts them and they're fine imo. Its convenient since I don't have to get my card out all the time. 
+
+Thanks for the downvotes for asking a simple question 👌🏼
+Same. I had 3+ replacement for an xps 13 over the 6 months period due to trackpad issues, coil whine, and backlight bleed. Ended selling the final replacement from them to get another computer. 
+
+Dell wont get any more of my business
+I see that. Really hoping 11.3 final fixes this
+You got your post removed though LOL
+They aren't very scientific in their research though and Linus is always making mistakes or not thinking through things. I watch their videos for just entertainment now tbh. I watch other people for critical reviews on tech
+Its on and off though. On 11.3 it says I'm running at peak performance with 85% health. I may get apple to replace the battery in the summer though 
+6S is the same except the keyboard lag is insane
+I think LTT did a video on ram and chrome tabs and iirc 16gb can hold up to 150+ tabs i think
+Zotero
+
+Free version of EasyBib. Saves my ass every time I need to write an essay 
+You get a t470 with the perks discount for less than $1000 
+Have fun getting fake DOA's and false returns lol
+I think my citi card extends it for another 2 years. I pretty much stopped using my Discover card after they told me they are getting rid of benefits 
+You're on a beta so glitches and problems are expected. 
+Just sell locally. Its not that hard
+I just don't sell internationally at all. Even with GSP. But then again i never use eBay anymore since other better options are out there with less fees. 
+Knowing Sony, I wouldn't be surprised if it was the same as the ps3 checks. Which are very easily bypassed with certain apps. 
+Geez speaking the truth and getting downvoted to hell 
+What are the typical problems with the MacBook? I only heard of keys popping out. I was planning on getting a new laptop by the summer. 
+/r/HardwareSwap  or craiglist
+
+Ebay is stupid when it comes to seller protections
+Up to four years warranty if you use the citi costco card. Crazy good
+Use chat
+
+Less hold times in my exp. 
+Keep on getting different quotes from different reps. 
+
+Seems like in my experience a lot of the reps pull prices out their ass. They tried charging me $200 for one year of the shitty mail in warranty when the next rep said it was only $50. Ended up walking away with 2 years premium for $80 which was fine with me. 
+Fuuuckk. If this was in the summer I would have copped rn. Don't have time to play that beastly pc during the semester. AHHH 😩😩
+If you set it up on the GUI then it should be l2tp over ipsec so its secure for basic needs. 
+
+Like someone else said here if you're worried about security there are better options but for most it should be fine. 
+Never had a mac but I really want one just because of macos
+Its only developer beta right? Not public beta? 
+Im gonna wait until the summer since its for the whole year. I use my phone more during the summer times.
+That would negate the need of a mac to text from your laptop. Apple wouldn't do that they want you to buy the macbook
+Try /r/HardwareSwap 
+Would be cool if they updated the MBA with QC cpus
+It really is a great phone. I hope the SE2 or whatever the next one is has the specs of the iPhone 8, in a 7 or 5S body, I would immediately dump my wallet for that
+Not the first time. Thats what happens with outsourced support, they leak info to scammers. I had a bunch of scam calls like that
+Wasnt this the same for the xps 15 ghosting? 
+Yes
+You're right lol. This wait is making me think of irrational decisions 
+/r/Verizon 
+
+/r/Sprint 
+
+They know more about fees and what plan is best for your needs 
+They need to release the t480 before I buy a Dell (or worse, a mac) 🤢🤮
+Double pack it, insure it, and put signature on it.
+
+ Cross your fingers he doesn't return a dead card to you
+As long as your claim with the transaction is real and not a false claim to get a buyer's remorse return.  
+Dell damaged my xps laptop in repair. They tried to replace the mobo but they messed up and ended up just throwing the mobo in and not screwing anything in so everything was just moving around. 
+Possibly cheaper? 
+Just like OP said it looks like an enterprise machine. Looks like they allow the enterprise market to buy the better intel cards (probably because of vPro). 
+Has happened to me since iOS 7. Rebooting always fixes it. Not sure why it happens 
+In the beginning iOS 9 was stuttery and laggy. But then 9.3 came out and it was very smooth and battery was great. My mom still has her phone on 9.3.5 (she doesn’t like iOS 10 and above) 
+Good. The more people report these bugs the faster Apple will hopefully patch them. 
+Reported this in the feedback app using this reddit post
+Has USPS opened a package search? Contact the regional manager or a higher up (I had someone call me when my Amazon package said it was delivered when it wasn’t). Its ridiculous that it just disappears like that
+The carrier blacklists phones. Apple only has activation lock. 
+
+So you could always contact the carrier and try to get it unlocked. You are the original owner after all so if you provide proof of purchase or ownership you could unlock it. But the reason why I said it probably cant be done is I haven’t seen anyone get it undone (but those are mostly thieves who ask how to unlock it). 
+Yes, I think so. Its mostly to make the phone a dud. 
+
+There are services that unblacklist phones. I think all they do is replace the logic board which unblacklists it. 
+I always drop off mail that is tracked at the post office or have the pickup driver scan the item. 
+
+If you blacklist the imei it cannot be unblacklisted iirc 
+Spigen tough armor does the same with the apple cut out. Its a dumb design move on spigens part and reduces resale value. But oh well. 
+Weird. If you get Linux at Dell for the Precision 5520 they knock off $100 on the price
+Never seen this before. Will be sure to check this when I hopefully get a Mac by the summer. 
+
+I would return for a FULL refund asap. Make sure they cover return shipping. 
+Its a beta so idk if the regular apple support guys know whats going on. I reported it to apple via the feedback app and they responded to me
+$1600 xps 13 7th gen only sold for $850. It was only a couple months old. 
+Wow. Scam seller is clever. That makes me wonder why doesn’t everyone list things in categories without buyer protection. 
+Make a report in the feedback app. Apple just responded to me so the more people report this the better. 
+Yea, makes sense. It would canabilize their own notebooks since people could buy the cheaper X line. 
+Cheaper costs. I have the 7559 i guess i got lucky since so far its fine. 
+[thermal throttling](http://www.tomshardware.com/answers/id-3127088/check-thermal-throttling.html)
+
+Or you can also use intel XTU to benchmark
+You made such a update big jump. I would back up the phone and DFU restore in iTunes. See if that does anything. 
+They just bought EMC or made a new company called DellEMC a year or so back didn’t they? And they should make the company public again. The greatest Dell products I used to own were from the public Dell era. 
+
+Now they only care about profits without substance. Laptops that fail or have inconsistent designs (3 of my xps laptops had different feeling keyboards, trackpads, and some had battery wear from the factory). 
+
+I think it would be a good move to bring the company back to public and focus more on what made people buy Dells in the first place; the durability, build to order components, and amazing support that came with the PCs. 
+The Nvidia Optimus switches gpu by itself. Maybe its thermal throttling? Im not sure. I still think its a small difference. You could try Dell’s Nvidia drivers from their site, but for my pc i always use the Nvidia direct drivers. 
+Sane on 6S. Sometimes it skips the animation and stutters to my home screen 
+If dell is focusing on the xps then they need to step up their QC with it. Nothing but issues with that laptop. What a joke. Good thing I sold that while I could 
+Looks like I will be using chat from now on instead on PM
+Are you noticing any difference in performance in real world usage? If not, I probably would not worry about it. 
+
+But if you do care about benchmarks then you can make sure all the drivers are updated and update the bios and run windows updates and wait a day since windows is probably indexing or doing things in the background since you just set up windows (I think). 
+I could only pirate 1 book this sem. I have to buy the others because of the online codes. I think my uni is getting smart about books now. Or they don’t care
+I have heard about it. I may try it out next time I need to sell something 
+You could also forward them to an iOS 11 device to use the built in screen recorder 
+My local CL is dead. I envy those who have a live CL in their area
+Lol i notice this too. They say refurbished but its like a ram stick or a cpu. They probably just used an air duster and call it a “refurb” 
+A lot of apps do this 
+
+I turn notifications off for all my apps except the few important ones  
+Just reported this in the feedback app. I suggest everyone do the same
+11gb here on 6S
+Bought ram from /u/Artez_
+I have the smart battery case and it seems to run out faster than normal. I wish you could check the health on that. 
+Dont know why you’re getting downvoted. I would recommend a restore to fix things up. 
+Dont have issues with safari blocking. Only the vpn dns blocking which gave me a bootloop
+iPhone 6S. It happens randomly either when I’m on the internet or opening an app. I also have ~3000 ad domains in the blacklist on the vpn
+Had this issue. Reverted back to 11.2.5. I may go back to 11.3 via the public beta
+Is the build number the same as the dev beta? 
+This is dell we’re talking about. They probably will still sell the 7th gen chips for a decent amount of time since businesses won’t really care and dell probably gets to cut production costs since they’re slightly older cpus. 
+
+Even then, the cpu vulnerabilities will require a new cpu architecture i think so it will be a couple years before its patched.  
+I sell in the US but a dude bought my item from Europe and had it shipped to a freight forwarder company in the US. They charge me as a seller the outrageous conversion fee. Pathetic on PayPal 
+Was waiting for this too for my work but it may not be until the summer since they upgrade their business computers slower/later. 
+
+Just decided to upgrade the current cpu’s in my computers to hopefully extend the life another year or so
+Thats good for the time being for me. But as soon as I cant ride the no fee train I’m jumping to another bank. 
+Why are they so bad? I think I have a student account with them to prevent fees (as long as I am a student) and I haven’t had issues with them. Just their mobile app sucks balls
+Thanks for the heads up. After downgrading I got the public beta profile so I’ll just wait for that (I’m not a dev anyway). 
+Yes! I have that with full tunnel mode enabled. Is that the reason for the boot loop? I ended up downgrading back and I’m probably going to wait for the public beta since I mainly wanted to try the battery features anyway. 
+I use the vpn blacklist feature in AdGuard pro and that works
+Aside from the kernel panic boot loops i get this is a really good first beta
+Funny you say that. My phone just boot looped twice again. I fixed it like I mentioned in my OP. 
+
+I really like the beta but knowing its a beta and this is expected I may wait for the public beta. 
+If its signed by apple then its safe. If not then its not safe
+Its a beta so battery life will be poor. I guess I’ll have to keep my battery case with me at all times
+Its under the [global settings](https://success.trendmicro.com/solution/1101652-enabling-defer-scanning-in-worry-free-business-security-wfbs-9-0) for every computer. According to the trend micro website it speeds up file operations by not scanning until the operation is complete. 
+
+I have disabled agent control for the end user and password protected the ability to exit the agent to prevent users from “accidentally” turning off their AV. 
+Yea, I guess I’ll give em a call and see whats going on. Also, do you use the deferred scanning option? It says it improves performance, but with a slight security risk so I may enable that. 
+Even thought the mods would delete your comment. Thanks for coming in clutch! 
+Someone posted it here. Download quick before the mods take it down
+Geez that sounds like a pain. We have Bitlocker on a lot of mobile workstations and laptops and it would be so infuriating if Trend just unencrypted all of them, especially without my permission.
+Looks like the uninstaller doesn't do a good job of cleaning up. I'll look and see if that is still on some of the workstations.
+Do you have the standard/advanced version? We use the "services" version which Trend Micro said it doesn't need patches since it auto updates apparently. 
+
+Also do you use the Smart Scan or the Conventional Scan? Not sure which one is better and uses less resources.
+We use Dell. Been trying to switch to Lenovo but their site wont let my CC or order go through, but I can buy a Dell pc with the same CC just fine. It also just so happens the day I needed to make an order their sales line was closed! I guess Ill give my money to Dell. 
+
+As for my personal laptop Im waiting for the t480
+They said January 2018. Im in the same boat as you. I check the Lenovo site everyday in hopes of it up for sale
+I think the precision 5530 will get those in addition to the mobile xeons. The xps may stick with the “mainstream” i3/i5/i7 
+
+Just a guess
+All is working well here on the 6S. Try restoring? 
+Ill bookmark it. Thanks! 
+Thanks, just downloaded and restored via iTunes with no issues! 
+Is this releasing on Tuesday? (The full public version)
+Is it really going to take months for cydia to update? I thought it would only be maybe like one more month 
+I am waiting for that t480, checking the site everyday for a preorder
+Thanks. But I ended up going with the Q9400 since it was cheaper and produced a little less heat. My pc has a small heatsink and I didn’t think it would cool it properly. 
+Cant wait for the T480
+Still available 
+Replied
+Pm
+Replied
+Replied
+http://www.on-queue.com/pdf/dell_optiplex-xe_datasheet.pdf
+
+Q45 Express 
+Thanks for the heads up! And yea I’ll probably Google about the ram. Weird how they limit the ram like that. 
+u/xyMarketBot revise
+Replied
+Is it 80+ rated? I cant believe they cheap out on the PSU. If that thing fails any of the components in your PC could fry
+It tunnels traffic through a local VPN with an address of 127.1.1.1. Other apps on the app store would tunnel it through a remote server, however Apple changed the app store rules to prevents apps like that for obvious reasons. 
+Get adguard pro and add a custom blacklist for ads. I have done that and i almost never see ads now 
+I have an XPS 13 up here, but it has the QHD screen. I still get 8+ hours of battery usage though. 
+I was waiting for CES for the x280 so I could buy that. Now, it looks like I will buy the x270 
+I ordered dominoes once and tipped in cash. I put a line through the tip section but he gave himself an extra $5 tip. Called my CC company and 10 min later got it back.
+Damn i only have 28gb free
+Would make it lag and the battery life so much worse but having siri then was so fun
+The part about his death. Them feels man
+That and she messed up a perfectly good jailbreak 😢
+Drivers suck
+I have 75% capacity but still get normal Geekbench scores. Go figure
+Yes, but usually never enforced. They have a decent return policy imo
+Any ETA? I want it to come out in January
+Its all for the title karma
+Your carrier may have also disabled the 2G towers so be aware it may not work everywhere. 
+I took a test at 8% and it didn’t throttle me. A couple minutes after the test my phone died at 2% and when charged up the results were normal. 
+Or maybe he was in the class watching him get a new one. 
+They left my whole mobo unscrewed on my xps. The dumbasses at their repair depot don’t even know what a screw driver is 
+BBB complaint. It made dell actually solve my issue with my laptops coil whine. Give it a try
+I don’t have this on my QHD screen. I set brightness to 40 and never ever notice that its dimming or getting brighter when browsing the web. I have had 4 xps 13 in the past too. 
+I get at least 8 hours unless I’m watching 4k videos from the internet or have hella chrome tabs open.  
+
+The FHD can easily hit 10+ hours from what I have heard. 
+I have the QHD screen and its awesome. But i would prefer the FHD for battery  
+I tested my phone at 10% charge at it was above the standard for iPhone 6S on Geekbench. It looks like it differs device to device. 
+People jailbreak to install a hosts blocker lmao. I don’t think it will work 
+The stutter might be a hardware problem. I had two xps that had that 
+I have QHD it looks great I want a FHD one lol
+Oof
+Relationship with student but teacher only got a warning since the student was over 18
+Oof
+Yea ios 11
+Cant you disable it in the bios? I have a black piece if tape in mine though
+Install the tvOS11 profile and you should be fine. It blocks OTA updates
+Apple says it better for airdrop and location services. I call bs cause it wastes battery imo
+Cydia Substrate
+
+
+lol all jokes aside, making control center actually turn off that item and leave it off until you manually turn it on later. iOS 11 has a 24 hour limit before it turns on again. And maybe increasing animation speed of opening the CC
+OP could backup and erase all content and settings then restore backup to get rid of that i think
+Swappa.com too
+Tell them youre an app dev and you must stay on 11.1.2 because of your app not working well on 11.2
+Thanks!
+Better than nothing. Thanks for the link! 
+F 
+++ apps and hosts blocker and thats really it
+Defcon 5! 😂
+
+Lucky i updated yesterday 
+Dont forget ram. Going from 8 to 16gb is legal robbery. I wish they had upgradable ram 🤕
+https://swappa.com/buy/essential-ph-1-unlocked
+
+Here some in your budget 
+https://swappa.com/buy/essential-ph-1-unlocked
+
+If no one offers then swappa has a bunch on sale
+The service center would have returned his laptop in worse condition. I have had two laptops destroyed by them on two separate times in the past year. He was better off with the onsite repair
+If you want long battery. Get the replacement, sell it, and then use that money to buy the FHD model. You should have extra money after too since the FHD is alot cheaper than the QHD
+I checked back when they first set it up and my phone was not eligible. I bought my phone June of 2016 
+I assumed all he looked for in the test was my battery’s capacity or something. Or he could’ve just said i needed a replacement 
+https://www.ifixit.com/Store/iPhone/iPhone-6s-Replacement-Battery/IF314-011-5
+
+I heard ifixit is good. I will never buy one of those crap eBay batteries. 
+ios would turn into android with the fragmentation of OS versions
+Do you have the problem where if your in a group chat it kicks you out so you cant send messages but to your friends you are still in the group message? 
+Hopefully this turns into another #gate issue since then it will force apple to fix it
+Oof
+And dell gets way more money from business than consumers. They have to please the money machine
+Nothing, absolutely nothing
+If you use the citi Costco card i think u get 4 years of warranty 
+I thought it only happened if you got a notification? My phone is on DND 24/7 and i turn off all notifications from apps except phone, messages, and maybe 1 or 2 important apps. I think i should be fine (hopefully). 
+Ios 9.3.3 fastest on the 6S
+Yea, don’t know why I’m on reddit. Finals week rip
+Got a bunch from one number. Reported it to dell and as always they dont care. I just blocked the number
+Ay u go to tu?
+Typical apple lmaoo
+
+But they will only patch it for the newer iPhone model not the older to force people to upgrade 
+The issue if iirc was only with the 6S so who knows maybe in a year when the 6S drops support they will patch it back 
+
+But only apple can tell
+I dont think that will ever go away unless it becomes #throttlegate or a jb fixes it
+The old earphones apple made would break in a year. 
+
+Airpods have lasted twice that. Idk what they did but they are way more durable. 
+They are both the same unless you have an iPhone x. 
+He updated cydia eraser so he is still sort of active
+True. I remember i was on 9.3.5 and everyone was updating to 10.2 and look, we got a 10.2 jb so my gut feeling didn't fail me then. I may update and just sideload the ++ apps since those are my main reasons for jailbreaking (other than hosts blocker) 
+How is it? Ik you just updated but is it as bad as people say? 
+Maybe April? Not exactly sure 
+Same. It will also take a decent amount of time too so idk if i can go that long without a jb since i have a lot of ease of use tweaks that i am so used to having compared to stock. 
+
+If we wait then the signing period will be up and then we will stuck on iOS 10 which isn't a bad thing since it seems iOS 11 still has a lot of bugs. 
+6S user on yalu 10.2 
+
+I am torn. Idk if i can go a month without a jb. And what happens if one doesn't come out when i update?
+
+
+I have a 6S so its very stable however if a 11.1.2 jb is confirmed then i would update
+Is it confirmed? I am on 10.2 yalu. Should I update or is this another rumor? 
+On a 6S with 10.2 not sure if I should update to 11.1.2
+I cant decide. 10.2 jailbreak or update to 11.1.2
+Article was published last year but i got a bunch of scam calls from them. Dell doesn't care about its customers privacy 
+Bought mine from eBay seller "cityeliter"
+It was fine
+I have the bios right before this (2.4.1) and i have never had a random reboot
+I got it on my 9360 but idrc its annoying but i got used to it
+If no one has claimed you could put it on eBay for parts. Or return it to an apple store maybe
+Alright cool. Thanks for the clarification 
+So im on 10.2 would i be affected? 
+Can you delete partition 1? So drive0 is one big partition?
+Try changing sata mode to AHCI?
+Dang dude, looks like your selling half your house! Don't have a whole lotta money rn but GLWS!
+Maybe the boot mode got changed? Or try checking the hdd health to make sure its not failing
+Since you bought it just wait and try it for yourself. You have 30 days from the purchase date if you bought from dell. 
+I would upgrade the psu. The Dell psu are usually low(er) quality than companies like EVGA or something similar. You also want the psu to efficiently be able to feed your pc components without frying anything. 
+Sell for parts on ebay. Say it does not power on and "sell as is" 
+
+Depending on your specs you can get around $300 or so from it. Ik the QHD screen was like $200 when I last saw it on ebay a year ago. Ymmv
+
+
+I have the apple battery case so would i be immune? 
+Im not sure. My friend wanted yeezys and asked me to spoof my location. All i did was download the app and spoofed and it worked. 
+
+No jb bypass needed. But i would still use a bypass just in case
+It works for me without a jb bypass. You need to spoof location to be in the zone
+Make sure keyboard feels good and ALL keys work
+Over thunderbolt it should be able to
+I got mine same specs for $650. So good price. I think you will like it
+https://www.bbb.org/central-texas/business-reviews/computer-dealers/dell-inc-in-round-rock-tx-41453
+
+
+Click the link that says submit complaint. Do not click on submit review. They don't respond to reviews, only complaints. 
+I may be bias since I have had nothing but shitty experiences with Dell's mail in repairs. 
+
+If I were you I would tell them that the computer had all the components in the system at shipment. Tell them either FedEx or one of their own employees is playing games with them to scam you or something. 
+
+If they don't budge, then just make a BBB complaint. I found this to give the most immediate resolution since Dell doesn't give a shit about you until you escalate yourself. 
+Tell them everything you posted here and no restocking fees shouldn't apply
+When you opened it up all the parts were present? 
+
+Also why didn't you check for functionality when you first bought the items?
+
+I would tell them you bought this computer brand new from an authorized retailer and its defective. 
+Thats really cool. I would use it but I use Spotify on my jailbroken phone free. 
+Crashed even before 11 am fir me lmaoo
+Costco has a great return policy. They probably wont care
+I swear the dell update crap is defective. It never works. Just manually update drovers to be safe
+Get a cheap laptop from a store with a 30 day return policy
+You are downloading the latest version directly from dell.com? 
+
+Manually go to dell.com for the update
+Pictures?
+[Read this link](https://www.dell.com/support/article/us/en/19/sln304217/microsoft-windows-operating-system-support-for-intel-kaby-lake-processors?lang=en)
+
+You cannot install windows 8.1 on anything newer than skylake. There are unofficial patches to allow it to work but they are fan made patches so I cannot verify the authenticity of it. 
+
+Microsoft is forcing everyone on windows 10 
+Damn. I didn't know it was that bad. I just thought it was a couple glitches here and there. 
+
+I guess Apple is still actively working on fixing these issues since they are pumping out betas all the time. 
+
+I probably wont update beyond 10.2 unless another jailbreak comes out. I am perfectly content with my phone right now. 
+There are no drivers for windows 8.1 on 8th gen cpu. Also Microsoft blocks installs of any windows under 10 since kaby lake (I think).
+
+If your drives are not showing up then try to change the sata operation to AHCI in the bios
+10.2 here. Is ios 11 really that bad? 
+Thats the one with the iris graphics. 
+
+Mine was the i7-7500U so no iris graphics, but it had the 16gb of ram and the 512 pcie ssd (I had some luck and got the Samsung SSD). 
+Its up to you. The laptop they replace is usually a refurb so its been tested more but thats about it. I had a refurb sent to me, opened it up, and the trackpad didn't even work. Thats Dell for ya 
+
+But its up to you on what you want to do. If there are issues with your Dell laptop then they should have to fix it
+This comment made me blow more air out of my nose. Take my upvote
+Take pictures of every angle of your laptop and inside too if possible. Then send it off. If you get it damaged call em and get a manager and let em have it. You have before and after proof of any damage and they'll prob have to replace the laptop. So in the end you get a new laptop and they take their shitty one back. I had to deal with them for 5 months. 
+I guess you're either lucky or i am unlucky. 3/4 of my xps 13 has had trackpad and coil whine problems. The 4th one I'm on now has started showing some weird trackpad freezing issues. 
+Any ETA? Was thinking of picking x270 up
+Too bad it probably has coil whine and a bulging battery 
+Ebay, /r/HardwareSwap 
+Both laptops damaged on return. Never buying another Dell with my own money 
+Nice specs. How much was it? 
+Weird. Maybe they didnt want to discount post purchase but since you insisted they gave one anyway. 
+One month out of warranty and my trackpad becomes unresponsive on my xps 13. It will just stop working and zoom in/do random gestures on screen until i close the lid and try again. 
+
+Gonna dump this shit on ebay or give it to a friend and buy a Thinkpad. This shit pisses me off
+Lol is this for real?
+10.2 to current
+Also list on /r/HardwareSwap 
+837
+
+What's six inches long and has nuts? Almond Joy
+Looking for an X280. My xps 13 has been annoying me lately. 
+No one reads it
+Yea its prob stolen lmao. Is the bios locked and is the theft protection in the bio on? 
+Who would sell that machine for a $100? You got soo lucky! 
+Thanks, ill check it out
+Make a BBB complaint (not a review). And be adamant on getting a refund (or replacement). Don't take no for an answer. 
+
+When i got a call from them it was from the resolutions dept. These are the people that try to sweet talk you or act like they care about your issues. They will almost always give you a replacement. 
+
+However for a refund say you are tired of Dell's inability to fix your computer and it seems like you will never buy a Dell product again. I also told them once our work service contracts expire we will be replacing and buying Thinkpads instead. You need to sound serious because these guys are just supposed to make you feel better, thats really it. Keep on just saying you need a refund because you have had no working computer and hopefully they'll budge. Good luck
+In the picture of the book cover it says 7th edition. I could only find the 8th when i was looking it up. The page numbers differ slightly and the professor mainly teaches right from the book. 
+So if I run acrobat pro, i can just tell it to grab screenshots of all like 600+ pages? 
+
+As for how the book works you cant download it or anything and it looks like its just high res photos of the book. Also, you must be online for it to work (worst part). It allows you to print the book but only like a couple select pages I think. Now that I am thinking about it this DRM is kinda wack. 
+https://i.imgur.com/oxzlNgD.jpg
+
+Its this one. I looked it up before but i found some but the cover was different so I thought it was a different edition. 
+Crap im like 2 hours away 
+Ram is soldered on so you wont be able to check it. Just call and see. Worst they would say is no. 
+Were you going to resell on eBay? 
+
+Is the stock of those things really an issue still like damn. I can walk into my local GameStop and buy one. My friend bought two in one go at a GameStop cause the guy didn't know it was one per person. 
+Probably midday? One time i got lucky and got a guy who spoke really good English and seemed to be in the USA when i called around 2pm pst
+I don't understand why people look and believe these sites. If you want reliable jailbreak news just check this subreddit and you should be good. 
+Usually windows update handles the drivers but you can check dell's site to see if newer versions are out
+Pre patch r870 with slugs and 12x scope in BF3 was a rusher's sniper
+Some of the laptops wont even get fixes until 2018!
+I used to be really happy and had hobbies. And now i dont know where all that went
+Oh yea i just saw a tutorial on wololo.net
+
+Thats really nice for people who don't want to open their system up. I have been out of the game too long and didn't even know they released 4.82 lol. Im still rocking 4.81 rebug 
+Dang, they have a new exploit? Do you have a link to it? My ps3 is currently modded but I lost my e3 flasher. 
+Yea OP. I modded my ps3 with an e3 flasher for about $40 and turned it into an emulation and ultimate ps3 setup with all my games dumped on the HDD and a lot of classic ps2 games
+Cant you use a vpn to hide yourself? 
+
+Back in high school people would make the exposing thots fb or ig pages and post pics of random girl's nudes. Shit was crazy and i wonder if they were caught
+I remember I complained to them about my mail guy not scanning outgoing packages at pickup. The boxes didnt get scanned until later that night at 11pm or so. 
+
+My buyers hated that so when i complained to USPS the next day i noticed the mail guy scanned every single package upon arrival. 
+
+USPS takes their complaints seriously 
+Dell online store does this crap too
+Can you do in store pickup via online?
+Or if you have a jailbroken system (ps3 or 360) you can just copy the games to your hdd
+Not normal. I mean my laptops have never shocked me
+If you called the sales dept then yea they can sell you the item over the phone
+Some of these laptops wont even have a fix until 2018 geez
+Even Dell laptops from the previous year that are not flagship or high end may end up going unpatched. 
+Then i guess contact dell and say that you saw the sale and you want to be refunded the difference. They may be nice and do it since they have a price match guarantee
+
+ 
+Ask your credit card company to do it. Or ask dell since you could get lucky 
+You still have warranty? If so, they will only charge you if they think you damaged the battery. But it seems all you need is a new battery
+Get a thinkpad if you want durability. The xps durability is laughable. But I type that while using my xps 13 lol. 
+I use microfiber cloth damp with water and some elbow grease 
+The QHD is freaking amazing, but the battery life is only 8-10 hours in my use. The FHD can easily pull 10 or more. 
+Costco is members only store so they make money based on their memberships. So they can sell some items cheaper. 
+
+Im not a business expert so idk about their profit margins and stuff. 
+
+Costco also has a longer warranty and 90 day return
+
+
+Happened to me a couple days ago. Twice. 
+
+Two scam numbers. I called actual Dell support and they were clueless to how to report it. It took 20 min before i got a guy who took my info and the number to report it. If i get more scam calls after today it means they are definitely selling info since that guy also took my number. 
+
+Another thing of interest, when i called the actual Dell financial services number as per advice of the tech support guy, the lady at DFS straight up asked for my SSN. Idk if this is a common business thing they do at Dell, but I probably wont be dealing with this company after things like this. 
+
+
+Edit. Just got another call from the same number. 
+Use the Dell window 7 drivers on windows 10 for the ones that don't automatically install. Some if them should work on windows 10. I don't trust driver installer software like that
+
+On my old Inspiron 1525 i used the windows 7 drivers for windows 8.1 and they worked fine. 
+Does dell offer windows 10 drivers for that machine? 
+Did it work fine on windows 7?
+Repairing is significantly cheaper than a replacement so they always go for the repair. 
+Fuck this subreddit
+I can use the app without any bypass. Is it a glitch? I even use location faker to be in the zone
+[[cleannotifications10]]
+[[App Admin]]
+[[Apps Manager]] 
+
+I think has a backup feature? 
+Go to the apple store at a different time and get a different person. 
+I guess you haven't seen the last time the fbi has gone up with Apple
+I usually buy everything with my credit card and I always use the price protection it has. Dealing with the stores can be a hassle but usually the CC companies are a bit nicer depending on who you get on the phone
+That celeron processor is slower than an iphone 5 probably lol. 
+
+I think Dell increased the prices since this year the deals dont seem that good
+Also buy with a CC that has good buyer protection if you want extended warranty or returns
+I think usb c can only output a max of a 100w if I'm not mistaken?
+Its a fine laptop. Just check for issues and update windows, update drivers, and uninstall all the dell crap they put on it. 
+In my experience they usually have slightly better sales in the work section. Im in the USA so it seems like its the same for your region. If the price is lower but its the exact same then go for that one
+Price and other specs?
+Thanks. Glws!
+What are optiplex 745 specs. Just curious 
+
+Pmed
+Alright cool. Ill check out the x230. What is a good price for them? Newegg has some for $250 - $280 with varying specs. Its almost the same price as the x240  
+
+Is the x240 still a useable machine though? 
+
+Looking at these older, but still capable Thinkpad machines has got me thinking I could get my father one for his birthday which is coming soon. He has a very old Dell laptop with a 2nd gen i5 processor and its almost on the verge of falling apart. The keyboard is uneven and is bulging out a little on the sides and the trackpad is unusable on windows 10 due to the sandpaper material Dell's genius designers used. Its also really slow even after a windows reinstall. 
+Chemistry student so im mainly in labs working on spreadsheets, graphs, and near chemicals. 
+
+I also have some math classes that use math lab software. 
+
+As for the x240, whats wrong with the trackpad? I googled it and it seems as it has too much travel and no physical button? 
+I'm in the northeastern part of the USA if that makes a difference. 
+
+
+As for needs:
+
+I am a student so a good keyboard and long battery are necessary. The xps has about 8-10 hours which is good for the power hungry screen it has, but the keyboard is laughable. Shallow typing feedback and I always make mistakes compared to my old Inspiron 1545 which has deeper key travel and an overall better keyboard despite it being a 2008 laptop. I have always heard Thinkpad having industry leading keyboards a durability so i wanted to get one  
+
+[heres the newegg link](http://www.newegg.com/Product/Product.aspx?Item=9SIADT25Z83204)
+Thats a good idea to buy an older model. What places do you recommend? I usually buy electronics from Newegg.
+
+Another user recommended eBay. 
+
+Newegg has a refurb x240 for $250 seems like a good deal? Has an i5, 8gb ram, and 180gb ssd. 
+I have had issues with Dell before. And this laptop is a refurb I got from them for messing up my previous xps laptop when one of their tech ripped a display cable and tried to act like nothing happened. It works fine now but its less than a year old. So yes, I may try to get rid of it before something breaks. 
+Iphone 6 on 8.4 is like one of the better jb to be on. Fully untethered and the 6 is really smooth on 8.4
+
+App support is the only issue
+Stay on the lowest firmware possible
+Thats unfortunate. I think Lenovo has been doing that for a while so i guess Dell is following. 
+Which song is it?
+Good, im not the only one who notices this
+https://i.imgur.com/uuVdvLm.jpg
+
+I get this error when i use the code
+
+Nvm fixed it. I needed to google dell member purchase program to use the education store 
+How much is the student discount. Dell says its only 2% 
+Lets say ios 11.1 jb comes out. I have 11.1 blobs so i can upgrade to that with blobs? Im on 10.2 rn
+Pretty sure 98% of ppl don't even know how to flash their phones. Those 2% on the techies and the tinkerers that like customizing their phones. 
+Even with 10 iOS 11 betas it still was the worst in stability. 
+I tried on my 6S on 10.2 and it worked perfectly 
+Noob here but what about app sandboxing? Doesn't that stop these apps from snooping around for these folders/files
+Or discord bot. There are so many ways pf saving them its convenient  
+Its a fine machine. Your specs are really good. Just the screen is TN and might not be that good tho
+There arent that many details.  But Try contacting Dell support. 
+Damn, this is pretty big. Best advice is to stay on the lowest firmware possible
+Oh, I didn't know that, my bad. I guess I was lucky in the quality control lottery when I got new desktops for the office. 
+Yea thats their business flagship laptop. 
+
+I have had no issues with their business desktop line. Just their laptops are rubbish
+The BBB complaint should solve it. Push for a replacement when they contact you. 
+
+I have had issues with Dell too. Its mainly their laptops. Their business desktops like the precision and optiplex are perfect. Anything else and you'll probably have issues. 
+One time dell messed up and gave me next business day warranty and took advantage of it to get my pc fixed. They later found out and just downgraded the warranty. 
+Complain to them saying you can get hurt from an exploding battery and you need the repair covered. Keep pressing on and eventually they should give in
+BBB complaint or chargeback on your credit card. You can also keep calling and asking for a manager or tell then you want a manager call you
+Kinda unrelated but If the A11 can get 10,000 multi core in Geekbench I want to see what Apple will come up with for the A12. Especially in an ipad
+
+Thanks for the downvotes. Someone with an shitty android prob got triggered
+Lmao chill out dude. He was trying to help
+Why don't you comment this shit on all the other posts talking about an 11.1.1 jb or the people asking what iOS version to stay on bitch
+Even then a company wouldn't be selling their phones on eBay. They would have their own website. This is probably a scam 
+
+
+Edit: they have a website nvm. Its could be legit but thats too much money for me
+5.6.22 just came out so I'm assuming its gonna be a long ways for 5.7.x release? 
+If only burn in wasnt an issue. 
+
+But i would use dark mode and get like 2 full days of battery life lmao. Dell can have my whole bank account for that
+Better performance and battery are main reasons. 
+
+If you just want a laptop that works and looks nice the 9350 should be fine too
+How would you import the ip address lists into the USG firewall rules to block requests from those IPs? 
+Newegg always has deals on unfi stuff
+Went away for me after a force provision and reboot
+I have had it enabled a while now. Ubnt support told me its secure just make sure you use a long password and use the AES256 encryption. 
+
+I may buy a raspberry pi to run an openvpn on that though since that way my firewall (USG) and vpn can be separate and have their own jobs. 
+Shady repos can sometimes put crap in cydia packages so idk what you're on. 
+Pirated tweaks and apps are the first things to check
+
+Nice with the downvotes, just trying to help op but this shitty community downvotes any new post/comment on this subreddit 
+Swappa
+Dang, so if I get the static IP from comcast, I have to use their router even if I bridge it? Since you said it bypasses the static IP.
+
+At my home with fios, I have their router bridged and my own router plugged in to get the WAN IP and connected to my router is a wireless access point. I thought that's how it would work.
+
+If that is the case I may just settle with a DHCP address from them and bridge their router or get my own modem since it will be DHCP.
+Is the modem that Comcast gives for static IP a modem/router combo or is it just a modem? I don't need a router or access point since we already have all that other equipment. 
+Getting a new IP shouldn't matter I guess. We use OpenDNS and a VPN service so depending on how much they charge us for static we may go DHCP.
+Stay on the lowest firmware possible. Don't listen to the other guy
+[[exacttime]]
+[[perpetual10 lite]]
+It should. They are both powerful
+Makes sense. Dell should go back to their roots and let you build to order computers like on *some* computers in their business line
+Install [[dissident]] to get the background support. Would truly rival a laptop at that point. 
+Imagine an 8th gen i7, 16gb ram, 512 gb ssd and a 1080p screen xps 13. Thats the dream but for some reason they insist on the QHD screen so they can mark up the price $300 for a screen that costs probably less. 
+And full root access too. It can turn it into a pretty decent laptop replacement 
+How secure is the cloud access? I have 2FA enabled on my account
+Shit post
+Wouldn't hurt to contact dell first and see. Then you credit card company after. 
+I hate dell for not bringing this config to the states. The QHD screen is breathtaking but i would rather have more battery
+Most of the kids who complain for a jb here only get like $10 or so from their parents. I want this to work but realistically it wont 
+Its 300 cycles then after it starts to degrade more. Batteries degrade even under that but you may notice the degradation more after 300 cycles. My phone has 140 cycles but is down to 90% for example. Its not noticeable but once it get too 80% or so then it will be more noticeable. 
+
+
+You should be fine with the dell battery 
+Yea its around 300
+Depends on usage. Some dell batteries last less than a year before they degrade while others last longer. 
+Also have a jb phone. How do you do that? 
+For that price i have seen 1060 laptops on sale. Wait for a sale since the 10 cards are wayyy better than the 900 cards
+Wow. Never knew i needed a tweak like this until today! Thx
+I use this its great! If you exit the app the tree dies and you have you start over. 
+
+It has a nice little rewards system in it where you can use your earned coins for in app purchases/upgrades
+Yet he spies on every American with his social media app
+
+Typical. Down vote me for the truth 
+Credit card chargeback or BBB claim or paypal claim. Depending on how you paid. 
+
+I had shit like this happen to me two years ago and just issued a chargeback. 
+
+Dell then contacts you saying you might go to collections, then you tell them to collect their shit laptop since its defective. Make them pick it up via a shipping carrier not your ship or drop it off (I'm not wasting time or gas on their mistake). Its gonna be on their dime anyway. 
+You could do the same thing in filza where if u delete the root file system or whatever it makes your phone not boot up. Just say you were trying to update your phone and it stopped responding and youll get a new replacement. 
+
+I heard of someone doing this here a while back idk if it was successful or not. 
+Thanks alot! /s
+Should still be banned from this subreddit
+I think he should be banned from this subreddit tbh
+Dummy
+I usually get my drivers from dell after reinstalling windows but then after i get online i use windows update and it updates everything to the latest. 
+Dells system image is like two or three windows versions old. Get the latest one from Microsoft. 
+Yea i still have a dell laptop and i am just waiting on it to fail. It was a refurb so I'm hoping it lasts but my previous experience shows it might last maybe a year tops. 
+
+The stupid dell fanboys have come through to downvote anything that bashes their swollen battery xps 
+Eh still gonna brake check people. I don't even brake check i just press the brakes so my tail lights are on then slowly slow down so the dumbass behind me gets the idea
+Nothing really..
+Try disabling connected standby via the registry. That solved my standby problem. 
+
+I still have the issue where if I am plugged in my laptop will still be on when i close the lid. I can see the led light from the button still on via the usb port 
+Should have used the mx150 or whatever that lowpwer card is to reduce temps. 
+Does it run full clock speed when plugged in? Mine has the same specs as yours and it only maxes out when I'm plugged in. 
+They lie about stock i feel like cause they said my xps battery was out of stick but when i talked to another rep and added in "swollen battery" i got one overnighted no other questions asked. 
+Lmao i just noticed that. Pathetic 
+Only the precision and optiplex desktops are good. Other crap at dell sucks. Especially the xps
+I wonder what the difference is between all these jailbreak bypass tweak if some work and others dont. 
+Keep annoying dell and say that this laptop can explode if you keep using it which is a safety hazard. They need to take responsibility 
+The 17 inch i think its on the really heavy side. Its almost a desktop replacemeny
+Sometimes for whatever reason you can actually get a better deal on the work section than home. They usually have better deals too, but sometimes the work computers are more expensive to start. 
+[[TSSSaver]]
+
+On https://repo.nullpixel.uk
+Thats where you get lucky. Even thought you spent 2k on a laptop theres still a good chance it has a defect. Unless you get lucky, there are some defect free ones out there. 
+They did to mine about two years ago when I had issues with a Inspiron laptop. They refunded me when I was out of the refund period due to the issues I was having with the laptop. Ever since then I pay using Paypal and my credit card just in case I need to issue a charge back if Dell fucks up
+Nah ur fine. Op is just stupid and isn't jailbroken but posts in a jailbreak subreddit. 
+Restore your phone from fresh
+Happened with using phantom. I deleted phantom and snap and reinstalled just snap and it worked
+They tryna get that youtube check 💵
+Got mine since 10.2. The app is a lifesaver
+I would have just returned it to the ebay seller at that point. You could have filed an item not as described case since a refurb means its tested for issues and it came with many.
+Yea it bad, but you gotta get lucky
+You got played. But just issue a chargeback from your credit card or complain to the BBB or a Dell Manager.
+Dell uses low quality batteries from what it seems. My iPhone 5 from 2013 still has 82% capacity 
+Make a BBB complaint or charge the money back if you used a credit card. Dell will see that you're serious and will stop bending you over then you get your refund
+Its on every Dell laptop. It was on my inspiron from 2016 and my xps 13 2017. It is probably a driver issue or a shitty speaker they use. 
+
+My latitude doesn't have it but I mute audio alot on that
+[[aweosme dock]]
+I see what you mean now. Yea idk if there is a tweak for that yet. 
+Remove the blur then move all your apps off the dock. It should be the same right? 
+If i understand your request correctly.. then if you go to dock settings and enable disable blur then it should hide the blur on the dock
+[[DockXI for ios10]]
+[[DockXI for ios 10]]
+Hidemex does this
+Apple pay is like PayPal right? Where they are a payment processor and take the money from you card and send it to the merchant without the merchant knowing your card info? 
+My main concern is if your phone is stolen then your wallet is also gone too. They have everything. I have a wallet and phone separate and if my phone would be lost everything is locked inside anyway. 
+Thx for the heads up. Still don't get the fad of putting credit cards and cash on the back of your phone
+Damn thats a pretty good deal for untethered. 
+
+It was a 64gb unlocked 6s. But ill pass on that and look elsewhere. 
+He was trying to sound smart 
+Prob reduce touch sensitivity. I think a glass screen with a glass screen protector is the best since the screen protector is first to shatter in most cases. My opinion though.
+Did you restore the backup? After a restore the messages app is blank. Ever since 10.0 its been patched unfortunatly. I always used this in ios 9 but i was surprised when ios 10 patched it. 
+Same here. Ios 10 patched it. My messages app is blank. OP probably didnt restore the backup 
+Pretty sure this doesn't work anymore. I used this same exact tutorial on iOS 10 and it doesnt read the text database file since apple made changes to the iOS 10 messages app. It just gave me a blank messages app. 
+Have you contacted dell?
+Its plastic so its shatterproof but more susceptible to scratches. 
+It also happens on applebetas repo
+Whats the status bar theme?
+I hope a scammer buys it and makes a eBay claim. Shit like that happens all the time with high value items like phones, watches, or computers.
+OP is a scalper. The iPhone X is up for $2,000+ on eBay
+Use one at work we got for free. Slow as a snail since it uses the same processor as a 4S. 
+I wonder whats gonna happen with the Dad now. He is out of a job and since the video went viral people know about this. 
+Some of the crap runs in the background. Also reinstalling Windows and the drivers ensures you have the latest drivers and updates 
+Dells wireless card is a rebranded Broadcom chip. Its shit don't get it. Intel seems the best rn for wifi 
+Applebetas repo is also down due to a SSL error according to Cydia 
+Maybe a smaller 6S or 8 body
+Yea, i meant the X is more expensive than the 8 plus. Tbh its better to wait until the iPhone x2 or whatever since Apple would probably fix any issues the X has. 
+Originally planning on selling my 6S jb for a 8 plus since its cheaper and I wanted touch id, but after using my 6S without a jailbreak I would rather stick to having a jb for at least until iOS 11 gets jb
+I still think Rick had an open shot to kill negan like he wanted. 
+
+But ik for plot and stuff they cant do that but thats just something I noticed. 

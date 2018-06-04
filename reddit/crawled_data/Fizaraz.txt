@@ -1,0 +1,495 @@
+good bot
+>the cheapest
+
+yea right.
+TfL: Ughhh there's too much pollution in central Ldn, let's raise the CC!
+
+Also TfL: THIS PIC \^
+Dude you lost me at ´took a photo of my snake´
+Even though the initial deadline has passed, you can still apply and get an offer. And there's always UCAS Extra and Clearing so it's absolutely worth trying
+It's not your fault, you just haven't found the right one
+You're certainly not. I really hope you do see that this is Win10 running on the PC and not Win7
+I was once sent home from school in order to change, because my jacket was not one of colours that were allowed for us to wear by school. 
+Apple and a free repair of a cracked screen? I highly doubt tbh
+Yea the dust is kinda annoying but I still think these ones are better than those with the notch cut-out up top
+Couldn't find the british version of the anker 30w charger which is cheaper, so had to go with the apple 29w one. Same goes for the USB-C to lightning cable.
+
+Got it for like £60 as a set at Currys, they had some sale going on, I know in fact that they're much more expensive when bought from apple.
+Ahhhh you're right. I just ran the code without actually checking whether it's working as desired or not, well spotted. Well, beginners (bad)luck
+
+And yes, floats would be much better for this code as making an input such as "3232.32" or "0.00001" would crash the program using integers. Thank you x
+
+Also - is there any real advantage of using *not* instead of *!=*? They have the same meaning afaik.
+Yup I believe switch is used in C++ (and maybe other languages as well??)
+Well I managed to shorten it down to
+
+    while choice != '1' and choice != '2':
+       choice = input ("Please select one of the choices (1) or (2).")
+
+    if choice in {1, 2}:
+        bit_val = int(input("Input Bitcoin value: "))
+        print(bit_val, "Bitcoin equals £", btc_to_gbp(bit_in_gbp, bit_val))
+        and:
+        gbp_val = int(input("Input Pounds value: "))
+        print(gbp_val, "Pounds equals BTC", btc_to_gbp(gbp_in_bit, gbp_val))
+
+
+It works, but I don't know whether it could be done better or not. I've also added a *while* loop when the user inputs a number other than 1 and 2, and it will keep asking to enter one of them to continue.
+What's unpleasant is the fact it's gonna snow and I don't like that at all
+So is your English. Jesus man, ON England? It's a country not a fucking street. FYI it's spelt: IN England :)
+You're = you are
+
+Sorry. I had to.
+Well the modules we take are pretty much decided by the university and we don't really have a lot to say. We can however specialise in stuff like AI and Video game development as well as we have the option to take additional modules in Y3, depending on the course
+Yea I think the CS course here in the UK is very much pure programming, at least in Y1 and Y2 which for me sounds like a lot
+The latter. I mean, I'm worried about completing the course with a decent degree, and actually being able to learn something as well, failing that or struggling at uni would lead to struggling after graduating.
+> What problem solving aspect bothers you? Unfortunately most fields of study and careers will require it.
+
+I'm mostly thinking about solving problems using advanced maths and programming, so yeah.
+Haven't noticed the FaceID really but the app switcher one is driving me crazy - either it's delayed or it's not there at all
+Yea I agree it'd be more intuitive, so I hope Apple makes it better and more obvious in future updates.
+> it won't retry and tapping on the lock icon doesn't work, so you have to either sleep/unsleep, or quickly flick the phone away from you and back so it would retry. This should hopefully be fixed in a software update to give you some way of forcing a retry on the facial recognition.
+
+Try swiping down on the home bar once FaceID fails, it should immediately redo the scan :)
+From my experience charging it to 100% is not affecting the battery as much as letting it fall below 20/30%. Try to charge whenever possible actually, at work or school, I usually charge mine in lectures even if it's on 80-90% because that's just good for the battery
+Yea that's odd really, how do you charge it? I never let my phone below 30% and usually charge it overnight (from about 40% that's left around 11pm)
+How come? When did you get yours?
+For me it was:
+1. OLED obviously
+2. New cameras
+3. Design
+4. Battery life
+5. A much needed upgrade from the 6S, nuff said
+iPhone X, I got it on 3 November and am still on 100% battery capacity which is nice, I do really hope it'll last because right now my battery life is superb
+It is for me, fixed some respring bugs I had on 11.2.5 and feels far more snappier on the X
+Yea same for me, idk why
+It's not that one - that's the default one which I do have on my X, the one from the pic is different
+As someone already said, dbrand skins are precisely cut so installing it on top of a screen protector would only mess it up
+Really like the black one, but don't feel like spending £49 on a phone case
+Is the deal for the saddle brown only?
+Ahaahhahaha I was waiting for this comment
+I feel sorry for you x
+Can I just say that you're an amazing person and what you do here is extraordinary! If I weren't a skint student I'd do that too ahahah, hope I someday will be able to! 
+I can get to anywhere in London for only £1.50 by bus :)
+True, but I feel like it's a funnier use of math than comp science, but again haven't tried, that's why I made this thread, to read comp engineering students' opinion
+Yea but I feel like there's more hardware than software on comp engineering than it on comp science, which is mostly software related, therefore making comp engineering somehow easier to grasp, and it sound like a lot more fun to actually work on something rather than just sit and write a code
+Ahahha why tho 
+If you want to help me win some of the huge prize tonight, please do use the code Pitorini ❤️
+You're welcome mate! Yea I hope they add it in a later version of iOS (12?). Would be nice to have more customisation options for our phones
+Settings > General > Accessibility > Increase contrast > Reduce transparency 
+Ay thanks for the advice mate, will definitely do!
+But what about the AirPods?
+I noticed a tint spec of dust in my X three days after purchase. I made a Genius Bar appt. and had it replaced for a new one right away.
+Dust. Take it to the Apple Store and ask for a replacement/cleaning. This should not happen in a £999 phone.
+Ask your uni job centre, they might offer you a job on campus or help you finding a job in London. I'm a student as well and with their help I got job at a local sainsburry's store
+Finally it won't be a nightmare to go shopping on Oxford St. and being squeezed between thousands of tourists on the narrow pavements
+Measure it for you? It's behind a fence and not available to the public to just jump over with a measuring tape and measure. Also, there's a huge scaffolding covering it right now
+
+
+Imodium should work, and also - wrong subreddit mate
+It's a very common sight in London to be honest, they do say it over loudspeakers as well. It's not like in NYC, where they would blame the delay on anything but an accident involving people being hit.
+Luckily for us the good guys at TfL have made perfectly timed bus announcements so we always know when the bus is about to move!
+You should invite everyone here on r/london, I'd come
+All that, but you must also remember that in order to become an official iPhone guy, you will have to bitch about the volume indicator in at least 3 reddit posts, and make comments like 'DAMN VOLUME INDICATOR's STILL SHIT' on every post about the most recent iOS update.
+For a genius telling you that the font on your phone's off or that the screws aren't real is fucking bullshit. As others have said - you paid for the phone, you paid for the extended warranty, get back there and demand speaking to a manager. 
+
+If that fails ask them to issue you a document in which they say that they've opened up the phone and go to another Apple Store, and try to get the replacement/repair done there.
+Pitorini
+
+Good luck on today's game! Would appreciate giving me an extra life with the code Pitorini
+
+Thanks xx
+I'm on 11.2.2 and easy getting 6h of SOT right now..did you update OTA or through iTunes?
+It says 14 MST - Mountain Standard time, so it's most likely in the US. In the UK, they show game times in the GMT time 
+2500 divided by 2000 is .8 which means they all get 80¢ each
+My ref is Pitorini
+
+Thanks xx good luck on this one 
+£8 only? Seems a tad too cheap for London, but you're actually right.
+Train to gatwick will probably cost more that the plane ticket though
+Thatæs right, either one of the 'ears' on the left and right, or the very top part of the screen, where the display meets the notch. You can't just tap on the notch as OP said though, it has to be on the screen itself
+The leather cases are very nice, but I find them rather expensive. £49 for a phone case is a lot of money, even for an Apple-made one.
+I am British and have never taken a screenshot of my screen at exactly 00:00 on purpose, so idk
+Thank you x
+If you haven't yet noticed, OP asked about the power brick and not the cable :)
+Rocking the leather case as well and couldn't be more happy - it's better than paying £200 or so for the AC+ to have the phone naked and does actually look nice on it.
+Mind sharing the wallpaper?
+
+The joy of having a carrier with a short name, it didn't really bother me on my 6s and now I don't even notice it with my X (I'm on EE).
+
+Also answering your question - with a longer name, like vodafone or giffgaff, it will scroll from right to left on the lockscreen and notification screen, just like it does with music widget sometimes.
+I do get them constantly on my iPhone X, so it's definitely there.
+Take it to your nearest Apple Store to let them see it, if it turns out  to be their fault (due to manufacturing) - you'll most likely get a new phone or get the screen replaced for free. If they however tell you it's accidental damage, you'd have to pay £290 for the screen replacement since you don't have AppleCare+. With AC+ it's only £25
+Your address is visible mate, be careful
+As an Englishman, I can confirm that this picture is a visualisation of my worst nightmares 
+It's one of the standard ones in iOS11
+You saved me, THANK YOUUU. I couldn't find one like that somehow
+Nope, this one is a bit wider (the space between the two bolts) and also the bolts are bit shorter on the shaver plug.
+Tried, didn't find anything.
+Also - how on earth could you fit the shaver plugs on the two bottom holes on the power socket??
+What if you start counting in Central London and only go up north in a straight line? Before you know it you'll be up in Scotland and nobody could argue if you said that Greater London ends there - you counted all the trees, didn't you? :)
+Been known since the first iOS 11 betas, nothing new tbh
+You could do that for the new notes, thought they exchanged the coins as well. My wrong then.
+You can swap them for new ones at Bank of England in the City
+Ok
+Ok, don't buy it then lol
+No airports with London in name except for Heathrow and City are actually in London.
+Happy to help x
+If you really want cheap and secure luggage storage go to Victoria Coach stn. Two hours for £3, and it's only a 10mins tube ride from Euston (Victoria line, southbound) and then a 5mins walk from the tube station to the coach station.
+Had to get up at 7 today for work, I don't brag 'bout it
+Yep, looks like it's US only at this time, so we'll have to wait and hope they'll release it here asap :/
+Yup, either cellular or wifi at all times and no bluetooth as I don't have an Apple Watch or AirPods.
+Around 8-9h. I did update to 11.2 OTA tho, whilst the 11.2.1 through iTunes. Idk if that makes any difference?
+11.2.1 did improve battery life on my phone over 11.2
+I did not really change anything, I have background refresh off for snapchat, facebook and youtube. I do have auto-brightness and true tone on at all times, and am pretty much connected to either cellular or wifi all day long. It's a 1 week old phone though, so the battery may degrade with time
+Nah, i have it on auto-brightness
+iOS always show on the battery stats page if the iPhone's been plugged in since last full charge, sorry to disappoint you :)
+As u/Joonas1233 said, the iPhone X
+It doesn't work with the JBL Flip 3, sadly 
+The whole screen you see is an ad, it pops up in some apps and is a full screen bullshit you have to get through 
+It helped, thanks x
+Just leave it in front of your house overnight, it'll be gone in the morning 
+I can confirm that it's available in a few Apple Stores in NYC today. 
+Probably, still think the UK should get access to the TV app way earlier, being one of the biggest markets for Apple 
+It's weird that it's not yet officialy available here, the UK is usually one of the first countries to get new features from Apple, e.g. ApplePay
+Wish the itv player was supported as well x
+Which ones?
+I'm in the UK and haven't got it yet ;x
+The attention to detail though 
+THIS! Thank you!
+Uuuuuuu that one looks niiice
+I was too using spigen on my 6s couple of years ago and it was really great, provides super protection. Might as well go with the spigen this time, thanks :)
+Yea I thought about that one as well, just wasn't sure how thick the case actually was. If it's thin and also adds protection (it's spigen of course it does) it may be the perfect one 
+[Here](https://support.apple.com/en-us/HT208086) you go mate
+Yep, that’s actually a feature. There’s an article about that on the Apple website
+I don't know what he's done, but probably [this](http://iempty.tooliphone.net/en/add-invisible-blank-icon-on-springboard-home-screen-iphone-ipad-ios/#.Wd9zJ2iCzIU)
+Same for me, 99p for Geekbench
+> and any advice for a first time soccer fan?
+
+1. don’t call it soccer, here it’s just football :)
+Isn't that the area around City Thameslink stn.? Looks very familiar
+Exactly
+6pm in the UK, just when I'm back from work
+Coventry
+Currently at work just south of the KIA Oval
+It's a shame you don't ship to the UK though :/
+Could you link to this video? Can’t seem to find it anywhere ;/
+Have you tried resetting all setting on your iPhone? It seems to help a lot of people having problems with the betas
+You do know that the view with temperatures for the whole day is just forecast right? It doesn't mean IT IS gonna be 18 degrees, they're only assuming. Looks like it's 14 there right now, and not 18 as it was forecast :)
+Def not a snake. Whatever visited us was taller as it bumped on our tent, and made weird deer-noises.
+Woow, that is a lot of stuff to do :o Would def need more than 2w for all that x the boat tours especially look stunning!
+
+Haha now I do really feel like exploring my country, which is fun because there are so many beautiful places across the UK I didn’t even know about ^^
+
+And oh just one thing that came in to my mind - do you know by any chance if there are any wild animals living around the Broad Haven area? I swear to God I heard noises and something was hitting our tent in the morning hours and that was definitely not a person :D
+God that's beautiful! Will definitely go there next year ;o
+
+This year was actually our first time in Wales for holidays, we usually travel south to Brighton or SW to Cornwall, decided to give Wales a try this year and it was so worth it!
+
+Are there any other places in the area that are worth going to next summer? We'd love to stay in Wales for 1-2w this time, we all just fell in love with this place.
+Such an amazing place to grow up! We stayed for 3 nights and were not disappointed, absolutely loved it. + the tide's really impressive ;o
+That's right, the beach's to the left in the pic
+It indeed is, pic taken from Trefalen Farm
+I find people in smaller towns like this generally more  friendly and less moody than they’re where I live in London. Love stopping at places like that and just chatting with the cashier lady at some petrol station, so nice.
+Ahh remember stopping there for food on our way home from Leeds, rly nice place
+Is that Barnsley?
+iPhone 6S - still working and looking beautiful
+Reset and install clean 10.3.3 through recovery mode
+And the British* :) don't forget bout us mate
+WCML has terrible coverage, and unless you're at a station or just passing through a town you'll most likely end up with edge or no connection at all
+Do you have bold text enabled on your iPhone? Happened to me on 10.3 each time I enabled system-wide bold text, could have something to do with that
+I believe it always did that
+Not working on o2 either...
+Just find out which stop you have to get off at before you board the bus - all stops are announced both on the little screens and loudspeakers.
+Citymapper - works well with all transport in London (Tube, O'ground, Trams, River boats etc. even Uber)
+Naah, at some stations you will have to walk up some stairs in order to get to the escalator, which would take you up to the ticket hall
+Sometimes - it really depends on the station. It really is a mix between stairs, ecsalators, lifts and corridors. You will have to use the escalator or a lift to get out though
+> The escalator will get you to the top regardless.
+
+when it's peak time on the tube, missing a train could make you come late for work, so it's crucial to get down on the platform as fast as possible - that's why people run down the escalators :)
+I am so sorry for you!!! So heartbreaking :( this place is lovely to sit and just chill
+Keep left - natural flow of people, because everyone's walking in corridor, whether on an escalator you have the choice to walk, and you do so on the left :)
+There are signs at every escalator on the tube saying you should stand on the right
+Born and raised ahahha, I do actually use both mall and shopping centre, really depends on my humour :)
+Hahaha trust me :d
+Shopping malls - when you really want to get out of there asap, but there's people standing literally everywhere so you can't walk down
+^
+Tourist buses, cabs driving tourists - TOURISTS.
+And probably because of construcion as well, several diversions are in place in central London - Parliment Sqr is closed from Westminster bridge, bus diversions on Oxford Circus etc etc
+> Later the showers are likely to merge into longer spells of often heavy rain, with a chance of thunder.
+
+how to ruin my day in three seconds
+u/carthurs congratulations!!
+Probably both, Polish guys hating Brits and Muslims because one British idiot is mental..... like what the actual hell
+Drake, is that really you? 
+Yea going to the BoE isn't much of a problem as I live in London so it's really a short tube ride away. I just thought that it could be done without having to travel to the City
+People not understanding the difference between the UK, the British Isles and England should not be allowed to visit this country
+I remembered being in LA some months ago, and got to talking with a cashier who noticed i sound differently (because of my accent). He was like - so you're British, huh? How's living in London? really funny tho hahah
+I've never in my life heard a person mispronouncing St Pancras ahaha
+All the people that automatically assume I live in London when I say I'm British (I do actually live in London but they don't know that). It's just so funny that people think all Brits live in London..
+Ooooh, didn't knew about that :o Interesting!
+Well as far as I am concerned they're not a legal tender anymore, so it's actually 50/50 if stores accept them
+> super impressed by how nice people seem here
+
+again, are you completely sure you're in London?
+Damn, does anybody know when the circle and h&c lines will be resumed in the Grenfell area?
+Should've just said clock tower mate
+Hahah I was more worried it'd concern the Royal Mail rather than the seller
+10 in 1 is my choice - all the things you mentioned + hair of course
+I know living in London is expensive, but I really hope you've got a flat with at least one window mate
+I really have no words for what's happening in our town right now, it's just heartbraking seeing all these tragedies constantly...
+Factory reset via recovery mode in iTunes + backup restore after solved it for me
+A dog on the Isle of Dogs, ahaha
+It doesn't work with British English either..
+It does work on pretty much everything besides wifi/lte/bt buttons. In fact, bt toggle isn’t working at all
+We shall enjoy it while it lasts (and not send stuff u won't get a screenshot of to people using iOS 11 ofc)
+With spotify the artwork doesn't show up at all
+It works, but doesn't show up album covers.
+Same over here, i don't see any of the album covers with spotify
+Just tested, opened a snap with screen recording on, showed as opened on my friend's phone!
+On iPhone:
+- Now playing widget does not display album covers whilst using Spotify
+- Weather widget not displaying location name
+- Bluetooth toggle in the control centre is not working
+- Sometimes camera just crashes, both in the app and other apps (snapchat etc.)
+- Feedback app do only have report options for iOS 9 and 10, not 11 as for now.
+- 3D touch working great in control centre, but very slowly and laggish on app icons and other places (peek and pop)
+
+
+I do! So a normal iTunes resterende should do?
+I'll test it for a day or two, if it's bad - downgrade and wait for the PB
+I think it's too overwhelming
+Shit, I really used the 3Dtouch app switcher a lot, I hope it's not gone for good. 
+I have 8mins left of the download, so will be testing soon, but I presume the battery life's shit so will be back to iOS 10.3 sooner or later before the public
+Ohhh damn, settings look sooo cool ;o Does it work on 3rd party apps as well? Or do they look like normal inverted colours (eg. facebook, snap etc.)
+
+Also, how's the update performance-wise? Any lags/apps not working/anything you've noticed?
+No worries! Also they can transfer your PAYG-credit or travelcards to the new one :)
+Sure mate, thanks!
+Since you're on the new version, could you check what the new redesigned inverted colours are?
+Bloody hell, looks so messy ;/ good thing it's customisable at least..
+Could you post a screenshot of the control centre after customisation?
+Same here, connected to the PC but not showing up in iTunes..
+Btw have you had any trouble with iTunes lately? I wanted to back up my iPhone before updating but it doesn't show up in iTunes at all ;o
+https://oyster.tfl.gov.uk/oyster/link/0003.do
+
+report it as stolen here, they'll post you a new one :)
+Hopefully I'll get it before midnight (it's 9pm here in the UK and I'm on a shitty wi-fi)
+How many gigs is the update? Haven't installed the profile yet..
+Here's the link: https://www.reddit.com/r/iOSBeta/comments/6fgjub/news_ios_11_beta_1_developer_profile_working/
+It will be customisable though, https://www.reddit.com/r/ios/comments/6fgmp4/the_new_control_centre_will_be_customisable/
+It will be, have a look:
+https://www.reddit.com/r/ios/comments/6fgmp4/the_new_control_centre_will_be_customisable/
+I do agree! The design is not so well to be honest, single buttons at the bottom and then 4 buttons in one square at the top do all look a bit disturbing, but that's something to get used to I guess.
+
+Can't wait for the dev beta to be released though!
+I'm in the UK as well, she said in.
+Got this one a year ago or so, just after losing my old one 
+So if I get you right, when touching in and out, Oyster will not charge you right there, but will store all your journeys for a given day, and then charge you the whole amount (or the max daily cap) at the end of the day?
+Just 1h5m to go, the hype is real right now
+While I've had a very well night's sleep, and am patiently waiting for the keynote to go live 6PM UK time :)
+True, that would be a fun way to see how well we really know the place we call home
+High-rise blocks are too easy to guess though, every tourist that's ever been to London probably knows them all, and they're visible from basically every part of the town
+Or a pint in London..
+The 3D Touch trick works everywhere on the keyboard, not only on the emoji keyboard.
+Report it to TfL through their website!
+Call 911
+Word ^
+The black ribbon in front forms an 'a', whilst there's an 'M' behind the pillar.
+London is generally a safe city, and with the extra forces now you shouldn't be afraid at all! 
+
+Heathrow is a rather busy airport, and now with the stricter rules it could take even longer at the border control (having in mind you're coming in from the US as well). They will ask you all kinds of questions, I hope you'll enjoy your stay here thought :)
+I think we'll all notice military in some parts of London tomorrow, especially around Westminster and the City
+Good luck with the passport control on Heathrow, could be tough!
+Asking the real questions here
+King's X packed as always <3
+I really hope you're not walking around London with a toy steering wheel hahah
+For a moment I dind't know what you were talking about....then I remembered that both the DLR and the Overground have door opening buttons, hahah.
+Sacrifice your life for it* - should the question read
+We're four as well, so I get the point. I know a lot families of three though
+Mum, dad and one child - a family is not necessarily four people :)
+I hope he don't as that'd be a bit awkward (I'm a guy). He actually looks very annoyed when I get there, it's crystal clear being a post office worker isn't what he's dreamt of hahah
+Well, no doubt Harrods got tons of great shoes, but the problem with Harrods is that it's a luxury store - thus everything in there being extremely expensive.
+
+I'd check out Primark as others here have mentioned, you could as well stop by Selfridges on Oxford St. if you absolutely want some brand clothes - also expensive but often with some great deals to make more tourists come by.
+A group of tourists on Leicester Sqr. not able to use their bloody oyster and blocking everyone around 10am. Headed for the Piccadilly train towards Heathrow..
+But what's the point in that? Do they get bonuses for doing so or something?
+You're a hero to this city!
+I just hope you're not one of those people who ring the bell 3000 times before the bus actually stops
+I have the same problem but with my local post office... keep getting so many red cards because parcels "couldn't fit through the mail slot".. this guy working there goes up to pick my parcel as soon as I walk in the front door.
+
+Funny thing is, once I get home, the parcel fits the mail slot perfectly
+I'm usually in a hurry going to school every morning, and I always end up on the wrong platform :x
+Every time I hear Tulsa - I think Chandler from Friends
+[HERE](http://i.imgur.com/l5t34mu.png). If you look closer inside the red ring I made, you will be able to see a shadow of the balloon girl.
+Not the one I was talking about though :)
+I did indeed find the place! It's a stairwell up the Waterloo Bridge just outside the main entrance to the National Theatre.
+
+Sadly, it's been removed, with a Legible London sign being placed where the "There is always hope"-text would be :/
+There is clearly someone standing on the balcony in the very middle of the photo as well
+In the UK
+How's the performance?
+We do, but only for Mac, iPad, iPod and Apple TV though (at least these are the only products I could find on the [website](https://www.apple.com/uk/shop/browse/home/specialdeals))
+
+The S1 is currently at £269 for the 38mm case (£369 for the same size of S2), whilst the Gen 1 being sold used or refurbished from 3rd party resellers at about £150-200, we're talking max £100 difference in price here. 
+
+Although S1 sounds like a better option, Apple has a tendency to slow down old devices with new updates (my sisters old iPhone 5 works like a piece of shit on iOS 10), so the same thing could happen to the 1st Gen.
+
+
+That's what I was thinking as well. The issue with the Target deal is that I live in the UK, and we neither have Target here nor any great deals on Apple products really.
+
+Considering there isn't any sale, and products do have their original prices; would S1 still be a much better option? I don't mind spending some more pounds for a faster and more future-proof product though, I just thought that the 1st Gen could save me some money if it wasn't THAT much slower than S1!
+British, I assume?
+I didn't quite get that.
+I updated to 10.3.1, fixed now!
+Have you tried updating to 10.3.1 and checking there? Don't know whether I should downgrade or update iOS, kinda afraid 10.3.1 would be even worse..
+Yea
+noob
+Where did you order?
+It's available on TIDAL now for free (all 22 songs)
+That's true, buses in London are extremely cheap (with the daily cap at £4.50) The thing is, they are extremely slow, especially in central London, where I'd rather take the tube and pay some more instead of sitting on the bus for twice as long...
+Perks of living in London - everything is cashless, you got to use an Oyster or contactless credit card
+Did you just assume that one of them friendzoned the other one? If so, who friendzoned who?
+I had a problem like this, they replaced it for free (although it still was on warranty)
+They should do it free of charge!
+Does it only work with American numbers? Will it work in the UK as well?
+What a shame OP didn't turn a bit to the right when taking this picture...Lots of trees and plants in St James's Park ;)
+Just remember that Genius Bar is quite a busy place (at least in London) so I'd make sure to book an appointment right away, I had to wait 1.5 week for mine :X
+£126 for a new, GENUINE screen from Apple vs £90 for a crappy shit from a crappy service point, the choice is obvious here!
+
+I strongly recommend replacing it at an Apple Store. I broke my screen last year, didn't want to pay the £20 extra and went to iMend (not recommended at all). They did replace my screen (they even came to my house), although it had shitty colours, was extremely unresponsive and everything that was displayed on it for longer than 5 mins was still visible on the screen (image retention).
+
+So again, do yourself a favour and replace it at Apple!
+Congratulations, you've just found a feature that's been in iOS 10 for a looong, looong time!
+It occurs on O2 in the UK as well..
+Jailbreak and install Phantom Lite, works flawless. Only way to do what you want to do right now, all the other apps are just crap loaded with ads..
+Give Apple's customer service a try! Called them today, they can help you! 
+and btw /u/fanoftom 's number is for the US, you will have to find the tech support number for your country if you're not American (0800 107 6285 for the UK)
+which radar is it?
+The fun thing is, these shoes are being released on 11 Feb, which is in 3 days. And to actually buy them, you have to win a raffle..
+I do agree, travelling to other parts of the country make my blood boil sometimes..
+Well spotted, didn't know
+Mate, we've seen that. No need to make 10 posts about it every single week, everyone on this sub has an iPhone and are aware of this issue as well as they've seen it here before. We know...
+As a Briton, I do agree. Get your facts straight before commenting something stupid u/KanyeCancelled
+128GB, still have about 105GB left though
+Oh, so beautiful! Having a 10y old girl myself, they're so lovely.
+How old?
+Lenovo L450
+Lenovo L450
+Manufacterer of the PC or the sound card? Lenovo provides their own drivers as far as I know, which differs slightly from these provided by Realtek.
+Tried. Weird thing is that it started after resetting the PC to factory settings x
+That's what I was asking about, whether shinies appear as shinies on the map or after you've captured them..
+Are we talking about CATCHING or ENCOUNTERING shinies? Or does it work a bit like ditto, you don't know whether a pokemon is shiny or not until you actually catch it?
+Yep, set it to channel 6, but still no luck x
+Very nice, now I actually want to go outside
+I am connected to Wi-Fi, but long press on the home button doesn't bring up siri as it usually would do on an iPhone, or is it that I don't know how to access it inside the activation screens?
+Doesn't work, can't even open siri.
+There's no medical ID, unfortunately ;/
+Shouldn't there be a sign warning people about the cameras?
+Oh I see, so there will be pauses between each season..kinda sad, I hate waiting for things x
+I do understand that, as English can be confusing, even to natives haha It's just a weird, weird language x
+It is the UK indeed
+*"I was just about to get her a new car AND a new house. So where do you think it'll be best to settle, London or Bristol, dad?"*
+That's true haha
+You wouldn't actually earn anything but theoretically yes hahah
+Yep, it'll at 12am for us in the UK, meaning you either lose sleep or wait until tomorrow :X
+Every car with the new-style number plates in Britain do have the EU band, although it's not optional to have (but if your number plate doesn't contain the EU band you have to use a GB sticker if travelling outside the UK)
+I'm a simple Brit, i see UK i upvote!
+I feel like an outsider being from London >X
+I've never seen any region exclusive being put in a gym in the UK ;o But after leaving a Mr.Mime at a gym in LA two weeks ago (near LACMA), I saw a poster saying "fu*k spoofers" later on that spot, kinda fun
+But on the other hand it's cool to leave a Mr. Mime at a gym in the US whilst visiting, and wait for people to upload a screenshot to this sub calling you a spoofer hahah
+All of the common mons, like Rattatas, Pidgeys, Weedles etc. Also Drowzee to be honest; I'm from London, and we used to have them around every corner of the city, resulting in people having more than 30 Hypnos each (I do have 43 myself, two of which with perfect IVs), so it is a pokémon i usually don't catch.
+Well, I tell you're lucky ;o I still haven't completed mine, I'm currently on 129 :/
+
+And I live in London so I should have more :X
+Maybe you could afford a freddo with all the money spent on those ;o
+I don't even wanna know buddy xx
+That means walking to school instead of taking the tube tomorrow, gotta get up early tho x
+Hahahah Jeez man, how many inches is your screen ;o
+It's okay, criticism is good! 
+And yea I'll see what I can do, right now I wait for a verdict from the mods about whether to make a new ver. or not.
+Well I will most likely make a new version of the banner anyway, as it needs to be a bit wider (or what u/greymutt?). If I do so, I will definitely do something about it, as I actually plan to add Canary Wharf in to the foreground on the far right side. Thanks for the opinion mate!
+Buildings behind the O2 (and many others) do serve as a background only, they're not real building that you can find in London. And yes, that thing is indeed the Victoria Tower, but arguing now whether it's unproportional or some pixels too high isn't really important imho. And btw, this tower and the clock tower are about the same height (315 ft for the clock tower and 323 ft for Victoria Tower)
+I will most likely add it, and maybe Canary Wharf as well. Looks like the banner isn't wide enough, so it could be needed to make it wider.
+Yea he is controversial and has a rather uncommon sense of humour.
+I always loved how Clarkson presents his points of view, with a bit of humour, instead of just writing a boring article about the whole London closing so early because of people who can't handle living in a 8+mill. city..
+Oh, here: http://pastebin.com/zw6WhUjz
+Wow, congratulations ;o I really hate flying to Stansted, it takes at least 10-15min to go from the plane to the exit after you land (you have to go through the whole airport and hundreds of staircases whilst  carrying your bag, definitely not a fun experience..
+The official name was Barclays Cycle Hire, although of course, nobody from London called them for Barclays/Santander cycles, but these are the official names for the system.
+src: https://en.wikipedia.org/wiki/Santander_Cycles
+I do agree with you, UK is quite lucky to have the NHS tbh.
+UK and the US are to very different countries with totally differënt health services. For us, going to doctor or having a baby is basically free, because the NHS is funded through our taxes.
+Take the tube to Victoria, and from there you can go up to Victoria Coach Stn. £5 for 24h!
+Because he was the Mayor when those bikes were launched, then called Barclays Cycles.
+Just a great frame x
+Fantastic shot! What's your setup?
+But isn't it accessible the same as it is now, within the mailto link? It is still written in the website's code, now I'm not so good at HTML/whatever so I may take wrong.
+Could you link to the listing?
+They map streets of London to use in their self-driving cabs!
+That is possible, as Oxford St. / Regent St. are both popular shopping spots among tourists, but I doubt retailers like Debenhams jack up their prices in only some stores that are more popular than the others.
+There are people who prefer mails rather than filling out contact forms, so I'd suggest you to provide your full address in case someone doesn't see the small icon.
+That should do it :)
+Now I don't know whether you will behold the exact same design on every page of this site or not, but I'd recommend to design a home page and one article page. If you're going to have more pages, like a contact section or something, it would be best making a design for it as well. There's no point really in making only one page, as long as you're not going for a one-page solution, which isn't a good idea for informational websites as yours.
+Depends, really. Will you be using the design on a website? Or do you design for practise?
+When I design for someone, I always do what they request. Sometimes people request different pages within the site, other like the one-page layout.
+
+So it depends really what the purpose is, and which layout you're going for.
+Also, you could ask the guys over at [r/web_design](https://www.reddit.com/r/web_design) :)
+Debenhams on Oxford St. Repaired my Casio Edifice there for not so long ago, they may help you :)
+This joke is way too old and way too bad x
+Yep. And if you're taking a bus, it tells you which stand it is (some bus stops like Westminster Palace/ Parliament Sqr. have multiple bus stands, with buses towards different parts of the city, and Citymapper tells you from which stand your bus will depart) and on the tube it tells you in which direction your train is going, so all you have to do is to find the platform on the station.
+
+Also, it only shows prices for the Oyster card PAYG - system, cash fares for the tube could be twice as expensive..
+Ask on [r/cambridge](https://www.reddit.com/r/cambridge) instead, you're only spamming the sub by posting things like that here x
+Hahaha, I see :D
+jailbreak
+Thank you^^ feels so good to do something for the community! And congratulations to everyone who entered!
+But I'm just curious u/greymutt .. how many votes did Bremain get?
+That's true, those buildings serve as a background. However, if this would eventually win, and if mods do request that, I could add some of the buildings from the City as well. Actually a good idea, thank you :)
+Thank you sir!
+Thanks man! :D
+Thank you!
+[My entry](http://i.imgur.com/jNtMkSk.png) for the banner, I like a simple, clean and modern style and that's what I used in this work :) it got space for the Snoo on the left side :)
+
+Lights with countdown for pedestrians are actually very common in London.
+Confirmed ^^
+Monday, 10.18pm, no sign of the update..
+I really hope you can tell the difference between Android and iOS mate..
+Apple tend to use up to 48h to approve the update, it doesn't get approved automatic.
+I have nothing ;/
+Actually it could take up to 48h from when Niantic has submitted the update to the App Store, til the actual update enrolls to the public.
+What IVs are we talking? (on the 162 one)
+You can attack, but not leave your pokemon as a gym defender if the same pokemon is your current buddy.
+Same here mate. I mean, it's nice that Niantic finally does something about cheaters, but they can't think of alll jb/root users as cheaters. It's very meaningless, most people jb their phones to customize them and not to hack PoGO :V
+That's true, let's just hope for the best. Will post an update here as soon as I get the new version!
+Agreed! I wonder if there's any speed limit to register the distance on your buddy like there's on eggs. Would be nice to get in a car, use a lucky egg and get candies + double xp though.
+The same thing for jailbroken iOS devices for now.
+
+First 15 sec is basically me every morning.
+Wow! That's impressive. In fact Heron Quays / Canary Wharf / West India Quay are stations that could easily be made one. A complete waste of money (+ they're all within a 3-5min walk from the Canary Wharf tube stn)
+It is on the App Store, guess the iPhone ver. came out first then.
+I do too! I tell you buses in central London are just made for egg hatching and collecting pokestops, as they usually drive no faster than 10mph, and are you lucky you get all your eggs hatched, a lot of pokeballs and other stuff from pokestops and ofc nice pokemon (although drowzee is more than common here) for the price of £1 XD
+I've been taking the 24 bus from Victoria to Tottenham Court Road lately, it runs through Trafalgar Sqr. so there's no way it could go faster than 10mph there :)
+Like he said ^ they sell these small models of the clock tower on the westminster bridge, priced £15 and looking extremely cheap, but guess what? Tourists buy them in bulks, that's how the business is going man
+Could buy 20 freddos with that
+Beautiful shot mate!
+Believe it or not, at first sight I thought it was printed.
+I like the way you're thinking mate! Actually wanted to spend it on something really crazy, and you just gave me the idea ^^
+Yea that actually solved the problem, ty!
+Could you PM it to me? :D
+Could you post here? Or PM?
+Yea the problem actually is that I've tried something around 10 links, still getting this message :X
+Got it, thank you pal!
+What did you exactly do?
+Try downloading a beta dev profile on to your iPhone, and update OTA. Should be easier and work ;)
+Ooook, but then what about the full release that comes later this Autumn? Can i just move onto the full iOS 10 version from the dev beta, just like i can from the public one?
+Ohh i seee, thank you! But what about the stable release which Apple will make available later in Autumn? Is it then possible to move on from the dev beta onto the official version?
+Yea, the second option is just what i wanted to do, thank you very much :) Got all my stuff backed up already, cheers mate!
+Done
+Since u say thay you're playing with some lowranks on the other accounts, might be an option playing with me on them sometimes, as I'm nova (MG1 before the rework) and struggeling to get back up there :? Leave me  a note :)
+
+My filter for Coventry, UK - approved today
+
+http://i.imgur.com/lzYll6w.png - transparent
+
+http://i.imgur.com/q90Teyc.jpg - with a picture in background

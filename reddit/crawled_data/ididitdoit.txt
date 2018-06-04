@@ -1,0 +1,1484 @@
+Thanks for the explanation, that's really interesting.
+Are you sure? The shots look heavily edited.
+It's gotta mean something. It's just gotta be.
+I'm happy he died in the show for a legit reason.
+Left corner of the third image. That's really bad cgi, the rocks are stretched out.
+She lost all her legs, and maybe arms. She's holed up somewhere alive. And the group is out for revenge. That's what I expect from Gimple.
+
+Edit; added "alive"
+Indeed, this is the kind of bad writing I see on Turkish tv. Technical details are all wrong, and the decisions of characters don't make any sense. It's like it's written by a bunch of high schoolers.
+Assuming the Netherlands? Cars are mad expensive there(taxes and shit).
+> To be fair, it also isn't an indication against the quality of his journalism.
+
+That's why I commented in the first place. Guy/Girl above me indicates he is not an objective third party because he is a "fanboy". Declaring someone a fanboy isn't even being objective in the first place.
+Being a huge fan of a product isn't a sign of his quality of journalism.
+It's a flagship if you exclude the camera.
+New account, smart move from Satya to prepare for an AMA.
+"May 3TH".
+
+Sadly enough I have to attent other matters that day.
+25% is not "mostly".
+Yes, you can even customize how long your alarm should go off in the "Silence after" setting. Minimum is 1 minute, maximum is 15 minutes.
+How do you mean? Like a disable all button? I will implement that in the near future.
+Yes, what you said.
+Michael Jordan couldn't qualify for college basketball.
+GPL license.
+I'm a deep sleeper and after using an alarm app for over a month I get used to dismissing alarms while sleeping(muscle memory). I wake up and don't even remember dismissing it. If I only set one alarm, then I'm afraid I'll dismiss it and oversleep. That's why I set up multiple alarms to be sure I wake up on time.
+Java, with the Android Studio framework.
+
+But I'm going to look into Flutter or Nativescript for my next project.
+> Have a setting in which the gap between each alarm keeps getting smaller with each iteration.
+
+It has one! I named it "Smart". 
+
+Thanks for the sequence, I will look into that this evening.
+
+> Reply to edit: did the multiple alarms help? 😂
+It did! But I had those alarms already set a week ago. So I just had to enable them.
+For now, it's just an ad-free version. However, I have plans to include extra themes for the Pro version.
+
+I might also add new features for Pro only, but I can't make any promises right now.
+> Very interested in this. Is there an option to label the different alarms that can be set up?
+
+Yes, every alarm can contain a label. You'll have to do it manually for each one, though.
+
+I you think I should an option to set a label for all alarms at once, please let me know! I will see what I can do.
+Great suggestion! I will try to develop that in the near future.
+You can choose a input method to your liking in the settings menu, there is also a grid input like your example. I just put the system default as default to not confuse people. They will feel at home when the input looks exactly the same as their system default.
+That's a feature I could implement to this app. But I need to research it first.
+This idea would work great if I can group the alarms in a stack. I will try to develop it in the near future.
+Sadly, no. Integers and longs have a limit.
+That a nice idea. I will try to develop this in the future. When you set multiple alarms it will be shown as a stack and all can be deleted with one click.
+Exactly. BCH is a product of the community splitting on vision. BTC won the consesus war, but BCH still serves people not agreeing with the direction BTC is taking. I like both chains. But selling it as the real Bitcoin is scamming. The least they could do is sell it as Bitcoin Classic, which it is.
+
+That's a possibility too.
+> dismiss all un-dismissed alarms at once
+> have a daydream/screensaver function
+
+The dismiss/delete all alarms at once is on the roadmap already.
+The ambient display is a great idea! I will try to code that.
+
+> either way, I'm looking forward to this because I can't rmember to swipe left instead of right in my half awake state at 6am :P
+
+I'm also one of the persons that dismisses alarms during his sleep :-)
+Thanks for the feedback! English is not my native language, easy mistake to make.
+Yes, this app is open source because I used open source code. I have to push it to Github still, will do that in the weekend with the next update(have a lot to do for college atm) because I would have to take the ads out for that. I'll also put the ad-free version to Fdroid this weekend. The Free app on the Play Store has ads, the Pro version has no ads and will get extra themes soon.
+Yes, I did too. During the Jobs era Apple always provided the perfect experience from unboxing to leaving. Now you get halfbaked results.
+"If you don't like what is being said, then change the conversation." – Don Draper
+But Nano's blockchain does not work! /S
+What Nano does only somewhat exist in IOTA. Nano does not work like BTC or ETH. This has been said many times before, yet you keep repeating the same questions. You are trolling instead of being curious.
+Am I the only one who was searching for a computer server in that photo?
+No, it only proves you're dumb enough to post dumb comments like that.
+Yeah I know that lol. I have so many ideas that are waiting to be made.
+MIT License.
+
+ [Read it here; clicn.](https://github.com/KyberNetwork/KyberNetwork.github.io/blob/master/LICENSE)
+Yeah got a dude like that too in my team for college project. He watched everything I read on reddit and is ready to give comments every single second. And let's not get started about when I code. I don't even have the space to think with him over my shoulders.
+
+He doesn't even get the hints that I am getting really mad.
+> Yes, but nano’s competition is XLM and XRP regardless of who is free and cheaper. 
+
+Who is upvoting dumb statements like this?
+The main "blockchain" has no issue at all. Nanex never had an issue. It's an issue with exchanges implementing nodes and wallets. 
+
+Nano has no blockchain btw.
+And also remember that most redittors don't know what they are talking about. Like this guy ^ . He doesn't realize Ark has a working product. 
+I acknowledge Lil Wayne's talent while not enjoying his music. That's being objective.
+Nas and Jay were from two decades ago mainly. I do agree with em, kanye and wayne though. 
+How the hell did Cole World get more points than Born Sinner.
+Past decade was weak overall. This decade is not.
+Then he's not a critical reviewer. Enjoyment is overly subjective. It can't get any more subjective than that.
+
+> Cole is trying to make a deep rap album,
+
+If Fantano thinks KOD was meant as a deep rap album, he must be an idiot. I think it was more a parody album about lil's.
+Jalapeno is more sweet than spicy.
+So BTC transferred to a LN node wille stay there locked up forever? If a node closes you can kiss your BTC goodbye?
+
+If yes, then I'm switching to BCH.
+It's not about the atm's. It's about the exchange s that are available in the Netherlands and Belgium. Lower competition = higher prices. Check Bitonic and Litebit and see it for yourself.
+Lack of competition.
+At least you got some justice out of it.
+I'm 26 and in college. You are never too old to learn. I started studying Marketing but gave up, because like you, I was talented with computers. It was the best decission I made to drop out and start studying software development. And I'm doing great.
+I still hold the view that FNL is his best work. Damn I miss those times. You explained it very good. I always thought that J. Cole would become bigger than Kendrick back then. Kendrick had a damn goodnflow, but his lyrics were so so. J Cole was on top in every domain.
+When moon?
+When can we expect fresh memes from this video?
+No, it's Satan getting into your head. REPEL!
+It's a comment.
+>  didn’t come off as corny at all
+
+Only some of his albums are corny. The storytelling we saw on the last tracks is what made me a Cole stan. It's almost at the level of Friday Night Lights.
+>  In reality the vast majority of these rappers don't mumble 
+
+It's not really about the mumble voice, but the mumble level of lyrics.
+
+> Gucci gang was a hit just because it was really catchy
+
+It was not catchy at all. It was like touret's syndrome.
+His fans are mostly white, that's what I believe Cole was mostly referring to.
+
+Which means no second album, it's just open to interpretation.
+Luckily I had to wake up at 5.30AM
+FNL will never be topped bro. It was his best work.
+Well, I can understand that constant trolling makes a community "toxic"* against any newcomer or someone with a slight different opinion. 
+
+* Couldn't find a better word, but you'll understand what I mean.
+The community is important for me. It makes hodling more enjoyable when the community is fun.
+Just when I was thinking about supporting BCH, I see reasonable comments downvoted. SMH both r/bitcoin and r/btc are childish.
+
+The next bull run will prove the community that Bitcoin's network congestion drives all crypto currencies down. Either Bitcoin would have to recognize that something has to change because LN takes too long or BCH will take over.
+Same! Warm Up and Friday Night Lights are his best work imo.
+Season pass? I think he'd go for lootboxes.
+His mangum opus and final work? I'm getting too hyped.
+My sister loses all her photos every time she gets a new phone. She says she wants a refresh, even when I offer to backup all those photos safely. She's going to regret it later in life.
+He asked for the name.
+In Dusseldorf Airport there are also beggars near the parking ticket payment terminals. I had problems with my credit card and couldn't pay for my ticket. This beggar girl, I knew she was part of an organized ring, offered me coins to pay for my ticket. I said no thank you and asked where I can find an atm. She helped me out very friendly and I gave her the spare money I got after paying for the ticket, because she helped me out. Something like 4 euro's.
+A paperboat
+We don't hate the rich. We hate the people playing god.
+Curious that all accounts complaining about HitBTC spam posts like this and are just 3 months old.
+Yes, with the 1050ti I'm having random 1-3sec freezes in Fortnite. (with Ryzen 1600 and no OC)
+How is it possible then? I'd like to know.
+Well, I don't have kids.
+So what? The more people on board, the better. Even if it means just lunch money.
+I wished we got a second movie. But the short form is an art.
+So if I say Stalin was equally evil to Hitler, I lose?
+Whataboutism
+Don't worry she loves herself so much she reeks for more acknowlegdment from outside.
+Yes you are right, I am going to stop working and not worry about my future anymore. I will only worry about wars. 
+The doge crypto deserves, but not the one it needs right now.
+I wouldn't sleep too if consuming precious private data was the only means to stay alive.
+Nice comment history.
+Europe, bro.
+> No it's not - you code your algorithm to rely on resources such as memory bandwidth that ASICs don't have in more abundance than anything else. ETHash is one example of this.
+
+Fair enough, thanks for clearing that up.
+> It means that the algorithm in question was designed to provide minimal speedup when implemented on an ASIC, compared to general purpose computing hardware like a CPU or GPU.
+
+It's impossible to code a an algorithm that provide minimal speedup for a custom made chip that is designed to process the algorithm as fast as possible (AFAIK).
+
+What you are saying is ASIC-Proof (which is practically impossible, no algo is asic-proof). Not ASIC-Resistance, which means an algorithm is designed to not be processed fast by known ASICs, or that an ASIC does not exist to process that algorithm.
+
+So, referring to your first post I commented on. Cryptonite was Asic-resistant before an Asic was developed for it. Just look at the 50% drop of Monero's hashrate since the new fork.
+Asic resistant means that there are no asics developed for that algo. For every algo there can be made an asic. If a coin is asic resistant that means that the coin will fork(the hash algo) against asics. 
+Sure, Nano is the only coin losing value right now lol.
+"roll back transactions". You deserve to lose money in crypto if you think that is possible. Next time don't get hyped and don't invest in projects you don't understand. Leave crypto now, you'll thank me later.
+Resistant doesn't mean what you think it means.
+Alto's Adventure.
+Had the most and biggest empires, but managed to fracture and lose territory to Arabs, Greece, China and Russia.(very broad history)
+Why BTCP when we already have monero.
+Yes, it's down.
+
+Edit: The page now says "penis".
+> I want proportional representation and coalition governments similar to a parliamentary system.
+
+I agree with the last part. That's a far better system. I've heard from many people that they prefer popular vote, which is not a good thing for a country like the US.
+
+Extra note for the downvoters: Don't assume my residence, nationality or political preference with hearing one opinion that seems to agree with a certain party in the US. I'm European and live in Europe. I don't care about left or right. Aligning to a spectrum is idiotic.
+I meant huge populated region.
+With only counting popular vote you can have a huge populated* region that can dictate everything for the rest of the country. The voting system is fine as it is.
+
+*edit
+It was meant to bring confusion.
+Belgian politician also got bad press because he had dinner with real estate guys. What a small simple beautiful country we are.
+Yes, but the 2008 iPhone also had a prototype.
+The point of cyberpunk is exactly to show how far sexualism can extend. It's to show the worst of humanity entangled with technology. 
+
+Also read this; [Click](http://www.radiotimes.com/news/on-demand/2018-02-08/james-purefoy-and-renee-elise-goldsberry-on-the-complicated-feminism-of-netflixs-altered-carbon/)
+Wasn't being able to be topless without being percieved as a sexual part one of the things feminists want? 
+Uhm... Just buy LTC at Coinbase and use Shapeshift.
+With blood from bad investors.
+I didn't say it were your words. I made a joke because I get anxious at night that women would find me creepy. But it looks like I wasn't aware of the car sound thread.
+Anxiety makes us a gentleman? Nice.
+Transfer to a safe wallet instead of keeping it on a exchange if you're planning to hodl for long term. Transactions are cheap...
+!remindme 15 days
+We all know they are going to list Dogecoin.
+Clothes and behaviour(look at rappers).
+Looks like a crusade
+Maybe, it's fun to hypothese. But we can't know for sure until science solves the mystery of the consciousness. But I think quantum cognition and parallel universes could be linked. Like we are a collection of different selfs and universes. The state that is most likely to be.
+1980 Turkey. Both the US and the Soviets were arming groups to influence the government. Nobody believed then, but it is a fact now. If we don't believe today, it can still be a fact later.
+Doesn't make sense, the collapse of the building seemed controlled by pre-placed explosives.
+> This is not reality - just your own mental representation of society.
+
+Society has some clear cultural boundaries and rules. It's common sense and has nothing to do with one's own representations. What celebrities do is frowned upon when a normal person does the same.
+I remember that space too. 
+Search Quatum Cognition for real scientific answers. Quantum mind and brain are associated with new age stuff and are questionable.
+Or we all die before time travel gets invented.
+Doesn't hide your ip and mac address. Use a VPN instead.
+I have a guy in my team for a research project like that. He's pro at coding, but acts like he doesn't anything about it when asked questions.
+Try to reach that ambition, work hard to it. But don't be dissapointed if you didn't reach it. Release it, listen to criticism and learn from your mistake.
+Glenfiddich, great Scotch great memories. Would recommend.
+Hmm yes, got also something like that. But video recommandations in Russian language. Was watching videos about Turkic history though, might have been related to Siberia and Youtube assumed I speak Russian.
+Gotta love Belgium.
+It's a legal rule at my college.
+Thank you so much! The game will help me relax during spring break.
+Mmm mmm no no nooo.
+Not only imitating Apple's decissions, but also Steve Jobs' personality.
+I build a new PC one month ago, forgot to connect the beeper thing to the motherboard. Boy was I worried.
+Yes, I have to re-enable an adblocking app every few hours.
+You feed the algorithm wrong data about you. So your profile becomes fake. It makes Facebook less efficient to target ads.
+IIRC nextLine() always does nasty things, it mostly only works one time hence not reading other lines. Try using .next(); .
+They still think it's bullshit, until it damages them.
+
+I shared these concerns on Facebook, not one like or comment at all. While my memes get like 60 likes.
+What else are you supossed to do with cake?
+So reddit is the next digg. Which site will become the next reddit?
+👍
+You can also do your work while travelling.
+Problem is not the name, problem is marketing it as "the real bitcoin". Bitcoin is the real bitcoin, bitcoin cash is a faster bitcoin.
+Why the fuck is LAND capitilized, I was really curious what the abbreviation meant.
+Could be, they had bad relations lately with Paypal IIRC.
+That's because of the market.
+Correct. There are signs for dismanteling secularism. But hasn't happenned yet.
+Look up for the definition of secularism. It doesn't apply to Turkey. Citizens are still free from religious rule. 
+Sanctions on Turkey means that Turkey will look for econmic relations in the east and Russia. Last thing that the US wants is to lose influence to Russia.
+Government is still secular. The country is not ruled by an holy leader or church. A president being religious doesn't makr a country not secular. 
+Correct. Behavior and culture evolves. After two years your marketing profile will be vastly different.
+#DeleteReddit
+It's a nice painting though.
+My 20's was about learning to be an adult. I missed my childhood because of bullying, so had something like delayed adulthood. I can imagine myself saying something that stupid when I was 20 or even 23.
+The 5S Space Grey, the last Apple product I really liked. I never liked using my iPhone 6, there was this absence of magic.
+How do they even lobby in the EU? Money (campaign) donations are seen as corruption here.
+I can guess the time correctly to the minute when waking up. Must be the biological clock.
+The VGA port can't handle TCP/IP protocols.
+It would be sad to see that my version is the best version. That would be depressing as hell.
+"Cancer virus"
+Maybe Kucoin or Shapeshift. First buy some Litecoin on Coinbase, if that's your question.
+Introverts like being quiet, being quiet doesn't mean they are shy.
+Many people don't realise they're introverts, or even what it means. I guess they feel very related to this study and don't know how to react. I've been there, not knowing what introvertism is. I can understand it makes those people happy that their traits seen by extraverts as sad, shy and lonely being appreciated here.
+Introverts can "fake" extravert traits. But it still eats up a lot of mental energy. I might speak the whole day long, but end up in a mental depression for 2 days.
+> When you're good at something you don't have to give it much thought.
+
+Not as an introvert. Introverts always think and assess situations, no matter how good they are at certain skills. I can do small talk, but it eats a lot of my mental energy. I have to focus 100% on the small talk and think of scenarios that might happen and how I should react to it.
+As an introvert can confirm, but I think it has to do a lot about the fact that many introverts are analystic.
+Byzantium is about to fall. But I know history, and can manipulate it muhahahaha.
+I got so many random errors when first installing Maven. Installing Visual Studio and its frameworks are far easier than installing something for Java. It's always bound to have errors that takes hours to solve.
+
+Java is great for IT people, we like to solve problems. C# and .Net is a better choiche for peoole that have zero knowledge about coding. They'll quit when they encounter a problem they don't understand.
+Setting up Maven is a bitch.
+I'm so excited about how REQ will change the landscape for crypto.
+> I pitched it to the marketing team 6 months ago as VTC being the Bronze version but they didn't like the idea.
+
+Bitcoin is Gold, VTC should be diamond.
+ Klonoa, still mesmerized by the game. It was the first game I ever owned(or Pokemon Yellow, can't remember).
+Nano? Since it's also DAG.
+The value of alts will drop even harder when they have a fiat pair. Exiting the crypto currency will be easier.
+Tjah.
+Look at the market capnof your alts. Did it decrease? If yes, then Bitcoin has nothing to do with it.
+Eventually to be a pro coder, you'll need to master Google.
+The fact you get downvoted says a lot about this sub.
+Also destroyed Libya and Syria.
+It was clear from the beginning to me. Especially since he decided not to prosecute the Clinton's.
+The contrast, colours etc are very good. Only the sharpness is lacking, but I can live with that. Every photo I shoot looks very good. The Pro Mode is god's gift, especially when coming from an iPhone.
+Glad I sold EOS after realising their token has no value.
+I can sneak past the Soviets in a cardbox.
+Partially. Arab culture spread out with Islam.
+South-America, Africa and Asia begs to differ. It's geography and culture mostly.
+Who covered up the "Roze baletten" in Belgium? Leftists trying to protect muslims? Child sex rings are way beyond religion, you're too narrow if you can't see that.
+Nah. Nowadays a coin gets pumped before huge news and immediately dumped after the news. Look at Nano. It was going strong before being listed on Binance, but got dumped by the people who bought early.
+
+In crypto you have to look long term. I'd say 3-5 years before REQ gets adopted properly. Int the meantime it will depend on day-to-day trading for its value.
+Good news indeed. Vertcoin will be nice supplement to coexist with BTC and LTC, BTC's scaling is atomic swap.
+It's not free when the price is your privacy.
+The slogan on mobile reads like VTC is free from banks and has centralised mining. Other than that, the new website screams great marketing. Which is a compliment.
+I don't own Monero, but will fire up my GPU to mine the new fork. I'll do anything to keep crypto decentralized.
+> I am an idealogist. My idealogy is purely tech development. I don't care for politics. I am interested in seeing how tech can do different things and morph and solve different problems, and be developed on.
+
+Same, I'm far more excited for how tech can and will change our lifes. Blockchain is one of them.
+
+Edit: Spelling.
+Glad you can see some perspectives. Bitcoin has scaling problems that needs to be solved. Blocksize can be increased slightly(or Atomic Swap and use LTC as means of transaction). Bitcoin Cash is legacy Bitcoin and should market itself as "the Bitcoin that was meant to be", not as "we are the real Bitcoin hurr durr". And the shady people involved doesn't help neither.
+Can't Bitcoin Core seize this account since they are spreading costumer confusion?
+I don't think Voorhees had malicious intent.
+Not easy to find online, I was wondering this too.
+>  but many people are scum.
+
+Fixed that for you
+
+
+My gateway to altcoins has always been Litecoin. Problem is market reacts to the price of the biggest crypto.
+Elsagate, bad relation to Nano.
+Exactly.
+Every scenario of crisis should be trained, and they did.
+In a dark place.
+It's rather worldwide. In Belgium houses are expensive in cities, and more expensive in rural areas because those are most asked.
+Better action does not fill plotholes. I don't want to question your intelligence our observation abilities, but the conversations are forced and out-of-reality, the editing is cringeworthy, many details that don't make any sense at all and so on. 
+
+Remember the mid-season finale of S8? With all those closeups of Rick's gang. That was meaningless af. It felt like "I want to be creative, but don't know how to link a story to those facial emotions".
+
+Or how each conversations in the middle of a bad situation is like "it has to be like that". I've heard that too many times in this show. (Last episode Oceanside, Enid) They want to sound "deep", but it is very repeating and not deep at all. It's the same "how I feel about it" story over and over again. And it's too direct.
+
+Most people don't look at stuff like this, but analytical persons like me are bothered heavily with it. However, enjoy what you enjoy.
+It doesn't! WomWom Core is WomStreams puppet!
+
+I introduce to you WomWom Cash, which I most definitely did not premine, it's the real WomWom Coin.
+I'm really starting to think that the Simpsons is written by the same guys who have written the code for the simulation we're all in. I have no other explanation.
+When you divide 5/9, you get 0.555555555. Nine five's.
+A sandstone texture on the glass, like matte ice glass texture, should be somewhat possible. That will make a really unique design. And grip, let's not forget grip.
+I'm pretty sure a lot of people do this anyway. Always blaming other people. While the truth is more complex.
+
+Settings app launches fast enough though.
+Back in those days, such thought were framed as conspiracy. Today's conspiracies will hold the future's truth.
+Or is Oppo just reselling Oneplus phones for the Chinese market under their brand? 
+They better be, one small mistake during mainnet launch and you brought some FUD.
+Sthan means Home in Sanskrit language, which is the ancestor of Indo-European, Indian and Persian language.
+The west is not the world. Asian cooks are underrated.
+> other assets from Nokia as well that wasn't owned by MS?
+
+Yes, many employees are from Nokia. In fact the HQ in the Nokia campus. I think they'll become Nokia Mobile eventually by repurchasing patents and the brand. 
+MJ owned a major label with artists he bought silently from Sony. Sony was not amused.
+As a student software developer, no not possible. If an AI could code like this, then the AI would be smart enough to prevent network congestion in Bitcoin. Bitcoin is being developed by known developers right now, only the inital creator is unknown.
+Yup it's down.
+What about the EU? Won't invest myself, I care about decentralization, I'm just curious.
+It's going to be "The Walking Dead: Flashbacks".
+
+RIP FTWD. I already stopped watching TWD because of the idiotic writers and showrunner.
+> I mean you are basically implying that communities of sites like 4chan, 2chan and their other international equivalents are capable of ending the human race.
+
+Dude...
+Thanks Russia for entertaining the world with possible WW3 scenario's.
+My new favorite gif.
+Onze Noorderburen hebben altijd geweldige namen voor bepaalde type personen. Ik ben echt blij met buren zoals jullie!
+Kyber and Nano (partially) went live on a very bad time.
+In Europe no one ever looks to American or Japanese cars and think "man, I wish I had one". Taste in car design is very regional.
+Not an ideal solution with loud speakers.
+I thought the X variant had something special. If I can achieve the same speed with overclock I'll buy the regular then.
+Faster ram, that's noted. But why change the motherboard?
+Would a 1060 3GB version be better than the 1050 ti 4GB?
+Fuck Fuck Go!
+Syria opted for the Iranian pipeline. Turkey, USA and Israel were not amused.
+REQ offers more variety, no stress. And competition is always good.
+I rode this coin with the winter pump, exited at the right time. The company behind this coin is only there to profit from this coin.
+It's possible that their database got corrupted by server problems or coding bugs. You can't announce something like that.
+This is a lifesaving tip! I missed this from iOS(swipe down on homescreen)
+Like a long bar with some animations flashing fast forward in it. The bar gets smaller every month passed by and dissapears after december. This all happens in less than a second.
+Does he also understand the situation of the gravity?
+You can't turn it off. Jesus Christ, every flagship phone has been having this zoom for the last 3 years. I don't understand why Oneplus users are cherrypicking so much.
+
+Apps like Instagram and Snapchat use the video-mode of the camera with EIS, which records zoomed in to allow stabilization algorithms.
+Android and iOS apps are not built on the same coding language, no app between these OS's is equal. It's quite possible that the Android app has a bug.
+I can see it.
+Every wallet needs a node IIRC. That's the hurdle.
+Why would it matter?
+It's like Binance but blue.
+1 Nano to withdraw
+Better than LG at least. Samsung has good patents for small screens, LG has good patents for big screens.
+LG screens... OP5t has Samsung screens.
+You'll notice burnins after 2-4 years. Don't worry about it.
+Is REQ a coin? I thought it was more a payment platform.
+Childish.
+Replace, no. Coexist, yes.
+They could fork Etheruem and run their own chain.
+Quality meme.
+https://coinmarketcap.com/currencies/bitcore/
+
+Close enough to confuse them all.
+It works somewhat if you're logic is in check.
+So what will the shortcut be, NNO? XNN?
+Tbh I have the same problems with Chrome. The core of the problems here is Nvidia Optimus. Can't even run Linux decently thanks to that shit.
+Alfa Romeo has always been the car that is 5 to 10 years ahead of the game.
+Cover up or glitches in the simulation? That's what I keep wondering about every day.
+Bad investment, 1 doge will always be 1 doge.
+"Mooney Road"
+Because it's the will of the Lord of the Light.
+Look at the critics and user ratings of Rogue One and the new Star Wars trilogy got (Also Discovery). I think critics are out of touch or only react positively when paid.
+While Discovery is getting better, it's still not what Star Trek should be like. The philosophy is missing. The Orville makes you think about subjects. Save 100,000 of its own civilians or a dozen of alien kids? It makes you think in differents perspectives.
+No Dash charging though. That shit is lightning fast, I can't imagine myself having a phone without it anymore. And I just have a Oneplus for 1 month. Also no stock Android, makes a huge difference to performance.
+Still too expensive for a cup of coffee.
+Every monday morning in Belgium, but oddly the first after mid-season episode didn't show up until a week later.
+I think more like squid.
+Looks like a flaw waiting to happen, like the death star.
+Haha I also was distracted by the beard. The beard is groomed perfect to hide his weak chin(I have a weak chin too). 
+Yeah, if you have no luggage.
+My teacher in Japanese language class spoke to us as if we were 5 years old. And damn, it worked like a charm.
+I don't think that's possible.
+> I use my mirrorless camera in manual mode , so pro-mode shouldn’t be a problem right? Also, the water colour issues aren’t present? thanks!
+
+Pro-Mode should be no problem. The water paint issues are not present in the RAW-image file. The water paint effect arises from the denoising image processing, no processing is done in the RAW file.
+It's not a bug. Snapchat and Instagram use the video-mode of the camera and take screenshots of it. The problem is that the video-mode is always zoomed in because of the EIS, and probably also the screen-ratio. 
+I've switched from an iPhone 6 recently. The camera is a big upgrade from the i6. If you know how to use the pro-mode (or willing to learn), you'll take much better pictures than the average user with the latest iPhone. You can process the RAW image yourself and tune the colours yourself. The normal mode is pretty good too, the auto focus is very fast. However when you crop an image, you'll notice that details are suffering from the denoise processing.
+
+Believe me, you'll be amazed by the speed of launching apps, the battery life, multitasking and the oled screen. 
+
+If you really want the best camera available now, buy a Pixel 2 (or wait for the Nokia 9, which will have PureView-like features). If you just want an (huge) upgrade, the 5t will make you happy.
+
+You can return the 5t in 14 days if you're not happy with the camera. 
+I used an online seed generator and replaced some characters in it.
+How are they going to keep the network decentralized? One company with 10 employees adding a 2nd layer to the asphalt network sounds like a centralized plot.
+The first rebellion by the Kurds was to re-establish the Ottoman Empire. They didn't want to live under a Raki drinking republican. How the times have changed...
+You write very well. I have a tip for speaking. Focus on pronounciation with a neutral accent. Being understandable is far more important than speaking correct with a heavy accent. People won't listen to you when you're barely understandable to them.
+"Request fund" makes it sound like they want donations. Thought for 10 minutes RN was a scam.
+I think only you forgot Cyprus. The Greek military junta tried a coup d'etat on the Republic of Cyprus. Turks and Greeks co-existed in peace in Cyprus until the coup. Turkey came to save the day, hell the Greek junta felt so pressured by the Turkish invasion they just resigned and brought back democracy to Greece.
+Ask the US and the coalition. 
+That's what I told Kurds when discussing about Syria. The west will help you, but only until their problem is solved. Then they leave. It's a wet dream to assume the West would try to destabilize a country right on their border. 
+Looks like you never cleaned the phone and case, dust and dirt between the case and the phone rubbed the paint off. Aluminium is annodized, it can't just chip off.
+
+Does Kucoin have a minimal buy and withdrawal limit? I'm looking into buying some with LTC, but am doing small investments as a student.
+> Spotify is far superior
+
+Good luck with adding J. Cole's mixtape to a playlist without destroying the metadata.
+https://www.gofundme.com/alimese
+
+I never used gofundme, so I don't know how legit this is. But if you also want to look yourself, the grandpa's name is Ali Mese.
+
+Oh and please know, in Turkey you can buy a fully installed luxary new home for 30,000$. You can buy more things in Turkey with 1 dollar than you can in the US. Your small donation does more than you think. 
+Why would you feed a mouse paint?
+Nope, I switched recently from an iPhone to an Android. And Apple Music sucks on Android, I can't download any songs(checked permissions).
+
+The problem with Spotify is that any local file you try to add is being matched with songs on Spotify. They only have a live version of your song? Well that one song in your whole album will now be a live version. And you can't change that, Spotify decides what's best for you. Trying to add a Jay Z album? Good luck! It will be unplayable.
+
+I'm also struggling with adding J Cole's early mixtapes to Spotify, and I'm not looking forward to using two apps or to have playlists without these songs. Half of the songs on Spotify have the wrong metadata, album cover or version. And I'm not going to fix a library again after what Apple Music launch day did to my iTunes library. That shit took me 3 full days.
+
+Pirating it is, or Play Music (no student discount though).
+I have exactly the same problem around this period.
+Thanks Merkel!
+Only to forget and lose the footage when buying a new phone.
+Makes sense, since every Turkish male is obliged to go to the military.
+Liberal parties in Europe are right-leaning. She's not left-leaning, not at all, she made it a hell lot harder to get sick and paid. There aren't even any left-parties in the current government. Only the CDV is somewhat between left and right.I in fact don't even understand how American confuse liberalism with left. Liberalism has been right since the start.
+"We finally have conquered South-Korea and unified Korea, Japan will be next!" - Kim Jong Un on national television.
+Learn a language, learn to code, read some books, learn cooking, take a walk,... Just find something else to replace your internet time with it.
+TIL researching Reddit doesn't work.
+Kenny stole this song from Iggy, it's known.
+This is as annoying as Cole fans a while back responding to criticism with his platinum achievements.
+> “not having radio hits”.
+
+That's exactly why Cole fans became Cole fans in the first place. Pure and Raw music. It's not deep as most fans claim it to be though, but it's relatable.
+Well researching Reddit works too. Thanks to commentors here I know which coins are ponzi shemes like Verge and BCC. And which are shilled and useless, and which are shilled and have huge potential. Don't listen to one guy, listen to the herd.
+Pistachiois the best. My Turkish family also puts walnuts in nearly every desert. I'm so sick of it. Rather put it in my ass than my mouth too. 
+It's not only guys that do this kind of shit, but yes I agree, it is a very selfish behaviour. 
+
+However I do think this adds some interesting contrast to the show, see it as showing the cons of "freedom" as opposed to the cons of the totalitarian regime.
+Damn, that's worrying. 
+Glad I used a prepaid Mastercard. 
+Does the app provide 1080p resolution?
+I hope I'm not the only one seeing a checkmate.
+
+Edit: I'm an idiot.
+I'm pretty sure my sister is one, my mother however does not show all symptoms. I think she just searches for something to tall about or draw some attention since she lacks social skills. 
+Munich. The problem was bad organisation and the Microsoft lobby. 
+I'm reaching +/- 48 hours(stand-by included) with my 5T. That's truly insane!
+Terrorists will always cheer for any damage against the West. (I'm not saying your average muslim got on the street to cheer 9/11)
+As a Belgian I love how honest the Dutch are. They just say everything that comes to their mind straight to your face.
+That's what I was thinking too. I've seen the same problems with other phones and cases. Most people don't clean their phones and cases. Dirt and dust gets stuck between the phone and the case and causes scratches.
+You can do thing and enjoy it, you can do things and moan about it or you don't do things and face bad consequences. Choose wisely.
+Same here, I love them but this faux competition for attention or as an excuse fore being lazy needs to end. 
+I'm from Europe, could explain why only Americans pronounce it as it should be. 
+I'm from Europe, could explain why only Americans pronounce it as it should be. 
+I'm from Europe, could explain why only Americans pronounce it as it should be. 
+That's something my mum does too.
+> Constantly needing to be a victim, even over others. Their friend or family member is sick? Suddenly they're not feeling well. Bad day at work? Theirs was worse.
+
+That's my mum and sister right there. I can't walk due to leg surgery. Oh boy, they can't get me a glass of water because one made breakfast and the other one had to drive a car. Clearly their situation is way worse than mine. That's crystal clear. You don't need to be a genius and emotional stable to see that.
+The clue to the releasedate is in the name of the game.
+Pay with Rai sounds so good to speak it out loud.
+I feel you as an Ex-iPhone 6 user. Very frustrating. I think smartphones from the 2014-15 era had a lot of battery problems. 
+I'm waiting for rai.exchange. 
+That's still damn early. I have to buy it still.
+I hope it will stay like that way. Thz Litecoin sub went to shit since the pump. The core community is still there though. 
+Thanks's because when the older sibling starts to work the parents can save more money and buy better presents for the young ones. 
+Yup seems like the 3rd party camera fix the latest update supplied also makes them look like an oil painting. 
+That is something I quite understand. I'm also in favor of a dynamic blocksize, but jesus christ the war between two subs makes me distance myself from Bitcoin.
+Don't you guys ever post anything else besides r/bitcoin ? This sub seems nothing more than a circle jerk. I remember seeing a post here riduculing how r/bitcoin frontpage was only filled about r/btc, but yet the same happens here. Quite hypocrite and sad seeing the bitcoin community like this.
+Questioning motives, amount of victims, perpetrators is not denying. Turkey gets the same shit like this, the country questions severzl things which are not answered to this day, yet they are being called out for denying. 
+It's also illegal to question the Armenian genocide, despite some plotholes and genocide against Turks that period. These things are done as propaganda or to piss off some politicians in Turkey's case. 
+The private seed is tatooed on his arm. Quick!
+I see more praise than criticism. Kdot's storytelling is phenomenal. When he raps you don't hear words, you see pictures. Kdot is a painter. 
+Oh man, I always hate to leave the car in this situation. Not because I'll get wet, but because the sounds of rain is so mesmerizing.
+Kernels do, but I didn't know that Ubuntu updated those in LTS versions. 
+If you didn't cross the big whiteline on time in the morning you were considered to be late and got punishment. It happened to me, I was standing on the white line just when the first bell rang. A teacher jumped from around the corner and noted our names. Jesus Christ all I had to do was take one step a millisec earlier. ( First bell indicates go tonyour classes, second bell indicates class starts)
+Conspiracy theorists are here to question everything. 
+I'd rather have Trump as my supreme leader than Logan being from my country. 
+He's actually bullying people in this video. 
+That behaviour he had is considered as bullying in Japan. What a douchebag. These people work hard to keep their streets clean and there comes the douchebag to litter it with electric parts. 
+16.04 was released before Ryzen even came out.
+Apple thinks consumers are dumb and don't have the tools to check these things. That's why they kept the throttling a secret in the first place.
+I don't believe you'll find one specific for the 5t. Try to look for an "smartphone universal waterproof case" on amazon.
+It's up to DHL to proof that they have your signature after delivery. If they haven't, then DHL and OnePlus should negotiate how to refund you.
+It helps with recognition for people who have no idea about computers or security. 
+What about Coinbase + Shapeshift?
+I thought it was like IOTA, but for trains when I heard about RaiLBlocks the first time. Glad I took a minute to read the whitepaper. 
+EURO has wrong notations. You need to change the . and , with each other.
+No. CPU is the whole package, 1 core is 1 processing unit.
+Then I'd like to have yours, thanks.
+"the ME is on a separate CPU" LOL. This is clearly written by someone who barely understands computer hardware. The ME is on the CPU itself, it can't be on a separate CPU because you'll need to install a second CPU next to the first CPU. It's unlogical. That's like saying Volvo has a backdoor on a separate engine, which means that the Volvo has two engines...
+
+However, the Intel ME functions as a microprocessor within the CPU.
+
+Edit: Added extra info
+
+Edit2: Samsung's Weeping Angel has no compromised CPU. It was malware that only could be installed through physical access with an USB stick. This guy is talking total bullshit.
+
+Edit3: I'm not saying that Intel ME couldn't be used for surveillance, it can.
+He's still a business man. But indeed at least not a puppet of the deep state. 
+Very well written! I also believe that there is a conspiracy with either Sony's greed or the influence which worried some elites. 
+Fair enough.
+That BCH is Roger's property is really worrysome to me. I am attracted by the low fees and usability. But this sounds so centralized. 
+
+Could be related to battery health. I know iPhones have this problem with the flash.
+I thought patents were non-existent in Shen Zhen. 
+I thoght they were talking about Satoshi, got confused and couldn't find that on Satoshi's account. But thanks anyxay!
+I need the sauce
+I was laughing out loud how you misspelled RailBlocks. Until I read the comments. 
+I know mate.
+Bacon just tastes heavenly. 
+That Wikipedia is an unreliable source. Y'all don't know how to check sources within a Wikipedia article. 
+Only certain 6S models were egligible for battery replacements. Replacing the battery helped restoring the CPU speed to its former glory. Apple could have communicated they throttled devices, but choose not to because extra sales.
+Well, time to leave Instagram as well. Facebook is filled with bullshit thanks to features like this. I guess Facebook is moving to Instagram and after everyone leave Instagram they will leave to Whatsapp.
+> ny that designs the phones is in Finland and isn't owned by Chinese, I doubt Chinese superstitions play part in their naming scheme
+
+The HMD building is in the Nokia Campus, the production is indeed in China.
+> Same, but I wouldn’t say what they did is ill-intended
+
+It is ill-intended. My 6 was unusable at 88% battery health. The CPU was throttled to 600mhz. I bought an OP 5t, and I will never look back. Android is now better than iOS anyway.
+> Camera is anybody's guess. 
+
+A first step would be to improve the software algorithms for quality.
+It's a reference to a show; https://youtu.be/TKOrr4XRbg8
+Nothing will happen unless you are a journalist or activist or become a protest symbol. In Izmir people talk shit about the AKP and Erdogan on the streets without any problems. 
+Most people don't realise this though. They think Turkey is like 1984. 
+Just say "I'm sorry for your loss and move on"
+Thanks for shilling Ethereum when it was at 70 euro Reddit!
+Op5 doesn’t support QC3 iirc. As long as the port is usb 3 or c, you will get the normal charging speed. 
+I get this on my iPhone atm. I’m starting to think these are phantom notifications. 
+I don’t understand why they didn’t use sandstone for the 5t. It feels more premium and gives more grip. And maybe wirelesd charging too? I’d prefer it over glass all day. 
+The iPhone X. Of course! But I don't care about copycats tbh after watching the Wired documentary about Shen Zhen. No patents drives innovation.
+I think it was a mix of a valid motivation, bad design and malicious intent. 
+Exactly 1 btc = 1 btc. 
+The art of standing. Standarts. Overrated degree. 
+Reading this made me happy. Glad to know someone is living the paradise on earth. 
+Is this a painting? Whatever it is, it does look amazing!
+The endgoal should be mass adoptation. I should be able to buy bread with litecoins. 
+The hero we need!
+I thought I was the only one shaking his dick after peeing.
+Who needs a girlfriend like that anyway.
+> It is the only way I can respond if I am sad, depressed, stressed, concerned, and oh yeah, angry. (Or if the other team scores.)
+
+Yup, I also feel like this is the only way to communicate my feelings or thoughts properly. It's sad that we as men can't speak about it, or that no one comforts us and tries to understand us.
+Oh man, I'm very emotional but sadly I'm hiding every emotion like a cold chicken now. Nobody cares about what I feel, because I should "man up". And i start to believe that every men is emotional but just learned to deal with it. And that's not a good thing. It builds up stress and rage.
+
+Edit: I just had a hip surgery (removing a gamma nail after breaking hip year ago), and we're moving to a new home right now. I told my mother and sister that I'm starting to feel pain in my leg after one week of trying to scrub the old wallpapers and paint the walls. They said I should just man up. Now they expect me to carry heavy stuff and today my leg finaaly gave up. I can't stand on that leg any more because of the pain that build up. I acted a little bit in rage when that heavy pain came up. I can't carry myself even lmao. And guess who they blame? Me! I should have told them I had pain and take it more slowly and I have no right at all to be angry because I'm a man and they feel offended. But about moving the heavy furniture tomorrow? I should just man up and pray I can study for my college exams without pain.
+Yeah I was also alive then. 
+CPU DasherX. You should see 1400mhz at cpu clock frequency. 
+Battery is already replaced.
+I don’t know that. 
+CPU Dasherx shows the max clock frequency. 
+Only some 6s models can get a free battery replacement. The 6 and 7 don’t. 
+If I killed someone I wont ask my parents not to be angry. That’s far beyond reasonable. 
+Degradation is the excuse that Apple uses. My phone got throttled to max 600mhz when the designed capacity health was at 88%. That’s more than healthy enough. My dad’s 5s with 66% of its designed capacity didn’t get throttled. Stop being an apologist. What Apple says is different than what people are reporting. Apple shipped these phones with defective batteries. 
+
+No Android device gets throttled because the battery became old. IPhones on the other hand start to crash, which indicated there is a bigger problem. My 6 also crashed randomly before the 10.2.1 update. And the phone was less than a 4 months old back then. No way the battery was degraded. I’m pretty sure the battery sucks or Apple’s CPU take too much power. Apple should have handled this like Samsung. 
+
+Anyway continue believing what your corporate overlords say. 
+You are right. Balance is the key. But balance also means you don’t make false promises. 
+Noticed any slow downs with stock apps on Android? 
+Mine was at 12% and sadly it was throttled. 
+Waiting 20-30 seconds to launche the phone app is not tolerable. 
+The batteries were broken and made iphones randomly shut down. So Apple made the phone draw less power from the battery resulting in a slower performance. 
+It’s not like we can undo the purchase of an iPhone 6 two years ago. But you’re right. I’m about to buy an Oneplus 5t next week. 
+People are messed up. 
+The plus models don’t seem to be impacted since they have a different and bigger battery. 
+What Apple says doesn’t matter in the first place. The throttle goes away when you replace the badky produced batteries that Apple should have replaced. 
+Exactly. When a child tells the truth don’t be angry when you promised not to. But tell them that you feel dissapointed for their actions but happy for their honesty. Dissapointment hits much deeper than rage. 
+Healthy batteries got throttled too. Mine was at 88% of its designed capacity and git throttled to 600mhz max at a full battery charge. 
+Androids don’t shut down with battery’s at 88% capacity. My iPhone 6 got throttled with a healthy battery capacity. The batteries are bad and need to be replaced by Apple. 
+Sponsored by Bitcoin Crash. 
+
+The problem is BTC pairing, Bitcoin Cash mooning will always crash the market. 
+I’m waiting at the yearly Spring pump. Now is the time to buy. (Don’t take my advice, I’m a noob)
+All they managed is to bring every single coin down. The crypto community does not need a war like this. 
+Oh god, how many clues I’ve had missed. 
+Oh no
+Send the tablet to me, I’ll make sure you’ll never see ads on your tablet anymore. 
+Why do people act like its cheap and okay to buy an iPhone and just buy a new phone when Apple scams you? These kind of apologist circle jerk needs to end. Iphones are not cheap, you pay a premium price ald should expect premium performance. 
+“Eastern religious”. I wonder where Christianity came from...
+Have the same problem on iOS. Not related, but could be an app.
+There is nothing wrong with the phone right now. Like I said in my first comment, replacing the battery fixed this problem.
+Battery health was at 88%. That's still healthy and no excuse for throttling. Do you even know how slow 600mhz is? Loading the phone app took 15 seconds. Loading reddit took 30 seconds. Loading twitter took 40 seconds. Try to multitask that.
+
+It's a scam when I pay 850 euro's for an iPhone only to get slower speeds than a 100 dollar Android phone.
+
+And also I meant a max speed of 600mhz. It never went beyond that.
+Capacity was at 88%. No excuse for throttling.
+>  is under load, right? Because if it's just sitting at the info screen then literally any modern computing device will throttle to low clock rates on idle to sa
+
+Yes, under load. The max speed was 600mhz, it didn't go faster than that.
+I'm going to sell it anyway soon, a 3rd party replaced the battery.
+Some argue that it does not depend on the capacity unlije Apple says but at the voltage the battery can deliver to power the cpu. Seems like many phones have a defective battery and Apple decided it was easier to just throttle CPU than to replace all devices. 
+1400 mhz. 
+Laptops throttle when necessary to save battery. But you can change settings to always reach the max clock speed under energy management. Apple meanwhile throttled my iPhone to 600mhz with 100% battery charged. That’s sad. 
+Mine is just over two years old for the record. Bought it a month before the 6s release. 
+I used 2 different apps to confirm the battery capicity, one was battery doctor life and the other one I don’t remember. The CPU clock speed can be measured with CPU DasherX. And use Antutu or Geekbench to confirm if your cpu is performing lower than the standard. 
+My iPhone 6 got throttled to 600 mhz with a battery capacity at 88% of its designed capacity. That is more than healthy enough to have a stable battery. I think there is more to it. 
+
+Replacing the battery helped. 
+The title of this post is so childish. It's like a 5 year old marching his victory through the livingroom because he roasted his friend on Nintendo 64.
+I only saw reports of BCH withdrawals...
+>  i get a certain vibe off of him i don't get it but i do not trust
+
+He's charismatic, easy to fall for.
+Wait, why don't we fork Bitcoin Cash and call it Bitcoin Cash Cash. Bitcoin Cash Cash will be the real Bitcoin Cash.
+
+You will be amazed at how many people ask stupid questions through facebook posts instead of Googling it themselves. They'll rather trust the salesman, marketing, branding or friends and family. Googling is a skill, some will laugh but I will cry.
+> The government regulates what you can do with paper money
+
+Who issues the paper money and who issues bitcoins? Think about that first. The government can't control a p2p service. Look at how hard they try with torrents. Hail hydra!
+Localbitcoins or decentralized exchanges.
+Fair enough, but it's like you said enforcement makes the regulation existant, but it won't work.
+Great song!
+I thought the point of crypto currency was to replace fiat, in the future throwing hard earned fiat into cryptos will be a story of the past. Eventhen people won’t understand blockchain. 
+Oh, sorry. Didn’t notice the sarcasm in your comment. 
+Yeah sure. After you put an extra space behind bitcoin. 
+Exactly. Both these subs are like a toxic pot of cultists. But they both blame each other to be wrong, bad and toxic. Both are right in this case. 
+People don’t understand the internet, but use it anyway. It’s the same thing as selling laptops with a weak A7 cpu versus an i7. Consumers will get confused. 
+Bitcoin can’t be regulated. Exchanges and other companies providing service with Bitcoin can and should be regulated. 
+Bigger blocks isn’t new tech. Lightning network, segwit and atomic swap are. 
+No sauce?
+My iPhone 6 is just 2 years old. Battery health was at 88%. CPU was throttled to 600Mhz right the day after my warranty ended. The phone was unusable untill I replaced the battery.
+
+I don't think this is a battery capacity problem, but a faulty battery batch that fails to deliver enough voltage/energy to sustain the CPU speed after the health drops slightly.
+Self made scammer.
+I got zero notfications. In fact my cpu was throttled with battery health at 88%, which shoulf be a healthy level. The max clock speed I got was 600mhz. Unbearable. 
+Remember when Macs used to last 7 years at least? My iMac 5G did.
+Mine kicked in at 88% health. Starting the camera app took like 15-30 seconds.
+> I agree, but now too many people are out there to “get” Apple, they will not hear the voice of reason.
+
+Slowing down phones with no warning is not reasonable. I had used my 6 for several months with so much frustation untill someone on reddit told me that Apple covered up faulty batteries. And the batteries are faulty. Other phones with slightly worn out batteries won't just shut down.The iPhone 6 did this one year after release, so Apple just covered this up by replacing several 6s models and slowing down the rest. The batteries fail to deliver enough voltage when they are +10% worn out. And that's a very low number. My 6 was throttled to 600mhz with battery capacity at 88%. 88% is no excuse.
+The stock batteries are shit in the first place. That's why they throttle the CPU.
+> your battery may need to be serviced”
+
+Didn't get this message, but did recieve a nice CPU throtlle to 600mhz whatever the battery charge level was.
+Got them for 0,06. But doesn’t matter when it goes to the moon. 
+Why would Mossad make weapons with Mossad titled on it. Way to go to cover up your secret missions.
+No, I am comparing to your comment where you said that having only 2 painting from a collection of 11 bizar paintings doesn't make it bizar. So my point here is that if I have two weapons in the hand of my gang, I am a gangmember. Just like how owning 2 bizar paintings out of the 11 bizar paintings makes those two paintings still bizar. You were arguing that owning only two paintings which indicate CP does not indicate CP because Podesta doesn't own the other 9 paintings.
+Very low. Sad. 
+I think it reflects more on you that you don’t find such art are troubling. You must be mentally ill to buy such a thing that hints to children and softporn. 
+U/FartOnToast is the only one here who got the message. Maybe I was a bit too ambigious. But anyway this comment from him got downvoted too;  https://www.reddit.com/r/conspiracy/comments/7kggxr/comment/drejcj6?st=JBC2NIMU&sh=52aad1fc
+
+He clearly wasn’t ambigious at all and made a good point with clear arguments. Doesn’t deserve downvotes, but still gets it because he is defending my point. 
+No, you can exchange Bitcoins to standard currencies. I’m not trying to hate on you or so, but you should try to understand crypto currencies more. 
+Dude, read my comment again. It’s not hard to understand what the point of my comment is. It’s easy to downplay this as mentally ill, which should be against the rules, you can’t get any lower than that.  It’s a childish argument to downplay on the man instead of using real arguments. The point was that having two bizzar CP related painting out of the 11 isn’t an excuse to own two. U/FartOnToast gets it. 
+This. Finally someone is smart enough to read the point. 
+Exactly. It wasn’t supposed to make any sense. Just like the previous comparison. 
+What’s so differeny about it when white men have invaded America, a land that was not theirs?
+Read better. 
+Yeah, it’s as shitty as the previous comparison right? 
+There are, but flight control and safety measures get priority. You can’t run all other stuff just on backup generators. 
+The code is smoke, and there is smoke where there is fire. 
+So if I own 2 out of the 11 weapons from my gang, I’m not a gangmember? 
+
+That’s the same shitty comparison you made. 
+The Bitcoin network is congested by simple transactions. How do you think this will be used for AI?
+It’s not AI. Try to understand Blockchain better. It’s like accountancy done peer to peer. 
+I bought 1450 doge and sold it all. I made a loss of 1450 doge. 
+Windows 3.1. 
+I think you are reffering to ghosting. It's pretty normal with IPS and OLED screens.
+> Ara Technica
+
+Was you confused by Ars Technica?
+Android's development framework is a mess though. The learning curve is very steap. Building apps for iOS or Windows (with C#) is a bliss.
+It’s funny how Semitic people like the Arabs can be anti-Semitic. 
+It sucks that just a basic feature is bugged. 
+I just don't get any notifications since iOS11 when I get called. My phone starts vibrating 30 minutes later when the call was missed long ago.
+We do not know for sure. Darlene hinted heavily Elliot suddenly snapped and was going nuts before failling.  Mr Robot came to be possibly when Elliot heard his dad was sick. 
+Guys, don't give these fuckheads(the ISPs) any new ideas!
+Elliot pushed Mr Robot when Mr Robot was in control. Like Darlene said that he was acting weird before he fell. 
+For files you care about but want to get rid off somehow. Zip the files together and organised and upload it to a secure cloud or external hard drive. I have a Archive map on the cloud with zipped files. Looks pretty neat, liberates me from clutter, and allows me to find files when I need to look back to a project.
+I kept mine because groups from my college are formed on Facebook, and they share spice summaries over there which helps with studying. I only check once a week for this group. I never scroll the feed. When I leave college, I'm done with Facebook.
+Look up Sprachbund. Explains why “Altaic” languages share similarities today, but not in the past. 
+Sprachbund. Many words and grammar are shared because of regional contacts. The language grew isolated, but got influenced by each other later. 
+Can confirm, outside the Gaza region muslims can live in peace in Israel. That’s sadly a part of the story many don’t want to admit. 
+Correct. Greeks also butchered muslim civilians from Greek and Turkish ethnicity during the fall of the Ottoman Empire. 
+
+But yeah people only care about the Christian or Western perspective of the war. That’s one of the reasons Turkey doesn’t want to admit the genocide. 
+Thanks for telling me about it. It’s easy to make these kinds of mistakes when Dutch shares many similar words with English. 
+In Belgium it’s € 700 per year. Low income students like me only pay € 100 per year. Books only costed like € 70. And I also got a study grant on top, € 1900.
+
+Not only free college, but also paid to study. 
+Can confirm I do not understand how you can do that. I always hated it. But that doesn’t mean I don’t respect your love for math. Thanks for doing stuff other people won’t!
+I live in Belgium, my Turkish sucks a bit. But close enough. 
+Our brains alters our memories, logic or facts when something new contradicts our previous believes to protect those believes so that it doesn't feel attacked by new ideas.
+Supremacy? China surpassed the US in economy and technology. 
+> So anyways, Simon lets everyone else go. Why does he let them go?
+
+"People are a resource." - Negan
+Turk here, didn't even notice it was a Turkic name, Black soil.
+The part of the problem is that there are people on the internet who think they are smarter than everybody else.
+> 1) Getting real tired of those close-ups.
+
+Exactly. How old are those directors and writers? This episode looked like it was directed and written by high school students.
+No, there has to be something else. It has to be.
+
+I hate these conversations in TWD. Trying hard to be deep.
+
+I have a 6, see my post history. Also I checked a friend's iPhone 7. He also has little battery wear and the CPU never reaches its max clock speed.
+Had the same problem; https://www.reddit.com/r/iphone/comments/78w8ad/iphone_6_very_bad_performance/
+
+Replaced the accu a while back. Everything is ok now.
+
+Edit: But I'm so angry at Apple for covering this up. I'm switching to a cheap Android soon. I only replaced the battery to see if the rumors were true.
+Save the world by sneaking past enemies in a cardbox. 
+Thank you! So I could just transfer it to Jaxx or Coinomi?
+I didnt know it ran on Ethereum. 
+I went exactly the same route. I only wish REQ had a wallet. 
+Oh damn, I misunderstood your previous comment. I thought you said they coudln't be Jews because of their race.
+It's cool to know that both genders get involved in tech companies. 
+> "We're not even Jews, we're Khazar."
+
+IIRC Hitler did "save" Karaites who follow the old testament, but is not really Judaism. They were also a Turkic tribe(like the Khazars), hence making Hitler believe they had nothing to do with Jews.
+> I mean its not like the Khazars couldnt convert to Judaism and then be called Jews.
+
+Khazars were a Turkic tribe following the Jewish religion. So yes, they were Jews. But not Isreali or German Jews. They were Turkic Jews.
+
+Oh man, I miss someone who doesn't use social media. Never asked for her phone number. I fucking miss the conversations we had.
+The problem with iOS is that you pay a premium price for a service you never get.
+Indeed, smallest homes for the tallest people on the world. That’s the Netherlands. 
+And how much energy does printing money paper and coins and goldminig use?
+Eat brocolli. I can't event spell it.
+GoT died because the books are unfinished.
+"Accent-free English". No language is accent-free.
+We'll see a crash like in Breaking Bad. I think that's easier than I don't want to be put on a list, you know what.
+D E A F. Maybe something for the ARG guys.
+Maybe deaf.
+Airplane... :'(
+I also recommend lofi hiphop and chillstep. And maybe celestial white noise or rainy mood.
+It is secret when we don't know what is agreed or spoken about in that meeting.
+> my definition of good is better than most peoples current lives imho
+
+That's the sad reality. I still have it better than half the population I guess. We just get by.
+I was about to buy BTC with 50 euro's somewhere between 2009-2011. But localbitcoins was the only option in my country and it seemed very fishy to me at that time that I could only buy through bank transfers. Jesus Christ. I'm not too sad about it, I have other shots in my life. I know I have the potential in me. But damn, my father went bankrupt in 2013 and my parents divorced(for other reasons). But we have no own home now, we(my mother) rent a social home, and we can barely pay for our car and my education.
+
+But whatever, everything will be ok. My studies are going ham. I will end up with a nice job and a nice salary and the skills to be potentially rich. It's not the lambo's I care about, but about having a nice house for my mother and a nice car and life for myself.
+I would use it if I had a steadier income. Am a student and hodl is my only option since I can only invest small amounts. 
+>  O gerizekali millet de buna inanicak.
+
+[Statistics don't lie](https://knoema.com/WBKEI2013/knowledge-economy-index-world-bank-2012?location=1001340-turkey&accesskey=zdtwysd)
+Must be a new iOS or iTunes bug. 
+>  Sadly, and while I agree with some things he said, he also avoided other good points raised on this thread...
+
+That's why I think too.
+Exactly, education is the only thing I don't mind paying for. Stuff I don't use like public transport is questionable.
+More money doesn't solve efficiency though. The most things kids learn at schools are useless. Education should refocus on basic knowledge, critical thinking, scientific methods, creativity etc.
+> look at how shitty the education system is.
+
+Only in the US. Western Europe enjoys high quality education, thanks to heavy taxation.
+Show of authority.
+While I agree taxation is too heavy, how are you going to keep education equal and accessible to every child?
+
+Maybe a tax system like this could work. You have a car? Pay tax for the roads. Your kid goes to school? Pay tax for education. That would be fair, but I don't know how that would be sustainable.
+
+Edit: However, we have technology for education now. It could be offered through internet and/or volunteers at schools. Or maybe have a system where the poor kids can go free to any school.
+Journalism is extinct in the Benelux. They just ask for the opinions of bankers about Bitcoin. What are they going to say about a coin that defies their values and they don't understand the tech? Exactly!
+
+I don't think that Satoshi made Bitcoin so he just could solve the double-spending problem and be done with it. The double-spending problem was a problem that made decentralized p2p coins impossible. The purpose has always been to provide a decentralized coin. 
+I have a feeling that the dot patterns are a result from the noise reduction.
+Look like you used the second lowlight cam. Could be hardware issue with the main cam.
+I have the exact same problem with my iPhone 6, but I use Apple Music.
+
+Everything on my phone got deleted when I plugged it into my pc to charge. iTunes was on, but a sync never happened since music is now synced with iCloud.
+
+Maybe you also had plugged your iPhone into your pc?
+
+This is so fucking annoying. My post got shadowbanned on r/apple.
+Oh, lol. Valuta sounds so much like an English word, thanks for notifying me!
+Lol the double-spend problem was a problem that existed in digital coins before Bitcoin. Bitcoin is made to decentralize the currency, to keep it out of the bank and governments’ hands. Also to stop problems like inflation, making it a currency like gold. 
+
+Edit; See below, mixed up Dutch with English.
+We have a ton of tech websites that are made for parents and grandparents. The Verge used to be very deep and was for internet nerds, now it’s eh. 
+The Verge staff isn’t dumb, but they do think they are smarter then they are. Here in Reddit we analyze this show into deep depths because of collective intelligence. 
+Jaxx doesn’t support monero. 
+How can you take someone seriously who calls himself an entrepreneur. That word is so pretentious. 
+That explains why a kid would say that. He was pretending to be a father. Only a father would say something like that.
+Thank you! At least I know that I will get an  improvement. I'll order the 5t next week.
+I almost bought some IOTA there. Good thing I decided that I hadn't enough money to invest more atm.
+> battery was losing charge quite fast, and the latest iOS versions made her phone very slow.
+
+iPhone 6 to 7 have faulty batteries. Apple covered it up by throtlling down the cpu speed if your battery wears out. Replacing the battery made my iPhone 6's clock speed at max again.
+
+I'm pretty angry about it, and looking to switch to the 5t soon. I'm also wondering how the 5t camera comapres to the 6.
+The camera looks fine. But I think it is the noise reduction that most people complain about. It is very noticable when you crop the image, but it looks good when you don't zoom in. The iPhone 6 also had these kind of complaints when they introduced noise reduction. But people got used to it. Zooming in on a smartphone camera doesn't make sense anyway. Use a DSLR if you want that quality.
+Follow up question; How about the Pro Mode with raw images. Does it provide more sharpness, because the noise reduction on the stock cam is really overblown.
+I will be rich when it reaches 100m. To the moon!
+There is no fix for it, since the developers of the apps intended this.
+That's because apps use video mode of the camera and take screenshots from the video mode when you take a photo with them. Go to your stock camera app, and try out video mode. You'll notice you'll get the same zoom as in those apps.
+Which app do you use to read the clock speed?
+
+It could be that your battery delivers a too low voltage or wrong readings. 
+CPU Dasherx. 
+I have a iPhone 6 too atm. Looking into switching back to Android since 2013.
+
+How does the camera of the 5T compare to your old iPhone? I did find my 5s camera far more superior than my 6 camera. 5s had more details, the 6 looks like an oil painting.
+Oh man, that joke leaked to the whole internet.
+By eating a bottle of ketchup. 
+Litecoin transactions should not take longer than 5 minutes. You'll have to wait for support.
+
+Are you sure you used the corred wallet number?
+The picture you shared has dots in the sky.
+The stock camera app has too much noise reduction. The iPhone 6 had this problem too compared to the 5s. It's all due software.
+That's called culture and having a different perspective. You can't decide for other people what private means to them.
+Lol, you triggered Americans so much they take your comment serious. 
+No, it’s all about the feeling of being in a private room where you can shit in peace. 
+>  You’re making up stories about mud soap. Not sure why...
+
+Nah, he's not. Not every muslims country has the same views or practices. You'd almost think Islam isn't one religion.
+Maybe Elliot is controlling Mr Robot’s motives when the glasses are off? Did he have glasses on in the elevator scene?
+A red herring.
+My all-time favorite hiphop song. I was so hyped when I heard it this episode.
+Indeed, Putin didn't push the seat, but pulled it slightly up.
+JJ Abrams, is that you?
+That's what happens when the government doesn't pay for politicians salary and campaigns. Lobbyism and corporate power. In Belgium lobbyism is impossible, political parties can only recieve money from the government's tax money. Politicians recieve a very high salary, many people hate this, but they don't realize this keeps the power in our hands.
+We won half Cyprus, and that pressured the Greek military junta to resign and reinstate Democracy. We made Greece great again.
+No, that's too extreme. We should hold an international killing day where killing is legal for a day.
+I used to be a muslim, am still Belgian-Turkish lol, but when I drove through Serbia I had found the people and the police very friendly. Just like every other nation.
+
+But I do notice in Belgium that an otherwise friendly individual can be over-nationalistic, and sometimes racist, when he is in a group of friends who share the same politic views. I think that group mentality brings ideas to a radical point. It's like he is very friendly and helpfull for foreign people, but when he ends up in his friend circle he echoes back the anti-immigrant ideas.
+From what I heard from Serbs supporting Ratko, is that he was only revenging against and genociding the Turks in the region. How true is that? Did these people fall for the propaganda?
+That's what you get with shitty international politics. Sticking your nose into every international affair, but run like a coward when one of yours is to blame.
+Uhm, yeah that was what the previous post said, no? "Belgium wants to ban lootboxes, says it gambling". Mr. Geens does represent the government. And there is a difference between wanting and actually doing it.
+Lobbyism with money can be seen as corruption in the EU. That’s why politicians in the EU get a very high salary and campaign subsidies paid by taxes. They don’t have the need to be paid or donated by corporations. I’m not sure, but I think this is even illegal in the EU. It is in Belgium at least. 
+In Belgium you need to upload your ID to prove your age when you want to use gambling websites. 
+I thought I was the only BTC user who somewhat hates both subs for being such weeny kids. 
+Didn't people on Earth get older while he stayed the same age? That's what I meant with "timetravel", I didn't put those marks for fun.
+He does "timetravel" from Earth's or the space station's perception.
+Yes, I was also thinkinh about Interstellar when I heard that music. I do think that WTP will open a black hole. Just like in Terra Nova, but with the time and space concepts of Interstellar. Scientifical as possibile.
+> a very high IQ 
+
+This implies Einstein-like IQ. I would say this show requires an IQ of 100+, curiosity and patience.
+
+Edit: Apparently my IQ is lower than expected.
+Was that Moss?
+Joost van Doorn is a standard name for Dutch scam websites. Whenever I come across a website trying to phish or scam, the whois shows Joost van Doorn. 
+> decentralized exchanges
+
+No wonder that BTC ~~is~~ was under attack.
+Cognitive Dissonance. Afraid to handle the truth, so we create a new truth.
+For the prive of an iPhone X I can buy Oneplus 5T and a human to replace Siri. Nice.
+This should be standard for the price they're asking.
+I’m on the line between being poor and being fine. Every small gain helps me in the long run. The main goal is to use that money to kickstart my new life after I finish college. 
+
+I now have 45€ in crypto with investing 10€, I’m going to invest 10€ every month. I can only hope it will become 5000-10000€ one dat so I can buy a nice car or furniture. 
+Lol how the fuck can they see the transfer without the IBAN number. 
+You’ll earn more in the Netherlands or Germany. 
+Aren’t we all radioactive?
+What are paper wallets?
+My is a construction worker and he always uses metal nails. 
+In Belgium you learn, ideally, 4 languages in high school. French, English, German and Dutch. 
+The Mini Cooper S. It stands for sport. 
+The M’s and the AMG’s break even faster. 
+This world is a simulation run by EA. 
+I understand. But I don’t agree. 
+I bought BTC and LTC after the China ban. I think the bad media coverage was a good coverage for crypto currencies. 
+I’m starting a new company. Bitcoin Space. First stop is to the moon!
+Don't get me wrong, I'm calling a machine to do that sci-fi.
+Indeed, even Elliot's journal implies(Carla's notes) that a big event happened that made the whole world know about Elliot.
+Blue herring. Not red herring. Think Matrix.
+Angela is friended with Elliot, not Darlene.
+> I don't see String theory and quantum physics as sci-fi.
+
+It becomes sci-fi when you add in factors that are not scientific proven. Like a machine that helps you travel between dimensions.
+
+Quantum consciousness has a reputation of pseudo-science and new age stuff. Quantum cognition is the scientific deal. https://en.wikipedia.org/wiki/Quantum_cognition
+It's a blue herring. Not red, but blue. Think Matrix.
+Could be.
+Nah, dude is all about sponsored product placement and ads.
+I got a motherflipping gun!
+I just replaced mine too with a high quality one. Speed is now consistent at 1400Mhz!
+Coinbase is good to purchase Bitcoins. Ideally you would transfer your coins to Jaxx or Coinomi for mobile or Electrum for desktop. But beware of high transaction costs. 
+Because it’s an exchange and you don’t own the private keys of your money their. Look at what happened with Mt. Gox. 
+I also recommend this. With a credit card you can but as low as 2$. But don’t keep your coins there. Transfer it to a secure wallet. 
+In euros BCH is already below 1000€. 
+Thansk, good to know!
+The commission (said in the video) is going to investigate if lootboxes require gambling licences and age restrictions. There is also a chance that EA will pay a fine of 100 thousands of euro's and the game will be banned from stores.
+I thought they(Anon) were only a thing in 2010.
+Depends on the miner fee you or the exchange decided to pay.
+Great, soon we’ll have 3 bitcoin communities. But I feel the same way, so sick and tired of the split community. 
+The network was spammed with mini transactions by bots. There is a waiting line of unconfirmed transactions. You’ll have to wait. 
+My bets are on Monero, Neo and Ethereum. 
+
+Neo depends on what the Chinese gov will do. Eth and Monero have good tech. 
+Da ding goes like...
+Spamming the BTC network with mini transactions is market manipulation.
+How are they going to win BTC users over when they are making BTC users lose money? I had respect for BCH to fork what they stand for, but this is just nuts. Makes me hate BCH.
+Exactly.
+Hail Hydra!!
+Everyone knows that and that's not the point here.
+It's undemocratic at most.
+> And citing your issue with this doesn't change the fact that it's just more evidence Reddit voting isn't indicative much of reality.
+
+I didn't comment to that, and you know that.
+Word. I never understood why someone would pre-order software.
+He probably means that not many people bought the game. The problem was the launch date though.
+It's true that he got less votes, but it's also a fact that the DNC was in favor Hillary and helped her with the media.
+I hope he(the guy behind the account) doesn't take it personal.
+Well, I do agree that criticism is more welcome here than in the core sub. But I still lurk both, can't hurt to know both standpoints.
+> h? non-BTC fans point out the reasons why BTC isn't working and won't work for what it was intended to.
+
+I'm new to Bitcoin, I don't know all details. But when browsing both r/bitcoin and r/btc I see that both communities are full of shit and both are somewhat right. They're both destroying Bitcoin's reputation.
+
+But I understand that everyone is fighting for what they believe in. It just would be great if this splitting between communities never happened.
+
+It just sucks how I don't trust Roger Ver and how I hate the transaction fees of BTC and Core team's solutions to it.
+Or the birth of BTC and BCH haters. Attacking the network with bots isn’t funny. Having high transaction fees suck too. 
+
+I think both communities suck now. 
+As a student I bought BTC for 10 euro when it was 800$ worth. I diversified it with other altcoins, but converted it all back to BTC after Ether stabilised, and suddenly now I have 35 euro. That’s free money, totally worth it. 
+Some exchanges call Bitcoin Cash BCC.
+Is the network still congested, I was looking to buying now?
+
+Edit: Nevermind, transaction fees are way too high right now for me.
+No, I know that. 
+Or better laws. This is illegal in Europe. 
+It’s still in beta, might have encountered just a bug. 
+Oh okay that explains a lot. Thank you!
+I don't get why r/btc and Roger Ver suddenly hate SegWit, when their plan was to push SegWit2X to BTC.
+
+Edit; Meant Roger, not Erik.
+That’s a funny contrast. 
+Home. 
+I agree with number 1, but not with 1 and 1. 
+It’s called neo-noire. 
+If you think season 2 was intense you better have seatbelts on your sofa. 
+Same. It’s so unwatchable right now, but I need to finish the series. 
+Reddit is international now fam, check the statistacs. The entire media worldwide is not five large corporations.
+It's known as Dafalgan, not Tylenol. What is a Tylenol anyway?
+
+Seriously now, paracetamol is not the generic name. It's the chemical name. The full version is Para-acetylaminofenol.
+No worry, Mars will have enough to provide us for 10 hours more after we run out here on Earth.
+Bitcoin's hostile Segwit2x fork got cancelled. People looking to double their money moved their alts to Bitcoin, but now that it is cancelled they are moving their money back to alts.
+A new reference in the metro; "Repulsion".
+Replicants in Blade Runner were bio-enginereed robots. So that's a possibility that they have human-like functions.
+So somehow I'm spoiled by Reddit.
+This show is a plan to cure is from anxiety.
+Was that a burger though, I almost thought there was a gun in it to kill herself.
+I got a real headache from the emergency system sound. 10/10.
+“I just bought pizza with bitcoins”
+*laugh track plays*
+
+Yup, that’s the kind of “jokes” this show makes. Just throw random IT words and the audience which doesn’t know what it means laughs at this word because they don’t want to feel dumb. 
+A node in the blockchain passes information to other nodes to confirm the authenticity of transactions. When you install the Bitcoin Core Node app on your computer you become a node too.
+
+More info here: https://bitcoin.org/en/full-node
+> Core can keep all their toxic assholes.
+
+This is something I only read here. Sad, because the Core sub is calling to not rub their "victory" in your faces.
+
+I do think that the community should stay together, toxic people are everywhere. It's easy to not see the acid in your own people.
+
+For the record, I'm a neutral bystander. I don't know enough to choose sides, or maybe I just don't care that much since both the parties have strong arguments.
+iOS version does the same. Snapchat uses video recording-mode and takes screenshots. That's why snap quality are inferior to the stock Camera app. The details lack and low light performance is non-existent.
+If we get to the point where it is funny to use fiat, I'd imagine that fiat has no value anymore.
+Judging people by their cars tells a lot about someone. 
+Why does she keep looking to the camera?
+> But it is ironic that you called them retards 3 times while misspelling speech.
+
+Maybe English is his second language...
+
+
+I’ve been looking into Bose QuieteComfort, Sony MDR1000x and the Sennheisers. They all have their pros and cons. Sony seems to struggle with noise from trains when you move your head, but they are very good for the office and home. Bose is good overall, their noose cancelling is excellent. Sennheiser should have the best sound quality. 
+
+I don’t know yet which one I will buy eventually. I’m a student and I’m at a point where many of my stuff got damaged, old or outdated. I work in the weekends. But I yet have to buy a new sma rtphone, laptop, office chair, glasses and clothing. 
+Yah bt writing shortcuts ws coolr. 
+Raw sauce. 
+War is peace. 
+This is reposted so many times already. 
+Same, I need total silence to read too. That’s why I’m buying a noise cancellong headphone soon. So I can read while my neighbours are doing their daily noisy shit. 
+Cole sounds sleepy, and it was intended.
+Nice bro. I’m doing the same thing since being 24. Am 25 now and hopefully will earn a bachelors degree in computer science. Everything is going well now, so I’ll probably finish college around the age of 27.5. 
+My uncle had Windows 95 just wen I was 4 years old. He lived still with his ma back then and we visited them every saturday. The whole visit I would sit on his computer and fuck things up. I became a computerwizard when I was 8 just by watching him repair his computer. My uncle was really patient with me. I do remember how he was hyped about getting Windows 95 though. And I do remember how hyped I was with Windows XP. 
+Her smile. Just her smile. That’s all I need. 
+I love it when we rub his gf’s balls together. 
+Are hairy man sexy? Cause if yes, I must be the sexiest man in the world. 
+Elliot will never figure something like that out. He will think he’s losing it again. 
+I remember that article. Wasn’t it mostly showing Youtube comments under Russian news videos?
+What about Elitebooks?
+Why is the A not an A in hirigana?
+Looks nice, might buy it soon. I wonder if it will run on Nvidia 720m though. 
+
+Edit: nvm, it will run fine. 
+This is the first thing whole day that made me finally laugh. 
+I was going to say her chin doesn't match. But yeah, it shouldn't.
+
+The shirt doesn't match though.
+Transcendence?
+> they're made in China.
+
+They're built way better now than they were during Ford's reign.
+They are like Apple products. The engineering is non-conformist.
+
+I switched my mechanics for this, because my first mechanic couldn't find out how to fix certain parts.
+> a lot of small things
+
+Engine was built by Volvo quality standards, but the other parts were cheapened out on because Ford owned Volvo and told them to.
+
+I also have a Ford-era 2003 S60. I've never had any problem with the engine, transmission and other core parts. But I did have small problems. The DIM broke(Fabrication fault), fuel door hinge broke, exhaust rusted and fuel pump leak (just reversed it to fix it lol). But most of them is due to parts wearing out which is quite normal.
+>  If you want a foreign car like BMW or Audi you better be rich enough to pay for all the parts
+
+Or you live close enough to Germany. But I agree, Audi's and BMW's are not as reliable as Mercedes, Toyota, Honda or Volvo.
+>  If you want a foreign car like BMW or Audi you better be rich enough to pay for all the parts
+
+Or you live close enough to Germany. But I agree, Audi's and BMW's are not as reliable as Mercedes, Toyota, Honda or Volvo.
+Same, looked for Volvo. I'm happy for this confirmation bias.
+I get 600mhz at 65%. Depends on the battery I guess. 
+All my IT friends, me included, in college are super hyped about Firefox Quantum.
+Damn, I must be more exclusive than walking on the sun.
+Thanks, I will try that out when I get the S8 or 5T.
+Thanks. I will try Apple Music and Google Music out when I get my S8 or 5T. 
+I’m really sick of this outrage we all lately have. Internet is changing us. 
+Man not cowmilking. Man only make art. 
+I have the same problem. Thanks for your explanation.
+
+My battery only has 12% wear, that should be no excuse for slow speeds. My laptop with 20% wear works just like 4 years ago.
+
+Will switch to Samsung, at least they handled the Note 7 fiasco very well.
+I'm going to do the same swith from iPhone 6 to Galaxy S8. The thing I'm most worried about is how well Apple Music performs on Android. And no, Spotify doesn't fit my needs. I like to have ALL my music in one spot, Spotify doesn't sync my local songs.
+Open verbinding means open connection. They forgot to translate that. 
+Moby - Porcelain. 
+
+(And Big Krit - The Vent. )
+
+But that’s just my opinion. 
+I always get shitty and scam ads on Instagram. Does this AI think I’m stupid?
+I recommend Saul for this job. 
+It's more proof that we are living in a simulation. They are fucking with us.
+
+Thanks and sorry, both to the mod, the sub and the user I targeted. I wasn't aware of that rule. I edited my comment.
+You were the one betting that Trump would be banned too. 
+Edit: See below.
+https://www.usatoday.com/story/news/politics/onpolitics/2017/09/23/trump-threatens-little-rocket-man-says-kim-may-not-around-much-longer/697452001/
+
+Death threat, no ban. 
+
+Edit: wow, we don’t verify facts, we just downvote them. 
+Yeah, just let me check out what people are saying in Assange’s dm to him. 
+It was just one example out of many possibilities. The point is that Twitters policy is not fair. 
+You used really a lot of words to explain why I'm wrong.
+China is not communist. The economy is capitalism and the regime is authoritarian. There's nothing communist about it.
+He said more than that, but that's not the problem here. The problem is Twitter not practicing an equal policy. They are just censoring at this point. Say that Assange needs to be assassinated, no problem. Say cocksucker to the CNN, get banned.
+
+Edit: Source and explanation for cocksuckers; https://twitter.com/JulianAssange/status/924481369555824640
+Yeah, u/UrbanStray explained it very good why Latin is a better choice for the economy etc. 
+I'd love to watch Chinese movies with these kind of vibes. Any recommendations?
+Can confirm, I deleted the app and don't visit the website anymore. I do however still use messenger because of its convience.
+> ln the Middle East, having a surname dates back to the pre-lslamic era.
+
+Not in Turkey. Mustafa Kemal had no surname. No Turk or Ottoman did. Surnames were given after the foundation of the republic. Kemal is Ataturk's nickname/middlename. Mustafa is his firstname and Ataturk is his surname. 
+
+He was born as Mustafa, earned the nickname Kemal by his math teacher, earned his surname "The father of Turks" by the people.
+
+And yes, I just learned this too. But I knew surnames were given after the foundation of the republic.
+Anyone noticed the boon in the first scene? The cover resembles Max’s stepbrother. 
+Jews with German surnames doesn’t make them less Jews. Ottomans were influenced by Persians, Arabs and Turkics. It’s normal that some of the Turks have Arabic names. Especially considering surnames didn’t exist a century ago. 
+They should have changed to Orkhon scripture. All Turkic languages should do this. 
+Yeah I understand now, I thought you were trying to tell me how I was wrong about what I said. Words are sometimes not enough to provide context. 
+All this work to camouflage the wooden building, while just blindfolding Will could have worked. 
+Wait, did I misunderstand you?
+After all these years, finally an explanation. 
+Yeah, that’s what I said in less words. 
+Don’t tell your kid what to study. Give advice, but don’t force it. 
+Don’t put pinea...
+So, who is the first to update the maps?
+I'm moving to the new Republica then.
+As a Belgian, that's a perfect explanation.
+I think both Elliot and Mr Robot suffer from memory loss. They live in the same brain...
+Discovered before S3EP1 IIRC.
+You're sick. Get help.
+Does undo really matter when the dollar is losing value?
+Yes, there was even music near the end(the scene with Angela) that sounded like the original Blade Runner theme song.
+> even before the particle accelerator reveal, that the WTP project was to disrupt the mining of e-coin by messing with the power supply to E-Corp's mining rigs. 
+
+They predicted crypto currencies back in 1970? Because Elliot's father worked on it...
+I tried the beta, no improvement at all. I also did a DFU reset after trying the beta, which should reset the hardware drivers. Still no luck. I'm going to wait for the final update of 11.1 though.
+I'm looking for a new phone now. The 1GB RAM doesn't explain the CPU frequency changing according to the battery level.
+
+Its kind of sad for me that I don't like the new iPhones. Might buy an Android to use it for a year and see where Apple gets with the next iPhones.
+Yes, it is running the same latest os. I do hope it's a bug and that it will be fixed soon.
+> it's 1gb ram and iOS 11
+
+The problem is not the ram here, it's the CPU being throttled by iOS11. The iPhone 5s, 2 years older than my device(purchased the 6 in 2015) is running much faster than my 6. Opening the phone app takes less than a second on the 5s, while I have to wait like 5-10 seconds.
+In Belgium, IIRC, Banks can consult each other and the National Bank to see what loans you have. The National Bank can blacklist you if you haven't paid debts on time. For your salary, they just ask you to deliver proof that you recieve salary. 
+
+But take this with a grain of salt, I never took a loan. This is what I remember from other people.
+> I hope I didn't offend you I didn't want it to seem like I thought you were clueless. 
+
+Don't worry, it was genuine help you were offering. I never thought that it was offending. This is what I love about IT-people, always ready to help each other.
+Omg, I have the same sweater. 
+Poor Greeks, portrayed as Turks. 
+I used to ducktape a plastic ruler to my tire, it made my bike sound like a Harley and you could smell smoke. 
+
+Edit: Typo
+You don’t need to sue, in my country at least, you just write a letter to the Federal Economy Services and they talk with the company for you. If the consumer is right the gov will enforce the company to apply its laws. 
+Windows installed exactly the latest audio drivers with Dolby from my laptop’s company. Thanks for offering help, I know what I’m doing :). 
+
+
+Edit: Or I have a shitty memory. But after a clean install I didn’t look for audio drivers, except Intel Graphics. Always had problems with that. Windows installs the wrong one and disables me from replacing it with the correct one. Still got it working after workingnon it for two days. 
+Windows installs the Dolby version for me. 
+I ony have BTC and ETH atm. The problem with BTC to me has been the high miner fees. It's nice if you hodl, but damn those miner fees for making small transactions.
+
+I have been looking into LTC now, and I really believe LTC could be one of the coins that is ready to replace our fiat currencies.  I'm not buying yet, but will probably soon :)
+Just hodl man.
+You’re a good person. 
+Well did we get any shots that looked straight above?
+It did do not. 
+Why has no one checked these things when there were rumours that the Rijkswacht could be behind it? Even the foot injury could be easily brought an eureka moment. 
+Yes, it allows me to work on Evernote when I don’t have an internet connection on the go. I only have a laptop, the web app should be sufficient on a desktop I guess. 
+I’m from 1992, I just learned about this gang two years ago. Read a little bit about it. But of course context is important, someone like you who lived in that era understands it much better than I ever could. 
+
+And yes, it make sense that they were criminals who worked their way to the top. But the loot was so minor that I still wonder why. Hopefully we will learn more soon, the motives will tell us who and what. The victims deserve that. 
+
+Thank you for this. I don’t know every detail about this gang, and I agree that the Gladio hypothesis is just a hypothesis without evidence. 
+I didn't intent do link the Brabant murders to Gladio, but you said that Gladio was something different. They were, but only in theory. In the real world they armed criminal organizations to spread terror and to blame it on communism. That's what they did in Turkey, all these killings were covered up but uncovered later. Why not in Belgium?
+
+And I didn't say that the Turks were involved, I presented that you as an example what Gladio did in Turkey. I don't really know every detail that happened with the Nijvel Gang, just wanted to add this because you asked how Gladio could have been a suspect.
+
+Edit: The suspect "De reus" is reported to be a gang of extreme-right groups. This can be linked back to Gladio, trying to do a false flag communist attack. But the question is why? And why were the motives never clear?
+> “The Killer”, who killed 23 out of the 28 victims, and is rumoured to have died after the last raid by a police bullet
+
+So the Gang ditched his body somewhere, so no one could learn that it was Group Diane behind thi?
+https://en.wikipedia.org/wiki/Counter-Guerrilla#16_March_massacre
+
+Operation Gladio is exactly known for that. It was to spread terror. They probably wanted to blame it on communists, but somehow they couldn't.
+
+Operation Gladio went beyond its initial purposes.
+
+Also the CIA funded the Grey Wolves and the Special Warfare Department in Turkey to allow the Grey Wolves to  commit waves of bomb attacks and shootings that killed thousands of people, including students, lawyers, journalists, public officials, labor organizers, ethnic Kurds and others, in the 1970s
+
+Source: https://en.wikipedia.org/wiki/Special_Warfare_Department
+Just finished with my student job at a factory. Will take a 1 hour nap right after this comment. Study for college. Continue learning Japanese and refresh some other 3 languages. And maybe work on some personal coding projects. After that it’s time to relax with gaming and reading books. Might watch a movie too, but that depends on how much time I get left. 
+
+The good thing is I went out this week with friends. Just 1 day a week is more than enough for me. 
+Was due to my screen brightness, I thought that was Darlene standing straight next to Elliot. 
+Yes, we had one of these: https://www.youtube.com/watch?v=XLg8vDZ9SAw
+
+You could watch your videos with that telescope thing. Or you could just watch it on TV, recordings happened on a mini casette and you had these adapters that allowed you to watch it through VHS.
+Who says it was a photo camera? Could be a video camera.
+It looks like the mother is missing from this picture.
+My mouse is acting very crazy sometimes when idle or using. It's going flashing very fast sideways. (Going from right to left to right very fast)
+
+Also the mouse doesn't dissapear when i watch a video fullscreen with VLC or Youtube.
+About me being too much behind the computer, when in fact they are more addicted to their smartphones than me to my computer. You sometimes even don't get a response when they are scrolling their Facebook feed.
+> Bitcoin is essentially controllable if you hold more than half of the mining power.
+
+That might happen soon with the contentious chainsplit.
+The ecorp subreddit implies employees are paid with Ecoins, so he's probably using that.
+I recommend this too.
+Elliot mentions it in his journal that he told Krista bout this.
+He did know he was in prison. He just changed the environment in his head to cope with it. 
+Why compare, just enjoy. They're all good seasons.
+It's a red herring, Sam Esmail has something bigger planned.
+0:20 Two Tyrells?
+Maybe like Breaking Bad. Would be cool, but not so creative.
+As in this world is a computer simulation.
+Like Angela said, "Everything was fine with him until you showed up".
+4G just works fine, no need to rush. What we need to rush is cheaper data prices or higher data caps.
+That there might be multiple other versions of me, and I'm probably te worst version possibile in the shittiest timeline possible.
+If you don’t know what to code, you haven’t learned enough. 
+I had this exactly the previous night. I knew I was falling into a sleep paralysis, but didn't panic because I had these many times before. But then suddenly I start to hear electrical buzz in my ear. This is the first time I experienced sound in a sleep paralysis, so I think I started to panic and the buzz intensified every second to the point I felt pain in my ear. The pain was resembling the chronic earpain I had as a child, it's really an unbearable pain. I started to scream for my mother because I thought I was going crazy, but my voice was as loud as that buzz. It felt like my head was getting crushed by sound. I really thought I was dying. And there were no visuals, just very intense black.
+My keyboard randomly turns into a full blue colour.
+Same, Facebook feed is useless anywat. It became a tagfestival. But Messenger is still usefull since many of my friends use it. I’m just too lazy to ask for phone numbers. 
+Might be your audio drivers. 
+What does this reference too? Seen many spoon comments lately. 
+Not your bad, you literally said you haven't seen anyone notice yet. Which is still a correct statement :-)
+Because there was a consensus in the community about the update.
+Any English word in a Dutch sentence so you think you look smart af. 
+The flag and the Ataturk statue were noticed right after the teaser video was posted here. 
+In Europe we call free healthcare, unemployment salary, free education etc social facilities. Those are socialist elements in a capitalist free market. A mixed economy maybe. Social-Capitalism.
+I started from the bottom, am at step three now. Soon I will be at step two. 
+https://www.kitp.ucsb.edu/sites/default/files/users/mpaf/p174.pdf
+
+For more: https://scholar.google.be/scholar?hl=nl&as_sdt=0%2C5&q=quantum+cognition&oq=quantum+cognit
+
+You just gotta know the correct words to find something about this topic. It does however distinguish itself from quantum mind because the word implies our brain is physically quantum based. But the idea that quantum theory can help us solve some of the mysteries of our brain still stands. 
+
+Edit: spelling mistakes
+You pulled a strawman fallacy by saying that I stated the quantum consciousness as a fact. And now you are playing on my knowledge while not knowing what I know.  I’m not going to waste my phone’s battery on you. 
+
+And Scientology and scientific research? LMFAO. 
+
+Go to scholar.google.com, you’ll find plenty of studies by reputable institues that did researches on quantum mind and consciousness recently. 
+I never said there is proof of Quantum consciousness, nice strawman. There was also never proof for quantum theory a millenia ago. Doesn’t mean it was pseudo-science when someone was researching it. 
+
+I will repeat myself if it wasn’t clear enough for the downvoters. The difference between Scientology and  Quantum consciousness is that one is being researched scientifically and one isn’t. That’s not double standards. 
+
+Pseudo-science is when I say that quantum consciousness is a fact, science is when I say it is a possibility that needs to be researched. 
+> Do you think Scientology also deserves the benefit of the doubt?
+
+No. Because they are not based on scienctific researches at all. It's more spirituality than science.
+
+Quantum consciousness does deserve that. Especially since we didn't solve consciousness yet. Scientists should allow this discussion and research.
+http://www.conficturaindustries.com
+
+I think this company links to White Rose, there is a clock in the bottom.
+I hate scientists calling on pseudo-science when there is no scientific base for an opinion or theory, but when there is also nothing that disproves that opinion or theory 100%. We should call it a possibility instead of ranting about how it is pseudo-science.
+I thought it would be the popcorn machine scene. But the most memorable is the LHC and parallel universe reveal.
+This should be possible to make, since the bezels are not curved. I wish the iPhone 8 was like this.
+Fair enough.
+IN as in Indonesia or India?
+> both sides
+
+Whenever I tell people that the Greeks, Armenians, Bulgars, Italians and Russians also comitted to genocide of Ottoman muslims, even from their own ethinicity, I get this answer "but the Turks occupied them, so it was justified". With that logic massacring Armenians was also justified. I'm a lucky man for not having that kind of hypocrisy and logic. (Both sides were never justified to kill innocent civilians)
+> he word 'genocide' was created to describe what was happening to Armenians by the Ottomans during WW1.
+
+Lol, no. The word was invented by a Jew in 1944 to describe what happened in Poland to the Jews.
+> he word 'genocide' was created to describe what was happening to Armenians by the Ottomans during WW1.
+
+Lol, no. The word was invented by a Jew in 1944 to describe what happened in Poland to the Jews.
+Look at the city
+> he word 'genocide' was created to describe what was happening to Armenians by the Ottomans during WW1.
+
+Lol, no. The word was invented by a Jew in 1944 to describe what happened in Poland to the Jews.
+Shame on me for misspelling SpaceX.
+It already did.
+I made a random choice yesterday by selling my ETH and DOGE to BTC. Best choice ever.
+
+I'm going to move it all back to ETH, since I don't understand shit about the coming hard fork.
+I got another one, just after the new guy with the bluetooth headset leaves with a car, we get to see the city and the lights goes off. We get a close up to one light, the sounds gets cracky and the video gets heavily pixelated for a second.
+iirc LHC requires magnets to speed up protons and lead them to a collapse.
+This is hacking done right.
+28 countries recognize it. 
+"Peace in our home, peace in the world" - Mustafa Kemal Ataturk.
+
+It means that there can be no worldpeace when we don't have peace with our neighbours, family, friends and strangers. Peace is a responsibility that YOU carry, not someone else.
+
+I'm pretty sure we will hear this quote next week.
+Yes, where her lawyer was watching television iirc.
+Plausible. Since he already figured out Darlene was working with the FBI, I could tell by his face when Darlene started to ask too many specific questions.
+That sound you are describing was also present when she was doing a house visit with the Dark Army to someone unknown.
+The lamps do look governmental.
+
+Ama neyse, bayraklari asin!
+So, Elliot is telling us this story through a interdimensional device. That's why he calls us "friend" and knows we are real.
+You're on to something here. Since he's fictional, he is in our head.
+Or she/he could be two persons in one body, like the lead character you know. Does that make her/him still a trans?
+Calculate my balance. It doesn't add up.
+https://i.imgur.com/XUT9DgI.jpg
+
+How does this add up, they are scamming for real?!
+
+Edit: Changed to direct image link
+> F-Secure
+
+"We will also be adding detection of any program we see that might be used for terrorist activity or to benefit organized crime. We would like to state this for the record, as we have received queries regarding whether we would have the guts to detect something obviously made by a known violent mafia or terrorist organization. Yes we would."
+
+Stay away from them.
+It's the Washington Post, of course they are going to twist their story so it fits their partner's, CIA, narrative.
+The theory is that our consciousnes exists on a quantum level. This could mean that we are everywhere and anytime at random just like quantum particles. Whichs means we never die and that our parallel selfs from parallel universes from the past and the future might be connected. If I understand correctly we are experiencing a combination of those parallel states. 
+
+But that’s my scifi, pseudo-science version of it. Which may fit the show. 
+
+For real science read this; https://www.quora.com/What-is-the-Quantum-Mind?share=1
+Holy shit, parallel universe and the things you imagine becoming real. White Rose was not joking around to Angela.  Also "can our mental states be converged?". I think we are going to see the theory of the quantum mind.
+Yeah the road tax is crazy. I was too stupid to buy a car with a big engine. It's my first car too, and I don't want to let it go. It also works still good and the fuel usage is very low.
+
+The Kia Rio does look very nice!
+I have an old Volvo S60 2.4D.
+
+I also tank 25L/week for a commute of 30-40km with random roads of 50, 70, 90 and a small part of 120kmh. But of course, also if I drive normal untill 2k rpm.
+Oh ok, that clarifies a lot. I was really imagining you as someone who exclusively drives under 2000rpm. Sorry for that!
+
+My car has a rpm of 2500 when I drive 120kmh, which makes it use 4.3L/100km. It really depends on your car I quess.
+
+I personally don't care about oil quality since I change it every 12000km anyway.
+
+And yes, you can drive fast and fun. But you like you said, keep your distance and be respectful.
+
+Damn, you can read my mind.
+You can drive 120+ with only 5 gears, depending on your engine size.  I can do 210kmh  with just 5 gears FYI.  You are probably scared to go over 2000rpm?
+
+But I do practice patience with slower cars or drivers when traffic is high or they want to pass a truck. As long as they don’t stick to the goddamn leftlane when no one is driving in front of them or next to them. Damn that happens a lot in Belgium. 
+Mine would just be a Volvo. 
+Thank you, will look into it. 
+What's interesting is that their languages has many similiarties with Turkic language, some minor linguists have made this connection, but many just ignore it. I'm pretty sure Sumerian is the ancestral language of Proto-Turkic and maybe even Proto-Mongoloid, Proto-Koreanic and Proto-Japonic.
+
+I want to know more about Sumerians for a long time, will research and read about them more soon. They seem to be a pretty important point in our human history, so sad we never learned about them. Instead of focusing on Napoleon we should have learned about Hitites, Sumerians etc more.
+This video is not available in my country. The irony.
+The king is back
+You can’t just stop being an introvert. 
+Which is perfect. 
+Yup, noticed that too. OP did a great job at hiding the username. 
+Psycho-Pass.  You won't be dissapointed. It has a cyberpunk vibe and the story is great.
+Nice strawman. I said white nationalists kill more Americans than they kill other races. Are black people not Americans?
+Which idiot said Facebook was pro-Trump anyway?
+Is Africa overpopulated? TIL!
+Why? Isis also kills more muslims than Americans, just like how white nationalists kill more Americans than other races. 
+Is that also possible with songs which are not in the Spotify library?
+That sucks, because many songs I listen too are from mixtapes, which are not in any streaming library. AM uploads everything from iTunes to the cloud, allowing me to listen or stream my own songs.
+Bitcoin is seen as a solution because it is decentralized, that's why I asked you a rethorical question. Ecoin is run by Ecorp, Bitcoin is run through a decentralized P2P network.
+Also play them from the Spotify app on your iPhone?
+I also subscribed this month, mainly thanks to the student sub option.
+> A Monsanto letter to MEPs seen by the Guardian said that the European parliament was not "An appropriate forum" for discussion on the issues involved.
+
+Way too public for their dirty little secrets.
+I'm sorry for the confusion, I thought lobbying only means donating to political campaigns for your own benefit. Never realised it was a broader word.
+Is Ecoin decentralized or run by an evil corporation?
+I meant donating campaign money.
+That's what I meant, donating to political campaigns is also forbidden here. Political campaigns are paid with tax money only.
+
+Edit: Minor spelling
+In Belgium lobbying with money is forbidden. The politicians earn 10,000 Euro a month anyway, so they don't have the need to collect money from corps and pass laws for them. But, in Belgium you do what the foreign corps ask you to do, otherwise they leave the country and the economy falls heavily.
+
+Edit: I meant that donating campaign money is (also) forbidden. Political campaigns are paid with public tax money. My point still stands though, politicians need campaign money in the US to stay relevant. Corps will only donate if the politician makes certain promises to the corps. I should have used more specific words.
+Proof?
+It’s a true story, but the story is not true. There’s a difference here. 
+It should be called oil to stop confusion with fat. 
+What about bee stings? I have urticaria and take antihistamines daily to prevent red spots and itches. But after a bee sting I could walk around for 3 weeks without medicines. 
+Who was he again?
+Your phone gets more shitty because 3rd party apps are also getting heavier with more and more features.
+The 7 should have the same screen as the 8.
+The grass on the bottom pictures looks like an oil painting on the 8. Funny how the details in the top and bottom are reversed.
+Ask the same question at r/AskHistorians for better results.
+But are you sure?
+That’s a discount of 614 euro here. 
+No, the Brits forced the Ottomans out. Then the Turks forced the Brits out. 
+
+Note: This is said in a very friendly tone between two strangers. 
+We have that in Belgium too, but the difference is that they try to catch weed-smoking teenagers. How low can they go?
+A friend of mine believed pirates were sailing in the seas of Austria.
+
+His mom told him that pirates were very active in Austria, probably she meant pirates as in illegal downloaders. 
+My uncle brags about his TV and smartphone being better because he paid less. 
+I heard that it corrupts your profile. Starting up in safe mode and doing a database rebuild seems te help.  
+What do people on the street and people on high floors do when a building collapses? Exactly. 
+I have bad news for you if you think only Republicans care only about corps.
+Yup, Snapchat is unusable on my 6 too. 
+The problem isn’t always the OS, installed apps also get updates which requires  more ram and cpu power. 
+HAHAHAAHA, the sound the RPG makes.
+These are the worst movies ever made worldwide.
+Comment.
+Depends on your screen size.
+Agreed, some of my most favorite songs are not available to stream, because they were never released commercially.
+That's because Belgium, Netherlands and Germany imported Turks mostly from the eastern region to work in their coal mines. And the Eastern region has always been the more islamic part. Turks from the West-Coast are more modern, less religious and more friendly to the West.
+That guy is mental. He has his own Islamic television channel full with booties and boobies.
+
+Watch: https://www.youtube.com/watch?v=S7D-orJEv54
+
+Watch 2: https://www.youtube.com/watch?v=yaIQ6J8TZvc
+The men you voted for to run this country and the rich bankets use zionism and illuminatie as a diversion from the truth that they are pulling the strings. 
+Why are some people hete triggered by the fact that college does cost too much in the US? Why downplay it as a political agenda?
+Doesn't a VPN encrypt the data before sending it to your modem?
+Mustafa Kemal Atatürk.
+I never wanted to start a Computer Science study because I was afraid that I will fail miserably with coding due to my lack of math skills. So I started with Marketing only to fail there and switch to Computer Science. I never could ever knew that I would get good grades for coding courses.
+
+I did fail my first course though, Java Basics, but after a tip from my teacher to just practice coding instead of studying it, I passed for Java Advanced. And also for Basics after a retake of the exams.
+
+Practice and patience is the message here. Coding is a skill, not knowledge(besides the syntax). Start with practicing with the most simple codes and work your way up.
+As an ex-muslim, can confirm. That's why I distanced myself from the religion in the first place, because I was a pork-eating, alcohol drinking, not praying "muslim". In reality I never was a muslim, it was just a badge that I was wearing to fool myself and others around me and especially to fool god. My number one rule is that I always do my best to be a good person without hurting myself or my family. I don't need religion for that. Religion has become irrelevant in this era, there is nothing better to please god than by being a good person. There is everything wrong with trying to please god by contradicting yourself, being a praying and complying muslim and a bad person.
+
+Edit: added more stuff.
+Sidenote: I still believe in a god.
+Having higher megapixels doesn't translate to better quality. It's all about the lenses, image sensors, stabilisation and software optimizations. 
+He is no gangster rapper. He is mentally ill. 
+That would be a great ending.
+It looks very nice. Well done!
+I continue reditting in my bed before falling in sleep. 
+Probably. 
+Yeah, let's forget the Sharp Aquos, LG G6 and Mi Mix for the sake of hating Apple.
+It's fermented shit. 
+the 5s was 699 euro in the EU. 7 increased to 769 euro. And the 8 increased price to 809 euro. As a student, I'm out. A Nokia 8 will just do as much as the iPhone 8 for a lower price.
+
+(+the X costs 1159 euro)
+What if you have to swipe twice in a game?
+iPhone X3. Because the iPhone loves you. Hire me, Apple.
+Chrome doesn't support HLS
+What about decimal screen scaling?
+Yes, but the regular has to be somewhat different than the anniversary version for marketing reasons. Whether it has TouchID or not, the bottom bezel will be there.
+IIRC you can also watch with MS Edge on a computer.
+I think that the regular iPhones will also have no side bezels and rounded corners but with touchID on the bottom.
+Yes, Software gets bigger and bigger. The Facebook app for example now has a built-in camera, stories, live streams etc. That needs more CPU power and more RAM to run it fluently. And new features will come, they will always come to beg more power and battery life from your phone
+iOS is locked and closed, unless you jailbreak. But that's the beauty of iOS, it's locked down for security. When you lost your phone or an authority wants your data, you can be confident that iOS got you covered.
+
+About Android, I meant that its security and update policy are starting to improve, or even has improved. The user interface and the ease of use is also much better than it used to be for Android. That's what is luring me together with the lower prices. The only thing I'm afraid for is my privacy. Being an OS from Google and your personal data not so secure compared to iOS.
+Even my English teacher didn't know that difference. She argued that I misspelled the Washington Capitol.
+Yes, this moment will shape my decission for my next phone. I have an iPhone 6 atm, and I'm starting to like Android more thanks to better security and update policy. The price of the bezelles phone or the featurs of the lower end models will decide whether I'll switch.
+Sad that he won't be able to dual wield. 
+Other companies played catch up, they do exactly what Apple does and sometimes better. Look at Samsung, the S8 is the first phone imo that overtook the iPhone in terms of design. 
+I think Huawei mate 11 is a piece of shit. 
+I have just a 6, I am feeling the need for more RAM lately. Apps are getting bigger and 1GB isn't enough anymore. That's the only reason a 6 user can have. Everything else like you said is just a gimmick. 
+
+Personally I am switching to Android if a bezelless iPhone will cost 999 dollars. 
+A ladder straight to downvote hell. 
+We should give the DEA money, power and women to stop the cartels
+Exactly what non-audiophiles like.
+
+(with that I mean people who understand nothing about good sound)
+Benelux is brainwashed into thinking all Kurds love the PKK. 
+Mavi bayrak ve bir bozkurt ustune yeter. 
+Autists are actually rational and probably atheist. 
+Kurdistan's ancient lands have always exactly been small as shown on the map. What they want today is ancient Armenian and native Anatolian(we) lands. 
+Can't you guys read. It's satire. He says it himself in this screenshot. He is just trolling for fun. 
+The aperture doesn't matter anyway if the sensor got smaller. 
+Someone had the chance to record a leak, I'm talking to you OP.
+It has improved for sure, that's why I say it **still** has a long path to follow for true democracy. But yeah, at least it's better than before or than NK.
+
+Btw, I don't understand why you got some downvotes.
+And isn't it somewhat cognitive dissonance?
+Myanmar has still a long path to follow.
+Same, our computers all had quake pre-installed thanks to an IT wizard. 
+Oh no! Firewall 5 is down, 2 to go. 
+Anime and asian drama in a nutshell. 
+Collecting rocks. 
+Exactly. The money of Silicon Valley is stored in those banks who can use them anytime. The banks have far more money than Silicon Valley. 
+A VPN which runs on Opera's own server, Opera owned by a Chinese company. Just use Firefox instead combined with a safer paid VPN and ublock origin to block ads and trackers. 
+
+Edit: Also use the HTTPS Everywhere plugin. 
+At least no more IS.
+Of course he is out of touch, his only source of what people are thinking is Twitter and MSM.
+USB-C and Lightning.
+Unless you promise them that the castle they are about to attack has food that will last the army for years. They will fight like hungry lions. 
+You can only buy them with dogecoins. 
+Free market.
+They are using really bold words to discredit Wikileaks psychologically. 
+Comcast found its new copywriter.
+It comes 17.11.10.
+It felt like there were ice cubes rattling in his throat too. 
+I heard "Are they really going to kill him"
+IOS and iPhone. As in IP-phone. Cisco had both trademarks.
+Now they increases prices to say "F U" to consumers, because they know we don't want shitty Android update policy. I really miss the old Apple, I will switch to Nokia 8 soon. Won't pay 999 dollar for a phone.
+We can't help if we don't know what your goal is. Do you want to make websites, web apps, desktop apps, mobile apps,...?
+As a follow up question, does the get and set also work with private variables? 
+The year 2012. 
+
+Only idiots are right or left. These groups are based by confirmation bias. Truth doesn't matter anymore, and Assange should know this.
+OMG. Jackie is looking at 10 o'clock while Kennedy is looking at 2 o'clock. Illuminati confirmed. 
+Islam isn't one big religion you can reform. It's a collection of fifty+ different religions. 
+Same got spoiled by a title in the recommondation area.
+It will freeze the Night King's enemies while they are also burning from the inside.
+I believe in evolution, the big bang and in a God.
+F-Secure worked with authorities to spy on a pedophile through it's software. It's a good thing that a pedophile got caught, but it's a bad thing that they are able to do this. What stops them from spying on me?
+
+Edit: I can't find back the article about this(Google sucks lately), but I did found a direct quote from F-Secure; 
+
+"We will also be adding detection of any program we see that might be used for terrorist activity or to benefit organized crime. We would like to state this for the record, as we have received queries regarding whether we would have the guts to detect something obviously made by a known violent mafia or terrorist organization. Yes we would."
+Spotted the Dutch. 
+How scientific is this comment?
+Cyberweapon. How many more terrifying buzzwords are they going to invent for sensation?
+Arya is left handed too. She is Azor Ahai, you heard it here first. 
+The dothraki don't swim?
+And how is he going to do that?
+I can talk with girls, the poblem starts when it turns into flirting. I turn into a rock.
+
+In the past I was shy, I am not anymore. The anxiety might still be a relic of my shyness. But well, I'm improving every time it gets to that. Needs some time.
+Dude, this post was tagged as no spoiler...
+In 25 years I had none, no one believes me because I'm not ugly. Having anxiety is worse than being ugly. 
+We are running out of memes. 
+I have a dick that looks like a cactus. 
+The only probable explanation is the quantum mind, but it is not science yet or will never be. 
+Here! I'm still hey!
+I'd rather use nano. 
+But Turkey  is a muslim country, these arguments don't count for Turkey. /s
+Plain yoghurt is bad for me?
+Since when is Antwerp a part of the Netherlands?
+Oh god. I was in a flight a week ago where a child was chewing gum loudly with his mouth open behind my ear for 4 fucking hours. And that assfuck was also putting his head against my seat for increased ear pleasure. The worst thing is his father was doing the same shit. 
+The end. 
+Or telling me that I look happier which makes me unhappy. 
+People around me get fucking pissed off when I google facts during a hot discussion. Guess thinking that you are right is more important than hard written facts. Cognitive dissonance is strong with most people. 
+How is it dangerous actually when you are driving faster than the right lane but slower than the left lane? I often drive in Germany coming drom Belgium and I think we have the same rules. I usualy keep driving in the middle when I see a truck I want to pass further. But I do switch to the right lane when the road is empty or when the furthest rightlane car(that drives slower than me) is far enough. 
+1980 was probably orchestrated with the help of CIA against communism. Look up operation Gladio. Turkey was in chaos back then. Grey Wolfs and Communists were in a civil war. 
+There is as much evidence that Erdogan did it as Gulenists did it. It's unclear. Everything is circumstantial evidence. 
+Gulenists in the military were never that powerfull. The Kemalists who were protecting democracy and secularism were prosecuted by Gulenists and Erdogan. Those Kemalists in power were replaced by Gulenists. Gulenists are as bad as Erdogan, stop being an apologist. 
+
+Source: see Ergenekon and Balyoz.
+I agree. It's not easy to stop the propaganda getting in your head. I can understand that many people can't see through it. 
+How dumb must you be to fall into this bullshit in the first place. We all saw the truth once FBI or CIA couldn't provide any evidence of hacking Russians. 
+For now I love C# the most. Probably because I spent most of my time this year on this language. Sometimes being good at something makes you in love with it. 
+
+I go to college and finished my first year, I also learned Java, Assembly and PHP. I also know some Ruby, it's also a language I love but I did not spent a lot of time with it to say that I truly like to code with it. 
+
+My least favorite at this moment is Java. I feel like C# is more versatile and Java feels restricted in comparison. 

@@ -1,0 +1,1313 @@
+For those on LineageOS (and presumably a couple others, but not most), if you have screen buttons you can swipe across them to enter one-handed mode.
+I'll never understand it being phrased that way. It may take both people for a pregnancy, but only one of them is pregnant.
+
+People would look at me pretty strangely if I said "we're hungry" at a restaurant and then declined food for myself because I'd already eaten and was full.
+So undercarriage, by virtue of being indirect, is legal in a state where the snow turns the road surface into an effective mirror 3/4 of the year?
+While there's relevance to that statement, that's a much more complicated topic and goes far beyond just messaging security. And when true, no messaging solution will be secure.
+No, steam and non-steam are essentially identical.
+They're still encrypted, the server just has the keys, instead of only the two parties. So... not without breaking the encryption. Or of course, gaining access to the servers themselves.
+
+Telegram does claim access to individual servers wouldn't yield access as well (I believe the claim was that the keys are split across multiple servers in multiple countries), but so far as I'm aware that claim is unverified.
+Well, no. Signal uses server delivery, Silence uses SMS/MMS. There's no crossover.
+E2E just ensures no person, server, service, etc. outside the two parties involved can read the messages. Just because the Telegram servers can access the raw messages cleanly doesn't mean those governments can. From their perspective, if they don't have access it's all the same to them.
+
+Mind you, I'm not saying E2E is unimportant. It removes trust from the equation, which many people (understandably) have an issue with.
+No, semiweekly means recurring per half week. While the result of that is twice per week, the half unit is what's actually being stated. A semiweek would just be half a week. Semiwheeled would mean half a wheel.
+I'd imagine because the bulk of reddit users still find it hard to believe the movement is even real, and the level of asininity their arguments entail makes it hard to react with anything but derision.
+
+It's a bit like when you meet someone who says "everyone who has ever eaten food has died, I don't eat food so I'll live forever". You laugh at first, then you realize they're serious and wonder if they're trolling, then you just kinda stare in disbelief, and finally you loop back to laughing and poking fun at them because you don't know what else to do.
+
+Also, that example is sadly something real.
+I mean, it's about as circle-jerky as saying food is a good thing to consume. Yes, a few will always disagree for some ridiculous reason, but there's only one real rational side to the "debate".
+Impound charges for the tow as well as the time the vehicle was held, so there's a notable cost to it as well.
+Strangely, I've never even heard that one.
+They sure do use a lot of [TLA](https://encyclopedia2.thefreedictionary.com/Three+Letter+Acronym)s.
+Same reason I recommend it to friends on and off.
+
+1. No consumables (other than slot unlocks, and those are optional for casual play)
+
+2. No gear wear, which means no need to care what I've been doing if I disappear for a while.
+
+3. No inventory limits, either in item count or stack size.
+
+4. The cartoonish style has warded off a significant number of the trolls you usually find in MMOs.
+
+Basically, I can comfortably pick the game up and drop it any time I want, for any reason, and not have to worry about it. I love that.
+
+EDIT: Also unending hope for a 5* upgrade for the Winmillion.
+Thanks.
+So uh... What is it?
+Best guess is removal due to the linked image having an email address, and multiple people in the thread recommending spamming it with false info.
+
+Not that I disagree with those people, but that's probably still why it was removed.
+Well, higher refresh rates are also useful for 3d because the refresh actually splits between your individual eyes. That said... Yeah, going to be hard for us to use much beyond 600 in any logical way, at least as things stand now.
+I have long hair and a thick beard, light shampoo use is a myth.
+
+EDIT: Meant it as a joke, not actually saying it's not possible. Light use for me still looks ridiculous to most people though.
+Nah. Steeple, like the labia steeples together. And strangely enough, I didn't come up with the term.
+At least it's not pork steeple?
+I feel like I'm the only one who almost never used Unrelenting Force. Maybe a dozen times in the entire time I played.
+Paypal is known for taking care of customers. If you're left with no other reasonable choice, they'll likely refund you. Might result in a blacklist from LRG, hence last resort.
+On the plus side, they're buff procs, so unlike combos you can run them out of order without dropping them.
+Lenovo on spying on you so they can voyeuristically fuck shit up?
+A remarkable number of people never even leave their place of birth. No passports, visas, etc because they never need one.
+
+Lived in Michigan for a bit, realizing how common that was depressed me.
+A "typhoid Mary" is someone who is infected but shows no obvious signs of disease, whether because the person has an impaired immune system already or because the virus has managed to overwhelm it (or perhaps other factors beyond my medical knowledge). Despite not having the symptoms, the virus will continue to reproduce relatively unhindered in that person's body. That reproductive cycle allows it to continue to spread. In a vaccinated individual, the immune system has been essentially taught to kill the virus using an extremely weak or even dead form of it, preventing the disease from taking hold in the first place.
+
+Yes, things can go wrong, there are going to be people who respond poorly or whose immune systems have no chance with or without it, and there will always be some with aberrant reactions and allergies, but the severe majority benefit massively from vaccines, and the risk of being the minority is easily lower than the risk of a preventable disease killing you instead.
+Hollow earthers. Just go right for the insanity plea.
+Cat.
+[A comedic but relevant read](https://hyperboleandahalf.blogspot.com/2010/07/dog.html)
+Man, he looks like an actor to me, but I just can't place who it is.
+The painful thing is realizing there are undoubtedly tier 1 techs working there who facepalm at the system on a daily basis but have no authority to actually help fix it.
+Depends on your budget.
+
+http://inputstick.com/
+
+I use mine for keepass2android constantly. Lovely device, but might be a bit pricy for some people ($40-50 depending on source and location). Can emulate keyboard, mouse, handwriting device, etc. simultaneously and has full tasker support. The Bluetooth connection itself can be AES encrypted as well.
+
+EDIT: If you're on the fence, get [the app](https://play.google.com/store/apps/details?id=com.inputstick.apps.usbremote) and look it over for yourself. You won't be able to actually use it without the hardware, but you can look over the interface and the tasker configuration options and see if it provides what you need. Worth note, the inputstick app itself (which just handles connections and firmware/encryption/etc) has a tasker task to switch the default inputstick. Not of use to me personally, but if you frequently need to interact with multiple devices simultaneously I could see that being handy. Also, ignore the app ratings, almost all of them are people who somehow failed to understand that they're apps to support a piece of hardware.
+
+The [raw API and source](https://github.com/inputstick/InputStickAPI-Android) is available as well, if that's your thing.
+When moving from Michigan back to Nevada, had to take a far south route to avoid weather. Ended up doing 700 miles the first day, then 1000 more each of the following days. 2700 miles total, three days. I really wanted to get home.
+The only thing at Costco that spoils stupidly fast in my experience is their bagels, and now I just pre-slice and freeze them to keep that from being an issue.
+Maybe your store is just poorly managed?
+It lasts around 5x longer than the stuff I get from other grocery stores too, so really no downside. Crazy what getting it fresh will do.
+Unfortunately, Nintendo disagrees.
+I went and bought one today. Was going to get it eventually anyway, now I have the better model.
+As a programmer who somehow hadn't heard about that, I'm laughcrying right now.
+Solo, I started popping boxes one at a time because of that.
+Misogynists.
+I've seen a sink hit critical mass to where you need to dig a hole to even get the water to drain properly. Sometimes you need to clean more than just a spoon.
+https://en.wikipedia.org/wiki/Lenovo#Security
+
+I have no issue with Huawei. The government ban on Lenovo does seem to be primarily because they're Chinese, but that ban doesn't extend to all Chinese companies. The sheisty security history is all Lenovo though.
+Legally can't use them in the US if you work any government contracts though (including navy, army, etc). They also have a nasty habit of breaking the rules to include spyware in their systems.
+Factory processed can't really be compared to handmade in any reasonable fashion.
+I recommend [fetlang](https://github.com/fetlang/fetlang).
+To be fair, modders fix those reliably (not that it excuses the lack of testing).
+Sadly, don't think it is. Azuki and purple yam popsicles are amazing though.
+I already use a VPN on my phone and my home connection isn't fast enough to want to route any unnecessary connections through.
+Ah, my mistake. Thought it was.
+SleepBot is the only one that comes to mind, but it's rudimentary by comparison.
+Huh. That's a new one to me.
+>>The Canadian police are using to prosecute the teen was implemented after Canada sign the Budapest Cybercrime Convention.
+
+>but what the hell is this sentence are even doing as far as look more like?
+
+I think that sentence broke you. Do you need a therapist?
+To be fair, if he lives at a high altitude, the answer may be adjusted for that.
+
+Edit: never mind, everyone seems to get the same answer.
+Plot twist: this post was removed.
+Also because they're selling that data to Amazon instead.
+To be fair, they may have filed for the trademark expecting denial purely to generate a paper trail in case someone else tried to trademark it later on.
+It does have some minor telemetry, but you can turn that off in settings.
+You have an extended advantage over a new used car in this case because you're already familiar with the car's history and idiosyncrasies.
+Appreciate the info. I stopped using destruction cost reductions ages ago when my magick pool got so large it didn't matter anymore. Maybe I should reconsider on next playthrough.
+I assume the spell cost reduction needs to be at time of usage, not time of enchantment.
+Literally speaking, one is 18mm x 65mm, the other is 20mm x 70mm. While larger batteries tend to have better ratings overall, that isn't actually guaranteed by the form factor. 18650 and 20700 are just size and shape notations.
+
+If you want to know the actual practical difference between available models, look up Mooch's ratings and suggestions.
+Honestly, the only reason you don't see significantly more outlandish and "innocent" work on here is because it violates reddit's ToS. Nothing is safe from rule34.
+The way it works, if you had subscribed before and "purchased" those games when they were free, you'd have them available now when you resub. If you don't manually add them to your account each month, you don't get them.
+[Also available on F-Droid.](https://f-droid.org/app/com.shatteredpixel.shatteredpixeldungeon)
+Same when I play FFXV. Positioning does matter. Give the system more clearance at the sides and rear and the fans are -slightly- quieter.
+I use boost mode on mine, I assume that doesn't help the fan speed.
+Matrox all the way.
+That's fair. Was unbelievably tired when I wrote that, so I didn't even think about the hardware aspect. I've always used the PS3 and PS4 for my own bluray needs, where device capabilities severely exceed requirements.
+I'd prefer mine at 0 -if- mount sounds weren't so imbalanced. I keep it at 10 just to reduce that issue. Since I use a surround headset it's pretty important though. Easy example: Leviathan EX, at 0-10, I can hear where the spout is rather than spinning my camera to look for it.
+>It's annoying that you have to pay to see the study.
+
+https://en.wikipedia.org/wiki/Sci-hub
+
+The URL may change, but the site doesn't go down.
+The ability to accept firmware updates is part of the bluray standard. This sort of thing is part of why.
+Let's do the time warp agaaaaaain!
+https://en.wikipedia.org/wiki/Lenovo#Security
+
+Too tired to summarize right now, so that'll have to do.
+I mean, that would be one way to ensure your grandkids have some prime /r/OldSchoolCool material.
+Could get locked out of it too.
+Primarily, yes.
+Yeah, dell makes some pretty damn nice business laptops.
+We handle navy contracts at my work, so even if I wanted to, I couldn't ever use my laptop for work if I bought a Lenovo.
+
+Luckily, I don't trust the company anymore, so it's not really a big loss on my part.
+Hm... Couldn't hurt to try.
+I agree, but price dropped because others cared. But last time I used one they were still labeled as IBM despite being manufactured by Lenovo, so that's been a while.
+Worth note, IAP purchase method does mean you can't have the full game attached to your family library.
+I used one ages ago, but these days anything Lenovo is a liability not worth taking.
+
+Also, pretty sure it was mostly because they were always cheap due to complete lack of aesthetic.
+If it's a singular selection, it's a datum. Data is plural.
+Never a bad idea to blur the print just to be safe.
+You also see notable benefits if you're hosting game and voice servers on the same system you're playing on. Not an optimal practice of course, but that doesn't make it any less common.
+
+Same is true for any (non-negligible) custom software, such as scripting overlays for MMOs.
+He might have it digital.
+Dolphin, ~~PPSSPP~~, and Nesoid are all on F-Droid as well.
+
+Edit: oof, PPSSPP hasn't been updated on f-droid since 2015. That one isn't viable to get there.
+Holland, MI has city-maintained tulips everywhere and they impose the same fine. They actually enforce it though.
+Chlamydia?
+Cardboard is weaker, for one.
+Honestly, I figure it's at least in part because the creator of Telegram is on Putin's personal shitlist.
+That requires enabling the portal services, which has an extended privacy policy some people would be less comfortable with. An SSH tunnel basically is a secure and encrypted connection between two devices (the other end would be a computer or router on the network with the bridge) which allows (controlled) connections into an otherwise closed network. The only thing preventing the hue app from being able to work with a standard SSH tunnel is the inability to designate a port for the bridge in addition to the IP. For instance, I could tunnel the connection at 127.0.0.1:1234, but the hue app would only let me specify 127.0.0.1, which won't suffice.
+Pretty much.
+Honestly, just any hue control app that will work via SSH tunnel, so I don't have to connect to WiFi or be at home to control my lights easily (and don't have to use third party servers that way, of course).
+He's a Russian exile who's pretty well-known for defying the Russian government, not quite the same thing.
+This gets misconstrued frequently. It's pretty simple in general. Games that have servers being run or maintained by Sony require PS+, games that run entirely on their own servers don't.
+Hue uses a physical authorization method. Simply put, if they can push the button on it, they can authorize themselves to use it. If they can't push the button, they can't use it in any way. Authorization is per-app per-device.
+Pulled up on sci-hub just fine.
+I'd like to believe that, but somehow I don't.
+Neat. Well, count me in.
+And Nevadans don't know that liquor stores close at all.
+I find it disturbing that the only thing keeping it from flying loose and killing someone in the crowd is a group of people yanking rhythmically on a rope.
+True crossbreeding... We talking Jade Cocoon style? Haven't seen that in ages.
+Personally? I do opt out of the x-ray ones. Or did when they were used. Backscatter is fine though.
+In general, as far as I know it's same-day. Definitely is instant if you run your own repository. For nextcloud in particular they did specify that F-Droid will always be updated slightly later, though I don't know their reason for it.
+That would be true if the batteries themselves were identical, including in terms of minor manufacturing flaws and electrolyte distribution. Without that being the case, small differences become big ones over the life of the battery set.
+Not on F-Droid just yet, for anyone eager.
+For anyone wondering why (not that it excuses this): the batteries are wired such that this is essentially just a ridiculous extended life mod. Probably could go a week without a recharge. The batteries are soldered in though, which means no external charger, no balancing charges, and no easy battery replacement.
+That's fantastic.
+In this case, squared is another form of square, but not the definition of square you're thinking of. Square can mean a shape having four equal length sides and 90 degree angles, or it can purely refer to a 90 degree angle with no reference to the attached shape. Squared is a term based on the latter definition, meaning a shape whose angles have been made to measure 90 degrees. It's usually a term used in carpentry.
+
+Yes, English is confusing.
+
+EDIT: To clarify (or confuse) further, the right angle tool being used to measure a 90 degree angle is also called a square.
+https://www.thefreedictionary.com/squared
+
+Look down to the specific definition of squared, not just square. A rectangle is still squared due to the angles all being 90 degrees. It just won't be an actual square without equal length sides.
+Now to be fair, a rectangle -is- a squared object. Just not necessarily a square.
+Not all humans. I have yet to see a single image that bothers be outside of just being intentionally gross.
+Delicious, and the second steep is still fantastic but much lighter on the blueberry.
+/r/googlecirclejerk?
+Shit, I didn't realize it was Insomniac. Well, guess that goes on the list to buy then.
+I derive great pleasure from setting up Lamashtu spawn groups while those people are shouting.
+The long long game.
+I need a mod to make them stop saying that line just because I have thralls. I always have thralls, the line gets old.
+Most common place I see this problem is orange juice, in almost every store.
+I can easily finish a double loaf alone. But carbs are a significant portion of my diet as well.
+You don't need to use a password if you want encryption to be protected by ownership alone rather than knowledge. Passwords can also be changed at will without changing the key itself. In my case I retain a copy of the private keys I generate for others along with the password for them in a keepass database. After doing so, the key's user can remove the password or change it if they prefer, but in case of emergency I still have the original copy to fall back on.
+He's pointing out that you used gb instead of GB, allowing interpretation as "gigabits". 20 gigabits would be 2.5 gigabytes.
+While I do believe internet access is a human right at this point, electricity in particular would be a pretty big necessity to make use of internet access.
+Far as I'm aware, it didn't actually replace WebView. Rather, if the ROM is compiled with support, chrome is presented as an integrated browser option. It may even be the default, but if disabled, the system will still fall back to WebView. I believe Firefox can do the exact same thing, but the list of supported browsers should need to be assembled before compilation.
+
+So basically, it's more that OEMs don't care enough to change it.
+It isn't actually. It runs on the [Blink engine](https://en.wikipedia.org/wiki/Blink_\(web_engine\)), but isn't interacting with the system's webview setup at all. It just uses the same base engine.
+MEK will slowly eat away at fluoroelastomer seals and swell the absolute shit out of them in the process, so it's not like they're truly impervious. I wouldn't recommend it though.
+Hell, there were billboards for Obama in the game during that race.
+Or prepend !s onto your search in DDG to get startpage results.
+Well now I can.
+I did 2400 post-patch. Took hours.
+I've known people who say this, but I have literally never had an issue, even across multiple reflash/restore cycles and a device change at one point (via titanium backup). I only ever have issues when screwing with my system clock, and that just requires resetting the time to what it should be.
+It's loading just fine. ff14angler pulls its weather data via a tool (the download button) that snoops on your game's chat logs. If no one running the tool has talked to the skywatcher about the area your fish is in within the last hour or so, that happens. Blue just means it has no data.
+
+Yes, they should move to using the algorithmic method, but they don't seem to speak English and I don't speak Japanese to tell them that.
+Castrum gives about half the xp per time spent compared to praetorium.
+So... Anything tangibly useful?
+Huh, now I want some qdoba.
+Yes.
+On a serious note, was thinking of Lua. Only false and nil evaluate as false. Anything else will evaluate as true.
+What if you use a language where both 0 and 1 evaluate as true?
+Huh. Here, UPS is the sort to literally drop kick and/or dribble the package on the way to drop it off at the wrong door, whereas fedex is fantastic. But sadly, we get most things from OnTrac, who even makes UPS look preferable.
+There's a reason for forks. MariaDB and LibreOffice are both completely viable (and preferable) forks of products now owned by Oracle.
+Or about four Belkin hubs.
+Microsoft is no more trustworthy than Google is. I wouldn't use chrome due to the invasions of privacy built into it, why would I use Microsoft's equivalent?
+Yup. Before they fixed it, best bet was to unsync just in case every time you saw the draw in animation.
+Don't shame him, he just needed to unwind a bit after that fight.
+Sony
+I have housing in all four residential areas and use it as needed. I pop tickets on anything over about 325 gil. Being cheap isn't bad, some people are just too lazy to bother. Hell, I know people who think moving retainers between cities based on taxes is too much work. The hell is that about?
+
+EDIT: I mean that I have a house, I have tenancy on two other houses, and I have my FC estate. I only personally own one house.
+This stage of relic grinding is easy compared to what people expected. The way the instance is being run has been stated to be unexpected. People are expecting SE to force us into their vision, in the process adding grind.
+
+I don't find it terribly likely, but uncertainty breeds fear.
+https://youtu.be/0zb1qsVqjwg
+Same. I suppose it's more "I am a liberal, but being a liberal doesn't have a party affiliation". For now, the Democrats align with my values closest. I have voted for Republicans, Independents, and others in the past and will continue to do so when their views seem to support a positive direction for the office.
+To be fair, our tax system (assuming the US, though I'm sure others are awful too) is already broken to all hell. That would just break it a bit more noticeably.
+With certain exceptions. Case in point, Blender.
+You'll get enough for all the DLC nodes and then stop. Nothing to spend them on without the dlc.
+Suppose I should look into a new one, but seeing as I use a VPN 24/7, VPN-based ones are out for me.
+It's not about Firefox itself, it's about how I have mine configured.
+Because I want my watch to run Wear OS. AsteroidOS doesn't currently have the functionality I desire, and is essentially a Linux distribution completely unrelated to the android platform.
+Timezone is based on your browser providing the information. If I open it in Firefox, it's GMT. If I use a crappy generic browser where I don't have fingerprinting resistance, it shows in my timezone.
+
+EDIT: Apparently this is confusing. My Firefox is set up to resist fingerprinting in various ways. Part of that is refusing to provide a timezone. By crappy generic browser I literally meant android webview, which is... well, crappy and generic.
+News to me.
+Wear OS (previously Android Wear) is unsupported by MicroG. Soon as they implement it, I go MicroG and never look back.
+I have all three sprites and two aren't to 105 yet. What are saved crowns?
+For an MMO (subscription based), Final Fantasy XIV is fantastic.
+Quick, make it read that tracker's page and generate a clone on yours.
+!redditsatan
+Yeah, the 80GB was the last backward compatible (PS2 that is) PS3 produced. Now I have to keep a PS2 and PS3 both hooked up to play my collection. Since PS1 compatibility is emulation rather than hardware compatibility, that stayed across all models. They just stopped building them with the hardware to play PS2 games natively.
+Sadly, no. Tried power leveling my girlfriend. She pulled a whole 1 xp off mobs 5 levels above her.
+The exp gained is relative to participation on each mob, not level gap. If you're 20 helping a 10, your only real option is to go PLD and spam flash without even autoattacking.
+Costco has some too. I bought one there.
+Slims can still play PS1 games. They can't play PS2. Mind you, all PS1 games support remote play as well.
+I probably still have the disc I installed it from even though the PS3 itself died spectacularly.
+On the battlefield...
+[This guy.](https://s3.amazonaws.com/gs-geo-images/fcc47f06-cb54-4782-a55c-3fe0b71c74d0.jpg)
+A quick search tells me it's about $1.4 per £1 and a lamb chop is generally $5-7.50.
+If you read over various statements he's made, he's basically the standard bearer for complete abolishment of privacy in the modern age.
+The cost of meat is a pretty common reason for people going vegetarian here.
+The failure rate is horribly exaggerated.
+Keepass2android supports it. Keepass on PC also does with the KeeTrayTOTP plugin.
+Good luck!
+Wait for the update and hope I suppose.
+Afraid not. The Wear OS update might fix it, but unless you can check adb for errors (lots of guides online but it's not simple), not easy to know what's going on.
+And in the US I have 3d/0.4u for about $50 a month with no faster options other than cellular (where data caps would make it pointless anyway).
+One of the researchers played pokemon go, so that's a thing. Not sure if they ever encountered a pokemon, but they had exclusive access to the McMurdo supply point.
+While not an excuse, I believe outlook is still bundled with the professional edition (whatever it's called).
+Can't really take the time to look it up right now for proof, but I'm almost entirely certain perpetual licenses do indeed phone home. I'm not sure what data that contains (analytics primarily I'd assume), but I know it's something I've seen complaints about in privacy-minded discussions.
+I doubt it. Microsoft has never really done anything like that, and it would likely be mentioned in their return policy if they decided to change that.
+I'm not great with jokes on the fly, so in honor of the source content, how about a [Lance and Janice compilation](https://youtu.be/gHuhRYPOSXM) instead?
+The issue seems to be that they violated Facebook's ToS by yanking data on unwilling friends of participants to use for advertising and such.
+Schools vary. My high school had plenty of unsupervised moments, especially before and after school and during the "nutrition break" and lunch. During class hours though, you were the teacher's responsibility and they were expected to have eyes on you or know exactly where you were.
+
+And my school had doors to lock, but none of them locked during business hours. None of this "lock the gates" crap.
+It's just an app update.
+Not at all a norm, but the few who do it are goddamn memorable and make it feel far too common. And let's be honest, any of it is too much.
+Is that even legal?
+Just patient.
+I already have it, so yes.
+Makes sense. I only fly southwest, no regrets.
+I hear spirit is good, but I've never flown them.
+They posted, it is indeed that.
+I assume it's more liability honestly. Coconut shell can fracture sharp, and the time to make sure it doesn't happen isn't reasonable in the equivalent of a mall kiosk.
+Yes... Gross... Of course...
+
+*salivates uncontrollably*
+I can enjoy this, but it doesn't mean I want to enjoy it without a plate.
+Supports panic triggers, allows specifying between password/pin and using the android keystore (cannot be backed up or otherwise yanked via adb or other similar methods) for encryption, allows forcing password, pin, or device credentials to access the app even when the phone is already unlocked.
+The ability to encrypt backups with PGP is downright glorious as well.
+Contact support.
+Technically, expiration does nothing. It's more of a practice than an actual mechanic. Some people just change the expiration on their keys every time they expire. Some people just remove the expiration date. As long as you maintain control of your secret key and revocation certificate and use the latter if needed, expirations aren't terribly important.
+While FreeOTP is good, I switched to [andOTP](https://f-droid.org/app/org.shadowice.flocke.andotp) (also on F-Droid). Better maintained, better security. I also use keepass2android's support for the KeeTrayTOTP desktop plugin.
+Same thing, though method of consumption varies somewhat. See https://www.reddit.com/r/UNBGBBIIVCHIDCTIICBG/comments/84fav5/boilermaker_maker/dvp21e1
+My interpretation of application-agnostic is that they could zero-rate something like all streaming video, but not a specific provider's streaming video.
+That's a different story then. Good luck!
+If you have the special edition, you should be able to get the mod on PS4 I thought.
+There's a mod and a console command to let you progress without killing him.
+They don't like my kind around those parts.
+I don't know why it never occurred to me that electric motorcycles exist.
+I saw that comment as agreement with a further degradation of language in favor of more accurate terms.
+If the provider holds the keys, nothing is secure.
+Mumble maybe, but it's less user friendly.
+I'm curious, how do you feel about 3D Zelda games then?
+Defiance is an interesting contender too.
+Ahhh, okay. Afraid I don't know then, sorry.
+Far as I know you'd need an app to engage the NFC in the first place. I know there's a Trigger app for wear, maybe try that? Never tried myself.
+No one said the politicians involved were fault-free, but acting like a criminal should be absolved of the crime because someone let them do it is just stupid.
+/u/chucktinglethanks
+A Chuck Tingle novel?
+I think I'll stick to parsley. Though leeks could be interesting.
+Take a lesson from when you're actually working. Don't bother making anything up. Just drop profanities every five or six seconds under your breath.
+/r/shitty_ecr
+Happy Cake Day!
+I can't do that, Dave.
+The f-droid version is, or just the google play version?
+Sure. Until the implementation improves, I prefer no fingerprint sensor at all.
+More like R vs NC-17. X stopped being a rating that actually meant anything around... I want to say the late 80s?
+That's the default behavior in Telegram X, so you're aware.
+Me too! Hope yours went well!
+Android Pocky?
+They're talking HW1. HW2 seems to have moved past this issue.
+Here's hoping this works out without any google play services requirement. My huawei watch 2 is the only thing keeping me off MicroG right now.
+Where's the Lipton "instant iced tea" though? That stuff was foul. Literally dissolves in water.
+While I wouldn't, based on people I've known who do the answer is usually "Because I like porn".
+I support it, but I'm vegetarian both for taste and enzyme reasons. If it's still digested the same way and tastes the same, it would turn my stomach to even try and fail to digest if I got past that.
+Only point I disagree on is Gegeruju. From what I remember, there was no implication the chaining to his bed was non-consentual. Feel free to correct me if I misremember, it's been a while.
+Anyone have a non-facebook mirror/archive? I have that domain entirely blocked.
+Possible, but I don't know anyone who willingly leaves those lying around, and generally people who mix eliquids prefer to do it in the same place every time.
+Paranoia? Most people I know who've had roaches before get hyper-paranoid about it.
+Wondering the same. Never heard this term before.
+Sometimes they sew them shut, sometimes they don't. I don't know what changes the decision, I'm not a dentist. Mine were all left unsutured, my girlfriend got half and half. The gaps aren't an issue if you have a syringe with a curved tip or a waterpik with very low pressure. Just run some warm salt water through it to flush food chunks out a few times a day until they fill in.
+The android wear app Wearify is completely third party (and premium only to avoid dealing with these headaches). I don't know of others offhand, but that alone is proof that they can exist.
+Only works with touch buttons, but way more useful than I expected. Was coming here to post this. Also works right to left for lefties.
+Shouldn't be deluge, they're pretty good about fixing issues like that asap.
+With as many mentions as he gets daily, would almost be irresponsible to -not- disable them.
+Keepass can handle TOTP. Or at least keepass2android can. Use the KeeTrayTOTP plugin on your desktop, kp2a can handle the settings from it.
+
+Not sure if you can -add- the totp seed on kp2a directly, but I wouldn't be surprised if you can.
+This is the special case. The footer is the same regardless.
+Thing is, if you have a fear of heights, there's no way in hell you'd be up there in the first place.
+Dreaming a jetpack seems silly when I can just choose to fly instead.
+Soon as they bought Motorola, I stopped being able to consider buying Motorola devices ever again. It's not worth dealing with anything Lenovo touches.
+Exactly one time, did 250W on titanium on a 0.08 ohm build. The TC couldn't engage fast enough to even attempt to save me. I was coughing for ten minutes or so while my coworker laughed his ass off at me.
+So I decided to look up the comparison and see, because why not, maybe I was mistaken.
+
+http://www.politifact.com/truth-o-meter/article/2017/apr/17/who-plays-more-golf-donald-trump-or-barack-obama/
+
+Nope, that's not really comparable. Even just going on confirmed outings and ignoring all the times everyone refused to comment on what he was up to.
+In addition to what the other guy said, kp2a has (currently limited) plugin support, and one such plugin enables the usage of an [InputStick](http://inputstick.com/) ($50 or so last I looked) to input passwords on other devices, including computers, game consoles, etc. While a bit steep for most users, it's a damn nice feature for those who use it.
+Root has no real relevance to that. Location spoofing can be done without it, and I'd wager is no more common in rooted devices than it is in unrooted devices.
+Google system for determining if your system is "safe enough" to run protected apps on, like android pay. It's been used to disable apps or features on rooted devices to an irritating degree with no real justification (such as pokemon go). Some root methods, such as magisk, can allow rooting without tripping safetynet, but there are some stock ROMs and devices that will trip by default even when unrooted.
+Agreed. Easily the best password manager on android. I actually donated to the dev due to how much I use it in day to day life.
+They screwed up the update. I have a number of devices on different OS versions, both passing and not passing safetynet, and none of them are compatible.
+$20? Haaaaaa... *sobs quietly*
+Never.
+/r/assjobs I believe.
+The entire point of the party seems to have been to make fun of the stuff we see here.
+Nah, I uploaded the apk to apkmirror from my HW2 the day it started rolling out. Either you're late in the rollout or you're looking in the wrong place. It's an app update in the play store on your watch, not in the system updates.
+I noticed it as well. There is a new craze for people to sell pitchforks which resemble swords.
+Good bot.
+I've only ever seen a bar in a Denny's when passing through New Mexico.
+Uranium isn't as uncommon as you might think in well water, so it's possible. Just would be extremely low concentrations.
+
+Just looked it up, safe limit in drinking water is 30ug/L.
+Not to mention, that wax is likely not healthy to consume. If you're -lucky- it's pure carnauba wax and only tastes like ass. If you're not....
+Ceramic still carries the risk of [Silicosis](https://en.wikipedia.org/wiki/Silicosis) with no sufficient studies yet (that I have seen, and please correct me if I'm wrong) proving any degree of safety. As someone who works with 5um ceramic particulates on a daily basis, this is a no-go for me.
+Only things with true preshared keys where the key generation and exchange is never handled by a central server or done in an uncontrolled manner. At the moment, I primarily use PGP for sensitive communication, though with family and some friends I have needed to generate their private keys for them due to a lack of technical understanding.
+I prefer telegram myself, but anything I need properly end to end encrypted I also wouldn't send via either of them, so that's less of an issue for me.
+
+Pretty sure their servers are based in Germany, by the way.
+No. Also, that hiccup was last year, was a local attack used on specific Russian targets, was patched immediately on discovery, and required that the target grant explicit script execution rights to an image file when trying to open it. I'm not really sure why the story is making the rounds again the last couple weeks.
+https://i.imgur.com/FEZmzm2.mp4
+Best guess I've heard yet.
+https://en.wikipedia.org/wiki/Clustering_illusion
+Ech... Left them years ago, not worth going back for that. Still, useful for things like this I suppose.
+Where the hell are you getting a domain that cheap?
+You mean RNG is still RNG? Crazy.
+30? You mean 900.
+Check in the play store on your watch to see of you have an android wear update waiting. For a short period on 2.8 screenshots were being blocked by a permission issue.
+I do too, and I don't even smoke.
+Not a lot. Slightly different layout. Different codebase. May be faster on older phones.
+You must be the cosmic balance for me. Even in the hardest orgasms, I have to consciously make noise or I'm dead silent at all times.
+I upload these as my watch gets them. For anyone having issues, can't really tell you which watches are compatible. Mine's a Huawei Watch 2 Sport (non-LTE), so any uploads from me will be for that device at least. If you have issues with this one, you may not want to use other apks I upload.
+Never had an issue. I did recently switch to Telegram X on my phone and had to disable watch notifications for it to prevent double notifications (since there's no Telegram X wear app, I still use the Telegram wear app), but really that's about it.
+I just enabled it and then turned off all the battery saving features in it.
+Can't say as I've had this issue. I keep Fit disabled, in case that's relevant. I do keep the complication on my watchface, so it's possible that's triggering periodic checks as well.
+Better yet, instead of trying to shield a child from the world around them, teach them how to live in it. Talk to them about these things instead of trying to deny they exist.
+Far as I know, for foam mattresses they generally recommend platforms rather than box springs now. But either way, not like this.
+I saw that once, decades ago. I still remember it. Why.
+Most people did. It's extremely useful. Not using it would be crippling your arsenal.
+Yup. Our FC runs Jackpot III every Saturday, so we do the report on Saturday too.
+
+And to anyone thinking that's only viable for a huge FC, I handle the workshop alone and we have maybe ten active members total.
+I had to put my watch on the charger for the update to start. And then I had to restart my watch for it to actually start downloading instead of just sitting there with an empty ring.
+Seems people in the US aren't having this issue. I don't know what to tell you offhand. I'll probably get the update later today and will edit this comment with my own findings (in the US). Maybe if you can work out how they're handling regional detection you can make it stop.
+
+EDIT: No issue on mine, once again in the US.
+I think I've just gotten lucky in my personal interactions. I have straight friends, gay friends, bi friends, and pan friends, and none of them are shitty to each other. They all just want to do what they do. Me? I'm about as straight as they come in the bedroom, but outside of sexual preferences I get pretty confused about why anyone really cares about gender at all.
+Odd. There's another comment in this thread saying the app auto-disables and will re-disable. What region are you in? It may be a regional issue.
+It's more that bisexuality is reserved for people who are individually attracted to both men and women, whereas pansexuality applies to people who are just attracted to people. Even when the result is the same, the mental state leading to it differs.
+
+To elaborate further, in a fictional state where we had more sentient species than just humans on the planet, a bisexual would likely just be attracted to humans, where a pansexual would likely see no relevant differentiation between humans and the other species.
+
+For what it's worth, many pansexuals just call themselves bi to simplify conversations with parties who don't understand.
+Is there any easy way to prevent it from auto-updating? I've been waiting for this update for a while, but if it's auto-disabling android pay, I'm not willing to do it until that's fixed.
+
+EDIT: Only seems to be confirmed for Canada at the moment. I updated, no regrets.
+Far as I recall, Kirkland only sells an Añejo, though I may just have never looked for others. I don't drink it straight myself, I just know I often hear they sell surprisingly good liquors and found myself curious what a professional opinion would be.
+Any opinion on Kirkland (Costco brand) tequila? I've heard it's pretty good, but I'm not in any position to judge tequila for myself.
+As long as the water is in a non-leeching container (glass generally), the microwave is kept clean, and the water reaches the desired temperature, it doesn't matter in the slightest. It's not how I would want to habitually make my tea, but for people with nothing else available, use what you have.
+Ahh, okay. Still, I understand how that bit of slowdown can cause headaches.
+Pain to shape or something?
+This is more concern over handing market share over to another country with potentially conflicting interests down the line. It's not really about them doing anything now, but rather trying to prevent enough of an influx of devices that widespread espionage would be possible in the future. I get it, I just don't know how realistic that scenario is.
+While I agree it's not a concern, Android Wear devices see all phone notifications, often have text messaging and other chat apps, and do run manufacturer software on both the watch and the phone (the latter can be for various reasons usually pertaining to synchronization or features like heart rate tracking). If it were a compromised device, it would be a concern.
+Have a pan girlfriend and my brother's girlfriend is too. That about sums it up perfectly. Gender doesn't even trigger as a relevant variable in determining attraction. More like "Ah... now that's a fine looking human."
+...how fucking stupid do you have to be to believe humans don't miscarry naturally? That's awful. Sorry you ever had to deal with that.
+There's also an exception for software funded by philanthropists, like Telegram. Not quite FOSS, but similar category.
+If you're good at it, better to clear all the levels to unlock endless. My girlfriend pulls 5 million points a run pretty effortlessly. Me... Not so much.
+The heat isn't an issue if the price isn't an issue. There are resins that go up to 700F or so. Would be extreme overkill of course, but it's still doable. The bigger issue would be having to replace the entire enclosure when it dies rather than just a bulb, and it'd take a different factory setup than the halogen and such ones did, so that's added cost to the end product.
+Often it's based on county as well. No emissions in my county, but all counties surrounding me have those checks mandatory.
+Could also just get a full resin block version. No condensation if there's no space to condense in.
+Glass blower?
+To be fair, if you upload that private key to a mail system with ill intent, you'd be handing them the password shortly after with no guarantee of how they handle that password.
+
+Having said that, from a strict security standpoint, I don't know the answer to the severity of private key access without a password. Obviously if you don't have a very good reason to, don't do it.
+I personally use Ksana Sweep after getting it free from a sale. I've changed a few times and always go back.
+A gathering place for those who respect pineapple on pizza, and in general the usage of pineapple in various aspects of life.
+I bought it for $5 less than a month before it went free. Ah well, it happens.
+Try LinuxMCE. There are undoubtedly newer and more maintained offerings too, but that project has been around and trustworthy for over a decade.
+This is the stupidest subreddit...
+
+\*subs\*
+Honestly, I'd hope not. I've done enough baking to know I don't want to buy what some poor high school kid just learning how to bake makes, no matter how detailed the recipe they follow is.
+It's not an issue at all when it's done right, and Panera does it right. In fact, technically their breads are made better for it. They essentially do an overnight proof in the delivery truck. I do the same thing to my bread at home, but it's much less convenient for me to find room to proof large loaves.
+I see you're new to the internet. You may want to keep your eyes closed.
+>Interestingly, this licensing agreement change doesn't institute any restrictions against large-scale cryptocurrency mining operations.
+Hosts-style blocking is available via software VPN as well, which doesn't require root. Try [DNS66](https://f-droid.org/app/org.jak_linux.dns66) (doesn't seem to be available on google play, the one on there is just a fake making money on people who don't know better).
+!reddittrebuchet
+And that's fine. I thought I would too. I just... didn't.
+Modest Mouse. One of the few I just outright deleted.
+A lot of people forget that a speed limit is a speed -limit- and not a mandated speed.
+What a lot of people fail to realize is the critical point often has less to do with the roads and more to do with your tires. A light dusting can be all it takes for your treads to pack hard and turn your tires into ice skates if you're driving with the wrong tire type.
+Northern Nevada here. I feel you.
+Dribble?
+If they weren't tried and convicted federally, it isn't a federal matter.
+Vita and PS3 can play online free regardless. PS4 requires the primary account on the console to subscribe to PlayStation Plus if you want access to PSN servers for multiplayer. There seem to be some games that don't require plus, such as FFXIV I believe, but I don't believe a concise list of them exists anywhere.
+Best guess, shitty glass (more absorption, less transparent) in a region with absurd heat spikes. Otherwise, it shouldn't even be possible.
+Try https://bitmessage.ch. Has some hard restrictions like only 20MB on-server storage and you have to check it at least once every 30 days to keep it active (my phone polls it once every 24 hours anyway), but it's the best I've seen that doesn't have any true gotcha.
+
+And yes, you can have a simpler email than what it gives you at first via setting an alias for it.
+
+EDIT: For some reason Firefox seems to have disabled the trust status on the certificate authority it uses, but I can't find any reference to them having done so. Not sure what that's about. You can manually enable it if need be, or just use a different browser.
+For the time being, for anyone looking to craft a tier 1 submersible, [this link](http://craftingasaservice.com/list/saved/5378,18:7018,39:5059,150:5366,9:5092,39:5079,18:5066,39:5505,18:5099,78:5067,21:7017,18:5371,18:5093,126:5058,105:7023,54:5060,45:7022,60:7606,18:5064,60:5379,12:5061,21:5094,21) has a list of all materials required for all four parts.
+
+EDIT: Made a link for the [Unkiu-class Submersible](http://craftingasaservice.com/list/saved/5373,24:5378,24:7019,45:12913,36:7606,24:5092,24:5073,24:5066,24:5094,54:5059,69:5287,24:12231,18:7017,18:5506,9:5093,96:5058,75:5099,108:12519,36:7023,60:5060,36:7607,18:5075,27:5065,60:5512,60:7022,30:5067,18:5379,12:5095,21:12563,18) as well.
+The cameraman.
+I'm glad someone else was trying desperately to figure that out too.
+I'd like to believe we didn't do anything monstrous enough to deserve him either.
+If you think white wine is in any way comparable to fortified wine, consider yourself lucky that your fortified wines aren't nearly as bad as ours are. I got one as a cooking wine once, it would have made a better paint stripper.
+Just cheap wine, or fortified wine?
+As someone not on the Nintendo bandwagon anymore, Labo is the first thing I've seen out of them in years that I genuinely have to applaud. Here's hoping the product is as good as the ads.
+Seriously, don't understand how people fail to realize that mentor is -only- for branding yourself as a willing teacher.
+As a male au ra... It still carries me.
+Can't say as I've had an issue with this, but you might be able to block notifications from the app creating the controls on the watch (via the AW app on the phone). I know Stellio has an option in settings to just disable the AW notification if you prefer to.
+
+Honestly, if you're playing music stored on your phone and this irritates you enough, Stellio could be worth the purchase.
+They're still being driven by humans. They're not on autopilot.
+Could encase it in resin. Make a transparent "hardwood"-style pasta floor.
+Colin here, have five cats. Hello Colin!
+I think the tree won that fight.
+>Yeah, if you want to die in a car, just park on the train tracks.
+
+This can easily kill people on the train. If you're going to off yourself, at least do something fun, like skydiving without pulling your parachute. Saves on cremation too, you can just be scooped into a bucket for the funeral.
+It technically is, but it's an extension you have to disable through about:config. Think the setting is extension.pocket.enabled.
+See, I can't agree with that stance. Pocket may have been integrated, but there's still a single config setting to disable it entirely, no remnants whatsoever. They haven't ever implemented anything potentially unwanted that you couldn't just disable (sans the move to webextensions, but there are novels written on that topic at this point, and most people agree it needed to happen). While I may scowl about some minor decisions they make, this isn't one that will alienate me. Overall they still have the right goals in mind and do good work to implement them, and the next best option other than modified versions of Firefox itself is absolutely awful anyway.
+Honestly, I wouldn't worry about it. It's a Chinese company, so of course it's going to be slow, but in my experience they deliver as promised.
+Agreed, but here we are.
+As someone who has purchased from them in the past, everything went smoothly, no issues whatsoever, and they had (authentic) products I had issues finding anywhere else. There's always some risk ordering from Chinese companies, but this one didn't seem to have any red flags.
+Never had any issues ordering from them. I've heard a lot of complaints about smok's authenticity verification even from provably authentic sources, so there may be two sides to this story.
+tl;dr: It's part of pocket, if you already disabled pocket this has zero relevance to you personally.
+It's a 30 second heavy too, so it's annoying as hell when you're just trying to get from point A to point B. Even moreso if you're following someone else and they don't get heavied.
+Don't forget turning companion chocobos into 70-slot retainers.
+Exactly one time I managed to get heavied in the air from flying too low looking for something. It was pretty irritating. And yes, heavy in the air slows you.
+I think that somehow makes it worse.
+Sounds entirely reasonable. Can't have that here.
+MNK ranged attack confirmed.
+Has some utility for things like generating android wear updates where no app exists to provide that.
+/r/outoftheloop
+
+What is ESL?
+Keepass2android beta supports oreo's autofill, so if you're on oreo... Not much.
+As someone who leans fairly far left, that's dumb.
+Just got disconnected myself, tried to reconnect, was told for security reasons I needed to update my password. Soon as I try to do that, I get a "connection to server has timed out" error. Tried to send myself another password reset request, same error. Tried multiple browsers in multiple configurations on multiple systems over two different networks, even through tor. No luck. The PSN is borked.
+I'm not clicking that.
+So a facial tattoo is about the only option, since no paparazzi would want to publish photos with blurred faces.
+Worth note, that pink isn't to be confused with Hawaiian salt, which is mostly pink due to iron oxide (though it contains much more than just that).
+Agreed, no PGP is a dealbreaker.
+Doesn't appear to be present on HW2.
+Yeah, it seems stable now. Not sure what's up, but you can't argue with results regardless.
+It shouldn't be. That order only affects the Netherlands itself, barring them running servers from there. It also wouldn't affect the onion site, which as of today is up and down as well.
+Well shit. It was working fine last night. Thanks for the heads up, sorry it didn't work out.
+
+EDIT: Still working for me... Sometimes. It's having a rough time. DDoS maybe?
+I'm continuing to upload the watch APK every time it updates, since for some reason I seem to be on the front end of rollouts. I got yet another one today.
+I turn my screen off at night while sleep tracking with sleep as android, have never once had this issue.
+Linux isn't bulletproof virus protection, it's just incompatibility with the most common threats. And more importantly, if you're downloading software to run via wine or a VM, Linux can't protect you from intentionally providing potential viruses the resources they need to be able to run.
+Just connect via the onion for now.
+At the same time, no one seems to understand that PTSD can genuinely be caused by events that to an outsider don't seem traumatic at all. Bad relationships (especially those with tones of emotional abuse) in particular can cause significant PTSD, yet people shrug it off with a "yeah, everyone has that, welcome to life" attitude.
+As an example of the first, what I would consider a minor compulsion, I have issues with the pressure exerted by my eyelids. If I get just a bit of air under an eyelid, I have to start blinking rapidly and inconsistently trying to equalize that pressure. Not just remove the air, introducing air under the other eyelid is a solution too. Problem is, this can take a solid 3-5 minutes of rapid blinking to achieve. I never thought much of it, it was just something I had to do, and the worst that came of it was someone getting annoyed by the sound it made. Right up to the point when it happened while I was driving.
+
+People who don't have OCD, in that moment, can subdue the compulsion and continue on with their lives, minorly annoyed. I got to swerve off the side of the freeway at 70mph so I didn't kill anyone while I waited to be able to stop myself. At the urging of a therapist, I've spent the last decade training myself to overcome that particular representation to keep it from eventually getting someone killed.
+Find out if your area has an ambulance service you can pay in advance for. We pay something like $50 a year for the entire household and as a result if we ever need to, we can call an ambulance and that covers it. Chances are we'll never use it, but that comfort is well worth $50 a year.
+Depends on the person. I've been with women who felt both ways about it. As with all things, you have to learn what any given person likes.
+My mother's water broke and she waited three days to let anyone know because she didn't want to be induced.
+That was actually an interesting read, thanks.
+I had a similar story when my dog was just a puppy, except I was being slow getting out of bed, and he pissed right down my side.
+Glad you got it sorted either way. Shame places like that operate, but not a lot you can do about it other than reviewing the location.
+I had a black lab pit mix that was about the same. Used to get him small tires with nylon threads only (can't use normal tires, they're steel threaded) and he'd have them in half within a day. He eventually grew out of it after electrocuting himself chewing through a 120vac cord, but that was a rough few years.
+Vape shops sadly can be like that. It was a booming market, which means some people jumped in for quick money rather than doing any actual research. That gets exceptionally ugly when they start recommending subpar batteries, especially if they're selling ICRs (more volatile and potentially explosive batteries) to pull a higher profit margin.
+
+Can't say as I've seen any issues with dispensaries myself, but I'm sure that's a regional issue. There's a hard limit to how many can operate per county here, so if any operate irresponsibly, they get shut down and replaced.
+...yes? 1* is for a genuinely bad product. This was just an underwhelming product that did the job but not to the level expected/promised, so 2* is fitting.
+But do we actually know that it's 512GB and not 512GiB? The people writing these articles may not even know about binary byte notation, and even if they do they're being forced to interpret a press release and may not have the requisite information themselves.
+And the write speed. All they say is the minimum write speed as designated by SD card class.
+I'd imagine it's relatively common in most trades to use centimeters or millimeters when it's more fitting. I know for me and most people I interact with it is.
+!reddittrebuchet
+Screenshot issue was resolved today with the latest release. Uploading it to apkmirror now.
+Wear Codes may be a good fit too.
+A rather well-baked potato at that. Needs some butter.
+And a decent bit of karma.
+...yes?
+See, the tapes were -really- dusty, so we decided to clean them in the furnace...
+That should be terrible before 2.8, and acceptable after it.
+I'd trust the hook more than I'd trust the wood.
+Huh, was told otherwise. Well that sucks.
+My mileage most definitely varies.
+Floor 51, but you can't ever die. You die, you start over.
+https://www.reddit.com/r/AndroidWear/comments/7rfk60/android_wear_28_seems_to_have_broken_screenshots
+I assume you're referring to android 8, not android wear 2.8. They're independent of each other. Sadly, HW2 still doesn't have android 8.
+https://www.apkmirror.com/apk/google-inc/android-wear-smartwatch-android-wear/android-wear-smartwatch-android-wear-2-8-0-182534774-release/android-wear-smartwatch-android-wear-2-8-0-182534774-android-apk-download/
+I just got another 2.8 update this morning. See if you have that available and if it helps.
+Just got an update again this morning, pulled it and am uploading it right now. I'll update when it goes live.
+
+EDIT: [It's live now.](https://www.apkmirror.com/apk/google-inc/android-wear-smartwatch-android-wear/android-wear-smartwatch-android-wear-2-8-0-182534774-release/android-wear-smartwatch-android-wear-2-8-0-182534774-android-apk-download/)
+My Huawei Watch 2 Sport and my girlfriend's Misfit Vapor both pull >30 hours even with sleep tracking active during that time.
+It's an update to the android wear app on the watch, not the phone.
+
+EDIT: Correcting your quote, not you.
+>As a result, you'll need to make sure your watch is synced with the latest version of the Android Wear app on your phone and let it take care of business — this one won't come directly to the watch like other updates.
+
+Except it comes directly to your watch via play store, not from your phone.
+Girlfriend's nothing but pleased, so I assume it's decent. Lacks a few features compared to some, but if you don't want them, that's a non-issue.
+That's a matter of opinion, but I do love mine, as do many others.
+If you're still on 2.7, could always snag a logcat and see what it shows. If you're on 2.8, pretty sure this topic covers what it would show. Either way, hopefully this gets fixed soon.
+Huh, okay. Good to know.
+Hadn't though to try that due to my watch not being rooted, but regardless, didn't work out in my favor. Tried every permutation of the permission name I could think of it accepting, the result was always the same.
+
+Bad argument: java.lang.IllegalArgumentException: Unknown permission: android.wearable.permission.PROVIDE_LOGCAT_DATA
+
+EDIT: I can't even find a reference to that permission existing. Dumped the listed packages just to see what they had to offer and couldn't find anything there either. I have no idea what's going on here. Best guess is something added in Oreo.
+Fair point. I assume that would be a mistake in practice due to increased battery drain and RAM choking, but I did hear that it at least works.
+I did as much as soon as I got back home. The URL's available in the post text.
+Don't have a fix, but you should know that despite many having this issue, it isn't normal. I have literally never had a connection issue of any kind with my HW2S. I do run LineageOS, but I find it unlikely that it's specifically a ROM issue.
+I've heard a couple people gripe. Maybe there are a couple devices with a poorly implemented wear detection method. Or a manufacturing defect. Dunno. Works perfectly on mine.
+Spotify playback via watch is only available via wearify and there's no offline in that. The stock app is just poorly made media control. Can't be Spotify for offline.
+Try NavMusic perhaps? Not familiar with play music's issues myself.
+That one's the Huawei Watch 2. Amazon sells them. Plenty of other places too.
+AW 2.8.0.181612071
+
+Play Services 11.9.51 (530-177350961)
+
+Android OS 7.1.1
+
+Security patch August 1st 2017
+
+This is for the Huawei Watch 2 Sport, if it matters.
+If you frequently check notifications, it should help battery.
+Girlfriend's misfit vapor doesn't have it. Must be device specific.
+So you prefer screens that drain battery to all hell if you want always-on display? I'd rather not.
+
+Mind you, I get that on a phone, but not on a watch.
+On watches with speakers (like the Huawei Watch 2), don't even need the headphones. I use NavMusic myself.
+https://www.reddit.com/r/interestingasfuck/comments/7rezul/mandrake_root/dswqk1i
+Logcat collected from a screenshot attempt, seems to be a permission issue post-update:
+
+
+
+01-18 19:47:33.593  6929  6929 D MediaScannerReceiver: action: android.intent.action.MEDIA_SCANNER_SCAN_FILE path: /data/user_de/0/com.google.android.apps.wearable.bugreportsender/cache/screen.png
+
+01-18 19:47:33.669   594   607 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.google.android.clockwork.SEND_SCREENSHOT cat=[android.intent.category.DEFAULT] dat=content://com.google.android.wearable.app/wear_screenshot/screen.png typ=image/png flg=0x10 } from com.google.android.apps.wearable.bugreportsender (pid=8941, uid=2000) requires com.google.android.wearable.permission.PROVIDE_LOGCAT_DATA due to receiver com.google.android.wearable.app/com.google.android.clockwork.home.bugreport.NewDataReceiver
+Every battery is different. If you look up the model number on the battery, you may be able to find more information, including datasheets from the manufacturer.
+Much lower drain in a flashlight.
+Sounds like a hybrid of DragonForce and Zebrahead.
+I assume you took pictures because you couldn't take screenshots? After the update, it won't take screenshots on mine and my girlfriend's watches anymore.
+People often use them to build power packs for various projects. I'm not sure what would be a good general purpose suggestion offhand. There are also a lot of higher-end flashlights that use 18650s.
+Laptop batteries are almost exclusively ICRs with safety circuitry in the pack housing. I highly recommend not using them to vape. ICRs are less stable and are often violent and even explosive when they vent. Good way to lose your face.
+My phone still shows 2.7, my watch AW version updated through its own play store.
+AW versions are generally watch-dependent. Which one do you have?
+I've found people see it as elitist if you call it sparkling water, but not if you call it seltzer. I built a carbonator and drink all my water carbonated now (for health reasons).
+While faking having a disease is idiotic and has caused numerous issues, I suppose on the flip side the idiots are the reason so many products and restaurants have arrived catering to the gluten-free diet. A decade ago Celiac meant you were just screwed.
+Not op, but while I can get behind some falafel, in general... No. All meat is a bust, the only beans I consume are heavily cooked in soup (such as minestrone) or refried (which isn't really umami), and eggplant wrecks me. I've choked it down out of necessity a couple times and regretted it both times. Personally, I live on dairy. Milk, cheese, etc. Most meals are a combination of cheese and a carbohydrate like bread or pasta at their base.
+With regards to the flavor side, to someone who genuinely dislikes the flavor of all meat, there can be a genetic taste sensitivity to certain proteins that causes it. Even if the meat seems distinct to you, that flavor can be overpowering and omnipresent to someone else.
+They taste like dirt and feet. I just can't get past that. Granted, I'm also allergic, but that's not what drove me away from them initially.
+I started refusing meat before I was two years old. When you make that choice for yourself young, believe me, you hear one hell of a lot about it from people who are convinced they know better than you do. I remember staying over at a friend's house when I was... eight or nine maybe? His mother knew my diet. She made food she knew I couldn't eat, refused to let me just have something like cereal despite them having it right there, and proclaimed I would have to eat what was made for me or nothing at all. So I chose nothing at all and went to bed without eating. Don't think she knew what to do with that, but in hindsight I can't help but think that's an exceptionally shitty thing to do to a kid who's a guest in your house.
+
+So yeah, has a lot to do with your age. No one says much about it these days.
+My phone still shows 2.7, the watch shows 2.8.
+Play store on the watch delivered it.
+...who hurt you?
+Half my games use it. I think it really depends on what you play.
+It wasn't flagged nsfw at first. A lot of people learned the hard way.
+It really depends on which games you play. Now that we're past the release of gyro on consoles, it's only really showing up where relevant. They do need to start allowing using it for aim adjustment in FPSes though. That's one of the biggest uses of it on the steam controller apparently.
+Haven't bought that one yet. Hope to next sale.
+Shame about the speaker. Was weird to me at first, but I've come to enjoy that little oddity.
+Gravity Rush uses it as a directional dodge without having to change your movement direction.
+First light's neon grafitti was gyro. Touch was used more in second son for cage opening, command center attacking, etc.
+Gotta say, I really appreciate the graphs published by pornhub. Far more of it than I'd ever expected is genuinely fascinating.
+Expired
+Expired
+Linkme: Eclipse of Illusion
+Not seeing an issue on nougat.
+Seriously? Gacha dissidia? Not cool.
+
+EDIT: Why would this be worthy of downvotes? Gacha would ruin dissidia.
+Makes you cry.
+Chapter 13 sucked in the original release. They rebalanced it massively later on. It's fine now.
+It includes all current DLC and the royal edition additions.
+Linux, Windows, and MacOSX (but not MacOS) are all considered PC generally. And by a strict definition, even old PowerPC MacOS would be too.
+To each their own. I'm playing through FFXII on PS4 right now. I bought it on release for PS2, but I could never make it through the game. It's just... not what I look for in a Final Fantasy game. Still, I'm determined to see it through this time and see if it turns around for me later on.
+PC versions of FFs almost all have built in cheats.
+To be fair, that's because they had to scrap 1.0 completely and rebuild the game from scratch. They didn't get it right the first time.
+While I did mean it as a joke, that's actually more than I knew anyway, so thanks!
+Why do we reddit when half asleep? Nothing good ever comes of it, yet we do it every night.
+What's a Cambridge?
+Does anyone else frequently have to mentally correct chrome (XUL) to chrome (browser)? I still think of the browser as chromium after all these years.
+And here I thought that $2500 watch was ridiculous.
+The fuck was he carrying that he fired 20 shots in a row?
+Disagree. In an auto shop, the taste is spot-on. If you can ever manage to clean it.
+Pretty sure this is the same one I read about half a year ago. They originally did give numbers on particulate yield compressed into bricks, but due to source it's still questionable.
+If you're running AsteroidOS, you're pretty far outside the spectrum of Android Wear at this point. You'll probably have to find somewhere to ask with a bit more experience on that side of things.
+Yeah. That seems to be a problem on pretty much all watches now though.
+The keyboard does support Swype, so that helps.
+As /u/dereksalem said, your phone's safetynet status is irrelevant for using android pay on your watch.
+While that should technically be doable, I don't believe any app exists to implement it yet.
+My girlfriend absolutely loves the misfit vapor,  and from what I've seen that's with good reason. The 360 meanwhile I've heard a lot of griping about, so... easy choice from my stance.
+Nope. That's fucking weird. But I've also only let it get under 10% once and never down to dead.
+I use sleep as android through the night, so my watch is an integral part of that. I generally toss it on the charger randomly when I'm sitting at my desk at home, sometimes 15 minutes at a time a couple times. It charges fairly fast and lasts around 30 hours even with nonstop accelerometer and heart rate through the night.
+At least the HW2's base is clean and effective. Might have pins, but the shape of it holds the watch and the magnets are strong enough that the pins see minimal movement.
+They can, they just haven't really started abusing that ability much yet. Least as far as I can tell they don't do top much with it. It's mostly things like the heart rate monitoring that are added by default right now, though some of those are more efficient than others.
+Honestly, I would want it too, though I'm sure I'd want a watch with a micro USB port if it existed. Problem is the general public though...
+True enough.
+Did you disable OK google detection?
+So basically, preference and bias. Just like I find non-"sporty" watches undesirable.
+To each their own. I much prefer the HW2S visually.
+While true to a degree, a lot of mobile battery considerations come down to efficiency of manufacturer-added system software. Especially true of more invasive companies of course.
+Smart watches I'm general don't mesh well with baby wrists. Not much to be done about that until tech advances. Or until a watchmaker makes a watch with a cabled secondary battery further on the forearm, but I doubt most would want that.
+Nice! Glad you got it sorted.
+Not sure about nextcloud, but the others should work fine. Can always just try it out.
+Damn. Thanks for the update. I didn't even realize there was a team called the Saints before this post, so it may be a bit outside my usual circles.
+Hm. Might be a beta-only feature at the moment then. Shouldn't be too long to stable if so.
+
+EDIT: Yup, it's a beta feature. Once 1.04 goes stable it'll be there.
+I'm sure this will get downvoted to all hell, but... /r/outoftheloop?
+Oof. Rough. Thanks for the info. At first was thinking it was like Evil Dead: A Fistful of Boomstick, where you have a limited number of saves (picked up as items) and have to strategically manage when you save.
+VII-IX have them bound to the F-keys from what I remember. Not sure about the others. Some were handy to toggle mid-battle when you're just replaying for a refresher.
+Dissidia had the player-based AI system too. Absolutely wonderful.
+Explain for those who haven't played it?
+Keepass2android does support autofill on oreo, so that will be an option once your phone is running oreo (if applicable). Personally I use the kp2a keyboard for entry, with secure settings installed to allow it to autoswitch whenever I open an entry.
+Happy to help.
+Virus protection is mostly a game of installing a bigger, meaner virus before the little guys can move in.
+RFID is essentially just a communication protocol. There's no guarantee that's using a fixed code. It could easily be encrypted and dynamic. (But it probably isn't.)
+You never know for certain which people mean when they put mb, though mbps is pretty well established to be Mbps. Almost no one ever measures in MBps. It's part of why I prefer MiB (for measurements outside of speed, it would just confuse people there). Less ambiguity. And most people just round that to MB, which is realistically close enough in most cases.
+Law enforcement does. Emergency services would have an override I'd imagine. Not sure about whatever department he bounced the call through though.
+I think you misread my comment.
+Well shit. I can officially play the game now if SkyUI is out.
+As does AnySoft (FOSS keyboard).
+He might be correct, how would we know? He has yet to demonstrate any capability to be "in charge".
+There's a distinction between MB and Mb, but not between Mb and mb. Though if you want to confuse people, better to offer all measures in MiB.
+I started on Slackware decades ago. It took me years to move on. I don't want to go back. Don't make me go back.
+[The wiki article](https://en.wikipedia.org/wiki/Lenovo#Security) covers it to a reasonable degree. Long story short, repeated spyware and security abuse causing vulnerabilities throughout the years. The company for their part has tried to shrug off all incidents and make them disappear. Android provides a platform that would make it harder than usual to detect their shiesty behavior, so that makes me even more wary. Lenovo's a permanent blacklist for me as a result, as well as any and all companies they obtain.
+It's okay bot, we love you. We won't let the bad downvoter touch you.
+Sounds like a good way to get arrested.
+I'll have to look into it. Was under the impression only 32-bit atoms were immune. If I'm incorrect, my mistake.
+Correct me if I'm wrong, but doesn't that just cover all x86_64? Didn't think x86 implemented it, Itanium is IA64, and the unaffected Atoms should be x86 as well.
+Wish I could disagree, but that AW app is trash. Can't even change lists from the inbox.
+Correction, all Intel x86_64.
+Intel x86_64 and ARM64 are affected by meltdown. All modern CPUs are affected by spectre.
+Moto's owned by Lenovo now. I wouldn't ever recommend anything owned by Lenovo in the context of privacy.
+
+To give an idea, if you work government contracts in your job, they make you verify you do not use Lenovo hardware.
+20, with a healthy dose of insomnia.
+There's a lot of confirmation bias around it. Everyone who's had a corrupt one has come here to complain, but if you consider how few complaints there have actually been here.... It's more of a perception issue than a real likelihood.
+So much easier if you never have to deal with a language using + for more than one operation.
+keepass2android supports WebDAV and should operate cleanly in all ways without play services. You'd need a local WebDAV server on your computer, but that's not exactly hard.
+tl;dr: Bring disassembled in carry-on and don't even think about using it in the air if you don't want a mile-high elbow drop from an air marshal.
+Definitely the reason I sudscribe.
+That's spectre specifically, and covers pretty much every modern CPU. Meltdown is only Intel's x86_64 and ARM64.
+Read a bench test last week that pulled numbers based on operation of 5-68℅. Can't find it now, but I'm wishing I had saved the link.
+Meltdown - all 64-bit Intel processors and a number of ARM.
+
+Spectre - If you've bought it in the last couple decades, it's affected.
+I was agreeing with you. Not sure how you took that otherwise.
+I mean, Christianity is a lot of things, some of them decidedly negative, but cult really seems like a stretch...
+As a bonus, enigmail for thunderbird is probably the best PGP extension for any client.
+...no.
+No sub is safe from top-tier shitposting. Well done.
+Probably blocked the number or something. Various possibilities, though that's assuming someone didn't just screw up.
+While I don't know the correct term for it, it would likely be the same charge as someone who hires an assassin. Though lack of transaction might screw that up, not sure. Definitely not a lawyer.
+I use it rarely, and generally to talk to support channels for one service or another. Even using it rarely, this format is terrible and confusing.
+Yeah, the quad core constraint has only been a rejection point once or twice. These days it's pretty standard. The absolute constraints with zero flexibility are treble and the bootloader. I can work around the rest in a pinch, but I won't even carry a device without those two points now.
+I run a number of multi-threaded applications and scripts on a regular basis. The extra cores disable themselves when not in use, but the bulk of my battery isn't going into single-threaded processes, so it ends up being a net loss if it's dual- or single-core. Beyond that, I've noticed more issues from background processes when using devices with limited cores, regardless of clock speeds. While most of that is the fault of Google Play Services, until MicroG supports Android Wear properly I can't comfortably make that switch. My current device has eight cores, which is a bit more than makes any significantly measurable difference.
+
+tl;dr: It's not a performance issue, it's primarily battery due to how I personally use my phone.
+If you do decide to, I'd actually like to hear how it goes. If it turns out to be a sign of a defect, that's worth knowing. Either way though, I wish you luck.
+Chances are you'll just have to ask them to clone your phone's caller ID string onto your secondary device. They won't even need to understand what android wear is.
+Can't talk to them directly over the phone? Still, I wish you luck.
+Odd. Still, if you have a sim card, it's the international edition of the watch (aka the one designed for the Chinese market). Afraid I don't know what to suggest beyond asking your carrier directly.
+No idea why, but oh well. Just be careful about it in the future.
+Could be worse. My mandatory list at this point is treble support, (fully) unlockable bootloader, sd card slot, 32GB internal minimum, plastic or metal body (no glass or ceramic due to poor durability), and a number of brand lockouts for security reasons. And some easy/common things, such as NFC, decent BT supporting at least BLE, and at minimum a quad-core CPU.
+
+While replaceable batteries are important to me, I'm willing to accept a phone that requires disassembly to replace the battery, so long as risk of damage to the phone is minimal. I also prefer a waterproof phone, but that's uncommon enough that I can't restrict based on that.
+Agreed. More fun to go back to on odd occasions rather than spam grinding.
+HW2 is preferable to HW1 hands down. Classic is about $100 more than sport with only aesthetic to offer for it, and not an aesthetic I wanted. Other than appearance, classic and sport are the same watch.
+While I can't give you a solution. I can tell you this isn't normal behavior. My HW2S never has any BT connectivity issues whatsoever. WiFi on the watch will only enable itself when BT is turned off. I toggle BT off sometimes for NavMusic's FTP server, but once I turn it back on I still have no connectivity issues.
+
+Not that it's likely to provide any perspective, but my phone is an HTC One A9 running LineageOS.
+
+Worth note, I live in an area with limited 2.4 GHz usage overall. Bluetooth also operates in the 2.4 GHz range, so if you're in a large apartment complex or otherwise congested area, it's possible interference is your problem. Not likely per se, but possible.
+Theoretically might be able to use AutoWear and a scheduled task to force intermittent sensor checks, but I haven't tried that. May give it a go later and see what I see.
+
+EDIT: Best I found based on a five minute check was waking the watch up manually on a timer. Not optimal at all. I'll look into it more later on.
+Your details are completely off base, but the core detail here is still true: full drain and recharge cycles are damaging to a lithium ion compared to sporadic charging whenever convenient.
+HW2 in China has LTE, whereas the US version does not. It may be a holdover from the international edition that wasn't supposed to apply here. That or OP has the international version, in which case it's a carrier issue.
+TL2 is definitely worthwhile. Highly recommend the mod Abysm right off the bat, others will depend on your tastes. There's one to massively expand stash size as well, though I don't remember the name.
+Think of it as a spellcast. Hold weapon, imbue cast into weapon, throw weapon, trigger cast to warp to imbued weapon. Same way the kingsglaive did, and the old wall.
+Now you get bored and quit until next season. (/s... mostly)
+Far as I know, yes, but no one knows when.
+Pretty sure it's [Yuzu](https://en.wikipedia.org/wiki/Citrus_junos). Delicious fruit.
+My favorite, period.
+This is a gaming sub. Half of us don't even know what sport the Vikings are from, nor do we care.
+Probably my favorite quote from him.
+It's significantly more useful than people realize. Especially for early runs. Granted, gotta understand when to use it. Overuse means wasted efficiency.
+I meant skepticism because Chinese emulator devs have a history of source theft, and I'm sure proof is coming if this is yet another case of that.
+https://www.acronymfinder.com/CBT.html
+
+Closed Beta Test, I assume. Though I'm not sure why you wouldn't just say closed beta. CBT isn't a common consumer term.
+...weird thing for a bot to do. Good call though.
+This has no relation to ISO 8601.
+Skepticism high, but I'll definitely have to keep an eye on this one.
+I only use a bow for laziness on my main (all perks maxed) character. My preference is actually modded magic user. I started my main with unmodded magic only, but it drops off hard later on, which is just... disappointing.
+I literally just wrote a watch face build plan for something like this yesterday. You have my attention.
+Bingo. Elevators are bad for my blood pressure in games. Nothing good ever comes from an elevator.
+Some games are better about it. Prince of Persia games usually weren't too obvious about where a fight was going to happen, or how far you'd traverse in the fight. Same goes for most open world games. It generally isn't a relevant tell in turn-based RPGs either, since the fight locale is usually unrelated to the map location.
+If you could bypass it, there would be no point to it.
+It's Florida.
+I think the first thing I ever saw him in was Johnny Mnemonic. This has me wanting to go back and watch that again, just to see how it lives up to nostalgia.
+Agreed on that point. Just trying to make the point that no agency will ever be perfect by any definition. These aren't magical beings. These are humans, with all the flaws. And in being human, they are by no means guaranteed to succeed in the goals we oppose, such as oppression and revocation of privacy.
+I salute your gumption.
+Keepass is entirely offline with no internet involvement whatsoever (other than update checks, which are not automatically installed), which by nature increases its security beyond most options. I highly recommend looking over the specifications yourself, but with widespread plugin support and (third-party) clients for just about every OS and platform around, I can't honestly recommend anything else.
+
+Security relies entirely on your choices. I have an encrypted read-only partition on my phone with around 5000 unique key files each named after a random dictionary word, all of them with identical access/creation times. One of those along with a very long password is required to access my database itself. I may implement OTP or a physical security key at a later date, but as of yet I don't use those. You can manually modify the file encryption algorithm and key derivation function, along with the number of transformations, at any time.
+
+Worth note, you can also store files, implement TOTP (authenticator 2FA codes), emulate pageant, and on keepass2android (my phone's app, which is open source as well) I can connect to my InputStick (USB dongle) via bluetooth (encrypted) to emulate a keyboard and input passwords in any device as needed.
+Well, to a point. -Different- encryption certainly. Kinda depends on how you define stronger.
+Monday's what?
+Ice melt is often potassium chloride (same stuff sold as "lite salt").
+The bug gives you mob kills mixed with the primal's souls. My mimzee was around level 20k.
+
+EDIT: For whatever reason, it seems to count as both mob and boss kills simultaneously for stats/challenges.
+Pretty early. 30 AS. I'm not sure how relevant it would be later on with the current meta.
+
+EDIT: mind you, not being current patch means TP caps hard and you are constantly achieving max reward. Updating to 1.0e10 would probably invalidate the bug's usefulness, but I don't know if they even plan to push that update.
+Ah, yeah, that's overmilking it. You net at least ten primals' worth of souls per second of doing it. Not sure exactly where it caps speed-wise, don't feel like dissecting a recording to figure that much out. Worth note, you're also raking in a significant amount of gold doing that, so it can extend zone access slightly as well (when relevant).
+Having tested it out, I disagree. Used properly (a minute or two at most right as a run is beginning to slow), it can let you gain 10+ ascensions' worth of souls in one ascension.
+
+So yeah, should probably be patched out of the game. Not that there's any multiplayer in the console versions, or any real challenge in getting all the trophies/achievements anyway.
+Ah, I wasn't aware of that if so. I only have a ps4 pro myself.
+Confirmed on PS4 as well.
+Console versions of the game are still on v1.0e9, not 1.0e10.
+A quick and simple one I enjoyed is [Refunct](http://store.steampowered.com/app/406150/Refunct/). Probably half an hour or so.
+>fallible and incompetent
+
+Human.
+Linkme: Devious Dungeon
+Most likely.
+I don't have my scope anymore. Just a super scope with a bare mount. Need to see if anyone sells replacements.
+...yeah, good call. Good luck!
+Ps4 should be able to connect to 5 GHz if you have the setting I mentioned toggled off.
+!reddittrebuchet
+Oh, on your PS4, Settings > Remote Play Connection Settings > Connect Directly with PS Vita/PS TV.
+
+If you turn that on, your PS4 can only use 2.4 GHz. It does let you direct connect for remote play, bypassing the router, but if your area is oversaturated already, you'll get better connection quality from bouncing through the router over 5 GHz on one end than you would from a straight 2.4 GHz WiFi direct setup in my experience. Seems contradictory, but see for yourself.
+Fixing your 5 GHz isn't really a simple answer, or one I can help much with when I'm half asleep. Some routers can't run both simultaneously, so check that first. Otherwise, I'd say just check around your wireless settings in your router and see if you see anything suspect. Do remember that the vita only has 2.4 GHz though (sadly).
+This is my relationship with my coworker. In a fun way. I'm sending this to him now.
+Exactly. I game to have fun. End of story.
+RAMA. Should be available free on archive.org.
+Generally means your router is subpar and needs an upgrade. The RAM and CPU of the router play a massive role in stable connectivity over a LAN. It often also helps to connect the PS4 (or PS3) directly via Ethernet, assuming your router has gigabit (10/100/1000) ports. If you can only connect via 10/100 or 2.4 Ghz on the console end, you'll have a bad time.
+
+Oversaturation of the 2.4 GHz spectrum can cause issues as well, as can microwaves running nearby (which introduce 2.4 GHz noise). [WiFiAnalyzer](https://f-droid.org/app/com.vrem.wifianalyzer) can help you diagnose signal strength issues.
+No.
+If you're old enough to have complications from a swollen prostate, probably better not to. Otherwise, no.
+Purchaser is not in the sudoers file. This incident will be reported.
+Honestly, even being willing to put work you're not proud of up here earns you points.
+She's not running at all.
+Propylene glycol is used frequently as a non-toxic alternative coolant. It's not as efficient, but with how widespread the use is the question still has merit.
+Ew.
+Context? Never even heard of it.
+<brand> pay, all of which are just tap and pay.
+So for those of us using android pay on android wear only, this means... Nothing whatsoever?
+https://i.imgur.com/NzRc0Hu.gif
+Well, I can't say as I'd expect the ACLU to have supported a violation of civil liberties.
+Title translation: "Some other guy just cut this. He told me he sees no issue with his cut and I need to just weld it. Please send help before I commit first degree murder. Hahahaha."
+Technically true, it was relatively accurate, but not precise at all.
+And if you want the normal app with login and everything, just grab iYTBP Vanced. It's a modified apk that enables most of the red features plus some extra tweaks.
+Honestly, I'm more inclined to believe it's just AT&T being AT&T.
+AT&T's "unlimited":
+
+>Plan includes unlimited high-speed data (speeds may slow after 22GB per device per month). After 10GB, hotspot speed slowed to max of 128Kbps. HD video streaming (as available) with Stream Saver turned off. AutoPay discount excludes credit cards. Discount starts within 2 bill periods.
+
+May slow in my experience means will slow. And no, there's no higher cap plan. Best currently available is a 25GB with overage charges. I'm sitting on a grandfathered plan they want me off of.
+Shit, I have devices that still only support WPA and not WPA2.
+Worth noting, some areas do have that available via microwave and I assume satellite. The former is generally more expensive though and the latter has godawful latency.
+That's what they say, but in my experience and generally written plainly in the fine print is that it's actually an exact cap with a heavy throttle past that exact point. There's no "during peak times" conditional attached. You exceed the limit, you crawl until the month resets.
+Private selection "brand" actually does have some pretty goddamn good food. Standard Kroger brand not so much though.
+
+EDIT: Technically mine is a Smith's, which Kroger owns. I assume private selection is a Kroger thing though.
+What's HEB?
+Probably just software/firmware, but that implies the device maintainer will actually bother to push an update.
+Probably supported by dd-wrt. Never tried setting that up.
+I'll take your word for it. I've worked on a relatively limited number of cars and from the ones I'm familiar with, that wasn't my takeaway.
+Ahhh, that would explain it. Thanks.
+I did mean lubrication outside of water itself.
+That depends on the vehicle. And what you define as "on the engine" I suppose.
+Huzzah, strength in... Parity!
+Probably not.
+Wonder if there's any reason it'd specify ethylene glycol and not propylene glycol as well.
+Looks like intake manifold.
+Don't think I've ever seen a liquid cooling system that relied on lubricants.
+Far as I'm aware, [Wearify](https://play.google.com/store/apps/details?id=com.seapip.thomas.wearify) (beta app only) is the only Spotify app that actually plays music on wear (the official one is just media controls), and so far it doesn't seem to support offline music. Regardless of what watch you get, your request there doesn't seem possible.
+
+Having said that, Huawei Watch 2 Sport has been running $180 on amazon and such lately, supports android pay, and works wonderfully in just about every way possible.
+Shit, I've been doing percussive stops all this time. Brakes, who knew?
+/r/patientgamers
+
+Some of us are more patient than others, but all are welcome.
+Best solution I've come up with:
+
+Disable notifications for that app in android wear completely. Not optimal, but I don't see any way to do this from tasker conditionally.
+
+Create a task to generate an AutoWear notification on your AW device to mirror the one on your phone. When you block the notification on your phone, it should apply to both. Otherwise, just disable the cloning task at the same time.
+Nah, you're underselling it. It was at least five.
+If you don't care, it won't.
+With all the other crap the UK government has been pulling lately, I honestly found it surprising to see them on the right side here. Here's hoping it keeps up.
+>The password you enter into a form is plaintext.
+
+Well... Almost always true. While relatively rare, clientside hashing (sometimes with secondary serverside hashing) is still implemented on some sites.
+I feel like I'm the only one here who hasn't had any issues with these.
+And vastly improving society through their efforts.
+It's possible people of that era had a better understanding of general rope mechanics due to it having a much greater relevance in their lives.
+Photobomb level >9000
+Ahh, thanks.
+>amazed
+
+Nauseated?
+NFSMW?
+Really depends on how you define pro, doesn't it?
+...yeah, pretty much.
+Only applicable on the PS4 pro, and it picked what to enhance, it didn't tone down anything to do so. It seems people who had framerate issues were playing on standard PS4s, not pros.
+Ran beautifully on the ps4 pro. They probably optimized for that and just failed to account for the standard ps4.
+Have you used it since it hit v57? It sped up massively.
+Thing is, it really does depend on what you'd use it for. The bigger issue is that while for many people there would genuinely be no interest, not enough people know what they can do, or in many cases that they even exist.
+[Firefox Klar](https://f-droid.org/app/org.mozilla.klar) should be preferred over Focus anyway. Same thing, but with all telemetry disabled.
+Silly man, Microsoft wants your data, not your opinions.
+I just wish to hell that MicroG worked with Android Wear. It's the only thing keeping me from jumping ship.
+For me, I would care more about a foreign government purely because I handle ITAR and similar material on my phone. That's hardly the norm though.
+While I can't answer with absolute certainty if it's never paired with android, it should be able to use android pay independent of a phone. I use it on my HW2S frequently when I can't use android pay on my phone at all.
+I probably just mistook it for another slime mold.
+Huh, never noticed one there.
+Those browsers are slow as hell and you'd be lucky to get even 1ms resolution on timers through them.
+
+EDIT: Slow from the perspective of the type of speeds you'd need for this. The exploit's times occur in microsecond resolution.
+To be fair, consoles also have a controlled environment where this exploit wouldn't have much value, so it probably would just be ignored instead of patched.
+Ah, fair. Misread that as a request for a site ban. I ran into a similar issue dealing with vandals back when I was admin on a popular wikia. It's... Well, a pain in the ass. Not much to be done about it though.
+It's like a wholesome version of Rick and Morty.
+Makes me wonder if any large cloud hosts were running AMD exclusively. They'd be laughing their asses off now if so.
+For good reason. You might be a good mod, but all mods having that power? Reddit would be a graveyard in under 24 hours.
+On the one hand, damn, that's a nice pot of gold.
+
+On another, he just killed a man and we're telling him it was easily worth $32.
+Meltdown doesn't affect AMD. Spectre affects all modern CPU architectures.
+They'd have to recall over a decade's worth of CPUs if so. That's not going to happen. Nor should it, but they -should- honor active warranties over it. They won't, but they should.
+It doesn't need android pay on your phone.
+Expired
+I have at least five theories and I guarantee they're all wrong.
+I'm just surprised my girlfriend actually likes hearing me deconstruct my brain like this.
+This is my life, with or without adderall.
+...helpful. Can you say "play discover weekly on Spotify"?
+To be fair, that actually is the best way  to remove tar from your car without damaging the paint. Just would be stupid to do it from a pump in public rather than in small doses from a gas can in private.
+Not that I've seen so far, but I would love to have wu on my watch.
+Does it do the same if you uninstall play music?
+They shut down the servers. The game can't be played online on any system.
+So it covers brand obfuscation, but not asset theft.
+Garlic ice cream it is.
+You mean you don't clean your cutting boards with 40 grit on a pneumatic orbital sander every time?
+While true, in a pinch I've wet a towel with cold water and dragged it across the grip area on a pan to rapidly cool it before. Do it a few times until it no longer steams as you do, rewetting each time, then use whatever you can to insulate (dry this time) when you move it from point A to point B. Only do that to pans that aren't in fantastic condition though, thermal stress like that will make them bend.
+I do fart a mighty rainbow.
+https://chan.sankakucomplex.com/post/show/6573672/
+
+https://chan.sankakucomplex.com/post/show/6573678/
+!redditgarlic
+Don't care for the steak, but I would absolutely destroy a good fettuccine alfredo right now.
+!redditsilver
+Far as I know, we kicked the alcohol board to the curb when they proved they couldn't do the job.
+/r/NSFWOddlySatisfying
+Back when I was 10-15 or so, I spent a lot of time on DALnet (before it got heavily moderated). At the time, CP was just everywhere. I probably ended up reporting >100 over the span of a few years, and that was almost entirely from people literally sending it to me unsolicited. A few were "prank" videos where I thought I was downloading a music video or similar and got quite a surprise when I opened it. Was also annoying as hell to spend multiple days downloading something on a dialup connection only to find out it was something completely different, so reporting it helped me blow off the aggravation. Honestly, it's surprising how far the state of the internet has progressed. Sorry you had to come across it, but it's pretty unlikely you'll stumble across more these days, so at least there's that.
+If it shows as "true" in your about:config, it's enabled. It's hard to see that it's working directly.
+Haven't ever really seen this mentor issue, sans a few rare assholes. Maybe Lamia has a better mentor community overall.
+Yeah, those specs aren't widely advertised. If you run custom firmware they end up being visible, so you end up being able to see cause and effect rather clearly. Usually if you look around you can find reviews talking about the deeper specs of a router, rather than just advertised numbers and aesthetics.
+AutoVoice should be able to do that.
+Can attest, am currently that tired.
+Yeah, seems it is. And good to know about the 2017 edition. Looks like there's no reason for me to upgrade, but the oversize cell adapters would be handy for some.
+http://www.candlepowerforums.com/vb/showthread.php?418946-Test-Review-of-Charger-GyrFalcon-All-88-(Enova)
+
+Overkill for some people, but I love it to death.
+While I agree with that, x86 and x86_64 are different architectures. Best not to risk spreading misinformation by mistake.
+All x86_64 Intel CPUs, it seems.
+It is defective actually. It currently has a fault causing irreparable (on-chip) security faults and requiring a specially modified operating system (Windows, OSX, and Linux are currently all being modified for this) to run safely. Under the premise of having purchased the CPU for usage with an OS that can't be patched, the error is genuinely unfixable and unacceptable.
+It can't be fixed via microcode, this one's a direct patch to the OSes themselves to bypass the issue as best possible.
+If you still want Intel, estimates are measured in years at the moment due to manufacturing turnaround. AMD is immune to the issue.
+To be fair, we're operating on the assumption they didn't find out about this sooner and just sit on the information.
+https://www.fool.com/investing/2017/12/19/intels-ceo-just-sold-a-lot-of-stock.aspx
+
+Credit to /u/guebja for [his comment](https://www.reddit.com/r/technology/comments/7npcgu/kernel_memory_leaking_intel_processor_design_flaw/ds3mdp6) pointing this out.
+That about sums it up, yeah.
+Not itself, but viruses that open attack vectors for other viruses to abuse aren't unheard of.
+The Intel CEO apparently sold every ounce of stock he legally could, so that's encouraging.
+Love my gyrfalcon All-88 to death. Bit overkill for most people though.
+Which watch? I know I have no issue on my HW2S, but that may mean nothing to you.
+I love stories like this. Can't believe people still exist who think gender, sexual preference, or race have any effect whatsoever on technical skill.
+x86_64, not x86.
+This means a particularly invasive virus could potentially reverse the fix as well, so that's fun.
+Fucking Christ...
+Honestly, I enjoyed all of the Infamous games, without exception. Great series.
+Decentraleyes, noscript, https everywhere, ublock origin, privacy badger. I also have some tweaks to my config, like first party isolation and geo disabled.
+Success over 5ghz usually comes down to the CPU and RAM in your router.
+Rules 1-3.
+Yeah, mostly in servers but also in some low-power devices.
+It's basically indicating all 64-bit Intel processors made in the last decade without exception, as far as anyone is aware.
+x86_64 specifically, not x86.
+Probably would be a relatively simple mod. Just haven't had the time to fix it yet.
+Sega 32x and PlayStation were both 32 bit. N64 was rather obviously 64-bit. Lots of progress in the 90s.
+My TG16 is still my most beloved older console. Sadly my Turbo Express's screen died last year.
+Likewise. Paid with it once, never saw that screen again. Also using the HW2S.
+He only can get through the pictures if they say his name repeatedly though.
+Strict on their budgets.
+Immigrants! That's how they do it, you know. Just drive around listening to raps and shooting all the jobs!
+
+- Malory Archer
+Took me way too long to realize yoship is Yoshi P. Think I'm going to go pass out now.
+Chinese version of HW2 supposedly has LTE, but you'd have to find one.
+My phone doesn't even come close to passing safetynet, but I can use android pay on my watch (hw2s) just fine.
+You actually don't need internet access to use android pay. It'll continue to function for a fixed number of purchases (ten I believe) until the next time it gets to phone home.
+I mean, I get OTA updates weekly on my phone from LineageOS and it's a couple years old. Though I think this model may still be getting official updates too.
+Oh, I have been.
+There are a lot of people like me who just recently snagged the digital deluxe edition with all the DLC included for $30. We don't actually know what the "unfinished" state of the game was. It's just an awesome package at that price. Some of the comments you see praising the game may be as a result of that.
+Neat, thanks for the reply.
+Everything. Knowledge is lovely.
+None. Pretty much nothing can add awkwardness to the shit deal of a retail day.
+Not really understanding how it works from this shot.
+Far as I could tell, the issue with August Ames wasn't her refusal to do a shoot, but rather her then broadcasting to the world that gay men are disease carriers and should be avoided at all costs.
+I've never known a male Leslie. Only female. Also only personally known a female Dana, never a male one.
+"Uhm Ala?"
+
+"Uhm Ala?"
+
+"Uhm Ala?"
+
+"Uhm Ala?"
+
+"Uhm Ala?"
+I can read it clearly. As I said, it's more of a best practice concern than a likely problem. It usually comes up when someone's claiming warranty service, joining a class action lawsuit, or taking advantage of a recall.
+Okay, fair.
+Was just reading into this, they reversed the magnet positions to prevent the watch from even being able to make contact. Pretty sure the voltage regulator in the charger has a different output between HW1 and HW2.
+I'll bite. How does that one charge?
+Apparently there have been sales on amazon and others lately, $180 or so. Just make sure you get the HW2, the HW1 has seemingly been abandoned now.
+Not sure I see what you're referring to offhand.
+
+On an unrelated note, generally it's best to avoid uploading screenshots of device serial numbers. Doesn't often matter, but it can.
+Different strokes for different folks. I overrode the button binding for it and don't use it at all, ever.
+It's not an option, that's just how it works. If your watch is worn correctly, it won't lock until you remove it from your wrist.
+I use my HW2S to pay for damn near everything now. Almost every store and restaurant here supports it.
+
+EDIT: It also works with android pay even when your phone doesn't pass safetynet.
+Nice. Didn't know about this, works like a dream.
+Use bubble cloud launcher (don't have to use the watch face) and override the button action. I don't have this specific watch, so I can't guarantee it will work, but it should and it's easy to try.
+Twist off blenders are a thing? Never seen that.
+I flashed LineageOS on mine on day one. I have weekly updates, never had an issue. Stock may lapse, but the device itself is great.
+Some do, some don't. Really depends on what the kid is taking.
+With medications like adderall, the change it produces can be significant enough that you have to remind yourself regularly that the medication doesn't fix you, it enables you to fix yourself. It can be... A hard thing to remember. And when you don't, it can make matters worse instead.
+
+Source: my life.
+These days I just consider the cost of Sunshine part of buying the phone in the first place.
+It's a lower corner triangular sticker. I've seen that before, don't remember what it said.
+I'll take your word on that one. I didn't start using HTC until after they were freely unlocking bootloaders. Makes sense though, early on not much of anyone liked the idea.
+Going to have to take your word for it. Never actually seen a boot or lived somewhere where they were used. It did look a bit off though.
+HTC is very bootloader friendly. Always has been.
+You mean like using Windows 10? Yeah. Telemetry is a mandatory part of the OS and is used to tailor ads. You can block some via Spybot Anti-Beacon, but blocking all of it isn't that simple.
+Fez. Everything in it. Just... Fez.
+I consider going back to Achaea on odd occasions, and people still pester me to, but after dumping in 10k or so hours across ~20 years, I feel like maybe I don't need to.
+Generally on a site like sankaku rather than the reddit rule34 bot's album.
+[Extremely NSFW](https://imgur.com/a/mK5Ic)
+I think the bigger issue is that in positions with that level of authority, the repercussions of being an asshole are so much greater that it becomes that much more obvious.
+It's almost like you get the same range of people in that job as every other.
+Keepass with the KeeTrayTOTP plugin can handle 2fa codes and Keepass2Android has the plugin's functionality built in.
+The constant brining of the roads destroys them far more than the drivers.
+I actually bought regex buddy because I kept writing ridiculous regex I'd need to tweak a couple months later.
+It's pretty much true anywhere it snows plenty. Though I played it more in northern Nevada than when I was living in Grand Rapids. They kept plowing nonstop in the city, even if it barely mattered.
+
+Also, fuck you Michigan for outlawing chains, cables, and studded tires.
+You merely played the game. He lived it.
+Cheating isn't exclusive to monogamy. Think of it more as "violating the terms of the relationship" instead. It's a sign of a lack of respect, and is very much a valid issue (with a different presentation) in open relationships as well.
+Too lazy to find the relevant xkcd, but there is one and you all have already seen it.
+I keep reading it as Allagan Tomestones of Mediocrity. I think I prefer that name.
+From what I've heard, any 20mm standard will work. Can't confirm beyond what I've heard though.
+/r/Splitview
+You can buy a decent android phone that's carrier unlocked with an unlockable bootloader online for $250 or so if you actually go looking for one.
+We have both liquor and slot machines in gas stations. It doesn't even seem weird to me.
+about:config, geo.enabled = false
+
+
+Ah, okay, that was my assumption, I just wasn't seeing any sign of it other than shape.
+I still don't see the wine.
+Depends on the computer, no way to do the math in any definitive way.
+In Infamous Second Son it's used with directional swipes for opening cages and similar, touch for quest item activation and click for energy drain, etc. It's implemented pretty intelligently.
+
+Have only had my PS4 for about a month, so not sure about other games implementing it yet. FFXV has been consuming my life for a week or two.
+I remember playing a game that made you switch your left hand between the middle and left fins regularly, but I can't remember for the life of me what it was now. I don't think I ever saw any game require moving your right hand to middle.
+Silent Hill 2 was the game that made me come to respect pressure sensitive buttons. Light press for light attack, hard press for a slow overhead smash.
+http://borderlands.wikia.com/wiki/Rapier
+As a man, I find any nudity taboo somewhat ridiculous. Still, we live in a society where going from clothed to freely naked isn't a straight line.
+Oh, I completely understand that, but then there's OnTrac.
+Well that's good at least.
+That's borderline fap material right there.
+It is though. Look into it. While the concept may be nice, the execution isn't feasible.
+I dropped it on my girlfriend's face a couple times. I ended up buying a pop toggle just to keep that from happening again.
+As a man who actually has the beard to pull it off?
+
+No.
+And here I was thinking it was slow considering the mass involved. Probably 15-20F.
+So you want to emulate the entire AndroidWear OS as a widget on your phone?
+
+This won't go the way you want it to.
+I've been considering installing security cameras outside the house to prove this shit.
+Long as it's for a contest and not everyday use, all's fair.
+What's a disc?
+Shit, I've had use for lights like that just driving what passes for a road around here before.
+Yeah, that's not normal. In the realm of "ask a doctor" even.
+Well... That's shitty.
+We all have our moments.
+To be fair, there's nothing wrong with disliking a flavor. That's not the issue at hand though. It's a bit like the difference between a vegetarian who simply doesn't eat meat and a vegetarian who starts shouting about murder in a public restaurant. Only one of them is a terrible person.
+I never thought I'd see wholesome hollow earth theory. I'm genuinely impressed.
+Man you guys are all bitter.
+Emphasis was on old, not mechanical.
+If you're curious, you can just try various types first instead of gambling on a full keyboard.
+
+Akwox 9-Key Cherry MX Switch Tester, Keycap puller, keyboard Keycap, O-Ring Sampler Tester Kit https://www.amazon.com/dp/B01GZHU1EG/
+Papa Murphy's is take and bake, and rather high quality at that. Papa John's is just shitty standard pizza.
+Far as I heard he just didn't want to risk being type-cast for the rest of his life based on the role, which is a fair concern.
+"My stallions..."
+Ah, one of the infamous space subs. I never did visit any of them to find out what they were, and now I feel good about that choice.
+If you're a bit more tech-savvy, I suggest keepass. Can be slightly less user friendly than the others, but it's all handled in a local database and there's no chance of a breach as long as you handle security properly. Also has fantastic plugin support, including being able to take the place of things like google authenticator via KeeTrayTOTP or Pageant (SSH auth agent) via KeeAgent.
+
+I also use keepass2android on my phone, works beautifully.
+This is the plot of a couple games, but telling you which games would be a huge spoiler (no, not Undertale).
+
+Was funny though. Betray cute girl. Shit goes sideways. Reload. Try to reverse decision, cute girl remembers and kills your ass for it.
+It needed tips? I just saved and went on a massacre killing everyone in every city in a row.
+I grabbed an unlimited conjuration mod once upon a time, summoned 40 or so thralls of various types, then spawned 20 or so ebony warriors and popped a blizzard.
+
+I regret nothing.
+Could be a response to the [infrasound](https://en.wikipedia.org/wiki/Infrasound) used in horror movies to trigger the feeling of dread.
+Thanks for the info!
+I hope one day we move to public key authentication for social security. Would be able to effectively give your number to anyone without them being able to use it themselves.
+It may not be. I don't actually have the watch just yet, so that may indeed be all I need. Would be damned nice if so.
+As a large straight man, I now want to catch the bouquet just so I can inform the garter catcher of this.
+As a migraine sufferer who has never successfully pinned down his triggers, fuck anyone who questions what you know about your migraines. People who don't get migraines don't understand that nothing in the world is worth 18 hours solid of clutching a pillow around your head and weeping into it in pain. No, a migraine is not just "a worse headache".
+I've had good luck just saying "I can't digest meat". Immediately conveys that I have an irreconcilable stomach issue without providing details of the consequences of testing it. Very rarely does anyone raise exception to it, and I don't think I've ever had a server question it. I have had a couple instances of people not using their brains (yes, adding bacon to refried beans does make them contain meat, who knew?), but that'll happen regardless of what's at stake.
+I'm in a similar boat due to [Fructose Malabsorption](https://en.wikipedia.org/wiki/Fructose_malabsorption). High Fructose Corn Syrup wrecks me. Interestingly I've found massive increases in fiber consumption can help, but only to the point where fiber causes the same problem I was taking it to fix.
+I buy albums on occasion so I can do FLAC rips of them. If SACD hadn't died horribly I would buy more. Surround music is awesome.
+Around here, not every door will even have a lock, much less use it. Some areas just don't see any significant crime rates.
+Nice. Just wish it let you flag revealed keys as used or not used too.
+Thanks for the reply. I do think the first one is a bug you're experiencing though. I've never once had that problem. The rest seems quite plausible.
+Such as? Can't honestly think of any.
+Having lived most of my life in Nevada, [blue laws](https://en.wikipedia.org/wiki/Blue_law) just seem weird.
+My condolences from Nevada, where bars don't close and liquor can be purchased any hour of any day.
+Not even vaguely. I took him on around 200 and he was a joke.
+Terrible place to drink, but despite being unable to sell half of it in the state, they brew some lovely stuff there.
+Even if prohibited, it's fascinating to know the technical side of it.
+[Think it's 251 actually, though I have one extra for a mod.](https://steamuserimages-a.akamaihd.net/ugc/269465232494909263/8054F25C512A9A28F22AC48524998356BD15462D/)
+I snagged the digital deluxe edition last month for $30. Been playing it nonstop for a week or so. I feel like I hit a goldmine. So yeah, I'm pretty happy.
+Worth noting that there's a noodlecake humble up right now as well.
+
+https://www.humblebundle.com/mobile/noodlecake-indie-hits-mobile-bundle
+Third party vendors were mass unlocking phones, loading spyware-ridden ROMs that were often unstable onto then, then reselling them as Xiaomi without any mention of the ROM change. This makes it -very- difficult to unlock more than a couple phones, which helps cut down on user abuse and degradation of their brand.
+
+It's inconvenient, but I understand and respect the rationale.
+I just have a userscript to kill that on Pinterest. I'm sure if reddit goes the same route, someone will maintain one for reddit too.
+That's generous.
+I agree it's more likely it was done by Comcast and such, but it was done with direct backend access provided by the FCC explicitly provided for that purpose. It's worth noting that the current administration has a lot of interest in the death of net neutrality though. It's not really about being able to bleed you for more money, it's about being able to control what media everyone sees. Don't like the honesty coming out of a network? Oh no! Now that's a premium package, or worse, now that site just starts having minor issues when you try to connect to it. Inconvenience people enough to make them switch to a news site with more "friendly" articles. It starts minor, but the goal is complete information control of the masses. Pay attention to the other moves the FCC has made lately. Allowing corporations to remove all local stations for radio broadcasts in favor of unified transmissions from the corporate body, for instance.
+Found a good one decades ago, will never change. A good mechanic is a mechanic for life. Shout out to Bill at Brake and Alignment Plus in Carson City. (Sincerely doubt he'd ever see that though)
+You benefit from the plan next year, but each year you get less until it passes the point where you're actually paying more. As I recall, the shift is over a ten year period, and at the end of ten years you'll be doing -much- worse than you are now.
+Glad I wasn't the only one. PoE will always be Path of Exile. Was really confused about why they would even make a sequel though. The game's style doesn't really necessitate sequels over expansions.
+Back in ye olden days I had a program called Divine Intervention III that I kept on a floppy for that sort of thing. I didn't know jack at the time, but it had convenient buttons for different attack types. Don't think I ever used it properly, to be honest. Not even sure if it worked. It's very plausible that some idiot kid had the same sort of thing though.
+I have zero interest, but I respect this rationale.
+Anyone else notice the text under it?
+
+>Download
+Hard drive Data Recovery Services, Recover lost data
+
+>Related:
+Mesothelioma Law Firm,
+Sell Annuity Payment,
+Donate Your Car for Kids,
+Online Motor Insurance Quotes,
+Car Accident Lawyers,
+Car Insurance Companies,
+Means you signed it with your key. Like an actual signature, it verifies that you are the one who sent the message. Unsigned, the message is definitely for me, but could be from anyone. Signed, the message is distinctly from you to me.
+That worked perfectly. Encrypted but not signed, "Test this is a test"
+Butter works better.
+Passing random crappy white bread off as sourdough. Sourdough is distinct and unmistakable. If I have to stop and think about what kind of bread I'm eating, it isn't sourdough. I think Panera is the only place I ever found decent sourdough outside the west coast of the US.
+McDonalds is, subway isn't.
+Yeah, this all looks fantastic. Can't come soon enough.
+Go find your XDA lineage thread for your device and ask them. They would know, we wouldn't.
+Yeah, that sounds like Michigan. There's a reason I moved.
+I feel like we need a sub for failed terrorist attacks. That would be comedy gold.
+Fucking nailed it.
+I have no idea what you mean. I linked a plugin for keepass users to auto-scan your database for known breaches and notify you. There was no breach of keepass, and frankly there couldn't be one anyway. Keepass has no central server it operates from.
+You should, yes. Even still, individual breaches happen all the time with minimal notice and that plugin provides a good way to check against them effortlessly. It filters by breach date and last entry update so you can only get notices for new breaches.
+It's trustworthy. It doesn't touch your passwords. You can look the source over if you'd like, or even wireshark snoop it in action.
+For anyone using keepass:
+
+https://github.com/andrew-schofield/keepass2-haveibeenpwned/
+
+EDIT: No, I'm not saying keepass had a leak. Keepass can't even have a leak. This is a plugin to allow you to check entries in bulk while accounting for last update dates.
+Normal coke I agree with for that one. Hate it. Diet I've never really noticed that.
+Depends on the metal, the liquid itself, and the duty cycle. I can probably run a titanium coil on pure VG (no nic) for a year or so, whereas a kanthal coil on a standard sweet juice might last a week.
+FECK! ARSE! GIRLS!
+Hairspray here. Don't even remember why. Fucking kids man.
+Fuel pumps in tanks are -very- well insulated to prevent a spark in the tank.
+Mechanical pumps were still being used in some cars into the 90s.
+When I was 9 years old, a flood ripped my house in half and took it about eight miles downriver. As a result, my family of four ended up living in an 18-foot travel trailer for a year or so while my parents' "dream" house (somewhat of nightmare at that point) was still being built.
+
+Well, this is in northern Nevada, which means windstorms can be brutal. Sure enough, a massive thunderstorm with 80 mph winds rolls in and makes that trailer a nightmare. As my mother is clutching me and trying to calm me, she says the stereotypical "don't worry, it's going to be all right" and without even realizing what I'd said I instantly responded "you said that about the flood." Those words haunted her for years. She laughs about it now, but damn.
+Been using the same name since [heat.net](https://en.wikipedia.org/wiki/SegaSoft#Heat.net) was around, would be weird and rather undesirable to change it now.
+There are two teams on that field.
+"10/10 Satan emulation"
+Same on reddit is fun.
+Robert Kahn and Vinton Cerf, the two most significant contributors to its existence, disagree:
+
+>Al Gore was the first political leader to recognize the importance of the Internet and to promote and support its development.
+
+>No one person or even small group of persons exclusively “invented” the Internet. It is the result of many years of ongoing collaboration among people in government and the university community. But as the two people who designed the basic architecture and the core protocols that make the Internet work, we would like to acknowledge VP Gore’s contributions as a Congressman, Senator and as Vice President. No other elected official, to our knowledge, has made a greater contribution over a longer period of time.
+
+>Last year the Vice President made a straightforward statement on his role. He said: “During my service in the United States Congress I took the initiative in creating the Internet.” We don’t think, as some people have argued, that Gore intended to claim he “invented” the Internet. Moreover, there is no question in our minds that while serving as Senator, Gore’s initiatives had a significant and beneficial effect on the still-evolving Internet. The fact of the matter is that Gore was talking about and promoting the Internet long before most people were listening. We feel it is timely to offer our perspective.
+
+>As far back as the 1970s Congressman Gore promoted the idea of high speed telecommunications as an engine for both economic growth and the improvement of our educational system. He was the first elected official to grasp the potential of computer communications to have a broader impact than just improving the conduct of science and scholarship. Though easily forgotten, now, at the time this was an unproven and controversial concept. Our work on the Internet started in 1973 and was based on even earlier work that took place in the mid-late 1960s. But the Internet, as we know it today, was not deployed until 1983. When the Internet was still in the early stages of its deployment, Congressman Gore provided intellectual leadership by helping create the vision of the potential benefits of high speed computing and communication. As an example, he sponsored hearings on how advanced technologies might be put to use in areas like coordinating the response of government agencies to natural disasters and other crises.
+
+>As a Senator in the 1980s Gore urged government agencies to consolidate what at the time were several dozen different and unconnected networks into an “Interagency Network.” Working in a bi-partisan manner with officials in Ronald Reagan and George Bush’s administrations, Gore secured the passage of the High Performance Computing and Communications Act in 1991. This “Gore Act” supported the National Research and Education Network (NREN) initiative that became one of the major vehicles for the spread of the Internet beyond the field of computer science.
+
+>As Vice President Gore promoted building the Internet both up and out, as well as releasing the Internet from the control of the government agencies that spawned it. He served as the major administration proponent for continued investment in advanced computing and networking and private sector initiatives such as Net Day. He was and is a strong proponent of extending access to the network to schools and libraries. Today, approximately 95% of our nation’s schools are on the Internet. Gore provided much-needed political support for the speedy privatization of the Internet when the time arrived for it to become a commercially-driven operation.
+
+>There are many factors that have contributed to the Internet’s rapid growth since the later 1980s, not the least of which has been political support for its privatization and continued support for research in advanced networking technology. No one in public life has been more intellectually engaged in helping to create the climate for a thriving Internet than the Vice President. Gore has been a clear champion of this effort, both in the councils of government and with the public at large.
+
+>The Vice President deserves credit for his early recognition of the value of high speed computing and communication and for his long-term and consistent articulation of the potential value of the Internet to American citizens and industry and, indeed, to the rest of the world.
+Microwave is more common than fios. Never hurts to look.
+If you're in a mountainous region, try looking into local microwave companies. They're available in more regions than people realize and only require line of sight to a hub. Respectable speeds too.
+>Do you go to the Playstation subreddit and shout /r/hailcorporate everytime someone posts about a sale on related products?
+
+Don't joke, I've seen this happen.
+Canada usually has pretty dry snow, so that generally wouldn't be a concern. Think about ball packing slush and you might be able to figure out the issue in slightly warmer regions though.
+Depends on region and temperature basically. If the snow is dry enough, pack it tight and have fun. The wetter the snow, the looser the pack has to be to keep it safe.
+>* Android Wear - just won't work without Google Play Services. I'm looking into [AsteroidOS](https://asteroidos.org/) as an alternative.
+
+That's the only thing between me and MicroG. Sadly, AsteroidOS doesn't look relevant to my interests in this case, and it's in no way still an android wear device if you go that route.
+Worth noting that free in this context is more about freedom than price.
+The bot isn't criticizing you. It's just helping people like me out. Direct link means I can still open it with the now-abandoned Opengur instead of the more annoying Imgur app.
+If not, you can always switch your text messaging app to something like [Silence](https://f-droid.org/app/org.smssecure.smssecure) as well.
+Per the [wikipedia entry](https://en.wikipedia.org/wiki/QR_code) almost 24 years old, and they've been fairly commonplace for at least ten or so. Some people just don't keep up with technology.
+You think that's bad, I have an NFC tag for the one at my workplace. You know how few people even know what NFC is?
+I was just going to assume he's a jaded dick, but that works too I suppose.
+
+EDIT: Check his post history, he's just a remarkable dick.
+I have a stye right now. My eye is literally throbbing with sympathy pain.
+Can confirm, saw comment before clicking link, was terrified.
+Not a lineage issue. Probably means you had an emergency broadcast type enabled that they didn't. It's sent by the carrier.
+Reddit for porn. Reddit for everything else.
+Note: as others said, flash opengapps and you're good, but make sure you flash it at the same time you flash your ROM. It won't work properly if you flash it later.
+I can smell it just reading that. Acrid.
+I mix them. I do have a tasker task set to toggle their visibility on and off based on if I'm working or not though.
+Borosilicate is impermeable to UV.
+They can look at me creepy all they want. I was a teen once and that was relevant information to know for your own protection.
+What series vita? Never saw this on my 1000.
+19*
+https://en.wikipedia.org/wiki/Ages_of_consent_in_North_America
+
+16 is the most common.
+Or get holders with borosilicate windows.
+Soon as they have Android Wear support, I'll be happy to jump ship.
+Dunno why people downvote for this question. No game will ever exist that appeals to every gamer. Even hardcore gamers won't recognize things like this from games they never cared about in the first place.
+Even arcticfox can't make a wismec TC reliable, it can only help so much. You can work with it if you understand the flaws of the board itself, but it's not optimal.
+No. Even across a 1000 degree range the resistance change is unmeasurable without highly sensitive and large/heavy/expensive lab equipment. Kanthal TC would require a non-resistance heat measurement method, such as a contact thermocouple or an IR sensor embedded in the tank.
+Holy shit, someone has heard of Wild 9.
+To be fair, there are PS3 and Vita players here too, and online for those platforms does not require Plus.
+Because people either don't understand it or don't have a mod that works well with it.
+Theoretically you can use nichrome for TC with a -good- mod, such as a DNA. I wouldn't trust it on anything rocky though.
+Kanthal doesn't work for TC because change in resistance is how TC mods work and Kanthal's resistance doesn't change measurably.
+Finnicky temp control generally means your mod has poor TC. What are you using?
+316L is the low-carbon variant of 316. It's slightly less reactive to organic compounds, so theoretically you'll see better coil life and easier cleaning with 316L.
+That's a bit big admittedly. Not sure I do know where to look for that one.
+My FC has plot 1. Time to start a new afk habit.
+I prefer just using borosilicate jars for my tea. Clear, shows off the tea itself, but isn't permeable to UV.
+For me, the one and only thing keeping me from going to microG is that apparently Android Wear can't be used with it yet. Rather a specific issue, but you did say you wanted that.
+[Whataboutism](https://en.wikipedia.org/wiki/Whataboutism)
+[It's a flexible metal that has an elastic memory.](https://en.wikipedia.org/wiki/Nickel_titanium)
+That's actually an interesting question, but I'd think it would be the other way around. Crotch shots would load significantly less often, turning them into the object of desire, the dialup porn aficionado's white whale. 
+So glad I never saw that before having deconstructed half the game trying to create gameshark cheats. I would have done it all.
+You got it backward. Our noodly savior was first, Jesus was made in His image.
+Hmm... Surely clicking this won't do anything malicious...
+Silicone lubricant is glorious. Extra slippery and doesn't dry out. Just be sure you don't use it with any silicone toys. Some branded polymers use silicone and will have issues as well, just search for compatibility online if you need to.
+Generally, but not when it's specifically done to piss someone off. Almost anything can be unkind given the right context. Aiming for that context is by nature unkind.
+As a liberal who doesn't see eye to eye with republicans on much of anything, have you tried just being kind to them? Sowing discontent hurts progress, it doesn't help anyone.
+Every country has their pros and cons. Some are weighted heavily toward one side or another, but no one has it "right".
+!redditsilver
+Mary Skelter: Nightmares is a good option in the same category.
+Really, science good when you actually think about how it's being applied in advance.
+Depends on the state/country and the weight of the animal. Having said that, even in locations where it's "legal", it can be branded as animal abuse.
+I hope you mean plastic glitter, as opposed to just stopping use of plastics in general. Both thermoplastics and thermosets are necessary parts of everyday life now, and attempting to remove them from use would cause a lot more problems than it solves.
+Based on a quick search, not much of sub-zero at all, but there's some of her and Jack from Rise of the Guardians.
+/r/shitty_ecr
+Knowing what it is has no relation to knowing the weaponry from it though. I didn't personally care for the game, so I have no memory of the weapons or enemies. There's no reason for me to know what they are.
+Ah, thanks. People really need to state these things.
+Can't help you with the why, but [Kill Camera](https://f-droid.org/app/info.aario.killcamera) may help you in the meantime.
+When I was still a teen I had fantastic night vision and wouldn't realize my lights needed to be on. I got over that.
+I have a download list with thousands of entries. Finding anything is a nightmare. They really need to provide a better interface. Alphabetical, a search function... Anything would be better.
+Yup. The concept is simple, but the implementation isn't cheap. I've considered building one myself, but my workplace didn't quite approve of that idea.
+Shit, I can't even get a thermocouple welder for $1500.
+I disagree with the inclusion of paper inside chocolate. I reserve the right to bite through all mice simultaneously.
+Some stomach/esophageal blood. The water floated it up to where I could taste it.
+I had issues drinking plain water because a medical condition meant I'd end up tasting blood when I drank it. Turns out that doesn't apply to carbonated water though, so I rigged up [this](http://i.imgur.com/Mtjhb4d.jpg). Works well for me.
+Half the reason I'm a fan of HTC is because they're friendly with unlocks.
+Your name just gave me flashbacks of getting wrecked hard because I missed too many gems.
+Romancing SaGa: Minstrel Song, Magna Carta: Tears of Blood, or Legend of Legaia remastered for the vita or ps4.
+True hidden gems... That's a hard one. Let's see what I can remember.
+
+SNES: Brain Lord
+
+TG16: Splatterhouse, Bonk's Adventure (not hidden for the platform, but the platform itself is a bit of a hidden gem)
+
+NeoGeo: Twinklestar Sprites
+
+I'll try to think of others.
+Ahh, okay. I saw that back when I played PWI, but I didn't think it'd become commonplace. Definitely not something I'd want showing up in proper MMOs.
+As someone who only plays MMOs on PC... What is auto-questing?
+...?
+It's still called "Fedora", it can't be that old.
+Lived in Michigan for a couple years, can confirm, parts were literally rusting off my car.
+It took me longer than I care to admit to figure out that wasn't the joke.
+For anyone unaware, it's a "fuck you Pai" as a comment on net neutrality.
+All I know is people say you -need- root. I can't comment further as I have no personal experience with this. Good luck though.
+We were talking about telemetry. Location used for a map doesn't qualify.
+They want to. I don't know personally if they can at a national level, but I know it's on the agenda.
+The FCC is pushing to ban states from having the abilities you suggest. This stops at the top or it won't stop at all.
+Hm. I'll have to check. Thanks for the heads up.
+With ads and IAP? Hard pass.
+Sometimes being privacy focused really is disappointing. Would be fun to play with this. Still, values are values.
+If they ever port Minstrel Song I will actually buy that shit day 1.
+Surprised it's somewhere you have to worry about snow buildup. Must be a damn strong statue.
+I didn't even realize paranautical activity made it off steam. I'm tempted.
+I always upvote HTCPCP.
+Odd. Had my vita half a decade and never seen this happen. Good reminder to back up my saves though.
+Really, credit to op for recognizing that. It wouldn't even occur to me that profanity is worth flagging.
+There are far more lurkers than you seem to realize, and while persuading them to do something like contact representatives can be a real pain, clicking an upvote arrow is simple and makes them feel better about not doing more. Everyone wants net neutrality to survive, they just don't all want to actually fight for it.
+
+So yes, I fully believe this reaction is entirely real. This is how reddit feels. And how imgur feels. And so many more websites.
+"Running root 24/7"
+
+You mean retaining root access on demand, or do you mean the excessively old practice of rooting the phone without a root manager at all?
+>It's also frustrating as a developer when instead of bug reports detailing exactly what went wrong, we get "you're spying on me".
+
+When you leave telemetry off by default, detail exactly what it would share and how it is used, and only request it when needed for debugging, no one ever uses that line. Hell, just leaving it off by default is a massive confidence booster.
+This isn't even political at this point. It's a blatant attack on freedom of communication and an attempt to control what we do and what we see. The whole point is bolstering corporate interests, and that includes a number of interests that go against the purpose of this sub. It might not be normal, but it -is- relevant.
+Him being a flaming thundercunt has nothing to do with his ethnicity. He became a shithead all on his own.
+Unfortunately I don't believe so. The new UI isn't perfect, but I like the access it provides. Thing is, none of that access works. Trusted objects remain blocked, scripts don't run, etc. Not sure how, but I think my old configuration still being present is breaking it. I need a reset switch.
+
+EDIT: yeah, I quite like it on other computers. It's straight up broken on mine. Oh well.
+Very rarely a small local ISP will be available to provide that sort of service. I have that option where I am, but almost no one in the US does. They are always stuck fighting tooth and nail just to exist. Legislations exist to prevent them even installing their own lines, and in many regions the types of lines they can legally be guaranteed access to are limited and have no mandate of upkeep. Lately, some of those guarantees have been repealed as well.
+
+To put it simply, it's a shitfest and no one benevolent can move in on established territory.
+Somehow you replied to the wrong comment.
+While grams are technically a measure of mass, you're measuring the force of that mass against a scale. Even though the readout may provide the result in kilograms, what's being measured is the weight, not the mass. Consider this: if the elevator was moved from some office building at sea level to a ski resort at an elevation of 10,000 feet, would it still measure the exact same mass as being exactly the same?
+Chairs and exercise equipment. But otherwise, yeah, completely agree.
+It's useful in elevators often used for carrying objects rather than people. Not all locations have service elevators.
+I'm having a lot of problems with it. Think it's broken, but that's the button.
+The asphalt was heavily iced over. Pain in the ass to stabilize on, but fine on the skis.
+Yeah, it looks more like 4mm based on picture.
+Unfortunately this is horribly broken for me at the moment. Literally everything is being blocked, with no allowances making any difference. I'm somewhat tempted to manually wipe the noscript settings in about:config, but with no import and export option that could be an irreversible choice. Oof.
+Right side of the trusted button is a temp allow. Looks like a stopwatch.
+The highest I've logged on a single non-online game is 450 hours on Borderlands 2. This comes from someone who has spent 3500 hours a year gaming before. Even for online games, I've only played a few in the last couple decades worth 900+ hours (granted, some have hit 2000+ hours, and one MUD hit 8500 hours over around 15 years). Battlefront would unquestionably not be one of them, and that is definitely not the norm for gamers anyway.
+Soda lime pyrex isn't oven safe. Borosilicate pyrex is. Gotta check markings on the dishes. It won't say what it's made of, but it will say oven safe I believe.
+Try tweaking settings in the graphics section. Preferably after making a game-specific configuration so you don't mess up your other games. Rendering mode specifically is an important one. Just make sure you test from a fresh game start. Tweaks on a running game don't always represent well.
+It's not exaggerated. If you don't have to touch it to start urinating and you've recently had an orgasm without a followup piss break, this is the result. >90 degree split in the stream.
+Preview images save me again.
+I've never actually seen a bag of milk.
+I want one.
+It's a lid from a milk bottle.
+No.
+Bingo. It's not his truck, thus he's destroying someone else's property.

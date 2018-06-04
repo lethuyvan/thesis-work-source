@@ -1,0 +1,1415 @@
+It's such a beautiful day, by Don Hertzfeldt.
+And then there's /r/RaisedByNarcissists.
+It was popular before that. I think it was a really old Japanese video that made it around a lot of humor sites in the 00's that originally sparked it. Idk if I could recognize the original anymore.
+But then how else would people know it's for *gamers*.
+Best solution I've tried so far. Lot of other ones have way too much latency for voice chatting about the on-screen action or crap quality. I'm really disappointed that Steam broadcasting has such a huge delay.
+It's good for applications and stuff where the contents of the screen doesn't change too much too often but it totally falls apart for games and full motion video. It's not designed for that.
+Seriously, I upgraded to a 1060 not long ago and I'm still blown away at what spoiled PC gamers call "mid range" these days. I feel like a peasant for being happy with 1080p60 sometimes.
+CurseForge client makes it pretty easy once you learn how to manage that.
+[Here's my notes from the first game.](http://i.imgur.com/H8l5Q.jpg)
+I think [Mark Brown](https://www.youtube.com/watch?v=w1_zmx-wU0U) does the best job of articulating what makes ZachTronics games so satisfying to some people.
+
+TL;DR: *Inventing* your own solution to a *problem* is more rewarding than *discovering* the solution to a *puzzle*.
+Someone threatening to jump to their death.
+Getting as many looks as my boyfriend while standing next to him. Also getting more looks *from* my boyfriend.
+Looked like the cables weren't completely tight yet and they still had some momentum heading away from the ISS when he let go. From Bullock's view it looked like he flew off at that point but it was probably the cables suddenly decelerating her much more quickly due to the decreased mass on the end and running out of slack, while Clooney continued drifting at the same speed as just before he let go.
+
+I think the only problem with this scene is that the camera work didn't do enough to illustrate what was going on.
+[Volume 1](https://e621.net/pool/show/933)
+
+[Side comic: Summers Gone](https://e621.net/pool/show/13092)
+
+[Volume 2](https://e621.net/pool/show/13890)
+
+[The Internship](https://inkbunny.net/poolview_process.php?pool_id=38540) by Jackaloo.
+
+The page edited by OP is still Patreon exclusive.
+/r/ShittyHDR
+You don't need a high speed camera to measure how many frames the game takes to process input. Pause the game using RetroArch's pause hotkey, and then while holding an action button, use the "frame advance" hotkey. Count how many times you have to press frame advance for your character to start responding. That should give you the ideal number of frames for the runahead setting.
+
+By the way, when you refer to animations skipping frames, what setting was that happening on? Just 2 or higher? Or even 1?
+Did you actually measure the internal input delay of Ninja Gaiden? This varies from game to game and sometimes it's zero, especially on the NES. RetroArch's new runahead feature will cause the kinds of problems you're describing if you set the number of runahead frames higher than the game's delay. If the game doesn't have any internal input delay then this feature won't accomplish anything useful.
+Don't feel bad. The mods there delete fucking everything.
+>"We need to develop one universal standard to cover everyone's use cases."
+
+I wish that's what they were actually thinking.
+[They interviewed her too.](http://nymag.com/selectall/2018/04/ellen-pao-reddit-ceo-interview.html)
+Same here. I love how scaleable it is too. Looks great on a top of the line GPU but also plays fine on a potato.
+That depends on how often you want to update. Keeping up with the latest version was way more expensive with the standalone licence.
+What makes you think I wouldn't say this in public?
+Would you have used the same version of Photoshop for 15 years? I think even a few updates would put you over $1800 in that period.
+I'm sorry, is there not enough decent free porn on the internet for you? Did you watch it all already?
+iTunes and Google Play Music both give you DRM free files if you purchase an album outright. I can see why the subscription service is unfortunately more DRM encumbered.
+Oh yeah my piracy of music, TV and movies have all decreased significantly with the emergence of decent online subscription services.
+The romanticism is certainly annoying but I'm glad at least that there's a much more open dialogue now. It's less taboo and more widely acknowledged, and for people who genuinely suffer from poor mental health that's somewhat relieving.
+How many home users do you think actually bought Photoshop when it was about $1000 up front? Sure you can still pirate it if you're so inclined but for many who are willing to pay a *reasonable* amount, the idea of obtaining it legitimately is no longer completely out of the question.
+
+I've pirated all kinds of absurdly expensive stuff in the past but I tend to come around once the price is within my reach.
+[Found it.](http://iguanamouth.tumblr.com/post/172982898552/part-two-of-this-thing-almost-a-year)
+Beast Boy please.
+"Yes, and they belong in a cell."
+
+- State Attorney
+Synergy, a co-op mod for the Half-Life 2 series. Playing through that for the first time back in high school was a blast.
+You mean black and blue tiger?
+If you'd like a moody, atmospheric sidescrolling puzzle platformer then check out [LIMBO](https://www.youtube.com/watch?v=Y4HSyVXKYz8) and [INSIDE](https://www.youtube.com/watch?v=z6HO9uftlxE).
+Fair enough. My original point was just that you've got plenty of options for emulation.
+Running them on PC or Pi is almost equally miserable... if you don't have a gamepad. You're gonna need one of those no matter what you play on so it seems pointless to single out phones, assuming the controls are what you're complaining about.
+http://knowyourmeme.com/memes/loss
+http://knowyourmeme.com/memes/loss
+Any device that can access reddit can run emulators.
+They have to use a substance approved by the FDA for medical use and nobody gives enough of a crap to go through the process of getting nitrogen approved as a drug. It would be difficult too because they aren't interested in approving anything for the sole purpose of killing. Every drug currently used for euthanasia and execution has other uses. That and there's too much bloodlust in the justice system. People wouldn't be satisfied with more humane execution methods. Part of the reason lethal injection is used is for the spectacle.
+Oh good, next time I hear someone say "You have to love yourself before someone else can love you." about depressed and lonely LGBT youth I can just share this study instead of punching them in the mouth.
+I've used it a dozen times with two different post offices. Never had a hint of trouble.
+The C comes right before the **C**hopsticks and the F comes right before the **F**ork. That's how I remember it.
+I'm joking that leeching should be illegal.
+Which should be illegal but not because of the copyright violation.
+
+(for those who missed the joke I was saying seeding is fine but leeching should be illegal)
+At least verysmarts can kind of qualify as geeks. Usually it's just people who think they're geeks because they love Netflix or read one book in the last year.
+Bad example, Arin is just that unobservant and impatient.
+I consider half of it a stellar game.
+The difference now is that we're trying to actually display that dynamic range in its true form rather than just rendering in HDR behind the scenes but tonemapping it down before displaying it.
+
+You can be easily forgiven for the confusion since "HDR" as a tech buzzword has meant at least three totally different things in the last decade.
+Every time a large Q&A sub splinters off into a smaller one it ends up completely sucking due to lack of traffic, even when the mods of the larger sub aggressively redirect people there. It effectively just makes it impossible to have certain questions answered on reddit at all.
+They call 911 for reasons not directly related to the player sometimes, but you'll still hear it. Like gang violence or NPC's accidentally getting hurt somehow. If you stick around you'll see that the police ignore you.
+I'd love to see one about the career of Jack Thompson. (the nutjob lawyer who regularly made headlines in his crusade against video games during the 00's)
+Not really. It's incredibly common and doesn't noticeably affect most people.
+You're not wrong. One must be at least a little bit of a geek to engage with your fandom to the fullest.
+I really wish they'd implement something in between Blueprints and C++ because I hate both. Like Python or C# or something, or even something more constrained like Lua as an option. C# is one of the main reasons I'm a Unity guy.
+The balloon thing was fun, there just needs to be way more kinds of spontaneous challenges like that.
+Oh I see. I think I did misunderstand your comment.
+Thank you.
+["In the coldest part of the last ice age, Earth's average temperature was 4.5°C below the 20th century norm."](https://xkcd.com/1379/) Average global temperature doesn't have much room for variance without becoming a problem. [Here's even more context.](https://xkcd.com/1732/) (note that huge seeing
+swing at the bottom) Courtesy of Randall Munroe.
+I don't think proponents of the legend interpretation are saying that it's the one intended by the developers. We don't give a fuck what the developers say the timeline is, so it's meaningless to say Aonuma "debunked" it.
+People who say "on accident".
+Highretrogamelord
+Sweet! I've been needing a replacement for my EZ Flash IV for a while now and these are exactly the features I want.
+You're right. But I like OoT more.
+They won't be geostationary.
+Alpha Zero still has a position evaluation component and tree search component like a normal chess engine, (but both are driven by neural networks) and computation power still limits how many positions the system can evaluate in a given amount of time. It doesn't just look at the current position and then decide on a move in one iteration.
+I'm jealous of anyone who will be experiencing Skyrim for the first time this way.
+You could describe the 3D models in games like that too. The difference here is that the data is generated on the fly instead of already being stored on the disk. The algorithm that generates the data takes up much less space than the data itself, at the expense of processing power and creative freedom to manually add details.
+Yeah, PornHub and Khan Academy have really gone to shit since they became popular.
+I don't think I'd feel 5mg at all.
+In all my years watching people die this might be the first time I saw someone even attempt to stop, drop, and and roll. Good effort.
+This game doesn't tell the kind of story you're probably hoping for. There's a little bit of a narrative but this is mostly a mediative experience about mindfulness.
+
+As for lacking direction on some of the puzzles there are a couple of reasons that could be happening. Sometimes the introductory puzzles designed to teach you the rules are located far away from where you first encounter that kind of puzzle. I suggest giving the whole island a tour before you become too focused on one area. If you can't find any simple panels that guide you through discovering the rules, you probably need to take a long hard look at your nearby surroundings in a new way.
+
+Have you played The Talos Principle by the way? If you like first person puzzlers such as Portal but you need more explicit goals and plot than The Witness provides you'd probably like it.
+I found a dentist that seemed to care more about patient comfort and when I signed up with them explained my depression and anxiety, and how I feel when I'm at a dentist office. Ever since then they've gone above and beyond to keep me in a positive mood while I'm there.
+Ten years old isn't really that far off from when some boys start exploring porn/mastubation, at least in the Internet age.
+Thanks haven't heard of that one.
+It started out that way but has been latched onto by communities of nutjobs. See /r/Glitch_In_The_Matrix and /r/MandelaEffect. At least half the posters attribute their stories to supernatural phenomena such as accidentally crossing from one universe into a slightly different one somehow.
+There are all kinds of ways for Windows 10 search to break but this is the thread that saved me most recently:
+
+https://www.reddit.com/r/Windows10/comments/724cp7/psa_if_search_doesnt_work_correctly_enable/
+Can confirm. How this oversight still exists is beyond me. It makes almost no sense.
+Don't forget Kass and Sidon. And trap Link. That was a sexy game.
+You can also just printscreen and paste directly into a lot of messaging clients and image sharing sites these days, no need to open paint or create an intermediate file.
+ScaleFX is the bomb. Pairs nicely with SharpSmoother for high color graphics.
+/r/depression makes this look like a cakewalk.
+I feel like these handful of American cities are getting overplayed. Can we have a GTA in Beijing or something?
+[That is definitely Nappa.](https://www.youtube.com/watch?v=GXeOlcctd9g&feature=youtu.be&t=381)
+It looks like one of the mods of this sub changed the long subreddit title that appears in search results to "iPhone Master Race" as a joke or something. It still links here.
+The SNES Mini is barely powerful enough to emulate a regular SNES let alone an overvlooked one. Star Fox 2 is actually slower on the mini than on original hardware because they couldn't get their emulator running fast enough.
+How often does Google think people change their ringer volume or set it to any value between full blast and silent?
+That's awesome to hear. I should have clarified that I'm mostly only familiar with the old stuff. Definitely gonna get back into it soon then.
+Anyone find these giant guys less scary than house centipedes?
+This is more feedback than question but is there any chance of bringing someone who knows more about game programming on board to add insight to the commentary? Your videos are fun to watch but your speculation about the technical reasons behind the things you find tends to be ill-informed. Your production quality is already great but I think you could reach new heights if these were a bit more educational.
+I think there is as much community closeness in the world as ever. Kinds that couldn't have existed before the Internet. If you examine any online subculture at just a surface level you will see a lot of drama and vanity, but dig deeper and you can also find beautiful things. A sense of community and belonging, a place to express and appreciate creativity and to discuss things that matter to you that nobody in your physical vicinity would understand. Efforts that bring entire communities together toward a common positive goal, such as charity. I've seen all these things in online communities of redditors, MMO players, anime fans, bronies, furries, Christians, Muslims and atheists alike, and niches that maybe 100 people on Earth have ever heard of. The Internet is as wonderful as it is stupid.
+Just FYI you can find plenty of JavaScript powered emulators online too.
+The official timeline is unsatisfying and poorly thought out. I reject the idea that any completely coherent timeline exists in favor of the games just being loosely related, contradictory and inaccurate mixed up retellings of the distant past, as the word "Legend" in the title implies.
+That source isn't gonna post itself.
+What exactly *were* you expecting?
+I wish I remembered it was Finn otherwise I wouldn't have had to go through sixty pages of Link.
+Well yeah. Were you expecting getting tucked into bed?
+[This guy.](http://rule34.paheal.net/post/list/E-sac/1)
+[Looks like sexual intercourse to me.](http://holly.paheal.net/_images/a64d69dcfedc8ec026d2b78ff41246a9/1579993%20-%20Adventure_Time%20E-sac%20Finn_the_Human%20Legend_of_Zelda%20Link%20crossover.jpg)
+[I was actually one of the first people to figure out how to do that.](https://www.reddit.com/r/cavestory/comments/nm9el/how_to_play_cave_story_plus_with_the_aeon_genesis/)
+Yes, imo.
+>Is it the same story shorted and dubbed? Is it a parody of DBZ?
+
+It's both. But it does still tell the important parts of the story accurately, I think.
+Now there's one I don't see mentioned often! Love that show.
+IDK about the original release but DBZ The Abridged Series is definitely one of my favorite cartoons ever.
+Steven Universe.
+[Batman TAS?](http://www.youtube.com/watch?v=nOdQP6SmeWU)
+They look slightly better IMO. Higher dispersion factor = more colorful sparkles.
+I know not all Catholics are are that crazy but the Church leadership is still against contraception. Francis himself fought against a program that distributed condoms to the poor.
+Why do you think that should be illegal?
+I still really prefer their English Cave Story script over the Nicalis version.
+I babysat for a few hours once and my front page was filled with disturbing knockoff Paw Patrol videos for weeks.
+Surviving for one day definitely isn't worth eight hours of work. I just can't be bothered to kill myself.
+I actually got so sick of long level transitions interrupting my train of thought I drew and cut out a paper version of the puzzle, solved it by hand and wrote down the steps before returning to the game.
+If this was like stealing from a gigantic record label or movie studio I'd feel a little different but for some reason I can't condone infringing on a solo artist's work.
+You shouldn't post the Patreon exclusive pages of this comic.
+Also delayed release on inkbunny.
+So what causes you to be so irritated inside your ear to drive you to do this? Mental illness or something physiological?
+Extracting memories and personality from DNA is the stupidest thing those writers have ever tried to get away with. Every episode is pretty hand wavey with the technology but good god.
+You haven't been to the right convention parties.
+I would argue film soundtracks are better than a lot of other contemporary music.
+I think the canon resets every time, he's a virgin in most or all of them. For about five minutes.
+I was admittedly in a bit of a rush earlier and didn't search. I thought these were just Blu-ray bait and the lack of an official YouTube video was the whole reason reddit was linking to a pirate one. Now I'm wondering why reddit didn't link to the official release. Anyway thanks for pointing that out.
+I think for Cars 4 I'll buy a ticket just for the short and then walk out.
+Imagine profiting from adaptations of stories that were popular when you were a child... Exactly like Walt Disney did.
+She didn't by any chance have a lot of animal pictures did she?
+Could be a partial service outage, hasn't worked on my phone for the last hour either.
+TV's should all be 4:4:4 capable too, forgot to mention that. It just comes down to how the source video was encoded. Most media, DVD's, BluRays, digital cable, satellite, services like Netflix, etc all use 4:2:0. If chroma subsampling drives you nuts you might want to look madVR. It's something that can improve video rendering on your PC by applying sophisticated upscaling among other things. It has ways of mitigating the subsampling. Only works with certain software though.
+All PC monitors are 4:4:4.
+Chroma subsampling has nothing to do with the color depth.
+
+>Is it as simple as 12-bit = 4:4:4 10-bit = 4:2:2 8-bit = 4:2:0?
+
+No. You can have 4:4:4 on an 8-bit monitor. You can have 4:2:0 on a 10-bit monitor. It will depend on the video you're working with and the totally independent chroma-subsampling and color depth chosen when the video was encoded.
+You mean the 1% are going to voluntarily chop off their obsolete limbs. You think you're getting one of these if you lose your arm?
+According to the article she won some of medical experiment lottery out of hundreds of applicants so who the fuck knows. If I lost my arm I'd be lucky to get a wood plank with a hook on the end. And that's the way it's always going to be for 99% of the North American population no matter how cool technology gets, so I find it difficult to get too personally excited about this.
+What does Nintendo stand to lose exactly?
+/r/Conspiracy subscriber who uses Facebook? You must be new here or something.
+Oh *now* you release it. Got bored of that game and the extended soundtrack I downloaded months ago.
+
+I mean not like I would have bought it anyway. No digital release? Boo.
+
+Why is it that indie developers make it really convenient to buy their game soundtracks and seem to make reasonable money from it but big game companies can't, despite the vastly larger demand?
+
+(And yes, I actually do buy the soundtrack for almost every indie game I play as long as it's available as DLC or on Bandcamp)
+
+Edit: Downvoters answered my question. There's too many people willing to reward this pathetic half-assery.
+Teach all you want, supervise as closely as you can, it could still happen to you. If you should have learned one single lesson from this sub by now it's that shit can happen to anyone and sometimes caution doesn't count for shit.
+I'd be surprised if the majority of pirated copies weren't teenagers dabbling with music for the first and maybe last time.
+I really wanted to love Obduction for its story and setting but some of the puzzles just weren't very fun. Hope that's improved.
+I'm looking at you, public restroom defilers and service employee abusers. I've seen "What's wrong with you?" asked here quite a few times in my day.
+I forgot the /s
+He's definitely talking about noise as in sound effects.
+But see how the outer shape is now consistent? Look how well modern, maintained apps and ones that will never be updated to support this garbage (but will be updated to add bloat and siphon more data) go together.
+I'd say yes.
+He pretty much always does his own lines.
+They're reflective in every scene.
+Almost completely destroy the high editor hierarchy so a handful of elite snobs can't permanently delete everything that doesn't stroke their neckbeards the right way.
+
+Just learned not five minutes those assholes didn't like the list of English pangrams. And I'm still salty about the loss of the GoodTools article. (Significant to the history of video game preservation)
+
+Not fond of their deep but inconsistent hatred of "fandom" material either.
+I'm a fan of [Donkey Kong VCS](http://atariage.com/forums/topic/206497-dk-vcs/).
+Broglia's app has a newer version of Stella than RetroArch. It can play a lot of advanced homebrews that RetroArch can't.
+This wasn't a much as a problem when companies actually bothered keeping copy editors on staff. The truth is that they simply don'y give a shit.
+\*bleating sounds that indicate a critical lack of understanding\*
+Got busted as a 13 year old trying to buy The Orange Box.
+
+Did you know the HL2 series is actually rated M? (17+)
+A lot of jobs are already one hour of valuable labor and seven hours of boulder pushing.
+[Yeah that looks about right.](https://i.imgur.com/UaSaZrZ.jpg)
+Wait I was still watching the early seasons of Family Guy. God damnit. Time to grab my eye patch and treasure map.
+If the rules are that rigid then it's stupid to try and present it as a conversation. Of course people are going to be confused about its actual capabilities when Google is trying to make Assistant look a hundred times smarter than it really is. Yes, a smart user should have noticed this stupid limitation and found a way around it, but the "AI" was even dumber.
+At least you can go read the official plot for HL3 right away.
+You're asking me to copy executables from DeviantArt into system folders.
+Oh, shit. It was there last time I checked. I've played it, it's pretty good. I found another link. Try [this](https://www.romhacking.net/hacks/798/).
+You'll find the official links here on [the author's site](http://skjmin.org). Since these are distributed as patches you'll also need to supply your own copy of the New Super Mario Bros. ROM.
+That's about 277 MB compressed. So yeah, easily.
+Everything that was ever released on cartridge up to the Nintendo DS. You'll have to forego CDs though. (Sega CD, TurboGrafx-16 CD, 3DO, Saturn, Playstation etc.) The rest will fit comfortably on a 64 GB or 128 GB card depending on how it's compressed.
+[New England Journal of Medicine](http://www.nejm.org/doi/full/10.1056/NEJMsa1411131#t=articleBackground)
+
+[This news article](https://www.vice.com/en_ca/article/dp577y/no-that-canadian-study-didnt-suggest-teaching-young-women-self-defence-will-stop-sexual-assault-235) mentions some important details that aren't obvious just from reading the abstract of the study.
+I have a [bold new idea](https://i.imgur.com/4Zb6OLb.png) for fixing this.
+While a lot of Wii U and Switch games are made with Unity, Nintendo hasn't used it for any major first party titles. Definitely not New Super Mario Bros. U or Breath of the Wild.
+The codecs bundled with MPC-HC (LAV Filters) have been able to handle everything that VLC can and often faster for years now. Gone are the days of needing to install K-Lite or CCCP.
+CCCP is long obsolete. (as are codec packs in general) You don't need that ever since MPC-HC started bundling LAV filters. Same with most other players related to MPC.
+Plus I don't think you can use madVR with VLC, which is a deal breaker for me.
+You're right but let's not forget everything ffmpeg can do besides just encoding and decoding. The filter graph system is really flexible and powerful.
+Smoke would be toxic probably but hydrazine on your skin is worse. Even just a barely visible droplet would be really bad news.
+Does it mention that touching the wreckage can kill you?
+There are some really lazy Unity and Unreal games but I don't think it's fair to call all modern indie game development unimpressive.
+I keep all of it except my MAME and FB Alpha collections on a nearly-full 128 GB microSD. (for offline access on my phone) I really want to expand my collection to include most of the Redump sets but I'm gonna need like 50 TB for that and I'm not sure how to go about it yet.
+He also said, on reddit.
+His statement doesn't qualify as a fallacy because he didn't make any claim that the person he was replying to is wrong at all, let alone wrong because of hypocrisy.
+
+It doesn't make any sense to cite logical fallacies outside of an actual or at least attempted debate.
+And broadcast at roughly constant strength in every direction at all times.
+I love it when they think the original image is too subtle and add a maymay for clarification.
+Humans manage it using only optical sensors, and computer vision is steadily improving. In fact it's one of the most active fields of AI.
+Here, you dropped these.
+
+**C** **A** **B**
+Maybe they don't know about that option because they don't do any research when they want things in general.
+Go on any emulation forum and see how many people want free games but are too stupid to follow the most basic instructions and set up emulation on a PC. That's who buys these.
+Personally I think ROM sharing should be legal and that this whole issue is silly but the reality is that it's not. And linking something that is illegal, to emulators, which are legal, threatens the reputation and status of emulation as a whole.
+Bringing negative attention to RetroArch is one thing but I'm even more worried about the negative attention it will bring to the Internet Archive. This could be disastrous for them if it gets big enough to piss off some big companies.
+Almost all addictions are self-limiting at some point. You can only afford or tolerate so much. Wealth is the most dangerous addiction of all, because [while it rewards your brain in exactly the same way as drugs and sex](https://hbr.org/2015/10/what-happens-to-your-brain-when-you-negotiate-about-money), it is the exact opposite of self limiting. The more you have, the more falls into your lap, which is convenient since just like any other addiction it takes more and more to get your high every time. Obscene wealth is a disease and should be treated as such.
+Those flowers are definitely Digital Blasphemy material.
+Post the original version in a month and see how many people still say the saturation has been increased. I'm betting at least a few.
+SMB1 contains a grand total of 8KB of graphics data, addressable as 512 8x8 2 bit-per-pixel tiles. (fancier cartridges may contain more) And the video chip in the NES has about 2KB of RAM. Altogether much smaller than even the most perfectly compressed screenshot. Without enough memory to store a bitmap of the entire screen, the NES instead uses that 2KB of video RAM to store instructions for drawing many copies of a small selection of tiles all over the screen in various ways.
+
+If you're fascinated by how it does that you should check out this in-depth three part series on how NES graphics work.
+
+http://www.dustmop.io/blog/2015/04/28/nes-graphics-part-1/
+If I recall correctly it has something to do with how heavily newer versions of Stella rely on SDL2.
+You can buy separate USB number pads.
+I just meant the non episodic Disney Star Wars movies. Rogue One is better than VII and VIII in my opinion and this trailer also looks more promising than those two movies as well.
+[GeekNights](https://frontrowcrew.com/about/).
+Spinoffs being better than the main storyline looks like it might become a trend.
+Agreed.
+They did eventually reverse engineer Lordus' work and release an update. You just have to become a beta tester because they're still working out some minor kinks.
+The biggest problem I've faced is all the second gen consoles that used phone pad controllers like the ColecoVision and IntelliVision. If you have a qwerty keyboard at your disposal it's not too bad but you can pretty much forget playing on a smartphone or anything.
+Upon further research it looks like they now claim to support it but it just doesn't work on a lot of devices for reasons unknown. What hardware are you on?
+It's 2018 and Google Play still doesn't ~~support gapless fucking album playback or~~ detect when the same song appears on multiple albums when shuffling. So if you shuffle classical music by a particular composer you'll just hear the top three songs ad infinitum.
+I really need one of those little laptop sized MIDI controllers. I decided against an Akai MPK Mini and got a full sized 61 key controller instead because I didn't like the idea of working on something tiny. I really regret that decision now. I never use my full sized controller because I don't have a decent place to put it, and even if I did, I like to move around the house instead of being confined to a desk all day.
+...are kind of dumb and inconsistent if you spend too long thinking about it but the same can be said of the original trilogy, or pretty much any fantasy movie for that matter.
+Barely, but they're the only tiny breed I don't hate.
+One does not simply train dachshunds not to bark.
+It's big enough for at least a footnote in the future textbook I think.
+I wonder if art museums hundreds of years from now will have a gallery of rule34 from the early 21st century. I mean, it actually is culturally significant in a way.
+In case anyone was wondering where to get it legally, Google Play has a lot of classic Bugs Bunny cartoons including this one.
+And Android isn't? I assume you're using it if you're on this subreddit.
+Anything faster than a Snapdragon 800 just seems like wasted brute force to keep up with shittier and shittier apps IMO. Ever since my Nexus 5 I haven't noticed much speed improvement except in a small handful of cases like the most demanding games and emulators.
+What the fuck. I hate deletionists with a fiery passion.
+I play in full screen and use [this](https://github.com/rsn8887/Sharp-Bilinear-Shaders/blob/master/README.md) or at least 2x prescaling depending on the emulator to keep my pixels nice and even.
+[¿Porque no los dos?](https://github.com/rsn8887/Sharp-Bilinear-Shaders/blob/master/README.md) Anti-aliased nearest neighbor, as I like to call it, gives you the best of both worlds and isn't even noticeable unless you have your nose pressed against the glass.
+A lot of the negative comments are actually about the NES controllers, which weren't great.
+Is your firmware up to date?
+And a brain. Don't forget a brain.
+I think you're allowed to move those iLok licences to your machine and ditch the dongle now, but I don't recall how. I was only thinking about Composer Cloud when I made that comment, which gives you every product via download and doesn't require an iLok to begin with.
+I just added a link to my comment.
+It's something you can add to your computer's [hosts file](https://en.m.wikipedia.org/wiki/Hosts_(file\)). When your computer needs to know the IP address for a domain name, like google.com, it usually asks a DNS server, but the hosts file can override that and tell it the domain points to some other IP. If you add [Steven Black's entries](https://github.com/StevenBlack/hosts) to your hosts file, every domain name belonging to a known advertisement or malware domain points to 0.0.0.0, effectively blocking them from being reached.
+I'm so fucking glad EastWest instruments don't require it any more.
+The fuck? You can just put any JS you want in a YouTube ad? I thought they were just a banner and some analytics code. Google ads are supposed to be the one kind of ad you expect to be safe.
+You're much better off getting No-Intro and Redump sets from archive.org. You can easily get the entire library for almost any system. For the few things archive.org doesn't have check the ROM Shepherd forums.
+Just tell it to ignore any directories containing cracks or cracked software.
+Common sense + Defender + browser adblock + Steven Black's hosts file to be extra safe and still not slow down your computer at all.
+Something Eric Whitacre is really awesome at.
+You wouldn't believe how many people in /r/depression talk about these exact symptoms. It's not something well studied or discussed much in the public light, but it seems to be quite real, and pretty severe in some cases.
+If you have a view obscuring load you have to drive in reverse.
+Male circumcision just isn't an issue related to immigrants.
+Male genital mutilation isn't an immigrant specific issue any more than a local one though, is it? It wouldn't really make sense to put it in the citizenship guide unless the government acknowledged it as universal problem, so petitioning for that to happen seems like kind of a wasted effort.
+I almost succeeded at a loophole. SakTel has nation-wide roaming at no extra cost. I called them up to inquire. They were pretty confused when I explained that I'm in Ontario and have no intention to move, but after talking to a few different people they eventually figured the plan could work. I decided against it because of two caveats. You'll have to change your phone number to a Saskatchewan one. And the phone has to be on their own network when it's first activated. So you either mail your existing phone to a buddy in Regina to complete your activation or buy a new phone from SasTel and get it shipped to you. I wasn't interested in any of the phones they offered at the time but if they ever have something really good in stock when it comes time for me to upgrade I just might go for it.
+Am gay, please explain how to take advantage. Does it still work if you're stealth like most of us are?
+Normally I'd side with you but I'm not sure this is the time or place.
+If it only takes one person actually using their bandwidth to cause problems for other customers they clearly don't have the infrastructure to be offering such speeds.
+
+Edit: Never mind that, he was only uploading at less than 2Mb/s, just over a long period. So it's complete and utter bullshit that he could have been impacting the service. That's totally reasonable usage.
+[Well I'll be damned.](https://www.cnet.com/news/sun-finds-new-outlet-for-java-credit-cards/) TIL.
+Not sure if it's noticeable on all phones but yeah I see it when my Moto Z Play is sideways.
+Did you try installing RetroArch via Flatpak? Debian has a package for that so you can just apt install flatpak and then follow the rest of the instructions [here](https://www.libretro.com/index.php/retroarch-with-flatpak/).
+You should try to find a ROM named one of the following, that's how you know it' been verified.
+
+"1258 - Mario & Luigi - Superstar Saga (USA, Australia)"
+
+
+or something that has a "[!]" in it. I forget the exact naming convention for GoodGBA.
+I can't find much info about that emulator, it's not one of the commonly recommended ones. Try GBA.emu or My Boy. Bad ROM is also a possibility. What's the filename of that ROM and where did you find it? (don't give a link, just hint at the website)
+Just out of curiosity has your passive information/media consumption increased? I've been watching more and more "Let's Play" videos and spending more time on reddit and other garbage stuff as my depression has worsened. I used to spend a lot more of my online time looking at new and interesting things but now it's mostly just banal time wasting stuff.
+We've got some absolutely amazing cartoons these days IMO.
+I'm told Ontario is one of the better provinces too and even here I find it ridiculous. I shudder to imagine how much worse it gets.
+How dare you have the wrong opinion. Here's a sympathy upvote.
+No don't.
+I doubt he was actually following you to spy unless it's really obvious to your employer that your drinking has been impacting your work. Even then, I could hardly imagine it. They'd probably just have a talk with you instead. And if he did see you buying booze, so what? No employer that I've ever heard of would care that that you like to get drunk after work.
+
+How much reason for suspicion have you given them? You drinking at work or just afterward? If it's the latter, I wouldn't worry.
+If you want to play a very dangerous game keep your booze at work if you have a secure locker or other private place there.
+Godspeed. Stop now if you still can.
+You're not the only one. I'm easily addicted and I know damn well my life would go to hell if I tried anything harder than weed.
+Still waiting for something that actually lives up to what Second Life wanted to be. We've had decent VR for how long now and nothing has come even close to improving on that fifteen year old concept? The fuck?
+That's what myself and others have been reporting, yep.
+You really can't remember anything from that day or leading up to the incident at all? Everything you've described is within the scope of sleep paralysis, including the false memories, the conviction that you were actually awake, strong sensation of electrical shock, and overwhelming chest pressure, which could easily be felt as heart malfunction. Believe it or not, these are all common in the more severe cases. And you did mention it in your history. To lend credence to your story, it would really help if you could recall more about how you ended up in that situation, otherwise it sounds like you just experienced a particularly vivid paralysis episode.
+
+Some questions to help jog your memory:
+
+Did you talk to anyone that day? Did you leave the house at all? What did you eat for dinner, and did you leave any dirty dishes or food packaging behind afterward? What trouble shooting steps did you try prior to fiddling with the cables? How did you open up the box near the outlet? Did you use any tools? What were you doing on your computer when you noticed the problems? Watching a video? Gaming? Browsing? Any particular websites? How long was it between noticing the internet problems and dying?
+
+Please rack your brain as hard as you can. If you can't recall a solid answer to any of these questions, it seems likely you were having a sleep paralysis dream.
+What were you doing earlier the day that you died? Can you describe the events leading up to your fiddling with the modem wire?
+Unrelatedly, Google Clock still just randomly skips alarms once in a while.
+There are both pro and anti-consumer ways to do that.
+Derp, yes.
+That's what the signal coming out of an unmodified N64 via the component cable looks like. A lot of videos and screenshots you've seen online used emulators, Ultra HDMI modded N64's or other special upscaling.
+That's why I sat there. Take your time.
+Using any DNS-based ad blocking? Make sure s.youtube.com isn't blocked.
+A ROM hack.
+Oh fuck me I forgot who we were dealing with.
+Mario Kart. Especially while drunk.
+You have every right to toot that horn loudly.
+I agree with your sentiment, but all hope is not yet lost. Frank Cifaldi has released such rare ROMs before. I'm not sure what the holdup is but from what I've read and the lectures I've seen by the guy, I trust him.
+I'm so glad it didn't fall into the hands of some asshole collector for the rest of eternity.
+Buy him some whiskey stones. And whiskey.
+Netflix, CrunchyRoll, Funimation and Google Play Video made me stop pirating movies and TV. Bandcamp and Google Play Music made me stop pirating music. Steam and GOG made me stop pirating games. Subscription plans made me stop pirating software.
+
+But I wouldn't use Virtual Console even if it were free. It's just that pathetic.
+Oddly enough this was the only one my mom really liked.
+The unclean ones who don't commit suicide or leave the church seem to end up with a completely fucked up sexuality. Let me tell a story about my old landlord George.
+
+George is almost certainly homosexual deep down, but must go through incredible pains to maintain enough cognitive dissonance to deal with his urges without realizing realizing he's gay. He's long retired, but has never had a successful relationship in his life, because it would be impossible for him to achieve that with a woman. He has anatomy books that all open to dicks the instant you set them on their spines. He runs an unregistered massage service, for males only of course. He has on occasion talked openly about how much he admires the bodies of the young and fit ones. Like, *really* admires. He also has a folder of images of attractive male bodies that he says he uses to promote his service. He rents his house out, but only ever to young men. He secretly takes pictures of his tenants and his massage clients with hidden cameras in the bathrooms and living quarters. (Until he got busted anyway) He doesn't act like a landlord, he insists on forming close relationships with his tenants and doing intimate activities with them such as accompanying on long walks. When he can't form any kind of intimate connection with someone he threatens to kick them out.
+
+I was one of the victims of his voyeurism. As much as I hate him, I also feel really sad for him. He'll never be able to experience sex and romance in a healthy and fulfilling way. Even if he defeats his own demons, he'll also have to deal with all his friends instantly deserting him. The church keeps him in line, sending officials to check on him every month and make sure he's living the LDS lifestyle. They are known to do everything they can to destroy your life you rebel.
+
+I fear that a lot of LGBT Mormons end up like this, miserable and powerless to escape.
+If you want to keep the save data safely backed up, try using something like FolderSync for Android. That way it can be on your phone's internal storage so your apps can still find it, and safe in the cloud at the same time. And then if you want to get fancier you can use that to have your saves synced between your phone and your PC if you're using the same emulators on both.
+Oh boy which open source software licences did they violate this time?
+Please tell me that's not much of a spoiler to someone who's seen SU and plans on watching Eva.
+If that's possible why hasn't a single app done it? I've searched high and low for any app that can tell which finger I used instead of just giving a binary response.
+Because that's still ridiculous and I don't think normal teenagers should have to fear for their lives, even if the actual odds are low.
+Who else is gonna do it? Nobody in the mainstream.
+The moderation is a lot tighter now from what I've heard but there was a time you had a 50% chance of seeing CP if you read /b/ thoroughly.
+It's a picture of your own kid, probably mixed in with other normal photos you've taken. Not pictures of random kids kept separately from the normal photo album.
+Low latency and I can install my emulators right on the TV? Nvidia Just invented the world's best RetroArch system.
+As a full time third shifter, oh yeah, fuck that rotating crap. It's worse.
+Oh god I hope we haven't gotten that predictable.
+Ah to be twelve years old again. We spent hours in Melee's snapshot mode, with exactly the results you would expect from twelve year olds.
+Is it just me or does the glamour shot not even look very good. It's like one notch above a vending machine wrap.
+I could be taking it way too literally but her [mural](https://vignette.wikia.nocookie.net/steven-universe/images/3/38/Pink_Diamond_Mural.jpg/revision/latest?cb=20160809032231) does seem to suggest that. I always saw it as her emergence.
+They'd just stop any such law in its tracks. It's way too late for non-violent change.
+That is hilariously accurate.
+It makes the exact same mistakes as pretty much every other texture mod that goes for this look, so some people feel it goes without saying. Too much contrast. Too much focus on high frequency detail and not so much focus on the medium and low frequency detail - which are just as important to make the scene less visually monotonous. Over-reliance on stock photos that weren't edited very much where original textures had more manually created features. Questionably necessary and extreme normal/bump mapping.
+
+I don't want to bash the artist too strongly however. The reason these problems are so common is that everyone who tries to make a texture pack starts out this way. He or she will likely improve with experience.
+But he achieved the maximum amount of high frequency contrast! The most objective measure of quality for texture mod.
+That I can live without.
+I've already determined that regular photo-trained ones do a pretty good job if you can get rid of the dithering. I'm also thinking about just playing the game in RetroArch via the ScummVM core. I've gotten pretty darned good results just by combining the built in shaders.
+It's either that or just thanking people.
+The selection of donation comments they read on the air is the worst part for me. They absolutely will not read anything interesting whatsoever. It's just the same comment over and over again.
+Yeah SGDQ felt like yesterday. Totally caught off guard.
+I'll be trying this out on Android and reporting any issues.
+If you absolutely insist on binge drinking, or your party needs a resupply and nobody is fit to drive, please be aware up booze delivery services in your area. You'd be surprised how many places have that. For example, the entire GTA and Waterloo Region is covered here in Ontario.
+That could have been me, and this is why I have horrible horrible anxiety about travelling from Canada to the USA to see my long distance BF.
+As someone who will admit to being glued to a screen at all times, please turn it off crossing the road. This is serious.
+No reason really apart from TI having a monopoly over schools and forcing them to update their curriculum to whatever new model they want to sell. (Or HP or Casio, they have much tinier local monopolies but it's the same sort of deal) 
+I'm definitely more in favour or just letting in everything that isn't a blatant scam. Be a responsible consumer and do your research. If you don't, I can't feel very bad for you.
+I'm good, video producer friend of mine has an all access subscription.
+It's mostly garbage due to market factors at the time but I think some are worth playing even without nostalgia. The Activision ones are consistently fun and interesting, at least for five minutes anyway. They're a good kind of game to briefly play on your phone while you're while you're waiting for the bus or something.
+Up to the fifth console generation. This thing can even handle some nice RetroArch shaders like ScaleFX.
+Didn't know it had PSG channels.
+They patched amtlib.dll again didn't they.
+Yep, this one was the first to showcase subdivision surfaces, which enabled infinitely smooth curves.
+Nope.
+I don't have any but I think one of the appeals is that you can collect toys for a whole bunch of unrelated shows or games and they'll go together. Some people like the consistency.
+Goddamn, what a magnificent specimen.
+I'd go beyond software and have a dedicated LED for camera/mic activation ideally, and apps like Google that need the mic on at all times must explicitly ask for permission to be allowed to run without turning the LED on.
+It's copyrighted by default. At least, it was. I'm not sure how that stands now that so many other people have contributed to the mythos.
+""Earn""
+Wonder if that has anything to do with my Windows 10 insider build taking up 28% CPU usage with "system interrupts" lately.
+[Here's a list of cosmological phenomena astrophysicists and astronomers don't understand yet.](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics#Astronomy_and_astrophysics)
+Nope. If you want to request the feature, the LibRetro team has a bounty system set up. Submit a feature request to the issue tracker on GitHub, assuming someone hasn't already done that, and then if you'd like to grease the wheels of development, go to BountySource, find the issue and post a bounty on it.
+The difference some of the settings make in FSX can be hard to spot. As for texture add-ons, some increase resource usage a lot and some don't, depending on variety and resolution. It's mainly video RAM you need to worry about. Orbx FTX Global, Vector, and the OpenLC packs all make the terrain a lot better without straining the system much.
+SimCity 4 and below will give you a wider view at higher resolutions. It can take some screwing around to get them to run at said resolutions though.
+I technically quit but was nearly fired from one job for reasons closely related to my mental health. As for my current job I've faced discipline a few times and had near misses that would have landed me in huge trouble if the big bosses found out, where supervisors and coworkers have been kind enough to look out for me. Thankfully it's an easy job most of the time so I only struggle when I'm at a very low point.
+I've definitely done that before.
+Any messaging platform worth half a crap has plain old file transfers, no? Or you could set something up with Folder Sync and a cloud file service that shows large pictures.
+So your business was only sustainable because you sapped government taxes by forcing employees to rely on social services? Either that or their living conditions were shit. Doesn't sound like a business worth having around.
+You can bet your ass they would if they could though.
+Thanks, fixed.
+This looks really good. On the topic of New Super Mario Bros hacks, anyone who likes this should probably check out [NSMB 3](https://youtu.be/GxLrwGB_LDA) and [NSMB Origins](https://www.youtube.com/watch?v=49D9bjgjRu8) by SKJmin as well.
+You liked the architect scene too huh?
+Vis-à-vis!
+I feel like they got a lot more fast and loose with how the technology works in Black Mirror this season. I mean it was kind of hand wavey before but they left enough room for you to suspend disbelief. Now it's like they don't give a flying fuck about current research into digital consciousness or related topics and have assumed the audience to be stupid.
+
+And let's not even get into how much more stupid this episode gets if you know anything about cybersecurity or the fundamentals of how MMOs and games in general function.
+I think it's too aesthetically nice for an 11 year old to have come up with independently, but it's also not very complicated. Even a child could reproduce it from memory after a few minutes of study.
+[Don't be.](https://www.weasyl.com/~catboots/submissions/1133772/shy-summoner-ii)
+[You didn't look very hard.](https://www.weasyl.com/~catboots/submissions/1133772/shy-summoner-ii)
+Not sure if retarded or just on a higher level of sarcasm.
+Pretty sure CEMU is already recompiling all Wii U shaders and using the PC GPU whenever applicable.
+>This game has some of the best level design I've seen in terms of realistic lived-in feeling spaces.
+
+I was gonna praise the same thing. I feel like the level designers are civil engineers, seasoned urban explorers and/or did a crapload of research.
+But then you can use lists and the stat functions?
+Dolphin should be fine, Wii U ports didn't add anything too interesting.
+Gambatte on RetroArch won't do Super Gameboy palettes since the only way to accomplish that without full dual-system emulation is with a hack. I think one of the standalone versions does it though.
+No, it's a new clip with cutouts for the analog stick assembly.
+Make sure it has big comfortable grips. That setup is gonna be top heavy.
+As a Canadian I find that notion ridiculous. That's why I made my original comment. 5G is useless when you can only use it at maximum capacity for 30 seconds per month.
+Does anyone actually find LTE too slow? The fuck are you doing on your phone?
+Stopping theft was never the cashier's jobs.
+A lot of people use Prepar3D now. It's a Lockheed Martin product originally based on FSX but it has evolved quite a bit over the years while remaining compatible for the most part. It's technically only for flight students and professionals because their deal with Microsoft forbids selling it as recreational software, but they look the other way and don't actually verify that you're a student so feel free to buy the educational licence. (I mean technically you are learning right?)
+
+There's also X-Plane but I don't know much about that one.
+I think it would be most useful for games that are graphically simple, (so the GPU isn't already stressed by rendering) but have a lot of easy to parallelize background work to do. Procedural terrain generation for example. You could run all the noise functions on the GPU, and maybe the mesh generation as well. That's what immediately came to mind.
+I feel exactly the same about BotW.
+
+Edit: I think some people are misreading this one. I love BotW. I'm not saying it's bad. I'm saying that it has so much more potential.
+As a budding game dev who hates C++, sweet fucking Jesus.
+Maybe you'd get a better idea of what it is by visiting /r/ludology and seeing the game analyses and discussions posted there. I too am disappointed it's not something you hear about much.
+Not really.
+Please tell Mojang that. I don't think anybody who ever worked on the game including Notch really understood what made Minecraft work from a ludological perspective.
+How's the GPU usage these days? Think I could run it on a GTX 660m?
+One time $5 to support an open source project seems reasonable to me.
+Just search Google for "undumped games" there are several lists.
+I feel like depression is holding me back from developing beyond teenage years. I'm 25 living like an 18 year old.
+In English long expressions can be hard to convey verbally when part of the expression is a complicated fraction. Unless you pronounce brackets or something.
+>That being said apart from roms, Internet Archive still hosts a lot of game commericals, game websites, game press cds, game promotional items, etc, so even if all the roms were deleted tomorrow, it's still very valuable to game preservation and history. Overall I consider among the most valuable websites on the internet.
+
+Well said. I would have liked to explain the significance of IA more but didn't want to drag the post out.
+They probably have all of that. It's only super obscure stuff left.
+You certainly can! Their No-Intro sets are a little out of date.
+I saw the Nintendo Power thing as evidence that Nintendo can't touch the ROM sets. They obviously have a beef with archive.org and I'd be quite shocked if they didn't search the whole thing very thoroughly for other Nintendo material. Why would they only go for the magazines? Perhaps because the exemption is only for software. Nintendo has successfully fucked every other ROM site known to man. I can't see how archive.org would still have any Nintendo ROMs if they didn't have solid legal ground.
+
+That said, I share a bit of your fear. I've been downloading as much as I possibly can just in case.
+Yeah? And who the fuck are you gonna go with? Rogers? Telus? One of the other providers that's essentially owned by Robelus and sucks exactly as hard?
+
+Grass is dead on both sides of this fence.
+Can't wait to see this! I love the book and I was really excited for the movies. I decided to wait until all three of them were out so I could watch them as a whole, but by the time the final one came and I saw critics final thoughts on the trilogy, I lost interest. I still haven't watched any of them, and now I'm extra glad I waited.
+You don't want to play the PC or mobile ports of V and VI. Personally I'd suggest original hardware or emulation for everything. Ports and remasters are rarely done right.
+I like this idea but they wouldn't put a totally oblivious cookie into a game. NPC cookies probably go through a bootcamp of sorts.
+[MFW](https://i.imgur.com/xq8GOhW.jpg)
+Was that the stock Looney Toons full frame explosion?
+It looked just as good when it launched on Unreal Engine 3. Better in fact, in some ways. You could probably strip away even more of the fancy shading until it runs on a 360 and those assets would still look amazing.
+Just keep trying cheap vodkas until you find the surprisingly smooth one.
+DraStic holds up pretty well. But yeah everything else blows.
+When it comes to other emulators there will always be features I'd love to see but never will. With Dolphin, I think I'm good now.
+It looks like No-Intro has hashes for both byte swapped and big endian N64 dumps since 2015-ish. And big endian is usually the one I see people going with these days. The fairly recent No-Intro N64 collection I have is big endian.
+Yep. Came out on both apparently, but the PS2 version was a couple years later, and different.
+https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology
+Furries have a  tendency to be geeks, RIT is geek Mecca.
+Does Riven work better in ScummVM now than the Steam or GOG versions?
+Many do, myself included. I have an 8bitdo SFC30, which is a Bluetooth replica of the SNES controller, and a little clip that holds my phone above it. Works on Windows, Mac, Android and iOS.
+
+Sometimes if I'm on the go I'll just use the touchscreen though. Works fine for certain games like Pokemon, Fire Emblem, Scribblenauts and Phoenix Wright.
+Installing apps from outside the store, unless that changed at some point. Real problem if you like to play emulators.
+Glad your issue is solved. You might want to look into [this shader](https://github.com/rsn8887/Sharp-Bilinear-Shaders) though. It's like anti-aliased nearest neighbour, so you can have a full screen and nice even looking pixels at the same time. RetroArch comes with a similar shader but this version is slightly better.
+I've only got 4. I feel so inadequate.
+Reddit already pays for bandwidth just like every other site? Or do you mean something different.
+[Yep.](https://github.com/KermMartian/ArTICL/blob/master/README.md)
+It's a holdover from the old models that didn't have USB ports, for backward compatibility. You can send variables, graphs and programs to other calculators. It was also used to send firmware updates. If you have the special USB to 2.5mm thing from TI you can use it to transfer things between the calculator and a PC. Scientific instruments made for use with the older calculators used that port to send readings to the calculator.
+There goes the next half hour of my life.
+You guys need to see /r/DataHoarder if you haven't already heard of it.
+That is one creepy looking doll. Anyway if I had a haunting I'd be inviting some credible third parties to my house to corroborate.
+I just download absolutely everything at least once a week because the stupid program won't tell me what's new and what hasn't been changed in months. I don't see how that's saving them bandwidth. You have to manually check a hundred GitHub projects if you really want to know.
+I'm thinking Choices Matter. Although the game only really has one ending, your choices impact the story in lots of satisfying small ways along the journey, with both your actions and your words.
+External factors aside, I wouldn't be happy about being pressured to use Facebook either. That's kinda bullshit. What do you do if someone doesn't have an account and doesn't want one?
+And there's only one shitty photo?
+0w0
+A part of the reason I don't vape is living with family, unfortunately. It would be really hard to cook without anybody noticing.
+Oh sorry, thanks.
+Unless I'm completely misunderstanding how it works, can't it only go as fast as the slowest node on the route?
+How do you measure that when Tor is slow by nature?
+If you think SM64 speedrunning is crazy wait till you see what SMW tool assisted runs have become.
+
+http://www.youtube.com/watch?v=s-3BYImVH6k
+You only burn yours once a week?
+I'm really excited about [one I found just recently](http://nesrocks.com/blog/superpitfall30th/). It fixes everything wrong with Super Pitfall and brings it up to its full potential. I always liked the concept of the game despite how bad it plays.
+
+David Crane, designer of the original Atari Pitfall games and harsh critic of the NES version which he had nothing to do with, gave this hack his stamp of approval.
+A reasonably intelligent user expects this for search boxes. The article mentions plenty of other situations where there's no clear indication of what's being recorded.
+If you really want that level of safety there's no need the resort to wget or a text browser. Use incognito mode, uBlock Origin, HTTPS Everywhere, Ghostery and NoScript turned up to 11. Or preferred equivalent extensions.
+
+And you may as well look into Tor while you're at it.
+[I couldn't help it.](https://i.imgflip.com/1zox3u.jpg)
+Derp.
+http://www.furaffinity.net/view/14551157/
+http://www.furaffinity.net/view/14551157/
+Did you use Ichun's world portal API for that?
+Wow, funny you would say that. I was listening to The Nutrcracker Suite when I saw this. Dance of The Reed Flutes for most of it. It worked pretty well somehow.
+> "NCC also found out that these smartwatches store and transmit data without encryption."
+
+That's all the reason I need.
+Turns out you don't need a supervisor for every three workers.
+Stuck living with family right now and my mom doesn't get this. If I want to drink on my day off I have to do it shortly after I wake up.
+I agree but it won't stop me from being triggered every time I hear "on accident".
+If you're financially retarded and/or poor, the day you get that refund brings your balance higher than it's probably been the rest of the year.
+Mildest one so far IMO.
+That depends. Are you generally attractive? Also, are you female?
+It won't. Supply is doing down for obvious reasons and demand is going up as nostalgic childhood gamers acquire money.
+Yeah I actually liked it a fair bit.
+Days since last homophobe outing: ~~2~~ **0**
+It's like that for pretty much every search query.
+I remember when it was a three way race between this, Ep. 3 and Nukem Forever.
+[See other reply.](https://www.reddit.com/r/FL_Studio/comments/7d4ony/slug/dpwfdx4)
+Soundgoodizer. It's a knob for noobs that just applies one of a few different Maximus presets. No serious producer would use it. They'd use the real Maximus.
+I decided to take my own stab at it.
+
+[How's this?](https://imgur.com/a/dW0UY)
+Some people would say "Corey In The House" for DS wasn't worth archiving. And yet it's somewhere on my hard drive alongside almost every other DS game known to exist.
+They *could* take the core mechanics of the game and refine them. Or they could add parrots. Wouldn't you rather have parrots?
+Ikr. You think there's a developer out there who wants to make a crappy game? Probably not. But the screams of outrage will never reach all the way up to the shareholders and upper management who are truly responsible. To them it's just another Tuesday right now.
+I'm sad about DTA too, I used to use it all the time. But after putting in the time to learn some command-fu I've realized I can accomplish everything DTA did and more with just wget and youtube-dl. I strongly recommend becoming familiar with these tools.
+Tell them you prefer to keep the transaction on your own account for personal budgeting reasons but you'll gladly accept an e-transfer.
+
+I'll PM you my address.
+Once you go 8 D it's gonna look really suspicious. But completely legal, yes.
+[Waifu2x upscale to 2560 x 1536 for desktop wallpaper use.](https://i.imgur.com/gkwPeRo.png)
+
+Come on Thanshuhai, everybody thinks your art would make great wallpapers, why must you make us do this.
+Good fucking god that's the worst "beheading" I've ever seen, and I've been on this sub a while.
+Canada, but yeah we have similar rules.
+No shit, at my workplace the power would have shut off the instant that access panel was opened until a lengthy safety reset procedure was followed, or the door was closed again and a shorter safety reset procedure took place. Not to mention we have press blocks to physically stop shit from moving and a lock out policy to make sure nobody fucks with that shit while you're in the danger zone. This shouldn't be possible.
+
+There are highly effective ways of preventing this kind of thing, and it doesn't look like they followed a single one of them.
+Even me, a huge geek, has fallen for that crap before. Was babysitting some young kids and they're into Paw Patrol so I went to YouTube and searched and it seemed decent at first. Almost like it was official. IDK who the hell produces that show so I wasn't sure what was legit or not. And then it starts getting weird and creepy and before long I'm seeing stuff that I realize would never be approved for a legitimate children's cartoon. And the kids parents seemed to have no idea that the kids were watching this garbage all the time. They just saw a familiar brand and figured it was fine without supervising too closely. Most of it wasn't too awful thankfully but some of it almost had me asking what the fuck were these people thinking out loud.
+They look just like my two weenies!
+Fair enough. Credit would have been good. That's just my kneejerk response when I see the word "repost".
+I can't see ever myself using Dolphin via RetroArch anyway. It requires way more advanced configuration to get it the way I want it than the RetroArch team is going to implement any time soon. It's one of those things where you really want the native GUI.
+[They're slowly hammering away at it.](https://github.com/libretro/dolphin/commits/master) Mostly boring behind the scenes stuff that's not interesting enough for a blog post. It needs some more work just to get to an acceptable state before they start worrying about keeping it up to date with upstream Dolphin.
+Doesn't seem like it, because the document barely goes into precise detail on how to do it. It's clearly more of a PSA for unsuspecting players than a how-to-hack guide.
+This might not seem intuitive, but in the case of antidepressants, a person with depression may have passive thoughts of suicide but insufficient energy/motivation to actually go through with it. When antidepressants are suddenly introduced, a number of things can happen. It may give them just enough drive and energy to actually carry out their suicide plan. It might not react well with their body and make them feel even worse, prompting more thoughts of suicide. Some antidepressants are possible to OD on, giving the person a new convenient way to kill themselves. Someone starting on antidepressants for the first time may have only recently come to the conclusion that they have a mental health issue. Becoming conscious of it may make them feel even more pathetic or hopeless. For these reasons it's very important to monitor a person starting a new antidepressant drug, or if you are taking one yourself, to frequently tell people how you are feeling and not hesitate to talk to your doctor if they aren't working out for you.
+
+Source: My family has a medical history of depression. (yep, genetics are a factor) We've dealt with many different medical treatments.
+I googled in disbelief.
+
+[They actually said that.](http://nationalpost.com/news/world/kenya-male-lions-seen-in-intimate-act-bonding-experts-say)
+I strongly prefer games where death doesn't erase too much progress. Like Inside, LIMBO, Breath of the Wild or any game where you can just quick-save whenever you want. These games have no concept of lives, and checkpoints or saves are frequent. Getting back on your feet is quick. You still have to redo the part you just failed at but you don't have to redo the hours leading up to that.
+
+There's absolutely nothing fun about having to replay ten levels I've memorized just to get back to the one near the end I have trouble with. It's just bullshit from the arcade era. I can't figure out why some games still do that.
+...Emulation?
+
+Sorry it's not what you asked for but if you haven't tried it recently you may be unaware of what shaders can do these days. From 2014 to 2016 RetroArch forum member Sp00kyFox has been working on ScaleFX, which puts HQx and even xBR to shame. You can read about its history [in this thread](https://forums.libretro.com/t/scalenx-artifact-removal-and-algorithm-improvement/1686) and I've put up a [comparison album](https://imgur.com/a/2wGGg) featuring the latest version + xsoft for personal taste.
+
+Or if you're really into the CRT look you can have that too. [This](http://i.imgur.com/t9zS9lC.png) is straight out of my emulator, and [here's a closeup](http://i.imgur.com/3Qv9qPO.png) without the overlay. It's a customized version of [CRT Royale](http://emulation.gametechwiki.com/index.php/CRT-Royale) plus realistic daylight TV border I made.
+I blame helpful commenters like you. You're just enabling the rest of us.
+A few days and several emails later:
+
+"Hey man, thank you so much for agreeing to help me move all my furniture on such short notice! See you at my place after work. And thanks for confirming my suspicion my wife having an affair. She wouldn't admit a thing but if you say you saw her I trust you. Thanks for the heads up about vaccines and autism too. I knew I was right. I'm taking the kids, and getting them registered with a homeopathic doctor. It's so great to have someone I can count on for help and advice! And don't worry, your furry roleplay kink is between us."
+You answered your own question. It's the obvious lack of a soul.
+Oh I didn't notice the dropdown. That's not too bad then.
+Numeric HSL, presets, and custom colors? There was no reason to ditch that.
+I'm sick of Microsoft's UWP replacements for Win32 stuff being only half as functional. Don't care how sexy and minimal it looks.
+I know what vanilla FF7 looks like. I was talking about the Photoshop filter he applied as the final stage, after the shaders.
+You accidentally posted to /r/funny instead of /r/furry.
+What does it look like without the oil paint filter?
+You really expect me to believe the NSA doesn't already have ten vulnerabilities and six back doors that would work?
+
+Sure you can make things a bigger pain in the ass for them if you try but I don't think there's a single truly secure device in existence.
+You can definitely do better in the USA. We're one of the cheapest Canadian provinces though.
+Where is that?
+Good god. I'm as impressed as I am disgusted.
+It hums along quite nicely on my SD 625, double resolution and everything.
+At least it sounds like you have a cool boss. Some people would be fucked if that happened.
+Seriously, 1cm is just fine.
+That sub just fucking deletes everything.
+Forget more speed, I've got more than I'll every need. Give me a higher fucking monthly transfer cap.
+I thought they had anti-cheat analysis to make that nearly impossible. Like it checks if any players are often making the same moves Stockfish would pick.
+It says you're a top but don't really look like one, because the two fennecs above you are photoshopped. Or maybe it says you and your friend want to have a foursome with clones of yourselves.
+PM'd.
+Only someone who knows shader programming would be able to take a 4xBRz shader from some other emulator and convert it to the format that My Boy uses. By the way that's a pretty heavy shader, I doubt it would even work on an Android device now that I think about it. It runs like cold molasses on my phone.
+I'll try to help if you have any more questions.
+Follow this:
+
+https://youtu.be/n5ancEtFfQc
+
+And then this:
+
+http://retroarch.com/index.php?page=shaders
+Could be some of A and some of B. What they have in common is that they don't do any research before they buy something. And for that they get what they deserve.
+It's usually the dimensions. That's how Source Engine games and GTA V do it. It's not a formally agreed upon standard however. Someone could make a game where the scale factor refers to total pixels. Idk why they would do that though since it's slightly more complicated.
+The word Chernabog never appears in the original Fantasia. The conductor referred to him as Satan.
+Disney can retcon all they want but the conductor in the original version of Fantasia clearly said "Satan".
+Wow, after all these years they finally have **one** of my 163 Steam games. Amazing.
+I don't get all of them either but that gives us something to go learn about! It usually leads somewhere fascinating.
+I get it it. I'd hate to see something bad happen to you legally considering how important you are to the emulation community. I appreciate you at least reporting all those rare games and revisions along with their checksums. That's more than we get from certain other rare game owners.
+Have you ever considered streaming your process live, or at least putting some timelapse videos on YouTube? It would be incredible to watch, and given your skill it probably wouldn't take long to start seeing some extra roll in money from all the views. Lots of artists are doing it these days.
+I just figured the subreddit mods would let this case slide given the circumstances. I agree that the rule usually makes sense.
+You get rid of that shitty CGI ring around the explosion right now.
+
+[There was no ring.](https://i.ytimg.com/vi/2NjEghWG9l0/maxresdefault.jpg)
+EA does not give half a shit about preserving this. They'll let it disappear forever just like the early film industry did with the majority of those works. "Piracy", is sometimes 100% justified when it comes to preservation.
+Really? I know who he is and what he's been working on but I didn't know that. I thought he only verified games that have already been dumped.
+Oh that's a relief. I know and trust that guy.
+Seriously. This better not end up like all the other undumped cartridges that are currently being sat on by greedy collectors.
+Have you been on this sub long? We do attract some real crazies.
+I'm no expert but Wikipedia says threats of violence in order to frighten the victim is a somewhat common thing to stalkers.
+Yeah I strongly doubt Nintendo is gonna be happy about this. And distributing ROMs freely is one thing but profiting from it is quite another.
+Doesn't matter if they dumped it themselves. You only have the right to make a personal backup for yourself. You can't legally distribute that backup to anyone else.
+The whole GTA and Waterloo Region have beer and liquor delivery services. I've used them. Pretty sure it's legal but the fact that they never check ID is concerning.
+I get that, but there are also game soundtracks I listen to having never even played the game. Final Fantasy bores me for example but I have every album.
+I had to check, and yes, hentai games on Steam do have screenshot galleries in their community hubs, and they're full of exactly what you'd expect. So... you're allowed to post screenshots of video game porn as long as as it's from an AO rated game and not an M rated game. Makes sense.
+It's well known in the industry. They call these people whales. Most players won't spend a dime but 1% of them will contribute 90% of the profit.
+Who needs company when you have crappy Let's Play videos on YouTube.
+That actually makes more sense. We should call them that everywhere.
+Your phone already does that assuming you bring it with you and didn't change the default settings.
+For me it was crippling extensions. After all the shit they've done to make it more like Chrome I finally decided that I may as well just use the real Chrome.
+Really? The UI is the reason I like it.
+Yep, that's my go-to now. Deluge is also good if you'd like something a bit more extensible and powerful. I like how I don't have to configure a damn thing after I install Transmission though to get it the way I like it. It just does its job with no bullshit.
+Have you ever met someone with chronic anxiety?
+At least if the elite are immortal they might start to give a shit about sustainability.
+Wedding = random people dancing + lots of cameras, and there are way more weddings in the world at any given time than other dance events.
+As a computer engineer you're probably the kind of person who appreciates what classic HP calculators have to offer. Think of them as Linux PC's while TI's are more like Macs. Extremely customizable and hackable if you're willing to dive deep enough. I suggest the 50g.
+I'd like it here just fine if not for the fact that all my friends keep leaving for Toronto.
+[Stryder7x](https://www.youtube.com/channel/UCYDnJiF0_RqSjkjvjRbG1tA) is the Pannen of Paper Mario.
+I wish I could take that credit but I just googled 'site:reddit.com stabbed squirrel'. I knew I had the right one because I've seen it before but still it wasn't that hard.
+Here you go.
+
+https://www.reddit.com/r/worstof/comments/yim45/redditor_kills_a_squirrel_for_karma/
+
+Edit: I do not claim to know whether the person in question killed a squirrel or not. I am a mere finder of links.
+Parents: Is it... supposed to be stupid?
+
+Doctor: It's not stupid; it's *advanced!*
+Wasn't calling your memory into question, just saying how I remember it being.
+Drawing and counting the items to be added is for first grade. A seven year old would be around third grade in North America and should be able to do single digit addition trivially. Pretty sure multiplication is introduced around that time as well, which is a lot easier if you can do single digit addition in your head.
+My first crush often said "okies", in place of "okay". It permanently infected my vocabulary.
+You're in it right now.
+Ever wonder what it could have looked like if they tried harder? [Here's a homebrew version of the game.](https://youtu.be/dAYuBcuvIww) Same console, same cartridge size.
+That's what the No-Intro and Redump databases are for. As long as your Internet acquired ROM has the right checksum it's absolutely no different from one you dumped properly yourself, speaking both technically and morally. As for legality it doesn't really matter. Nobody is ever going to come after you unless you start distributing ROMs on a massive scale, at which point nobody will care whether you dumped them personally or not.
+MSI GE60 0ND laptop, Core i7 3610QM, 16 GB RAM, GTX 660m with 2GB VRAM (And yeah I made sure it's not using the integrated graphics, and textures were on the lowest setting)
+
+Asus ROG G750JZ, Core i7 4770K, 24 GB RAM, GTX 880m with 8 GB VRAM.
+I've experienced this before and I think the GPS itself is working fine. Google also uses the cellular network and nearby WiFi hotspots to assist geolocation when accuracy isn't required or the GPS hasn't gotten a fix recently. If anything about those networks changes it can take a while before Google catches on and corrects their database.
+
+When you open Google maps does it only show the wrong location momentarily and correct itself once it's been open for a while? Does the problem disappear if you turn off WiFi and disable background WiFi scanning? Do you only experience this problem at home, or some other place in particular? These are clues that network assisted geolocation is to blame.
+They kinda sorta do in a lot of curriculums but it really needs a massive update for the current state of the Internet and social climate.
+You forgot SpaceChem.
+That's a strange workaround but thank you, it helps.
+I can't recall the last time I saw some exciting new technology in computer science go from paper to product that quickly.
+Oh fuck me I thought I was on cringe or something, not me_irl. Derp.
+https://www.reddit.com/r/emulation/comments/73a2k6/starfox_performance_difference_original_vs_junior/
+
+(See video)
+
+What's even more concerning than the speed is that the two real SNESes show the Arwing following the exact same path with no controller input, but by the end of the video the SNES Mini is not only lagging behind but has totally diverged from the original hardware and the Arwing is shot down in a different spot, before the other ones crash.
+
+[This one](https://youtu.be/WYHSgKR2gy0) is more difficult to compare due to different controller input between the two but it still seems like the classic is slightly slower.
+You sure you got the right thread buddy?
+I don't think the Wii had any SuperFX titles. It can make a significant performance difference. For example the Pi 2 (pretty much the same CPU as NES Mini) can generally handle regular SNES games fine but not so much for games with enhancement chips.
+Some emulators (ZSNES, outdated versions of Snes9x) do run it way faster than real hardware.
+[Indeed, it is written.](http://thegentlemansarmchair.com/comic/satans-creation-part-2/)
+Nice try SpaceX PR team.
+I think it has to do with the fact that their hardware choice was only made with the NES Mini in mind, and the decision to hastily re-use it for the SNES Mini was made later to save time and money while the buzz from its predecessor was still going. Idk how true that is but it appears that way.
+
+Or perhaps they thought that it was powerful enough to emulate the SuperFX games and only ran into trouble when it was too late to go back.
+They're just really good, for more reasons than I can be bothered to list. They used technological innovations that were uncommon at the time.
+
+https://en.wikipedia.org/wiki/Trinitron
+
+It's worth a read.
+Aw man I had almost the same one but my step dad wanted it gone right away and I couldn't find a place to store it.
+My heart says C instead of D because wallet is holding a gun to its head. Wallet voted A, and wallet usually wins.
+Wow those kinda remind me of 90's Blizzard games.
+There are people who want to *play* old games the authentic way, and then there are nut jobs. (I jest)
+
+I can respect hardcore collectors but I'll never understand them.
+It does appear to struggle on a real SNES too sometimes, just not quite to the same degree.
+Nice, I saw that guy!
+New title graphics, no more lock-on shots unless you obtain a power up that enables them, huge overall difficulty increase, fewer bugs, and the translation is different from the Aeon Genesis one. (And surprisingly good)
+
+Edit: And you have to use the pause menu to switch to third person mode in a dogfight now instead of just hitting select. Some early reports missed this and thought third person in fights was removed altogether.
+
+As for performance it's slower now. That's not actually a problem with the ROM itself but with the SNES Mini. It runs Star Fox 1 too slowly as well. If you play Star Fox 2 official version on a real SNES via flash cart or an accurate emulator like Higan/bsnes you'll experience it at the speed the developers intended.
+Reading only the headline I thought you were a spam bot for a second.
+Saw it in Toronto and it was fantastic. I like that their arrangements don't sound the same as other orchestral renditions of Zelda music I've heard. Symphony of the Goddesses has its own musical flavor.
+Were you in Toronto by any chance?
+Could just be misinformation then. A lot of people were linking to the GPD image early on claiming it was necessary, and some people did have trouble updating.
+That's good to know. Maybe it was just Anniversary Update and newer that didn't work. The thing shipped with either 1507 or maybe the November Update.
+They've been working on a lot of menu related stuff on GitHub. Maybe they just screwed something up in the latest nightly. Try reverting or updating.
+
+Unless you're using the stable version already, in which case I have no idea what's going on.
+Also Canadian, can confirm.
+It's more just adware. Supposedly you can opt out by unchecking a box during installation but myself and others have found traces of on our systems it even though we opted out. That was a long time ago, they may have switched to something less sketchy now, but I don't trust them anymore.
+
+Another way to avoid that is to download the official installer from the Project 64 website and extract it with 7-zip instead of actually running it.
+How is Android + quality gamepad not the best emulation machine?
+Fuck that garbage. Maybe the Kickstarter units were worse than the later ones but would never trust that company again.
+
+Let me list the disappointments in no particular order:
+
+* Came months late
+* Has really shitty buttons especially the shoulders
+* Wired so the fan is on the same circuit as the LCD. The fan won't work if you're using an external display (unless it's duplicated but then you're stuck at 720p and the screen tears)
+* Power LED has no rhyme or reason, it just kinda blinks or changes color when it's in the mood
+* BIOS is a total clusterfuck that was never cleaned up for end users, it can brick the device permanently if you set something wrong
+* Will not accept retail Windows image, needs a custom one and that makes me uncomfortable
+* The first batch of units that went out has broken iGPU's that crash for most 3D games, even decade old ones
+* Some people who tried to send them in for repairs or replacements had their devices vanish for months
+* GPD has no shame or any concept of integrity or customer care, I tried to cancel my order twice long before they actually shipped my unit when I saw reviews and they stonewalled me
+* They also don't seem to have any translators or native English speakers on staff, they link to janky sites that are entirely in Chinese and the documentation/news/support are all in half-assed Ingrish
+* Audio out has a lot of noise due to total lack of electrical insulation
+* LCD is a phone screen which means its native orientation is vertical, certain games can't deal with this and display sideways
+* Oh yeah and the battery doubled in physical size a month ago, thank heavens I noticed before it set my god damned bed on fire
+
+Anyway I don't know much about their Android devices, but at this point I don't care. I would not recommend anybody do business with these fucks.
+Do you mean your phone speakers or external ones? (Or headphones)
+Oh, disgusting. I probably never would have used it anyway but thanks for the heads up.
+Project64 is safe if you download it from EMUCR. The emulator itself has always been clean it's just that the official installer isn't. These guys compile it themselves and don't use the official installer. Here's a link.
+
+http://www.emucr.com/2017/06/project64-git-20170619.html
+I definitely agree on Solatorobo. Have you seen what it looks like when you emulate it in high res? Many textures and characters are twice as detailed as you could ever see on the DS.
+
+As for a different game I'm gonna say Ocarina of Time 3D. It should have been HD instead. Sure it's nice to play on the go but sub-GameCube graphics a whole decade after the GameCube came out? Whoop-dee-doo. It should have switched places with Captain Toad. High quality puzzle games where it's satisfying to play just one or two levels and put it back down are great for handhelds, and 3DS graphics would have been just fine for it.
+If you play the game with [Retro Achievements](http://retroachievements.org) using RetroArch or one of their special emulators, it will track your dragon coins for each world. [Here's the full achievement list](http://retroachievements.org/Game/228) for SMW.
+Having him contribute his voice to a handful of YouTube videos instead of a full audio book isn't a bad idea. Especially if there was some kind of animation to go along with it. As for Norman becoming a 'like Stanley' character, I don't know if I'm speaking for all of us but I have to admit that that's exactly why I want Kevan. I think a lot of people do imagine Norman and Stanley as essentially the same character. I wonder how Davey Wreden would feel about that if he was familiar with Norman. You'd probably want his blessing before you officially rip him off.
+We got a at least a couple episodes that were good enough to be finales, they just didn't come last.
+Rick can remove memories, he wouldn't have let the clone remember the conversation about creating a clone.
+[Better DailyMotion link](https://www.dailymotion.com/video/x62t2wv)
+
+The OP one has audio issues.
+This series has been interesting for old console games but every single person who's ever touched Half-Life 2 has already played with noclip. You should stick to games that aren't so trivial to explore.
+I don't think that's possible with that model.
+You really think he's a dom? I mean come on, a fox? My child, there is much left for you to learn.
+It definitely is the best calculator that will ever be made IMO. I'll be heartbroken if mine ever breaks. I really should grab a spare before factory sealed ones become totally unaffordable.
+I've laid out my thoughts by expanding the comment you deleted. Personal attacks and name calling have been removed. I'm sorry I got so worked up about it.
+Your users are with me.
+You can blame the moderators for taking down an earlier announcement.
+What the heck mods, you shut me down for announcing this here the day after it came out. Did you see the upvotes and realize the sub actually does find it important and relevant? Or are you gonna take this one down too just for the sake of consistency now.
+
+Edit: Okay, I've had a breather. The name calling wasn't really necessary. I don't see how the article is much better than the single sentence I wrote. They don't state much beyond the obvious, and it advocates piracy all the same. There is no other way to experience what they're reporting on. Star Fox 2 is only relevant to emulation enthusiasts in a context of piracy. I suppose the difference is that they put slightly more effort into it and that was enough to please the mods. In any case there's no point in arguing so I'm letting it go and apologize for the personal attacks.
+
+Edit 2: Alright come on gentlemen he was trying to do what he thought was best. I don't advocate downvoting all the mod comments into oblivion.
+Usually you'd be right but IIRC they can get him for this one because the patch itself contains depictions of Nintendo characters that aren't in the base game. So rather than the usual copyright claim for distributing ROMs it's a trademark claim for unlicensed use of the characters this time.
+Fair enough.
+What's with all these people who don't have laptops or HTPC's?
+I'd pitch in at least $10 if someone wanted to manage that. There are over 56,000 of us so it should be doable.
+[It runs Star Fox 2 too slowly as well.](https://youtu.be/8GfKFXbhN0Q) Once again free emulators provide a closer experience to the original hardware than Nintendo themselves are providing.
+Not Higan but SNES9x was handling it about as accurately as it did Star Fox 1 when I tried it. That would make sense since Star Fox 2 isn't any harder to emulate than the first one. SuperFX 2 is identical to the SuperFX 1 apart from having double the clock speed.
+
+[Interestingly there have been head to head comparisons of Star Fox 2 on a real SNES vs the SNES Classic](https://youtu.be/8GfKFXbhN0Q), just like the link above, and the classic runs SF2 too slowly as well.
+Please tell me you're putting aside enough money to get Kevan Brighting of Stanley Parable fame to do an audio version. It would be a dream come true.
+BSNES and Snes9x both have pretty accurate timing for the SuperFX now.
+At least 80% of the full library of games for popular consoles aren't legally available. And that number only gets higher for less popular consoles. The ones that are available legally tend to have DRM or in the case of Nintendo's Virtual Console are bound to your current machine. If you're really lucky they'll let your transfer to a newer machine for a fee but they can just as easily not bother porting it again. And lastly official offerings never have all the features and accuracy of free emulators. So I'd say there are plenty of legitimate reasons to not consider that worth the money.
+Yeah you could definitely think of it similarly to temporal anti-aliasing, just over a longer timespan and without reprojection.
+I'm willing to bet that trailer is raytraced. You're kind of on the right track thinking that they rendered at a way higher frame rate and then down sampled but that's not quite how it works in offline CGI. Each ray fired on a given frame sees the scene at a slightly different time, a random delay between none, and X milliseconds ago depending on simulated film exposure time. This is done dozens of times per pixel with a different random delay each time, taking their average. In reality there's way more to it than I completely understand but the jist is that it's a more physically accurate method than just rendering extra individual frames and blending them. The effect is very similar to what you're describing, it's a lot like rendering at twenty times the framerate and then blending the frames together. As for your second video I'm not sure, it's not as smooth to me and does look like it was rendered in a game engine. Maybe they did it exactly as you're suggesting.
+The first link is the combined effect of 60 FPS rendering and film-quality motion blur. You can see it pretty easily if you pause. Motion blur is part of the reason 24 FPS films look way smoother than 24 FPS in a video game. It stands to reason that 60 FPS with filmic motion blur will look smoother than a 60 FPS game with fake or absent motion blur.
+Indeed, and some of them always pick the smaller herd, just as some always pick the larger one. Neither is a good general policy.
+No silly, that would make way too much sense for Nintendo. They should find a way to shut him down instead.
+One of ours is always referring to the delivery guy as the Pizza Fairy.
+People have tried overclocking the SuperFX chip in emulators as well as real cartridges and the result was always the same. Game runs much smoother but the timing is messed up. It won't go too stupidly fast because there's a software limit but you can tell they compensated for slow frames in cut scenes. For example when the Arwings are flying out of the Cornerian base in the first level of SF1 the announcer won't even finish his lines before the scene ends. Similar issues in SF2.
+
+I kind of like to play it that way sometimes but it's not an elegant enough solution for Nintendo. They don't want the experience to look janky at all.
+Don't you dump this on us.
+I've found the worst emulators on Android are the ones for first and second gen consoles. Apart from the ever popular Atari 2600 many consoles have really finicky emulators with input problems, are otherwise crappy, or just don't exist.
+[YouTube sauce](https://youtu.be/PfR7sx3t3_4)
+They make blocks that can stop the 5000 tonne presses at my workplace. Surely they had something like that around?
+[Here's a pretty darn good upscale from Waifu2x.](https://i.imgur.com/N0HMQzP.jpg)
+[Until OP gets back, here's what I pulled off with Waifu2x.](https://i.imgur.com/N0HMQzP.jpg)
+Hey, I was gonna point that and and take the karma myself, you jerk.
+
+Seriously though you were my primary inspiration to learn 3D modeling, so once again thank you for everything.
+Probably, but I don't think most of them pay enough attention to machine learning to see where it is now and where it will be soon, which is closer to what I was referring to earlier. I think it's going to be an unfortunate surprise for most. And that doesn't just go for truckers. My job is also one that will probably be automated within the decade and people don't see how quickly that's coming either.
+Not that truckers are automatically dumb but they are less likely to be educated, especially about technology.
+Good lad using those asterisks. Wouldn't want to have to call your mother.
+Decent fundamentals for lossless but if you're not gonna mention the Fourier transform, discreet cosine transform and related algorithms don't even bother bringing up music, movies or lossy compression thereof.
+
+Without that context a JPEG demo will teach you nothing.
+
+Edit: You should probably talk about sampling and color spaces before you get into frequency domain stuff, now that I think about it.
+Version numbers aren't decimals.
+You can fit every ROM in existence on a big enough SD card just FYI. Comes in handy for these situations.
+
+Search "no-intro collection" on archive.org.
+You can fit every ROM in existence on a big enough SD card just FYI. Comes in handy for these situations.
+
+https://archive.org/download/No-Intro-Collection_2016-09-06
+
+By the way this link is legal, archive.org has DMCA exemption.
+I think your issue is different than the one addressed by the guide I linked then. Sorry I couldn't be of more help.
+The way Android used to show the notification text in the status bar.
+Oh, sorry. Although the advice about manually setting your refresh rate still applies today, that post is kind of old. I think by "RetroArch Android Cores Manual" they're talking about some outdated unofficial document from 2013. I can help you determine whether system requirements are a factor or not. What kind of phone do you have and what cores are you experiencing choppy audio or video with?
+I'm not sure which core you're talking about.
+Better fucking be available in more than two countries. Why do I pay the same price Americans do for Play Music and not even get the ads removed from my YouTube?
+I think it would make more sense if they just let you play the audio through your phone, which is probably just a software problem.
+Does that restore the ticker or just make notifications invisible?
+Is there even anything left to improve? Seems like the Ultra should be fine for at least a few years.
+Where can I read more about that?
+Sounds like a fairly common problem, you might want to look here if you haven't already.
+
+https://forums.libretro.com/t/retroarch-android-read-if-you-have-crackling-audio-bad-video/224
+Apologies if you already tried but did you check out this guide?
+
+https://forums.libretro.com/t/retroarch-android-read-if-you-have-crackling-audio-bad-video/224
+If you can beat EGttR in under two hours you're not doing it right.
+I prefer RetroArch most of the time but I use Mupen64Plus FZ and DraStic as well. Most recently I've realized that while the Atari 2600 core (Stella) works well enough for most games it's outdated and buggy compared to 2600.emu, which uses Stella 4.6 as opposed to the 3.9 fork RetroArch has been stuck with. RetroArch's Stella just flat out crashes for homebrews that use advanced bank switching schemes for instance.
+You can't. Those zip files don't include binaries for ARM. ARM versions of the Android SDK tools simply do not exist.
+And poorly mixed movies where quiet dialogue is inaudible but you can't turn it up any louder for fear of shattering your windows with the sound effects.
+He probably would have gotten something in his eye all on his own.
+* Pump up the brightness, turn on display rotation, turn on do not disturb mode when I'm gaming, watching videos or certain other conditions apply
+
+* Launch emulator and disable its on-screen controls when my gamepad is connected, re-enable the on-screen controls when gamepad is disconnected
+
+* Make Google Assistant always reply to voice commands at full volume
+
+* Toggle brightness presets by holding the home button
+
+* Read text from my clipboard out loud on demand
+
+* Disable rotation, set brightness to zero and enable do not disturb mode when it's time for bed
+
+* And last but certainly not least, use YouTube-DL to save videos with a single tap
+My 625 is handling most N64 and PSX games just fine.
+I can see the convenience of buying bottled water when traveling, but as for your daily routine there's really no excuse.
+Nexus 5, it was my first phone in general.
+[Opus](http://opus-codec.org) if you're going for maximum efficiency. ~96 kbps VBR should do it. If you don't want to use command line tools Foobar2000 with the encoder pack should help you out.
+I prefer to think of the early stage of experimenting with different proto-tulpas as invitations and goodbyes, rather than a singular tulpa that keeps changing in form, and while some of them may never fully develop they will always remain a part of me, incorporated into my own personality. No matter how you choose to approach it I don't think there's anything wrong with some trial and error when it comes to finding a tulpa who is well suited for further growth with you. As for the pain it's possible you're just missattributing.
+That one is also good as far as I know.
+Could you please name the games, the cores you're trying to use, and the checksums/hashes of the ROMs so we can tell if you got some bad dumps.
+
+Also please clarify, do you mean there's a crash or something, or the games just don't show up in the library after scanning? Can you manually load those ROMs using the "load content"menu?
+Not deep snow. Maybe like a recently plowed sidewalk, and even then not for very long.
+I'd go with GBA.emu. Robert Broglia's emulators are all well maintained, fairly accurate, and have all the features you'd expect. He also respects open source licences unlike many other emulator publishers in the Play Store.
+This game really needed DLC levels, it could have stayed popular for years.
+Jesus, I've been waiting for those features since Jellybean.
+Programming is one of the things where I believe innate talent is a strong factor. Not to say that programmers are overall smarter than non-programmers or anything like that but your mind either works that way or it doesn't.
+That's what it sounds like to me.
+They're using off the shelf hardware to send EEG data to a web server that barely does anything yet. This is a breakthrough how exactly?
+There was a picture of a person performing improvised sex reassignment surgery on themselves, in a bathroom, right at the top of the page.
+List of Cognitive Biases fits well with those.
+I don't mind voiced player characters as long as the gameplay gives me some freedom to act according to my beliefs, values, and goals.
+Ah that's a really heavy shader. I'm not sure about all of them so you'll have to experiment. The caligari, pi, and nes-mini CRT shaders should be the most battery friendly.
+To set a default shader just load a preset and then hit apply changes. You must hit apply changes or it won't save as the default.
+That seems a little too fast. Got shaders enabled or anything like that?
+[I wouldn't recommend the GPD Win at all.](https://www.reddit.com/r/EmulationOnAndroid/comments/6tvtrz/slug/dlp7p7l) If you already have a suitable phone you may do better with a Bluetooth gamepad with a phone clip than a dedicated gaming device. I like the GameSir G4S and 8bitdo SFC 30.
+Unless you have a crazy powerful phone Snes9x is a good choice. You might need the 2010 version for SA-1 or SuperFX games though. That's the case on my Snapdragon 625 powered phone.
+The latest version is 18 (CC 2017) so perhaps the issue has been addressed by now. I know content aware fill has received plenty of tweaks.
+
+It could also have something to do with your version likely being pirated. 14 is Creative Cloud but if you actually had a subscription you'd be up to date.
+Ah, then I have no idea sorry.
+The Windows clipboard doesn't support transparency in images. You'll have to download the image with your browser and then open it with Photoshop.
+It is a Windows thing. Clipboard has no alpha channel.
+I don't think it works that way. What version of Photoshop do you and your friend each have?
+X and Y are concave on the American controller. On the Japanese/European model all buttons are convex.
+Sweet, thanks for the heads up.
+[It was the pixels.](http://knowyourmeme.com/memes/this-looks-shopped?full=1)
+Not calling your post fake. I mean the picture they sent you looks bad.
+Derp.
+I'm willing to bite my tongue when I see these at some sketchy kiosk in the mall but recently I've started seeing that shit in my pharmacy, right next to real medicine. The store owner should be ashamed.
+When anybody involved makes a penny from it. All professional porn is fake looking garbage IMO.
+This looks shopped. I can tell from some of the pixels and from seeing quite a few shops in my time.
+Even if you're wrong about the intent, you're probably right about the effect.
+I agree but just to warn you we're all about to end up on /r/verysmart.
+I really miss the fries. They used to be some of the best fucking fries around IMO and I'd pile my plate high with them. Now they're cardboard and I refuse to buy them.
+[Abandoned](http://www.jajaben.com/abandoned.html)
+
+I found it in the [Pirate Bay Bundle](https://arstechnica.com/gaming/2014/03/pirate-bay-bundle-shares-101-little-known-indie-games-via-bittorrent/), which is now preserved on [archive.org](https://archive.org/details/the-pirate-bay-bundle).
+
+>Abandoned is an adventuregame about abandonment and loneliness. The player controls the result of a failed genetical experient that tries to find the exit to the lab it was born in. But all rooms are similar, and there is nobody around to help him out.
+Music by rachael please.
+
+In the spirit of the thread I suggest checking out the entire bundle but this one was my favorite.
+Just FYI Opus 1.2 is just the version number of the reference encoder. It still generates files that meet the original Opus spec, as do third party encoders that have different, unrelated version numbers.
+Probably Star Fox 64 because it contributed to my entering the furry fandom, which in turn has impacted my life in many ways.
+eBay is showing me about $120 USD on average, give or take $40.
+I'd look for a used or refurbished Nexus 7 2013.
+Fuck me I didn't even think of that. I mean I know he does both voices but god damn he deserves some kind of award for this episode. Ideally a very large and shiny award.
+Come out with your hands behind your head and approach the van in front of your house please, or we'll do this the hard way.
+I don't think it's hypocritical to see those two situations a bit differently.
+No, but the collective effort behind the hoax is quite impressive.
+I'm here to lend my services as an expert furry porn archaeologist.
+
+Seriously, I'll try.
+Yep, this is definitely a thing in Toronto and Waterloo Region.
+I just looked into it more and from what I can gather he did have a full ROM up at some point but replaced it with a patch and Nintendo gave up.
+It's waiting until the day I put a TV in the one fucking room it gets a signal.
+[I'll just leave this here.](https://i.imgur.com/14ZAwZT.png)
+It's probably not saving the configuration for the same reason it's not writing saves. You can manually save the configuration from the configurations menu, from the main menu. Just hit save current configuration after turning on auto saving. And you might want to check your hotkeys and input key binds and see if you're pressing the right thing to open the menu.
+Quick saving and loading can be done via the quick menu, which is normally accessed by pressing F1 during a game. (Or any key you'd like, I'm not sure what the default is on Android. It can be remapped in settings>input>hotkey binds)
+
+As for in-game saves, they only get written to disk when RetroArch is shut down properly via the menu or hitting escape. If you close the program by swiping the app away for example it won't save. Same if it just crashes. I suggest going into settings>saving>SRAM autosave internal and setting it to five or ten seconds, but try to close RetroArch properly instead of relying on that.
+They already DMCA'd that developer for an earlier SM64 hack so yeah it won't take long.
+Yeah you got me. /s
+I don't work for Starbucks or anything but the ones I get aren't anywhere near that shitty.
+I'm here from /r/undelete.
+I've heard they don't like it when an emulator has screenshots of commercial games. Google doesn't want to look like they condone illegal ROM sharing. Screenshots of homebrew ROMs are fine.
+https://www.reddit.com/r/Bad_Cop_No_Donut/comments/6xbsot/salt_lake_police_officer_arrests_nurse_who/
+Yeah torrents are usually better but they aren't a good way to handle big libraries like No-Intro that are old but frequently updated and expanded. That just spreads the seeders thin and leaves the original bulk to die as all the seeders move on to the updates.
+
+I couldn't find a single torrent that wasn't outdated or severely starved for seeders in this case.
+Eh, I only had to pay $5 once and that was because I wanted to download the entire No-Intro library in one day.
+When my buddy arrested nurse Alex Wubbels.
+As far as I know there is no firm release date yet.
+It won't hurt your phone. What emulator are you having this problem with?
+Okay, thanks. I'll try that.
+[Checks out pretty easily.](https://i.imgur.com/yJIri5m.png) And my collection includes the video carts and non-American games too. Cartridges are laughably small.
+I'm so glad RetroArch lets you undo your last save/load action.
+Everyone needs practice obviously. You're making the wrong comparison here. Some people naturally progress twice as fast with the same amount of effort/practice. Discipline and innate ability both play a part.
+Upvote for Solatorobo.
+Yes, if you use RetroArch.
+Sorry, I think that was me.
+My only regret is finding out right after I bought several hundred dollars worth of standalone licenses for their products.
+If it makes you feel any better OP, I didn't.
+It's simply baffling. We already have the ability to disable battery optimization for certain apps, why don't we have a similar way to suppress memory optimization?
+One of those rare occasions the gif is funnier. Little bit too much setup time and lame voice acting.
+We would have lost way more stuff if not for the sheer number of copies that exist thanks to people just downloading for fun. I'd say even they contribute a little bit.
+
+The people who maintain our best archives sure as hell didn't rip every cartridge themselves.
+\[Moto Z Play - Nougat\]
+
+Stupid fucking memory manager just closes background apps without even fucking telling you. Nevermind that it was a twelve hour operation and now I have corrupt file. Which I had to download all over again. After first testing all 1771 of them to even find the corrupt one. And then remember the long-ass five step command I typed yesterday, because I was just relying on keeping the session open. Had to reboot the phone just to get it to stop doing that.
+
+How about you suspend some of your fucking spying bullshit before you interrupt my work without warning you useless piece of shit.
+Don't give a fuck, it's ugly and inconsistent because I'll be dead before every app I use supports it properly. Let me disable it god dammit. I've been forced to use a third party icon pack now.
+I think most of the libretro CG shaders work with SNES9x standalone. I don't have a PC right now so I can't confirm.
+
+If it doesn't work you can always use SNES9x via RetroArch. I use the glsl shaders with RetroArch on my Android phone and it looks great on SNES games.
+I can live with that.
+If you like that one try ScaleFX, it's newer and better, particularly when it comes to eliminating stairstepping. Check out those nice gentle slopes on the Super Mario World title text.
+
+https://i.imgur.com/VZfpaWK.png
+
+https://i.imgur.com/Mi4o1QI.png
+
+It's can be found in libretro shader collection.
+Copying my comment from the other thread:
+
+If you're interested in this issue at all I strongly suggest watching [this GDC presentation by Frank Cifaldi](http://www.gdcvault.com/play/1023470/-It-s-Just-Emulation).
+
+Here's a choice sample:
+
+>"According to the Film Foundation, over half the films made before 1950 are gone," Cifaldi said. "I don’t mean that you can’t buy these on DVD. I mean they’re gone. They don’t exist anymore." For films produced before 1920, Cifaldi said, that number jumps to 80 percent.
+
+>"That terrified me. I wasn’t particularly a film buff, but the idea of these works just disappearing forever and never being recoverable scared the crap out of me. So I started wondering is anyone doing this for games. Is anyone making sure that video games aren’t doing the same stupid shit that film did to make their heritage disappear?
+
+>**"And yeah, there were people doing this. We didn’t call them archivists. We didn’t call them digital archeologists or anything. We called them software pirates."**
+TIL about crown shyness. That's pretty cool.
+I don't understand this analogy. You could just use a hospital breathing mask, which is less traumatizing than injection and associated with tranquility and dignity. Use something inert like nitrogen and it's a very peaceful and efficient death.
+
+I'm personally against the death penalty altogether but if I had to choose a method it would be that.
+People like you are why the industry had to change graphics setting names from *low>med>high>ultra* to *high>ultra>orgasmic>Nirvana*. To calm your outrage when you can't immediately turn every knob as far as it goes, future-proofing be damned. It's exactly what Crytek had to do with their second game after that kind of reaction to the first one. Why can't you just be happy that in a few years after your next upgrade the game will look even better.
+What the fucking hell I can't even get close to the danger machines at my job before the laser fields detect me and stop everything instantly.
+I know how you feel. I'm strongly considering getting an HDMI modded N64 and EverDrive at some point.
+We have a cycle accurate emulator, CEN64. Very promising but too slow for current day computers. So even in the worst case we can just wait for Moore's law to fix that.
+I hope they make that an option on the 4K BluRay.
+They didn't redo any of the CGI, just sharpened it up a little to match the restored film.
+My only complaint is that they didn't use the director's cut. Other than that fantastic job. The footage looks better than it ever has before.
+Seems like it was timed for a live voiceover but we only got the video.
+So if I understood the description correctly, this is a head mounted display where your eyes will actually have to focus to the distance of the object you're looking at? As opposed to the current gen where everything appears to be in focus?
+Well, we know what the modding community must do now, and Black Mesa has shown us that it's not impossible.
+Oh that's clever, thanks for sharing.
+Unfortunately RetroArch can't do that yet.
+I know what I'm doing this weekend.
+>leading up to the re-release of Terminator 2
+
+Leading up to the ***what!?*** How did I not hear about this.
+
+Anyway that was a fantastic article.
+It's a lot better now than it used to be thanks to switching to the Opus audio codec. It's still lossy but it should sound as good as the source. It doesn't solve the problem that every consumer device or program for video production defaults to shit bitrates however.
+Search for Robert Broglia on the Play Store. He maintains several good emulators. For N64 I suggest [Mupen64plus FZ](https://play.google.com/store/apps/details?id=org.mupen64plusae.v3.fzurita) and for Nintendo DS [DraStic](https://play.google.com/store/apps/details?id=com.dsemu.drastic) is the way to go. We also have [RetroArch](http://retroarch.com), which has loads of features and can emulate just about anything you throw at it. The interface can be a bit intimidating or clunky at times but it's well worth learning.
+Hi gay, I'm dad.
+So far all of Nintendo's virtual console games have been emulators packed with a plain old ROM. The NES Classic also contains an emulator and ROM files. All of them were eventually dumped. It's possible they took extra precaution with the SNES Classic but I expect someone to dump the ROMs from that sooner or later.
+
+Also Star Fox 2 was 100% complete and ready to go. It's just that the leak was a slightly older beta build.
+I know, should have that in a week or two.
+Except for you apparently.
+And what would you suggest I do instead? Buy something? Please tell me where to send the money.
+I only wish I could take all the credit but the destruction is going pretty well without me.
+All six of them?
+Agreed, very high quality.
+Whoever created you is my personal hero.
+He googled in front of the class instead of having any pictures saved in advance? I have a feeling your teacher knows *exactly* what he's doing unless he's really that disorganized.
+It sure does, along with all the other features that come standard with RetroArch.
+Huh. Maybe I should browse more often.
+It feels more like this place is two thirds collecting to me but whatever floats your boat.
+Do you know any places that are more about actually playing than collecting?
+Would zebra fish and flies really be able to tell the difference?
+Sorry, I misinterpreted your comment.
+"Exclusivity sucks" says the guy who supported a bunch of scumbags who want to make everything exclusive. Sorry but you kind of deserve this.
+Aw yeah. I have literally all of it on my phone. (Except for DS, I had to skip all the non-American releases) Technology is beautiful.
+The industry cannot be trusted to preserve its own heritage.
+Nobody says it like Frank Cifaldi.
+
+>"According to the Film Foundation, over half the films made before 1950 are gone," Cifaldi said. "I don’t mean that you can’t buy these on DVD. I mean they’re gone. They don’t exist anymore." For films produced before 1920, Cifaldi said, that number jumps to 80 percent.
+
+>"That terrified me. I wasn’t particularly a film buff, but the idea of these works just disappearing forever and never being recoverable scared the crap out of me. So I started wondering is anyone doing this for games. Is anyone making sure that video games aren’t doing the same stupid shit that film did to make their heritage disappear?
+
+>**"And yeah, there were people doing this. We didn’t call them archivists. We didn’t call them digital archeologists or anything. We called them software pirates."**
+Dude call a cop and/or a doctor. NOW.
+[K](https://about.reddit.com/advertise/) - [here you go](https://www.reddithelp.com/en/categories/advertising).
+I mean... Reddit is the largest English speaking web forum in the world these days. It's bound to happen.
+I swear I had an accurate dream about this place long before I had ever seen a picture of it.
+I really don't want to end up on /r/IamVerySmart but... Yeah. That matches my experience.
+There's nothing to report. Reddit gives advertisers seminars on how to manipulate the site.
+Yeah try buying a decent pair of glasses unless you planned like six months ahead. Fuck me.
+A flying crossbow shot seemed way closer to "an arrow loos'd" than the playground boat did to "a shipwreck". I even thought of the boat before I answered I just didn't think it counted as a shipwreck.
+XMB when I'm using my gamepad, RGUI with a controller overlay otherwise. I don't like GLUI at all.
+Oh sorry I should have explained. That setting is actually under Settings > Driver > Menu Driver. I guess that's not the first place most people would look. XMB is currently the only one that shows thumbnails.
+Sadly this isn't exclusive to China. America has a shitload of child concentration camps. See /r/TroubledTeens for more information.
+I have it set up to download the video if have a YouTube link in my clipboard, and reconfigure my emulators depending on whether my gamepad is connected.
+ScaleFX is the best IMO, and quite performant too. The hybrid version is good for CGI and detailed anti-aliased stuff. The regular version is good for pixel art.
+The server does crap out occasionally so try again later.
+Are you using XMB menu? What are your current settings in User Interface > Appearance?
+Just overwrite everything except RetroArch.cfg. It won't hurt anything.
+The bottom won't be flat anymore. You'll feel it with your hands.
+That's what started happening before my battery significantly expanded in size. If you see that unplug and discontinue use immediately until the battery is replaced.
+I bought into the Kickstarter for their most recent device, the GPD Win. It's basically the same form factor as their Android gaming devices but runs Windows and has a tiny keyboard on it.
+
+Let me list the disappointments in no particular order:
+
+* Came months late
+* Has really shitty buttons especially the shoulders
+* Wired so the fan is on the same circuit as the LCD. The fan won't work if you're using an external display (unless it's duplicated but then you're stuck at 720p and the screen tears)
+* Power LED has no rhyme or reason, it just kinda blinks or changes color when it's in the mood
+* BIOS is a total clusterfuck that was never cleaned up for end users, it can brick the device permanently if you set something wrong
+* Will not accept retail Windows image, needs a custom one and that makes me uncomfortable
+* The first batch of units that went out has broken iGPU's that crash for most 3D games, even decade old ones
+* Some people who tried to send them in for repairs or replacements had their devices vanish for months
+* GPD has no shame or any concept of integrity or customer care, I tried to cancel my order twice long before they actually shipped my unit when I saw reviews and they stonewalled me
+* They also don't seem to have any translators or native English speakers on staff, they link to janky sites that are entirely in Chinese and the documentation/news/support are all in half-assed Ingrish
+* Audio out has a lot of noise due to total lack of electrical insulation
+* LCD is a phone screen which means its native orientation is vertical, certain games can't deal with this and display sideways
+* Oh yeah and the battery doubled in physical size a month ago, thank heavens I noticed before it set my god damned bed on fire
+
+Anyway I don't know much about their Android devices, but at this point I don't care. I would not recommend anybody do business with these fucks.
+What games did you have in mind? It's a longshot but I've seen memory cheat codes that disable the music for some games.
+GPD really burned me and I haven't seen an Android gaming device that looked high quality. You're probably better off getting GameSir or 8bitdo controller to use with a decent regular smartphone.
+What was the audio latency setting in RetroArch? It's 128 ms by default I think but if your hardware can handle it you can turn it down to 32 ms, which is a difference of a few frames.
+It's really nice once you get it the way you like it and know how to repeat that process if necessary. But the first few weeks with it were nothing but endless tinkering for me.
+Yeah that sounds about right.
+Holy shit I thought they abandoned Android completely. Been using the website on my phone cause of how old and clunky the app was.
+I can get them to understand video games but cannot for the life of me get them to understand watching other people play video games.
+A lot of those use Daily Motion as the video host.
+.sav is not a file format. Just because two emulators for the same console use the same extension for saves does not mean they are at all compatible.
+
+I suggest using RetroArch so that it's easier to use the same emulator on each of your devices. Even if you do that, transferring state files won't always work but SRAM files are generally safe to use across different cores or versions of the same core.
+The fact that it even works when you don't know is crazy.
+I was thinking about the majority, Windows users. If you've got a properly configured Linux setup you're fine to do your sketchy stuff on that.
+
+Now if you try to tell me it's still better to do your sketchy stuff on Windows than an up to date Android phone I'm drawing a line.
+Do all the sketchy stuff with your phone. Mobile operating systems are locked down way better than anything built on decades of legacy. Just keep in mind rooting or jailbreaking ruins that. And be very diligent about the apps you install.
+LCD's have improved a lot in the last decade and now we have amazing GPU shaders for enhancing pixel art to take full advantage of modern technology or recreating the original experience. For most games I like to use the ScaleFX shader by Sp00yFox.
+
+[There's a sample here](http://filthypants.blogspot.ca/2016/03/new-and-updated-shaders.html), along with some other new shaders. And get this, not only does it look way nicer than good old HQX or XBR but is also crazy efficient and can actually be used on a phone.
+What operating system are you on? Some have different system directories like Android, (which they recently changed). What is the system directory set to in your RetroArch directory settings? And what are the filenames of the BIOSes you downloaded? We can help more with that info.
+You didn't answer the question at all. OP wants to know *why* they decay, not how to calculate the exact rate.
+He could be a founding moderator of T_D and the admins would keep looking the other way.
+[**N64 - Mupen64plus FZ edition**](https://play.google.com/store/apps/details?id=org.mupen64plusae.v3.fzurita) (free)
+
+Emulates about as well as RetroArch, maybe a smidge faster. I just prefer this sometimes because it's easy to set up and has a nice GUI. (N64 emulation takes soooo much configuration fiddling depending on what you want to play you really want to streamline that)
+
+[**DS - DraStic**](https://play.google.com/store/apps/details?id=com.dsemu.drastic) (paid)
+
+Don't even bother with anything else on Android unless you're a cheap bastard. Otherwise there's NDS4Droid or RetroArch.
+
+[**PSP - PPSSPP**](https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp) (free)
+
+There's also a RetroArch PPSSPP core but it's old and the standalone version is recommended.
+
+[**Pretty much everything else - RetroArch**](http://retroarch.com) (free)
+
+It's difficult to do this justice if you're not already familiar with it but aside from the standalone emulators mentioned above, which I find more reliable for 3D-era consoles, RetroArch should cover all other needs. Just check out the link and take a look at that feature list. Check out the libretro forums or /r/RetroArch for further assistance because as awesome as it is, it's not always the most intuitive.
+Install F-Droid, add the [libretro repository](http://buildbot.libretro.com/repo/fdroid/repo/). Bam. Daily RetroArch updates for life.
+Based on my impression of the regular 8bitdo SNES30 controller, wait for the pro. I strongly doubt you'll find a smaller controller with all those features and even a fraction of the build quality.
+God fuck those guys. I'm fine with commercial emulators. I'm fine with copyrighted ROM distribution by legit archival projects. But you have to be a real piece of shit to actually try and profit from the games as well.
+
+(In reply to all those TV boxes they sell without a qualm)
+Facebook generates shadow accounts for people before they even sign up. Sure you can opt out of having a personal feed, but you probably haven't opted out of the tracking scripts that appear on almost every page you visit. (That's what the share buttons are really for) You can't opt out of Facebook buying information on you from other data brokers, or selling yours. And you definitely can't avoid every single smartphone in the world. Every person you meet is likely wearing a facebook wire you didn't consent to your voice being recorded with. You're in Facebook's world now whether you like it or not.
+It's not any book.
+Sounds like you've looked at Quick Menu > Controls but did you look at Settings > Input > Input User 1 binds as well? You get there from the main menu *before* loading any cores or games.
+
+This is going to be confusing at first but those menus accomplish totally different things and you need to understand both of them. Settings > Input is about how your physical input device maps to the ["RetroPad"](https://forums.libretro.com/t/gamepad-configuration-101-wip/8638) (see that guide it should help) and Quick Menu > Controls is about how the RetroPad maps to the emulators input. It will start making sense when you buy a different brand of gamepad after setting up all fifty cores the way you want them.
+
+Since you mentioned the GameSir G4s, I actually had that one, and if I recall correctly the autoconfig for it needed some adjustment but N64 controls worked after that.
+It's on F-Droid and the buildbot server. Not that I agree with Amazon.
+It's also under quick settings for the current game. You might need to use the online updater to acquire the cheat database first if it wasn't bundled. Remember we can't assume OP downloaded the complete package or even has a keyboard to press F1 with.
+Yeah simple ones with some frameskip. If DeSmuME doesn't work to your liking you should try running DraStic through Bluestacks. (Yes, that is running a DS emulator inside of an Android emulator on your Windows handheld) It's actually still faster than DesMuME plus it handles high res 3D better and has custom screen layouts too.
+Nice, I only saw the first post recently and didn't look much further into it before. I'm excited about the possibility of this work contributing to a full RetroArch port in the future, but I see that thread is going a little stale. Has there been any progress on that front?
+Are you the guy who posted [this project](https://forums.libretro.com/t/libretro-port-to-uwp/10451) in the libretro forums?
+I missed it at first too.
+Yep, I emulate on my Z Play and has far surpassed my expectations as a retro gaming device.
+Have you tried their regular SNES controller? It feels really good since it's closer to the original than their other models. (You can swap buttons and rubber inserts with a real SNES controller) The d-pad seems faithful as well.
+
+I've only used it on Android and it connected fine so I can't speak for the connection problems you mention.
+
+It's a little top heavy with a phone attached but I'm not sure how you'd solve that. Handles would help but then it wouldn't feel like a SNES controller anymore.
+RetroArch is the winner for tight AV syncing and low input delay. If your machine can handle it, the following settings will help:
+
+Video > full screen: on
+
+Video > threaded video: off
+
+Video > hard GPU sync: on
+
+Video > hard GPU sync frames: 0 (lower is better)
+
+And if that all works you may as well turn down the audio delay too. 32 ms is a safe lower bound.
+Overhauled netplay in RetroArch came a while ago, and it has a spectator mode and player switching. 
+Yes, among the hotkeys you can bind is a netplay swap players function. That's under "Settings > Input > Input Hotkey Binds".
+
+I haven't tried it though. Let me know if that works.
+Yeah you'll need an OS installation disk for your virtual machine.
+I don't think Nightmare Ned is going to work in retroarch. That's a Windows game, and it's not one supported by ScummVM either. You should look up a compatibility guide for it on newer versions of Windows or use a Windows 98 or XP virtual machine to play it.
+The most complete fan-patched version didn't so much as complete what was still missing as tape over some the holes in the code. It's also a bit crashy even after that.
+You think they'll check the contents of the pipe before beating the shit out of you or worse?
+It's not that bad...
+Looks like the updates are mostly frontend stuff that's already handled by libretro or won't be exposed to the libretro frontend, except for a small handful of core fixes.
+I don't know you and I never will, but I'm sincerely happy for you. You're stronger than most. Keep it up.
+That's a feature?
+So what do you do with them?
+Ogling - creepy
+
+Glancing - pretty normal
+In that case I think you want /data/data/com.retroarch/cores.
+Nope. No Super Gameboy for you.
+It's in the app's private storage folder. You can't go there without root access. It has to be there because that's the only place Android apps are allowed to load dynamically linked libraries (that's what cores are) from. So until they add a way to delete them using RetroArch's GUI, you can't get rid of any cores once downloaded.
+Think of all the Pokemon sales they were losing to *Minecraft*...
+Not sure if Don Hertzfeldt reference...
+I agree personally, but I respect the other camp. I feel kind of bad for people who want the originals but get duped.
+I was about to ask if it was my shop in Cambridge.
+It asks me to help train their self driving car image recognition network like 95% of the time, usually multiple times.
+Look in the forums, in the emuporium section and search "no-intro". They have full sets uploaded to MEGA but you'll need to register to see the links.
+
+Nintendo didn't look there.
+Yes, but you could also tell retroarch to use a different port that's already open. Or you could look in your routers settings for "DMZ" and set it to the LAN IP of your computer. If you have Windows firewall turned on you might have to open the port there too although retroarch is supposed to do that automatically now.
+
+For more specific help please tell us what brand and model your router is.
+RetroArch with Nestopia and Snes9x cores, Mupen64plus FZ edition, DraStic. And I'll probably install Gambatte and some GBA emulator soon.
+
+All on Android phone because I have no PC right now.
+He's not dead, he just cut all communication with Exophase.
+Good work. That article was painfully ignorant.
+Hey there's no harm in suggesting a trip to the doctor, unless you live in some backwater country where that costs a lot of money 
+I was expecting [this one](http://www.smbc-comics.com/?id=3370).
+Oh shit me too. That's awesome.
+It has to be their own internal build because they don't own the rights to the English fan translation.
+That version isn't 100% finished and the translation is unofficial.
+I'm not always very zen.
+b1ackcat is right. However, there are plenty of good public domain fonts out there. Check out the [Google Fonts](https://fonts.google.com/) collection. All of those are open source and free for commercial use.
+But my Exogenesis...
+Confirmed.
+People who call themselves agnostic either don't know what atheism actually means, (a lack of belief one way or the other) want to feel intellectually superior to people who call themselves atheists, or don't want to be lumped together with "atheists" by other people who don't know what atheism means.
+
+You are an atheist.
+Naw, take a look at [this](http://i.imgur.com/5mwv2.jpg). The rock textures and lighting for the outdoor areas used cooler colours in Half-Life 1. The new colour correction brings Black Mesa closer to the original. That said, I think I prefer the uncorrected Black Mesa colours.
+Welcome to the Dark Side, please help yourself to the complimentary cookies.
+Why not make the castle actually look anything like Peach's castle...?
+Kind of a moot point when getting a full time job won't help you get out of your parents place in most cities anyway.
+If you need to delete a directory on a Linux machine via the terminal I'm your guy.
+They're both fine. Why would you get so upset over someone's personal preference one way or the other? (Unless it's internet explorer)
+It's just really efficient. It's pretty much transparent at 96k for stereo music. It's even more amazing for speech - a mono podcast or audio book can sound perfect at 32k.
+Opus is where it's at now if you have an Android or Rockbox device. It's the official successor to Vorbis and Speex.
+It's kinda complicated. Use Xowa. It's an offline Wikipedia client that will get everything set up for you and point you to the most up to date image databases.
+Seems believable to me. Every artist I know is like that.
+That 60 GB is the embedded-size pictures. Full size is over a terabyte.
+You can make an American iTunes account if you're willing to fund it by importing American gift cards. That's how I get the show in HD somewhat legitimately.
+I was scared and delayed seeing the doctor too. You're not alone in this. If it's any comfort the odds are in your favour, cysts and other benign growths are much more common than cancer.
+Smaller than that. You should see your doctor.
+Wow that's pretty cool actually, thanks for sharing. I guess the guy OP refers to meant 800 WPM maybe? That's too much for me but it seems possible.
+Yeah. The pain eventually went away. Just be patient.
+That's how they definitively determine whether a lump is a harmless cyst or a tumor.
+
+Source: had a harmless cyst
+You should submit corrections and feedback. Google's Geo division is one of the few that actually take that stuff seriously. In my experience it only took them a few days to roll out the suggested changes.
+Also the build guide for every open source project ever. Nine times out of ten it's harder for me to get the fucking code compiling in the first place than it is to actually implement the change I want to make.
+[Nothing gets past you.](https://m.imgur.com/BTr7vwj)
+It's happening with Relay as well.
+"I wonder how Cheese is gonna react to this", Puncay said yesterday.
+So where do I get it in FLAC?
+[Yes](https://i.imgur.com/qHdrmso.png).
+No it was [this one](https://i.imgur.com/qHdrmso.png).
+I strongly doubt it has anything to do with DirectX itself.
+That was brave, dolphin could have damn near ripped her arm off for trying to take his new toy away.
+**Δ𝒕** motherfuckers, do you use it?
+Wow you're gonna make all the Canadians here jealous with your 1TB cap.
+I haven't used it but I don't think any smart DNS service should affect your speed, only VPNs.
+They do have different connotations.
+That's cool and all but I can't see the point when standalone concierge services exist and are probably better.
+If I were a superhero, I'd be the defender of emotionally and psychologically abused children.
+
+Reading /r/RaisedByNarcissists (and it's not just narcs, more of a catch-all) makes me angrier than literally anything else on the entire internet.
+Or more recently, their chicken being only 50% chicken. It's processed yes but it really is just chicken.
+Still makes more sense than "on accident".
+People who feel the need to call out reposts.
+The DNS servers block requests from any IP address that isn't associated with an account. They get your IP address when you visit the website and log in or create your account.
+You're welcome.
+Not the ass but [close enough](https://e621.net/post/show/176167)?
+I thought it was gonna be [this one](https://e621.net/post/show/176167).
+Who would you trust with the authority to manage this and what are you going to do when the political party you dislike gains control abuses it for their own purposes?
+
+It's 100% inevitable.
+Gave him his stupid lizards with with a couple hearts remaining just after my last fireproof elixir wore off. Probably the most tense moment in the whole game for me.
+Geeze really? I didn't think they could get much more ridiculous compared to USA prices.
+I'm sure it'll be swiftly removed for no good reason. Those fuckers flood /r/undelete like you wouldn't believe.
+In Ontario we drink to forget how expensive the liquor we bought was.
+\> [Distract] Where is Princess Zelda!?
+Revali sounds vaguely like ravioli and we like to call him silly names because he's a jerkwad.
+Looks like someone accidentally uploaded the mock-up instead of the finished photoshop.
+I did forget about the first Blu-rays using MPEG-2. Would be interesting to see a side by side comparison of those old ones to HD-DVD's that used AVC. Apparently some HD-DVD's used MPEG-2 as well though. Guess it was kind of a crapshoot?
+Fair enough.
+As far as I know it wasn't superior at all. What makes you think it was?
+Plus the original CEO is working on his own next gen VR-based version called High Fidelity.
+So does the Switch just output really awfully compressed images or what? What software did it go through? I'm honestly curious how it became so garbled in just one generation.
+Nothing with that much JPEG can be original content.
+Yeah, "any%" is completely ruined for a bunch of my favorite games now.
+I'm not sure how to explain the difference. All I can say is that I'm holding down a job just fine even though school broke me.
+I don't mean shitty students just in terms of grades, I mean not being able to handle a school environment at all due to mental illness for example.
+Some smart people for whom programming comes naturally make really shitty students. School isn't for everyone.
+Oh, I had no idea. I've only wanted them for Smash and Zelda.
+Nintendo should have two tiers of amiibos; figurines for people who actually care about collecting them and cards for people who just want to unlock their game content. If the cards were $10 or less and readily available I'd actually buy some. Hell if they could just solve the "readily available" part for the figurines I'd buy a few more of those too. Blank NFC chips are my only choice right now.
+> is this responsible for the skeuomorphic UI and eyeballs in VST plugins
+
+But seriously why in the hell do all VSTs look worse than that?
+Could you imagine though? If they actually brought Dark Link back as a villain? And not just a one time miniboss but a main servant of Ganon who actually contributes to the plot. I'd love that.
+FCL is framework class library, it's a superset of the base class library.
+Oh I didn't know that. So I can still use MODO?
+So what are some of the non-obvious faux-pa's?
+Fox/foxie.
+Who are you calling a Goron?
+I'm glad you posted this here because my e621 would have blocked it for being herm. I don't even care. That's the most amazingly drawn blowjob ever.
+Thanks for not being a dick and just referring to the broken master list.
+Geeze I'm sorry you got downvoted so hard buddy. I respect your views and upvoted you even though I disagree.
+Thanks for the info.
+I wanted to get treatment for this but I think it's not very well known. I got told I just don't pay attention to people... I don't have any language problems and my ears are confirmed perfect but I very frequently need things repeated for me because they sound like gibberish the first time.
+Thanks but some of the people who replied to me make decent points too. I was in a sour mood when I wrote that.
+I get that my point of view is kind of crazy. I'm a bit of a FOSS hippie. It just makes me kind of sad that we know this stuff has been solved but most of it will never be implemented by anybody again, no matter how broadly useful.
+I thought reproduction was the point of publication.
+
+>Programming is different than science experiments in terms of the reproducability debate.
+
+But why? I really don't understand this sentiment.
+
+Also if you don't want to share that's fine with me. Just don't publish then. If you want to to show off a demo to get funding and awareness that's fine too. Show off as much as you want. Just don't act like you've actually contributed anything to the field yet. Don't copy the format of an actual scientific journal.
+Nope. I think it's really fucking stupid you can get away with publishing a CS paper without source code. If you're gonna call it science, where the fuck is the reproducibility.
+
+Hey guess what. I invented immortality and I expect everyone to believe me. No of course there's no proof a working prototype even exists. No of course I'm not gonna tell you anything but the most vague superficial details about how it works. What, you think you can improve or speed up the process? Too fucking bad nobody's allowed to advance this field except for me.
+
+~~ACM Transactions on Graphics isn't a scientific journal, it's a circlejerk.~~ [Edit: Yeah that was way too salty, sorry. What I mean is that it doesn't really serve the purpose of a scientific journal. It's more just a promotional platform.]
+Oh huh you're right. I think we were all looking elsewhere.
+[I'll just leave this here.](https://gfycat.com/ThirstyThornyBorzoi)
+How bout I give you the "flipper" and you give me my phone call?
+Lenovo promised that mods would be compatible across at least two generations.
+The Z Play is only seven fucking millimeters anyway. It's not like the battery made it fat.
+You're awesome and welcome here as far as I'm concerned. Don't let a vocal minority of Twitch chat trolls get to you. And nobody seems to care that Cheese05 is gay so you'll probably be fine, not to mention I'm watching Narcissa's BotW WR right now and the majority of comments are positive.
+Oooooooooooh.
+Compared to all the fish and bird lust?
+D:
+They said I was crazy when I raised concerns like this about Intel's Active Management Technology.
+Wouldn't a 60 FPS game work better for that? SM64 is 30.
+Uh, no, it's the best codec for music encoding from 48 Kb/s upward. Below that HE-AAC can subjectively edge it out for some stereo material.
+
+See my other reply to you.
+The resampler causes less distortion than any existing lossy codec under any conditions. So by your logic every lossy codec in the world is completely useless for music since they're even ickier than you seem to think resampling is.
+Was their point cloud renderer actually novel though compared to others at the time though? And if it was, why don't they have actual research papers anywhere? I thought everything you just described already existed before then.
+Once you know how stupid and abusive their rating system is, you can't in good conscience rate anybody less than a five no matter how bad they fuck up.
+
+Hmm I'm slightly miffed about my driver making a wrong turn that cost half a minute so I think I'll completely destroy his livelihood!
+You sure as hell won't find any of Euclideon's work published in [ACM Transactions on Graphics](http://theorangeduck.com/media/uploads/other_stuff/phasefunction.pdf), or anywhere else. Not all research with an application in video games is a blatant scam.
+Those acronyms refer to software for modded PS2's, which allows loading games from an external hard disk.
+Maybe, that was some half-assed research.
+An Internet slang term that originated on 4chan about two years ago, referring to a juvenile canine. The term doggo, an affectionate title for any canine, independently gained widespread internet usage not long afterward. Facebook and reddit had a part but the exact origin is hard to track down as doggo was already a word, meaning to remain motionless, long before that. The popular circular definition of a doggo as a "big ol' pupper" and a pupper as a "little doggo" originated from a thread on /r/me_irl the following year. It's theorized that the release of the game Undertale may have boosted the usage of the term doggo even further.
+
+http://knowyourmeme.com/memes/sleep-tight-pupper
+
+http://knowyourmeme.com/memes/doggo
+I think he's just making fun of the fact that trashy anime and hentai always have a little girl who's really a god or really old person or something trapped in a tiny vessel so they can have morally acceptable pedo appeal. Not that I think Nintendo was going for that angle.
+Families.
+
+Of the people who need those organs. The death of a loved one is a far greater tragedy than religious discomfort.
+
+And what about the dying person, don't they have a stake in this too?
+
+It's one thing to try and be respectful of other people's beliefs but to put those beliefs above human life itself is ridiculous.
+There can be, if you learn TI-BASIC! The Prgm button is your calculator's most powerful secret weapon and if you're half as lazy as I was in high school it can save you a lot of time. You only have to write a program once, and this should be a fairly simple one. You can use the commands invisibowl mentioned to avoid all the raw algebra too.
+In that case you'll need to come up with a linear equation that passes through your desired points and enter it into the equation graphing list. (Y= button)
+
+That will involve some algebra on your part. See [here](https://www.mathsisfun.com/algebra/line-equation-2points.html) for a lesson on how to do this.
+I'm not sure what you mean. Does your line not look like the picture? Or do you want a line of infinite length?
+http://tibasicdev.wikidot.com/line
+Making post-secondary education more accessible is an investment in the future of our province.
+I prefer fidelity over resolution and framerate. For example, AA is the absolute last thing I'll turn on after maxing out every other setting. Your friend can turn up the draw distance, model detail, and shader complexity higher than most other 1080 owners and as long as he's comfortable with that monitor his card is going to perform well much longer into the future. So I don't think it's entirely stupid.
+I'd rather give up net neutrality than put up with our fucking wireless services any longer.
+
+Edit: I'm not really serious, I'm strongly in favour of Net Neutrality. But don't say you're proud of Canada's Internet. That's laughable. If you take the prices of our wireless and wired services together we're not better off than the USA at all, and the USA is the shittiest country we could compare ourselves to in that regard.
+I thought the Roman Catholic Church had a really extensive demonology, although it's pretty much been swept under the rug these days.
+Isn't a strange coincidence how the bystander effect became more common as soon as we had the technology to record evidence of it and discuss it across the globe every time it happens?
+
+It's almost like how Autism became more common as soon as we started documenting and diagnosing it better.
+
+Fucking weird, man.
+While Roman numerals are alphabetical up to VIII, I think they're referring to the subtitles, which also happen to be alphabetical.
+
+>Arena
+
+>Daggerfall
+
+>Morrowind
+
+>Oblivion
+
+>Skyrim
+If I had realized Tarrey Town was locked behind the house I would have done it way sooner. I just looked up what gameplay benefits the house has and said fuck it. There's no apparent incentive.
+Bury it behind a conspicuous couch pillow.
+Hey thanks for the quick reply. By numeric seeking I just mean jumping to a specific time by typing it in.
+You had me at "folders". Not much competition there.
+
+Any plans for basic podcast support? Not like feed handling but podcast-relevant playback features. Remembering last played file in a particular folder or playlist, and the exact position within that file even across app restarts, small automatic rewind on pause, speed control, numeric seeking, showing total length, elapsed, AND remaining playback time, among other things.
+Sometimes it's more like [this](https://youtu.be/xxAJqvslV7M?t=75).
+Ah okay. Was just curious cause I've been doing complexity/efficiency studies on the impacts of various encoder settings in FFMPEG. Some of them are very poorly documented and I'd like to make the documentation a little more helpful about sane options and bang for your buck.
+What encoder settings did you use?
+Create new bottom layer, fill it with pure black, select color range on upper layer, pick black, adjust fuzziness until the threshold looks good. Temporarily change the color of the background layer to bright pink or something to visually confirm.
+But seriously, what is it?
+More like [this](https://68.media.tumblr.com/b46ea2f969a413ad4415709dff1b84c8/tumblr_omh9t3yu521tf4tgfo1_500.jpg).
+"on accident"
+Works for N64 too if it's configured right.
+Oh god changing the watch face is just a swipe now? I haven't installed 2.0 yet and a slightly sweaty sleeve is already enough to randomly change my face constantly at work. There needs to be a sport mode where it shows the watch face at all times but doesn't respond to touch until after you've pressed the crown. How the fuck is "just show the time" not a feature yet?
+Is that sexual harassment?
+Greetings from /r/WatchPeopleDie
+
+It's exactly what it sounds like.
+Am I the only one who found it but ran away thinking it would kill me if it noticed me? That was my first time getting close to a dragon.
+I think you meant BestGore
+Is that actually possible? I just assumed it would be something only the dog could find.
+Or more likely it was tested and found to not be as profitable.
+Wouldn't be surprised if dogs were originally supposed to work the way Wolf Link does, but then they remembered they have to sell amiibos.
+Same here. No idea what I'm doing wrong.
+Same as before. The intelligent humanoid enemies that star in BotW are cool and worth keeping but nobody was complaining about the enemy design in OoT either. Why not have both?
+If you pay the student price ($15) you get 7 products of your choice and $30 gets you the Gold editions of every product [EastWest](http://www.soundsonline.com/) sells. No bullshit. I'm a little sour cause I bought standalone licences (several hundred dollars) for Symphonic Orchestra and Symphonic Choirs right before they came out  with this subscription offer. Seems like a way better deal.
+Opus is already the name of a major (Xiph.org) open source audio codec.
+I'm so disappointed we got OoT 3D instead of HD. Sub-GameCube graphics in 2011... Woohoo...
+You're the one who can't bear to see the same thing twice on the Internet and whine about it even though you know damn well you're a tiny, tiny minority.
+Its most advanced cinematic feature however was automatically dimming the lights in your room and the rest of the neighbourhood as soon as you turned it on.
+Nobody fucking cares. We have undeniable evidence of this in the form of an upvote ratio. 95% of the people who saw this today either hadn't seen it before or were pleased enough to be seeing it again they went out of their way to vote on it. Please shut the fuck up.
+No. Healthy people don't feel shame after jerking it to porn. You've been negatively conditioned about human sexuality.
+We renamed things to nwtray.exe to bypass executable blocking on Novel NetWare when I was in school.
+Memories are pre rendered. If you can't see the video compression artifacts you need to see your optometrist. Since they were done in-engine though it wouldn't be too crazy that they just left her model in the game files as a development leftover.
+It's not a good point, you can disable automatic updates on a per-game basis whenever you want for as long as you want on Steam.
+If you're interested I strongly recommend this [GDC presentation](http://www.gdcvault.com/play/1023586/8-Bit-8-Bitish-Graphics) by the background artist Mark Ferrari, who also worked on some of those fondly remembered classics. He's like the John Carmack of pixel art.
+Not knocking the concept but the quality is mediocre at best. Why do people not save up some decent money for something that will last most of their lives?
+If you can afford at least $15 a month I strongly suggest [Composer Cloud](http://www.soundsonline.com/composercloud), which gives you access to EastWest's entire product line.
+
+By the way, SoundFont refers to a very specific technology. You're probably looking for sample banks or VST's. (Or the equivalent for your DAW and operating system)
+It's ultraviolet light that's been shifted into visible colour for human viewing convenience. NASA openly acknowledges this.
+They need to swap the places of that ball and the chest on the opposite ledge.
+It still gives much more context to what these functions mean and why they're defined the way they are than everyone in my high school was given, which was absolutely none whatsoever.
+I bet he says "on accident" too.
+I've never bought a device that had an issue common enough to generate uproar, no.
+I don't know about you but I don't throw $400 on the table if I smell even the most remote possibility of getting shafted. I'm glad the fanboys made a big enough ruckus to alert me.
+Oh really? I'd love to see the post that inspired this one if anyone can find it.
+I wish I could find proof now but way back in the day when this started making the rounds I'm pretty sure OP confirmed on his livejournal it was satire.
+Nice, timestamps! Much appreciated.
+Don't do anything you wouldn't show your teachers or parents on school hardware, ever. High end school computer management software is insidious and stealthy, K-12 school administration is usually crazy, and students have no rights when it comes to anything remotely school related.
+I understand how stupid that feels but one explanation I can think of is that the prof knows how to reset a real TI calculator to its factory state with 100% certainty. Even if you never switched apps, the TI calculator on your phone can potentially store unlimited memory backups or revert to an earlier state. He'd have to maintain 100% focus on you to catch something like that, leaving the rest of the class unsupervised. I cheated by storing reference and programs on my calculator all the time so that's totally something I would have tried if I couldn't afford a real one.
+I see, thanks for pointing me in the right direction.
+Fun fact: Steve Jobs invented the bystander effect!
+So is anybody gonna actually say what the hell he said or what? Third thread I've seen and I still have no idea.
+
+Edit: Yeah fuck me for being curious but unable and unwilling to trawl through his social media and watch his videos.
+The cool thing about Trusted Contacts is that it's only running when it's actually needed. You send a request to your contact to see their location and they can allow or deny. If they don't respond within five minutes it starts sharing automatically. When you're done either party can turn it back off. And that's pretty much all the app does. For a Google product it's surprisingly lacking in extra bullshit.
+Those were my exact thoughts when I realized what Google Trusted Contacts did. You should check it out.
+Eat shit, spammer.
+>"This time around, the world we’ve built, just has a lot of potential, and a lot of engagement and fun to be had. So after we fully develop the game there’s still new ideas. And so that doesn’t mean that maybe at this moment we want to come up with something completely different. We want to explore more of the potential that this gameplay has."
+
+Yes please. I fully welcome a Majora's Mask type of sequel.
+10 and 12 only show a tiny sliver of the 1 for me.
+Multiplayer servers are gone but the shop is still live.
+That's an unusual way to draw Sidon.
+It's not semantics, it's the correct definition. Overclocking is configuration of computer hardware components to operate faster than certified by the original manufacturer.
+"Overclocking is configuration of computer hardware components to operate faster than certified by the original manufacturer."
+
+Look it up. Every source says that.
+I know, I'm open to switching but Ryzen didn't do favorably in gaming benchmarks as far as I've read, and I'm not sacrificing performance to follow my principles.
+Alright. Got a bit worked up, sorry.
+Why the fuck do you think I resorted to asking Reddit. All the answers are about 3DS and don't mention the Canada to USA combination specifically. It matters.
+I only meant that's not what overclocking is.
+I see. I'm not very familiar with AMD's favorite buzzwords I guess. I'm actually an Intel guy.
+You'd be surprised unfortunately.
+That does look pretty advanced. I just don't think overclock was the correct word is all.
+That makes no sense. It's either operating at the speed it was manufactured for or it's temporarily boosting.
+If CPUs got any more tolerant of overclocking in the last decade they would have raised the factory clock speeds to meet the same stability standards as before.
+
+No matter how good CPUs get they're never going to be able to go much faster than the default without extra cooling.
+Can you put up a side by side comparison picture of your raw footage and this video? And did you do anything other than contrast and saturation? I feel like you struck a good balance with your adjustments.
+Too bad to have to jack the contrast and saturation on your TV way up to play it like this. Why did Nintendo make it so gray?
+I spent a long time not using the multi bows because I thought they would waste arrows.
+Really? I tried that a few times but it seemed the shock never lasted long enough to trigger the door.
+No but it makes it clear that the lawsuit is bullshit, legal or not.
+I thought that only worked if the horse was previously boarded at one?
+That or the other stick. At least I see my death coming.
+WHAT A HORRIBLE NIGHT TO HAVE A CURSE
+I'd love to hear more about the clever rendering technology. They sure stretched the capabilities of the Wii U beyond my expectations. How in the hell they have enough free overhead after everything else to implement real volumetric light and dynamic reflections on that potato? So far all I've been able to guess is that low detail global reflections have some temporal sampling going on and the sharper local reflections are done in screenspace in a separate pass by the looks of it.
+Sealed? I thought it was impossible to read them without taking them out of the box.
+I don't mind jokes but someone had to answer eventually. Maybe a lurker will learn something new today.
+We all know you're just waiting for science to allow you to have a goat child.
+You should see his Asriel fan art collection. He's famous on the Undertale subreddits.
+Those cards only significantly help CPU bound games. You should give the latest drivers a try though. Worst case scenario you can just roll them back.
+Now that we've all had a chuckle here's the straight answer: TAS stands for Tool Assisted Speedrun. You use emulator features such as save states, time control, and memory viewing to remove all the human limitations of playing the game in order to demonstrate how far the game could be pushed by a "perfect" player. The challenge is in research and strategy instead of reflexes. For more information, please see [the welcome section on TASvideos.org](http://tasvideos.org/WelcomeToTASVideos.html).
+I'll take Sidon, thanks.
+They did. 89 > Nspire
+True.
+I call it NDLC, which can stand for either "Nintendo DLC" or "Non-Downloadable Content".
+Rcica here, just got it. (Rogers, Canada)
+I've never played TF2, or any Counter Strike or Left 4 Dead game. I own all of them just because of this bullshit.
+Oh my god I was pulling my fucking hair out over reducing the WiFi drain.

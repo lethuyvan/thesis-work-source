@@ -1,0 +1,1979 @@
+I didn’t know perfection could be improved upon. 
+When will the other modules be released?
+This is awesome
+This past weekend I went to RoleCall Con in Collinsville, IL and played DDEP1 Corruption in Kryptgarden. It was my first Epic and it was a blast.
+Need someone to point me in the right direction, or give me guidance. One of my fellow DMs has gotten DDEP07-01. I do not know where or how he got it. I believe that if we run this, it will not be a legal AL game. Is this correct?
+What is the story behind this?
+I don’t know if I like this idea of limiting the areas to one Con. 
+
+In fact, I know I don’t like it. 
+That is some crappy camera work. 
+Ditto. And it seems to be the cheapest way to get HBO. 
+NIMH
+Thank you for these!
+
+…in porn. 
+Damned
+You'd think they would beef that subsystem up.
+Am I the only one that wants to see Daisy Ridley in the Slave outfit?
+My mother-in-law told my wife that she was going to have to let her go so she could find her cell phone. So yeah. 
+My two favorite women.
+Maybe, but depending on how bad his eyes are, it would be almost impossible for him to find them.
+
+Hell, if I drop my glasses off the nightstand at night, 9 times out of 10, I need my wife to come over and find them.
+Sabrina the teenage witch
+Impulse is at max 0.25c
+I am going to have to go back to the drawing board. "Because Compress-Archive relies upon the Microsoft .NET Framework API System.IO.Compression.ZipArchive to compress files, the maximum file size that you can compress by using Compress-Archive is currently 2 GB. This is a limitation of the underlying API."
+
+We are looking at files that could get up to 50 GB.
+Thanks! this works! 
+
+Just an aside: do you know if there is some kind of Hash checking being done when the files are moved?
+What I have seems to not work correctly...
+
+
+    $RootPath = "K:\archive"
+    $ZipDir = "K:\Zip"
+    $HoldDir = "K:\Hold"
+
+    # Gets date for yesterday to append to file:
+    $dt_str = (get-date).AddDays(-1).tostring("yyyyMMdd")
+
+    $NewPath = Join-Path -Path $RootPath -ChildPath $_.Name
+    Move-Item -Path $_.FullName -Destination $NewPath
+
+    Get-ChildItem -Path $HoldPath -Directory | ForEach-Object {
+        $NewPath = Join-Path -Path $ZipDir -ChildPath "$($_.Name)-$dt_str.zip"
+        Compress-Archive -Path $_.FullName -DestinationPath $NewPath -CompressionLevel NoCompression
+
+        # Remove items:
+        Remove-Item -Path $_.FullName -Recurse
+    }
+Yes! this is soo close.... We are wanting to move the data before zipping to make sure that what is deleted has been put into the archive. The Archive directory will be constantly written to.
+No, i do not want to keep the non-zipped paths.
+
+
+I got the OK to install 5.1.
+
+> (Get-WmiObject -Class Win32_OperatingSystem).Caption
+> $PSVersionTable
+
+Microsoft Windows Server 2012 R2 Standard & PSVersion 4.0.
+
+Ill add that to the OP
+I think up to 4 levels down.
+
+    >d:\archive\%dept%\%db_date2date%\rawdata\file.gz
+
+I am wanting the the new zip file named at the dept level, if that makes sense.
+
+I have, and found nothing that I could make heads or tails out of.
+
+    PS C:\Program Files\7-Zip>  Get-Help *archive*
+    
+    Name                              Category  Module                    Synopsis
+    ----                              --------  ------                    --------
+    Get-Job                           Cmdlet    Microsoft.PowerShell.Core Gets Windows PowerShell background jobs that a...
+    Copy-Item                         Cmdlet    Microsoft.PowerShell.M... Copies an item from one location to another.
+    Get-ChildItem                     Cmdlet    Microsoft.PowerShell.M... Gets the items and child items in one or more ...
+    Rename-Item                       Cmdlet    Microsoft.PowerShell.M... Renames an item in a Windows PowerShell provid...
+    Export-Csv                        Cmdlet    Microsoft.PowerShell.U... Converts objects into a series of comma-separa...
+    Import-LocalizedData              Cmdlet    Microsoft.PowerShell.U... Imports language-specific data into scripts an...
+    about_DesiredStateConfiguration   HelpFile                            Provides a brief introduction to the Windows
+    about_Properties                  HelpFile                            Describes how to use object properties in Wind...
+    about_Windows_PowerShell_5.0      HelpFile                            Describes new features that are included in
+    about_Scheduled_Jobs_Advanced     HelpFile                            Explains advanced scheduled job topics, includ...
+> So, half of all TV shows, Three's Company, Life of Pi...
+> 
+> Half Life 3 confirmed.
+
+Eggcellent detective work, mate! I shall start my trek to the ol' game store now to put down a deposit on my order before it is released to guarantee my acquisition if said entertainment title on the date it is inevitably released!
+need banana for scale.
+
+I was just looking for this like 2 weeks ago! awesome! thank you!
+RemindMe! 1 month "DND Augmented Reality glory"
+Thank you!
+I have cancer. 
+I didn’t want to believe…
+I told my wife this. After explaining it, she backed handed me. 
+Yes, wait. Even if you don’t want the series 4, the price will drop for the 3. 
+Mine is saying 86%. When should I worry? I’m thinking closer to 75%. 
+Thanks!
+I got my wife to play after watching Critical Role. I started watching it while she was in the room, and she became a fan after a couple of months. A year later, I finally got her to play.
+
+Give it a shot.
+“For the CNN”
+Something’s backwards 
+I am very new to 3d Printing. Can you share how you did this?
+Thank you. That was the one I was eyeing and from some of the other reviews, I just may go a smigin above $200 for it.
+**Budget:** sub-200
+
+**Country:** USA
+
+**Kit:** prefer not, as not that experienced with electronics
+
+**Use:** Printing mini figures, tiles (for D&D)
+
+This will be my 1st 3d printers. I have noticed that Walmart has [started selling them](https://www.walmart.com/search/?query=3d%20printers&cat_id=0), and don't know if any of them are good. 
+Link if you want it:
+https://www.shirtpunch.com/three-brothers-tale-gold
+Damn it
+ID?
+Have you asked the pharmacy to get a vacation override?
+Preach it!
+Good point. 
+You know, I was confusing spring with 1st quarter and was getting worried. 
+I have to rewatch to see if that is the case, I honestly don’t remember; however, Ross was on a state sponsored mission. Just as T’Challa was. 
+He is the king of a country. Any action he takes IS a state action. 
+It started when she was having issues with her PC. This was when those flash games started to become a thing. I don’t recall what broke the ice, but it was fantastic. 
+
+It took almost 7 years before I hooked up with my friend( the daughter)
+She takes it off for me all the time. 
+As a pharmacy tech, I have heard some weird hoops, but this one takes the cake. I have never heard anything like this. 
+It is in the hardcover of Out of the Abyss. 
+Correct. 
+Can I Keep <Open mouth; name of item falls out>?
+
+There are some items that are either too nefarious, sought after, or possessive of global importance to keep while maintaining an adventuring lifestyle.  
+
+If one of your characters ends a session with any of the following items during play, that character is **retired** from play so long as the item is in your possession; as a general rule, however, relinquishing the item allows the character to resume play unless otherwise specified. Doing so also removes the item from the character’s item count—problem solved. 
+
+• Wand of Orcus 
+• Wyrmskull Throne 
+• Blackrazor 
+• Wave 
+• Whelm 
+• Ring of Winter 
+• Bookmark 
+The key word there is *could*. It’s all up to the DM. 
+Thinking about this, I don't know how feel about it. The spell states i has be said in a way "to make the course of action sound reasonable." If sleeping with you wasn't reasonable before the spell was cast, then it would have failed.
+So you are saying it was better before the Russians came in? 
+I would 
+And never land. 
+Same here!
+No other class has been balanced with multiclassing in mind.
+I can understand that. I find that the site is invaluable to me and my group. If I knew anything about programming, let alone Ruby, I would offer to help. But, I don't.
+
+I just wanted to see what was out there if our worst fears were realized and DEV work has stopped.
+I've tried. They are more for streamers, or online players.
+For the DMs that have several games going, trying to keep track of DM Rewards is a little cumbersome. In the DM Logs, I enter in the number of hours the game ran, I should be able to track, for dedicated DM, the hours ran in a season at a glance.[^1](https://github.com/Ariel-Thomas/adventurers-league-log/issues/95) This wouldn't be that much of an issue, if I could export all that out as csv file.[^2](https://github.com/Ariel-Thomas/adventurers-league-log/issues/81)
+
+Also, If I add info under a campaign, it should automatically update my DM logs. [^3](https://github.com/Ariel-Thomas/adventurers-league-log/issues/66)
+
+All of these things are not new to some of the community. As they have been asked for a while, some a year ago.
+
+
+Thank you. 
+And after SKT, you could run “Revenge of the Giants” level 12-18
+to be honest, its not that I'm worried about it going away. it's the lack of updates, and new features that has me wondering if there is anything like it out there.
+I don't think it's unfair about not having an unique experience. The fact he is trying to pass someone else's work off as his is totally unfair.
+That answers all my questions, thanks!
+The fountain of youth turned out to be a planet.... where have I seen that before...
+It could be read that they are still aiming for April, just not saying when in April.
+What is the story behind this?
+
+Will I be able to use my existing clothes and props? I love my Starfleet command officer wearing a visor playing a Rock Band guitar. 
+And it was about updates to the adventures, like I said. 
+I don’t get it. 
+Did it have to do with missing someone? Looking into the past?
+I would recommend SKT. LMoP, and just a few changes to both, can segway into this really well. 
+
+These are my notes:
+
+##### Skip A Great Upheaval 
+LMoP is taking its place here.
+
+##### A Black Spider By Any Other Name
+If it comes up, change his name to Draac. Draac shows up in SKT on page 85. This would mean he has to escape somehow if you use this.
+
+If you use this, you will have to adjust The Black Spider's stat block to add some of the Drow Mage abilities, or visa-versa.
+
+##### The Corruption of Iarno 
+You could link Iarno with Countess Sansuri; The real reason he defected from the Lord's Alliance was because she promised him untold arcane power in exchange for aid in recovering the dragon trove she seeks. Before she captured Felgolos she instructed Iarno to hunt down Dragonguard, as the human who wore it (Tergon) had a map to the trove inscribed on its interior. When the players find it the map has been damaged during the item's repair at the Spellforge; If they're able to befriend Felgolos later in the campaign the little information he has might just be enough to fill in the gaps.
+
+If Iarno escapes (before getting the Neverwinter, the Zhentarim break out Iarno to get information that may help them) .it's entirely possible they could run into him at her castle; Alternatively, they find his corpse there. He didn't complete his task, and now that she has a dragon, she doesn't need some upstart human searching for the trove too. [Taken from here.](https://www.reddit.com/r/DnDBehindTheScreen/comments/5l5i2j/tying_venomfang_into_stk_running_lmop_as_into_to/?st=jeq3wspc&sh=151e4216)
+
+##### Wyvern Tor: Prelude to War 
+Just what was the Orcs doing in Wyvern Tor? They were a scouting party for the attack on Triboar. Which is the town you will want to use.
+
+##### Why the Red Wizard Sings
+How you play this encounter really doesn't change, but why is looking is cause of giant attacks in Thay. They need something to help them fight back. Hamun Kost believe that Old Owl Well once was part of an ancient, long forgotten magical kingdom where he might find some sort of artifact that could help them.
+
+*Edit: Edited to add that I have seen/heard of DMs replacing the blue dragon with Venomfang. I don't think I would do this because of the age difference between two. If you give it enuff time between the two adventures for Venomfang to age up, then Tyvern Tor being a scouting party doesn't make sense.*
+I am glad I am not the only one who read it that way.
+I... never thought of that, but It is a good idea anyway.
+the only updates that has happened in the last 5 months is updates to the Adventures. That's it. [It looks like the last time the Dev has commented on any of the issues was back in December.](https://github.com/Ariel-Thomas/adventurers-league-log/issues)
+Ah, android. was hoping it was for the PC
+What are you planning to run after you finish?
+Campaign 2 takes place 20ish years after campaign 1, and on a different continent. 
+I am new to this aspect, so what companion app are you talking about?
+Both 
+I love this. I wish someone could come up with one like this than describes terrain and or/rooms
+Discord is also an option 
+Plain ol Xbox One. So 8gb I’m guessing. 
+It is not showing up when I search. I’ll try the closed beta and hope it auto updates to the final beta. 
+So, I am at work. I am not seeing a way to que this to start downloading to my Xbox at home. I thought that was a thing. Am I missing something?
+Inquiring minds want to know.
+is there some type of comment of the week we could nominate you for?
+Just write the characters and leave any of that ambiguous enough to let the DM decide how he/she/they will play them.
+Thank you! Been waiting for the prices to fall to rebuy mine after my 1st one was stolen.
+Well, both work. The romans were not consistent with the use. 
+Third birthday and Steam is listed...
+
+Half Life 3 Confirmed!
+
+
+^... ^am ^i ^doing ^this ^right?
+Regardless, this is great artwork. If it wasn’t for the “best lay” at the bottom, I would love to have a print to hang on my wall. (Don’t want to have to explain it my 12 year-old’s friends and parents). 
+To me, that sounds more like a warlock. 
+
+But… I am going by Forgotten Realms. Maybe in Matt’s universe, things are way different. 
+This is why I thought human. But I could be wrong. 
+Your not the only one
+Hmm. Did *not* think of it that way…
+
+Edit: added word 
+I don’t think it was mention either way, but with keeping Jester hidden, I assumed she was human. 
+I didn’t think her mom was a Teifling. 
+Looks like I am missing an salfibc.dll
+
+I hate the lyrics to maps. 
+I know the feeling. I had 80% of my D&D books stolen out of my car about a month or so ago.
+I do not have my Tech manual with me, but the spaceframe is affected by the a structural integrity field (SIF).
+
+Edit: on further thought, I see what you are saying. 
+Was that ever really respected? 
+Soda Jerk. 
+You can visit today! It's like a starter world: Low bar for entry and a low price point, to boot.
+Those in the_Donald are. No, wait, that's denial. Sorry.
+I love Celebrity Skin! I use it to make sure the calibration is correct. I can play, or at least could, play this song with out looking at the screen (on med)
+Not deity, that would be a cleric. But yes, any very powerful figure.
+You mean other than the Archfey?
+Glad I wasn't the only one.
+
+Totally agree 
+Is that John Goodman narrating? 
+Update: https://imgur.com/gallery/UK1O1
+UserName checks out. 
+No clue. It did rain the the night before it warped. That, and combined with I may have had the pins in too far, causing pressure on the underside, might had something to do with it.
+
+I have since redone it with cardboard as the floor. So far it holding up well. I will have to post pix when I get home.
+
+Thanks for asking!
+Same here!
+
+Edit: I think this is OC. 
+Very long shot, but could you send me a new Xbox One X? 
+do this, but after doing some changes to it. as stated above, the synths over power the lyrics. Maybe turn down the synths a bit?
+I just wish they would hurry up and release the 5E PHB.
+If I get into that situation, I will be using this:
+
+http://www.space-debris.com/ds9_dorn_farrell_wed.jpg
+
+Mine is signed in gold sharpie tho, not black. 
+My wife has had the S0 up until last year, when I bought her the S3 for our anniversary. The S0 went to me.
+
+So are it is nice having the standard watch functions and the notifications on email and the like. But I find that I don't know if I really need this. Because of this, once one of the the phone or her watch get paid off (did the 25 a month thing with at&t), I am seriously thinking of getting an iPad Pro and not upgrading my watch.
+
+Is the S3 that big of an improvement? I am looking at getting a pair of airPods soon, will increase the usefulness?
+Most of the humor may come from the writing and the voice action, but if that was all there was to the show, it could as well be a radio show or a podcast. I appreciate what your department does; it really does complete the package.
+
+I know this isn't your department, by my wife is a bit disappointed that the "Made in Georgia" statement is not longer at the end of the episodes. She loves reciting that line. She is weird.
+How is your game going?
+
+Right, but those ticking time bombs the players shouldn't find out about until they get back to the port. My players know there is a time limit, but they don't know how long they got. It adds to the urgency, just like trying to save those people from the evil of Strahd.
+
+At least is should. I feel my players may have totally forgotten about the patron.
+
+The 1st game I have ever DMed was CoS, and I am planning on running it again soon. Right now, it is my favorite, but I could be bias. 
+Has anyone found a Curse of Strahd theme?
+OMG. 
+I see what you did there.
+You missed blacking out one of your names there, Ian. 
+Perfection 
+That’s didn’t last long 
+I have an Element TV that does not turn on with the appleTV
+And no link?
+Curse of Strahd was the first module I ran as a DM. I really am looking forward to running it again in a few months.
+wow, back when they where doing 4E.
+I do not understand that reference. 
+Ditto. This is so good, I wanted more people to see it. 
+Regardless, we can agree it’s worth it. 
+Then maybe a few days later that changes. I’m watching the VOD from last week and it doesn’t have the art or the adverts. 
+Yay!
+Really like this idea. 
+Yes to this!
+> When people get upset at some of the outlandish theories offered here, the comeback is always "but it's just a fictional universe. Why do you care so much?".
+
+My response would be: If you feel that way, why are you here?
+Yeah, just noticed this. Odd. 
+Yes, I would believe so.
+🆗, your way is easier for comparing. But if I’m playing just one class, it is a bit more difficult to look at just the spells on my class list. 
+Oooh! I like these!
+
+The only thing I don’t like is the layout of then classes spell list  
+*Hello darkness, my old friends*
+
+Narrator: he forgot to but the seat down. 
+I’m 5’7” and there is no way I could get away with that. 
+Nobody was going to listen to teacher. 
+Added to the reasons why I love her. 
+What dark sorcery is this?
+To be clear for everyone out there, Ford does not make the horse, just the car.
+It is the Project Alpha stream. When combat happens, the player's Current HP/Max HP will show above the character's name. The other benefit is the VOB is posted the day after, and, iirc, it does not have the art section between breaks. Is that a benefit? YMMV.
+1 shooting or 18, We as an Society as decided that this is ok. Since Sandy Hook, there have been 239 school shootings[1]. What have we done? “Thoughts and prayers.” That’s it. 
+
+Something needs to be done. If you believe that guns are not the issue and it’s a mental health issue, fine. Then do something. But don’t go making it easier for those with mental health issues to get guns[2]. 
+
+1. https://www.nytimes.com/interactive/2018/02/15/us/school-shootings-sandy-hook-parkland.html
+
+2. https://www.nbcnews.com/politics/donald-trump/trump-signs-bill-revoking-obama-era-gun-checks-people-mental-n727221
+
+Remindme! 2 days
+r/unexpectedhogwarts
+With Russia, this was my first thought, too. It seems to be come a stereotype. 
+*doh*
+Where are you getting the d8 from?
+Yes, but that only went live on Jan 19. Campaign 2 started the 11th. Though, he could have switch to a homebrew after the feature was released. 
+Hear, hear!
+Then get one from them.
+I love option 4.
+Which one is closest to you?
+
+I like this answer. I would view Troi helping the evac of the 2ndary hull and would be below helping.
+Best bet is that it is one from SCAG. As the others are not in DnD Beyond.
+^this
+Thanks. I found it. Can’t believe I over looked it. 
+Would this then start the transition away from the transparent aluminum viewscreens?
+*DMing* **and** *parenting* done right.
+> ~~You're~~ Your dentist would be so upset knowing you haven't flossed in 50+ days.
+
+FIFY
+I was thinking I saw something like this before...
+I was going to mention that, but wanted to give ideas and not reasons it might not work.
+
+The "good" guy friends wouldn't be friends with those assholes.
+> If you have any "good" guy friends, make sure you tell them to call out their peers' behaviors when this shit happens.
+
+She should get these "good" guy friends to at least walk her to class.
+Not on network television, maybe on Netflix?
+This is what happens to me. Takes me forever to get it back.
+This. Start with the Starter Set. It is considered one of the better adventures.
+Perfect timing. we are going to be organizing my son's room and this will help a lot.
+This.
+[*sigh*](http://i0.kym-cdn.com/photos/images/newsfeed/000/614/639/9df.gif) I would never be so lucky.
+maybe you need to pull him to the side, or let the group know that one or two (maybe more) sessions are going to be focusing on him.
+
+These sessions will be a Class test. Give him challenges that he has to do with his skills and abilities. Then you might have to do something like this after each level that give something other than an ASI (as long as a feat isn't taken).
+
+Basicly, your running the equivalent of a video game tutorial for him.
+The girl is [Rosalind Byrne](http://www.imdb.com/name/nm0126283/?ref_=ttfc_fc_cl_t11).
+Perfect.
+3D **sand** printers cost more than you imagined.
+I think the hand placement speaks to the intended effect. You wouldn't see his hands in a straight jacket, just like you don't see his hands here. 
+My hope is that Volo's, Xanthars, and this are laying the foundation for other settings.
+My understand/headcannon is that i might have been operational, but it wasn't installed. What we see on the external view is just a cover. This would explain why they built the *Delta Flyer* and not finished the aeroshuttle.
+
+ With this theory, it is perfectly possible that the underside of the aeroshuttle might not even look like what we see.
+Like Kraków or Cracow.
+Not making sense makes perfect sense.
+I will reconsider my position. 
+Maaaybe, but this kinda seems like, to me, someone in a position of power using said power to manipulate someone who had a traumatic experience into a sexual relationship. 
+
+From the surface, it seems the pastor (we must keep this in mind) over stepped his bounds. 
+Fact: the Queen does not need a passport. 
+Happy cake day. 
+If you get a proficiency from two sources, you get to change one of them to one that hasn’t been taken. 
+Hince the "Or are they?"
+What saddens me that we never really got to see a movie with the real Romulans as the focus. Now, they are just a broken husk of what they once was.
+
+Or are they?
+I would say he would become a vampire spawn, under Strahd's control. He becomes a NPC. He can roll another character, or he can set out the rest of the game. 
+
+Let him know up front that this is the path he his heading down.
+
+Stradh is too smart to make him a fully fledged vampire.
+
+
+Thanks.
+
+That really is the only thing I can see that doesn't look right. Really nice theme.
+The only think I can see that might need to be changed is the ornamental hanging first letter. It doesn't fit with the theme.
+Sounds like he should write his own then.
+Thanks. 
+Then you want the aTV. 
+I have both the Roku, aTV and an Xbox one. The primary reason I got the aTV was to make it easier to stream my music library, which is in iTunes. 
+
+The Roku seem sluggish compared to the aTV. 
+
+My wife and I have iPhones and the ability to airplay is nice. 
+
+But if you don’t have any Apple devices or an iTunes library, then I would recommend the Xbox One. 
+
+If you just want something cheap, then go with the Roku. 
+If i go to the walmart[.]com, I get $149.95/$35.00 in the store. But when I go into the item, the 35 disappears and i can't find it back.
+I will be running CoS (for the 2nd time) to a group of 4-5. Two of them have never really played D&D before. I say "really played" because on of them did try back in the late 70s, early 80s and couldn't get past Character creation.
+
+So how I am going to start this off is to have every one pick one of the starter set characters (as I already have the minis for them) and run them through Death House. After we have completed this, if they want to continue the story, I walk them through creating their own characters at level 3. When we return to the story, I will have them wake up back in the FR and have Death House be a dream, or hopefully a nightmare, and use one of the hooks in the book.
+It was a nightmare. have them all wake up back in FR and use one of the hooks to get them back in.
+I would try to watch a few episodes of /r/PennyDreadful to help you get in the right headspace.
+
+
+DMs hate him!
+Is this still being monitored?
+The only question I would have is would there have been a civil war in the US in the mirror? 
+
+You never know what will hit or miss. Mostly hit. 
+For those that might be interested, you can find the rules for it here:
+
+www.gardenwargaming.com/wargame/sitemap.html
+Make sure that Drow is being affected by his sunlight sensitivity. 
+
+Have the group come across some spell casters that can cast greater invis and silence. 
+
+You now have to out think and plan your party, not just out fight them.
+Maybe half the time. There are mobs I throw at my group and they laugh it off. One simply, solidary door can and will throw them for a loop.
+So saved.
+Jester has a lot because her mother told her to never give anything away for free. 
+I loved BraveStarr growing up! I wish I still had the toy gun. I think I have a few Kerium nuggets still hanging around!
+and one eye open.
+I do not have access to DnDbeyond at work so I cannot look this up ATM. I would lean on the side of no, you would need more healing. Is there a reason she wants shadow? Isnt here a sub-class that does healing? I think from XGE?
+
+I fully agree with /u/Shimizoki and /u/Korashy 
+
+The only thing I would add is this: Are you the DM or are you a player in this situation?
+
+If you are the DM, you might want ask your players what their understanding of the feat is and how they think it would work. This is your game, and your job is to make sure everyone is having fun. What can kill that is not having everyone on board on how something works.
+
+If you are a player, you can do the same with the other players and your DM.
+The box has everything you need to run the game. Note the word need, not want.
+
+This was done to let people play in with the lowest cost of ownership. If you add tokens and figures to the starter set, that sets the expectation that you need those to play the game. Having figures and tokens and all that good stuff, while very nice, can add up and would be a barrier for a few.
+
+Don't get me wrong, I understand where you are coming from. My first set was the Basic Set with the minis. I can relate, I was just a bit disappointed that the Starter Set didn't come with any. But understanding the want to lower the cost of entry, I do not see an issue with it.
+Healing is a must.
+Nope. But even if they did, I would still want the physical copy. 
+I do, but I still prefer to have a hard copies as some places I DM don’t have reliable internet. 
+[from Twitter](https://twitter.com/mikemearls/status/957477755750264832) 
+I could have sworn it is in one of the Dragon Talks.  I can’t find it back now. 
+I will try to find where I heard that. 
+I heard Feb 6th was the next announcement. 
+That was Out of the Abyss. 
+> Gryffindor beating the other houses.
+
+but don't they do that, like, every year?
+pisses me off that no one puts game titles in.
+a person, usually a minor, under the care and control of a guardian appointed by their parents or a court.
+
+synonyms:	dependent, charge, protégé
+
+"the boy is my ward"
+Sounds like you need to create a 'Ward' background. 
+Gifs please
+
+Love it. 
+you should write a book or something. /s
+
+Ah, yes. I do see your point. 
+
+Do we know for sure what the art pad has to do to with the Traveler?
+Didn't downvote, but didn't she do that just to the wall?
+hope to see you do all the doodles she does!
+Good bot.
+
+You should have them face [Tucker's Kobolds](https://media.wizards.com/2014/downloads/dnd/TuckersKobolds.pdf).
+Def talk to your DM. As long as you want to do 0 damage, (if i was your DM), I would make you role maybe Slight of Hand vs perception.  /u/Toboe_LoneWolf is right as a straight up attack would use your STR and thus give you a lower to hit.
+
+I view AC as not just armor, but as your ability to avoid taking damage. Two ways I see rolling under the AC happening: you did miss, either by a wide swing or they sidestepped the attack, or you did make contact, but it wasn't hard enough or wasn't in a vulnerable spot to do damage. So you *could have hit*, but it wasn't hard enough to deal damage. 
+
+Example. You are in front of a wall. Any competent person would be able to hit that wall. There will be contact. The difference is was it hard enough to do damage.
+damn you. I almost got soda all over my monitor and keyboard here at work because of that comment.
+
+Have an upvote.
+My wife and I would be able to afford invetro and we could have a child of our own.
+If this is a low level, wait until he gets to lvl 4 and have him take the Magic Initiate feat. Or just give him it for free. And enforce not being able to cast spells while raging.
+
+
+I would enforce this.
+
+This isn't any different than him taking Magic Initiate as a feat.
+> "Stays away from populated areas"
+> Because his friend is a goblin and they aren't welcome in populated areas.
+
+Not that I am buy the theory, but if I was, I would say this would be an ingenious plan. Goblins may not be welcome, but they aren't outlawed. Werewolves would be. It would make it a truly symbiotic relationship. They need each other. Nott needs Caleb for that air of legitimacy, and Caleb needs Nott for a cover story. Brilliant. 
+
+But I am still not buying it.
+>I think that’s crazy but I like the idea so I have her roll a **D100**...
+
+Narrator: *Looking back, that is the point u/Aioni realized he messed up.*
+Same here, that was the early 90s. I am in my mid 30s now.
+Come on Adam, EVEn I know you are tempted now. Just give it to hime.
+Yes, but the best ones are from season 8. 
+Unless someone finds issue with it, it looks good to me. 
+I fingered out what you did there  
+Is there a hi Rez  version of this?
+I used this and it looks alright:
+
+    /* Notes */
+      .phb section blockquote {background-color: #f6e5d4}
+      .phb hr + section blockquote tr:nth-child(odd) td {background-color: transparent;}
+
+https://www.gmbinder.com/share/-L3ULl8Jlfpk4RUigCG9/-L3V1Bj3Z3GKJ0rSZD24
+> /* Notes */
+>   .phb section blockquote {background-color: #f6e5d4}
+>   .phb hr + section blockquote tr:nth-child(odd) td {background-color: #FDF1DC;}
+
+Shouldn't the background for the stats be transparent?
+
+*Edit: Link with the updated notes section: https://www.gmbinder.com/share/-L3ULl8Jlfpk4RUigCG9/-L3V-lNuY9Y08gBzOrdD*
+must have something to do with how GMB is formated. 
+looks like there is an issue with the theme and stat blocks.
+good bot
+¯\\\_(ツ)_/¯
+[I have done it myself.](https://www.gmbinder.com/share/-L3ULl8Jlfpk4RUigCG9) LOL! I have misspoke. I had meant to see if we could get it as a snippet.
+
+I would so give you gold if i had it.
+Thank you so much!
+
+I recognize your name... from somewhere? HB maybe?
+ /u/iveld could we get this in GMB?
+Thanks! 
+
+
+I'll have to look. If I don't have any luck with this, I'll post back.
+Yup, had this issue and was able to solve it. 
+
+Thanks!
+
+You are wanting it to look like this:
+
+
+    **Feature 1.** Feature 1 description
+    **Feature 2.** Feature 2 description
+
+Correct, and not 
+
+    **Feature 1.** Feature 1 description
+        
+        **Feature 2.** Feature 2 description
+or
+
+    **Feature 1.** Feature 1 description
+
+    **Feature 2**. Feature 2 description
+?
+
+If this is true, you will need to use the < br >
+    
+    <div class = 'descriptive'>
+    
+    **Feature 1.** Feature 1 description<br>
+    **Feature 2.** Feature 2 description
+    
+    </div>
+
+That will get you **[this](https://www.gmbinder.com/share/-L3Tmt5TqZxon5x9E8mq)**
+
+Alternatively, you could also use:
+
+    <div class = 'descriptive'>
+    
+    **Feature 1.** Feature 1 description<br>**Feature 2.** Feature 2 description
+    
+    </div>
+Agreed.
+That’s the point. At that moment, had Kevin known he had a K 3 he would have. She was playing the odds and the odds say he wouldn’t have the J. One aspect of poker is playing the odds. 
+
+With the info she had and the odds, the made the right call.  The probability of [getting a straight are 0.003940 ](http://www.math.hawaii.edu/~ramsey/Probability/PokerHands.html) , or about 0.4%. 
+
+
+Lol, should have added “Username checks out” :p
+*couldn’t have
+Has it been a year already?
+Who writes on shit? With shit, maybe. 
+Same here. Was it really that long ago? 
+Yeah, looks like the removed the name ROVE
+Do we know for sure why Kurtz left?
+Glasses wearer here since before grade school. It doesn’t happen anymore, but back in grade school, yeah, it happened a lot 
+Good bot. 
+No, because the original trip fundamentally changed Billy. The Billy that left Westworld after the first visit wasn't the same Billy that went in.
+Que takedown notice in 3...2...1...
+My issue is that we have a Xbox One... Convincing my wife for an X would be near impossible.
+Not a wizard. He is doing miming wrong. 
+Uhh…
+Ah. Thanks. 
+Wha?
+Those could be a days ride from the nearest town. Like a trading post/rest stop. 
+This is awesome. I want to play in your game 
+Happy cake day!
+Are you going to color it? And will it be for sale?
+So, chapter one uses milestone leveling. there are 4 parts to Chapter 1 so when you get the Chapter 2, they will be at level 5. After that, its normal XP.
+May 25, 2018 is the 41st anniversary of Star Wars: Episode IV - A New Hope in which Harrison Ford first appeared as Han Solo. 
+May 25, 2018 is the 41st anniversary of Star Wars: Episode IV - A New Hope in which Harrison Ford first appeared as Han Solo. 
+May 25, 2018, the 41st anniversary of Star Wars: Episode IV - A New Hope in which Harrison Ford first appeared as Han Solo. 
+nope. 
+
+*[Solo: A Star Wars Story is scheduled to be released on May 25, 2018, the 41st anniversary of Star Wars: Episode IV - A New Hope in which Harrison Ford first appeared as Han Solo. Despite the firing of Phil Lord and Christopher Miller, Lucasfilm has maintained that the film is on schedule for its intended release date.](https://en.wikipedia.org/wiki/Solo:_A_Star_Wars_Story#Release)*
+
+And article from 2015 on [StarWars.com](http://www.starwars.com/news/christopher-miller-and-phil-lord-to-helm-han-solo-anthology-film) lists the May date.
+nope. 
+
+*[Solo: A Star Wars Story is scheduled to be released on May 25, 2018, the 41st anniversary of Star Wars: Episode IV - A New Hope in which Harrison Ford first appeared as Han Solo. Despite the firing of Phil Lord and Christopher Miller, Lucasfilm has maintained that the film is on schedule for its intended release date.](https://en.wikipedia.org/wiki/Solo:_A_Star_Wars_Story#Release)*
+
+And article from 2015 on [StarWars.com](http://www.starwars.com/news/christopher-miller-and-phil-lord-to-helm-han-solo-anthology-film) lists the May date.
+banana for scale.
+Just how smart is this?
+
+I love that Wizards is doing these.
+> A drow cleric who grew up as a servant to a caravan of nomadic gypsies, who raided her village as a child, preferring the company of those older than her, but is unable to remain faithful to just one romantic partner and is known for having a different partner in each town that she routinely visits and giggles when it's mentioned.
+
+I love this. I might just use this at some point...
+Someone should remind them on who will pick/help pay for the retirement/nursing home. 
+You could call it that. 
+/u/biologer don't listen to this person.
+All I'm going to say is look at the numbers. [Population as of July 2014](https://en.wikipedia.org/wiki/Jewish_population_by_country#Table)
+
+Country or Territory|	Core Jewish Population|	Population per Jewish Person|	Enlarged Jewish Population
+---|---|---|---
+World|	14,200,000	|505	|20,000,000
+Israel|	6,399,000|	1.32|	6,451,000
+United States |	5,300,000[21] - 7,039,000[26]|	53	|7,282,000
+France |465,000	|139	|600,000
+Canada |	385,000	|90	|550,000
+United Kingdom |	269,568|	220|	370,000
+
+
+on top of all that, whip is a finesse weapon, so you also get to apply Sneak Attack damage if it hits, if it has not used it yet this turn.
+
+If I recall correctly, most of those maneuvers (minus *Ripost*), you can also use if you get an OA. 
+Touche'
+It would depend on the vial size, but there would be 15-20 drops to a ml, but I don't think they would be using ml. 
+I have, and i looked into seeing what your free files would cost. the 8*8 dungeon tile ended up being 40-50 bucks.
+> certified experts!
+
+Not having seen the video yet, certified in what?
+> EO12UJRO13JRIOUWGIUQEHG
+
+Could not have said it better myself.
+Did said rogue tell you what he was planning? He has a large amount of money but nothing else. I have walked in on my wife watching enough HGTV shows to know that building from the ground up cost more than remodeling. 
+Understood. Without the 3D printer, and not knowing someone that owns one, it would be a really difficult pledge to justify to the wife.
+I like the **Swashbuckler**/**Battle Master** combo.
+
+the amount of levels you take in each would be up to you. My Human character lvl 16 (SB9/BM7) has taken *Dual Wielder* feat and uses a whip in her off hand, with the battle maneuver *Trip*.  
+
+She has a female Indiana Jones/lion tamer feel.
+
+*Riposte, Disarming Attack, Trip Attack, Lunging Attack, Rally* and *Sweeping Attack* battle maneuvers seems to fit real nicely for a swashbuckler.
+I *have* to switch over to the desktop site when on mobile.
+> CES
+
+A *very* quick google search for 'CES cities skylines mod' pulls up nothing, either.
+I do not have a 3D printer. In the case that I do get one in the next year or so, will these be available for purchase later on?
+that was hilarious 
+Or this page http://www.ex-astris-scientia.org/observations/enterprise-flybys.htm
+The new players & DM AL guides have them 
+Take your updoot
+Couldn't hear you over the background noise.
+"Thank you for subscribing to Carrot Facts...."
+A SOLAR FREAKIN HIGHWAY!?
+True, I overlooked those subsystems.
+Same kid later finds a old archived folder named "Fun Stuff" and (re)introduces the universe to Weezer's *Buddy Holly*.
+How did you take into account shemale porn?
+Shut your mouth.
+The turning circle would almost have to be huge. The stress the ship would go through would be massive for a tight turn. /r/theydidthemath should look into this.
+Doesn't matter if the games you want to play are on said "weaker" console. 
+
+Game library is another way to compare consoles. For u/rayrios and others, those games might make the PSPro a stronger Console.
+
+Agreed. Running the hardback and don't see a way to get secret missions. I see where I can get them as DM rewards, but to do so requires my players to be at a higher level than they are, or for be to become a reviewer of modules, that I really haven't ran.
+nicely put.
+or a really good one...
+
+The question is, was this just the ceremony, or did they apply for and get the license?
+ 
+I just might have to start lobbing my local to get one. 
+He is thinking “Holy shit, the sign works!”
+Closest I can find is in Columbia, MO. The library here in Jeff does not. 
+That’s just… just… awesome. Wish the libraries around me had stuff like this. 
+Don’t you have to be a resident to get a card, tho?
+Is the roll for the whole party? Or do you roll per character? I would like the idea if it was per character.
+Sorry, I didn’t mean to criticize it. The ugh was the flashbacks to all the spontaneous dabs my son has done. 
+It’s the dab I can’t stand. It’s been way over done in my house hold. 
+Longing into iCloud  is for those that don’t have other iOS devices.
+My 12 year old would love this. Ughh. 
+Moist. 
+I’m betting it would have to do with he use of red lights. Most states it’s illegal. 
+Well…
+
+
+
+you can tell by the way I use my walk
+I'm a woman's man: no time to talk
+Bragging. 
+I would love to be a part of this, but I’m afraid they would think my gift sucked. 
+I've been trying to track this down for almost 10 years now. Again, thank you
+Solved!
+
+https://www.reddit.com/r/tipofmytongue/comments/7liusk/tomt_looking_for_the_title_of_a_book90s/drmpdns/?st=jbib5zj6&sh=acfcf534
+Thank you!
+
+Solved!
+Let the black spider get away. 
+
+Your players will encounter two drows in SKT,  I would make one of them the black spider. 
+
+I don’t have my books with me so I am at a loss for names and page numbers. 
+Romulans where supposed to be in the movie, but they changed it to Klingons. The did not, however, change the classification of the ship. Just the design. 
+If that is there nature, use their passive Insight check.  If they are actively trying to determine it, make them roll, either the passive as the floor. 
+I’ll look into SAO. 
+Why did the quick switch between profiles go away?
+Lol, no really. GameStop has the bundle on sale for $99 with the cymbal expansion at that time. 
+
+But yes, some people do that for Easter. Surprised me too. 
+My wife also loves the smell of Phoenix. 
+Tickets to any movie, really, as I have my own world-class theater in my home and worked out how to get frost run movies at home. 
+Regardless, teaching a boy to sew isn’t a bad idea. Period. 
+I thank you for this. 
+
+For awhile now, I have gone by the philosophy of, just because I don’t understand it, doesn’t mean I have to be against it. But this has stead some much need light, at least for me, on the topic.   
+I... am not sure how I feel about this. The time delay just feels wrong to me.
+Do you really have to play it? I think you only have to load it up once.
+I think it is because of the onsie. 
+Didn’t even have to click the link to think r/unexpextedTetris
+Thanks! I'll place it over in /r/whatsthatbook anyway. I didn't even know that sub existed.
+We will never tell you we are depressed. If we say anything, we will tell you we **suffer** from depression. 
+Narrator: It could. 
+“A rape kit—also known as a sexual assault kit (SAK), a sexual assault forensic evidence (SAFE) kit, a sexual assault evidence collection kit (SAECK), a sexual offense evidence collection (SOEC) kit, or a physical evidence recovery kit (PERK)[1]—is a package of items used by medical personnel for gathering and preserving physical evidence following an allegation of sexual assault. The evidence collected from the victim can aid the criminal rape investigation and the prosecution of a suspected assailant.[2][3][4] DNA evidence can have tremendous utility for sexual assault investigations and prosecution by identifying offenders, revealing serial offenders through DNA matches across cases, and exonerating those who have been wrongly accused.[5]”
+
+
+
+https://en.m.wikipedia.org/wiki/Rape_kit
+It was the first thing I noticed after it loaded. 
+Is there an quick and easy way to switch accounts? Before it was just a long press, Now is a few presses. 
+Good. If others made the same comments, he won’t be asked back. 
+That is BS. Glad I didn’t have that DM at GenCon. Did you report him? 
+Lol oh? Do tell. 
+FYI for those playing in an Adventurers League: this rule isn’t allowed. 
+30 seconds in and I am getting a r/Westworld vibe. 
+Ah. That is unfortunate. I got RB4 last year at Easter, so it seems like it got it in the nick of Time. 
+Is the export not available anymore? I would play then all in RB3 if I could. 
+This is good to point out, but I think he didn't mention that, as OP asked about taking MI-wizard as a wizard.
+Good. Then I will wear my SeaQuest shirt.
+Those shirts remind me of the SeaQuest DSV shirts back in the day...
+
+So I shouldn't wear my A-Team tee?
+Don’t forget: as companies started to buy ISPs and content creators, blocking access or charging to competitors. 
+
+It’s like Ford operations a toll road, but only charging for other manufacturers cars. 
+> impose the Dead condition
+
+There is a cream for that.
+Flip phones? Let me tell you about when mobile phones looks like purses. Or what we did before cell phones.
+So, if your DM said it, then it is so. Others might rule differently, but they are not running your table.
+Counter-Strike, 1999-2000. 
+
+Playing after class with a group of friends, I just died and had to run to the bathroom. Ran back to find a new match started. The other team had taken out my squad mates and was just staring at me. 
+
+I sit down and went to switch out my sniper rifle to my handgun. I accidentally pull out my knife. 
+
+“Gaah! God damn knife.” My team starts to laugh as I start to spas as I try not to get shoot and get close. 
+
+“Oh Sh!t, he did it!” I don’t know how, but I managed to not only take out the guy that was showboating/taunting me, but the rest of the OpFor with that god damn knife. 
+So, I DM at my local gaming store and half the kids are in high school, and I am of an age where I could be their father. 
+One more quick question,
+
+what if we wanted to take it just one step further?
+
+		| Car 1 |  				|		|  		| Car 2 |  				|			|  		| Car 3 |  				| 			|
+:--- 	| :--- 	| :--- 			| :---	| :---	| :--- 	| :--- 			| :--- 		| :--- 	| :--- 	| :---			|:--- 		|
+ 		| 1		| Car1.feature1	| 		|  		| 1 	| Car2.feature11	| 			|  		| 1 	| Car3.feature21	| 			|
+		|		| 1				|Detail1|		|		| 1				|Detail11	|		|		| 1				|Detail21	|
+		|		| 2				|Detail2|		|		| 2				|Detail12	|		|		| 2				|Detail22	|
+		| 2 	| Car1.feature2	| 		|  		| 2 	| Car2.feature12	|			|  		| 2 	| Car3.feature22	| 			|
+		|		| 1				|Detail3|		|		| 1				|Detail13	|		|		| 1				|Detail23	|
+		|		| 2				|Detail4|		|		| 2				|Detail14	|		|		| 2				|Detail24	|
+		| 3 	| Car1.feature3	|		|  		| 3 	| Car2.feature13 |			|  		| 3 	| Car3.feature23	| 			|
+		|		| 1				|Detail5|		|		| 1				|Detail15	|		|		| 1				|Detail25	|
+		|		| 2				|Detail6|		|		| 2				|Detail16	|		|		| 2				|Detail26	|	
+
+Need the a random detail for each of the cars features.
+Touché
+Solution Verified
+Hmm... this will not work for by purpose, as I only used cars and colors as an example. So are colors are not actually used. But I do see what you mean, and I will have to tuck this away for future use.
+That was the 1st thing I saw. So then, is that an Hanukkah bush? 
+Is that a Menorah above the a in t/reason? And with this resolution, I can not tell if those are christmas ornaments or not, meaning I can't tell if that is a Hanukkah bush, or a Christmas tree.
+Like god intended. 
+Then you wouldn't need toilet paper
+50 Shades of Green: A Star Trek Story?
+
+I kid, but there is enuff for "Star Trek Story" anthology films. 
+I am hesitant on him doing this, but if it is a real Romulan movie, then I would be 100% for it. As long as they don't change what a Romulan is, or have them talk like they are giving speeches in there native language before the advent of the microphone.
+I want a Bright Light.
+Two Light 2 Bright?
+I'm holding out on making my mind up until more facts come out, or falsehoods get corrected.
+Ɇħ. ŁȺmɇ
+𝕰𝖍. 𝕿𝖍𝖎𝖘 𝖎𝖘 𝖑𝖆𝖒𝖊. 𝖂𝖍𝖆𝖙 𝖎𝖘 𝖙𝖍𝖊 𝖕𝖔𝖎𝖓𝖙❓​
+I would hug her.
+
+Some one should make a bot that does this
+❤️
+I’d like to know what happened with Sara. 
+It's in the Death Curse Primer. I actually had this doc, but didn't think it would be in there.
+Would you say that the link was sealed?
+The hunger games had a better transition. 
+Thanks. I though I had all of the docs with me. Looks like one slipped through. 
+I have a friend that wants to know... 
+Yeah, I should have clarified that I meant *during*.
+
+I know I will have players ask.
+> $100k: All Adventurers League players are entitled to one free resurrection spell for one of their characters. Cross this benefit off this cert after using it. (Unlocked) 
+
+I'm sure this can't be used this season, correct?
+Focusing on your composition comment, how would you do it? Honest question. 
+He was not the chosen one.
+Yes, and it seems like you just ignored the 2nd and 3rd paragraphs. 
+This comment answers that perfectly:
+
+https://www.reddit.com/r/AskScienceFiction/comments/54saxw/comment/d84p346?st=JAQ4GSS8&sh=7c559732
+I still have a pc like that!
+Ill have to stop by and check it out
+
+Looks like the price went up.
+I agree, I have the book and the DnDBeyond content.
+
+If I use content from yours, I'll be sure to give you credit. To be honest, I am hesitant to release mine for legal reasons.
+well, there goes all the work I did. /s
+
+Nice job. The biggest difference I see from the one that I am working on and yours is that mine roles for placement for each sibling, ie You have a twin. You also have 3 older and 1 younger siblings.
+
+So I do have a question, I see you have "Single Parent Fate", what of the other? 
+
+Edit: I have to admit, I like the layout. would you mind if i took some of your work and use it in mine? I can send you mine and you can look over it if you wish.
+r/unexpectedstartrek
+It’s yours. All I did was some reformatting. 
+No. But in coming up with the response to this reminded me of that search terms I used (Time in the forgotten realms). 
+
+The site I was looking for is this one:
+
+http://www.realmshelps.net/faerun/lore/life/time.shtml
+You could almost merge the two tables for hunting and combine the text.
+
+Also, in the "Number" column, you should be more consistent with the dashes. Swap out the hyphens (-) and the word "to" with a en dash (–). I would also change the name of that column to "d100".
+
+The NAs in the 1–25, I would change them to an em dash (—).
+
+Also, check this out:
+**[Homebrewery Link](http://homebrewery.naturalcrit.com/share/HyYP4W5eG)**
+Just trying to Reinforce. The comment was supposed to be a reply to OP, not to you. 
+There are a few things you are not considering:
+
+>Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of a beast.
+
+and
+
+>When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears after you cast this spell again.
+
+These are not 100% physical beings. When they die, only the connection to this plane is severed. Recasting would recreated that connection.
+I… totally forgot about that. 
+One shot that we know of. 
+Do you know what you are planning on doing after this?
+Thanks. 
+
+I copied and edited what you had to make something that would work for me. Please check it out:
+
+https://docs.google.com/spreadsheets/d/1R6Ks5BV4ZSmB1LUwA_jPIFEPHEkrQ1cJoCx7DszmK3A/edit?usp=sharing
+
+What I did is just add a Weather Forecast.
+Fav Monster: Specter
+
+Fav Magical Item:  Quiver of Ehlonna
+
+OMG. I love this! 
+
+Looks like I would have to go and do some editing to get this to work in Excel. Honestly, I don't know if I want to take the time.
+
+Could you do a weather generator as well?
+Then it your DM's call.
+Are you playing Adventure League? If so, you can only use Xanathar's if you have not picked your +1 yet.
+
+If this is not an AL game, then it is up to your DM. Ask her or him if he would allow it. If your DM does not have the book, she or he may not be comfortable with using the content until they get to look over it themselves.
+For LMoP, the group can come across these potions:
+
+|Potion|Desc|
+|:---|:---|
+|Healing (x15)| The potion's red liquid glimmers when agitated.|
+|Invisibility | This potion's container looks empty but feels as though it holds liquid.|
+|Vitality | The potion's crimson liquid regularly pulses with dull light, calling to mind a heart beat.|
+|Flying | This potion's clear liquid floats at the top of its container and has cloudy white impurities drifting in it.|
+
+They will also find:
+
+* Bottle of Mercury, Small
+* Bottle of Dragon Bile, Small
+* Bottle of Powedered Nightshade, Small
+
+
+So i would start with those.
+I wish I could do this one the Xbox 
+From my understanding, it doesn’t matter if it is inefficient as they have virtually unending/very cheap (practically) free energy. 
+Mostly stone.
+I am not sure about anything anymore. 
+Don't be sheepish. You know you would love it. lol
+If this is the only instance, and it wasn't a recent event, I would like to think I would feel the same way.
+Part of me feels the same way, and the other part of me wonders if that is because I really like Senator Franken.
+
+So conflicted on this.
+I think that was Ablus’ brother. 
+The after that is The Tales of Beedle the Bard: The Trail of Grindelwald
+Good bot. 
+I think I would rule it as the common guard doesn't "feel" right. Like he is starting to feel sick.
+As for the fight being unfun, long, and tedious, your party is a little to blame for this. They did start the fight. They knew the number of zombies. 
+
+If your players didn't like the fact that Necromancer got away, then let this be a lesson to them to target the "BBG" of the encounter first. I do not know the makeup of your group. The paladin seem to me to waste time with the buffing if he done this in combat.
+I like the fact that use used one of those "decorative" tables as the base for this. Clever. This might be a project I would try.
+
+*Edit: I had to face the fact that I made a typo.*
+Thank you for the link. I have hear this piece, or one like it some where before. 
+
+
+I love this kit. I have so far only finished the 1st one and just started the 2nd. 
+
+This kit makes what seems like a daunting task and makes it manageable. I'm thinking of get one for my 12-year old.
+Note to self: stay away from this one. 
+I have not seen the add, but assumed that it was for new customers. If it open to all...
+
+I don't have a 4K tv tho... :(
+It contains knowledge not meant for you mere mortals. */s*
+How did you get permanent disadvantage?
+Is there a way run a second set based off the 1st? Say like adding temp based off the the weather?
+
+I have the following tables I am using:
+
+|d20		|Precipitation				|Amount					| Temperature 	|Wind 		|
+|:---:		|:---						|:---:					|:------------:	|:------:	|
+|1&#8209;12	| None						|None					|*Roll*			|*Roll*		|
+|13&#8209;14   | Occasional light rain/mist|1d2 *See&nbsp;table*|*Roll*			|*Roll*		|
+|15&#8209;16   | Moderate rain				|1d4 *See table* 	|*Roll*			|*Roll*		|
+|17&#8209;19| Heavy rain				|1d12 + 4 *See table*|*Roll*			|*Roll*		|
+|**20** 	| **Tropical storm**		|**Wind too strong**	|***1d4 x 10 Colder***|**Strong**	|
+
+
+|d20 		| Temperature 		||d20		| Wind 		|
+|:---:		|:------------		|:---:|:---:		|:----------|
+|1&#8209;14	| Normal, 95°F		||1&#8209;14 | None      |
+|15&#8209;17| 1d4 x 10 Colder	||15&#8209;17| Light     |
+|18&#8209;20| 1d4 x 5 Hotter	||18&#8209;20| Strong	|
+
+And the following for Amount of  Rain.
+
+|**Hour(s)**|1|2|**Hour(s)**|1|2|3|4|**Hour(s)**|5|6|7|8|9|10|11|12|13|14|15|16|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|**1**|0.05|0.1|**1**|0.2|0.4|0.6|0.8|**1**|1|1.2|1.4|1.6|1.8|2|2.2|2.4|2.6|2.8|3|3.2|
+|**2**|0.1|0.2|**2**|0.4|0.8|1.2|1.6|**2**|2|2.4|2.8|3.2|3.6|4|4.4|4.8|5.2|5.6|6|6.4|
+|**3**|0.15|0.3|**3**|0.6|1.2|1.8|2.4|**3**|3|3.6|4.2|4.8|5.4|6|6.6|7.2|7.8|8.4|9|9.6|
+|**4**|0.2|0.4|**4**|0.8|1.6|2.4|3.2|**4**|4|4.8|5.6|6.4|7.2|8|8.8|9.6|10.4|11.2|12|12.8|
+|**5**|0.25|0.5|**5**|1|2|3|4|**5**|5|6|7|8|9|10|11|12|13|14|15|16|
+|**6**|0.3|0.6|**6**|1.2|2.4|3.6|4.8|**6**|6|7.2|8.4|9.6|10.8|12|13.2|14.4|15.6|16.8|18|19.2|
+|**7**|0.35|0.7|**7**|1.4|2.8|4.2|5.6|**7**|7|8.4|9.8|11.2|12.6|14|15.4|16.8|18.2|19.6|21|22.4|
+|**8**|0.4|0.8|**8**|1.6|3.2|4.8|6.4|**8**|8|9.6|11.2|12.8|14.4|16|17.6|19.2|20.8|22.4|24|25.6|
+|**9**|0.45|0.9|**9**|1.8|3.6|5.4|7.2|**9**|9|10.8|12.6|14.4|16.2|18|19.8|21.6|23.4|25.2|27|28.8|
+|**10**|0.5|1|**10**|2|4|6|8|**10**|10|12|14|16|18|20|22|24|26|28|30|32|
+|**11**|0.55|1.1|**11**|2.2|4.4|6.6|8.8|**11**|11|13.2|15.4|17.6|19.8|22|24.2|26.4|28.6|30.8|33|35.2|
+|**12**|0.6|1.2|**12**|2.4|4.8|7.2|9.6|**12**|12|14.4|16.8|19.2|21.6|24|26.4|28.8|31.2|33.6|36|38.4|
+|**13**|0.65|1.3|**13**|2.6|5.2|7.8|10.4|**13**|13|15.6|18.2|20.8|23.4|26|28.6|31.2|33.8|36.4|39|41.6|
+|**14**|0.7|1.4|**14**|2.8|5.6|8.4|11.2|**14**|14|16.8|19.6|22.4|25.2|28|30.8|33.6|36.4|39.2|42|44.8|
+|**15**|0.75|1.5|**15**|3|6|9|12|**15**|15|18|21|24|27|30|33|36|39|42|45|48|
+|**16**|0.8|1.6|**16**|3.2|6.4|9.6|12.8|**16**|16|19.2|22.4|25.6|28.8|32|35.2|38.4|41.6|44.8|48|51.2|
+|**17**|0.85|1.7|**17**|3.4|6.8|10.2|13.6|**17**|17|20.4|23.8|27.2|30.6|34|37.4|40.8|44.2|47.6|51|54.4|
+|**18**|0.9|1.8|**18**|3.6|7.2|10.8|14.4|**18**|18|21.6|25.2|28.8|32.4|36|39.6|43.2|46.8|50.4|54|57.6|
+|**19**|0.95|1.9|**19**|3.8|7.6|11.4|15.2|**19**|19|22.8|26.6|30.4|34.2|38|41.8|45.6|49.4|53.2|57|60.8|
+|**20**|1|2|**20**|4|8|12|16|**20**|20|24|28|32|36|40|44|48|52|56|60|64|
+|**21**|1.05|2.1|**21**|4.2|8.4|12.6|16.8|**21**|21|25.2|29.4|33.6|37.8|42|46.2|50.4|54.6|58.8|63|67.2|
+|**22**|1.1|2.2|**22**|4.4|8.8|13.2|17.6|**22**|22|26.4|30.8|35.2|39.6|44|48.4|52.8|57.2|61.6|66|70.4|
+|**23**|1.15|2.3|**23**|4.6|9.2|13.8|18.4|**23**|23|27.6|32.2|36.8|41.4|46|50.6|55.2|59.8|64.4|69|73.6|
+|**24**|1.2|2.4|**24**|4.8|9.6|14.4|19.2|**24**|24|28.8|33.6|38.4|43.2|48|52.8|57.6|62.4|67.2|72|76.8|
+
+Would it be possible to use this to use all of these?
+My wife just bought a bag of Skellies from Walgreens for under 3 bucks. Contains like 20 of them. You could also do a bag of Army men.
+
+*Edit:* just reread and caught the 'not in the US' bit. But the idea of using cheap toy figures is still there.
+It depends on why the bad D&D is "bad." 
+[WP] A book out there is missing those pages. Should the two books ever meet....
+I currently have the Go Big plan for the $35 intro price. I don't think I can take advantage of this.
+r/arresteddevelopment is leaking
+Is the a less potato quality gif out there?
+I just got to watch it just the other day.  It is ok.
+
+If you go in knowing that it is not Disney quality, you should be fine.
+Damn, I had always thought that was her. I wonder what her name is.
+[This isn’t her?](http://2.bp.blogspot.com/-uksIqSugOJ0/TqFC3bXcQaI/AAAAAAAACi8/-EtmJCPZJeY/s1600/Evanna+Lynch++Hot_1.jpg)  NSFWish
+Google them. They are out there. 
+This is nice, but you are going to have to cut them out anyway, right? Why not just use the normal layout?
+
+[Here are some items I have given to players.](http://homebrewery.naturalcrit.com/share/H1v0sjqQb)
+If this is to be printed off, i would add 
+
+    .phb{ background : white;}
+
+to the style tags.
+Can't wait to get home to check this out!
+Fake News, amiright?
+LOL, i was thinking there had to be more to the story than that.
+It's like word soup.
+Depends on the state. Some states it is law to file a police report if the damage is over a certain amount.
+Disney is, will be... BnL?
+I... would need the data to back that up.
+
+I believe the plan is a new Star Wars movie every other year, with support movies in between. Most of the MCU will be getting sequels. Heck, some could even argue that the MCU is a giant sequel. The Indy movies, the Pirates movies. I can't think of a studio that has as many franchises as Disney. And this is before we get to their animated movies.
+
+If they were to get the 21CF catalog, you can bet that they would reboot ID4, continue Aliens & Avatar. Kingsmen I would not be too sure of. Ice Age would get a overhaul. All the Xmen related would be swallowed up by the MCU, making it that much bigger.
+
+Per Studio, without any other data, I still *think* Disney has more sequels.
+5 min of Romulans is not enuff. 
+And the sequels will never end. 
+The pic showed 21sr Century Fox, so I assumed that was the Fox they meant. 
+
+For those that may not look at the images, yes, it could have been said better. 
+So, what happens if you have something you have to do at 1:30? How do you know which 1:30 to do it?
+Someone had to take care of the dolphins on the Enterprise-D. 
+I fully agree. And I think it is a shame that they didn’t focus a movie or a large story arc on the Romulans. They could have been so much more. 
+Closer than what you have in your account. 
+Touché
+nice.
+
+Wonder what u/romanmars thinks.
+Wait, they have a copyright symbol on the flag?
+
+> Well, what are you askin' me for?
+
+Thanks for playing, but the correct response is "I'm not asking you--I'm telling you. Who is on first."
+Characters. Those seven letters go in an envelope.
+Well, what are you askin' me for?
+
+That's the man's name.
+Not if you stuff it.
+I forgot about that place.
+I have a player that would try to suggest this, and it totally not be a joke. Then get annoyed when I totally not do that.
+
+Glad is last day in the group is this week.
+
+As a DM, I wouldn't let that happen. As a player, I would be annoyed as it was too easy.
+Anna,
+
+You know how I feel about you. But no matter how many times I tell you, I feel it is, was, never enough. It has been almost 20 years since we meet and I have never came close of forgetting you. Your smile, your laugh, your scent; forever carved into my mind. It was a love at first sight. And it is a love that still lasts. 
+
+I have tried to forget you. Wished I had forgotten you twice: when you moved up north and got married, and after your divorce, when I thought we would finally be truly together. That week was the best week of my life. And my worst. There was nothing I could have done to prevent it and I honestly know it was not my fault. You are who you are. I still love you anyway. 
+
+It took me 15 years before I gave up on any real notion of "us" and have done my best to move on. The pain and love is still there.
+
+Prosecutors hate him!
+I will take a look at that album.
+I should have mentioned: Divination.
+I’m not seeing it. 
+Maybe he sees his redemption intertwined with hers. 
+The gold on the left. 
+Where did you get the bottoms stand and the plaques?
+Yes, you pass very well. 
+Which Disney says isn’t cannon… /s
+Wait, are we talking about Spacey the actor, or Underwood his character. 
+
+Omg, there is a horrible joke in there. 
+Any anyone else annoyed by the fact that the kerning is not correct?
+While this is true, /u/NoRocketScientist's overall sentiment is still valid.
+It must be on the secret Waffle House menu. 
+^^^This guy knows^^^
+This is a good question. My thought is that it would still download the game instead of installing. 
+Only if you let them know. 
+I REPLY AND UPVOTE IN CAPITALS. (JEFFERSON CITY, MO)
+I don’t think it’s the top they where worried about. 
+Shut up, Jayne. 
+I wouldn't be too sure about that.
+I start with the *[Tomb of Annihilation: Hex Crawl Procedure](https://skaldforge.wordpress.com/2017/10/02/tomb-of-annihilation-hex-crawl-procedure/)* by Kyle Maxwell. Then I expanded the weather out abit. You can see what I use at my table [here](http://homebrewery.naturalcrit.com/share/S1DlDopJhZ).
+
+Just an example:
+
+##### Weather Effects
+
+|d20		|Precipitation				|Amount							| Temperature 	|Wind 		|
+|:---:		|:---						|:---:							|:------------:	|:------:	|
+|1			| None						|None							|*Roll Hot*		|*Roll*		|
+|2‑8	| Occasional light rain/mist|1d2<br>*See table*☆	|*Roll Mild*	|*Roll*		|
+|9‑16 | Moderate rain☆		|1d4<br>*See table*☆ 		|*Roll Mild*	|*Roll*		|
+|17‑19| Heavy rain				|1d12 + 4<br>*See table*☆	|*Roll Mild*	|*Roll*		|
+|**20 ** 	| **Tropical storm**		|**Wind too strong**			|***Roll Cold***|**Strong**	|
+
+|d20 		|Desc	| Temperature 	|
+|:---:		|:----	|:------------	|
+|1‑2 	|Cold	| 70°F + 1d10	|
+|3‑11	|Mild	| 80°F + 1d10	|
+|12‑20|Hot	| 90°F + 1d10	|
+
+|d20	| Wind 		|
+|:---:|:----------|
+|1‑14   | None      |
+|15‑17 | Light     |
+|18‑20| Strong	|
+
+### Gallons of Rainwater per Hour 
+#####        Light         
+
+|**Hour(s)**|1|2|
+|:---:|:---:|:---:|
+|**1**|0.05|0.1|
+|**2**|0.1|0.2|
+|**3**|0.15|0.3|
+|**4**|0.2|0.4|
+|**5**|0.25|0.5|
+|**6**|0.3|0.6|
+|**7**|0.35|0.7|
+|**8**|0.4|0.8|
+|**9**|0.45|0.9|
+|**10**|0.5|1|
+|**11**|0.55|1.1|
+|**12**|0.6|1.2|
+|**13**|0.65|1.3|
+|**14**|0.7|1.4|
+|**15**|0.75|1.5|
+|**16**|0.8|1.6|
+|**17**|0.85|1.7|
+|**18**|0.9|1.8|
+|**19**|0.95|1.9|
+|**20**|1|2|
+|**21**|1.05|2.1|
+|**22**|1.1|2.2|
+|**23**|1.15|2.3|
+|**24**|1.2|2.4|
+Who from the RB1 Days is still there?
+Part of me wants to know if you do commissions. The other part thinks that if you do, it would be out of my price range. 
+Published where? If it’s in UA, it’s still not official and can still change until it is printed or “properly published”
+UA!=official, even if it’s put out by WotC. 
+I hope so.
+Oh yes please. 
+Go on…
+ᕕ( ᐛ )ᕗ yay
+If you have D&D Beyond, you could do the same.
+Where you able to find this?
+
+Think how much of a mind fuck it would be. I think it would be quite uncomfortable. 
+I know, right!
+It would be the same. 
+One was running for and now is president and the other is not. 
+
+Honestly, until this story broke, I had no idea who the hell Harry Weinstein was.
+This is perfect. I just order the directors cut on blue-ray yesterday. 
+The PCs won't be lvl 1 forever. Also, if you are doing the HC, or using Syndra as the starting point, you only have 79 days to start before she dies. After that, you need to start rolling to see if her soul has been devoured. You need to stress this point.
+Some of the icons, i get from https://icons8.com/
+
+The rest I will just do a search for "<thing> icon" or  "<thing> symbol" and pick one that seems right.
+I may be missing something, but I don't see any guidance in the book for the mines that are listed on the map. Could someone help me out on that?
+They are from around the web.
+They are easy to make. 
+TIL
+What’s a crit threat?
+That looks cool, but I have an iOS device.
+I have moved this post over to /r/dndnext and will be deleting this post here in a few hours.
+
+
+FYI: I was pointed out to me that this post might not fit into /r/UnearthedArcana . I have moved this post over to /r/dndnext and will be deleting this post here in a few hours.
+You are probably correct. All I did was click the "Share to Reddit" button. I didn't think about what sub it was defaulted to. 
+
+Thanks for taking the time to point that out. With what you said, I do agree I would get more of a response in r/dnd or r/dndnext
+Thanks.
+Sorry, this has taken so long, but we were able to run this. It worked flawlessly. Thank you!
+It will be mostly black. Like the one in the OP. 
+u/MacGuffen has confirmed they are in the new spell deck.  
+Thank you. I’m glad I wasn’t the only one. Although I do see this one being darker in tone, grittier. 
+
+And I agree, I’m not saying it’s a bad thing.
+I think the SCAG ones are included in the new Arcana Spell Deck. I have it at home and will check when I get there. 
+Yup!
+I understand that, but from the promo, there seems to be a lot of similarities. Both shows have a father figure working for a organization intent on capturing people with powers. Said father figure has a child in his care that shows powers. Father figure tries to protect child from the organization.
+I understand that, but from the promo, there seems to be a lot of similarities. Both shows have a father figure working for a organization intent on capturing people with powers. Said father figure has a child in his care that shows powers. Father figure tries to protect child from the organization.
+It more triggering to me that the last two books are not the same type as the rest, than the fact the books are worn. 
+I play AL and I honestly don't know why this is controversial. It says right there that it will be balanced against existing options. And even if it isn't, there is like what, only four of these? /r/theydidthemath should figure out the odds of someone playing at the same table with one of these. I bet it will be very, very low.
+I went from the 4S to the 7 Plus. I held out as I loved my phone bill after paying off the 4S. 
+I’m doing this with my rogue. But I did Human variant to get the duel wielder feat off the bat. 
+
+And purely for flavor, I’m using a whip and the battle-master’s trip attack. 
+
+Also with the whip, I took Sentinel. 
+
+So let that sink in. Whip with sentinel.Or OA is now 10 ft and when you attack and hit, they have to stop And you can trip them: Giving yourself and others advantage. 
+
+All that and if your lucky, sneak attack. 
+You are welcome. 
+The console has only one DLC (after dark) and it comes built into the main version. 
+I use both Adventurersleaguelog.com and ForgedAnvil’s Character creator. Adventurersleaguelog.com for my DM and campaign info. You can create and track individual characters. This one is an Excel spread sheet. 
+
+This is all printed and kept in a 3ring binder. 
+Correct. 
+Sometimes while typing, I’ll miss place the space. Sosending “abou tit” in a text happens more than I care to admit. 
+Thanks. 
+Later that night, did you... get dangerous? /s
+Odd.. the spoiler thing works on mobile, but goes to https://www.reddit.com/s on the desktop.
+
+As I understand it, the Gods of late, really don't care about mortal happenings and would likely not even care or notice missing souls.
+If I may ask, how so?
+I am about to create a wizard for the first time. I am so going to use this. Thank you. 
+I… like this. 
+This.  And who knows, maybe in 400 years you wouldn’t need to even power up the laptop. They could have the scanning technology to read the ones and zeros on the drive with your you having to power it up.  
+When you say “replace electricity”, in what way are you meaning?
+Do all dragons have the Amphibious trait?
+IF I ever create a tortle, his name will be Mitch McConnell.
+Is there a way to get all of these in one download? Or at least One download per book/appendix?
+He's been in the box the whole time.
+Is that really a red herring?
+It depends on the branch.
+
+found this that seem pertinent from [scifi.stackexchange.com](https://scifi.stackexchange.com/questions/87557/chief-medical-officer-outranks-captain-what-is-the-specific-limit-to-this-and):
+
+> In Star Trek, a lot of the regulations quoted are throw away references. Many of them never occur again, even if they probably should. It's one of the problems with episodic television with different script writers.
+
+>That said, the authority of an medical officer to relieve an officer of duty is a significant plot element in the TOS episode [The Doomsday Machine](http://en.wikipedia.org/wiki/The_Doomsday_Machine_\(Star_Trek:_The_Original_Series\)). In that instance, the regulation cited is [Starfleet Order 104, Section C](http://chttp//en.memory-alpha.org/wiki/Starfleet_General_Orders_and_Regulations#Starfleet_Orders). Starfleet Order 104 relates to flag officers taking command of a ship, and Section C specifically covers medical officers relieving flag officers of that authority.
+
+>Based on conversations with friends and family who have served, in the real world, there are a few different kinds of authority that can potentially interleave in interesting ways. The precise regulations vary from country to country, and sometimes even within the same country (US Army protocols are similar, but not identical to US Navy protocols), so I've abstained from providing links to any single nation's regulations. Instead, I'll cover it in broad strokes.
+
+>**General authority** derives from oaths of office, law, rank structure, traditions and regulations. For example, this authority gives a soldier the right (and obligation) to stop a fight between fellow soldiers, regardless of unit membership. It even applies when you're off duty and out of uniform; it allows one soldier to tell another soldier "Hey, fix your uniform, it's out of regulation." In effect, the authority doesn't come from the individual soldier, but from the regulations they've all sworn to obey.
+
+>**Command authority** is based on your rank and assignment. This is the authority that creates the "chain of command". Orders from superiors flow down this chain; in the civilian world, this is your boss and your bosses' boss and so forth. Orders related to your job but from outside of your chain of command are not legitimate orders. The exact protocols and traditions vary from military to military, of course.
+
+>**Positional authority** is derived from your job, but it also exists and extends outside of the chain of command. This the means by which a medical officer can relieve a superior of duty. The skill set of a medical officer gives him training and knowledge that supersedes that of the non-medical officer; regulations are written to provide him the legal right to use that training in the performance of his duties. This is also the authority that permits enlisted Military Police soldiers to arrest officers and ignore any order that officer may issue to the contrary. Likewise, it gives a military sentry the authority to issue orders to anybody crossing his line of responsibility, again regardless of rank.
+I thought about that. I may go through update the wording, but if I where to put the full description, I’m afraid I’d run into copyright issues. 
+I hope it is ok, but I put this up on Homebrewery. The only changes I made was to get rid of the playing card column, make the Arcana cards the 1st column, and put that column in ABC order.
+
+**[Homebrewery Link](http://homebrewery.naturalcrit.com/share/BJ7AXU3BqW)**
+There is a variant in the DMG for automatic success. if the Ability Score is within 5 of the DC, then it is an automatic success. 
+
+The Critical Success on ability checks is a homebrew rule, so I don't think the two would work together.
+This is called a "Contest" in the PHB.
+
+"If the contest results in a tie, the situation remains the same as it was before the contest. Thus, one contestant might win the contest by default."
+
+Someone like Auli'i Cravalho for my Rogue sailor. But if Hollywood was in charged, more than likely she would be white washed.
+There is even a newer version that auto calculates the ability mods. Il see if I can find the link.
+Spoiler alert. 
+> combat encounter
+
+I believe this one has already been done.
+
+As for the party tracker, just two things, one is an issue, the other is just a nit-pick.
+
+First the issue. I filled out the form then saved it, and then printed. It printed a blank form. The text is visible in the print preview. Is this some issue on my end?
+
+The nit-pick, when tabbing, I think it would work better if it went left to right then down. As it stands, it goes Name > Race > Alignment > Skin > Level > Passive... > Inspration > Person... ect, before it goes back to up to class.
+
+This last thing is really minor, though. I'm just glad that you took the time to do this. The not being able to print...
+I know, right?
+RemindMe! 21 days "DIY Token Minis"
+“Best god costume”
+
+I guess everyone needs at least two for every Occasion 
+Late to the party, but there it says somewhere in the primer that somewhere in the jungle, there is someone that knows how to bypass the curse and can resurrect, but it comes at a steep cost.
+My son just got some of these at GenCon because he thought they were cool.
+
+The first time I ever saw d6s like that where in the Monopoly Millennium Edition. Granted, they had the dots and not the numbers.
+> WoTC hasn't distributed the Certs since season 3 (?). They are now included in the pdfs/files when you download the adventures from DMs Guild.
+
+Ah, I have only run the HC adventures, this would be why I didn't know that.
+Paying 10gp/day seems really high. Maybe 1gp/day. And that will vary depending on the area in city the dōjō is at. 10gp/day would be for the elites, the Royalty. The merchants might be able to 6sp-1gp/day.
+ 
+Not to be pedantic, but wouldn’t it just be enter/trespass? Bypassing the lock would be breaking. 
+It has been stated by J. Crawford that it will not, in fact, be part of XGtE.
+
+Links: [[1](https://www.reddit.com/r/dndnext/comments/6wekqd/jeremy_crawford_revised_ranger_needs_refinement/)]
+
+
+If no one has explained it yet, in English, Uranus is sometimes pronounced as “Yer Anus” (Ur-anus).
+That gives me an idea. Maybe my group could be the 1st. We would be pioneers! /s
+Yeah, I was thinking NFL as I’m from Missouri, and was thinking we don’t have 2 teams anymore. 
+I get letters. 
+Where is Green Bay?
+Only if you use those 4 subclasses. 
+
+And for those that really want and use the Lore, you’ll still need it. 
+Illusions Michael, illusions.
+I remember reading this, but can't find it. Can you point me in the right direction?
+Put it on Showtime. HBO won't take it as they have Game of Thrones and don't want to be typecasted.
+Star Trek was a horrible game. 
+I’m not desperate for it to happen. 
+
+And I’m asking about the definition as one could make the argument that since this was done in another plane, relative proximity could be on the same plane. We must know what they mean by relative. Relative to what? 
+Does the contract define ‘relative proximity’?
+Good for her. 
+Godfather. Not grandfather. Two different things. 
+I just told my wife this, and because if Brian, she stated that the show will never start. 
+Zion Church is charging five dollars for parking. I know because I just did 
+If, if, if. The world doesn’t run on ifs. It runs on dids. 
+
+Going at least 6 in Barbarian can get you the bear totem at that reads: Your carrying capacity (including maximum load and maximum lift) is doubled, and you have advantage on Strength checks made to push, pull, lift, or break objects.
+
+You can push, drag, or lift a weight in pounds up to twice your carrying capacity (or 30 times your Strength score). 
+
+So at a STR of 20, that would be 1200 lbs. (20*30*2)
+
+But I’m not done, if that was a Goliath, for this you are considered Large creature, and can double that.
+
+I’m sure most, if not all that you encounter, will be less than 2400 lbs. 
+
+You can move opponents anywhere you want. Maybe even perhaps, drop them off a ledge.
+
+So over all, I’d start with a Goliath barbarian with at least 3 in bard and rest in barbarian.  
+
+The only spell I would 100% make sure I would take is longstrider to cast just before raging. 
+Going deeper into Barbarian can get you the bear totem at lvl 6 that reads: Your carrying capacity (including maximum load and maximum lift) is doubled, and you have advantage on Strength checks made to push, pull, lift, or break objects.
+
+You can push, drag, or lift a weight in pounds up to twice your carrying capacity (or 30 times your Strength score). 
+
+So at a STR of 20, that would be 1200 lbs. (20*30*2)
+
+But I’m not done, if that was a Goliath, for this you are considered Large creature, and can double that.
+
+I’m sure most, if not all that you encounter, will be less than 2400 lbs. 
+
+You can move opponents anywhere you want. Maybe even perhaps, drop them off a ledge.
+At a table that I run, the group came across some bandits on horses. One player focused on trying to knock one off and take a horse. He succeeded. This was at level 1 and knowing this group, I didn't want them to have mounts yet.
+
+For the next two sessions, the party would hear wolves howl in the distance. After they made camp, they left on foot to a nearby cave. They didn't didn't clean up the used food they had laying around the camp. When they came back, they found that the camp had be ransacked of food and the horse was dead from a wolf attack.
+
+They simply forgot one simple thing: Leave No Trace!
+
+At least that's what I told them why the wolves attacked.
+Yes he does. As far as I can tell, its only for big set pieces or important locations.
+I’m working on [something similar. ](https://imgur.com/gallery/aV3TK). I really should have drew out the floor plan first, before starting construction. 
+how often do you all play?
+
+Outraged, tell ya! Outraged!
+What do you mean I need to by it again to get it in 4K? I already bought the Betamax years ago!
+97? They upgraded then. 
+True, but he is talking about today. Religion sucks over all. 
+Baptist are worse. 
+The only issue I had with this was when a player decided to run all thru the map into another encounter. Had to go back and forth between two sheets, but still, I highly recommend this approach.
+My Bard-arian would laugh at you.
+Path of the Bear Totem 17/Lore 3 Bard-arian or Champion Fighter 17/Assassin Rouge 3 (must take the Alert Feat)
+
+Don’t mind if I do. 
+My work has that 1st link blocked due to malware.
+Look at the D&DNext adventure, Mines of Madness. They have a encounter tracker/sheet idea in the back of the adventure that I simply love and have used as a basis for my games. This is an [simple example](http://homebrewery.naturalcrit.com/share/SJ-fvscbNb) of how I used it in the Thundertree area in Lost Mines.
+
+Edit: Now that I looked more closely to the link above, it is a much nicer look than mine.
+r/theydidthemath needs to take a look and figure this out. 
+Going by this, you could say a Warlock is a hack wizard that didn't want to study and sold his/her soul to gain the power of magic.
+At my table, it's always some sudden family/guild/collage/school/emergency that calls the character way or some other business.
+Rouges man.
+I read his comment as "As an alternative you could play him with some penalties". I didn't connect that the penalty he was talking about was the curse, at least I think that is what he was talking about now.
+If it doesn't start with DD, I believe it is considered CCC, ie, CORE & HILL
+What is the difference between editions?
+***Convention-Created Content***
+98 % if it doesn't start with DD?
+That is what I was thinking. Thanks!
+
+Is that what is going on with HILL?
+guah, no two spaces! /s
+#Larkin Lives!
+
+#### Am I doing this right?
+So if I am reading this right, you could possibly die from the curse?
+Wait, are you referring to the Curse? If not, when what? 
+Not in AL.
+I'm not seeing it on the site...
+I've seen a few deaths and several close calls at my store.
+So, looks like the whole thing is going to require approval first, and with government, that is going to take a longer than I thought. With that said, I went ahead and made a copy of the whole directory and ran it from there. It worked flawlessly. Thank you! You just saved me hours, if not days of work.
+I did steps 1-7 and so far, everything works. I have to place this on the maintenance calendar two days out before I can run this.
+
+I will update and let you know if it works or not.
+This reminds me of when "Best of Both Worlds, Part II" aired. I ran to the window and looked out to see if I could see the explosion. 
+Right, because they licensed the IP from WotC.
+
+
+[First two lines from Forbes:](https://www.forbes.com/sites/toddkenreck/2017/03/12/dd-beyond-just-announced-as-the-official-dungeons-and-dragons-digital-toolsets/#261594241f82) 
+
+> Wizard of the Coast just announced that Dungeons & Dragons is getting its own 5th edition digital tool-sets. Curse, a media company which is owned by Twitch, is developing the app that should make Dungeons & Dragons easier to play than ever before.
+
+
+Yes, you are. They licensed the IP from WotC. 
+
+[First two lines from Forbes:](https://www.forbes.com/sites/toddkenreck/2017/03/12/dd-beyond-just-announced-as-the-official-dungeons-and-dragons-digital-toolsets/#261594241f82) 
+
+> Wizard of the Coast just announced that Dungeons & Dragons is getting its own 5th edition digital tool-sets. Curse, a media company which is owned by Twitch, is developing the app that should make Dungeons & Dragons easier to play than ever before. 
+
+[Also, D&D Beyond FAQ:](https://dndbeyond.zendesk.com/hc/en-us/articles/115004682007-Why-do-I-have-to-log-in-with-my-Twitch-account-I-thought-this-was-D-D-Beyond-or-Curse-)
+>D&D Beyond is being developed by Curse, and Curse is part of the Twitch family. Curse uses Twitch accounts now. I'll try to channel Socrates here:
+
+>D&D Beyond accounts are Curse accounts
+
+>Curse accounts are Twitch accounts
+
+>Therefore, D&D Beyond accounts are Twitch accounts
+I may not use it in my current campaign as my player seem to have a knack of running into owlbears, and they love owlbear meat. Plus, its an AL game, so what I can bring into the game is limited.
+They don't own the IP. D&D Beyond is a product of Curse, Inc., which is owned Twitch Interactive, a subsidiary of Amazon.com.
+
+They don't own the IP. D&D Beyond is a product of Curse, Inc., which is owned Twitch Interactive, a subsidiary of Amazon.com.
+D&D Beyond is a product of Curse, Inc., which is owned Twitch Interactive, a subsidiary of Amazon.com.
+Overall I like it, but i don't like the idea of crit fails or the fact that you have to have the tool proficiency. Everyone should be able to cook at a basic level, the proficiency should just make it easier. maybe be needed to try 4-5 star level?
+
+And most cooks will tell you that you can have basic ingredients, but it what you do with them is what counts. Knowing to put salt in a dish at the start of the cooking process vs adding salt right at the end makes a huge difference in taste and texture, and salt is a very basic ingredient. 
+Don't forget Acquisitions Incorporated. It is what I started with years ago.
+Yay! I am a statistic! 
+The fun that I can see is having a story like this to tell the generations.
+I have tried to remake CoS into OneNote. OMG was that a painful process. I don't see this as repurchasing so much as paying someone to put in the time and effort into retyping, hotlinking, formating, ect.
+
+The original files they got from WotC was basically a txt file. 
+From my understanding, WotC sets the prices. The team at D&D Beyond fought for the lower entry point and won. Now the others in the game are also getting to sell at the lower price point. 
+
+I am wondering when we will see a Roll20 price drop.
+same here!
+I have a 14 year-old at the table I DM, and he plays a bard. The most cringeworthy things that happen is when he cast *Vicious Mockery* and the insults are just pathetic. He would would just go on if I didn't remind him this has to take place within 6 seconds.
+
+Also, don't try to be cute and seduce everything that moves. Leave sex out of it. If you have plot reason to, say to get information out of a maid about her boss, then thats one thing, but don't just try it cause you can.
+
+Also, try to keep in mind that there is a story being told. If this is a published adventure, try serve the story and don't do much that slows the story down. I guess I am saying that you should also consider the other player's and the DM's time. Going with what someone else has said and what I mentioned above, no one wants to sit for most of the session while you try to figure how to carry 8 swords or whatever. 
+I believe that '-i.bak' in my org post created a backup of the org file. Is there a way to do that with xargs?
+Ill edit my post to be clear, but they are in different paths on a single machine
+I do. 
+But most feeds are delayed a few seconds, are they not?
+What about Tommen? Wouldn't that be 3?
+How did GoT get in my baseball game!
+In one case they give consent for others to look at their bodies, in the other, they don't.
+and yes.
+
+maybe.
+“Army of trembling men” maybe, but an Army none the less. 
+Not in the theatre, but it is on my list for DVD release. 
+I have thought about doing something like this. The only thing I wouldn't do is included drinks and snacks in the price. Have them as an additional cost. I can easily go thru 3-4 cans in a session. 
+I have a feeling that the Knight King will be able to asset control over the Mountain very easily.  
+I personally blame Russia. 
+Three way?
+I knew that, so I am unsure why I asked. Brain fart. 
+Any plans on adding this as a option from the web interface?
+will you bet doing this all four days?
+They believe it as long as it fits their preconceived notions. 
+The Netflix app has sucked for awhile now.
+Is that mid world?
+Fuckin A, Dean. 
+Im going to have to tell the OP joke to my son, AND THEN follow it up with this gem.
+oh, I love this.
+Looking for shows to fill in the gap.
+
+I am on a quest to fill out a timeline of quasi(?)-historical television shows.
+
+So far, this is the list that I have (in order of years covered):
+
+* *Rome*
+* *Vikings*
+* *Marco Polo*
+* *Borgia* (Not the Showtime version)
+* *The Tudors*
+* *Versailles*
+* *John Adams*
+* *Band of Brothers/The Pacific*
+
+I am looking for shows that do a decent job of sticking to history, but more importantly, would give one a extremely good view of what it would be like to live during that era. *Rome* and the movie *Master and Commander* would be examples of this.
+
+I am lacking in the time line between *Rome* and *Vikings*, and again between *Vikings* and *Marco Polo*.
+
+What shows should I add? Remove? Is there a show that I should switch out with what is listed? Which version of The Borgias should I use? Let me know in the comments below.
+Thank you, This is what I was thinking of doing myself.
+I want to know the same. 
+Well, that’s a thing. 
+Going old school on this: 
+
+Moar Muse. 
+But is it dark?
+I noticed that since the Tomb of Annihilation announcement, the price of the PHB has gone up about 1%, and the DMG the same amount. Both has had some price fluctuations; however, the DMG has seen greater fluctuations than the PHB.
+I see what you did there
+Ouch. 
+🆗. I’ll say it. 
+
+Wtf was that?
+When we did more hunting than farming?
+This way, you don’t have to buy ToA to play in the setting. You can download this PDF for free. 
+If it’s like the Elemental Evil Players Companion, then you should be able to buy a Softcover version for like 10 bucks. 
+Username checks out. 
+In my head cannon, that's what happens. You would have 
+
+* *NX* class
+* *NX (Refit)* class (Maybe rename the class to NXR?)
+* *NX (Refit)* class Mk I (Minor upgrades) (Removes pylons connecting the primary hull to the nacelles 
+* *NX (Refit)* class Mk II (Minor upgrades) (Nacelle upgrades)
+* *ETC*
+*Past* was the key word in OP. 
+Life needs things to live. 
+Facing the wrong way? Who cares? She’s cute. 
+I this this is a little one sided. Rule 34 of Jane has been posted, but nothing of Doris. 
+Ah, gotcha. Wasn’t thinking that you had a 7 member party. 
+
+Both are commissioned vessels. *Victory* is the oldest commissioned vessel, *Constitution* is the 2nd oldest. 
+Why do you think it doesn’t make sense?
+There is more kinds of exploration that space exploration. I feel DS9 explored the human condition, relationship, politics, and to a lesser extent, religion in the TNG era than any other Trek. 
+Harry Potter. 
+Looks like Star Trek and Mass Effect had a baby
+It’s so unreal
+I wish Ashley will be there! I want to see the two interact!
+I had to go back to the start of this thread to figure out where you where getting **Two-Weapon Fighting** from, and I think I found where the miscommunication came from.
+
+When OP stated:
+
+> fighter dual wielding hand crossbows with Sharpshooter
+
+I automatically assumed that they would have **Crossbow Expert** to do this. That was my error.
+
+And still, having a swashbuckling rouge jumping over a railing, firing both hand crossbows like older musket pistols, dropping them, and then entering into melee is sweat as, well...
+Just follow me here for a sec, and don't look at **Two Weapon Fighting**. The third point of Crossbow Expert (pg 165) states:
+
+> * When you use the Attack action and attack with a one-handed weapon, you can use a bonus action to attack with a loaded hand crossbow you are holding.
+
+*Crossbow, hand* is a one-handed weapon. If you have the crossbows preloaded, there is no reason you couldn't fire both. Yes, once fired, you would have to holster or drop one to reload.
+
+Now, I do concede that just using just one hand crossbow and firing it twice would be better mechanically, but I still say it is possible and, for RP/flavor purposes, can be done.
+I don’t understand why you say “literally no reason”.  I want to hit 1 target with 2d6  or able to hit two different targets with 1d6, either close or long range, or both? For rouges, it’s one of the few ways to get multiple attacks. 
+it would be nice if I enter info into the campaign section if they would auto add that to the DM logs.
+The crossbow expert feat is independent of two-weapon fighting. You can wield two *hand* crossbows with the CE feat, but you would have to put one down to reload the other.
+
+https://www.reddit.com/r/DnD/comments/376m7u/dualwielding_hand_crossbows_the_final_word/?st=j5cyoo1d&sh=9c75aa65
+
+Edit: added link
+Now that you mention it… :/
+Not a spreadsheet, but I use adventurersleaguelog.com
+Attorney general is the main legal advisor to the government. I believe you just want attorney. 
+
+The attorney general?
+I remember reading about that! 
+
+Hope you did take my comment too harshly, it was not meant that way. 
+Source up or sit down.  
+Glad there was no bias from your source. /s
+Agree. I am not a fan of his politics, but he still is a good man. 
+I would assume that the senator or his office has released the information to the public. 
+And at a point where she was still trying to figure out who she was. Kids go thru that all the time, she just had more people watching. 
+IIRC, that pearlescent paint jobs was one of the hardest to paint and film.  After one of the early movies, the effects company painted (part of?) the ship flat white to get some FX matte shots, totally ruining it and necessitating a complete repaint. 
+
+
+Died off: was assisted with extreme prejudice in this.  
+I worked as a Tech there for 3 years and have never heard of this. 
+I am in awe of your explanation. 
+There are a few layers to this, but the biggest one is that Roy Blunt doesn’t have an heart, and therefor can’t be emotionally moved by a constituent donating money via a handwritten check. 
+
+Actually, that’s all the layers. 
+
+Scourge: Am from Missouri. 
+Starts on pg 252. 
+Khan’s “wife’s” is a nice way to say his sex slaves. 
+But before the current arc? 
+I thought the book covered a time before VM?
+One is for a satellite TV, the other is for a spy Satellite. 
+No Intellivision?
+I could see myself using this one.
+Teach them Risk. 
+Damn you. I have heard or thought about that song in years and now I have it stuck in my head!
+Nice PG answer. 
+That took me way to long to pick up. Need more caffeine. 
+Someone should make this happen. 
+This. 
+I like the idea behind it, but it needs some tweaking. 
+Scanlan's time away, how long was that planned before it happened? 
+Anyone else believe that we could see an official Grayhawk setting in the next few years?
+So who is the most hate team in baseball?
+I see what your saying. If you want to stretch it, you could include Spider-Man ‘77 & ‘78. Making this the 3rd reboot. 
+That is 3. 
+You say that… but there was a nod to Miles Morales, who becomes Spider-Man after the death of Peter Parker in the “Ultimate” Marvel Universe. Granted it will be awhile until that would happen.  
+
+
+This is the *Spider-Man* we need and deserve. 
+Can’t be. The guy with the fake gun is still alive. 
+Yes, it is still the best way, and still considered one of the best campaigns. It's not as long the the hardbound books, but the quality. 
+
+For what you get, LMoP is a great value. Right now, it is just under [$15 on Amazon] (https://www.amazon.com/gp/offer-listing/0786965592/ref=tmm_other_meta_binding_new_olp_sr?ie=UTF8&condition=new&qid=1499696338&sr=8-1). In this hobby, that is cheap.
+*slow clap*
+Roll through the Ages
+This one wins the internet. 
+That entire “wing” is the warp engine. 
+These are AA players, no real big money. 
+They don’t. That’s MiLB (minor league baseball). They’re playing against the Springfield Cardinals. If I’m Not mistaken, that is Hammond field.
+would have to do some minor tweaking as there are no cars in the world I play, but this will def be used! 
+This one works with an upbeat rhythm, or even as a funeral march.
+What happen to the pattern from season 1?
+As someone one else stated, Free during beta. Everything you have access to in beta will remain free outside of beta. Sourcebooks and adventures will cost, as will some of the advance features. 
+
+You will have an option to buy single races/classes, etc.
+
+Prices have not been announced.
+“It should have been me!”
+As of right now, they are 240% funded! You go guys!
+
+I want to thank /u/dmantz the artwork.
+
+Based off of this description:
+
+**Name:** Olivia Zoya Evenwaters. 
+
+**Race/Class:** Human (Ffolk), Rogue Swashbuckler
+
+**Physical Desc:** Human. Age 26. Stands 5 ft 10. Weighs 125 lbs. Dusky Skin (Not sure what this really means, but I went with more of a Polynesian/Hawaiian Skin town) Long Black hair. Dark Brown eyes.
+
+**Equipment:** When adventuring, she always wears her Cap of Water Breathing and Ring of swimming. Studded Leather. Shortbow, Rapier, short sword, and a dagger while on land. On the sea she trades her shortbow for a hand crossbow.
+
+**Backstory:** Olivia Zoya Evenwood was born into a merchant family in to Moon Shade islands. Once she turn of age, wanderlust took ahold of her and she sat off on the open seas and became a experienced sea hand.
+In a bid to earn enough money to buy her own ship and hire a crew, Zoya ventured to the nearest port and set foot on a path that would lead her to the adventuring life.
+
+Zoya would just rather talk her way thru a situation than spill blood, and enjoys seducing to get information, man or woman. But if it is required, she is quite adept at two weapon sword play, Zoya's preferred method is to strike from afar. She has shown a knack for getting into and out of trouble.
+
+When the dust clears, Zoya knows how to insert and act in any situation. From the common pub all the way up to a noble party.
+I appreciate this.
+
+Even finding the 10-die sets (1d20, 1d12, 2d10, 1d8, 4d6, 1d4) are not easy. 
+
+this is how dice sets should be. The after kickstart price of $25 still makes this a value deal, considering a standard 7-die set can cost you 5-10 bucks.
+Backer 19 here. Love this idea. Doing the four pack.
+
+Right now, they are at 32% funded.
+Communist =\= socialist
+I'll have to look, I think I was…
+You got 4 years⁉️ 
+Now that I see it…
+
+The building that I work in, directory listing has that. 0f
+Depends on the fax machine. The ones I have used (I have worked in several pharmacys) had either toner or ink. 
+Thanks. I try to watch it tonight. 
+🆗, I'll bite, what movie is it?
+The gate is down. 
+Remind me! 1 day
+It is when you add 70-80% humidity. 
+Although the 1st one should be 🆗, to anyone. 
+Stop thinking logically, it doesn't belong here. 
+TIL 
+Thank you 
+Love seeing different styles for the same character.
+Peasantry is just a state of mind. 
+You want a fight club? This is how you get a fight club!
+Will there be some type of plastic overlay for the sheet? So we could use dry erase markers?
+The version after the next round is revisions, I bet, will be the book. 
+Just one small observation, I don't know if it was mention in the episode, but the entrance to the mine, I feel would have some sort of [support](https://thumbs.dreamstime.com/z/old-mine-entrance-abandoned-forest-45811998.jpg), and not look like a cave entrance.
+
+It's a small thing, but other than that: Awesome!
+Well, I am not a fan of 45, but for the Warriors to decline a WH visit, wouldn't they need to be invited 1st? 
+Magic.
+So, he should have told her before or during?
+I… nope. I have nothing. 
+This
+
+
+One could ask why are you so offensive?
+Read page seven, third paragraph under ***Developments***.
+!remindme 1 month
+*tips hat*
+Will work on the Xbox One family. 
+Oh lordy. These are nice!
+
+Upvoting for the Cheat.
+
+Still cool tiles tho.
+Beautiful. 
+I just noticed that in the Adventurer's League Content Catalog, Lost Mine (DDHC-LMoP) is listed as Level Band 1-4. 
+Is this just because you had it sent to them directly? I wonder if this will affect me as I buy PHB for players I introduce to the game. Granted, I will be only buying my 3rd book, but it is something I need to keep in mind.
+
+Kudos on your generosity. The world needs more people like you.
+I would go one step further.
+
+I would encourage players to move around tables. My DMing style isn't the same as the other DMs. When they come back, I would ask what they liked and didn't like about the other DMs so I can take that info and use it to be a better DM.
+
+I unfortunately can't easily do that as we have three tables running different seasons  and the players are really invested in the storylines.
+When rolling for a death saving throw, a 1 counts as two failures, whereas with a 20, you regain 1 hp and are no longer unconscious.
+
+Any damage taken after you hit 0 hp results in one failure while a CritHit results in two failures.
+My bad. When I read "But the sentence wrtitten doesn't say that at all," I took it as in reference to the link in the post you replied to. I see now that you meant the sentence in the Original post. 
+The ) is spaced away from the URL, causing it to break. 
+*Two-Weapon Fighting* (TWF)(pg 195) states that you do not use the modifier, unless it is negative. 
+
+*Two-Weapon Fighting* ***Fighting Style*** allows you to add the modifier. 
+
+Every class can do Two-Weapon Fighting, is a general rule, and is what he has written. 
+
+*Fighting Styles* are only for the Fighter, Paladin, and Ranger classes and is a specific rule. 
+
+Specific beats general. 
+Yes. It does. 
+
+"Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't incapacitated."
+
+
+Your welcome. Any idea how easy/hard would this be to set it in Waterdeep/forgotten realms?
+Just skimmed through this, and I do like it.
+
+Just a few things that popped out at me:
+
+* The class table should have a column for the Analysis Die (AD).
+* Maybe one for Healing Elixir as well?
+* I think the Field Medic could be a bit clearer. Does it mean you get AD + INT to heal, or does the +INT replace the AD? I think you meant the former, but could be interpreted as the later.
+
+Ill look over this some more later. 
+Awesome. I just might back this.
+I… can't believe I looked over that. 
+Olivia Zoya Evenwood a Ffolk was born into a merchant family in to Moon Shade islands. Once she turn of age, wanderlust took ahold of her and she sat off on the open seas and became a experienced sea hand.  
+
+In a bid to earn enough money to buy her own ship and hire a crew, Zoya ventured to the nearest port and set foot on a path that would lead her to the adventuring life. 
+
+Quit adapt at swordplay, Zoya's preferred method is to strike from afar. She has shown a nack for getting into and out of trouble. 
+
+
+-----
+
+I have linked to the mini I had made for [Zoya](https://imgur.com/a/16kkk) to use as a reference. 
+I highly recommend "Star Trek: Federation". You'll have to ignore the events in "Star Trek: First Contact" as it (the book) was published before this movie came out and FC drastically contradicts the book. 
+
+TBH, because of this book, I didn't like FC.  
+
+To me, "Federation" was more inline with how I pictured the events around the 1st warp flight. Around, not the flight itself. Read the book and you'll see what I mean. 
+Phandelver is Teir 1. Any one can play that is lvl 1-4. 
+
+At the end of the adventure, the characters should then be lvl 5. 
+Uncanny Valley. 
+As a pharmacy tech who used to work at Walgreens, I agree with OP's view. 
+Yeah I've noticed this. Wtf is it?
+I did the same thing yesterday. Let's hope this works. 
+Volo's was drastically different, though. 
+So if we preorder, will we get it at that price? I'll find out. 
+So I just looked and I have RBN listed as a source, but no songs listed. 
+I may be able to work with this. The actual named battles I could cross reference with the wiki and find page/chapter names from it.
+This is pretty cool. But I am looking for something like this but for the novels.
+Thank you. The text description you have answered all my questions. 
+Unless you have to owe someone that amount. 
+I was hoping I wasn't the only one. 
+
+
+And 
+
+"Dammit Q!"
+Which is taken from the cover of the Org. game. 
+Correct. It was drop when MtG entered the Indian market as it was considered a form of gambling. 
+I'm not a pet person, but this did hit me in the feels. 
+Go Springfield!
+Can you explain what is going on in this vid?
+Yeah, just stop being poor /s
+Lol, I didn't mean to call it out as impressive. 
+The girl on the end: WTF?
+Username checks out. 
+Lol
+Good read so far. 
+Don't blame yah. 
+The way Reddit is, I feel if you posted the link, you might get a few more bucks. 
+Ah, thanks. I was wondering. So it was just the monsters, and not the side plot?
+TIL...
+And this is why I look at this technology with apprehension. 
+Matt keeps saying that this is all because of the chat room. Why is that? What happened?
+
+I don't understand the lying part. He plainly says "I predict…"
+Thanks. I really need to get back into international news. 
+I guess I'm needing a ELI5 on this. 
+If this is true :
+
+*Under the Minsk II peace agreements dated February 12, 2015, Debaltseve should be under control of the Ukrainian authorities.*
+
+Then don't they have a right to take what is theirs? 
+Too soon. 
+With these servers hosting FTI, I don't think I going to attempt it. 
+Yes and no. I got it to work well enough to find out the servers won't allow remote scripts to be run. ¯\_(ツ)_/¯ 
+You. Can't. Handle. The. Truuuuuuuuuuuth!
+Is there a way to do this without having the intersection? 
+Sorry it has taken me so long to get back to you. I tried running this and keep getting this error:
+
+    Test-Connection : Cannot validate argument on parameter 'ComputerName'. The argument is null or empty. Provide an
+    argument that is not null or empty, and then try the command again.
+    At C:\PSPing\FindSplunk.ps1:28 char:41
+    +     if (!(test-Connection -ComputerName $System -Credential $cred -BufferSize 16 ...
+    +                                         ~~~~~~~
+        + CategoryInfo          : InvalidData: (:) [Test-Connection], ParameterBindingValidationException
+        + FullyQualifiedErrorId : ParameterArgumentValidationError,Microsoft.PowerShell.Commands.TestConnectionCommand    
+
+Real fake rocks, or fake real rocks?
+
+Me thinks fake real rocks.
+I was thinking the same thing about my wife... 
+
+And I'm not sure if that was sarcasm on my part or not...
+hypnotizing 
+If you insist. Landscape mode, at least for the iPhone 7 Plus?
+
+where can we post suggestions for future updates? I would like to filter out the songs I do own. This would make it easier to find new songs to buy. While we are at it, can we sort by date purchased (in the app and in game?)
+What happened with WikiLeaks? Was there some kind of internal shift? I remember with the cables were leaked and that was one thing, but for the last few years, they seem to be targeting.
+That is what I am gathering. I'm looking at the Get-RemoteProgram, but I am unsure how to pass the credentials to it.
+The Final Frontier was partally effected by the [1988 Writers Guild of America strike
+](https://en.wikipedia.org/wiki/1988_Writers_Guild_of_America_strike)
+The Sorcererist?
+Get that cut looked at. 
+Iirc, a writer's strike played a role in it's awfulness. 
+So say we all.  
+And where would one get these skewed dice?
+
+Edit: found the answer
+
+http://mathartfun.com/DiceLabDice.html
+Came in to say this. 
+Was going to say this. 
+if they had done an RPG with MageKnight, that would have been awesome. The world they created for it would have been a great setting. 
+If they do, I think I would get a custom dust jacket for it. 
+Vol. 2
+Maybe it is me, but I do not understand the "tier" list. "S" is better than "A"? 
+
+I like everything else about the guide, just this part makes me go *wha?*
+Touché
+40 bucks says your to late. 
+14 you say? This is the kind of girl that I hope my 11 year-old son gets to know when he is older.
+So just because he is black, he is not supposed to do what every other president has done?
+Remember, you can only gain the benefits of a long rest, once per day/24 hours.
+It it's true, then is not a theory. 
+Now if that was irl, I would be a happy man. 
+The final countdown.  
+You're still here. You're doing it wrong. 
+That's funny. 
+To you and everyone else. It's the reason I haven't seen the movie. I loved the audiobook. If it doesn't looks anything like it (at least the abridged version), then I'll pass. 
+Something closer to home: [ The 24th Annual Olean Jaycees Testicle Festival](http://www.oleanjaycees.com) 
+So noted. 
+[Close. ](https://en.m.wikipedia.org/wiki/Son_of_a_gun) 
+Seem like I'm one of the few that actually would like to know the background (story). 
+Is r/UnexpectedHarryPotter a thing?
+Now that I have had a chance to step away from it for a bit. I noticed that I did the highlights all wrong. Something I'll have to take note of for the next guy. 
+The orc. May do it this coming weekend. 
+
+Remember, we are learning here. I don't know about you, but my end goal isn't to enter competitions. It's to have the minis to be play ready. And for me, your mini would meet that criteria. 
+Here are pics of the [1st and 2nd wash](https://imgur.com/a/rLYXo). 
+Thank you. I had to do the wash twice. First time I did the wash it was a 4 to 1 ratio and that did not work as well as I thought. I went over it with a 3 to 1 ratio and to me that looked much better.
+
+Overall the model itself as you can tell is not the best.
+[here's my first attempt](https://imgur.com/gallery/RL8hu) kind a rush that I think
+I was on the fence about getting this kit, and about starting painting in general. But you have help me pick a side. With that said, I have ordered my kit yesterday and should have it tomorrow! I will post pix of the progress once I start.
+Username does not check out. 
+Thanks for helping me think/walk it through. 
+I am Batman. 
+Could they mean 15 ft from eye level?
+
+But if there is a door under the ledge, then 7.5ft would make more sense. 
+I agree. I'm just trying to understand where the 15 ft came from. 
+Further into the map. 
+That would be the only way I can see it working, but then would the other stairs still be 5ft?
+To me, if your in the cellar floor, you would go up two flights of stairs that are 5ft high to the landing. That's 10 feet. 
+^this
+
+It's been years since i played had totally forgotten. But now it's like yesterday.
+This is neat. Id like to see one for office. 
+Yes, I am interested. I like the style. If my character makes it to level 5, I would love to have her drawn. (Not like one of your French girls , :p )(maybe)
+How much do you charge for a commission like one of these?
+I kept getting wrinkles in the tape. 
+
+Also, how are you doing the outdoor maps ( I.e. Thunder Tree)?
+[Just got done with this.](https://imgur.com/gallery/Udp8X) Had to skip step two as the tape was giving me issues. 
+
+If anyone could give me any pointers on that?
+And now the install and update, and download of 800+ song…
+Yay! Thanks for the info! I now own Rockband 4!
+TIL: floor hockey is a thing
+He was born in 1881, so in 1925 he would have been 44. 
+This isn't just a concept. They have an actual object with negative mass. 
+And you have no argument on that from me.
+proficiency != expert
+
+I would think the a blacksmith is an expert at blacksmithing, where as a fighter would not be an expert.
+I see what you did there...
+So saving this to use later
+Agreed. 
+I believe all the maps are 20x30 
+
+Edit: spelling
+But that could only be used once per short/long rest. 
+Made OF. I told my wife this and the look of horror that was on her face was priceless. 
+I need a CNC router. 
+Canadian who?
+But one can say Memory Alpha isn't official. 
+Can confirm on [Voyager. ](https://twitter.com/mikeokuda/status/791379407839432704) . 
+The Star Trek encyclopedia uses VGR. 
+The overall damage from a warp core breach, believe it or not, is 18 meters (Star Trek: Federation [Novel]). The destruction is caused from the loss of antideuterium containment. These explosions cause a surge thru the power grid, resulting the destruction of the ship. 
+
+The reasoning behind the 18 meters is the destruction is determined by local gravity conditions rather than the power put through the warp field generator.
+
+I'm sure I could explain this better, but ¯\_(ツ)_/¯ I'm at work.  
+
+Edited to add:
+
+> Warp core breach The worst possible accident to happen on a warp-driven starship. Caused by an antimatter containment failure, matter and antimatter may collide in larger quantities, leading to a chain reaction that inevitably destroys the whole ship (generic). *From [Ex Astris Scientia](http://www.ex-astris-scientia.org/treknology/treknology-w.htm).*
+ELI5: What exactly are we seeing? It that the pigments?
+If I ever use hydras in the game, I will use this source. 
+As the oldest in my family: if he wasn't being a little shit, this would not have happened. 
+No magic can bring people back from the dead, but it can be used to prevent death/prolong life. 
+
+Edit: speeling
+My understanding is humans got the *ability* to bend from the lion turtles, but learned how to use/master that ability from the original benders. 
+Maybe there is a band around the edge that allows this? #TryingToMakeItWork
+
+Edit: speeling
+Do you have a gallery where I could see some of your work? I am looking for someone to paint a mini for me.
+Do you have a gallery where I could see some of your work? I am looking for someone to paint a mini for me.
+Do you have a gallery where I could see some of your work? I am looking for someone to paint a mini for me.
+When I was writing it, I did too. 
+Well, I can't argue with that. 
+lol, it's becoming my highest rated comment.
+Thank you.
+but until then, it doesn't need to be here. It can cause confusion for new players.
+
+Edit: letter
+came here to say this.
+What happened in the house between Harry and the Dark Lord is a complete secret. So, naturally, the whole Wizarding World knows.
+Wouldn't having to bring him back under these circumstances, be the definition, or direct result of "shit hitting the fan"?
+This needs to be removed.  
+So you're saying they shouldn't even try at this point?
+You can't eat your cake and have it, too. 
+
+
+It pisses me off when I hear "You can't have your cake and eat it, too." 
+I have never considered having the dagger on the chest like that. 
+
+Honestly, my only criticism would be with the armor. I have never been a fan of armor that shows the midriff. 
+This is the biggest reason I wouldn't do it. A friend of mine bought the leather bound editions of the PS and CoS. They never released any books past that. I would love a complete leather bound set of the HP books.
+I ordered my last week. How long from when you placed the order did it take to get it?
+> Lopping off someone's head and attaching it to a body doesn't
+
+I need my morning caffinee. I read this as
+
+> Lopping off someone's head and attaching it to a *door* doesn't
+
+
+...and you must have predictive turned on.
+That is the correct flag for Japan. The Rising Sun Flag was used by the Japanese military. 
+Male teacher I take it?
+Sounds like my neighbors might be getting sex and bankruptcy missed-up. I'll have to go explain the difference.  
+So I see you are forcing me to use google. 
+Instructions unclear. When do we snap?
+Where is the gifv link?
+Do we really *need* religions anymore?
+I am so doing this!
+This is the first image that makes me shed a tear. 
+I have an 7 plus. Are there any plans on enabling landscape mode?
+I want to take this and make it into a challenge in my D&D game!
+Yes please. 
+
+Have you had any luck with this? I have a map that I am wanting to create a DEM for, so if you got it to work, any insights would be helpful.
+I have to look this one up
+Yes please. 
+But we don't know when Moriarty contacted him. This could have been going on for a few years. 
+I will, though, I am not painting it. I am having someone else paint it for me.
+
+I ordered the mini from HeroForge, and I don't want my 1st mini I paint to be something that expensive. 
+She is Ffolk (SCAG). So she would be descendant from the Tethyrians, so i was leaning toward basing them off of the Polynesians.
+
+
+Nope. Ffolk.
+Love this. I do have a question on the Character Sheet bit: What options are there? What would you have, say for a Rogue or Wizard?
+Looks like it's a issue with the mobile client. When I try to follow the link, it goes to u/dndbeyond. From a desktop, it loaded up fine. 
+You misspelt it. You forgot the silent "c" in front. 
+I also think people are overlooking the fact that Twitch is owned by Amazon. This could be *one* way to verify hardcover purchases.
+And it's gone
+And it's gone
+And it's gone
+I think this bot should have its comments at the top. Always. 
+Wouldn't hurt. 
+Craig's List?
+> Exstreamly interesting
+
+FIFY
+How did it go?
+I whole heartily recommend this. 
+It's going to. 
+Ah. Thank you. 

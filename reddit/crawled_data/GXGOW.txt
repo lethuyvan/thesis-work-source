@@ -1,0 +1,1444 @@
+Fuck you
+> or a single ~~Java~~ Electron application
+
+FTFY
+Oof
+I guess you meant Vue
+🅱ircle
+I fifth, fuck Oracle, their database software in particular!
+Owie
+I see you're a man of culture as well
+Who the fuck's Justin Bieber?
+They had me at *chronological order*
+I was actually unsure if this was a 'good' solution, so thanks for clearing that up for me. I will remember that for the future.
+~~I had a similar issue with NetworkManager not finding libpsl.so.6. A simple symlink from libpsl.so in the same folder (/usr/lib) solved it for me for now.~~
+
+~~Don't know if this will bring any further issues down the line, though, but it's working for now.~~
+
+EDIT: terrible solution apparently. Do not use
+* / is on my main SSD
+* /home/nicolas is encrypted and is automatically decrypted on login
+* /mnt/DATA is my HDD with Windows 10, Bitlocker encrypted. Also symlinks for Music, Videos, ... in my home folder
+* 4 gigs of swap space too (I have 16 gigs of RAM, so I don't need much swap)
+* System runs on Arch Linux with GNOME
+
+Nothing too special, but it's a great system for web development and entertainment.
+Paint
+TAIWAN NUMBER 1 CHINA NUMBER 2
+> because you live in a bilingual country and there is no default language.
+
+Am Belgian (Flemish), can confirm. Very annoying that many sites default to French.
+Android ~~Peter~~ 🅱️eter
+Been using Gnome on Wayland for some time now with an Optimus setup (Intel/NVidia GPU). Gnome should default to Wayland normally without changing the WaylandEnabled flag, so I don't know what's wrong. Maybe check journalctl for errors? Are you running the latest version of your GPU driver?
+>AI blockchain cloud computing deep learning neural network. 
+
+Pro Plus Active Arc 4G LTE Extended Value Edition
+
+OEMs have never been *that* good at decently naming their devices/products.
+A R C H L I N U X
+
+R
+
+C
+
+H
+
+L
+
+I
+
+N
+
+U
+
+X
+Okay, I get it now. Thanks for explaining!
+Oh boy, that sounds way more complicated than it actually should be. How the hell did they come up with this?
+> Gnome 3 doesn't handle fractional HiDPI.
+
+They did add an experimental feature to enable fractional scaling, which you can toggle if you have Gnome running in Wayland. It is far from ideal, though.
+I use the Bancontact app (Belgian payment system). Sometimes it's much easier to pay on websites or to quickly pay my friends by scanning a QR code than to start fiddling with credit cards or small change.
+Unplug power cord
+Arch user, present!
+*hurr durr* ALL BILLIONAIRES ARE BAD *hurr durr*
+TexStudio is indeed great, especially when you've just started learning it. If you're a bit more experienced, I recommend the VS Code + LaTeX Workshop extension. Auto-build on save, preview in Code itself, better intellisense and formatting are some neat features
+I was wondering that too. Unless mods are calling in the 'no memes' rule, I don't see any reason why all the 'Thanks Valve' comments have been removed. Such a shame, it was such a great, inspirational thread. ^/s
+Thank mr Valve
+That's a nice collection you've got there
+Getting an error when I click the link. Guess the app has been taken down.
+
+Good.
+**BEETCONNEEEEEEEEECT**
+*just like Fred would've wanted*
+
+Oh wait, wrong level
+Bless MusicBee. Its tagging abilities are largely convenient
+Am Arch user. Can confirm.
+> without needing to hunt down vendor specific drivers for the ADB interface, which you must do on Windows.
+
+Strange, haven't had to do that yet on Windows. Both devices work without issues with just adb installed from chocolatey.
+
+I do like working with Android devices on my Arch partition better than on Windows though
+Also had some issues with my Microsoft mouse being disconnected and not reconnecting. Also searched far and wide and ultimately I decided to give up. I switched to Arch with Deepin desktop environment. Works like a charm!
+
+Such a pity that I had to switch though. It looked like a very stable and slick distro. Oh well, I still have the desktop environment.
+That's probably for the better. Wayland isn't stable enough yet for an LTS release. It is promising though, but not ready for primetime yet.
+Bought at 15$, sold at 60$. Bought again at 30$, not fucking selling right now! The future is looking bright, boys!
+[Somebody re-uploaded it with English translations](https://youtu.be/N16E37GN9m8)
+Onions have layers, donkey.
+Yeah I know. Bad idea
+Can confirm, NodeJS and Docker work better under Linux than Windows in my experience. Also, bash.
+>you came to the wrooong house ~~muthafucka~~ dork
+
+FTFY
+i7-4720HQ here, haven't noticed any reboots or unstability here yet (neither on Ubuntu nor on Windows). Guess I'm one of the lucky few.
+
+Intel's getting burnt a little more each day. How come such an old, experienced company is performing such unprofessional fuckups? I had expected better from them, but I guess I don't need to keep my faith in them any longer.
+Parkway Drive - A Deathless Song
+
+Beartooth - King of Anything
+
+Motionless In White - Eternally Yours
+
+Killswitch Engage - AOJB Studio Outtakes
+I also lost one of my cats a few months ago. He was 14 years old and I've also known him for all of my life. I feel your pain :(
+
+Be strong, my fellow gamer/cat lover! My sincere condolences
+So that's what it feels like to be part of the 0.7%
+Kekistan
+My OnePlus One is on its way to last 3 years now, will probably be more.
+
+Other than that, I think my HTC Hero G2 Touch lasted almost 3 years back in the day. I still wonder how I survived that long with it.
+It's a known issue. I've had it too on Ubuntu 17.10. There is a temporary workaround somewhere in the GitHub issues, ~~but I don't remember where.~~ EDIT: [found it!](https://github.com/anbox/anbox/issues/443#issuecomment-345449671)
+Twitter does
+"Why Proximus is absolute cancer" reason #2136545415
+Looks amazing!
+No don't do that. They'd have Pence as president, which is worse, because he actually knows what he's doing (I think).
+I bought some NFC stickers for cheap on AliExpress. They're great in combination with Tasker. I have one on my night stand which activates airplane mode and sleep tracking when I touch it. In the morning, I have to touch it with my phone to deactivate my alarm.
+
+It's automating the small things that make NFC a pretty useful, underrated feature.
+NANI?!
+You can try anycoindirect.eu. It supports Bancontact as payment method. Haven't had any issues with it so far
+Plex can play everything in HD without issues ( ͡° ͜ʖ ͡°)
+Plex can play everything in HD without issues ( ͡° ͜ʖ ͡°)
+*pride and accomplishment sold separately*
+> you've never been on a train in Flanders 
+
+It's a fucking nightmare! Half of the route from Sint-Niklaas to Gent consists of unstable data connection or even no service at all.
+I.... don't know what I was expecting
+Second that. Not replacing this phone for the time being!
+Mine also looks something like that. I lost it during a metal concert in a circle pit (the strap was still tied though). I was pleasantly surprised that it was still working after I found it at the of the concert. 
+I still have my PlayStation 3 controller...
+Not really, as far as I've noticed.
+Google and inconsistent design
+^hello ^darkness ^my ^old ^friend
+T H I C C
+Does it work on Wayland? Last I've heard it depended on an xorg package for its functionalities
+Well if drivers are going to act like viruses, they're out for me.
+Thanks for the tip. It's working perfectly on my Asus laptop! Battery life did indeed get a bit better and my energy settings aren't being tampered with anymore. 
+
+All without losing functionality. In fact, the precision touchpad settings are slightly more customizable.
+Yes! Fucking yes! It is so goddamn annoying. How many times I've had to re-add songs because I've accidentally deleted them. How fucking annoying!
+**LITERALLY DOA**
+Well don't expect miracles like sudden double battery life, it doesn't get that much better. It gets a little better though, but you're like me and use those battery hogs. I still need to recharge throughout the second half of the day because of my heavy usage.
+[ReplaceDirect](https://www.replacedirect.be/nl/category/272398-102071/oneplus-one-gsm-smartphone-accus.html?prrel=14577407#product), a local (Belgian) smartphone parts retailer. It's about the same quality as the original battery 2 years ago.
+Bought mine more than 2 years ago. Only had the battery replaced this year. This thing is still going blazing fast and ROM development is not slowing down, so I'm sticking with it for a long time.
+> One thing to keep in mind is that Google's apps will work regardless of what phone you have, while Microsoft's apps require at least a 2016 flagship with Snapdragon 820 and 3GB RAM if you want a great experience, otherwise it can take longer to open them, especially OneNote.
+
+Haven't really noticed any slowdowns on my OnePlus One (SD801), so SD820 is maybe setting the bar a little too high. Launching these apps on my LG G Pad 8.3 (SD600) is significantly slower, however, but nothing unbearable.
+Well at the moment, I'm using [Join](https://www.microsoft.com/nl-be/store/p/join-by-joaoapps/9nblggh5krjx?rtc=1) for that. The UWP app is a little less powerful than the Android apps, but I can answer messages and receive notifications on it. I don't need more than that.
+This reminds me of how little I watch TV nowadays. Netflix and YouTube are all I need. Most of the Flemish TV series are horseshit anyway.
+🎺🎺🎺🎺🎺🎺🎺🎺
+[BILLIONS AND BILLIONS AND BILLIONS](https://www.youtube.com/watch?v=u_aLESDql1U&t=38s)
+*courage*
+And I'm not even able to draw a stick figure properly. Your drawings look amazing!
+Always in for some KsE. It's still an awesome cover, a great honor to Dio!
+Weird, the update process doesn't mess with the NVIDIA drivers on my build. It does update my Intel HD Graphics driver, but the newer versions do not play nicely with Hyper-V. It's kind of annoying to always roll that back after each build.
+Well I'm still wondering how the hell I looked over such important news
+They're TWRP-backups. Don't worry, they are encrypted, but still.
+Holy shit how did I not know that? I need to get my backups away from there ASAP!
+"Hey Siri"
+>Obligatory "~~Clean Master~~ Cheetah Mobile is cancer" comment. 
+
+FTFY
+Switched to phh superuser the moment is was sold and after that to Magisk. Never going back. 
+
+It's a pity, though. It's been my go-to superuser app since the days of my HTC Hero. How such apps lose their former glory when being sold to shady companies (see Quickpick, ES File Explorer, ...). Such a shame.
+Confirmed, Codingcode is Cheetah Mobile. Abandon ship everyone!
+Also came across that issue. I searched around and after executing the commands [from this help thread](https://support.microsoft.com/en-us/help/947821/fix-windows-update-errors-by-using-the-dism-or-system-update-readiness), the issue was fixed. However, I've also seen users where the solution from that thread did not help.
+Be like ~~Bob~~ Gallant
+**THIS!**
+Weird. I'm from Belgium and it's not working. Oh well, guess I'm staying with Spotify...
+Here also. Probably US-exclusive 😐
+Not yet. China could always change its mind
+*looks at Samsung emoji*
+
+*cringes*
+
+I'm one with the blobs, and the blobs with me. ༼ つ ◕_◕ ༽つ
+Well I still like them more than Google's abomination of Oreo emoji
+anycoindirect.eu ks my go-to site
+AnycoinDirect.eu has been my go-to resource to buy/sell crypotcurrencies for a while now. The easy thing about it is that they support the 'local' online payment methods like Bancontact (exclusive to Belgian banks) or iDEAL (exclusive to Dutch banks).
+
+I saw [this thread](https://www.reddit.com/r/NEO/comments/6sj5ne/neo_on_anycoin_help_wanted/) a while ago, so congrats guys! Your efforts have paid off!
+*Looks at OnePlus One*
+
+It's only a matter of time...
+*add volte plox kthxbye*
+Holy shit I'm using this on my pc. Beter switch ASAP.
+What about Jaxx?
+Couldn't have said it any better!
+
++/u/sodogetip 10 doge verify
+I know right! It's a great album
+Darn it, ReSharper is quite useful for me. Guess I'll have to make a choice
+VS Code is amazingly light and fast for an application that wears the 'Visual Studio' name. 
+[Sure, why not](https://imgur.com/aISK98s)
+Oh yeah, [like this one?](https://i.redd.it/yhllowitnlvx.jpg)
+Speaking of which, where the fuck is Hillary? While Bernie is out there fighting against the abomination of healthcare and fighting for Medicare-for-all, Hillary is just nowhere to be seen. Fucking coward!
+Thanks for the quick reply!
+
+I'm currently using the built-in webserver in PHP v7.1.4 to deploy my applications locally. When I deploy a project (by running
+
+    php -S localhost:8080
+
+from the command line) stored inside my OneDrive folder, the built-in webserver can't find a single file within that folder, so it throws a lot of 
+
+    [404]: / - No such file or directory
+
+errors.
+
+When I move the project folder to a location outside of my OneDrive folder and repeat this process in its new location, the webserver is working just fine. It's really weird. 
+
+Anyway, thanks for the help already!
+Oh yeah, I see now. I guess I confused pre-order and post-order a bit. Thanks for clearing this up!
+> We fixed an issue resulting in Node.js (v6.9.4) not being able to run scripts stored in OneDrive or access any paths in OneDrive.
+
+Well I guess you broke something else with that fix, since I'm not able to deploy any of my PHP projects from within my OneDrive folder (php continually throws errors that it can't find any files). Deploying from any other path is working just fine.
+
+[Here's the Feedback post](https://aka.ms/Nj6n8k)
+Wow that's neat! 
+Damn, that's a whole lot of fixes! Unfortunately, the bug where references to applications installed on a different drive are being reset back to C: still isn't fixed and has been plaguing the past few builds. Currently a workaround is placing a junction in C:\Program Files which references to the actual install path of the program. Not a hard workaround, though.
+
+And yes, I've [posted about it on the Feedback Hub](https://aka.ms/R73j5j) :P
+Use search. This has been answered 848468967808466578 times already!
+I think so. 'a' and 'b' should also be switched
+*Dabs on haters*
+They'll have to take that from my cold dead hands, together with my Docker containers!
+Chrome, Edge and Firefox return "102030". Haven't tried with any other, since those are the only ones I have installed/available within my reach :P
+Befluis at it again!
+[🅱ILLIONS AND 🅱ILLIONS](https://youtu.be/u_aLESDql1U)
+Yup, even though OneDrive is up and running on my pc. No idea why Microsoft is trying to convince me to use it **when I'm already using it**
+Or deer 🦌 to deer 🦌
+That physically hurt reading.
+I am indeed working on one of my mounted drives, outside of WSL's home folder. The project was located on my secondary drive. It's good to hear that it's being dealt with. I will keep in mind to post future problems on the GitHub page.
+
+Thanks for the quick reply!
+Watched $30 rise to about $50 (I'm a poor student lol). Remember, you actually ARE holding Bitcoin. That's already a big step further than most people :)
+
+We can only regret that we should've joined sooner, but oh well, we're still pretty early to the party
+It feels like it was just last week BTC passed the $2500 mark for the first time. He's growing so fast :)
+Lots of chocolate cake!
+Well I made that mistake first, but moved all my assets to a desktop wallet after I heard the MtGox disaster (I did not store my wallet with them, luckily).
+
+Quickly, let's store our doge safely here on Reddit
+
+ +/u/sodogetip 10 doge verify
+Great app. There's just a small thing I'm missing. Is it possible to add Euro to the list of primary currencies?
+Welcome to the dark side
+What kind of fucked up mother is that?! Call the cops! Anything is better than staying with that psycho any longer
+The market is oversaturated. They're practically worthless by now.
+-Install BonziBuddy
+If you're interested, [I've published the image](https://store.docker.com/community/images/gxgow/dogenode). I do need to perform some minor modifications (like writing a description, for example :P) but what I have, is working.
+I find it easier to run applications like that in an isolated environment away from the rest of the system. It's easier to manage this way. 
+
+For less tech savvy people, it is also easier to run 1 or 2 commands to get it up and running. 
+
+And you see, that guide I followed was originally for Linux. You can see that I am running Windows :P
+
+And actually, in the first place, I did it just for the sake of doing it. It's like going through the hell and pain to set up Arch Linux or Gentoo when there's Ubuntu or Fedora. Doing it just for the sake of doing it :)
+It showed up a few seconds ago here
+I will take a look at that. It'll be a nice exercise :D
+Haha thanks for the tip :D I'm still learning to use Docker, started using it this week actually. It's not that hard to learn to be honest. I've learned about Dockerfiles yesterday and you're absolutely right, they are a godsend!
+
+But the further I'm getting to know it, the better I see how amazing and useful Docker is
+It is mounted, actually. /root is mounted. I did notice that the daemon isn't automatically starting. That's what I get for writing quickly and sloppily :P
+
+I'm busy bundling it into a Docker image so other people can easily get a dogecoin node up and running by just pulling it from the Docker store. I've published some things on [GitHub](https://github.com/GXGOW/Docker-Dogecoin-fullnode) already. What I have, seems to be working now :)
+Of course not. That's what makes this community so awesome 😁 
+Returns? I think you're confusing this with mining. Dogecoin mining brings in returns, running a node doesn't. It does benefit the community, however.
+It's not that hard, actually. I've only pulled the [Ubuntu base image](https://store.docker.com/images/ubuntu) from the Docker Store and then followed [this guide](https://www.reddit.com/r/dogecoin/comments/6chkqq/please_if_you_can_run_a_full_nodes_by_enabling/dhvay4j).
+
+~~So let me run through the commands here~~
+
+~~docker pull ubuntu:16.04~~
+
+~~docker run --name dogenode -ti /bin/sh~~
+
+~~Now the Ubuntu image is up and running. Now we will connect to a bash instance~~
+
+~~docker exec -ti dogenode /bin/bash~~
+
+~~Now you're running a bash session in the container. Like the comment in the second link says, you need some packages first before you can run that command~~
+
+~~apt install curl wget ca-certificates~~
+
+~~After this is done, you can sit back and relax after you've run the final command. Make sure you're in the home directory (type cd ~)~~
+
+~~wget https://gist.githubusercontent.com/JRWR/8510de09d2ee05a8e66d815968420343/raw/ca7062c2a202d50e6575a9cd9317faf9cbee6642/run-dogecoind-fullnode.sh && /bin/bash ./run-dogecoind-fullnode.sh~~
+
+~~This will initialize your node. This will take some time, since it'll download 20 GB of the blockchain through Google Drive. The script will also add a daemon, so the node will automatically start when you start the container.~~
+
+EDIT: [Just pull and run the Docker image here!](https://store.docker.com/community/images/gxgow/dogenode)
+betaalt*
+People with multiple hard drives, beware. The issue where junctions to different drives are reset to C:\ still isn't fixed. All shortcuts, registry entries, uninstaller paths, ... to programs on different drives will get reset to C:\ and it is a huge pain in the ass to fix it.
+
+See [this thread](https://www.reddit.com/r/windowsinsiders/comments/6r2n2d/update_to_16251_rewrote_my_junction_links_in/) and [this feedback post](https://aka.ms/o2uaxj)
+
+Currently, you can work around this by creating junctions to the other drive
+Also experienced this. All shortcuts, registry entries, ... reset to the C-drive. Had to perform a clean install after that, since there was too much broken.
+
+I was planning on getting back into insider builds, but I guess it's not going to happen as long as this bug is here.
+
+EDIT: Well, apparently fixing it isn't that hard. Just creating a few junctions and the errors went away
+It's not an insider bug. Also happens to me on Edge on the stable build (15063)
+The false feeling of anonymity
+For suicide help in Belgium: call 1813 or go to [https://www.zelfmoord1813.be/](https://www.zelfmoord1813.be/)
+I'm in such a group for my town. A few months ago, someone posted a picture of an announcement for building a new mosque. The description wasn't pretty and the comments were a fucking pile of shit. 
+
+I love my town :D ^/s
+Snapdragon 600 and 801 here. It's a little faster though, but that could also partly be the result of the content and tracker blocker. I'm very satisfied with it, anyway.
+I switched to Google Photos, but that's because all my pictures are in the cloud. I don't think it's a good app for offline picture management. For that, I recommend [Piktures](https://play.google.com/store/apps/details?id=com.diune.pictures)
+Antivirus apps on Android are mostly just unnecessary battery hogs. As long as you download your apps from trusted sources like the Google Play Store or APKMirror, there's no need for them.
+Nope, unfortunately. But [its developer](https://forum.xda-developers.com/member.php?u=1427327) has a good reputation within the XDA community.
+Oh I didn't know that. Thanks for letting me know!
+Pocket Casts all the way! The syncing feature is also pretty helpful. Casting to my Chromecast also works flawlessly. Only thing I'm missing a bit is a desktop client, but it's not essential.
+Second it. Switched to it from SwiftKey when it started supporting multilingual keyboards. Never looked back. 
+
+Also the built-in GIF search and typing the name of or drawing emoji to find them are pretty neat additions.
+Switched to TugaBrowser from Chrome. It's a bit smoother to be honest. It also has a built-in tracker blocker. 
+
+[You can try it here](https://labs.xda-developers.com/store/app/tugapower.codeaurora.browser)
+https://imgur.com/WhIA5Y4
+Mom has an iPhone 5C, dad has a Moto G4 Plus. They both chose it themselves and they're very happy with them.
+Same here. One of the best apps on my S3 Mini back in the day. Same with ES File Explorer. It's very unfortunate how they are fucking over their users by destroying what were once great apps.
+* Anything Cheetah Mobile (Clean Master, Quickpic, ...)
+* RAM boosters/cleaners
+* 'antivirus' apps
+* ES File Explorer
+* 'guides' to apps
+* Crappy clones
+* ...
+Well that's some good news. It was a ridiculous bill from the get-go.
+Weren't they already censoring porn in the UK?
+Me neither, until I saw him tweeting this video
+Still have my One with 64 GB and haven't managed to fill it yet. Most of its space is music and a few big apps
+Relata🅱️le
+🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️🅱️
+Thanks for the tip guys. It showed up in my updates, but I guess I'll skip this version just to be ok the safe side.
+Same here. Still going strong on N. Thing's still as smooth as the day I bought it. Battery life has gotten a little worse though.
+Also bought my first coins on that website. Still using it today. Great and fast service!
+Haven't seen so much cringe in so little time for a while.
+
+Will this launcher automatically butcher all applications on my device like CM did with all applications they bought?
+My LG G Pad 8.3 still hasn't bootlooped
+
+^should ^not ^say ^that ^too ^loud
+75% through, about 11.2 GB now. Maybe that guy's installation is bugged or I still have a HUGE pack to download
+I had about €1,17 in my wallet about a month or 3 ago (used one of those call services to convert calling credit to bitcoin). Was baffled to see that it had become over €2,50 recently. If only I had stored way more at that moment...
+I second this. Had to buy something like this (only difference is the RCA aduio input instead of a 3.5-inch audio input) to use my chromecast when my tv is off (I have a separate amp for speakers, which the tv is also connected to). Works without issues so far.
+Thanks man! 😁
+True, I've seen that too. All the "it's going to crash omg" versus a peaceful, fun community like this one? I guess the choice is clear 🙂
+Unfortunately, time travelling is not within my human capabilities, so it's now or never. Better now than seeing a few months from now an increase in doge value and missing another opportunity. 
+
+So yeah, better late than never indeed 🙂
+I know right? Good thing that it isn't such a large amount of money. I guess I should create another wallet and try again, because this one is bugged/lost I think.
+Apart from the [glorious new search menu](http://i.imgur.com/cCgBbl7.png) and the fact that all shortcuts to applications on my second drive got their icons corrupted, great build!
+
+EDIT: Emoji's seem to be completely broken for me now. The keyboard shortcuts don't seem to be working (maybe because I'm using an azerty keyboard?) and typing them from the on-screen keyboard doesn't do anything either. Normal letters are working just fine, but the emoji aren't coming through, unfortunately.
+
+EDIT 2: It seems Windows has linked all shortcuts, services, ... to the C-drive, including programs which are installed on the D drives. This results in some services not working because they are part of programs not installed on the C drive. Fixing this requires repair/reinstallation of some programs. Mildly annoying, but not system-breaking.
+Oh boy, wait till you've seen the [full screen variant](http://i.imgur.com/cCgBbl7.png). Beautiful, isn't it?
+Wow, how about showing a little respect to them instead of being such a dick?
+Bought a laptop with a Haswell (i7-4720HQ) almost 2 years ago (came from a Pentium 4 desktop, after 7 years of usage). It's doing its job just fine, so no reason to upgrade for me in the near future.
+Ok ☹
+RAtInG ThIs ApPlICaTIoN Is NeCeSsArY
+Why didn't they launch this much earlier? Could've gotten a LOT of accessories. 
+Experienced that too a few years ago. It sucks, a lot, especially when a few years later she's together with a guy. Turned out she was bisexual, but probably used being lesbian as an excuse to avoid me.
+
+Oh well, life goes on. Haven't heard from her in a while anyway.
+Seems like I'm the only one from Belgium :(
+Took me longer to realise that than it should have
+Android Peanut Butter
+/r/ik_ihe 
+Comment chain full of things I didn't know. Thanks, guys!
+I'm feeling a little dizzy after scrolling through the comments 😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂
+I don't know what just happened
+Bought them about a year ago. Great purchase, and you can even replace the cable!
+OnePlus/LG double tap to wake. Why isn't this a standard feature in every phone yet? It's so convenient, especially on devices with bigger screens!
+/r/unexpectedOrwell
+> Springboard
+
+Well that is a name I haven't heard in a while...
+> 1022
+
+OH LAWD JEZUS
+They're also pretty useful when you're travelling by public transport...
+> Free during this weekend (3.11-3.13) for Celebrating Korean president impeachment
+
+I've seen many reasons for setting an app on sale, but this one beats everything!
+NOW HOW MUCH DO YOU THINK IT COSTS? 500? 1000? EVEN MORE?!?!?!
+[#ooooooooooooooooooh](https://www.youtube.com/watch?v=VwpAjrlUI6c)
+It magically appeared on my OPO over the weekend too. Belgium here (language is English US).
+True, Tasker has made my life so much easier. Perhaps there's some variable we can change some way.
+Yup, same thing happening on my OPO. It's indeed very annoying, but doesn't seem like there's a fix for it. I guess we'll have to wait.
+Well I would recommend to get rid of Clean Master and ES File Explorer.
+
+Apart from that, I'm also noticing some hourly drain on my device (I'm using TugaPower), but it hasn't been as bad as this so far. Hopefully this will get better in future builds, but so far, no concrete solution.
+Belgium, actually. It just suddenly came this week.
+> XcQ
+
+Nice try ;)
+[I have the same settings as you Assistant is working here](http://i.imgur.com/5m8M7d7.png), so I don't know what's wrong. Maybe you should wait a little longer?
+THROUGH THE GATES OF HELL, AS WE MAKE OUR WAY TO HEAVEN
+The start of each race is just chaotic when you play in a full lobby. Doesn't matter what kind of corner is up ahead, one's going to smash into it and half the lobby will follow suite. You just have to be lucky enough to drive through all of that.
+Don't forget Chrome Dev
+Average stunt race. Some people just can't drive.
+Damn, couldn't have done it any better! Nice job!
+I know, I also noticed that. I was also wondering if they were ever going to fix that, but it was magically fixed in latest build.
+Using an Asus with an Intel/NVIDIA GPU combo. Issues with Photoshop, Minecraft, GeForce overlay etc. not working (Minecraft wouldn't open at all, Photoshop and other Adobe software showed a blank screen when GPU acceleration was enabled and GeForce Experience overlay couldn't display at all) have finally been fixed since latest build. It's now switching between GPUs without issues on my laptop.
+
+Don't know about this build though. Haven't installed it yet. I would be surprised if they suddenly broke it again.
+This* world. Thanks for pointing out that typo.
+This* world. Apparently I forgot how to write.
+Welcome to the family!
+[Here's mine](http://i.imgur.com/F15RBvm.png). Custom icons and transparent task bar make it look much nicer imo
+Bugs like the issues with OpenGL apps and switching between multiple GPUs per-app seem to be fixed now. Start menu on the other hand is a little unstable for some reason. It has crashed Explorer a few times already today, which it didn't do before.
+
+Apart from that, great build! It looks like it's nearing its final stages.
+It's people like you who make me lose some faith in humanity. Unfortunately there's still a lot of bad left in the world.
+It's the things like this which make me regain some faith in humanity. At least there's some good left in this world.
+Just a heads up, this is a news article from 2013. Old news.
+Hidden feature within [labs in Nova launcher](http://www.androidpolice.com/2012/10/01/tip-access-the-secret-labs-menu-in-nova-launcher-for-even-more-customization-options/). It's also a basic feature in Pixel Launcher.
+[Here's mine.](https://imgur.com/gallery/qh4nX) Nothing special, really.
+Number 9 dip
+A man chooses, a slave obeys.
+
+But seriously, why is this so far down in the comments? Up you go!
+I write my memes in C. Get on my level son
+Same. Smooth as ever on Android 7.1. The new multiwindow is also a nice addition.
+qBittorrent is also a very good alternative
+Galaxy S3 Mini to my current OnePlus One. Probably the first time I've experienced the smoothness of Android.
+You forgot Komen Eten. At least she can watch Temptation Island online.
+GeForce overlay, probably caused by the the '[multiple GPU selection bug](https://www.reddit.com/r/windowsinsiders/comments/5p2ket/nvidia_dedicated_graphics_not_working_since_build/)' still isn't fixed, so beware of that. It's been reported in the [Feedback Hub](https://aka.ms/xum58t) already. It does seem like it's mostly OpenGL applications which are affected (e.g. Minecraft, the whole Adobe suite, ...).
+
+EDIT: Looks like the GeForce overlay is working in games which were working before, but not inside NVIDIA GeForce Experience. Oh well, it's on the good way already.
+GeForce overlay, probably caused by the the '[multiple GPU selection bug](https://www.reddit.com/r/windowsinsiders/comments/5p2ket/nvidia_dedicated_graphics_not_working_since_build/)' still isn't fixed, so beware of that. It's been reported in the [Feedback Hub](https://aka.ms/xum58t) already. It does seem like it's mostly OpenGL applications which are affected (e.g. Minecraft, the whole Adobe suite, ...).
+Confirmed, still not working.
+Maybe 2 or 3. With stickers.
+I use it in combination with NFC tags. When I touch the one on the night light, it silences the phone, turns on airplane mode, dims brightness and opens Sleep as Android. Touch it again and all radios and sound are on again.
+
+Also a few other tasks, like extending display time-out in apps like Chrome or Pocket, automatically enabling speakerphone when my device is not near my ear, vibrating every hour to let me know an hour has passed, showing a menu with media apps when my headset is plugged in, and many more. It's pretty useful to me.
+It's been running great. I have it for more than a year now and it's smooth as ever on LAOS (or LOS? dunno) 14.1. It supports the LTE bands here, so that's not an issue for me. Battery life could be better, but it mostly lasts through the day, so I'm not really complaining.
+Lasted 1.5 years with it, then I bought my OPO. Damn what a piece of shit device it was. CM made it a little faster, but it would still hang and stutter a lot.
+Bought it during Steam summer sales. It is indeed a great purchase. It's way easier to use multiple monitors now.
+Tried it, it's kinda buggy on my OnePlus One. Sometimes Assistant opens and listens, sometimes the Google app opens and does nothing else. Oh well, didn't really have any problems with Now, so I'll stick with that for the time being.
+SAD.
+We've been using Orange since January and haven't had any speed/ping issues during gaming at all. It's on the same network as Telenet, so that's no surprise. We didn't really feel the need to buy the boost pack, since 100mb/s is also quite enough for us tbh.
+Gaming (Battlefield 1, GTA V, etc.), coding (there isn't an IDE as fully developed as the ones on Windows for Android AFAIK), etc. Windows is just more familiar for productivity usage than Android. I still associate Android more with free time, relaxation etc. I don't feel like it's ready to be as productive as Windows.
+Everything's a dildo if you're brave enough.
+Oh man, childhood memories. It's been a while since I've seen that movie. Old but gold!
+Well I would love to, but safe mode is kinda broken in this build, so I guess I'll have to wait until next build.
+I think I lost count of how many times I've lost my faith in humanity after reading some of the posts. It still gives you a good laugh though
+Oh, so that's why Explorer was constantly crashing in safe mode. I already suspected it was an insider bug, but I couldn't really pinpoint it. Well, you're not the only one experiencing, but unfortunately, we'll have to wait for a fix in the next build I guess. Maybe submit it in the Feedback Hub?
+**EdgyOS**
+# **THANK YOU**
+They're probably sending Tim Kaine in 2020 as their puppet.
+[REEEEEEEEEEEEEEEEEEEEE](/t)
+Both my smartphone and tablet choice were based on the fact that they have decent aftermarket support. Custom ROMs are what keeping both of these devices fresh and up to speed, since I don't plan on buying a new phone/tablet each year. So it isn't only a choice for customisation, it's also an economical choice, since my devices are still running as fast as they did on day one, and they will for the coming years.
+1997 kid here, this is my final month of being 19. It's been an honor shitposting with you all!
+Second half. The first half has apps which pretty much still have a decent purpose, even though they're badly developed.
+I remember when I bought my first flash drive. 256 MB for €30. It was like huge back in the day.
+Same thing here. Jumped from the 4 GB S3 Mini to the 64 GB OnePlus One. Haven't manage to use up all of its storage yet. It's awesome!
+Damn, half of the top 10 consists of pure cancer. What a shame.
+Sony Ericsson K330
+
+Nokia 6310
+
+Some Nokia slide phone (can't remember the number)
+
+HTC Hero G2 Touch 
+
+Galaxy S3 Mini
+
+OnePlus One
+Mine too. Sometimes I miss the little trackball. And that chin too.
+A new build already? That was fast. Let's try it out.
+Sir,  /r/The_Donald is that way.
+Settings -> Updates -> Recovery -> Roll back to previous build
+Having the same issue, I've posted about it [over here](https://www.reddit.com/r/windowsinsiders/comments/5ndup0/critical_structure_corruption_build_15002/). I couldn't find a solution, unfortunately, and I can't have an unstable system right now, so I've rolled back to the previous build for now.
+
+I do find green looking better than blue.
+That's exactly what I had too (look at the logs in the OP). I've rolled back to the previous build for now. I can't work with an unstable system right now (on the other hand, when can you). Guess it'll be fixed in the next build.
+Looks like this build already introduced me to the the new GSOD with a Critical_structure_corruption. Well...
+I only have an Asus laptop (N551JX) since 1.5 years and also an Asus router (since the proprietary one from our ISP sucks donkey balls). I've been happy with both products, but I guess it also depends on where you buy them, since one of my friends bought an Asus laptop from a local shop which still had personal data from its previous owner on it (it was sold als new though). Another friend had to get his mobo in his laptop replaced because it kept turning off at random without warning.
+
+I guess I'm just lucky
+> We fixed an issue that could result in a Visual Studio crash when trying to open, add, or save a file.
+
+[HALLE-FUCKING-LUJAH!](https://youtu.be/yRI3RxseEmI) At least that's one headache less with that program.
+Yes, but their laptops are great though.
+> Asus
+
+Good Lord, the bloatware.
+ALL THAT I SEE
+[THE WALL JUST GOT TEN FEET HIGHER!](/t)
+I'LL HAVE TWO NUMBER NINES
+Well it's better than building walls...
+They changed the sign again
+>Skee ba-da bob-a doob-a dob-a dab-a dee dow
+
+I'm the Scatman!
+It's no rape when you yell surprise
+Over here! 😁
+Mine came with a Seagate HDD, so I know I'll be watching that closely
+[TAIWAN NUMBER ONE](/t)
+I still use NFC in combination with NFC tags and Tasker. I also sometimes use Beam to send files, just for the heck of it. The trick is that you have to know where exactly the NFC chip in your phone is. On my OPO it's about in the middle, so I always hold that part against the tag and it works like a charm.
+Oh, I had the same experience with CM11 on my S3 Mini. I was so glad I got rid of TouchWiz. It was godawfully slow compared to vanilla Android.
+wearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberonewearenumberone
+Happy New Year boys!
+**DEPORTED**
+Cordon bleu
+/r/xdacirclejerk is leaking again
+Viking Talk (cheap calling over internet app from my MVNO) - Google Messenger - Google Keep - Camera - Google Photos
+I remember the days of flashing CM7 on my HTC Hero. That's what got me into the ROM flashing. Those were some days. CM will be dearly missed.
+I noticed it too. Since Google released Gboard with multilingual support, I've switched to that and haven't looked back yet. It's got some nice themes too 😀
+
+But yeah, like you said, it used to be better. Less bloated, smoother back in the days of my S3 Mini, but it got slower over the years. Such a pity, it was one of the best keyboard apps I've used to date.
+[WE ARE NUMBER ONE](/m)
+**VIKING POINTS!**
+The OnePlus 2 users, but the OnePlus One users will keep haunting us forever, unfortunately...
+Hell, there's not even THAT many people who own a 4K TV/monitor, so it is indeed pretty pointless
+Oh boy, I can't wait to brick my mirror!
+Well, that was disappointing...
+Mine was, pretty impressive, but still annoying that I couldn't watch such a short video in one piece 😛
+two number 45s
+2015 Enterprise. It re-renders properly when I hover over the blurred text, but it's still pretty annoying.
+I'd like to see the blurry text issue fixed, but that ain't happening either unfortunately
+Kinda hard when we have to use NetBeans in class. Oh well, it's not that bad, Visual Studio is worse. Text gets all blurry. At least NetBeans doesn't do that.
+Visual Studio, Netbeans, the list goes on and on...
+Shit I thought this was /r/BikiniBottomTwitter for a second
+Viper4Android and Titanium Backup. Those are the major reasons why I'm still using root.
+> /r/Ooer 
+
+[My eyes!](http://www.relatably.com/m/img/my-eyes-memes/a99176f17f98d40c567bce80a2707a2090dddb5e93468bca673bcc1b69c4ecf8.jpg)
+**WE ARE THE LESS THAN 0.1%**
+Same thing for my G Pad 8.3. It's hard to find an affordable tablet with the same (or better) specs and custom ROM support these days. The thing came with Android 4.2 and is still flying now on CM14.1
+It sounds funny how the Dutch TTS is reading English text. Doesn't look like it's working all too well either, since it sometimes just stops working at all. Nothing gets recognized anymore until I restart Chrome. Oh well, it's a beginning. The bugs and kinks will probably be worked out. Anyway, it's pretty neat!
+[CRUNCHED](/m)
+This post gave me crippling depression
+I honestly haven't had the time to play it yet, unfortunately. I still plan on playing it, but yeah, college thinks there's more than 24 hours in a day if you look at the amount of work they're giving us. I am going to play it...^someday
+http://i.imgur.com/uWUS9zg.png
+I guess we gave it the Reddit hug of death again. Their site and database seem to be down for now.
+Thanks for reminding me I have this installed. Completely forgot about it (unsurprisingly).
+7/11 would watch
+/dank
+>communism
+
+**SEIZE THE MEANS OF PRODUCTION!**
+No problem, prepared to guide people to the dank memes anytime!
+[SEIZE THE MEANS OF PRODUCTION! THE GENTLE LABOURER SHALL NO LONGER SUFFER!](/t)
+CH-CH-CH-[CHINA](/m)
+Oh boy, now my OCD is kicking in too
+
+*TRIGGERED*
+Common sense speaking, guys.
+**CHINA NUMBA 2**
+Instructions weren't clear, girl liked meme
+Pepis is luv, pepis is lyf
+I'm glad I came across this app. Now I don't need like 5 apps to manage all my cloud storages, plus it has FTP and SMB connectivity. Been using it since ES started becoming cancer.
+/r/trebuchetmemes is leaking
+I know that feeling. Both my devices support it, but it looks pretty silly when I'm tapping on my mom's iPhone's screen like crazy to wake it up.
+I don't know, I'm still waiting for him.
+/r/michaelbaygifs
+There are already some great unofficial Nougat builds on the XDA forums, so I guess this will be pretty stable as well. Otherwise, there's already plenty of choice!
+Bruh
+LSD trip
+iFunny is the Donald Trump of the internet
+Damn, that's half the RAM in my pc. I don't even manage to fill up the 3 GB on my One
+*THE WALL JUST GOT 10 FEET HIGHER!*
+Dank son
+Does the local install method have support for gapps-config?
+[jgcaap's CM14.1](http://forum.xda-developers.com/oneplus-one/development/cyanogenmod-14-0-t3464337/page99). His latest release is buttery smooth and most bugs are fixed. You should check it out.
+[Gonna be listening to this all day](https://youtu.be/WkZ5e94QnWk)
+It'll come, don't worry. CM14.1 is still running very smoothly on this device
+Well I like this tune called 'Fuck Donald Trump' by YG
+[nope lol](http://i0.kym-cdn.com/photos/images/facebook/000/129/577/1a4.jpg)
+🎺 🎺
+Damn, if he used this against her, she would instantly be leveled
+Not at the moment, but I did have the HTC Hero G2 Touch running Gingerbread in 2013. God, I'm still wondering how I survived 3 years with that device. I do miss that trackball sometimes.
+True, it does sound pretty familiar, but as you said, that isn't necessarily a bad thing. They still sound fucking awesome!
+Listening to some thrash metal (Metallica, Slayer, Megadeth, Anthrax, ...) and simultaneously anticipating the new Metallica album
+top kek
+But will it blend? That is the question.
+[jgcaap's CM14](http://forum.xda-developers.com/oneplus-one/development/cyanogenmod-14-0-t3464337). It's been running smoothly and stable so far. He's gonna make the switch to CM14.1 in the coming days too. The only major issue is the fact that video recording isn't working (yet).
+Amen to that. Been running Swipe for a long time now and I don't miss the official Facebook app at all.
+Oh yeah, my bad. I mix them up a lot.
+It looks awkward at first, but it's actually better for big screens. The only annoying thing is the fact that [I can't see any of the search suggestions](https://imgur.com/Gi56RNm). But that'll probably get resolved in a future release.
+
+EDIT: [System Webview](https://imgur.com/RXeEJsA) doesn't seem to like that flag a lot.
+muh dank memes :(
+Most of the Nougat ROMs are surprisingly stable already. The only major issue on the ROM I'm using is that video recording isn't working, but I can live with that. Apart from that, it is the smoothest ROM I've used on this device so far!
+>Holy cow
+
+No, it's Dirty cow
+>Adobe Flash Player 
+
+*TRIGGERED*
+Switched to MiXplorer a long time ago and never looked back. Glad I got rid of that miserable excuse of an app.
+But...where do I need to find my dank memes vine compilations now? :(
+Dank
+We're all fucked
+Thanks mr skeltal 🎺
+❎ Rekt
+
+❎ Not rekt
+
+✔️ Tyrannosaurus rekt
+MiXplorer has been working great for me for some time now. Support for FTP, SMB, multiple cloud services, root, etc. Also, material design and support going down all the way to Android 1.6 (probably not an issue for us).
+
+It isn't in the Play Store though, but you can find it on APKMirror.
+My ASUS laptop I bought last year did have some more bloatware on it, but it shipped with 8.1, so I just performed a clean Windows 10 install. Boom, gone is the bloatware.
+
+That aside, Asus makes great computers. I'm still very impressed by the build quality and it's still running as smooth as it did on day one (this may also be due to Windows 10). I do recommend them.
+Google Play Music and Spotify. Other than that, not anything other I guess.
+Yes, yes it is. Haven't had a single SSL protocol error since I've got rid of it. I didn't have any pop-ups, but that's probably because I had enabled silent/gaming mode.
+I was still having SSL_PROCTOCL_ERRORS all over the place, but now I got time to troubleshoot a little more. Apparently Avast! was the culprit, so I've removed it for now and now all my web pages are loading properly again. VirtualBox still isn't working, but I've heard the latest test build does work, so I'm going to try that and report back.
+
+Apart from that, no major issues so far!
+[beautiful](http://i.imgur.com/W3iF2AW.gifv)
+[**THE WALL JUST GOT 10 FEET HIGHER!!!**](/t)
+Et tu, Brute?
+Well I've just set my homescreen wallpaper. Then I selected a picture from Google Photos through the Wallpaper app. When you tap 'set wallpaper', it asked me to set it as homescreen wallpaper, lockscreen wallpaper, or both.
+Same here. I tried clearing the SSL state, but that didn't do much at all
+Well I can open up the console and some files fail to load with ERR_SSL_PROTOCOL_ERROR all over the console. Sometimes the pages don't even load and I get the error immediately.
+No it's Hugh Mungus
+Any site using SSL doesn't load properly and gets these errors. Facebook, Reddit, Twitter, etc. Clearing the SSL certificates didn't work, unfortunately
+Well that could solve the first issue I'm having already (thanks for that!), but unfortunately, I have no clue on how to fix those ssl errors in Chrome. I'll probably take a better look once I have some more time
+VirtualBox still isn't working and I'm getting SSL errors all over the place in Chrome. Same errors as in the previous build, so I'm staying away from it for now until these bugs are fixed.
+Chrome, Edge, IE, ... all had problems properly loading webpages. Some elements were missing, some elements didn't load properly, sometimes the CSS was fucked up. Rolled back for now, hoping it will be fixed in the next build.
+The best onions. Believe me!
+Windows Settings -> Update & Security -> System Restore -> Rollback to previous version
+
+(The menu titles could be slightly different, since I'm using Dutch language and just freely translated the menu titles)
+I've rolled back already, so it isn't really needed now. Thanks for the suggestion anyway
+Virtualbox doesn't work and web pages aren't loading properly, no matter which browser I'm using. Caches cleared, reset router, flushed dns, nothing helped. Guess I'll be staying away from this build for now, unfortunately. Luckily, this is only the first time I have to do that, the other builds have been stable af for me.
+Same problem here. VirtualBox fails to start. Reinstalling doesn't fix it either, unfortunately. Guess I'll be staying away from this build for now and roll back to the previous one, since I kinda need VirtualBox for school.
+The wall just got 10 feet higher
+I advise you wait a few more weeks until they're really stable before you flash one. There's still some annoying bugs (like unstable camera, no encryption, SELinux in permissive, etc.) Unless you're willing to take those risks, you should head over to the [OPO forums on XDA](http://forum.xda-developers.com/oneplus-one). There you will find some Nougat ROMs, but make sure to check the bug list first.
+/r/ofcoursethatsathing
+It needs those drivers for an official release, yes. It doesn't really matter for custom ROMs and it looks like the bugs list is steadily shrinking for most Nougat ROMs by the looks of it.
+
+Heck, there's even an almost stable build for my G Pad 8.3 which has a SD600, so I don't think Vulkan compatibility is *that* necessary.
+Ikr? I've been using my OnePlus One for over a year now and I don't have any reason to upgrade either. It's still smooth as fuck and does the job easily. With the Nougat custom ROMs coming, this device will live on for another year at least.
+*watches silently with snapdragon 801-based smartphone*
+A simple txt file will do. Just change the extension and it will work.
+I have crippling depression
+Lit af 👌👌👌👌
+Obligatory /r/me_irl
+*haram*
+Went to bed at 3. Woke up at 6:30. Kill me pls
+Been working flawlessly since day 1. Welcome, brother!
+🎺🎺🎺🎺🎺🎺🎺🎺🎺🎺
+9/11 lit af
+Muzei changes my wallpaper daily to a pic from  /r/wallpapers,  /r/EarthPorn,  /r/SkyPorn etc.
+Nooooooi! Nooooooi!
+Oh man, I haven't played that in years! I used to play this for hours. Such an awesome, calming game. Those were the days...
+
+I feel old now
+Boiiii
+I can easily understand and solve that pc problem you're having right now
+
+EDIT: bragged too much. Kill me pls
+Hold on, my childhood is calling
+16, still together with her for almost 4 years 😊
+[AxCrypt](http://www.axantum.com/axcrypt/) + hidden folder called 'Something'
+Even the root restrictions can't stop me
+Yup, here too, together with /r/wallpapers
+Good luck comrade. May Harambe protect your soul.
+Hitler did nothing wrong 👌👌👌👌
+read the OP u noob 👌👌👌👌😝😜😝
+[Hell no, to the no no no](https://www.youtube.com/watch?v=9IiHRSBAMwU)
+I've been using Now on tap for so long and never thought about this. Thanks for the tip!
+THIS IS NOT A DRILL. I REPEAT, THIS IS NOT A DRILL!
+College here. Half the class could be playing CS:GO and most of the teachers still wouldn't care at all. Only one or two have explicitly banned phones from their classes, so that's not a big deal.
+I'll have reached level 40 by mid-2025 at current rate. I don't think the servers will stay online for that long though
+Ah, that trackball. Those were the days!
+MOM'S SPAGHETTI
+I've stuck with Google Messenger for a long time. I didn't really see any reason to switch.
+>Harambe is just a meme
+
+*TRIGGERED*
+I've just finished my first year studying IT. I now realize more what kind of effort it takes to create an app for pc/Android/... and making it work without bugs, giving it an intuitive GUI etc. Since then I've been donating to these guys because of all their effort and hard work they've put into these great apps. It's a pity that they are so underappreciated.
+Hey guys, what's going on in this thr-
+I also really liked them. Why did they have to go away? 😢 The new ones are completely emotionless to me 😐
+I wanna take his face... OFF
+Rest in RIP u solid bloke
+*blurryface intensifies*
+Have you tried turning it off and on again?
+¿Que?
+❎ Rekt
+
+❎ Not rekt
+
+✅ Tyrannosaurus rekt
+> Clean Master
+
+*Drinking bleach intensifies*
+*Harambe intensifies*
+How can someone be that ruthless to do something like that to their own daughter? What kind of monsters are walking around here in this world? I'm so sorry that happened to you
+Dicks out increased
+Will it blend? That is the question
+My tablet supports it, so that's a non-issue for me
+Are there any Pokémon up there?
+Congratulations! I hope you're feeling way better now
+I bought it last year and I still don't see any reason why I should upgrade. This phone is still flying!
+Yup, waiting here too.
+Weird, I've been using my 2 display setup for a few years now and I've never come across this issue. Guess I'm just lucky.
+I was wondering the same, since people around here and some of my friends have had a lot of problems with Windows 10. I thought I was being the exception, since I don't have any problems either. Even the Insider previews were very stable.
+Are you feeling it now, Mr. Krabs?
+HOLD MY BEER, I'M GONNA GET MORE BEER!
+Slowest: HTC Hero G2 Touch (even though I miss the trackball a little, I'm glad I got rid of it) 
+
+Fastest: OnePlus One (damn son)
+Same here, but thanks to the double data action a while back, I got 8 for the same price
+No, Bart, there doesn't. It hasn't made the US any better, so it won't work here either.
+Oneplus One here. The phone gets warm, but not unbearably warm. The game keeps running fluently all of the time, but it's eating battery like a man who hasn't eaten for a week. I can mostly get about 4 hours of play time before I have to charge. Luckily, there's the battery pack.
+Went to the beach this week. There's LOTS of them out there!
+I can't even login anymore. It is indeed rip servers.
+GTA San Andreas, which isn't that old anyway
+I didn't even know this bot existed. I love it!
+Already happened here. The sale on powerbanks on a certain web shop in my country has doubled since the release of Pokémon GO in the US. The weird thing is, it isn't even available in my country yet. 
+Since the release of Pokémon GO, the sale of power banks on a web shop in my country was doubled, so that already explains a lot.
+
+I'm using my OnePlus One to play it, and it drains battery like crazy. I can lose half of my battery in the span of less than 2 hours, which is crazy. Even though battery saver is enabled.
+A while ago, my Seagate HDD was going really slow, way slower than normal, so I didn't take any risks and immediately backed up everything on it to my server. 2 days after that, it died.
+
+Damn, I was right on time at that moment. Even though my most important files are in the cloud, it's sometimes a little easier to clone a HDD than to reinstall everything again.
+[For the glory of Satan of course!](http://images-cdn.9gag.com/photo/2649782_700b.jpg)
+Well at least he's locked up for a long while
+>now he's in prison for killing his (now ex obviously) girlfriend's baby.
+
+I can never get my head around how people are even capable of doing something inhuman. I hope he stays in prison for the rest of his life. We can do without monsters like him
+[Another one](https://i.imgur.com/vO1sHmy.gif)
+Alright, that worked. Thanks man!
+[Here's mine](http://i.imgur.com/MH7X56h.png). Everythig I need is in there so I can keep my desktop clean and empty.
+It worked on all icons, except for Word for some reason. The command doesn't seem to have any effect on it :/
+I'm using MiXplorer and it has support for many cloud services. I find it really handy to have all these cloud services in one app than to have 4-5 separate apps for each different service.
+I second that. Been using qBittorrent for a while now without any issues/ads/malware. It's pretty lightweight too
+/u/Trollabot GXGOW
+A nude from someone at my school got leaked some time ago. Good times.
+I've also tried to edit the Microsoft Office icons using TileIconifier, but they just become blank. Apart from that, all my other tiles have been edited without any issues. Love this program!
+Age of Empires. Not the shitty version like AoE Online, but more like AoEII
+I CAN'T (C:) and SHE WANTS THE (D:), just cause I can
+What about avast (for free solutions)? It also does the job pretty good. I sometimes even forget it is installed
+I have an ASUS laptop with a 4720HQ, 950M, 16 gigs, SSD + HDD combo and 1920x1080. It does become pretty hot with heavy games like GTA 5, BO3, etc. (about 80-90 degrees Celsius), but I don't experience any lag at all. Just to be safe, I've also bought a cooling pad.
+totally me
+[Rolf?](http://imgur.com/eXid888.jpg)
+The cancer of YouTube
+Used it a lot during class, so the teacher wouldn't see all the 'non-school' stuff :P
+You could also use Google Keep, Google's own note service.
+This! Without it I probably wouldn't have graduated high school.
+
+Well, I probably still would have, but it wouldn't be as easy. Wikipedia is pretty much the pinnacle of freedom of information. Most people don't really think about that anymore.
+Great list man! I would also like to add [color.adobe.com](http://color.adobe.com) to the palette selector. You can choose your own colors, or select a set from its library.
+You can add reminders through Google Calendar too
+Group of OnePlus users, group of iPhone users and a group of Samsung/Huawei users. Oh, there's also that one gut with an Oppo.
+0 - 4
+
+Hungary got fucking crushed!
+No it's not
+Facebook wall?
+Yup, they're just emoji 😁
+I just typed them through SwiftKey Keyboard on my phone. They're just simple emoji 😛
+❎ Rekt
+
+❎ Not Rekt 
+
+✅ Tyrannosaurus rekt
+Oh it wasn't just me? I thought something was severely jamming its connection.
+Another one? Microsoft's on fire!
+Scale is too small for the Windows XP startup sound
+Only 3 more days until they play at Graspop. I'm looking forward to seeing them again! Last time was 4 years ago, and their new albums will probably make it an even more awesome live show!
+Let's go bowling
+This bot exists, apparently
+We need to build a wall and let the Netherlands pay for it! 
+
+^make ^Belgium ^great ^again
+If this is true, Duo will be pretty much dead from the beginning. Google has had enough time to develop a viable competitor on Android.
+No problems here either. Running Windows 10, GTX 950M and Chrome without any issues since the day I upgraded from 8.1.
+The face of mercy
+Agreed. Been using my hydra lately only to shoot down other assholes in hydras. It's like the only way to shoot them down.
+> I have dozens of clips of me stabbing people....
+
+/r/nocontext
+That argument has been superseded a long time ago. Also, it's completely irrelevant here
+Same here. Easy to switch to English mid-sentence and back to Dutch in the next one.
+I've found [this](https://sourceforge.net/projects/ccseer/) some time ago. This is the closest you'll get to quick look on Windows AFAIK.
+Tasker, SD Maid, MiXplorer, Google Keep, Nova Launcher, Now for Reddit, XDA Labs, Google Keep, Google Play Music, Titanium Backup, Greenify, Swipe for Facebook and Google Photos. 
+
+Most of these are probably already listed around here, but still, these are my must-have apps.
+Even more reduced? We already get a reduced ticket price for going to Mol during the festival weekend. Not that I'm complaining, of course.
+Probably. Well, I wish you good luck in solving the issue! 
+It wasn't even installed when I had the issue. It was using the Standard AHCI 1.0 Serial ATA-controller, and that was the culprit, because when I installed Intel's SATA-controller, the issue disappeared. Unfortunately, that's not the case on your build, so I'm afraid I can't help you any further.
+
+Maybe you could track down the issue with Resource Monitor or, if that doesn't find anything, Windows Performance Analyzer. Maybe you could also check your HDD's health with HDTune or similar software. Apart from that, I'm all out of options.
+Deez Nuts
+Unpack the zip file and open the file called PNPINST64.exe. That should be the installer. Just follow the instructions then and check after that if you're issue is resolved. If it isn't, then I'm afraid I can't help you any further :(
+I've also had this issue on my laptop's primary drive for the past few months, but I finally found a fix last week. I fixed it by downloading the Intel Rapid Storage Driver from the Asus website and installing it. After a reboot, the issue was gone. 
+
+Of course, it occurred on my SSD, I don't know if the solution will work on your HDD. Check in device manager if Windows is using the stock ATA-driver instead of the Intel one. If it does, find the Intel RST driver for your pc, install, and reboot. Hopefully this will work for you too.
+get shrekd m9
+oh shit small loan!
+Mine was Windows 98, back in 2003, when I was only six years old. I had just gotten my first pc as a present from my parents. Oh, the hours I wasted with making beautiful drawings in Paint. Childhood memories.
+Dragovich, Kravchenko, Steiner, all must die!
+No issues here. There are some critical errors in the event viewer, but I know what they're caused by and none of them have anything to do with NTFS, so I guess I'm safe.
+You're going to hell anyway, so no
+OnePlus One. I still can't belive I got such a great device at such a low price. Of course, I may be one of the few lucky who didn't have any issues with it.
+Yes, I did
+A disgrace to all Grammar Nazi's.
+Same here. There's sooo many options in there. It's like the Swiss army knife of file explorers.
+Hydraulic Press Channel. Somebody's gotta test it :P
+Dem Tablet UI days
+It was really helpful on the Android 4.1/4.2 (I think?) tablet by Samsung, which had the bottom status bars. Too bad there's no such option for contemporary phones/tablets.
+Ten points to Gryffindor!
+First thing I did when I bought my laptop less than a year ago. No major issues so far, only a smaller one which started occurring since a month ago. Disk usage on my SSD sometimes rises to 100% for about a minute for no reason, since no process is doing anything. PC slows down to a crawl. Then disk usage lowers again and everything is fine again until the next time it occurs. Probably an SSD issue, will probably format it during the summer holidays. 
+
+Apart from that, Windows 10 is great! I don't regret upgrading at all!
+Just so you know, this isn't personal
+Just reading that gives me the chills. Thank you, brave stranger!
+LG G Pad 8.3 here. It's a great device and I have no need to upgrade it. I'll probably just keep using it until the day it dies.
+Day 25: Still no idea what it was
+Not too long. They all have in common the fact that they don't exist :)
+Well, Silicon Valley is in California
+[Another one](https://youtu.be/DClK8JcVn6M?t=2s)
+
+[Another one](https://youtu.be/DClK8JcVn6M?t=2s)    
+
+[Another one](https://youtu.be/DClK8JcVn6M?t=2s)    
+Is it that hard to integrate all those features in one app? Apparently, yes
+"Okay Google, play vegetarian progressive grindcore on my xXxMLGCastxXx[420] at full volume."
+
+I love this device already!
+Android NEIN
+Boy that was fast! Let me install this quickly.
+
+> arm64-v8a
+
+Nevermind
+Hey it's your cousin, let's go bowling!
+pone = loominaty cunfirmd
+It was kind of like their signature. There was no other OEM (AFAIK) who sold devices with sandstone backs.
+Where's muh sandstone? :(
+As a Belgian following the presidential race, this is outrageous! Is this the kind of 'democracy' the US wants to spread over the world?! Is this the example they want to give to the EU on how shit's done?
+
+Democracy is officially dead, guys, but we can bring it back to life! No matter what they do, keep protesting! Let your voices be heard! Don't stay silent! Let's make Bernie proud of his supporters. It's time to bring back real democracy! I have faith in you all! Don't let that fucking pitiful excuse of a candidate bitch Hillary Clinton win!
+
+Yes, I am kinda angry to say the least, but I don't think I'm the only one here!
+RUSH B RUSH B!!!
+DEVELOPERS DEVELOPERS DEVELOPERS
+Bought the hydra and insurgent and still have lots of money left. Still, that's quite enough. They're probably trying to milk us dry.
+The Kinsgton toolkit told me that my firmware is up-to-date and that there is still 96% of health left, so I guess that the drive itself is fine. There's still 38 GB left, so that probably isn't the issue either.
+
+I hope by fragmentation you mean optimization, because multiple sources have told me I shouldn't defragment my SSD. The built-in defrag tool told me that my drive has only been optimized a few days ago and that there were no problems.
+
+It came with Windows 8.1, but I upgraded it to 10 as soon as this laptop arrived. Also, this issue has never occured before during the time I have been running Windows 10.
+
+Unfortunately, I don't have a restore point from before the problem, so that option is out.
+
+I'll probably open it up in the coming days or after the exams. If that's no use either, then I'll probably have to send it back to ASUS.
+
+Thanks for the help! I greatly appreciate it!
+I feel your pain, my friend. Unfortunately, there isn't any way. You could always try to submit it in the Feedback app and hope it gets noticed.
+It's a matter of personal taste, of course.
+y u do dis
+Oh shit waddup!
+G#
+I haven't noticed any battery drain at all AFAIK, so you're good to go.
+It's [this](https://play.google.com/store/apps/details?id=com.blissroms.moelle.ddoverhauled) one. Completely free and regularly updated. Oh yeah, it's also pretty beautiful.
+It's even worse when you're using another virus scanner. Then it's just sitting there, completely useless, telling me that my pc is 'insecure'.
+Something like [this](https://imgur.com/4YQTSYc)? It is achievable, but yeah, root, cyanogenmod, theme,...
+
+Probably not so achievable for most people.
+I second this. It looks wayyy better than the stock widget.
+
+You can check it out [here](https://play.google.com/store/apps/details?id=com.candl.chronos)
+MiXplorer is my new standard. Got rid of ES a long time ago.
+o shit waddup
+wow
+Are you using YouTube AdAway on your phone?
+Same here. Google is love, Google is life.
+Rogan?
+*shutupandtakemymoney.jpg*
+I've also come across this issue, but unfortunately, I have no idea how to fix it. My pc also freezes for 1-2 minutes multiple times a day with 100% disk usage, but no real R/W operations.
+
+EDIT: The thread now shows that there are 2 replies, but I only see mine. I guess somebody's shadowbanned?
+Never thought it would be this useful when I first started using it. It's one of those tiny features which has a big impact on how you use your phone. It's very helpful indeed!
+I got memed
+I'll give it a 5 out of 7
+Just noticed that it is there, so I guess that explains enough.
+o shit waddup
+o shit waddup
+Nope, too dank to overdose!
+Well looks like System is doing some things, but I haven't figured out what yet. After removing the Play Music extension, however, it toned down a little. The freezes were less long. Also, it's only occurring on my main SD now, not my HDD, so I actually have no idea what is going on.
+>cringe 
+My Android device showed up with 3 different IPv6 addresses at the same time on my router for some reason
+I've used Microsoft Performance Analyzer to find what was using my HDD, but I will keep the Resource Manager in mind for the next time I have an issue.
+7/11 never forget
+Yes.
+Thanks for the tip! Apparently it was the Play Music extension gone rogue. I removed it and the issue disappeared!
+It was already sorted by highest disk usage, so that's why I've posted this. Otherwise I could've fixed it easily.
+> We’ve updated the Shutdown Windows dialog to use a modern icon.
+
+Another Windows XP-era piece destroyed!
+I'm also using 1.5, that's why I found it pretty weird that you were having issues, but it looks like you've solved it already :)
+I've found it over [here](http://forum.xda-developers.com/showpost.php?p=66407313&postcount=3394)
+Multiwindow sidebar is working fine here with the XHFW module. Which version are you using?
+ARE YOU FEELING IT NOW, MR KRABS?
+Apparently they have drunk Duvel with Fristi
+Wait, WHAT?!
+Oaml
+It stopped working for me too once, but I uninstalled and reinstalled bot Smart Gesture and the ATK package. That's what worked for me, maybe you should try that too.
+Ah, childhood memories
+No ads or any other bloat
+My LG G Pad 8.3. Still alive and kicking!
+I know right? That was one of my favorite game modes back in BO2 on PS3. There were tons of lobbies out there back in the day.
+>batteries
+>leading the charge
+
+I see what you did there
+Or maybe Tusk is also involved, so Frank's got a way to finally take him down for good. It's just speculation, of course.
+First time here, so I'm gonna start of with 30 days. Of course, if I can get past it, the better. Maybe I'll even extend it to 60 or 90 days, but we'll see how 30 days goes first.
+Didn't really notice anything from the underclocked CPU. It's still running smoothly as ever!
+I disabled Game DVR in the Xbox app and looks like that made the lags less bad, but it may also be placebo. I don't know for sure.
+It's working here, but I can't launch any of the apps installed through apt-get, unfortunately.
+> XcQ
+
+[NOPE](https://media.giphy.com/media/6h4z4b3v6XWxO/giphy.gif)
+I noticed it a few days ago. That's a pretty neat feature!
+Guys, I think we found the French version of Filip Dewinter!
+**JOHN CENAAAAAAAA**
+/r/unexpectedjihad strikes again!
+It also happened the other way around for me. Some people started Piracy Prevention, so I hopped into my Buzzard and flew to their Yacht. I was almost there when suddenly my chopper exploded in mid-air. I wasn't killed by anyone, since the death message said 'You committed suicide'.
+
+Those hackers are really fucking annoying man.
+Well it's purely for protection, even though my OPO is a fucking tank by itself. It's not slippery either, thanks to the sandstone back. It just feels a little unsafe if it's not wearing a case. There are a lot of beautiful cases out there too, so when you're bored of the looks of your smartphone, try something fresh like a different case.
+
+Mine's got a case, obviously. If it falls now, it's going to be [the one who knocks](https://imgur.com/HwIMPDz)
+*360 NOSCOPING INTENSIFIES*
+>XcQ
+
+Not this time
+SMALL LOAN OF A MILLION PRANKS!
+I did this but now I got quickscoped on Call Of Duty pls halp
+I hope so too. I did run task manager on my second monitor while gaming, but didn't notice anything unusual. Explorer did crash at some point while gaming and that's when the framerate went back to normal for a few minutes, while using a controller. After a few minutes, it started lagging again.
+
+Maybe I'm gonna try to run games when Explorer is killed. Maybe that may fix the issue, but I'm not sure, however.
+Tried to enable encryption on my devices using the built-in encryption tool, but they just rebooted without encrypting them. I think it's a bug in CM13, but I'm not sure.
+
+Oh well, I still have my knock code (Xposed module) and smart lock setup.
+I can confirm this issue, but I'm using a PS3 controller and SCPDriver (which basically uses the Xbox 360 driver). The weird thing is that I only get serious framelags when I'm moving the left analog stick. When I'm not using it, the game keeps on functioning rather smoothly.
+
+I hope they'll fix this in the next build.
+Don't forget the ones which also make noise which you can't turn off.
+My pc doesn't freeze anymore either, but this build introduced a new bug with the controllers. For some reason, when I'm using a controller, my games are lagging like hell. The framerate drops to 10-20 fps or lower for some reason. Everything's fine when I'm using mouse+keyboard.
+Also experienced this issue. I thought it was a bug in SCPDriver, since I'm using a PS3 controller.
+
+The weird thing is that the frame drops only occur when I'm using the left analog stick. When I don't touch it, no frame drops occur.
+Bring Me The Horizon has beaten Judas Priest. Impossible! Oh well, the rest of the list is still fucking awesome!
+It significantly increased for me since the Snapshot build, but I'm using Sultan's CM13. When it was based on the nightlies, I also could barely get above 2 hours of SOT.
+Played it on PS3 for 2 years and then switched over to PC. There indeed is a HUGE difference in quality overall
+I know that feeling. I still suck online, so I don't really dare to play online anymore
+Why, people, WHY?! What the fuck is wrong with those terrorists? I don't consider them human anymore after such actions. Multiple innocent lives destroyed, again, and for what? There were families with children out there. Don't they realize what they've done?
+The world is fucked up. I can't even imagine how insane one would be to commit such a horrendous act of violence. My thoughts and prayers go out to all friends and family of the victims, to all the people in Pakistan. Stay strong!
+My dad had to take the plane today. Luckily he's alright, but I don't think he's going anywhere anytime soon.
+
+My thoughts and prayers go to the victims in Brussels. The terrorism is getting real close now guys, but together, we stay strong. We'll show them they can't defeat us that easily!
+I KEEP... HEARING... THE FUCKING... NUMBERS
+#feelthebern!
+Haven't worn mine in months. This is going to hurt...
+You just won the internet
+If you don't know what video your watching, you'd never guess that it is an LG commercial.
+Can confirm the Xbox 360 controller bug. I tried to reinstall the scpdriver for my PS3 controller (which basically uses the 360 driver) and practically all other drivers crashed. Only thing left was my mouse and a black screen. No ctrl-alt-delete, nothing! Only a force reboot has gotten me out of it.
+
+Be careful with controllers on this build, guys!
+I'm using a OnePlus One and LG G Pad 8.3. My dad recently got a Moto G from his company, because they were switching to Android from Windows Phone due to compatibility with their new applications.
+
+My mom is using an iPhone 5C. My brother's 5C recently died, so now he's using a 5S. My sister has an old iPhone 4, but yesterday she's ordered a OnePlus X on my recommendations, because her iPhone is dying a little bit.
+
+My dad also has an iPad Mini 2 and we also have an iPad 3, surprisingly still standing strong.
+
+So by the looks of it, the amount of Android devices is slowly increasing.
+Nice! Now we can easily take those campers out :P
+DON'T TELL ME WHAT TO DO!
+I remember the Hero also had a notification light in its trackball. Ah, those were some days
+Google gave them a small loan of a million dollars.
+Changed it through Settings, so I guess that's a build.prop edit
+Weird, I've also changed my DPI, but SwiftKey is still working without any issues. But I'm on CM13, so maybe that's why?
+I'm currently using the LG G Pad 8.3, which is still a very decent tablet, even though it was released back in 2013. I bought it last year and paid about $200 for it. I can tell you that it's worth its money. I'm also mainly using it for entertainment purposes and it's doing it's job well. It's got a Full-HD display, so your movies and series will show up in all it's glory.
+
+Go take a look at it. Maybe they still sell it, but there are probably a lot of equivalent tablets out there too.
+Ate they being serious? That was one of the best post I've seen here so far!
+Nope, that does not belong here.
+Nice meme
+Kek
+Update plox
+After 3.5 years today, she is still with me :)
+Sony Xperia Nexus 5Z?^please^^please
+NEIN*
+I've been using DreamLab now for a while. It's very similar and does about the same thing.
+It has been reported before over [here](https://www.reddit.com/r/windowsinsiders/comments/46k1hr/help_hibernation_and_fast_startup_is_broken_since/). The current "workaround" is to disable fast startup and hibernate until the next build, or roll back to the previous build. Neither of them are ideal, but there's no other option, unfortunately.
+I had to look twice, because at first sight I thought you had posted the same picture as mine :P It looks very similar indeed!
+It's like setting up a bot network, so that practically is illegal.
+You're Heisenberg...
+Take my Karma!
+And most importantly, no ads! That was the main reason why I switched from µTorrent a while back. The other features are also very helpful. I can't recommend it enough!
+[My minimalist clean game/school laptop](http://imgur.com/Hdh6916)
+You smart. You loyal. You grateful. I appreciate that.
+http://imgur.com/pAALEpf
+Fast Startup is also broken on my ASUS N551JX since the latest build (14267). On first try it'll stay stuck at the ASUS logo until I turn the pc off and on again. Then it'll boot just fine. Weird issue, but hopefully it'll get fixed in the next build.
+16 GB is also pretty sufficient for Chrome.
+Well the upgrade time has decreased significantly since I've bought myself an SSD. Man, these things are fast! Never gonna use a normal HDD as my boot drive again.
+That's one of those tiny features which iOS has implemented years ago, but Android lags behind on. Not that it's such a huge issue, but oh well.
+Something like [this](http://i.imgur.com/KVWoBcU.png)?
+Well, the LG G Pad 8.3 from 2013 is pretty close to that when you flash the AOSP ROM onto it. It's still supported by the dev community on XDA onto this day.
+What?
+👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌
+Metal, one of the many great Facebook wrappers.
+USA #12
+[MAGNETS!](http://c2.thejournal.ie/media/2013/08/magnet-meme.png)
+Chocolate rain
+Hadn't completed the Pacific Standard heist yet and I was a little too impatient to wait any longer :P
+I threw my old HTC Hero G2 Touch away a few months ago. It didn't hold up to today's standards anymore and dev support on XDA had been dropped for a long time.
+Mom get the camera!
+I noticed that. Missions like the Los Santos Connection have never been easier :D
+My current Oneplus One. I think I can go on with this for the next 2-3 years.
+Blew all my hard earned money on the Buzzard yesterday. Worth it!
+Eh Roman, let's go bowling
+The Oneplus One, just because of the sandstone back. It looks so beautiful and it feels very grippy. More manufacturers should adopt that.
+
+Oh yeah, the front is also nice.
+😋🤑😏🤓🤗🙄🤔🤐🖐️🖖👐
+Galaxy S3 Mini. I thought it would be kind of the same as its brother. God I was so wrong. It never got updated past 4.1.2 and even though it got CM updates up until 5.1.1, it could still be awfully slow. I'm glad it died a few months ago.
+You smart
+
+You loyal
+There's this Belgian saying that I find relevant now: "De pot verwijt de ketel dat hij zwart ziet".
+My S3 Mini died a few months ago and I was in need of a new phone I could use for the next couple of years. I didn't want to spend a whole lot of money on it (since I'm only a poor student) and I've read a lot of good reviews about the Oneplus One, so I bought that one. Didn't regret it at all. Seriously, more phones should have a sandstone back. 
+
+Oh yeah, it's also buttery smooth and has great dev support.
+Today I finally managed to complete Humane Labs Raid - EMP after many failures. There's lots of people out there who manage to crash that hydra.
+A little challenging, but that makes the game more fun. I'll add you.
+I live in Belgium, so that's an 8 hour difference. That may be manageable.
+I've been using Metal since I've deleted Facebook from my phone and tablet. It's a pretty solid and lightweight 3rd pardy app. It even supports notificiations and didn't slow down my devices at all.
+
+Link me: Metal.
+They see me rolling...
+WAKE ME UP INSIDE
+>I have both.
+
+Holy shit where did you get all that money from?
+The 'Snipers VS Stunters' is still my favorite. There's no greater feel of satisfaction than sniping a car in mid air and seeing it fly beside you.
+It's only a small loan away
+Me neither. Sultan's Marshmallow ROM is so amazing already, even though it's only alpha. I'm never going back.
+Yup, removed and replaced by Metal. I still do have Messenger though, but that doesn't seem to be such a big resource hog as the original Facebook app. But still, I have seen some gains in performance and battery life, which is pretty great!
+I also have that issue with Adobe Photoshop CC. Pretty weird to be honest. Will try the solution posted by  /u/kieljohn.
+Nope. It's the exact same process. My OPO was running CM11S when I rooted it and I used this method. So go ahead!
+Set my screen to 400 DPI (eh same thing) a while ago. I didn't set up anything too spectacular anyway, but it's good enough for me :P
+
+http://imgur.com/FqMcSWr
+
+I'm using Nova Launcher and [DEEP DARKNESS CM13 theme](https://play.google.com/store/apps/details?id=com.blissroms.moelle.ddoverhauled).
+The wallpaper is just Muzei with the Reddit plugin. It took a random one from a selection of hot posts from a few subreddits.
+Hadn't tested it on CM12.1 as I hadn't come across any x265 videos back then. On CM13 the videos aren't playing smoothly at all, so I don't think it's using the HW decoder. 
+Looks like more people are about to experience the true smoothness of their device. I'd say, welcome guys! You won't regret the jump!
+I mangage all of my reminders with Wunderlist. It's easy to create new ones with the Google Now integration. They also sync flawlessly across all of my devices, in contrary to the native Google Now reminders.
+Sure!
+Damn, it's removed. I'm too late :(
+Up you go
+Heck yes! I loved that game type back in MW3. Since the release of that game type, my friends and I wouldn't play anything else :P
+Can't you call Pegasus while in a heist?
+I've been using the SCP driver without issues. You can find it [here](http://forums.pcsx2.net/Thread-ScpToolkit-XInput-Wrapper-aka-ScpServer-Reloaded).
+
+EDIT: Apparently someone already posted it :P
+I bought the LG G Pad 8.3 this year just because of that. It was the 'least worst' tablet in its price range. There were newer ones, but they weren't as powerful as this one. 
+
+To be honest, I'm actually pretty satisfied with it, since I flashed CM on it.
+That's why I wiped CyanogenOS from my device a long time ago.
+There's a setting which merges open tabs and apps. When you swipe away the last open tab, you won't see this screen anymore.
+Well standby battery life has improved a lot, but I can get barely over 3 hours of SOT, unfortunately. I could easily get over 4 hours on 12.1. I hope this will improve in the future release. The ROM is still in alpha stage, so there's room for improvement. Apart from that, CM13 is already pretty stable.
+If you're looking for a fairly stable Marshmallow ROM, this is the one you're looking for. Even though it's still in alpha, it's already much more stable than any other Marshmallow ROM. Of course, there are still bugs, but those will be fixed in the coming builds probably.
+Battery life could be better. It is already better than any smartphone I've had so far, but there's always room for improvement.
+Can't unread
+I'm using ScpToolkit for my PS3 controller, but it also support PS4 controllers. You can find it [here](http://forums.pcsx2.net/Thread-ScpToolkit-XInput-Wrapper-aka-ScpServer-Reloaded).
+
+(Still haven't figured out how to connect it over bluetooth though)
+Well, it sounded great in my head, but now that I think about it, it isn't that useful actually. Nevermind :P
+~~This is something that could be implemented in Now on Tap~~
+
+Nevermind. It sounded great in my head :P
+No hangovers here, but productivity levels are pretty low today. Oh well, a one day break from studying shouldn't hurt that much probably.
+<illuminati intensifies>
+That looks great, but what about Daylight saving time?
+This is my upgrade path from over the past 7 years (I got my first phone when I was 12 :P)
+
+Sony Ericsson K330
+
+Nokia 6310i
+
+Nokia 3600 slide
+
+HTC Hero G2 Touch
+
+Samsung Galaxy S3 Mini
+
+OnePlus One
+Well, that explains why it suddenly disappeared. That's a pretty weird decision
+The systemless SuperSU is working without any issues. The 'normal' SuperSU, however, causes a bootloop, so be careful.
+I'm on 6.0.1. There were some annoying issues in the first builds, but now, I haven't experienced any major bugs. No random reboots, no battery drain and best of all, a smooth experience!
+[It's almost perfect... ](http://imgur.com/a1YeV4D)
+Good luck with that! It's pretty difficult to learn, but things don't always have to be easy :P
+This will be my new wallpaper for the coming weeks. Great job man!
+Click the link and read the forum post. It's all explained in there
+A small loan of a million dollars
+I think we've found the motherload! Thanks for sharing!
+Don't turn it off then :P
+My did that too on my lock screen. You can turn it off somewhere.
+I'm using this: https://play.google.com/store/apps/details?id=com.andrewou.weatherback
+
+Basically it just adds static raindrops/snow/sun effects depending on the weather on your location. It also doesn't poll your location 500 times per minute, so it isn't a battery drainer at all.
+Straight outta this world
+Just getting some lucky shots with Sparrow https://youtu.be/HUrc6Q0Ik-o
+I managed to get it picked only once. It is a nice map. Shame that it doesn't get picked that often.
+At least it's not as bad as CS:GO, where everyone constantly plays on Dust2
+You could always check /r/microsoftsoftwareswap to get it cheaper, but I haven't tried that myself, so I can't guarantee it's safe.
+Came here to say this, but looks like I came a little late to the party. It's one of my must-have apps!
+The latest beta. My bad
+Haven't had any issues with the Facebook app on Sultan's Marshmallow ROM.
+I'm pretty satisfied with my ASUS N551JX laptop. Good build quality, nice specs and that at a very reasonable price imo. I bought it two months ago, because I need one for my studies applied informatics. It even runs heavy applications (like Vegas Pro, Netbeans, Photoshop,...) without any stuttering. 
+It's also a very good gaming pc. I can run high-end games like Mad Max, Black Ops 3 and GTA 5 smoothly with graphics set to medium or high. 
+I do recommend it, but you're the one who makes the choice.
+Now that I look back at this, this was a really short-sighted reply. My apologies for that.
+I think the Amazon Fire Phone would be more successful than this. Who would even buy that?
+Have you tried opening the link in an incognito window in Chrome and then downloading it there? That mostly works for me. It's a really annoying issue with MediaFire.
+Filip Dewinter, is that you?
+Or just enabling it in developer options.
+I've got an invite for the Oneplus 2 today. First to PM me gets it! :)
+Username checks out
+Look at Settings -> System -> Multitasking. You can choose whether the apps are shown in the task bar or not.
+I know, right? With Sultanxda's ROM, this phone is running as smooth as melted chocolate!
+Haven't had any problems with any of my Steam games up until now.
+I think I've lost my faith in humanity many times when I read through Sultanxda's thread.
+It pops up usually when I leave my pc alone for some minutes. It disappears again the second I move my mouse. No idea what it is anyway.
+The LG G Pad 8.3 is still a pretty decent tablet. It's running Lollipop smoothly and I still can use it every day. It's worth its price.
+Mostly when I'm only using only one monitor. When I'm using 2 monitors, I barely use it.
+I also use it in class so our teachers don't see that Chrome is actually open on another desktop while trying to look busy :P
+That was actually my first thought. This should get more upvotes!
+Whistle!
+That's true. I was probably just lucky enough that I didn't receive a faulty device.
+I have absolutely no idea what you're talking about. I've bought the device about a month ago and it is working flawlessly. Of course, I immediately rooted it and flashed a customised CM12.1 build since I read that COS12.1 was a bugfest.
+It's a great device for someone, like me, who is still studying and therefore doesn't have a lot of cash to spend on a smartphone.
+Good thing there are some good 3rd party devs supporting it. It could decently run a custom ROM up to 5.1.1, which it did before I replaced it with my Oneplus One.
+Oneplus One here. For the time I've been using the device, I haven't experienced any lag AT ALL. Battery life is also great, so yeah, the 801 is still a great SoC in 2015.
+I live in Belgium and it shipped from the UK. Took about 4 working days until it arrived at my doorstep.
+Confirmed. It happens with both bookmarks and Chrome apps.
+It's still pretty useful for devices which aren't supported by their OEMs anymore. Some custom ROMs also have better battery life/unique functions which stock ROMs don't have. The need for them may have lowered, but I don't see custom ROMs dying in the following years yet.
+I also reported this problem a few weeks ago [over here](https://www.reddit.com/r/Windows10/comments/3mk6f4/start_menu_tiles_becoming_dark/). Luckily, there's a 'fix' for it. Looks like /u/baolin21 already has pointed it out here.
+Got that problem on both of my devices too. The only way to get out of it, is to reboot. I disabled that option ever since.
+That's why I flashed a custom ROM a few hours after I got the device. Why would you torture your users like that?
+I can understand that. I had mine the day after I ordered it, but I'm not going to RMA it because of this small issue. I can live without sleep for a while I guess 😜
+Exactly the same as on my pc but unfortunately, I have no clue on how to fix it.
+My €1300 ASUS laptop has been doing the same since a few weeks. It goes to sleep like it should, but when I wake it up, it boots up like I just restarted it. I think it's a Windows issue, because I have tried absolutely everything with no success.
+**THE APOCALYPS HAS BEGUN!!!** 
+That's not the case. /u/XpRienzo already gave me the solution to the problem. Thanks for helping me anyway :)
+They all work without issues, so they're not being updated at the moment.
+I already have the latest driver, so that shouldn't be the issue.
+It worked! Thank you so much!
+Damn, 400 DPI really is the perfect look for the device. Thanks for the tip!
+I'm having the same issue, but my laptop restarts as soon as I try to wake it from sleep. I haven't found a solution yet, unfortunately.
+Removing OEM/carrier bloatware, Xposed, Viper4Android, breaking free from the (sometimes) crappy OEM stock ROMs, Adaway, limiting Google Play Services's battery drain, ...
+
+Those are my major reasons, but of course, there are many, many more options and tweaks out there for rooted devices. Go take a look, you won't regret it!
+The screen-off gestures (double tap to wake, V for flashlight,...) on my OPO. Seriously, I never knew that that feature could be so handy! Especially when I want to turn on my flashlight during the middle of the night
+Even though I have the normal version, it's still a great tablet thanks to the awesome developer community!
+I'm still having doubts, guys. With all the people having LCD/touchscreen issues, I'm still not sure if I would buy the Oneplus One or another device. It's a great device, but I don't know what the chances are of getting a faulty device.
+Where did the music tab go? That was one of the most awesome features about the app :(
+It goes to sleep automatically, but it sometimes wakes up without me doing anything to wake it up. That is pretty weird
+It installed automatically through Windows Update and I haven't had any problem with it ever since. Maybe a reinstall would work.
+1440x900 here, I can see it too. Cannot unsee.
+Say what one more time. I dare you, I double dare you motherfucker!
+Alright, thanks for the tip! I'll probably purchase it right before the end of this month.
+Is it still worth it to get a Oneplus One? My S3 Mini is starting to breath its last breath, so it's probably time for a (not too expensive, I'm just a poor student/power user) upgrade.
+Oh, the nostalgia! I remember how addicted I was to games like Flea World. Good times.
+21st of September. Your move :)
+How did I not know about this? My life is a lie!
+I'm using MusicBee. You should check it out, it's also a great music player with lots of options.
+Happened to my 8800 GTS 512. This is probably because it's still beta/pre-release software.
+THANK YOU! I've been struggling to find a solution to this annoying bug for a few months and it was really that simple. Why is this still not fixed?
+Pepperbridge Farm remembers
+I know that feel bro :(
+Of course we do :)
+Yes, I've heard that too, but I don't really care much about the stock ROM. I'll probably use it for a week to make sure there's nothing wrong with the device itself, then root it and flash another ROM.
+I've also considered it, it also looks like a great device, but the fact that it doesn't have expandable storage and a removable battery is kind of a deal breaker for me. Thanks for the advice anyway!
+My S3 Mini is starting to lag like hell and fail at the most simple tasks, so I've been looking to buy a new phone. I'm probably going to buy the LG G3 32 GB for €399. Is this a good buy or do you guys recommend something else in that price range?
+That's what she said
+Tell that to non-English countries like Belgium
+I don't know what caused by a friend about this and other things that you are have to do so in with in the latest build a new one of the best Xposed modules are you looking for a few days ago by the way to get the best way to get the best way to get to see if the person to be in a couple more than a few weeks and I have also attached to a few minutes ago by a few days ago by the way
+Bought it for €189 when it was on sale here in Belgium a few months ago. Didn't regret it at all! Custom ROM development is also still going strong.
+The Dev version runs better on my S3 Mini than the stable one, but it's still pretty far from buttery smooth.
+No need to wait. Looks like the latest version brought Android 5.1 compatibility.
+Here neither. Probably incompatible with 5.1 due to the unofficial alpha version of Xposed I think.
+https://imgur.com/uOa2Q27
+
+Remember the time when this played all over the radio? Pepper Bridge Farm remembers.
+Carlos Santana - Smooth
+Well at least you don't have pictures which think they were taken in 1970
+Touchwiz ran like crap on my S3 mini, so I find this pretty unbelievable. Luckily, the custom ROMs are running waaay smoother!
+Back in 2013 I switched over to the Galaxy S3 Mini from my old HTC Hero G2 Touch (which had died at the moment), because I needed something new, but I didn't know that much about the Android world back then. The S3 Mini was on discount at the moment, so I thought "Why not?". I'm a student, so I don't have that much money to buy a flagship device.
+
+To be honest, I was pretty statisfied with it in the beginning, but now, I kind of regret my decision. At the moment I thought it had the same internals as its big brother, but I've never been so wrong. If I could choose again, I would've gone for a Moto G or something similar, because it probably has better support and quality.
+
+Oh well, at least the device is not as horrible as my G2 Touch and on 5.1.1 it's flying again, so I think I can stick with it for another year.
+qBittorrent is also a good alternative :) Everything's better than crappy uTorrent.
+QKSMS
+If only it didn't crash on my device :(
+Looks like I'm not up-to-date then. Thanks for pointing that out :P
+He probably copied that list from the XDA thread, which isn't up-to-date either.
+If only my phone had a navigation bar...
+Something Google should do too...
+Welp, guess I'll have to uninstall one more app then
+The dev will update it, but he's on his finals now, so doesn't have time at the moment. It's not that that much has changed over the versions.
+Or, you know, any other country in the world... :(
+OmniRom and CM12.1 are working without problems with Xposed installed.
+It's been working without issues since the first nightly on my G Pad.
+Had issues with it getting stuck too. I always have to kill and restart explorer.exe, but sometimes it then gets in a 'freezing loop' where it wouldn't start properly in and doesn't work anymore until a reboot is done.
+Been there, done that. It was fun, MAC OS X is a good operating system, but there were some issues which I couldn't get rid of, so I gave up.
+That's one reason to root. I've been running the CM 12.1 nighties without any major problems. This device is flying!
+I was able to flash TWRP on v20d some time ago. Where did you get stuck?
+Ah, the HTC Hero. I remember it like it was yesterday. Good old time.
+And on Now for Reddit
+It comes popping up when I'm using Instapic, which isn't running too stable on Windows 10.
+Well that'll work, unless you're stuck in a boot loop :/
+How are we going to boot into recovery now?
+Same here on my S3 Mini
+*cough*Lollipop*cough*
+Performed an 'upgrade' 2 days ago. Windows moved pretty much everything to the Windows.old folder, so yes, you'll have to reinstall everything. Also, make a backup in case something goes wrong.
+Recently upgraded my phone pc to the latest build (don't know if it was a good idea, but I found it is stable enough already and couldn't wait any longer :P). I'm also pretty excited. It's already working pretty well and, of course, it's NEW!!!
+Well it's still better than after only 2 hours
+Luckily, there's 5GHz. http://m.imgur.com/8CbChw6
+[FaZe]Springtrap[MLG][420]
+Working on a paper indoors. Yay.
+"How do you mean, you can't solve the problem on my iPhone? You're the IT guy!"
+
+I can't do anything about the fact that I've switched to Android 5 years ago and haven't touched iOS ever since. These stereotypical assumptions are driving me insane! I may know a lot about computers, but I can't solve every single stupid problem you created!
+
+I really know how you feel man!
+Someone's in need for some attention and money again...
+
+There's dozens of them. Reddit doesn't give me enough space to sum up all of them :P
+Man I'd root the damn thing and delete all of them
+I'd see them putting their own crappy store on it.
+Imagine if Telenet or Proximus bloated their phones like that. God, that would be a hell!
+There's an unofficial super-alpha version available already. Some modules are working, some don't yet.
+I haven't tried it yet, but I'm gonna flash it tonight. See what it'll do to my device.
+I was rocking the HTC Hero G2 Touch up until 1.5 years ago when it died. I wasn't that much into rooting back then and it did what I wanted it to do. Even though it was slow as hell, I'll miss that 'curved' design and the trackball.
+Well, at least we have CyanogenMod and others
+It's still a super-alpha version, so be cautious.
+There's this Xposed module called 'YouTube AdAway'. I've been using it for months and it's working flawlessly!
+Weird, W10 is working flawlessly on my Pentium D pc
+Well, this is an extreme case of "Boy that escalated quickly!" So sorry for you, bro! Hope everything will be alright again.
+Well they got as far as booting the V510 stock ROM on the V500 without Wi-Fi, but unfortunately the project was never finished.
+
+Source: http://forum.xda-developers.com/showthread.php?t=2564149
+Don't we all just read the headline? :P
+Well the description says "LGV500_Lollipop_Android_v30a", so I guess we're in luck this time!
+Well, 'soon' may be relative for LG, but still. I'm glad LG is still thinking of this tablet and that they are dropping Lollipop for it 'soon'.
+Oh, okay :(
+Awesome!
+The LG G Pad 8.3 is officially supported by CyanogenMod, so you'll get OTA updates, which is really handy.
+
+Link to thread: http://forum.xda-developers.com/lg-g-pad-83/development/rom-official-cyanogenmod-12-t3026647
+
+Steps on how to install are included in the OP.
+OmniROM only supports EXT4. I experienced that too when I left some partitions formatted as f2fs, so watch out for that. CM12 only supports f2fs on /data and /cache.
+What about the G Pad? Anyone?
+
+Ah nvm, I'll stay on CM12 :P
+Well the only issue I've found so far is that video recording isn't working. Your video will just be green. Youtube is working without problems for me, but I watch Youtube mostly on my G Pad.
+I recommend you try it. Lollipop 5.1 is so much better than 4.4 and 5.0 in my opinion. However, you will be left without Xposed so far, but I prefer smoothness and stability over features.
+One of the reasons why I rooted it and installed a custom ROM after one week. Also, now I can reach further than 4.1.2. 
+Weird, my LG G Pad 8.3 has a full HD screen and can go up to 1080p.
+To their doom?
+Everything is Facebook!
+'Cyanogen Inc.' and 'deals' are two things which don't go together pretty well, history tells us.
+This makes me feel very happy inside for some reason
+I'm dual-booting between Windows 8.1 Pro and Ubuntu 14.10 GNOME. The reason why I don't make a full switch: games. Seriously, there aren't really so many games for Linux, especially not the ones I've bought. There are also other programs which aren't available on Linux or don't have a decent alternative, like Vegas, Photoshop, Audition, etc. It is a great Ok, though, but I'll probably never make the full switch.
+The release of Half Life 3?
+1) LG G Pad 8.3
+
+2) I bought it for €189 (it was €279, but it was on sale), so I didn't really expect too much of it. God was I wrong! This device is awesome! Beautiful screen, fast device for even the larger tasks, overall great price/quality. I honestly didn't expect it to be such a great device for that price! I'm very proud of it!
+
+3) Still hasn't changed. I'm still very statisfied with this device!
+
+4) Rooted it from day one, flashed TWRP. It only took a week before I switched to a different ROM. The device is officially supported by CyanogenMod and other custom ROMs are also running very smoothly and stable. My device is currently running CM12 at lightning speed! 
+Nexus One?
+This is why Snapchat is greenified.
+Ah, this reminds me of the Gameboy-printer days. Memories...
+Just upgraded my S3 Mini to CM 12 and installed Xposed. Haven't noticed any decrease in performance. It's faster than ever on Lollipop, even with Xposed!
+Is mayonaise an instrument?
+Today is also my birthday! Thanks for the gift rovo! 😀 I will surely donate something to you!
+Android has this handy 'Daydream' function...
+Well it would still be better than Tizen
+Tasker. Hands down.
+Plus no need to download a separate codec.
+You, sir, deserve all the upvotes!
+- HTC Hero (got it from my brother) 
+- Samsung Galaxy S3 Mini (Hero died after a few years and I needed a cheap but good phone)
+There's also Windows 8 Pro WMC (with Media Center)
+No shady permissions.
+And nothing else matteeeeeeeeeeeers.
+S3 Mini GT-I8190 here. Apart from a few short freezes and the sometimes poor battery life, it's running great on this PAC 4.4.4 ROM.
+Well at least put a donate button in it! You deserve some beers man :D
+This is looking great already! I don't know how much you're going to ask for it, but I'll buy it anyway!
+That shark is looking pretty confused.
+Gigabyte GA-G31M-ES2L
+Intel Pentium E5300 2.66 GHz
+NVidia GeForce 8800 GTS 512
+4 GB DDR2 RAM
+500 GB 5400 rpm HDD
+
+It's running faster than any other Windows version I've installed on this build. Sure, Windows 8 and 8.1 had also given it a huge performance boost, but with 10 it's still slightly better. 
+Stealers Wheel - Stuck in the Middle With You
+
+*insert Reservoir Dogs reference*
+User files won't be touched in any way. You will lose some programs, however, so be sure to backup licenses etc. if you have programs using them.
+It just removes all of the programs and puts Windows system-wise back in the state like when you just had installed it. Personal data in the C:\Users folder doesn't get touched, however.
+Can we root it?
+Well, there's nothing root can't fix
+I'm using PAC 4.4.4 on my S3 mini. It has a motherload of functions and settings, so I don't think there's anything missing. It is also one of the most stable ROMs I've ever used on this device and of course it's waaaaaaaay better than Samsung's stock ROM with its load of useless crapware.
+
+Anyways, of course ROMs are going to stay alive and become even better. One of the things I kinda expect is that some ROMs will maybe 'fix' some of the annoyances in Lollipop, but I'm not too sure. In my opinion, OEMs could still learn a thing or two from these ROM developers and maybe, just maybe, we'll be seeing functions adopted from custom ROMs on stock Samsung/HTC/Huawei/whatever devices, but that's just wishful thinking.
+
+These custom ROMs are only going to become better. No way that they are going to die in the near future.
+How about no?
+That's one of the reasons why I sold it. It was running great back in the days of iOS 4, but every update after that crippled performance piece by piece.
+Fucking brutal!
+The original Age of Empires 1 or 2. Not the crappy Clash of Clans-like version. I'd kill someone to get that on my device.
+My S3 Mini connects without problems, but it's running a PAC ROM
+A bol.com gift card 😊
+There's ALWAYS a relevant XKCD.
+Still waiting for the day we finally can pay with NFC...
+App: Reddit Now
+Game: Polka
+Device: Samsung Galaxy S III Mini
+
+Linkme: Reddit Now, Polka
+Reddit Now just crashed. Thanks a lot, Kim!
+Well, swiping to the left or to the right of the screen are now gestures for next and previous page.
+People have money to buy a +€500 phone, but no money to buy a €1 app. Things are getting ridiculous around here.
+Tenshi_xp's custom ROM. Supports overclocking and better battery life on my S3 Mini.
+Here's mine. I'm running Nova Launcher on my Galaxy S3 Mini. The wallpaper is the Xperia Z live wallpaper from the Play Store. 
+
+http://imgur.com/OHpFB9z
+That's what she said
+Now I have the urge to touch it.
+Nope, top right over here!
+Replaced it with Kodi (XBMC). I didn't regret it.
+I am still using the S3 Mini, since I've bought it only one year ago. There's also a CM12 beta build for our devices, but it's not ready for daily use, unfortunately.
+Oh God, why didn't I listen to you? :(
+Xposed is not compatible with Lollipop.
+Do you wanna build a meth lab?
+
+Edit: autocorrect
+Same here, I only had to deal with Samsung's bloatware.
+
+^TouchWiz ^is ^also ^^considered ^^as ^^^bloatware
+I keep wondering what sick bastard would do such a thing? :(
+Egalité, Liberté, Fraternité?
+Because they'll have to stop ROM development then.
+One of the many reasons why I rooted my device: TW.
+Another weird query added to my search history
+The fact that there are only 2 beta ROMs for my S3 Mini. H/W acceleration, camera, RIL and of course Xposed aren't working yet. The latter may be less important for me, but still, I'll have to wait for these bugs to be solved.
+I thought it was just my phone. I'm happy to hear that I'm not the only one. Hopefully, they'll fix this quickly!
+Movember is getting out of hand
+It's been one year since I've dumped my HTC Hero G2 Touch. You will be missed.
+Samsung Galaxy S3 Mini, PAC 4.4.4, Mobile Vikings (Belgian MVNO)
+One of the "Why did Samsung even install this on my phone?" apps.
+Ah come on! /r/spacedicks
+Well, battery life I guess...
+Actually, we Belgians also use septante.
+Wow, Google fixing something on a custom ROM. Is this a miracle?
+>fastboob oem unlock
+
+It's funny 'cause it says 'boob'.
+Hell yes!
+Well that's an annoying issue :/
+You can work this around by opening Chrome, going to recents and selecting Chrome again. It should show up in full screen now.
+The avatar is inside!
+Well, that didn't take long. It's built, but not much is working yet.
+Ah, good old times!
+S3 mini users unite!
+But will it blend?
+You don't have to keep a service running in the background since it uses Google Cloud Messaging.
+Viper works perfectly with GPM on my device. Are you sure the service is running?
+Titanium Backup also does an excellent job for this.
+Is there anyone kind enough to share an invite with me? :)
+I hope those Inbox users are generous enough to share some with us and share the Inbox goodness :)
+Even though the 8.1 jailbreak got released a week after iOS 8.1's release.
+I got it when Microsoft gave away free Windows 8 Pro WMC keys due to some problems with pricing for that version. I'm now running Windows 8.1 Pro with Media Center, but to be honest, I don't really use Media Center. I just got the key because it was free :P
+But still, it really needs a little makeover.
+I finally replaced mine with a Galaxy S3 Mini a year ago. I also kind of miss the little trackball...
+I actually expected a lot of 'math' comments...
+Now it's just waiting for CyanogenMod 12...
+I installed it on a different partition, so I can run it at 'full power'.
+CM7 on my HTC Hero G2 Touch. Those were good times...
+CM7 on my HTC Hero G2 Touch. Those were good times...
+Well, at least he speaks Dutch way better than Elio Di Rupo...
+Tried it, didn't work.
+Well my S3 Mini has an AMOLED screen, so it actually is working. Those other reviewers are probably feeling a placebo effect.
+Source: HLN...
+It's way harder to throw a 19-inch monitor across the room...
+Their site made Chrome crash...
+I'll also be doing the same. I have some experience with triple booting Windows/Mac/Ubuntu (back in the Hackintosh days), so this will probably be no problem, unless something has significantly changed in the boot proces.
+But I'd rather not show it to them...
+Thanks for pointing out this app. It really is way better than Talon!
+Dann, why didn't I ever come across this Pixel Battery Saver app. The concept is great, I hope the app actually works though. Will test it!
+Is the Tinted Status Bar Xposed module somewhat what you're looking for?
+For some reason, it looks so happy.
+If only they were available in my country :(
+I can't even get more than 4 hours out of my device :(
+Creating a film of a game succeeds almost never. Remember that awful Mortal Kombat movie? Yeah, I didn't want to remember it either.
+How the hell would we be able to enter recovery mode if there aren't any hardware buttons to perform the 3-button combo?
+I'm still playing Age of Empires. Sometimes, older games are more fun than the newer ones.
+My cats were pretty frightened when they first met a cow. I hadn't seen them all day after that.
+That sounds great! How did I look over that?
+I have lost my faith in the government already. Building a new nuclear plant will cost us a lot of time and money. Why doesn't anyone in our dumbass government see that THIS IS ALL BUT A GOOD IDEA?!
+I mean, what's next? Investing one billion in some aircraft we're not going to use? To be honest, I haven't heard any good idea from this government, and I don't think I'll ever hear one.
+Wait, the YouTube app had a homescreen widget? I honestly didn't know about that.
+It's not only De Morgen. I also saw an article of it in De Standaard.
+And my bow!
+The goat is loose!
+Gameparadox
+Instructions weren't clear, got car stuck in the ceiling.
+Well that explains why my music suddenly stopped playing some times.
+many watch
+
+such expensive
+
+very Apple
+
+wow
+
+
+Finally!
+If only it were available in my country...

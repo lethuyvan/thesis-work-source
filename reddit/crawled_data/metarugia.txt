@@ -1,0 +1,1468 @@
+So not sure if you have the '18 or '17 but if it's the former, can you disable the cylinder deactivation feature on the highway?
+How do you deal with the hum introduced by this new wireless transport method? $10k cables perhaps?
+Yup working now. 
+Some reason games are still showing up at normal price.  
+
+Confirmed my PS PLUS status is still active. 
+
+US Account. 
+Keep in mind there's a new Rav4 coming later this year (just learned about it last night). Seems like it'll be the closest competition to the CX-5. 
+Just like the OG Pixel. Absolutely. 
+I ran into the same issue 2 years back and sold it then. My phone's screen is big enough for most things. Otherwise I use my laptop or desktop computer.
+My USG-PRO-4 died like this in a similar fashion! 
+
+Ubiquiti is sending me a replacement but its taking weeks because they're apparently out of stock. -_-
+
+Is Ubiquiti just installing shit memory inside that could cause these failures? 
+Does your new build auto negotiate the port speed to 1gig.
+Ah makes sense there wouldn't be a barrier.
+Was the barrier missing the things that slow you down leading up to it?
+I'm going with a bad/damaged cable as well. Seen this before.
+We've got a similar cat with a similar story. Looks identical. Any idea what the breed is? As of late we think she's a Norwegian Forest cat.
+Which blows my mind because I thought apple was one of the few manufacturers who implemented 802.11r long ago. 
+Sounds like you might have issues with the DSP input card.
+
+Are you passing multichannel audio to the input card? If so try passing just 2 channel PCM by configuring the EDID as such. 
+Software is only available to authorized dealers or the various partner levels.
+So if that's the case then there's an external video wall processor.
+Chances are the displays are fed their signal by DM-RMC-SCALER-C's or their 4k variant which have video wall capabilities. It sounds like they reset themselves to not act as a video wall. But as others have said we need more info on the signal chain.
+What's the USG-XG-8?
+
+Edit: Oh NVM, that's the $2500 USG. I'm just hoping my USG-PRO-4 doesn't become stupidly obsolete in a week or so. Currently waiting on Ubiquiti to get more stock of the PRO-4's to fulfill my Advanced RMA. 
+I thought the usg-hd was put on hold indefinitely. That's what I keep seeing people say in here at least.
+No you're right. Bring your own empty containers though.
+The og pixel has unlimited original quality uploads for life. 
+
+The pixel 2's are when Google introduced a time limit on unlimited uploads.
+Can't recommend this enough. It's a bit of reprieve when you get this bit of civilization back. Definitely more rejuvenation than shower dancing in a field.
+Yes. Even if it doesn't bother you, it alerts Tesla to the fact there may be an issue on the line so as to address it for all Model 3's. 
+LIDS LIDS LIDS! Use LIDS People! 
+It's Charlie! Refresh the page if you have to.
+Just watched a truck walk out of a truck and yell at a guy.
+Whats great is that this feeling kind of snuck up on us (at least it did for me). We've known it was coming, known it would probably be good, and a good chunk of us had already committed to getting it. But hot damn when the reviews came out did this hype train get moving. 
+You are strong like Kratos. 
+So my screen simply lets me start on the same model everyone else has or choose to wait for Dual Motors (which is what i want).
+I think this invite came out by mistake. I had already submitted a few weeks ago that I wanted to wait for dual motors. Unless this is the official invite.
+North East, online order right before unveiling. Just got my invite as well. Wasn't ready for this.
+Here's to hoping PSN doesn't die Friday.
+A better engine. Better driving experience, smaller wheelbase version that's offered in Europe offered in the US. 
+
+Ventilated seats would be nice too. 
+Unless you've had an account created for you, then no its not available yet. 
+I've honestly started to lose faith in them. At least he Garden State Plaza one in NJ.
+
+Horrible RED glow from all the running lights (seriously, who picked this).
+
+The stadium seating is poorly spaced. Some seats sit so far from their wall in front that if you recline fully, you lose the bottom half of the screen. The seats are actually WORSE than the standard offering by AMC. It's a shame that Dolby actually approved this theater to have the logo on there. 
+Oh man, I miss the old startup loops of Nexus devices. this reminds me of those. 
+Reminds of the hijinks in Crank. Maybe Crank was actually a Bollywood movie. 
+Oh absolutely. I do have to do more research though as per the other replies to see if wave 2 really is worth the premium.
+Actually the nano costs more. 179 vs 149. I was surprised.
+The usg-pro-4 can handle gigabit wan with dpi as that's all done via hardware offload. The moment you enable ips/ids or smart ques, you're cpu bound. I just can't get solid numbers on what throughout drops to then.
+Ok that was a good read. Now to do not research on this. I was going to get the nano as my next AP to help me single AC-Pro but I think I might just stick with another one of those.
+Why wouldn't it be? It helps multi client environments, especially considering there's not too many client devices that are SU-MIMO.
+Fuck those rides. I don't trust them.
+You could also place a real one and a fake one as a decoy. If the perp goes for the decoy first you'll have footage of the tampering.
+Or wait for the nanoHD with MU-MIMO and enjoy benefits with any of your devices.
+The deadmau5 one was great. We knocked over his beer. 🤣
+They used to come by and harass customers at my parents gas station years ago. Eventually told them off and called the police on them. They never showed again, at least on our lot. They simply proceeded to go to the station next door.
+Awesome info for the CEL, I'll have to try all that.
+
+As for the DSG. Unfortunately I found out about the "lifetime" fluid a bit too late. 120k miles in. I can't even yell at my service center as that dealership shutdown for shady activity. Go figure.
+
+It's particularly lazy about shifting into or out of 2nd gear. I've lived with the transmission like this for quite some time and will continue to do so. The engine was really my main fear so hopefully the suggestions above take care of it all. Now to find some guides for this. 
+'12 Jetta SE with 165k miles and counting.
+
+I've replaced the MAP sensor twice and it needs another one but honestly I don't notice any issues.
+
+Sadly, the transmission has been rough the last 20k miles and only getting worse.
+
+I also get the occasional spat of bad starts where i'm not quite sure what the engine is burning. 
+
+Any suggestions appreciated.
+
+That being said I actually LOVE the sound of this engine compared to all the 4 bangers out there. 
+That's what it sounds and seems like to me too.
+
+Strangely though, netstat shows the connection to the Azure servers alive the entire time.
+
+Considering this is the provided Voice Control modules, I'm not sure what to do in an effort to keep traffic flowing. But I like the idea and I'll try to come up with something. 
+Hence the "preemptively". If only it was out now. 
+You know the game is going to be good when your boss preemptively offers you the day off after seeing the reviews.
+Bought this and the Tron cycle set on a whim at the Lego store while waiting for a showing of Ready Player One. I think my mind was in nostalgia mode. 
+
+Considered returning them both as they felt like unwarranted purchases but damn if this doesn't make me want to keep it now. 
+That doesn't sound right. I'd probably return it and get a replacement.
+Source: I have 3 Home Mini's and 1 Home and none exhibit what you say. 
+Holy crap does that put it into perspective.
+That's a good point. Still should work on putting the car into neutral. 
+
+Even on those freak incidents where the engine just goes nuts and car accelerates without any input. Put it in Neutral! 
+Throwing the car into Neutral and eventually pulling the E-Brake (slowly) is also a good idea. 
+As it matures you'll be able to push settings to devices in bulk. Pretty sure fusion is strictly monitoring.
+Make sure they're in different channels.
+XIO cloud will help clean things up for Crestron gear (and supported ones at that).
+We used it for our wedding song too! The first were very confused but loved that we basically just rocked out to our first song.
+Did it look like the crane truck bumper hot someone as it swung into place?
+Haha, don't be too harsh. Always fun to learn about new technologies.
+
+He's probably approaching it from thinking that HDMI as a physical medium can handle 18Gbps, and Fiber (depending on distance and type) can hit that or higher. Meanwhile, cat5/6 is rated for what, 1Gbps? HDBaseT isn't sending the video data over cat5 as typical ethernet traffic. It's simply using the cabling to transmit its own signal format which allows it to pass at the necessary rate. 
+
+Keep in mind if you go this route, you'll want to be wary of where you pull the cat5/6 across and what kind of interference there may be. So it may be necessary to get shielded cable/components to reduce interference. Also, the same distance limitations apply for ethernet (so 100m/330ft). If you're going to be doing 4K, you'll want to push towards higher quality cable as you'll be pumping more data through that same cable. 
+Then one of your engineers doesn't know everything about the aforementioned topic. Which is ok. Not a lot of people do. The pro av business has been existing for decades and this is something we deal with on a daily basis.
+The few times I've worked from home my productivity was insane! Kind of hoped the company would notice and make it a more official policy.
+Oh she absolutely was perfect in her role. Too perfect. Hence the annoyed by it. What parent or sibling isn't annoyed by their teenage girl.
+Depends on the balun being used but its not anything super sketchy.
+There's active electronics that are converting and passing that signal along. 
+I enjoyed it. Not sure why so much hate. 
+I liked the beer bad episode. Actually, I'm not sure there are any that I dislike. Maybe some where Dawns' being really whiny. 
+You can certainly give that cable a shot. It is Amazon so worst case you could return it (I'd test it by draping it across the floor first before you run it through any walls).
+
+Beyond that, you'll want to look at either active/directional HDMI cables (which may not play nice with your display/xbox).
+
+Finally, you can look into HDMI over cat5/6 (HDBaseT).
+Stable power will definitely help the region! 
+Well guys, I'll re-up my subscription on July 14th and start the preparations! 
+Was about 4th row back from right in front of Casey and hot damn that was a GREAT show. 
+
+Re-affirmed my love for the band. Also got myself a gerbil shirt (not quite sure if the gerbil has any significance to the music/story).
+As an American buyer you have no idea how much this pisses me off. 
+Wait, the market can crash in the other direction? 
+Oh wow didn't realize they were that much faster. I might have to switch away from Google.
+Wait, can you buy houses without a property to put them on? 
+I get about 60fps at 3440x1440 with my GTX-1070.
+
+I'd honestly love the game but as of late every match has been death to cheaters. They've really gotta up their anti-cheat system otherwise the population will surely die. 
+A TRUE successor to the Nexus 5? 
+After playing and beating overcooked with the wife, LDS seemed slow in comparison. Still looking for a new game now.
+Niiice! The White PS4Pro looks great! 
+Totally understandable for those smaller deployments. Pretty sure the Edgemax series is capable of being an IGMP Querier. I just provided the documentation to someone the other day. 
+
+Oh look I found it, https://dl.ubnt.com/guides/edgemax/EdgeSwitch_AdminGuide.pdf
+Page 151. 
+If the switches are all on the same VLAN, then there shouldn't be an issue. IGMP should prevent that flooding to the other switch.
+
+now keep in mind, depending on how many streams you're trying to fit through your switch-interlink could determine if this is going to work or not. 
+
+One thing that may have affected your setup could have been the MRouter interface setup on the switch. I know with Cisco switches, setting up an Mrouter interface (which is usually the interlink port), causes ALL multicast on the switch to flood through, regardless if there's a host on the other side requesting it. This immediately saturates the link. 
+So when I traded my PS4 launch for the PS4 Pro, the Gamestop let me buy the Pro, have both console and perform the real transfer method provided by the consoles. Then I was able to pack up the trade-in, bring it in, and they retroactively applied the trade-in and bonuses to the purchase of the PRO. 
+They perform a factory reset in the store with you. It proves to them the console is functional. 
+If you're looking to do Crestron's NVX on Ubiquiti hardware it does work. I don't know the specific models but I know it works.
+Just don't be obnoxious. Be aware of the reason security is there and don't make staffs life miserable. They don't want to impede on anyone having a good time and only do so when necessary.
+
+TL:DR you should be fine unless you give them a reason to not allow it in. 
+Sure. They're just Access Points, not wireless routers. 
+I denied Stevens but that was before I decided to switch from bio to comp sci.
+So this is only affected when Hardware offload is enabled? So if Smart Queue's are enabled this shouldn't be an issue? 
+Whats the best way to check for jitter? 
+Very clean! When I finally go in for one I've already decided that this too would be the one I get. 
+At the same time I'm so happy Sony decided to just treat both like kings (except for the damn rolling shutter). 
+Good point. Until its actually shipping on new cars, and people can confirm they've done the upgrade on older models, I'm still skeptical. 
+Oh wow thats crazy for the cost there. the CX-5 would definitely be the wiser budget choice but I can see why you're itching for a slightly more powerful engine. 
+If they do that, I won't even hesitate buying it then.
+I'm comparing it against a Volvo XC40 now with the currently offered engine. 
+It's like 2 overly drunk friends trying to fight one another. 
+I thought the game was supposed to have true uw support, but then again I'm also reading that it's the same engine as FC4 so it's not surprising this is what its doing. 
+
+Glad I didn't buy into the hype yet. If it's worth it, I'll pick it up on sale. 
+Is it me or does it look like the top and bottom is cut off and this is just zoomed in? 
+Yup. Just saw, but thank you for the answer. 
+Anyone have the link for the previous one or is it already gone? 
+I'd love a game like this intro.
+Ooo ok. I didn't realize it had that feature. So basically it's trying harder at being a utm.
+I got this for my Samsung CF791. 
+
+https://www.amazon.com/gp/aw/d/B0753Z8YLM?psc=1&ref=yo_pop_mb_yo_pop_mb_pd_t2
+Sorry for the noob question but what is isp? Every time I try to to search I comically only get references to internet service provider.
+Thanks for the info. This saddens me.
+Although OBS is a good and simple setup, remember that you'll be recording EVERYTHING on that screen. So it will require a bit of a clean config to prevent any unwanted applications or sounds.
+
+That being said, if you can find the raw stream URL you could dump that into VLC and save with that. 
+So any word on IF this is coming to the US? (I've already accepted it'll be gimped upon arrival on our shores, even if its manufactured here too). 
+Is it weird that during dieselgate this was all I could thing of?
+50 year anniversary of the show. 
+I still have mine, minus the original Blu-Ray drive. That thing crapped out on me the day MGS4 released. I was livid but it at least gave me a reason to go wait in line to meet Hideo Kojima in NYC while it was being repaired. $150 for the drive back then... 
+Just give us the god damn choice.
+The Extreme 220's have what you need. Granted the 10Gb links are via SFP but still.
+
+And they're a web based config if that means anything for you.
+Also the lack of multi user on a multitude of devices.
+Worst case go to a mechanic and see if they'll take them off for you and replace with regular bolts.
+That actually is reassuring. I tried Samsung's devices back with the S6 and loved the hardware but hated the software. I've since gone back to Nexus/Pixel and have only looked back at Samsung because their hardware is still phenomenal. Just scarred by the software. 
+As usual, I'd recommend ignoring any of these initial reviews and waiting for the storm of follow up videos from the same reviewers complaining about how much the device sucks because as usual, it bogs the fuck down. 
+I wonder if these changes are limited to certain markets. What's your rough area if you don't mind me asking?
+You can go into the router settings and introduce a port map. Set a unique external port that maps to 41795 to the touch panels ip. Then in your tool of choosing with your computer on the lan side of the processor, put in the lan ip of the processor and specify the external port you just mapped earlier.
+
+You can get to the router map by connecting to the processor in system info and going to router configurations in the functions drop down.
+I thought about going iPad. So I bought my wife the iPad Pro just so it would be in the house. I found I just stopped using tablets altogether and use my desktop, work laptop, or my Pixel 2XL. 
+If the service is free, you're the product.
+
+Google data mines EVERYTHING.
+After the second time that happened I didn't even unbox the replacement. Sold it on swappa and haven't looked back. So much was just shy of perfection on this device.
+Damn, why's it look so much bigger? 
+20,000 socket adapters for a drill... Fml
+I really hope this wasn't true otherwise more heads are going to roll.
+Try resending an edid to the card. Dm default should be fine.
+DSW is the bigger offender of this. That shits on like a 30 second timer. 
+I'm sorry what? Pc mode eliminates 4:4:4? Why? If the input was accepting that bit rate why have a mode that lowers it?
+On most displays just enable game mode. You should still have hdr support enabled.
+4k oled here. Game mode works just fine.
+Same. Is this applying to every card they offer?
+You don't need to delete it. Simply ask your assistant to, "scan for new devices". 
+
+
+I've had the same issue with naming as well, thankfully you can rename to whatever you want within the Google home app. 
+
+My only issue is that the assistant is slow to respond to the first request after some idle time. After you've asked it something, then all subsequent commands for some unknown time frame are quick too.
+Depending on the number of cameras this might be the better option. Just have it set to rolling overwrites. 
+I haven't seen him use his fortunes for evil, so yeah, I had no problem backing this. 
+
+It seems he's only ever used his personal wealth to just keep solving real problems. 
+Too big to be an X3. Definitely an X5 or X7. 
+Active cables like you said can be finicky. Best to stay away and go with cat5/6 extenders like the HD-EXT3's like others have already said.
+
+But going over your design, how about a Mercury? 
+Depending on the size of your room you'd have your mics,speaker, touch screen, occupancy, AirMedia (with airplay support) and video pass through. Pair it with a HD-USB-EXT-2000 to get a single Cat5 run to the display and you're done. 
+IEC Standard, its recognized. 
+TIA-568? Still not and as you said probably won't be. 
+
+Still works as a cable =D. 
+Yes it is.
+
+https://en.m.wikipedia.org/wiki/ISO/IEC_11801#CAT7
+Do any of the new Halo's support this anymore?
+I think Bowers Wilkins px has those.
+Also some people just have access to cable. I have 4 spools of cat7 and 2 of cat 6. I've yet to ton anything in the house.
+The lack of that game being one universe with all players in it in realtime killed it. 
+Why do some menus go into a whole new page yet others are popup boxes!?!?!? WTF Samsung!
+The better question is if the accounts are cross platform. I'd love to be able to play on my PC and then continue on the switch on the go. 
+Elon Musk.
+So do I sell my a6000 and upgrade?
+Last I checked, not printed at all counts as not printed correctly. 
+Do PS Vita's and PSTV's with older firmware go for any kind of premium? 
+I've been wanting to upgrade to FF for some time now from my a6000. If the price and specs are right I'll sell the a6000 to put towards this. 
+Oil change for my car. Will probably turn into belts, and transmission too. I need a new car.
+Don't give them ideas. Then again they're too stupid to even think of this one.
+Before changing passwords endure no backup email accounts have been added.
+As a true metal gear fan I know to disregard anything Konami will ever release again. I won't even trust any possible remasters.
+Actually Amazon will list if an item is being sold by Amazon or a third party but with prime benefits because of FBA.
+The fact that the ir remote stopped working has me leaning towards a projector issue. Take the Crestron connected out of the equation, does ir still fail in the same way?
+I honestly thought my xl2's battery was being drained because of my Fitbit. Glad to know that's not the case.
+Fast lane doesn't imply everyone is speeding. As of late it seems people are using it as the casual driving Lane.
+I do too! I usually scream, "WHY ARE YOU GOING UNDER THE SPEED LIMIT IN THE FAST LANE!". Also sprinkle some expletives throughout that statement.
+Damnit, here I was thinking they had an EMP canon...
+You just had to come in here with your logic and ruin it all.
+I have the same "sag" or "tilt". Sadly the VESA mount on the CF791 isn't to the body of the panel but rather to the vertical tilt mechanism. When looking at the stand or arm, they can be perfectly stable, but the vertical tilt mechanism (again, built into the body) is where the "sag" is. There's no getting past it. 
+
+The stupid vertical tilt rail is just slightly too loose and I'm not about to rip of the back panel of the monitor to try and see if I can tighten anything down. I've just gotten used to it and have used lighter cables. I'll personally be switching to an arm and away from a stand and even then I'll have the weight of my cables supported on the arm and not the monitor (it should always be like this). 
+I originally was going to sell my OG Pixel when i got my 2XL once I learned I wouldn't have lifetime original quality uploads.
+
+Whats the minimum requirements for getting photos backed up?
+Could I get a USB-C Thumb drive connected to my OG Pixel and let Google Photos discover and backup the drive? Or does it dig deeper than that and actually check metadata and also immediately rule out photos that are obviously higher resolution than whats capable on the Pixel? 
+JB, you are a hero to us all.
+Thanks for the info! I'm between the Tiguan and a Mazda CX-5. Both of which that I had hoped for a more powerful engine option.
+How's they performance of the engine. My biggest fear is that it's just a tad underpowered for the car.
+Yeah I picked up on this too. Not sure if there are adapters that add USB Ethernet to it.
+I'm surprised it took that long to decide to just use the tool as a lever to lift the door up. Why was the first thought was to chisel the cement away.
+[Screenshot for the lazy.](https://imgur.com/vuQcDBh)
+Toyota has ToyotaCare (introduced after their last PR nightmare).
+Dealer might claim they're the ones giving it but they're getting reimbursed by HQ. 
+I might have to use this to replace the WiFi analyzer I've had installed for years on my phone.
+Basically just happy there's no ads.
+If I can ever afford this car you've sold me on CeramPro. 
+On your DM output port you can define a HDBT Receiver as the endpoint time.
+That endpoint has a HDBT Two-way serial driver that will utilize HDBT's built in RS-232 channel.
+So if the device supports that control channel, you'd be free of addressing concerns. 
+I believe what you're looking for is serial over HDBaseT.
+I say we take this to the next level. Let's start arming these cats. Mount some turrets on them, ballistic masks, and nuclear launch codes. You know, just even out the playing field.
+Just noticed the cup holders look like a DualShock controller.
+I replaced my usg4's fans and man what a world of difference. Sure it's installed in an equipment rack but the less noise the better.
+Audio Technica LP-120. Pretty much the go to for an affordable reliable one.
+Next year's super bowl drinking game: "Is it a Tide ad?".
+Database errors? How does one recover from that I'd they run into it?
+People really need to understand and appreciate the beauty of snow tires.
+Blockchain permanent record! 
+The few people with authority you do not EVER want to screw with. 
+Keep in mind some channels are not available in certain countries (Doesn't mean it won't scan for them though). 
+High channel number isn't going to increase/decrease performance. 
+So for FiOS Gigabit, that means you should be getting a RJ45 (ethernet) connection from your ONT (the thing that converts the fiber from the street to your internal wiring). 
+
+So in a normal setup, that cable would go into the WAN port of your FiOS Quantum Gateway Router, and then the Coaxial connection on it would be connected to your places coax runs to your cable boxes and such (this gives them Video on Demand, TV Guide and anything else besides the actual raw video).
+
+So, all that being said, think of your ONT in your basement as your "modem". It's the first place you're receiving your public IP from Verizon. You can connect your USG's WAN link directly to that and go off from there. I would then connect the FiOS Quantum Gateway WAN to the LAN connection off your USG (or whatever network switch has cascaded from there). As far as the FiOS Quantum Gateway is concerned, it'll still have internet access and be able to convert that over for the cable boxes just the same. 
+In before Trump.
+
+FAKE NEWS!
+As an alternative to ceiling mounted facing down, you can mount them in your basement facing up to the living area. 
+IF VW would actually bring over the short wheelbase version, I'd be looking at a Tiguan to replace my Jetta instead of a Mazda CX-5. 
+
+I find the currently available Tiguan way too close in size to the Atlas. They're just confusing the shit out of their buyers right now. 
+
+Small SUV's are the largest growth segment and they don't have anything to offer (except for the original tiguan which was a mess to begin with). 
+Thanks for the clarification/explanation!
+That's what I thought too but then does that mean it follows the lease terms? 3600 for 36 months?
+So will it always be 2400 regardless?
+Why is the money factor always divided by 2400?
+Wow. Never knew that little bit. 
+
+I believe teachers can get the same benefit and possibly include private loans to but that's set per school or district.
+Checkout kurzgesagt's video on universal basic income. There's a part where they explain exactly your friends scenario.
+
+https://youtu.be/kl39KHS07Xc
+Google has the stupidest and shittiest customer support team. I don't think there customer support department even knows that they're the customer support department.
+Damn you op. Going to make me get a switch when I don't need it!
+The AP's themselves I believe have RF Scan capabilities (granted devices will drop communication as the scan runs).
+
+The beauty of the 5Ghz spectrum is that because its so easily blocked by walls and such, that depending on your placement, its unlikely the AP's are even overlapping hence why they're both on the same channel.
+
+I find that the Ubiquiti's are actually pretty good with their auto selection of channels. 
+Shoutout to the guy who said that they would more than likely resolve this with software since camera hardware hasn't really changed much at all. 
+Comment tldr, no one bothers replacing batteries on old phones and then bitch that the batteries suck. 
+
+
+It's science people. The batteries wear out. Replace them! Plenty of guides and services galore.
+At first I thought it stupid of Vermont to not commercialize it but in retrospect kudos on them not passing this with profits as the only motivator.
+Have been highly considering a Volvo to be my next car.
+
+Intrigued by the XC60 a lot but gosh darnit the price is just a tad bit too high for me. (and by a tad bit i mean a lot of bits). 
+What was left of the other vehicle?
+Until this sub says the game is perfect I'm not putting the disc back in my console. I'm tired of being burned.
+How do we stop it from overgrowing?
+Wait, whats this about the UAP-AC-Lite then? 
+Wait really? Is there a way to tell the difference from the model or has it stayed UC-CK throughout? 
+Not sure why this wasn't caught earlier but then again I'm not experiencing this at all.
+
+Neither my personal network which is Ubiquiti throughout or my In-Laws which is a FiOS router with Ubiquiti AP's or my parents running of a FiOS router only have experienced this issue and thats with each residence having multiple Cast and Home devices. 
+I'm really hoping thats just shit software and not shitty recycled Moto RAZR cameras from 15 years ago hardware. 
+If Toyota is finally adopting CarPlay then hopefully this means everyone will. Last I recall they were the biggest manufacturer who blatantly refused to implement it. 
+This guy is obviously a spider trying to lure us defenseless humans in!
+Nice. How many did you have to run since there's a cap on panels supported per module.
+Ah I feel less panicked now. Thanks.
+Good point. For the time being is QoS even necessary at those speeds? Yes hardware exists but as you said you're looking at server/enterprise grade gear and is that necessary for a home Lab.
+Out of curiosity what are you personally seeing as a bottleneck on the pro4?
+I would have agreed with your pakedge statement if this was a few years back. Their products have gone downhill lately.
+Are you at least running the rhythm module on those for this setup lol.
+Fml I think I had a pair of those as a kid. Or it was a knockoff in the same case.
+Such a waste of potential revenue.
+How is this different than just playing the regular game? Whats the incentive in the mod versus the games normal mode? 
+You can try resolving in the conflict I'm network device tree view. Otherwise ignore it. It doesn't affect performance. True Blue is aware of it.
+Really plug the 3.5 into the psvr headset? Can't use the wireless dongle?
+I have the Platinum headset. How do I enabled it for VR?
+I'd want crash mode as a mobile game! Heck I think it would actually be decent with motion controls on a phone. 
+I hope the family sues that police department and all members involved into oblivion for failing to display any sort of basic intelligence. 
+I didn't listen to Dear Hunter until I saw them during the tour. I had ignored this subs recommendations for years. What a mistake. It's years of missing out on the Dear Hunter! They've supplanted Coheed as what gets played the most at home.
+Wait. So they did the same shit as the first game? I'm done.
+Just did a Ryzen Build. No regrets. Might have to do a Ryzen 2 build for myself. 
+For the handheld motion controls, yes. I agree that your own body could block the camera. But depending on the game you may not be using them.
+Stop with the misinformation. 
+
+You might be trying to point out the difference between multiple camera setups. 
+
+The psvr, although a single camera solution, solved this by having LED's on the back of the headset as well. 
+
+I'm not just making up my claim. I've played the game. I started the game thinking I could only face forward and use the controller to turn. When I got up and started turning around in person is when I had my "holy shit" moment for VR in general.
+
+Also the psvr camera is a dual lens for tracking.
+No, you can turn around fully with the headset on. It's up to you if you play turning with that or the controller.
+Yes you can turn around where you're standing. You can turn with the controller if you want as well in 30 degree increments.
+PS4 is not a sitting front facing experience only. Some titles might be, I can assure you Resident Evil 7 most definitely is not. 
+I just remembered I have this track for Rock band.
+Rented a 2017 Audi A4 this fall. It fast charged my pixel 2xl while running Android auto no problem.
+What is this news of no more cloud controller?
+Nothing can achieve Nexus 7 glory again.
+I knew there was a reason I envied you guys.
+Free insulation!
+What I don't understand is how are people disregarding the 1 year warranty. Once that warranty expires your device can turn into a leprechaun hell bent on taking over your living room and you can do fuck all about it. I agree its shitty Apple didn't notify people of this and that a battery swap could have saved them an unnecessary upgrade. 
+That's too easy. They'd just count the fines as losses and get a big fat tax refund. 
+System of a Down
+Good to know. I had stopped using them and preferred fast.com thinking the results from speedtest.net were being influenced.
+I thought they were bought out by the ISPs.
+Definitely trying this next year. I'll be a fiveonaire!
+If only we could regrow enamel.
+This is terrifying. The ordeal to get everything back in place assuming you even can is very real. Had op not been persistent and lucky on that last attempt this would have been a shit show. What's shittier is that TMobile doesn't care enough and doesn't understand the repercussions of it's poorly trained representatives when it comes to this matter (I'm a TMobile customer myself so I'm very worried now).
+
+I'm curious if had the worst case scenario occurred, could TMobile be held responsible? Just so that maybe they could better train their representatives.
+Push for a service manager and failing that reach out to corporate.
+I'll probably wait for the 4k Blu-ray release for this reason.
+Dolby vision is where it's at.
+Is this a game strictly to be enjoyed in her if you had the choice?
+Haha nice. Got it for Christmas. Wondering when my set will arrive.
+
+How's the quality of the print?
+How's it handling with the new awd?
+I only use PayPal with swappa because swappa has support agents that don't suck. Paypal is a complete shitshow and is just barely lower in my ranks than Amazon for seller support. 
+
+Some people will chalk it up to, "that's the cost of doing business" but fuck that. It's 2017. Almost all these times someone got scammed, account history shows the same repeat behavior but these platforms don't give 2 shits about the seller getting fucked.
+What's transparent mode?
+That'd be pretty cool to learn if Elon enjoyed the God of War games.
+They also have a trebuchet for destroying any wall that gets built. Just as trebuchets have been doing for thousands of years.
+Google has been doing this for awhile now. Sadly it also bites them in the ass because products get released as if no one who works at Google talks to one another.
+Just bought PUBG last night with my brother. I can see the appeal and like others am brimming with anticipation for AAA clones. 
+
+Heck, I won't be surprised if CoD and Battlefield try to implement their own versions as well. 
+That we needed to go to college. Fuck that. Half of us would be fine with trade schools and not incumbered by massive student loans as we hit the work force.
+The xl2 lasted longer. 
+
+I have to say the standby time on these is great! For once I don't have to worry that I'll go to grab my phone and it'll be dead from sitting in my bag.
+That sucks about the slower storage. Seems like that's always one feature Apple never skimps on regardless of the model/device.
+How study is that median versus normal ones?
+Definitely need to convince the wifey to cosplay as her.
+The attestation form is really an annoying step. Took 3 weeks to get one. Discover is way better at this and I'm not happy with Chase over these roadblocks.
+I thought Mazda said they were working on it already though.
+Wife and I had the xl2 and regular 2 for our honeymoon to Disney. I bought the usbC Anker battery pack thinking we'd need it. Not a single day did I plug in at the park and never ran into battery anxiety. Between Disney's shitty park app and hundreds of photos the phones were great!
+Pandas have some serious drinking problems.
+Why do you say that? Had Mazda stated so?
+Tenacious D.
+Is he really? Why?
+I'm not getting my cx-5 until this feature is official.
+Holy shit Captain Keywork! Still remember the show at the Norva where Claudio officially named him as such.
+This is the right way to do it. Even who framed Roger rabbit got that right.
+I'm also offended tax dollars were spent making it. I'd call the FCC a circus right now but that's offensive to Circuses.
+Why can't people just respect one another.
+What customer backlash though? What choices do we really have as consumers? Is everyone really going to just up and cancel their ISP connection? Good chance no. We're stuck. We're being drip fed just enough to keep us happy. 
+Yup. Part of the fault lies with Volkswagen who claimed the transmission had "lifetime" fluid. Deteriorated the poor solenoids. As much as I don't want to get rid of her I'm having to for fear of total failure.
+Automatic transmission. Shifting between 2nd and 3rd or from 3rd down to a stop it jerks around. Pretty sure its the solenoids. Sadly she's got 150k miles on her. Sucks because everything else drives like the day I got her. 
+I'm so happy with how well the M6 is aging. Now if only my transmission wasn't dying. 
+It scares me how much other riders either don't know this, or choose to ignore it. YOU ARE A VEHICLE ON THE ROAD! OBEY VEHICULAR TRAFFIC LAWS! YOU DO NOT GET TO PICK AND CHOOSE WHEN YOU'RE A VEHICLE AND WHEN YOU'RE A PEDESTRIAN! 
+Oh god, I can see it now. The FCC's is purposely being driven to be as useless as possible so that there won't be any pushback for when its disbanded and called a waste of taxpayers dollars. 
+I've got the LG SJ9 Atmos sound bar and although it doesn't have assistant built in, it's basically a Chromecast audio. Sounds and works great with all my Google homes throughout the house.
+Mmm. Really itching to get one and throwing on some meaty snow tires.
+
+Looks great!
+Kudos on him dancing. I'm still terrified cause I know I'll look stupid. Need to learn to not care.
+When at the mall, I would rip the hanging pricetags off of clothing. But not just yank them off. The part with the price was perforated so I'd fold the perforation a few times and then rip. I thought I was helping the employees out. Back then I thought everything perforated was supposed to be ripped off. If my mom spent too long in one section I'd clean it all out. Didn't realize there was no other price printed on the items.
+So with that it sounds like it's the ap. You don't have something configured in the controller limiting device throughput right?
+Any other wireless devices to test with? That would point you towards the ap or the pixel 2xl.
+WTF. I thought hitting the update button was supposed to fetch it.
+
+Google Store purchased Pixel 2XL on TMO. 
+Because it's easier to control the masses when we're worried about the end of the world.
+Honestly I blame all of you for the hype at launch. Although I do like the color of my white PS4 pro.
+Same thing here. I promptly sold the replacement on swappa as I stopped using the tablet really. I do miss it but I was finding myself going out of my way to use it.
+Is it available in 4k, Dolby vision, Dolby Atmos?
+I thought the check for update button was changed so that it actually will pull the update is it's available. Kind of like iOS.
+I have a video that has made some money for reasons unknown. Anytime YouTube touches their algorithms because of some public backlash it plummets to nothing. 
+
+I'm getting ready to upload more content but the volatility keeps pushing me away.
+Oh how I miss Tom Wheeler. I remember we were all terrified of him because of his background, but then he turned out to be awesome. A-shit Pie here is literally that though. 
+I'm sorry Mazda but I will not buy my planned cx-5 until Android auto support is official and properly implemented. 
+
+Makes damn sure the connecting port can both run Android auto/car play AND charge the device at the same time. 
+
+Audi A4 I rented did this perfectly.
+I gave out console themed cufflinks to my groomsmen at my wedding. They were the controllers for whatever console most influenced their gaming lifestyle.
+
+Would've definitely gotten a set of these. 
+If ISP's turn to shit, I'll definitely be setting up a WISP of my own. 
+The Dell has stupid throttling. Dell still doesn't understand how to keep laptops cool. They'd rather stuff hotter and hotter components in and then under clock them.
+Have mine on a 1070 running at 75hz. It's beautiful.
+
+Only annoyance is the mounting bracket.
+Helping you a little to help themselves a lot. I guess America really is made up of the rich.
+Be honest, you're a corporation aren't you.
+I don't get it. Are there any Americans these asshats actually represent?
+I'd rather this dog than "A-Shit Pi-le" anyday. 
+Still kind of irks me that they didn't at least try to make the phone a little smaller to show off the aspect ratio.
+Northern Jersey checking in. Our department is on the second floor of the building which shakes when heavy people walk by. We first mistook it for that but then realized it was the whole building. Definitely weird.
+
+Now just curious as to why it's happening.
+Trump sacking ShitPie would be the first productive thing he's done.
+Game reviewers need to just throw games that have MTX under the bus. 
+I agree with OP. The system being entirely Tesla should be able handshake with one another continuously to determine the most efficient means of charging. 
+
+Perhaps the car needs a "Green" charge mode whereby the car will recharge at a higher rate when PV is above a certain threshold. If PV output drops, the car should then reduce its demand so that its not charging at the same rate off the grid. 
+
+By being a "green" mode, it would be explained that it may take longer to recharge, but should do more of that charging off of PV generated power. 
+Keep in mind it only supports FAT32 formatting.
+Which engine do you have and do you find it to be enough? Almost all the reviews I've seen state this car would be perfect if it wasn't horribly underpowered. 
+The Black crush really needs to be addressed. Its embarrassing showing off videos with this phone now. 
+Everyone should order this guys stock and claim "the box was empty" when they received it. eBay/PayPal will side with the buyer and he'll reconsider doing it again in the future after the big loss. 
+Thank god! And really? That's why it sounded horrible? They were using the bottom speaker as a mic? 
+You could also just use the Pyng Smart Objects and create a separate page for your Nest Thermostat on your traditional CS system. 
+Dunkaroos. Can't even find them.
+Those are millennials? Fuck I'm ashamed of us.
+Which if the rumors that musk created it are true explains why he hasn't owned up to it. It's an environmental disaster.
+Go on....
+Won't work natively. Have to incorporate the nest in a regular processor and use pyng triggers and listens from there (not sure how well that would work though).
+That rat does not skip leg day.
+Still standard. When I use the displays built in apps for streaming it auto recognizes the appropriate modes in regards to standard, Cinema, game and so on.
+If you run into image or audio delay issues gaming be sure gaming mode is enabled when you do.
+
+Amazingly my TV auto detects it.
+Correct. Sony didn't build the OLED themselves (ironic since the first consumer OLED was from Sony years ago). 
+
+I love my display. Considering black friday just came and went and there were hundreds of deals for cheaper 4K HDR displays, not a single one can compare to the LG C7/ Sony A1E. They're just unbeatable in every category. 
+
+The only bad thing now is that whenever I watch something on any display other than the C7, I feel like I'm missing out on something. 
+Buy HDMI cables from monoprice or other competitively priced cables. You don't need fancy cables. It's a digital signal passing so either it works or doesn't. There is no in between where the cable reduces the image quality. 
+
+For burn in, just don't leave the TV always running with the same image showing. I just got the lg c7 oled and it has its own screen saver for this exactly. See if you have one too.
+
+As for calibration I can't help.
+I bought the PD model (over$100). Returning it as it's just too damn heavy and big and the battery on the pixel 2/xl is just too good.
+
+It does do rapid charging.
+The ladder boss in MGS3.
+A-Shit Pie really gives no fucks and lacks any spine. He's smirking 24/7 like a retarded school kid because he's thinking, "haha I win now".
+The only burden on you is the misfortune of having to bring it in once more. If you're that worried have them give you a loaner vehicle and be sure to stress the only reason you feel you need one is because you've already gone through a full diagnostic test and feel that it's a waste of time.
+
+Also, the dealership may just really want to run another round of diagnostics as they're not confident in the first one. They won't openly admit, "hey, we screwed up the last one". Even corporate could be pushing the extra set of testing on them. 
+
+It's up to you. Your car is still in warranty. Why not use every opportunity to have it taken care of? All this will only becomes more difficult if you wait and it expires.
+Give the car in and let them do what they have to. Be sure to personally keep track of all your service records.
+
+If they "fix" the issue and it keeps returning and becomes this horrible cycle then look into lemon laws. You can't do that though without giving them the opportunity to do their jobs.
+Man that game was great. I wish developers could re release those on mobile WITHOUT any in app purchases. Just a simple game you can enjoy.
+They want us stupid and in crippling debt. It's the modem slavery.
+So this is comparable to riding Kingda Ka at Six Flags, except whenever you want (without reckless disregard for others obviously).
+T-Mobile here, still no update.
+I felt like a brilliant criminal when I did that.
+it didnt officially support lte or hspa+ on T-Mobile even though it had the hardware.
+Camera was shit.
+Battery was shittier.
+
+But I still miss it and think it was beautiful.
+This was prior to me loading any sim in. I received the device yesterday morning and didn't use a sim until the evening.
+All the parts to Welcome Home. In Rock Band. 
+Scary I just googled this and all I had to do was scroll further on Reddit.
+
+2XL waiting here as well. Ironically, I went 12 hours without a SIM in the phone yesterday and it wouldn't pull the update then either. 
+Right? I heard a few songs prior and was like, "no thanks, that voice is too high". Then Rock Band came out and I fell in love. 
+Maybe this is the beginning of resource starvation?
+Don't forget what mortgage rates used to be like. Banks made tons of money there.
+What's stupider is that most cars these days integrate real well with your phone. The ticketed offense should be much larger if you were simply too ignorant to hookup Bluetooth, Android auto, Carplay, etc...
+I received my first one while I wait for my Panda later this month.
+
+At night at lower brightness I definitely see vertical banding on the OLED on darker screens. The screen seems to have a weird grain filter applied. At the same time though the device is a pleasure to use. I LOVED my Pixel XL and didn't think the 2 could make me go "wow, the OG Pixel's were slow" but boy was I wrong.
+
+I will say that over time the camera launch speed of the OG Pixel's has gotten stupidly slower and that was one of the bigger selling points. 
+
+Beyond the quality control issues, the actual build quality of the phone is better than the Pixel/PixelXL. Power and volume rocker buttons are no longer a worry. I went through 3 different PixelXL until I found one that didn't have broken buttons. 
+
+On a side note, the official Google Fabric cases are also REALLY nice and finally a case I think is worthy of its price tag (albeit if it was $10 cheaper I think people would REALLY pounce on them). 
+
+Manufacture Date of October 23rd, shipped the 25th. 
+If they had noise cancelling i would've gotten a pair. 
+Where in the store do you find these things? 
+I noticed lots of scrolling Issues on my OG Pixel XL with the 8.0 update. 
+Not going to lie, I wasn't expecting the Spanish Inquisition. 
+Correct. It will drop but not anything crazy. Only the really rough parts do I see 40fps but everyone sees that.
+
+If I really wanted to I could push graphical/cpu settings down to assure it doesn't happen.
+
+In OP's consideration he might really want to also look into cooling? Perhaps CPU is overheating and throttling. 
+I have a 4790 with a 1070 and can comfortably run the game at over 100fps with max settings. 16GB of ram and a few SSD's (windows on one, WoW on another).
+
+Really should review your graphical settings and addons. 
+I vote that we no longer discuss anything TSA related until they actually catch something that isn't a bottle of water or nail clippers.
+If only you could shame them and their employer... Then again they all don't give two shits.
+I'm regretting not going 256GB for my microSD for this very reason. Realizing I'm missing out on portable convenience. 
+WTF? I kept hearing about this issue but this is the first time seeing it. 
+
+At this point I firmly believe the engineer responsible for the 2XL's screen was a blind man. 
+This is the reason I'm NOT trading in my OG Pixel XL. I'll hold onto it a bit longer and sell on Swappa which has yet to let me down. 
+Hows she doing in the snow? 
+WTF was the source? Looked like a porno. If anything his splicing of himself into the video made it seem more normal. 
+Anyone who ever asks me why I don't get the then current Samsung flagship gets immediately pointed to any follow up reviews 2 weeks after release. The same bloat, all the time. 
+Now I'm curious about the performance of the Judge now that all this has hit the public. Perhaps he should be thoroughly reviewed for the coming months. 
+Just reach out to campus police. They'll have the answers you're looking for.
+Sucks that it consumes an extra input on the display. 
+
+Could go really crazy and get a video matrix switcher so you could take the output of the control unit back into the matrix and route that to the display. (aka only 1 input on the TV consumed). 
+So is there a launcher that hides navigation buttons and emulates the X's styling?
+Mecha-Godzilla's everywhere.
+It doesn't sound awful. That is downright unusable. Thankfully it sounds very much so like a codec issue. 
+Ahh when LW was godlike.
+They should let the players level up, to the max of the current expansion, and then give them the ability to start the "pre-expansion events" and then a few weeks later have the next expansion come out.
+
+It's like super gating!
+Night Shift makes it worse? That would suck because I love Night Shift!
+Isn't it the inclusion of the polarizer that is causing this now? 
+The simple truth of it is, the competition is offering a better phone and purchasing experience than what Google did for the same price. Any other business that does this would shortly find themselves out of said business. 
+When that movie came out i was not prepared to be crying in the first few minutes. And that was without any dialogue! Sure I can talk about it now but I know if I sit down and watch again I'll still shed tears.
+What baffles me is the number of uneducated people who don't realize it's not real.
+My Wife has had to used it 3 or 4 times. Even had to RMA the Nexus 5X she got from one of the replacements. Every time both parties are just fine and do an adequate job.
+
+I'll be keeping mine on my XL2. 
+My Wife has had to used it 3 or 4 times. Even had to RMA the Nexus 5X she got from one of the replacements. Every time both parties are just fine and do an adequate job.
+
+I'll be keeping mine on my XL2. 
+Why was everyone blonde? 
+Ignoring the stabilization, any video i've shot with the Pixel or Pixel 2 has way more artifacting. The only thing I could imagine is that the artifacting is actually the result of using the phones stabilization.
+
+Also, there's no rapid movement in these videos so it could just be that as well. 
+I'd say test it out. Seems like it covers all the use cases. Just keep in mind the if Mercury is set to be used as a Zoom room it locks out all the other features. It can be toggled but that's a reboot and config change.
+That has me worried as well. I'd go individual circular drums. Upgraded model with retractable drums.
+Thank you Nintendo for making a game I really enjoy!
+Blue tint to keep you from falling asleep at night!
+How come you never see dead people supporting the other way?
+Thank you for not only doing but recording this. Now I don't have to! 
+She took performing her job correctly to a new level. She never backed down and said, "fuck it, i'm not paid enough for this". Simply did the right thing. Many people of every workforce can learn a thing or two from her. 
+Through whatever decision or luck it was, good thing he's caught. Hopefully they'll get something out of him. 
+My towns Forest is covered in this stuff. Ford Motor Company used to dump their shit here.
+Especially in Android auto! That's when I'm guaranteed to have a long sot for burn in to occur.
+I wonder if quality control sent out the batch that failed by mistake. Would explain everyone's issues.
+What kind of an asshole does the test on the limited color edition model? 
+Of course this is a thing... I mean Ack Ack ACK!
+If Netflix HDR is supported on the Pixel 2 XL i'll be quite enamored. 
+I just hit 265 on my first character on my PS4.
+I really am tempted to get it again for PC but don't want to level up again either. Damn you Bungie/Activision/Blizzard!
+Actually I couldn't stand his reviews for the last few years back. All he did was just read off specs. Provided no additional insight. He's definitely taken that feedback and greatly improved his reviews. 
+Well shit that makes a lot more sense now. Oh to be a student these days. Or is technology just more of a distraction? 
+Wasn't sure if r/funny or r/WTF....
+Holy crap did they not compare the phone against the rest of the market and last years flagships? If this isn't a fringe case that is shit quality.
+
+I love LG for their OLED TV's but fuck they're sucking at phones. Great ideas implemented poorly every damn time. 
+
+I'm starting to think that in a month or two we'll get the "real" story behind this round of pixel development and how these issues only came to light too far into development and they just said, "fuck it, we'll do it live". 
+I thought GPS is also capable of great accuracy (probably not as good as Galileo) and is just limited to US government/military usage. 
+Maybe this is just Google's way of pushing people to get the Pixel Care plan or whatever they changed the name to. Just keep getting a replacement whenever it burns in. 
+I mean, whats the price difference between a maxed out Pixel 2 XL and the iPhone X? 
+I hate to say it but honestly, if you're in desperate need of a phone that just damn works? Go with any of the iPhone's. Or better yet, get your hands on a refurbed Pixel 1. 
+You mean why didn't they just follow through with the 3 models and let HTC have 2 models? Or was the LG made one obviously foreseen to fuck up and had a larger HTC made Pixel existed, would've crippled sales of LG's. 
+I'm definitely curious if iOS has any mitigation for burn-in? I trust Apple's quality control and know they wouldn't adopt OLED's if they didn't insure the screen for at least 2 years. 
+Shit I just checked and realized I have burn in of my Android Auto screen. Kind of stupid they still don't jostle the pixels like Samsung does for menus. 
+Townhouses East/West would've handed the tissue through the floor/wall. 
+5 days until I'm married. Priorities....
+Thickest walls in town houses was South. The rest were made of tissue paper. With that said, you could still here the louder ones.
+I first noticed it on the support side. Then sales. I had no idea they were bought out. Such a shame. The number of college kids they helped to build custom rigs will not go unremembered.
+Fiance did it from a Nexus 5x to Pixel 2 last night with no issues. 
+Well that's certainly unfortunate. I'm assuming this was the with the latest firmwares? I mean the latest reviews are showing the cards start to shine with next gen titles. 
+IF you don't mind me asking why did you get rid of the Vega? 
+I'm hoping what you're saying is true. I mean, without the ability to compare the two, does it really stand out such that you have ask yourself "gee I think something is wrong with my display?". 
+Could you imagine if Samsung released a naked version of their devices? People would probably even pay more to have it not have all their bloat. 
+Anyone ever find cufflinks with this logo? Need a set by next week for a groomsman.
+I may just pull the trigger on the CF791 and worst case end up with double ascensions by this time next year! 
+Can you imagine? We went from suffering using these apps as we looked up at what was possible on iOS only to have it reversed now. I mean I guess it was inevitable but awesome that it's happening finally.
+Apparently just like any of the other ultrawides out there its a battle to get one without issues.
+
+Then with AMD card's there was a flickering issue. Sure the AMD issue might not affect me but we'll see. Otherwise I think the monitor might have the best viewing experience from what I've seen. 
+Yeah I get the feeling the deep pockets part is going to keep me away.
+
+The refurbs are probably the direction I'll go. Just was worried considering how old the X34 and PG348Q are. 
+Holy crap the LEDs in the headpiece alone are insane. That's some good LED right there.
+Why didn't you test the waterproofing! I'm sure there Verizon store would've been fine with that. Lol
+
+Amazing review though. You put into words what I hate about all the other reviews out there and explained exactly what I'd be feeling from day to day usage.
+Hey Google! Lower the price of the new phones too please! You'll really crush the competition then!
+I'm starting to consider the guy might be an empty shell let alone a shill. Has anyone checked if he's just truly retarded?
+I don't get why people are doubting he's driving and taking the photo.
+
+It's very clear in reflection on the glasses thats what he's doing. 
+I had something similar happen. I was honest with Google support and because their system glitched they let me keep both devices. Conscience cleared.
+In regards to their short lifespans. Albeit short, I think everyone should have pet rats at some point in their life. Truly remarkable pets. 
+Remember when the Nexus 5 had that sweet soft but not plastic? Those were the days. 
+Try unchecking the option that says, "send modified files only" in the transfer window.
+I received this one as a gift from my Aunt. Sadly it was the display model in a store window and all the pieces were glued... Still is kept as 4 solid pieces to this day. 
+I agree that's probably a good base but leaving the high end to Tag and Movado isn't ideal. The Pixel phone line itself is considered high end as well. Tag and Movado can certainly continue to make AW devices but their prices are considerably higher than any SW out there. Granted TAG's latest system of upgrades does seem more reasonable. 
+Sorry but ideally I'd want the premium model to have Sapphire glass on the front and back. If you're replacing your regular watch with this it needs to survive the same.
+I wonder how long until we see porn filmed entirely by AI by this. 
+Well that's interesting of it really is better than a standard G3 and extender. Might have to consider these instead.
+I always joked with my parents to give me socks for the holidays. Can confirm it became a real request later on.
+Pretty sure mine still works. I just setup forwarding rules on the account and set them to delete the originals off the school server so that it doesn't waste their storage.
+I miss the G1 and its flip out keyboard. God that phone was brilliant. 
+Glad to hear they're at least engaging you on it.
+
+You have to realize it from their perspective too. If they were to accept and replace every callers display that said it cracked on its own, they'd be bankrupt. By pushing back on first response it filters through a good chunk of people. Knowing this, you need to provide clear thoughts and explanations as to why/how this failure wasn't a product of your misuse as much as it may seem that way. 
+
+I had a PSP replaced this same very way because it's screen cracked internally and there was not even a scratch on the body. Components heat up and cool down, if it wasn't assembled just right, anything could happen. 
+I'd say push back at support and insist there are no signs of physical abuse on the display. Explain calmly that the display is cracked internally and occurred on its own.
+Allo is still a shit delpoyment. Hangouts is a rollercoaster of emotions and functionality.
+
+I'm losing faith in Google's ability to have a functional 2017-era chat platform. 
+
+
+I'm just happy I got the secret ending on my first playthrough. While everyone was complaining I was all, "yup, that ties loose ends nicely". 
+I wonder if the squeeze will be as useless as Bixby. 
+Mind passing some details along here as well =D
+Can we get a Google play music copy?
+I've had these pancakes at airport lounges. They're surprisingly delicious.
+If the headphone jack really is gone I'm curious how the marketing team will sell that. Last year's snuff to Apple stood out. Will they respect Apple's "brave" choice or find a way to twist it still.
+Those videos are such a hit or miss for me. They're either god awful or absolutely (and questionably) perfect. 
+Exactly this. It's just going to take good marketing to sell it to us in the West. 
+Pretty sure by senior year everyone is in their pajamas 24/7 because fuck bothering to look good. 
+Why are these photos always taken with a potato? Or is the smell that strong that its just acts as a vegetable filter? 
+Are you kidding me? I go batshit crazy with the weight of a blanket. I just need that thin force-field of a sheet on me to keep monsters from getting at my feet. 
+I hope this video is proof enough of their stupidity and having all they licensed revoked.
+Really good point. There was no eccentricity to the film. There was flamboyance in a different sense. There was no grandeur to the castle. About the only part that was tolerable was her song in town. 
+
+They butchered her father's character and her own. 
+Exactly this! I loved the original animation. But this was just a cash grab and nothing else. This movie does not hold up on its own at all, heck the original doesn't either but this should NOT have gotten anywhere near the praise it did.
+
+Also, Emma's performance in it is crap. It's like she knew it was a cash grab and didn't bother trying either. 
+I just saw the charge on my CC the other day. Definitely took longer than expected. 
+Waiting for that to be available at the dealership to test drive the two and decide. 
+Are you saying this for when you're in the car or out of it?
+What is the savings exactly?
+At peak times I fear they would back up considerably worse.
+Yup. Sounds about right. 
+I thought the USG couldn't quite hit 1Gbps and therefor the USG-PRO4 is the better alternative for this. 
+
+I could be horribly mistaken though. 
+Good point. What is the issue everyones been running into? The battery dying? 
+Wait, I have a 6p from Google that I received at launch. Haven't used it since getting the pixel XL. What do I have to complain about to get another pixel XL as the replacement?
+That would be awesome if they introduced their own trade in program. Would entice a lot more people to join. But really I don't think they would. They'll probably just rely on the cellular providers to deal with customers and trade in/upgrades.
+No its not all 12 issues. It is just issues 7-12. However you get the regular comic store release copy, and a custom variant cover version of each that isn't available elsewhere. Also you get an enamel pin ;-)
+Seriously. They basically had two jobs and fucked up one of them big time. I'm not even worried about the ssn. Moreso about the other unique identifiers.
+Whoah, that blue looks really good. Can we get more shots? Thinking I'm going to go with that color.
+Your xps15 needed many an update to resolve that flicker. Just saying.
+Whoah that sounds like a big no no that att is doing. How is this still going on?
+This is what my employer does. It works well.
+Is the switch non blocking? Also where is the multicast stream originating from? Can the switch handle the bandwidth?
+Can't I just get an oled monitor?
+What happens if you try to stop the program manually yourself before attempting the transfer? Either via system info or a "stopprog" issued to the processor in text console.
+If you can set mrouter set it to forbidden for your uplink ports from your switch. Easy way to block the multicast from destroying the rest of your network.
+Wow never thought of it that way. Damn world manipulating me.
+What stops the airlines from subscribing and fixing these prices?
+Makes sense. That's what I thought about having the widest channels possible. Cuts down on range even more.
+802.11r/k attend implemented where yet? I though ios had it all along. Does that mean ubiquiti doesn't?
+If you have a completely clear 5Ghz spectrum, is it better to push the channel width as wide as possible? 
+Couldn't you also enable Band-Steering? 
+That's some cqc right there.
+When you run the speed test through the unifi controller on your USG, its CPU limited and can't utilize the hardware offload capabilities which is what will give you the gigabit throughput. 
+
+When you go through any device on your LAN, you're letting the USG utilize hardware-offload and achieve that throughput. 
+So I should not buy anymore G3 and wait on the micro?
+Why not let the town run the fiber. Let the town own the fiber. Then let competition fight over who gets access to the interconnects? 
+Have your kid walk over to campus police and inquire in person. They can also pickup the pass for you if needed.
+Falling asleep.
+Honestly its an industry that I question how on earth we ever did it by hand. 
+Exactly this. The cables should be failing way earlier than the ports.
+Rocket League Rocket League Rocket LEAGUE!!!!!!
+For some reason I get teary eyes when I get to the end of that song. It's just so damn beautiful.
+Ordered one so we'll see. 
+Yes, but it only lets you pick between 4 resolutions. 
+
+Output Resolutions: 4Kx2K@60Hz, 4Kx2K@30Hz,1080p@60Hz or 720p@60Hz
+
+T-Mobile. I switched to them from Verizon when the first Android phone launched. I've had to call customer service I think twice since then. I pay a fair price for the service I get. No sneakiness in the bill.
+You'd have to get a scaler that allows you to choose whether you want to maintain aspect ratio or not. In this case, you don't want it to maintain since you want to stretch it to fill the screen.
+I'm sorry to OP but I would love to see this actually get to court. First time I'd imagine a lawsuit for making someone shit too much.
+I don't understand how the KKK is allowed to exist today. I mean does Germany allow Nazis?
+Yes I remember doing that once long ago then realized it worked without it.
+You're good. It's how I've had my FiOS configured for years with all the networking gear I've gone through.
+Do it. My younger brother is doing just this. The freedom from those loans is absolutely worth it if your parents are on board.
+I've yet to unpack mine.... 6 years later.
+Holy crap that is sharp.
+I realize buffers will change based on application but is there an upload speed at which this becomes a non issue?
+What is buffer bloat and what does that do for a typical user?
+Damn. I got tears watching that.
+I doubt the TV would show up as a valid display if it wasn't already on the network. Most TV's don't broadcast like Chromecasts do.
+Did you restart the controller?
+Did you make the frame? If not where can I get one?
+It's not the end of the world anymore for me. If anything, more devices that remove it will push for better Wireless performance. Yes, legacy products will suffer but that's the sacrifice we've always known and seen.
+The FCC would function better if it employed literally no one than its current state.
+So now the bigger question is, did you recline? 
+Zoom support coming in September ;-)
+Don't be afraid to call the Customer Satisfaction line at Crestron. If you're getting nowhere with your current integrator, they'll help you get things settled or working with a new one. 
+Buzzwords!
+Also, see if you can supply your own modem/router instead of paying monthly for one from Comcast.
+
+With optimum I paid $80 for a modem from some site online instead of paying $10 +tax monthly for renting it from them. 
+I also have to say the speakers and vibration of the iPhone 7 are WAY better. But I still love my PixelXL. 
+Correct a router would be needed. 
+Tax counts as a modifier.
+
+Note, not implying thats what happened here. Just throwing it out there for people who calculate tip of the last/biggest number they see. 
+Have a site with 2x UAP-AC-PRO's and installing a UAP-AC-M-PRO for outdoor use. Shouldn't be a functional difference. 
+Kudos to Austin. 
+Not to mention the current donkey in charge of the FCC won't help us either as he's to busy getting cumblasted by all the ISP's. 
+Miss the HP? There's a loss?
+Which options did you go with the GT package? From my understanding you can only get creature comforts or the driving assist features but not both. 
+When you get a survey about their service be sure to accurately reflect your experience. That might open their eyes.
+I'm on mobile, what's the highest resolution available?
+We have trophies? 
+If you haven't already, go back, be stern about the issue and show them the paper trail of them failing to resolve the issue. Perhaps even look into lemon laws if the dealer repeatedly fails to fix the exact same issue. 
+
+Also, as others have mentioned, try engaging Mazda corporate of your territory direct. 
+Please, if something like this was happening next to me, I'd come and help out! 
+
+[Kind of like this](https://youtu.be/VfTgmUQxJ0Q).
+I was, but i guess I must've missed it. There were so many people and doodles everywhere. 
+Well didn't see a stage so that's probably part of the problem.
+Really? Like in front of the circular room? I swear I walked up to every surface and there was nothing.
+I couldn't even find how to pick a team!
+Just did this with our home. Everyone told us the sellers wouldn't credit us for a roof. We pushed and we got it. Now to actually get it done.
+This is 100% true! We just bought our house and have been pulling back what we need to spend after realizing we don't need almost any of it right now. Has relieved a lot of stress really.
+With how useless the FCC has become, I wish the EPA was still around and the FCC was defunded. 
+What do you mean Swappa won't support you?
+
+https://swappa.com/policies
+
+As per their own policies, "If an item is received not as described the buyer shall be entitled to a refund.".
+
+Unless the listing clearly stated that it was a Verizon edition and you didn't thoroughly read it, then you should be good to request a refund.
+
+I would post back onto your transactions comments and hit the checkbox for "I need Swappa Staff Help" and inform them of what has transpired.
+My battery died long ago so it just stares at me on my desk as a lifeless husk. 
+Well shit, that is sexy.
+
+Now if its the right size phone (aka smaller than the current XL but with more screen because of less bezels) then I'm all in. 
+Remember when Hulu was free and rarely had commercials? I barely do but it did exist! Then they introduced more commercials, then a paid tier to get rid of commercials. Then they added more commercials that still showed even if you paid to remove them. And now there's a super paid tier. Like WTF?
+Last year I bought crap I didn't need. This year after having just bought my first house, I look at all the items and question why on earth I ever thought I needed all this "junk".
+
+Listen to OP, put away the card and just stop checking. 
+Oh wow! I never even opened mine yet! 
+Where can one get a key such as this? Just bought our first house too and like the idea.
+Wow I took this set around the world with my as a child. Learned to build it without the instructions since I had left them behind.
+Are there cameras in the break room? Perhaps this was recorded on video?
+I will have to remember and hopefully never have to use the term, *Screeching Crotch-Fruit".
+
+I can imagine a comic by the oatmeal on it already.
+Oh if only I was a student now....
+In regards to the more significant discounts, aren't phone's these days way more expensive? So the subsidizing is the same but the amount we're responsible for has gone up?
+So really, to get the point across, we most resist the urge to watch it on whatever platform Fox has planned.
+As long as I get a memorial like Bender that says, "Remember Me!", I'm fine with death.
+As someone buying a house next week with their fiancé and a wedding in a few months this was great info! I feel exactly the same way so these are great ideas!
+I'm dumping so many hours into Zelda right now and really am missing an achievement system. Considering the "play in social environment" aspect of the Switch, it sucks not being able to compare progress against fellow players
+This is 100% confirmed to be the reason already with interviews from Sony.
+Sony really needs to stop being the douche of the group and allow for full cross platform play on this game. 
+
+I get the feeling Psyonix might end up being the greater guy here and come up with a single sign on method for gamers who play across multiple platforms so that ranks and unlocks carry over. 
+Key word "yet". 
+
+Edit: j/k you'll be fine. 
+My brother was the same way. He got the iPhone 7 and Apple watch series 2 and hasn't looked back.
+Haha I would LOVE the F-Pace but might end up with a BMW X1 then.
+
+Maybe I should just save my pennies and settle for the CX-5 doing what it does and get myself a separate road demon. 
+I'm sorry but the new CX-5 hits every nail on the head for millennials except performance. I'm personally holding out for the diesel engine in the US with the hopes it'll be a bit sportier.
+I meant moreso go swimming and capture underwater video! Also not having to worry when in a heavy downpour is nice.
+But what if it meant great waterproofing?
+I'm not on a beta and am noticing this. The delay from the fingerprint recognizing me to the display actually waking is 3 to 5 seconds.
+Was this a random used dealer or an actual brand dealership?
+
+If it was a brand dealership, contact HQ. Alert them to the fact that employees at said dealership knowingly drove your newly purchased vehicle in a fashion that goes directly against the manufacturers own guidelines for a break in period. 
+
+No one purchasing a high performance vehicle wants others recklessly driving their car around. That's poor behavior of the dealership and I'd be quite livid if I was in your shoes. 
+
+Considering it is the car you mentioned elsewhere, I'd imagine there are more advanced diagnostics you could have Chevy pull from the car as hard evidence of the driving that was done. 
+Exactly! Please Tesla do not even bother with this. I'm 100% married to Google Play Music and have no intention of even installing another app, let alone subscribe to a whole separate service. Just integrate with the leaders better and chalk it up as a win. 
+I doubt that axe is the only weapon.
+If there is stock online they absolutely should refund you the full amount and let you purchase again. This is not the burden for you the customer to bear. Inform support you've been patient but want to pursue that replacement route as they've mislead you throughout the 5 weeks on the timeframe.
+Local gamestop manager has the CoD Jeep. See it in the parking lot everyday. 
+Start a campaign fund where you raise money to buy products the day they launch. Do it for the greater good!
+or Ubiquiti!
+Just skimmed through the recording. Man the finale seemed amazing. 
+Stay away from the S80. Get the pixel or wait for the pixel 2.
+I'm a simple millennial. Give me the same concept of Pokemon as I grew up with. Let me seamlessly battle with friends either locally or through the web. That's it really.
+Try a different cable. Also try connecting that same Port to your monitor.
+Basic tech troubleshooting. I work in support and the most frustrating thing is finding out the caller tried nothing beyond calling support.
+There's a scaler built in which will set itself to the preferred edid out of the box. First make sure your soundbar supports passing through the 4k resolution. Then on your input side, be sure to pick one of the 4k edids provided or create your own. 
+
+As to the video blanking, since it seems frequent you can test pretty easily. One thing would be to try disabling the internal scaler of the dmps. Another would be to monitor the input info to see if the signal is dropping on the input side.
+Time to trade it in for the new one then before it loses anymore value!
+this is the one they just refreshed right? Now offered in an even more stealth model where the logo doesn't glow green? 
+
+Probably going to be my next work PC. 
+I had the same issue with my brothers JBL Charge 3. Turns out the JBL had several firmware updates. No issues since. 
+I'm really worried about the possible lack of a direct replacement with the Pixel 2. 
+The scaling isn't perfect? Sure you get more detail, but some have to argue why bother at that point? 
+Psyonix is the up and coming Naughty Dog of every platform available. Next they'll announce Rocket League on Android and iOS and have perfected mobile controls!
+The restrooms inside the track last year were for glamping only. They check for glamping bands. If it's the same as last year you probably won't get in.
+Or walk. It's a decent walk but doable.
+That gave reminds me of frieza.
+Oh he probably did, but we can't have him being guilty now. He's our "friend"..... 
+And how about the dickbag Erdogan? He was there, even if he didn't give the order, he could've recalled his goons but instead took pleasure in it all. 
+Also fuck commercials.
+TLDR: Fuck Verizon and their shady ways. 
+Actually, great point about the Other tent being right by main stage. Firefly definitely had that done correctly.
+I was moreso going off the overall dimensions and the paths available for getting from stage to stage. 
+About the only thing I like different is the temperature. 
+
+I found that 'Roo radiated more positivity, had better food selections and was laid out better.
+
+Love Firefly for not having to drive down so far and get like 90% the same experience. 
+Well as a whole Sony's been doing a lot better since the move. 
+
+I'd rather see the entire brand do well than just the PS segment (although PS now accounts for a majority of their revenue). 
+Saw it at the Short Hills Mall in NJ as well. Facepalmed pretty hard right in front. 
+Kaz didn't leave? He's the CEO of the entire corporation now.
+I just want it so I can play my PlayStation friends while on the go. Sorry but the Vita didn't live up to expectations (mine sits untouched for the last year).
+So 150+ counts of robbery?
+Make sure you have the same signal name on both input and feedback side of the logic symbol for the light level on the hardware definition.
+Omg Gouda boys was a savior!
+Holy shit. Just did this with Metalocalypse on Hulu instead.
+What did you park on?
+I'm curious how they're going to be supporting all the Square Payments of the various vendors unless they're providing a wired network for vendors as well. Mobile payment methods at festivals is always a nightmare. 
+People, keep your tents empty and put the rest in the car out of sight. The plainer your tent seems, the less likely you'll come back to disappointment. 
+To stress this a bit further. Do not forget to fold all the excess UNDER your tent. If you leave the excess out and it rains, you just created an access channel for the water to get sandwiched between the tarp and the bottom of your tent. 
+Call again and request to speak to a supervisor. Don't back down on this. 
+I wonder if there are dashcams that can be hooked up inside cars that don't drain the car battery. Would be a nice way of rounding up these assholes. 
+
+Would be even better to then submit it to a wall of shame giant screen in the festival grounds! 
+How is that guy surviving the heat with a chicken mask on??? Also, I love it!
+Such positivity! I don't even want anything, just more of the radiating awesomeness!
+Keep forgetting how bad last year was for attendance. Glad to know its back up there again. 
+Prioritizing one handed use while providing a bigger display should be their goal.
+Care to explain your setup? Would love to get back in too mining. Started early with ltc and stupidly deleted my wallet when I upgraded the computer. Never went back because of that.
+It's a shame they didn't roll the ability to receive the drops onto lfr backwards. Like start with the final boss of a raid and each week make it so another boss has a chance to drop it.
+I too have no idea what it's worth and wouldn't want to rob you of any value. We're about to buy our first home and I'd love to have our favorite albums playing on the record player as it all begins.
+Oh wow. Which one and are you willing to part ways with it?
+
+Edit: After further investigation I now realize there was just one box set with the vinyls. Still do you want to help a fellow out?
+I've got the CD box set as well. Got it from a fellow redditor last year.
+
+Now we want the vinyls.
+Oh wow this brings up a great point. If I take a video on my Pixel, use Instagram to load it, and back up my Instagram folder, does that count as a Pixel video or not?
+Noooo! I had a blast running around the beercade last year! I left KOL way early and decided to check it out. Then found out they had Elysian on tap! I don't remember the rest of the night but I do know I beat several games.
+No problem. The hunt continues. Best of luck to you though!
+Happen to have any Afterman ones? Would love to surprise my special someone with them for our special day.
+Rogue Legacy.
+It's still too far out to be certain. What you're seeing posted is a crapshoot. 
+
+If you're honestly worried, just be prepared. Have rain boots/mud boots if you want, and a means of keeping your tent dry from above and below (aka lay a tarp underneath the tent). 
+Dear Fox. I won't be paying for yet another platform and I know damn well you'll shove it full of ads too. Best if you just stay content with earnings from Netflix.
+The hours I spent in a LAN Cafe entombed with smoke from everyone else's cigarettes probably did shorten my lifespan. Totally worth it for all the memories of counter strike and StarCraft with friends.
+BRB, hitting up college campus's for monitors. 
+So what happens with support for Google Play Services and such with this device? Is Andy Rubin keeping this a member of the Google Android consortium? 
+Works great at removing tree sap of your windows!
+If anything it shows that even the evil are against drumpf's choice here.
+Go on and enjoy the world knowing you've made millions smile!
+Had TMobile and signal was fine in the camp ground. Shit show in the festival.
+I thought curved for single user (aka monitor) was ok. It's curved TV's that are dumb because there's only one good spot to view from.
+Gotta love the the tri-state area around NY. Rents outrageous and so is home ownership.
+Oh look I got the official answer! ["Sphere Eye Tank"!](http://store.coheedandcambria.com/apparel-1/gaibsiv/sphere-eye-tank-5.html)
+Tomato tomato!
+What age/generation are you thinking a millennial is? 
+Whoever came up with the new set should be ashamed of themselves. If they're trying to cash in on the emoji's millennials grew up with, don't. They sucked. 
+People probably picked up the phones for little to nothing up front. Listed them for sale and paid the minimal monthly payment until it sold. Then once sold stopped paying. Carriers probably gave them a few months courtesy before bricking the devices.
+Well, in all honesty who would they then complain to? 
+I'm loving these responses so far. This is probably the most thought out. 
+
+I'm just relieved that it wasn't an immediately obvious symbol that I got and would've disliked. 
+I feel like I just read my alter ego's review. Alter ego with almost identical tastes and pickiness. Great review!
+Probably because of potato camera. 
+I had a similar issue with a friend's old core 2 duo. Turns out bent pins that worked previously got aggravated when he redid his cooling. Accidentally snapped one pin while attempting to fix it but got the remaining ones in place. Finally booted fine after that.
+I'll do that, but cheat by putting it through a wash to shrink it ;-)
+They had both. Grabbed the men's large. Although after throwing it on today realizing I should have probably gotten the medium. Time to get swole! 
+Haha I know that much because I picked it up last night. Just had no idea what the logo meant or if it was ever used previously.
+Because the grass is always greener? 
+Nice! I gave up a drumstick I had my hand on to the guy who sat on my hand. Realized I like my hand more. 
+Explains why I love my a6000 over my D80, which I still am holding onto for god knows what reason. 
+My LP2's and M100's are both starting to do this. The rest of them are built like tanks though.
+
+I'd reach out to their customer support and see what they can do. They've never let me down. 
+I actually only ever used mine sleeping. Everything is outdoors/open-air and doesn't get nearly as loud as an indoor enclosed venue.
+
+Still, better to be safe than sorry. You can pickup a pack of the cheap foam stuff from most any drug store or get better ones online. My latest ones were the etymotics and they're pretty damn comfortable. 
+Just a few remarks about the guitar, what he got after it went missing and so on. 
+I've had my Pixel since launch. I'm not calling it old but it isn't the perfect phone for me still. 
+Damn you're fast lol.
+Pretty sure they replace him with his twin brother no one knew existed.
+Which kind of sucks. I have one fire TV and multiple Chromecasts. I'd certainly use my prime video subscription more frequently if it was more accessible.
+Damn, I want a onesie now. 
+Seriously. I'm already done purchasing anything for this phone as I wait for the Pixel 2. If this was available a few months ago, I can already imagine several times where I would've wanted it and purchased one. 
+I believe there's a center on the second and third floors. 
+That's awesome! I always thought about doing this with my now fiance but figured I'd have wanted to work with the band to get on stage for it.
+The band has only grown in popularity. Considering most of the vinyls are limited runs, demand has increased and supply hasn't. Therefore costs go up. Also scalpers.
+It's tight on the first floor especially on front of the stage.
+If you roll up in a minivan that is 1 body and the rest all alcohol, you'll PROBABLY get stopped.
+If you're bringing a ton of alcohol for you and your group, thats fine. Just no glass. 
+That's awesome!!!! TY!
+I'm trying to figure out how to do that with my hands and am looking retarded doing so.
+Love the framing! 
+Went to the first ny show and stupidly said I don't need merch. Mind you they still had vinyls in stock. Going with a bag this time around.
+I like my bear motion case.
+I miss my m54. Also the rest of the car.
+Isn't this why you should replace your surge protectors after a hit? Kind of like don't use a helmet after it's taken a hit already?
+I love my blobs too! They're different and unique which is what I thought Android markets as.
+Especially spiders!
+Our only solution is to out-bribe the damn ISP's. 
+More manufacturers need to adopt this. Give me a docking station with a slot for a GPU where I can pick what I need.
+
+We move towards lighter, less power hungry mobile devices that replace traditional desktops when docked! 
+I'm surprised they didn't just arrest EVERYONE and sort it later. This shit has us looking like we're still bending over for Erdogan. 
+I'm actually curious if the footage was stabilized in post via Google Photos or if it was recorded on a Google Pixel. 
+Can protesters carry Riot Shields to protect themselves? Cause that would be a nice defensive weapon. 
+Don't forget that he's taking it simultaneously in the ass by Putin. 
+Because Turkey is an "Ally".
+
+I think its more like Putin, Erdogan and a certain official in the US are just in a giant circle jerk. Perhaps a Triple Dutch Rudder? 
+Fuck Erdogan and every one of his supporters. Enough said. 
+Anytime Kazakhstan is in the news, 1010 WINS (CBS) always plays this in the background without fail.
+You're brave for wanting to go into just those. 
+Originally bought a mirrorless for this. Then my Google pixel became what I always had on me. 
+Get this man an office and a secretary!
+Lucky you. I'd be so happy to have someone offer them to me at cost. 
+
+I just want them for the sheer joy of hearing those albums on vinyl. 
+Ugh how do I get my hands on Afterman ones??? My favorite albums.
+First time I heard the dubbed version. It's not horrible, but as someone who watched it first with subs, I prefer the original voice actors.
+Only -35k? This guys rich! 
+How did it change your life?
+Oh wow there it is! Thank you!
+Awesome? Mind telling us how you squanched that?
+So how do we stop all these backwards steps? Is there nothing to be done? 
+Right. And when you select that it takes you to your gallery but doesn't let you select from the burst images.
+How? When I go to Google Photos and select the assistant, it doesn't show me the collection of burst photos. Instead it shows that to me as a single photo which doesn't allow an animation to be created. 
+You argue that we should pursue this under anti-trust litigation because if it happened it would be a great win and a more concrete one at that. If that's the case, why hasn't it happened yet? 
+
+Citizens have been crying afoul for monopolized territories for years now with no change. Why should we go back to believing this would change? 
+and if Google has information regarding your "work" it'll provide you with your commute status as well. 
+
+Aka, "Good Morning /u/Front_Page_Quality. The weather today is partly cloudy with a high of 58. Your commute to work is approximately 25 minutes. Taking the route across the generic named bridge is your fastest option." From that point it switches over to podcasts for news. 
+What's infuriating is that there's nothing that indicates how many photos is required for a gif/animation versus making a collage. 
+
+I wish there was some sort of popup indicator to let me know that i've taken enough shots and that a gif was going to be generated.
+
+Sadly this is unlikely as the gif creation is a product of Google Photos and NOT the Google Camera itself. 
+Per [WikiPedia,](https://en.wikipedia.org/wiki/Millennials)
+
+> "There are no precise dates for when this cohort starts or ends; demographers and researchers typically use the early 1980s as starting birth years and the mid-1990s to early 2000s as ending birth years."
+
+Welcome to the Babysitting club!
+LMAO at the millenial babysitters. 
+Did you bill them for the plumber?
+Or you know, don't flush them?
+How was the crowd/mosh on that side? I started right in front of Claudio about 5 deep and my group couldn't take it anymore halfway through ten speed. 
+Good there be anymore obstructive ads on that page? Couldn't even make it to #1 on the list before the page redirected...
+Is this a thing? Is this real? Holy shit I'd love to stay up all night dancing around a giant Rick. 
+It's even in the Google home commercial, "ok Google, play my morning playlist".
+I had no idea they didn't have it already. I feel like every manufacturer has it now.
+Ok fuck that state. Never visiting there. 
+Yup its a bummer. But if you think about it logistically it makes sense. If they did that for every album, then everyone attending would be a free Gold pass. 
+
+I just wish they offered more free lifetime passes than just the one. 
+Prices should start to trickle down as the initial rush dies down. I expect it will go back up again. 
+Sadly no. as /u/Robloya22 mentioned, it was only for that tour. 
+
+I definitely fell for the same misconception last fall. 
+
+I believe the only thing that gets you lifetime access no questions asked was the golden ticket hidden in the Deluxe versions of TCBTS. 
+Is Dear Hunter the only opener? 
+Just got both of mine delivered with no email confirmations prior.
+Hei hei gets me laughing hysterically with anything he does on screen.
+Oh absolutely not. I can't even stand people with their phones out recording nonstop. If I decide to take a photo, I hold my phone to my chest so I'm blocking no one. 
+*~~coughs~~* *pukes* ***"bullshit!"***
+Especially on a crowded plane. No one wants to be there. Why make things more stressful? If there's ever a position that should excel at de-escalation, second to hostage negotiations, it's this. 
+Literally in the process of buying a home now. This is basically my life. 
+So basically they should have released an updated Hangouts.
+I always wonder what it's like for the people at the barricade for that initial rush. I always expect to see people sliding up and over like when you try to catch a wet bar of soap.
+I'm going to give this round to Dell and their XPS13. 
+How does the judge not look past her bullshit and just tell her to shut the fuck up and literally throw the gavel at her?
+Damn. And I thought I got screwed the most at $120.
+How is this not a permanent game mode? or at the least let me host local/LAN play games with this as an option! 
+So I still have 2 of these. Ones never been opened. Is there a premium for a Vita TV with low firmware?
+Have a Galant glass behemoth now and hate wobbling. How's this with wobbling?
+That was some intense rain. Also oo a Tesla.
+I too was waiting for the 29th. Thank goodness I got the email that went out.
+Whelp. 2 in. Hopefully these orders don't get cancelled and I can surprise the fiance. 
+Ughhh now we're getting a new page telling us to fuck off.
+
+annd oo look, spinning wheels of checkout death. 
+I'm logged into my account so its showing up no matter what. Guest account checkout it is!
+LMAO, mine somehow has 3 copies in my cart and anytime i try to update the count i lose connection. 
+Shh! Trying on other devices is MY idea... 
+> EDIT2: Coheed's next album title confirmed "502 Gateway Time-Out"
+
+
+I actually really like it. Good luck getting a copy though. 
+That's it. I've been holding in this shit for too long now. BRB, taking a dump. Hopefully servers are normalized by then. 
+
+Update: I took my shit and servers are in a worse condition than before. 
+Whoops I missed that part. Sorry. 
+Premiere pro let's you create the timelapse. From there edit the video not the stills.
+I've been in that same situation and asked the flight attendant. They said they could not stop me from using the facilities but recommended for safety reasons that I only use them if it's an emergency. I held it until we took off and started to level out. Did not wait for the seatbelt sign or announcement from the crew.
+So it'll show up in the US about ten years after the European debut right?
+Anyone have links for batteries?
+I'm tired of this useless prick fucking shit up. Yes Ajit Pai, I'm talking about you. You're a scumbag. You don't even try to hide it. You suck at your job and life. 
+
+I'm curious to know who his isp is and how many choices he gets in his area. 
+"hey /u/metarugia, do you mind if we sleep in your bed?" 
+
+I was so damn naive in college.
+They make different models. The cheapest consumer one is not waterproof. If you wanted to invest in your new pop up the commercial ones cost a bit more but are waterproof.
+
+We personally did a tent (screw bugs) and the ez-up on top with no walls. It helped to keep the tent from receiving direct sunlight.
+So do they not realize it's all on video?
+Get a PC with a dual NIC. Introduce your own router that has its WAN connection fed off your secondary NIC. Then bridge both network adapters on your PC. 
+Well that sucks. Dell needs to stop mucking about then and really just add proper support for external gpu enclosures.
+What's wrong with the tb16? I personally went through 8 months of hell with the tb15 and the tb16 has no issues for me.
+Kudos on actually opening them. Looks like you're not afraid to use the stuff you enjoy. Not saying anything wrong with saving them but I rarely see collections where everything is open and used.
+How about the one that goes live next week? The "Limited Edition" which I believe is solid red and white. Anyone have any info on the pressings of that variant?
+I too would love to buy one from a fan instead of some flipper on eBay. 
+4 hours at Princeton Record Exchange. No luck.
+Got to the selection around 12 and they were all gone. No idea how many they had to begin with. 
+
+Figured of all the stores in NJ they'd have tons of stock. 
+Is there a special edition to order off Amazon or just the regular old one? 
+This is one of those games that if I were to ever upgrade my TV and surround setup that I would go back and play and pretty damn certain it would be a brand new experience. 
+So new a7 or price drops for older gear please? Looking to upgrade from my a6000.
+Learn to become the mechanism of these automata.
+Did the car in front miss the last turn entirely?
+Can't stress this one enough. Kill the power immediately! And don't test until at least letting it sit idle overnight. Better to play it safe.
+Are they selling online on eBay and such for much higher? 
+The cameras will probably just fine during the day but come out like crap at night.
+
+Any reason you're going for them? Smartphones do work well and you probably already will have it on you. 
+
+Now if you told me you were doing instant print cameras that would be a different story. 
+You mean I've been getting crap XP this whole time? 
+I prefer closed toe, so went with a pair of Sanuk's.
+
+Year before I did my converse and man what a difference the Sanuk's made. 
+So the news source was the Canon rumors website? 
+This is why I love USB Type-C and Thunderbolt 3.
+
+I have the same configuration except with 3 monitors at work with my Dell Latitude 5510 (XPS15 for business). 
+
+Just wish mine supported external GPU enclosures like yours. 
+Navigate randomly around the networked drives. School used to use social security numbers as account passwords. Found the plain text file with every students info just nested deep into some folders. 
+
+Name, address, dob and social security number. All because the folder was named M3 and I thought it was referring to the car.
+
+Sadly did let them know about it. Figured if I could find it, someone else could too and my own info was in the list.
+How can we punish and deter such behavior? Only thing I can think of is immediate public execution. Immediate because fuck letting the perpetrator live longer. Public so that everyone knows what happened and why it's happening.
+If she's a starving student with student loans I highly doubt her parents aren't cosigner's. The judge should be making your payments the higher value since if she's unable to pay her student loans her cosigner's become responsible. In this case I'd imagine it's her parents who seem to have the funds.
+Time for a live stream of your front porch! Although that might in time draw more crowds.
+Anyone have any for Android?
+If only these venues realized I would actually PAY to have them hold the item for me. 
+
+I do VIP so I can be right up front, but also so I can get the merch I want. So far, enjoying the show and ignoring the merch wins out at the moment, but when I get back home I slowly but inevitably start missing out on the merch. 
+Pokemon and Rocket League are all I would need to continue carrying the Switch around in my work bag. 
+Ok that makes more sense. How do you guys store the vinyls during the show? This is the part that baffles me why they don't offer coat checks for merch.
+Yeah I think the greatest accomplishment here is achieving Sylvanas midriff. I'm curious how long that took. Diet? Exercise? Both? Or as you said really damn lucky at the genetic lottery? 
+>we bought all 20 records before the gold was even let in.
+
+Soooo you were platinum and singlehandedly bought 20 records? Or all the platinum ticketholders bought all the vinyls in stock? 
+
+I wonder if split screen will only work when docked.
+So this is moreso an effect that can be applied to videos. Whether they were recorded with stabilization in the first place?
+Step 1: Can you do a crunch/situp? 
+
+Step 2: You're fucked...
+Pretty sure Futurama's episode with Seymour is sadder.
+That just sucks. I mean, you're even showing them "I made you more money! MORE!!!". I didn't think I'd ever read about someone complaining about that. 
+Holy shit that is a stupid manager. How, just how are they actually "the manager"? 
+"Dear customers, we've recently identified an issue with our billing system. We have unfortunately not been charging you correctly. Don't worry, you'll see the new charges on next months statement, with interest. No, we're not crediting your account, you owe us.... more."
+I'd personally get a wall mount for the monitors and then run their power and video through the wall. That alone would give the setup a cleaner look. If you don't want Wireless peripherals there's no escaping those cables but you can route them more cleanly.
+
+As for the towers themselves, do they need to be on the desk? Can you hide them? How frequently do you need to access anything besides the power button? If you need USB access then perhaps a single USB extender? 
+> "If I had not checked they wouldn't have done it."
+
+Should be in the definition for "Verizon" in the dictionary. 
+Actually I ended up doing just that too and I was in vendor camping. If you're a light sleeper and want to do everything to ensure that you can rest of you decide to then this is a good idea.
+Just run around asking if people have seen your Morty. 
+Everyone has different levels of hearing. I find that for myself, if I don't use them, I can only really hear the loudest of the sounds being played. Just an assault of air waves on my ears really.
+
+With earplugs though (and good ones at that), you're just lowering the volume. I find that I can pick out more details and enjoy the music a LOT more. The fact that I'm not deaf for the next 12-24 hours is just a bonus. 
+
+Keep in mind though 'roo is outdoors so the loudness isn't really there unless you are up front. 
+Blizzard should work with eBay to buy up all these listings and then cancel payment and invalidate the tickets for breach of contract.
+Can't you take a different airline and send Delta the bill?
+Well damn as an alum I would've enjoyed that show. 
+Me too! Except for the scratch I put on it. Contemplating filing a claim on my accidental coverage. Or perhaps I'll wait for the Pixel 2 to come out and do it right then. 
+No desktop app yet? Don't care about allo. 
+For me its how did I survive with so little sleep in college? 
+When you wipe and there's nothing there. Efficient defecation! 
+So when does the US get this? 
+Don't go sullying pumpkins like that. They took no part in this.
+Just reading that quantity of production is shiver inducing. In a good way.
+Damn. I'm wanting all of the above. Brother got the Apple watch 2 and although it's not the best at any one category it does all of them well. Is there not an AW alternative?
+So, is this actually a good watch or not?
+You win some you lose some. This was the first time I hit check for update and it actually came back with one. Sadly I forgot to go play the lottery.
+May the best Link win.
+Chiming in here. Also normal and its docked probably 10 hours a day M-F. 
+You spelled Coheed wrong in the bottom right.
+Yes but be sure to mention this was overheating and melted. Most companies have adopted policies to treat hazard RMAs with extra care.
+Ummm couldn't they already triangulate your position off their own cell towers before? I feel like this just makes a call to the OS for a location update that's probably a bit more accurate.
+Do you go to the gym? That's the only place I've seen them congregate.
+Probably ran out of gas. Lord knows how expensive it is to fill up there. /s
+I mean, Kojima did a great job with the Fox Engine. I don't think I encountered any stutters or loss in quality throughout my entire play-through of MGS5. 
+
+Now, that was a huge budget game so OP's point still holds true to the common developer but it doesn't mean it can't be done. 
+Thank you. Ordered 2 sets right now. 
+Sony's support is definitely abysmal. The products are great, but God help you if you have to call support.
+Love my fiance to death but she won't wear ear plugs. Says it messes with the sound. I can't go back to not wearing them.
+
+Anyone have any recommendations on any that don't butcher the sound itself?
+My bear motion case has been doing just fine.
+900 korok seeds???? If Nintendo had trophies or achievements then maybe I'd try. You sir have more stamina than I. I applaud you.
+If any of these 265 dickbags can provide me with a list of 10 actual citizens who WANTED this, I will eat my shoe. 
+Damn. I liked Vanessa VanCleef riding the Turtle mount. 
+People need to adopt this. If it's important they'll leave a voicemail. If it's friends and family, they have other means of contacting me too. 
+I would love if the asshats who voted this through could actually provide a single page of names of actual real people who they represent that wanted this. 
+
+Can't think of anyone except the actual ISP's that this benefits. 
+YES YES YES YES YES YES YES YES YES YES YES YES!!!!
+
+By the way I typed those out. 
+
+
+> The scam is convincing women no other diamond will do but a Tiffany. 
+
+You fail to understand the concept behind marketing it seems. The above statement could be applied to any product sold ever. 
+Ooooo I thought there was an actual Casino tent haha. 
+Umm. Never heard of elf tower, hush, and the homecoming.
+
+So based on that I'd have to say Random Reality Shifts.
+Casino??? Did 2016 not have this?
+Can they pack my lunches too?
+Higher resolution and more colors. 
+Yeah just noticed mine is missing and I've only been watching subbed. 
+Just throwing this out there the newer Fenix 5 has updated screens.
+Soooo more bloat? Sorry I've become so jaded and burned by them.
+I still have an extra unopened copy of mgsv collector edition. Originally was going to sell, then figured I could use another arm figurine. Now I can't part with it cause that gave really did your everything together for me.
+I feel like this is the logical solution. They may add cost but to increase my screen real estate significantly? And for outdoor videography? Yes please.
+I switched to a regular watch and Fitbit. The Fitbit does a few things but does them well. 
+I was worried I missed a quest or something somewhere cause I didn't see anything beyond that. Glad to know I'm not the only one wondering how I can continue to serve our Banshee Queen. 
+Waterproofing? I want what the Apple watch 2 offers!
+Haha yeah. For portability the K7XX and my Schitt stack don't really work well. 
+
+Heck I still used the Astros mixamp with my M100's so that wasn't all too portable either.
+Have both, audio quality on the m100's just makes the Astros sound cheap.
+
+The Astros do have a better stage though as I'd consider them slightly more open. 
+
+All in all both pale in comparison to my AKG K7XX's. Get superb quality and incredible staging to really tell what's happening in games.
+This is the bigger truth here. It's just a good crowd overall.
+So really to protect myself, I should create my own router to have that connect to a non US based VPN so that all my traffic goes through that? 
+So how would a VPN help me? Especially if it's US based?
+Don't forget the billboards to advertise on!
+Don't be silly now. I wouldn't be surprised if that's illegal.
+How do you hold onto the record during the show????
+Does Nintendo not have trophies or achievements?
+Like holy crap what an amazing show that would've been to attend. 
+I'd recommend getting a USB3.0 card reader. Use it for all my camera transfer needs now because the speeds are ludicrously faster.
+So yeah there's no bezels, but what about grip rejection? I mean, is the software up there in regards to ignoring wrongful presses? We're chasing slim bezels like we did thinner phones and for what? I hope it does well but I'm not so sure it'll work in practice.
+ND is like the Pixar of a few years back.
+Doesn't insurance offer an equivalent replacement vehicle as well?
+The other?
+Me too! Except I scratched the screen with a pretty deep scratch. I'll wait a year before I use an accidental damage claim on it.
+Just don't go. It's not worth the risk. That's like boarding a plane that's on fire, or a boat that's capsized already.
+Right? I didn't even second guess. Only after buying did I stop to even re read what I just bought.
+Is it controllable?
+I feel the same way. The only time I ever tried to do something about it was when I briefly had a Samsung S6. They have this neat tonal test they do for each ear and then eq your headphone output accordingly. That was the only time I stopped feeling that issue. Alas the rest of the Samsung bloat pushed me back to Nexus.
+I found out a coworker knew my Google account password.
+
+Not that they'd do anything malicious but it was an oh shit moment. Two factor authentication all the time for me now.
+Sadly I have yet to use these. I switch between the joycons on the controller or at a desk too frequently to bother using these. 
+PreSale for VIP is live.
+
+59.50+ fees for Gold
+119.50+ fees for Platinum.
+
+Platinum was still available (fiance and I decided to leave it out there for others to nab). 
+tenspeed
+So if I'm reading that correctly that means in store only? 
+Do the sound absorption pads help? 
+What do you mean by dead ghosts of others?
+Having just finished (and I'm totally satisfied with the length of the campaign), I too wish there was more. Having paid only $20 for the game made it absolutely worth the time. 
+
+I am absolutely terrified of the thought of playing on the harder difficulties.
+Well shit.
+Whoah what? Why did they do that? 
+If you use smugmug for hosting they offer unlimited storage as well in their "vault". The irony is that I still haven't set it up and I've had a drive failure in my NAS once already.
+Just a heads up. I complained through chat and was offered $5 and a month of prime. That wasn't enough. I then called and the first rep offered me %15 off ($60). Still not good enough. Had it escalated to their supervisor who questioned why $60 wasn't enough. I explained that Amazon fucked this up big time with the lies and no communication. She offered a $100. I explained one at a time that Amazon failed to deliver on a Prime benefit, they did not deliver the item to me as thrice promised, had a hold on my card that they couldn't cancel, no estimate as to when I would get the product and so on. She offered $150 at that point. I accepted. I knew something was up Friday and would've appreciated the acknowledgement. I went to my local Best Buy and picked up a copy there. I intend on returning the Amazon copy when it finally is delivered. Let Amazon sort it's distribution issues on its own without screwing over the customer.
+Yeah, $5 was the offer I received too. I'm sorry but this is a huge slap in the face. Regardless of what happened on the distribution side, Amazon fucked over ITS customers so they should be making right by us. 
+
+The year is 2017. Logistics isn't hard!
+The lack of information fucked over people who could've gone out earlier in the day to brick-and-mortar stores that had stock. Because of Amazon's lies and re-assuring customers they'd receive their units, a lot of us didn't and here we are burned by it. 
+I canceled my Target pre-order because I "trusted" Amazon more. Guess who I don't "trust" anymore?
+
+Prime member since 2004. 
+The food at the hub's tends to be better than what is in the festival. Festival food serves its purpose. You'll be too busy having a good time to really let it bother you.
+I'm still going to wait till 2 weeks after they're released to see if the Samsung bloat returns.
+Cases would be the alternative for phones but wouldn't that make it too thick to fit in the base station?
+Mine is still saying it's waiting for carrier and will arrive today. I've never had an item go this late into the day and ship to the address I have selected.
+
+Chatted with Amazon twice so far this morning and both reps assured me I'd be getting the item. 
+
+Cancelled my Target pre-order as soon as I got my Amazon one. This better not turn into me regretting going through Amazon. 
+Fiance wore Sanuk Sandals (I wore Sanuk shoes). 
+I'm ready to start a new AMD build just because. 
+That ship has sailed for many of us...
+So click "yes" if you use assistive technologies and that's it?
+It looks like a batmobile which is awesome!
+I find I have to occasionally do that to get it to work. Seems to happen whenever I'm messing with a poor wifi signal and so it's like it gives up on all wifi altogether in the background until I reset it.
+I remember my trackball on the g1 and the amazing keyboard.
+Can Twitter just ban him already so his whole world comes crashing down?
+I was wondering if I was the only one who felt that way. I wonder if Drumpf and Gollum really are best friends.
+Terrifying. Just pure terror.
+Some people shouldn't be parents.
+It bothers me that every Android device I've had has Bluetooth issues.
+Meaning the detection to turn on the display is far better than what I experienced with Android wear thusfar.
+
+As for having a built in modem. It's still an extra and not a necessity. I'm sure in a year or two though it'll become the standard. I am definitely not a fan of paying for an additional mobile subscription for that feature.
+I'm not 100% certain. If it isn't, it's damn good at making it seem like it is. 
+Publish the video online. Seems like he's in the public. Just make sure your local law allows you to without his consent. 
+Likewise. My brother got the Apple watch 2 and it has everything I want from Android. Waterproofing with swim tracking. Great messaging. Battery life that lasts at least a solid day and interchangeable bands.
+
+It may sound like a lot but these are basic staples that should be the standard and not the exception in 2017. Google let the ball drop then kicked it downhill with these devices.
+
+They need to go back to the drawing board and put some actual R&D effort into these devices. 
+Talk to your professors. They are an asset there for you in more ways than just teaching course material.
+
+Also, consider doing a half load of classes and using the extra time for yourself.
+Haha seriously. I'm laughing along with this. 
+They're moving more of their business oriented platforms to recurring subscription models which is making bank.
+If it's the same transmission that's in the mk6 Jetta then it's probably the solenoids. Mine has the same issue, it's hit or miss if the issue occurs. Think it's more susceptible during warmer weather. 
+
+Contemplating getting rid of the car before going down this rabbit hole of transmission repairs. Sucks because the rest of the car is fine.
+Wait, would you put the arc of the covenant in another arc? The arc of the arc of the covenant? 
+Absolutely love the Afterman albums and my god you wrote this up so well. Thank you for the amazing read. I can only hope to see the others done in similar fashion. 
+If only this was waterproof like the Apple watch 2. Then I'd be all over it.
+Do they ban immediately for a VM? I see they just really care about you not exceeding 100HD per hour.
+What's stopping me from starting a bunch of virtual machines and doing this over and over?
+Omg Socom on PSP was amazing!!! Can't even fathom how much time I sunk into that.
+Why 3am?
+Does the native windows store application not support 21:9?
+Actually prior to everyone hitting past level 35 on their artifact I liked this expansion because as a casual I wasn't that far behind with gear. Now though those people are like level 44 and higher and there's no catching up for me anymore.
+Really? It looks like the Nixon is thicker.
+I can summarize it further, "Fuck TWC."
+I prefer the RNG of World of Warcraft over what CoD has become.
+Is it as slow and choppy as reviews made it seem? Is it a complementary device to a Pixel?
+Need a visual aid for this please. Might open his eyes finally.
+You hesitate too much before each shot. Reduce that to make it appear seamless.
+But we'll probably become #1 in religion now! Right? Right...?
+Androidwear
+I hated it in HS. Should I go back and attempt to read it again now? 
+"hey guys, our platform is dying and we're losing big time to the competition. How about we launch a pure line from us direct. Oh wait, we should cripple it so it doesn't sell well." - Google
+Sadly my Vita has joined the rest of my console collection. Curious if I'm making another mistake with the switch.
+They're probably missing each other's updates as they're all using a different platform while the last two are developing two more.
+Is there a difference for people with external drives that are powered off the USB versus dedicated power supplies?
+I'm not talking about losing information. You're adding information (think of the "enhance" from TV Crime dramas). Forget about even the upload to Youtube. Just the fact that you're rendering a higher output than your source material that doesn't scale evenly causes an uneven  bias towards one pixel over its neighbor when more pixels are added.
+
+It's not a real scaling and rather we're depending on algorithms to take the best guess on which pixel to bias towards.
+
+Again, instead of every pixel being scaled to 4, you're trying to scale each one to 1.75 (which you obviously can't). So now you're talking about taking say the first pixel, replicating it's value to the next, then moving on the the third pixel and NOT replicating it. Then move on to the next and replicate its value to its neighbors and so on. 
+
+Again, lots of nitpicking lol. 
+But that's the thing, won't it be? The 4k upscale of a 1080p source is going to be fine as its 4 pixels for every 1.
+
+With a 1440p upscale, that's 1.75 pixels for every 1. Last I checked, 0.75 pixels doesn't exist. 
+
+Yes its nitpicking but just asking really. 
+Doesn't that mess with the video outputting 1080 to 1440? Wouldn't it make more sense to output 720 to 1440?
+And they're sadly too stupid to understand the science and logic behind them. We also can't let nature solve this problem for us because this is one circumstance where they can bring us down with them.
+I love the screen size but would compromise for a better single handed experience.
+Exactly. This double dipping is the most infuriating thing that common sense hasn't abolished.
+Exactly. This double dipping is the most infuriating thing that common sense hasn't abolished.
+Be sure to check the subframe.
+My 750D is an amazing monolith.
+Yea was about to say, expired cream or not, this is an allergic reaction. 
+[See the benefit I posted here](https://www.reddit.com/r/sonyactioncam/comments/5rk3ne/4k_file_storage/dd8hkr3/).
+The nice thing about the reds is that if they're installed in a verified NAS and have ANY type of error or failure, WD offers Next Day Replacement for the life of the warranty.
+
+I unfortunately had a 4TB drive fail in my QNAP NAS with some mundane error. I'd usually try to troubleshoot and whatnot but I called up WD. They asked me the Serial Number and where it was installed. Without another breath wasted I had a replacement issued to me. You don't get that with the other color drives from them. 
+Usually only like $5 - $10 more for the drive.
+I like the new stickers. But being locked to a device by your telephone number is fucking stupid in this day and age. 
+Resignation is too big of a word for him. Need to dumb it wayyyy down. Two syllables max!
+Garmin's software/firmware team is garbage. I've given up on them. Glad I bought my Fenix 3HR from REI. They took back the return after 6 months with no issue. 
+I had the fenix 3 hr for about 6 months until Garmin kept releasing garbage after garbage for software updates.
+
+HR tracking was non-operational 90% of the time and then the battery started dying every day.
+
+Roll back firmware and boom, everything worked. Sad to say but until they perform a better QE cycle for software releases I'm staying away. 
+
+But when the watch worked it was phenominal! A bit big, but it did its job and did it well. 
+I was afraid I was the only one who loves Afterman like no other.
+Especially those rims. They killed it with this style. 
+I thought they were going to get together and then she dumps all her problems on him too. 
+So a grade D psychopath? Got it.
+Trying to decide what glass next then. Have the 35f18. Thinking the 50 out perhaps an 85.
+I'm so tempted to pick one up. Have a few weddings to complement the photographer and worried my a6000 won't keep up.
+I'd like to know this as well.
+Especially for a band from the general area.
+Nicholas Cage?
+So basically what college campuses do to get fresh material on the local network.
+Here's to hoping Google's system glitches when I RMA and send me a free phone again. 
+His joints must not be the originals. 
+Hah! You think he'll be around to care? He's done what he has to. He'll get the shitshow rolling and be long gone just like any smart CEO before we can't handle the smell anymore. 
+Hahaha wait really? The Amory Platinum card has an expiration date printed on it? I'd check mine but don't want to go digging for it.
+
+So much for thinking it gets me a lifetime pass. Glad I got to use it for 3 shows. 
+Pixel here with 821. I'm not needing any power or stability beyond what I have. Just give me leaps and bounds improvements on the camera or an absurd battery life and then I'll switch.
+Wait are you saying I can have live wallpapers on my desktop?
+Yes they did add that watch last year. I just hate their giant logo.
+Most importantly you can go swimming with the watch. Thats all I want from my AW. 
+Can we get something that is waterproof too? The Apple watch 2 added it, why can't we? 
+OK good to know. I was worried for a moment that the festival sold without even knowing the lineup. 
+Is this referring to presale tickets? I'm confused.
+This is what I love about our species though. For the most part we'll abuse an existing, functional system until our hands are forced and miraculously always come up with a solution. 
+Wow. You're the only other person I've seen with "Pretty Odd". Don't listen to Panic or what's left of them anymore though. 
+They should've given him a private session with the murderer. 
+I mean, it looks like he's trying to Text the police.... 
+Sure looks like porn. 
+Well I hope it stops making them pop-up in my Google now news feed. At least 75% of them suck hard and at least half of them half that fake virus pop-up Everytime.
+So what can you advise for us who can afford to make our minimum payments, but in doing so are left with so little money that we can't even afford to move out of our parents homes? This issue only being exacerbated depending on the cost of living where you are. 
+
+Already refinanced, and pay extra when possible. Still ~~10~~ 9 years away from paying off my remaining private debt. 
+
+Is there any hope? Anything in the pipeline that may help shed some of this burden? 
+Correct. Tape 2 was all the action. Tape 1 had boobs.
+I don't understand why they keep sabotaging themselves when they bring these cars over. 
+
+I'm currently waiting on this and the updated cx5 from Mazda to replace my Jetta. If VW doesn't botch the new Tiguan I'm sold but that's seeming like it's inevitable.
+Test kits for all! 
+
+But no seriously, there were some big ass spiders on those trees. Only reason I wasn't leaning against them. 
+Except you've got like an army of Ewoks up in the trees with them giant hammocks. 
+Definitely! Now if only they could do something about the giant spiders I kept seeing on the trees. Or was I the only one seeing them? 
+Pretty sure any dwarf hamster tops the charts. Now if only they'd live longer. 
+Came here for this, but instead of leaving I'm going to dig deeper for more of this. 
+Which RST drivers did you go with? 
+Had a Garmin with Sapphire. It's a shame all watches don't use it.
+Wait, they advertise it has a 100hz overclock. How do they not stand by that? 
+Whats the possible big time problems with these? 
+I might have to check on this. Hate that Dell doesn't perform driver upkeep on their own. 
+Love me some Moon Taxi! 
+Don't forget to add tears if you aren't already begging for mercy.
+Recent battery drain? Thought that FB has ALWAYS been a battery drain on Android. I just use it through my browser now. 
+Here I thought I was going crazy.
+Just got notification that I'll be receiving mine as well for my Precision 5510. Took long enough.
+
+Now if only my 5510 wasn't slowing down for unknown reasons. It's like it knows the new ones were released. 
+Eel
+I just like to imagine that the founder saved the life of some media big wig and was rewarded with free advertising on the network forever. 
+Muse or Daft Punk. Anyone else and I'll really be looking at the rest of the set list to decide if I go.
+I think you missed the joke. 
+The next evolution will be "desk replacement" laptops. 
+Well now I want this.
+When they hold the door for a stranger.
+is there an equivalent for Android?
+I love my Schitt Vali2 driving them. Got the Modi 2 as well just to have easier switching between my PS4 and PC. 
+Well at least I know who to hate now. Those damn houses thinking they're the shit, inflating their egos and prices.
+After a while I got used to the notifications but agree that your options should've been there from the start. 
+Can we gut the FCC Republicans? 
+
+Seriously, how do I remove these douchenozzles from their positions? 
+Guys don't you see? This is just a marketing ploy for the Mummy! 
+They do exist. There's entire town's dedicated to this stuff.
+Nothing more endearing than the licks of love from a rat. 
+He's laughing because he's right. Those ARE spiky mouses.
+You buy a new set of speakers and wire them to your amp. Do you go maxing the volume? No. 
+
+Your argument shouldn't be that the speaker is crap, but rather that the phone as a cohesive whole should've had more attention put into calibrating the "max" volume with varying source audio samples. 
+Every mobile device I've had crackles at the loudest levels with certain frequencies. They're obviously not going to implement a hardware solution so if anything they may just end up lowering what the max volume really is if they choose to address this. 
+
+Or you know, just don't max out the volume. 
+Bacon. I make it a mission to fight through and have some. Usually that with coffee and water is enough for me.
+Yea but then you wake up in the middle of the night and give birth to a turd baby.
+Just make sure your GPU can handle it. It's possible that even with the adapter it won't output at that rate and resolution from that port. 
+
+That aside there should be no perceivable delay.
+If the switch is coming out soon I'd say wait on that. But the Vita does have a giant library of what you want right now.
+> *[Gorilla Warfare](http://imgur.com/Ht3Rnor)...*
+Did regular camping at 'Roo in '15. Glamping at firefly this year. For my gf and I, it was worth it. To come back to that air conditioned tent where you just have so much space was such a great feeling. Hoping to get premium this year if we go.
+
+I will say that the glamping spots are less lively though and we found ourselves hanging out with friends in regular camping more often than not.
+Isn't it campus police who can give you the two week pass?
+Don't forget google play family sharing. Pay for an app once amongst your family!
+I'm not sure if I'd call it stable yet. Pretty sure Dell is supposedly reworking the product altogether. I haven't heard anything from them in forever
+So if we cover helicopters in owls they'll be silent?
+It's more of monitoring rather than security. Friends do the same for keeping an eye on pets. All for the small cost of an app.
+So the real soccer player is the banana? 
+"We weren't paying attention."
+Actually my old Android devices get used as security cameras or media consumption devices when they get retired.
+Or at least allows for easier battery swaps once they degrade. My v1 360 is useless and I have no idea what to do with it. The repair itself is quite risky. 
+I had the exact same thing happen for me. Even has the support rep email me stating very clearly I got to keep both devices. 
+My god this set looks so simple now and yet my imagination ran wild with it as a child. Still have the entire collection in storage.
+Perhaps not for everyday consumer vehicles. You try getting a newly announced Ferrari.
+Actually manufacturers don't. Dealerships do. But I agree it's not a comparable metric due to the differences.
+Wendy's Sriracha Chicken Sandwich. Fuck yes!
+As shitty as the scenario is it's best to keep a level head and realize you're dealing with probably the stupidest of Tier 1 service anyone has ever encountered. Go through the basics and when they can't help you explain, "can you escalate this? It seems you don't have the authority to properly address this situation. I'd like to speak to your manager or supervisor".
+
+At that point you almost always get a native English speaking representative who you once again calmly explain the situation to. Be smart and understanding. Realize that they need to determine if what you're saying is really true or are you just trying to get a game for free. Go even further and try to discuss methods of securing your account to prevent a breach in the future. If you really want to get technical ask them to check the IP of the console's from where the purchase was made (hopefully they store that). It might be so different from yours that they would be stupid to refute your claim.
+Oo so the Panel didn't change?

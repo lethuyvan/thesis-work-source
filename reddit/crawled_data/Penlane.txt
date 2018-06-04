@@ -1,0 +1,2406 @@
+Good tip, thanks!
+If you only need adblocking in browser, brave is also a good choice.
+Do you use Chrome? It's a direct link to their Github release, it works instantly for me.
+I haven't used it in a while. I remember an app called "O.G Youtube".
+
+Thanks for the heads up though!
+Yes, absolutely. I like the simplicity of Blokada, but both services fulfill the job properly.
+I just checked with OpenVPN for Android. Your assumption is correct: When connecting to a second VPN, the Log shows "Failed to open the tun interface". I cannot have both: Blokada and a second VPN running at the same time.
+
+No, sir! You can sleep without the fear of being woken up by strange noises now! :-)
+Glad it helped! If you used apps that display a lot of ads, this will definitely be of use. It used to tell you how much data you saved, so that's another benefit.
+I would prefer Adaway if I had a rooted phone.
+If I had root, I would always use Adaway. I'm not sure if Blokada can be used alongside a different VPN since it uses the VPN function in Android to block ads.
+
+Adaway also blocks ads in Youtube, so I would definitely stick to Adaway if I had the chance.
+
+Edit: I just got corrected that Adaway does also not work in Youtube. Not sure if it used to be that way, but a benefit would be using a VPN alongside Adaway.
+One benefit is that it not only blocks Ads in Firefox, but also in other apps aswell.
+
+That said, I think uBlock has a better block-rate than Blokada.
+https://blokada.org/index.html
+
+I use this on my GS8+. It's System-wide (except for Youtube in my use case).
+
+Also, if you are on Oreo: Look up Substratum/Andromeda/Swift Black. It made the whole experience 10 times better for me.
+
+
+Please do yourself a favor and install https://blokada.org/index.html.
+
+If you don't like it, you can use DNS66. Both are FOSS as far as I know.
+
+It protects from most Ads system-wide (not Youtube IIRC).
+It is the most complained about part on **this subreddit**. Not in the real world. At least not where I come from. People couldn't care less about their software.
+Not for me. Still sitting here, primarily used as an MP3 player / backup phone.
+Never had a bootloop, unlocked bootloader from the day I got it so never had any warranty.
+
+Disabled the two BIG cores under the recent reddit trauma, so it will keep going strong :-)
+Says you. But not their massive amount of asian customers.
+RMA it. My factory charger fits the Z Play very tightly even after 1 year of use.
+Good point. Forgot that LG sticks to LCDs..
+As far as I heard, you can disable the notch via software so that the bottom / top bezels look symmetrical. Not an ideal solution but surely an option I would instantly enable.
+
+As for the name...yeah, I agree..
+Second this...
+You caught me! I have a beautiful silver S8 which has that iridiscent glow on its back when the sun shines on it, but I have a matte soft touch case so it doesn't slip out of my hand.
+That's your choice, but they offer a good service for a good value (I pay 5€ per month). I would consider paying if I were you. There are lots of more expensive things one wastes in life than paying 5 bucks per month for good music :-)
+
+
+https://blokada.org/index.html
+
+Works well enough (I think Youtube ads still go through, but the rest like inbrowser ads or inapp ads are blocked)
+
+
+Never thought I would say this, but I'd rather stay on an older version (Oreo, in my case) and use Substratum to theme it all in blackness than switch to P. Luckily, with Samsung I don't have to worry about that...
+
+
+Also, I've read before that they break Substratum support in Android P. Huge bummer.
+Wow, I never knew this. Doubt it is by design.
+Yes! So we cannot generalize this. I know Poland for example has suoer cheap plans. But over here we pay much more.
+Of course there are plans for unlimited data available. Should have clarified that but there DOES exist throttling. In Germany I don't think you can get unlimited dats on LTE for anywhere near consumer prices. Best you can get at Vodafone is 25Gigs for 65€ (ridiculously high price). I know Poland is very cheap so categorizing as "Europe as a whole" might be misleading.
+For landline (DSL/Cable), yes. But for mobile use, european countries throttle to 64kbit after a couple of gigs (1-5 in Germany).
+No end-to-end encryption is a no-go or me.
+Not sure how I feel about this. Hope it will benefit a lot of people and glad to see they are streamlining their efforts, but I doubt the astonishing marketshare Whatsapp has in my country will subside.
+
+People in the US always talk about iMessages, but here in Germany, every iPhone user has Whatsapp installed because everybody has it.
+Honestly...at this point I am going full american and installing air conditioning in my apartment. 30°C in April is enough argument to convince me to invest in it.
+Uff..
+Rhein Main Gebiet ist irgendwie IMMER unter den heißesten Regionen.
+Ich finds nicht so schlimm, ich vertrag das noch gut aber im August dann....ne
+Pretty easy. Be a weeaboo warrior. 
+
+
+End all my sentences in -desu. 
+
+Insert random japanese words ibto conversation.
+
+Claim I know everything about japanese culture and when people ask ne where I know it from I tell them all about my vast anime collection.
+Hello!
+
+A fellow-student and I recently had to work with the embedded Real-Time OS "FreeRTOS". One task was to analyze how the scheduler works and when which task was suspended or re-activated. 
+
+This was achieved
+with the on-board DAC of an STM32F7-board to show different voltage levels in different tasks. 
+
+Since this method was so crude and susceptible to noise, we thought to ourselves "Why not implement a small analyzer-program to simplify this task?"
+
+So we went ahead with it and since FreeRTOS already had some trace features provided in their code, we filled the code-stumps and made a little GUI in Python (mainly to learn a bit about Python / FreeRTOS programming).
+
+&nbsp;
+
+Because this tool helped us a lot we want to share it with more people who might want to quickly prototype an FreeRTOS-app or just want to look a little behind the scenes while executing a program.
+
+&nbsp;
+
+
+It is not intended to replace more robust/professional tools, but rather be a small and unintrusive app that extends FreeRTOS programming on embedded systems like STM-boards or even AVR-boards.
+
+&nbsp;
+
+Since this is our first real "program" we made, the implementation might be unclear/not easy to use, so we want to provide a small video on how a measurement works, what you need to configure, what everything means.
+We are new to Github and all of this, we will try to go through all the issues people might be experiencing, but cannot guarantee that it will work out-of-the-box on every system (Tested with Windows10 and Ubuntu).
+
+&nbsp;
+
+Here is a quick video to show how a measurement is started and displayed, a tutorial might follow:
+
+https://youtu.be/_FXEpt_VKoo
+
+&nbsp;
+
+Here is the link to the plugin and (again) to the GUI (you need it running on the embedded FreeRTOS-side + the GUI app in order to open, save and display measurements):
+
+
+https://github.com/adler305/Tracesniffer-Plugin
+
+https://github.com/Penlane/Tracesniffer-GUI
+
+&nbsp;
+
+Thank you all for your time reading this. Enjoy the program! If there are any immediate questions, I can answer them here on Reddit or Github.(tomorrow though...first: sleep)
+
+Hello!
+
+A fellow-student and I recently had to work with the embedded Real-Time OS "FreeRTOS". One task was to analyze how the scheduler works and when which task was suspended or re-activated. 
+
+This was achieved
+with the on-board DAC of an STM32F7-board to show different voltage levels in different tasks. 
+
+Since this method was so crude and susceptible to noise, we thought to ourselves "Why not implement a small analyzer-program to simplify this task?"
+
+So we went ahead with it and since FreeRTOS already had some trace features provided in their code, we filled the code-stumps and made a little GUI in Python (mainly to learn a bit about Python / FreeRTOS programming).
+
+&nbsp;
+
+Because this tool helped us a lot we want to share it with more people who might want to quickly prototype an FreeRTOS-app or just want to look a little behind the scenes while executing a program.
+
+&nbsp;
+
+
+It is not intended to replace more robust/professional tools, but rather be a small and unintrusive app that extends FreeRTOS programming on embedded systems like STM-boards or even AVR-boards.
+
+&nbsp;
+
+Since this is our first real "program" we made, the implementation might be unclear/not easy to use, so we want to provide a small video on how a measurement works, what you need to configure, what everything means.
+We are new to Github and all of this, we will try to go through all the issues people might be experiencing, but cannot guarantee that it will work out-of-the-box on every system (Tested with Windows10 and Ubuntu).
+
+&nbsp;
+
+Here is a quick video to show how a measurement is started and displayed, a tutorial might follow:
+
+https://youtu.be/_FXEpt_VKoo
+
+&nbsp;
+
+Here is the link to the plugin and (again) to the GUI (you need it running on the embedded FreeRTOS-side + the GUI app in order to open, save and display measurements):
+
+
+https://github.com/adler305/Tracesniffer-Plugin
+
+https://github.com/Penlane/Tracesniffer-GUI
+
+&nbsp;
+
+Thank you all for your time reading this. Enjoy the program! If there are any immediate questions, I can answer them here on Reddit or Github.(tomorrow though...first: sleep)
+
+I understand. You can usually easily unlock the bootloader of these devices and slap a Custom ROM on since they are well supported. Not a heal for the problem, of course, but rather a band aid.
+Let's hope for a better software-future where Treble is mandatory.
+I see. I still believe they are a far more viable brand than others. I remember the old MotoX ads, but never owner a Goomoto device.
+I think the X4 looks awesome, but am sad to hear that the G series receives no updates. They should release less devices, but keep focusing on software updates for the few that remain.
+How did Lenovo ruin the Moto brand so far?
+The only reason I know would be the exclusion of the headphone jack from their future devices ( rumored Z3 Play without a headphone jack, which is a total bummer to me... )
+Z Play user here: I am wondering if this really is such a huge benefit over the current software? I see a lot of Motorola bashing regarding software, but I never understood it. They are near stock (with nifty additions, bloat free) and provide timely security Updates (reteu channel: never behind more than a month).
+
+Apart from extending the software support to more than 2 years (which is the shameful standard we are used to these days...) I see no *huge* benefit from Project Treble on my Z Play.
+
+Now, on Samsung / Chinese bloated skins however, I am very excited for this.
+The 8h SOT you see here is almost exclusively something like browsing Reddit without GPs and good cell service.
+
+I have never noticed a significant decrease in battery life with my Z Play and I always update (currently on Oreo soak).
+Z3 Play is supposed to ditch the headphone jack. Absolute no-go for me as an OG Z Play user...
+I buy a new phone yearly. Not sure if that's so bad. I always sell the old one used and buy the new one used, so no new phone gets manufactured specifically for me. Sometimes I give the midrange a shot, sometimes up higher.
+
+What i noticed since this last change (Moto Z Play -> S8+) is that you really cannot notice the difference.
+Newer phones will be bought purely because of aesthetics because there is functionally little difference between the SD625 Moto ZP and the Exynos S8+ (for me).
+
+Since most people only use their phone for Insta/Whatsapp/Reddit...the midrange is well suited for those tasks.
+I always wondered about that...in German, you call landline "Telefon" and cell/mobile phone is "Handy" (pronounced in English for some reason).
+I also get confused by those 8+h SOT screenshots whereas I have around 5-6. But then again my 5h are spread over the course of a whole week so that's fine. Different use cases, different results. But the battery life is incredible nevertheless!
+I have an S8 with Oreo and use the Swift Black Substratum theme.
+rootless Substratum is the only reason I even bought the S8 in the first place.
+Dieses MaiMai kann nur der r/de verstehen, das waren noch gute alte Zeiten.
+Performance hit is 'lower' for Haswell (including it) and onwards.
+To all the people loving the Moto X: Don't forget the Z Play, yes the Z2 Play was a downgrade, but the first gen Z Play was the o.g "Insane battery life" phone that wasn't from an unknown chinese brand.
+
+I charge my phone twice a week and use it pretty regularly(Swift Dark Theme saves a lot of battery because of the oled screen). There's no way I could go back to a state where I actually have to think about charging the phone.
+
+My wish would be:
+
+- Upgrade to the latest SD625 equivalent (8little cores instead of 4big4little)
+
+- 4GB of RAM (6would be nice, but too overkill for this usecase)
+
+- somewhere inbetween of 3500-4000mAh (3800 sounds good)
+
+- A camera that is on the level of maybe a Galaxy S6/S7 or something like that (the current one is a total potata..)
+
+- A more modern design (it doesn't have to be 90% screen to body or a notch or something like that...just a little less bezel and maybe a sleeker fingerprint reader [the square one looks UGLY])
+
+so basically: The first Moto Z just slightly updated :-)
+I still attend a yearly LAN we throw at a friends place on NewYearsEve. We game, celebrate, and game some more :-).
+
+Always good to play the classics: CoD, AoE etc. but also some newer games like Overwatch
+Hmm, on this site (https://support.microsoft.com/en-us/help/4090007/intel-microcode-updates) it looks like there is no update for your CPUID. I have a Skylake chip and automatic updates have not patched Spectre for me yet. I think they are making sure that no random reboots occur like the last deployed patch.
+According to AMD, there should be no noticeable performance hit.
+According to the creator of this tool, yes!
+Yes, as far as I know you can disable the patches. But if your CPU is Skylake or higher the performance impact is negligible.If you are running windows check this out: https://www.grc.com/inspectre.htm
+Looks like he didn't slap it on purpose. More like in the situation it just happened.
+Kann für einen Kollegen antworten:
+
+
+- Er hat mit 16 ganz normal eine Ausbildung zum Industriekaufmann gemacht.
+
+- Anschließend Wirtschafts-Fachabitur an einer BOS
+
+- Er studiert BWL (FH)
+
+- Die Finanzen sind denke ich durchschnittlich bis gut (für einen Studenten)..kenne es nicht genau, er kommt aber gut über die Runden.
+
+- Mathematik und Statistik sind problematisch wie bei den meisten. Beides jedoch bestehbar.
+
+- Hat sich bisher gelohnt denke ich, er ist sehr zufrieden!
+
+
+
+Kann ein Studium nur empfehlen!
+Hmm I get their consistency point, but that's no excuse to remove OMS (Substratum Support for rootless devices) in Android P AND also look at how awesome the Swift themes look. I think most people asking for this are not asking for every single app to be themed, but Settings, YouTube etc. should be doable, especially since the Swift-Team manages to do it.
+I was so excited to get Oreo on my Z Play, was always waiting for it because I can theme my device without voiding my warranty (rootless Substratum).
+
+Now they can take their time with P, no rush, no hurry :-)
+Netherland brothers investing in Germany? I am ok with that!
+I doubt the 808 with 6 cores generates as much heat at boot as the 4 little cores under 100% load. Why doesn't my G4 loop then with the big cores disabled? Not like I'm trying to defend it, I switched to a Z Play for even better battery life, just thought the fault was more qualcomms than LGs
+Nah, too much misinformation, my G4 is going strong after 2 years of consistent use and it will probably never bootloop because I did one thing: Disable the 2 BIG cores of the BIG.LITTLE 6-Core configuration at boot time so the scheduler will never create threads on them. No solder issues, just crappy SD808...
+It's a fix, and the small performance loss is completely fine for me (no real-world issues since I don't game on the phone).
+The top 4 posts are about the "affordable" price. In Europe, the price actually raised by around 100$. It now costs 949€, which near that 4-digit iPhoneX territoriy...
+Oh well at least the S8+, which is not a huge downstep will be getting cheaper now.
+People praise the simple Nexus5 design, but I just want the sparkles back!
+We hope that Oreo brings 64-bit support!
+> in the next months we can add UPnP support for example, to cast on any UPnP box or TV!
+
+Sweet! Thanks VLC devs :-)
+Ah ja. 3x350g für 2.49€
+
+Der beste Kalorien/Euro Wert sind jedoch die Margheritas. Knapp 700kcal pro Pizza bei 3x300g für 1.99 (ʘ‿ʘ
+The last point can be turned into an upside thought! You can use rootless Substratum on Oreo.
+Apparently the camera will get a little better with the upcoming Oreo update (soon!).
+
+No replacement for your DSLR though (obv.. :-) )
+Used to be a yearly smartphone changer. Since I got my Moto Z Play I see no reason to change unless I get something that ticks my boxes like this one: 
+
+-Stock Android
+
+-Timely Updates (I was never more than one month behind in security)
+
+-Battery that can last a minimum of 3 days
+
+-OLED
+
+
+Bless SD6XX devices. Snappy enough for everything except heavy gaming (got my PC for that) and superb battery life.
+
+Probably the only thing that will get me changing is if the MotoZ3 Play has even better battery life
+Huh..TIL you can reorder stuff on the windows client.....just drag and drop it hahah. It should be implemented into the app, too...
+let me delete multiple apps from this list at the same time....
+
+also, whenever i want to install a bunch of apps after installing a new ROM, it refreshes the whole library when I download ONE app...takes so much time
+Comparing Uggs to Valenki..
+someone wants to upset Russians today!
+He is (rightfully) implying that only a small subset of users (most of which frequent this subreddit) cares about things like "stock android", while the majority of users enjoys Samsungs UI.
+Am Z Play owner and calling bs on *easily* getting 10+ h SOT.
+
+I use dark themes for everything (saving AMOLED power) and 10+, while possible, is not "easy".
+
+What is easy, however, is charging the device only once every 3 days.
+sure, but they haven't rolled out the update (yet)...meanwhile on my phone GPServices accounts for 32% of the battery used :-(
+Google Services has a bug currently where it spams packets like madness....I hopethey will be able to fix it.
+
+My friends' batteries are draining without a couple of hours but thanks to the Z play I still manage to get through the day haha.
+Let's hope they fix it soon...
+The only way I switch is if the Moto Z Play3 will have a 3.500mAh+ battery and on-par efficiency with its SoC.
+
+This brick I have lasts for several days without charging and I'm never going back to a phone that cannot do the same.
+
+The camera:...I have to admit it: crap
+I hope they bring out a substitute. So far it looks like it will be implemented in the Moto-Logo?
+So do I. 
+True that! Also stock android :-)
+The Z3 Play or Moto X5 hmmmm...I hope one of those could be the successor to my portable battery called the  OG Z Play
+I really don't like the inability to have a proper Desktop client (not some third-party wrappers).
+
+I tried it out for 4 months and really gave it a go (cancelled Spotify, went GPM only), but ultimately Spotify has the more streamlined experience for my use - case (which is: I know which music I want to hear, I make my own playlists, open up the App and play them.)
+Fair enough
+Hmm....BETA + they are not sending any sensitive information, check the threads on the frontpage..
+I hope Season 3 catapults him right back to the top where he belongs .
+This guy syncs.
+He might not use google assistant and / or location etc.
+
+
+There used to be a bunch of Apps bundled with Gapps back in the earlier days (Galaxy Nexus / Nexus One -era ), but nowadays yup, always openGapps nano package :-D
+I personally wouldn't trust qualcomm. LG made a safe decision to use a popular platform like the 808. Many other manufacturers could have made the choice. It's not like the Note7 where Samsung was the one manufacturing their own batteries which exploded. It's your call. I don't use LG devices myself but I can stay objective enough to question their responsibility for the bootloop issues.
+
+If anything, LG will now implement even more safetychecks before shipping, but it's your call.
+Die Einheiten sind als sanity check gerade in der Physik wichtig. Kannst dann immer überprüfen ob deine Rechnung zumindest sinnvoll war. ʘ‿ʘ
+That is correct, only happens on G4,V10 and N5X due to Snapdragon 808 SoC. finally someone in this thread who has it right :-)
+Nope, no widespread bootloops on the G5. But all SD808 devices are affected,yep...unfortunately
+Hmm, I don't think so. The bootloop-issue has been pinpointed a while ago.
+Most Snapdragon 808 devices will probably bootloop, i.e Nexus 5X, LG G4, LG V10 and so on. SD810 runs very hot, but is probably safe from bootloops.
+
+The issue lies with the big.little core setup of the SD808.
+
+You can completely circumvent the bootloop by disabling the two big cores in the 6-Core setup.
+This can be done either with a kernel, bootscript or something else.
+As long as you bring these devices into download mode (should work always), you can flash a full system-image where the cores are completely disabled.
+
+Granted, it is still a massive failure, but for the people who have no other choice, this is a good fix as it does not matter for day-to-day performance at all.
+The G4 with 4 little cores is perfect for my mum. Great camera and good battery life :-)
+No one I ever interacted with (part of the younger generation) has ever given me a look of "DISGUST" because of the brand of phone I bought...seriously
+
+
+Yup...3 days ago, sounds about right on my Z Play. I get around 6-7hours SOT but I charge it only twice a week. And when I charge it, it takes only 1,5 hours. Honestly there are only 2 things that are bothering me: The design (it's pretty ugly..we all have to admit) and the camera.
+
+I value the performance, stock android, timely updates and insane battery life over those 2 nitpicks so I went with it ^^
+
+Seriously..for everyone bashing Motorola, their update system is totally fine. I used to wait months on Nexus devices because of their "staged" rollout system...
+Motorola does this in another way: There are different update channels for different regions like "RETEU" "RETAPAC" and so on and if one region gets the update, everyone in this region can instantly check manually for updates and it will show up.
+Every.single.month so far.
+No code geass in the picture? :-(
+what are those outstanding issues for the H815 G4? It's been running till now just fine!
+Around the money OP is making. ~50.000 visible gross income (after employer-side taxes).
+Awesome! I think I can help.
+https://upload.wikimedia.org/wikipedia/commons/b/b4/Wireless_power_system_-_inductive_coupling_de.svg
+
+This picture here illustrates well what is happening. The left side is your wireless charging pad, the right side is your phone.
+
+First, we need two coils, then we need alternating current and that's pretty much it. The purpose of the coils is to intensify and guide the magnetic field so we have lower power losses.
+
+In the picture above, "B" is the magnetic field created by the left coil. A magnetic field is created when you send AC through a coil.
+As you can see, a lot of the magnetic field is "lost" on the left side of the transmitter coil, that's why magnetic charging is so inefficient and it takes a long time to charge the phone!
+
+On the right side, we have the receiver coil. A "changing" magnetic field induces a Voltage and thus a current flow in the coil, which can then be rectified to charge your battery (since the battery is often charged with 4.2V DC)
+
+And now the even cooler part: Wireless charging isn't scratching the surface of what kind of power we can deliver that way!
+If you step up the power a litte bit, you can melt metal with a coil.
+http://littleserver.spdns.org/imagetxt.php?datei=/ZVS_IH/P1010189.JPG
+
+In the middle of the coil is a red-hot glowing M20-nut.
+
+
+
+Per induction law the induced voltage is calculated by dividing the derivatives of the flow by the time. The flow has to be "moving" for a voltage to be induced.
+These concepts are actually applied in many fields, not just magnetic chargin Electric motors for example aswell.
+Even though many here defend the high prices as the pixel line is definitely more premium and more premium materials are being used.
+However, a 3.5x increase is too much in my opinion. Nexus5 2018 pls ? :-)
+Got a 500gig ssd for 99Euros. Not complaining haha
+I also love my Moto Z Play in every way. I don't mind the IP68, but what I do mind is the abysmal camera quality. It's a 4-5/10 for me, but since I rarely shoot photos I decided I'd take the tradeoff.
+
+Looking for a good deal in europe for a battery moto mod and the thing will last a week (currently I charge every 3-4 days).
+
+Also: I really don't understand the update hate with Lenovo? Granted, I am a month behind on updates, but at least it's consistent. Bought the phone in august with the july security patch got monthly updates (currently on october). 7.1.1
+
+Can we use 25w chargers tho? ( ͡° ͜ʖ ͡°)
+don't give /u/ljdawson the wrong idea ( ͡° ͜ʖ ͡°)
+Judging by the most upvoted one, the awesome dev and my personal experience it must be Sync for Reddit.
+
+I chose it for the 3 reasons above + more :-)
+"Go and get her, tiger!".
+
+Uh-huh..sure.
+They would probably spend money on marketing, licensing, R&D, tweaking software etc.
+
+And then only a couple of HTC / Pure Android lovers of Reddit would buy it and they would get net losses...
+lel dat Siemens SPS / PLC. S7-1500?
+I thought this was a LPT thread! (on my app the subreddit name is barely visible)
+Halfway through I noticed there's something wrong with the apparent "LPT"
+
+Good read though haha
+Let's all jump to conclusions with a bunch of leaked low quality pictures and no comment on how the display was setup...
+These pictures maybe give you a vague idea of how the phone looks like, but you should not make assumptions based on a couple of pictures..
+Be aware that HTC didn't do this to piss you off or anything. They have a team of marketing researchers that decided it was not viable to push this phone to the US market and they probably have more insight than a couple of redditors. 
+
+Just wanted to throw that out there because I often hear complaints about local smartphone locking.
+Even though this is a clearly a non-public beta build, some flash-maniacs on XDA will probably complain about crashes etc.
+
+
+Got it! Thanks for the detailed response, looks like I will change it system-wide. One of the problems solved :-)
+with 200Watts it would be full in 1 minute :-D
+Gotcha, not using Linux most of the time but will implement it on my live stick.
+I feel like this is only a problem of setting a lower voltage via software but I'm not sure how Dell implemented it.
+
+Thanks for the suggestion with smbios :-)
+Unfortunately this program freezes on my laptop with the famous "softwarexyz has stopped working..." Fall's Creators update
+The headphone jack complaints are through the roof. This phone ticks almost everything that /r/android every wished for EXCEPT the damn jack...at least they include an adapter, but you really cannot please anybody these times. 
+
+I hope they will be successfull. I won't buy it, because it's too expensive.
+dat accent :-)
+GLORIOUS!
+I'm majoring in engineering and we have some PCs for CAD and 3D Rendering and the likes.
+Older PCs have an i7 4790 and the newest ones are thinkcentres with an i7-6700(non-K...) and 32GB of DDR4 RAM.
+
+So jealous...:-D
+would be pushing my graphics card but would enjoy it nevertheless :-)
+High frequent noises are normal. The charger is a switch-mode power supply and the switching frequency can cause the coil to emit strange noises at times.
+I like the power efficient SD6XX chips :-)
+Don't go to Katorga12
+https://www.amazon.com/MEE-audio-Sport-Fi-Isolating-Headphones/dp/B0038W0K2U/ref=sr_1_5?ie=UTF8&qid=1508068312&sr=8-5&keywords=mee+m6
+
+M6 vs M6Pro difference is really small. M6Pro come with comply foam eartips and removable cable, but for the price (17$) these are pretty awesome!
+Little tip for the guys who still have a 3.5mm jack, want to spend less and want to have decent headphones, I can wholeheartedly recommend the MeeAudio M6 headphones, they are like 20 bucks and pack a good punch. (More intended for bass-heavy listening).
+
+
+Can confirm. Charge twice per week and you are set :-)
+I don't know, I always feel the hotwording in general is a bit too odd for me. Even if I was able to remap the hotword to something more natural it is a little bit strange for me to shoutout "Hey XYZ" or "Ok XYZ" to activate it.
+
+It's just..strange, I can't describe it but I wish that I will still see these things become as natural as JARVIS from Iron Man.
+I know the implications (permanent listening to everything you say), so I am also scared about that future...ramble :-)
+Gibts ja schon auf dem Markt...zumindest als Range-Extender
+Vermutlich meinte er Netzspannung bei entsprechend niedrigem Strom.
+3-Phasig no way.
+Wer kauft dann noch Elektroautos?
+Der Ottonormalverbraucher, der seine Familie ernähren muss achtet nur auf eines beim Kauf eines Autos: Kosten.
+Wenn ein E-Auto billiger ist als das Verbrenneräquivalent und steuerlich attraktiv, dann überlegt man sich das schonmal.
+
+Längerfristig planen, wie wo wann laden etc. kommt danach.
+So ist es nunmal in der Praxis.
+Die Kaufprämie ist schon gut. Andere Länder subventionieren noch viel härter und es klappt!
+Thanks for posting! I agree.
+Schnapp dir die RB/RE68 nach Heidelberg/Mannheim, die fährt flott nach Darmstadt oder die S3. Die fahren alle halbe Stunde.
+Please understand that reddit is a global website, not everyone is from the U.S ;-)
+Good for you on getting away from him, but how do you end up with people like that in the first place. There surely must have been signes. Genuinely curious.
+Please, I would be thrilled if someone played Chopin on their 5000$+ Bang&Olufsen soundsystem on the subway :D
+Wusste garnicht, dass /r/de so grün ist.
+Dann den Elektrowagen aber gleichteuer machen wie den Diesel.
+Oder Abwrackprämie.
+Neuzulassungen von Dieseln gestuft verbieten ist sinnvoller als der komplette unkontrollierte Wirtschaftsstopp in einer Großstadt, die mit ihren Steuereinnahmen einen guten Teil des Bundeslandes finanziert ;-)
+SELL QUICKLY!!
+Hier in Franken wird gesagt wenn mans nicht packt soll man nach Hessen gehn da packts jeder....
+Denke dass das doch vergleichbar ist. Und kein Bundesland viel leichter ist..
+Netflix/Spotify/Steam pretty much killed piracy over here. In a good way. It is not worth it anymore for law firms to pursue pirates because the ones who pirate use VPNs (they're dirt-cheap) and the other 90% use the above mentioned services.
+Look at it. A student who shares Netflix will pay 3€ for 4K streaming+5€ for spotify + the occasional game.
+Why bother pirating?
+A decent DVD player, many households had one solely for DVD playback and occasional Singstar
+Can confirm. Camera is garbage. Rest is good :-)
+uh, in Germany you should still fill out a tax form and get some money back because of costs like travelling for work, business meetings etc. There are a lot of things that you can declare and reduce taxes.
+am participating in the counting. Count was delivered at around 19:30, 1,5 hours after voting was closed (in a big city).
+Haha 13 Uhr da beginnt meine Schicht als Beisitzer. Hab soetwas noch nie gemacht, also frage ich direkt hier: Was muss ich da machen?
+Sorry to ask this, but what does this mean for a home/private user?
+I ran CCleaner, Defender told me I was infected, I uninstalled it. 64-Bit System and software.
+Do I absolutely need to reformat?
+Lost count to be honest..
+Not a Samsing user. ...took me a while to notice that you meant a Galaxy Store ON THE PHONE instead of a retail place lol
+I saw that you used 10fastfingers.com and I tried their test..
+
+goddammit so close:
+
+https://i.imgur.com/3dBrZ18.png
+
+haha I'll do that! thanks ^^
+Well done! Fast typing, especially without needing to look at the keyboard is awesome!
+
+I recently switched from a membrane-keyboard (Logitech G105) to a mechanical (Razer Greens - Comparable to Cherry MX Blue switches)
+
+and my typing speed went from 94WPM to an astonishing....94WPM :-)
+well it's only been one day since the new keyboard arrived and I didn't really expect a big difference, so I think your improvements come from skill and practicing!
+I dont' use 10-finger, just a random 4-6 finger system developed by yours truly lol
+
+Any tips on how to actively practice typing? Or is there a "standard" test? I just took the first Google result..
+https://i.imgur.com/ArnPALP.png
+
+It's funny that I see these signs on reddit from America where the speed limit is so incredibly slow that the left lane speed would be considered camping in Germany anyways.
+
+Over here, there's s mucb higher safety risk driving 65mph in the left lane where 100mph+ is absolutely normal.
+How do I delete the backups from Google Drive specifically?
+
+I have everything backed up to the drive, but when I delete the photos from the phone it just redownloads them from Drive.
+
+I hope this new setting showcased in the article will help me permanently delete stuff.
+First time I don't do the "overnight" charge anymore, because I have 60%+ battery left. It usually lasta around 3 days and the turbopower charger they include is super fast too, so I charge it whenever I feel like it.
+Moto Z Play represent. Went from flagships to mid-range. Nope, not going back :-)
+/r/conspiracy
+Switch mode stepdown converter. You are correct!
+Do they actually delete the stuff from their servers if I delete it in these controls?
+
+I sometimes have my tinfoil hat on and believe that they still keep it somewhere hidden.
+
+I pretty much disable everything but still fear that they might be listening in sometimes lol..
+After much trial and error with different phones, OEMs will have to claw the Z play out of my hands. Never going back to sub 3 days of batterylife.^The ^camera ^is ^incredibly ^shitty ^though....
+K boss. waking up at 3 Am instead of 4 Am now <3
+Yup. The dev is just super active and adds almost everything you coild ever request. The app is well worth it.
+Snapdragon 808 please...
+LOL I was searching through my memory the moment you said Pandora battery. nice one
+Arent't you able to skip cutscenes in KH in the remakes? If so, they listened! :)
+As a german, an old BMW Mercedes or Audi is a common starter car. Even a 5series. Parts are dirt cheap in the country of origin. Spaking from experience. And they are relatively safe too :-) I can imagine that in the US it's pretty difficult to maintain a car like that but then again your Dodge RAMs are a total rarity here and super expensive.
+to be fair, I am extremely impressed. I used to have flagships only but starting with the SD625 I just don't notice it. My old SD820 Axon 7 was just as snappy as my Z Play now.
+
+That's why we tend to forget the difference, don't hate us :-)
+
+Once you fire up demanding games, we get back to reality, trust me haha
+Yeah dude I agree on the Nexus 5.
+
+My history is iPh4 -> Galaxy Nexus -> Nexus 4 -> Nexus 5 -> LG G4 -> ZTE Axon 7 -> Moto Z Play, so I've seen nexus, flagship, china and am down to Midrange.
+
+The Nexus 5 was the most impressive at its time I think. The price to performance to looks ratio was just perfect!
+Hey guys, I'm about to pull the trigger on a used 3DS, I got sent these screens, am I able to completely update to the latest and greatest (B9S etc. etc.) without issues? With the guides mentioned in this post.
+
+Screens:
+
+https://i.imgur.com/0XjBWR3.png
+https://i.imgur.com/k55YYOn.png
+https://i.imgur.com/hvgIRk0.png
+If I have a n3DS on 9.2.0 and use soundhax, install luma etc. at the end will it be on Luma 9.2.0.
+I read everywhere that updating is safe but how exactly is that meant?
+
+Is updating Luma safe or the entire system?
+I don't know it just seems strange to me that updating the system is totally safe knowing that nintendo patches exploits etc.
+
+Thanks for answering a newbie :-)
+Yup, went from juggling several flagships to just one runner: Moto Z Play. It has everything I need except for the horrid camera. I charge it once every 4(!!!) days.
+Woof
+Gero
+LOL! I do this with my roommate. We have a wooden figurine that no one cares about and it belongs to nobody...it was just there one day. I asked him about it and he said it didn't belong to him.
+
+Since it would be a shame to just throw it away but it's too ugly to display it somewhere, I've started putting it in his jacket-pockets and other places where it will bother him just slightly (because I don't want to be responsible for throwing it away).
+
+Now, he started doing the same, so that damn figurine is just wandering from place to place bothhering each of us SLIGHTLY.
+And nobody talks about it except for "hmm that figurine ended up in my jacket somehow..magic"
+Huh, I thought Fanta was from the U.S ?
+AFAIK, Spezi, SchwippSchwapp, MezzoMix are typically german.
+It's a mix of Cola and Fanta.
+I'm not sure that people really "hate" Bixby. They don't really care about the assistant, it's really just that forced button.
+
+I wouldn't even want it for Google Assistant, feels creepy to me the amount of data being collected.
+But it would be a nice feature to have programmable button like that on my phone.
+I could map it to my Camera, or my Reddit app :-)
+Wow, I never even get your amounts of SOT on my Z Play first gen.
+
+The infamous Bootloop issue of the G4 could also be fixed by disabling the BIG cluster on the 808 devices.
+There even was an official LG instruction on how to do that (For lollipop only sadly...)
+
+Not sure if this correlates, but I suppose the 808 is very similar to the 810. Maybe it's not entirely LG's fault (I see them still being blamed daily, even though my and my friends' G4 is still going strong).
+Nice style, poor battery life though and overall experience. I love using Arch on my PC, but even after fiddling with it for hours I had to remove it on my Macbook because OS X works so much better.
+
+Kudos to you though, looks like you are sticking with it :-)
+Looks cool, is there something similar for Android Wear? I might revive my dusty GWatchR
+They will definitely update the software. The rollout just takes a little while.
+Wow I have an LG WebOS3 TV and I was hoping that hideous interface would get an update (I have this interface since I bought the TV) but nope...
+
+Well, it will probably go through many other iterations.
+The roms still have the issue.
+Wow, this sub always recommends stuff like OGYoutube, AdAway, YMusic etc., but when it comes to spotify, we draw the line!
+
+Never expected that tbh. I'll keep paying for my subscription, but I also have nothing against this guy on XDA. Some people cannot afford premium.
+Thanks! Looking forward to it :)
+Does anybody know which chapters will be covered approximately?
+Aschaffenburger Themer
+ Nice!
+Sieht gut aus
+Definitely keeping my Moto Z Play for a while.
+As it looks right now, Motorola is actually downgrading with the Z Play 2.
+
+The only time I will consider switching if another phone with near-Stock Android comes out with even better battery life, but I doubt that will be anytime soon.
+Just how? I get 6h SOT over 4 days..I have only core apps like Sync for Reddit Whatsapp and hardly ever use chrome. 99% Whatsapp.
+I mean it is a huge step uo from my Axon7 which got 3h SOT.
+
+No matter which phone I use I always see phenomenally better battery stats than I get even though my phone Idles almost all the time...
+Lol I have got a chinese Hoverboard (don't ask) and it has the same voice for its inbuilt speakers.
+Danke, ich leite es weiter :)
+1080p AMOLED panel. I have no complaints about it! But maybe in the future we will achieve same battery life with a QHD panel.
+for me personally it's 10/10
+Ist während der Laufzeit ein Vertragsupgrade möglich? Mein Kumpel läuft dauernd in die Begrenzung und würde sich über 500 extra mb freuen. Er ist langjähriger Kunde.
+Asked my buddy, so far so good, no more forced pop-ups.
+Thanks a lot!
+
+Hello there,
+
+thank you for your great support! Been a pro user for quite a while now and recommending this to my friends. Since the last few updates, there are sometimes weird ads which redirect to the playstore even though you are not clicking on them! It's for some kind of aime-style game, I didn't remember, but it severely impacts useability. Just wanted to let you know :)
+Moto Z Play here:
+
+Camera 6/10
+
+Screen 8/10
+
+Performance 9/10
+
+Battery 11/10
+Decided now that I'm getting a Kaby Lake XPS 13. It's got a precision toucpad so I am looking forward to it :)
+Thanks for making that list! A couple of those are unfortunately not available in my country. 
+
+I've been eyeing on the Razer Blade stealth Kaby Lake. I don't really need my old 11 hours battery time, 9 would be enough.
+
+But I heard very bad things about synaptics touchpads, are they really that bad?
+
+Greetings :)
+As a MacBook Air user whose keyboard has finally broken after many years of using, I was looking forward to a replacement (I could repair them, but the bezels are huge and the device feels dated albeit snappy (Pci SSD)).
+
+I was very disappointed about this half-hearted announcement that sounded like a couple of corporates were in a room and thinking "This Macbook still produces money even though we are not upgrading it...let's keep it that way to make even more money".
+
+I am going away from Apple for now, looking for a Windows Ultrabook now.
+
+Let's see what Apple has to offer in ~4 years...
+I get 5. Not sure how people are getting 10. They must be using their phone constantly.
+I charge my phone every 5 days though.
+Hell? That looks awesome to wander around and explore.
+Certainly not as cozy as we are used to for daily living but I find it fascinating nonetheless.
+Hmm...I never cared about social media in the first place. Mainly because I don't have IRL friends who use it. There's no reason for me to do so. I have a profile on fb solely for the purpose of being able to use their messenger. Not even a picture.
+I couldn't imagine something more boring than instagram or snapchat.
+I watch a lot of Youtube though and nowadays that might count as social media, too
+Buy your cars from Ingolstadt, Stuttgart or Munich :)
+Never considered doing automation?
+In my country power is considered to be a pretty saturated field. There was a boom where the government subsidized companies but that is now over.
+
+RF / Communication technologies will always have jobs and aww yiss dat MU-MIMO gigabit wireless but in the end I chose automation because I felt like a king being able to actually understand what's going on in these little AVR chips.
+
+Industry automation will definitely net a lot of cash, but as an ece, just choose what YOU feel most interested in. Even with the boom gone, there is still a shortage of engineers everywhere.
+ELI5 voter-id? 
+
+As far as I remember everyone in Europe who wants to vote needs to show his/her ID and citizenship.
+
+Willing to learn :)
+I don't think the SD835 automatically enables Custom ROM makers to do their stuff.
+A lot of proprietary binaries are involved aswell.
+
+Definitely beware though. Software updates are rare.
+The looks are awesome though!
+Saying /r/Android is cautious would be understating it...have you ever had a chinese device before?
+
+The looks on this phone are absolutely stunning.
+I prefer frequent updates though and CRom support, but for the price and for the average user this is an awesome looking phone
+Thank you for sharing your experience with us. I feel like I understand it a bit better now.
+Feels good to know you found a partner who is as awesome as you in the end :)
+
+Modern medicine is awesome too !
+Hello, I am hijacking your comment to ask a more personal question that I have always been wondering about. If you don't feel like answering that's cool too.
+
+Here goes:
+
+How do (awesome) people like you get into these abusive relationships, there must be a lot of red flags along the way?
+You had 2 jobs, he was complaining about your weight and you two were still together. Is it fear? Is it maybe even "too much" love?
+
+What kind of reasons could there be to stay any second longer the minute he says something like "look at how chubby you've become! you should work more" (or idk what horrible things these kind of people say...)
+
+Congratulations on recovering, looks absolutely stunning. :)
+At first when he is asking them where they are from they are pretty hesitant because they might have some negative experiences with telling where they are from. (maybe, I don't know, I would feel that way). 
+
+So they are cautious, but when he starts speaking their language they brighten up like a relief.
+
+Pretty cool guy and cool people :)
+MY Moto Z Play is already pretty much low-compromise for me.
+Not the BEST, but come on.. it's 250-300 Bucks.
+Awesome! I googled what the best way to connect Atmel Studio to regular old Arduinos is :)
+
+
+That would be a pretty cool topic to talk about imo, I would swing the topic pretty quickly to AVR RISC Microcontrollers pretty quickly and we'd have a lot to talk about.
+
+ The datasheet is long enough!
+Using different suppliers is definitely okay.
+
+Switching between different standards which affect performance is not.
+Moto Z - famous for thinness
+
+Moto Z Force - famous for durability
+
+Moto Z Play- famous for battery
+wat.. make it 5.8inches but keep the 1080p resolution.
+keep it 1080p please..
+I much prefer hardware buttons and do hate my hald-bodged solution on my Moto Z Play. HOWEVER, when the bezels get too thin, you need on-screen buttons...
+
+I would prefer the entire front of the smartphone being one single screen (no front camera) rather than having capacitive buttons.
+
+But if you DO have space, please cram them in.
+my 1050Ti ran it just fine! Coupled with an i5 6600K
+edit: in 1080p, forgot to say that.
+People always complain when I advocate for emulators, but Nintendo is really punching themselves this time.
+
+An emulator can do much more, and you can even build your own little console around it (Respberry Pi for example).
+It just makes more sense.
+I'm all for supporting Nintendo, but come on... these games are what.. 30 years old?
+
+I love Nintendo, I grew up with the NES and bought enough games from them, but the commercial side is just disappointing lately..
+:)
+I see, not a OP owner so I never knew, thanks for clearing it up.
+My personal limit is somewhere around 300-400€.
+I bought my Axon 7 for 350€ and at the time it was the best you could get spec-wise.
+
+Now I settled for a Moto Z Play which is absolutely plenty. Be real, for once, /r/Android. Your phone is a Whatsapp / Sync for Reddit / Youtube / Browsing machine.
+A SD625 (or upcoming SD635) is ample performance.
+And you know what? That phone cost me 250€ used (2 weeks old..so basically new)
+
+There is no need to spend these amounts of money on flagships...
+As far as I know the security updates are still kept up2date. March 2017.
+I'm sorry to say this, but man am I happy to live in europe...
+Fair enough, I never needed more than 2 connections so I'm good, but they defended their 3 connections limit multiple times so I doubt there will be any change in that department.
+
+Which service are you using currently?
+Would you be able to give me a source to that? This is definitely a dealbreaker if it is true.
+One main reason for me is that PIA is based in the US. PIA is kind of the "big dog" around and empirically the more popular a service gets the more targeted they become.
+
+I have heard positive things about PIA, too! Check out the subreddit in my post above. There is a megathread where people have more experience.
+As far as I know they have to know the number of current sessions you are connected to since their limit is 3. If you disconnect, no session data is stored.
+Would you be able to elaborate on your post? That would be a dealbreaker for me...
+I can recommend AirVPN, but there is a subreddit dedicated to VPNs and privacy, so you guys should check it out, too: https://www.reddit.com/r/VPN/
+
+The people on that sub are very helpful.
+
+Why I recommend AirVPN:
+They are as "real" as you can get. Not entirely "1-Click to win" user-friendly, but you get a cool open-source software (named "Eddie") and a very very skilled dev/support team. 
+No "have you tried turning your Computer off and on again" bs. Plenty of customization in their OpenVPN wrapper.
+Just take a look at their forums to see what I mean.
+
+https://airvpn.org/forums/
+
+A Youtube with almost one million subscribers makes more than enough to make high quality videos WITHOUT dbrand :-)
+Incredible. 6 bootloops, but I still only ever hear on reddit about bootloops, my LG G4 is running strong with exactly ZERO bootloops after 2 years...
+
+I did replace my screen though since it fell..and cracked.
+
+Other than that...superb.
+3,5 Hours max like with any other phone I had.. but I use it for 3 days so maybe the standby drain is influencing it.
+Ich werte die oberen Punkte mal nicht, dafür bin ich nicht informiert genug, aber zum letzten:
+
+> Ändere niemals ein rennendes System, oder wenn's nicht kaputt ist, reparier's nicht
+
+Das System rennt nie und nimmer. Die Baustellendichte ist katastrophal, der Asphalt unter aller sau und wir haben viel zu wenig Spuren. Es gibt immer mehr Autos, aber wir erhalten nur unser "rennendes" System als es auszubauen. 
+
+4-spurige Abschnitte sind zu peak-Zeiten heute schon veraltet und die einzige gescheite Autobahnstrecke die ich kenne ist ein privatisiertes Stück wenn man die A5 Richtung Basel runterfährt.
+
+Das ist ein Unterschied wie Tag und Nacht. Man fährt 200km lang durch gehuckel und gezuckel und plötzlich kommt ein Schild "Privat erhaltenes Stück" und ZACK! ist die Straße 100% eben und es ist ein Genuss drauf zu fahren.
+
+Die Maut wird an der grottigen Situation natürlich nichts ändern, aber rennen tut es leider auch nicht.
+That's why it is a leaked beta. The radio fix is not implemented yet of course.
+
+I've heard so much complaints about the 7.1.1, but people are forgetting that it is a leaked beta.
+7.1.1 will rollout until March 31st.  The German support confirmed this multiple times.
+The B11 update includes a modem fix for users in the Netherlands and is rumored to prepare for the 7.1.1 FOTA update.
+I'm not sure if it is an open standard or you have to pay a licensing fee. Maybe some manufacturers tried to negotiate a contract or something but in the end it was too expensive for them.
+
+Just speculation on my part, not really sure.
+Hellou,
+
+so there are different ways to Adblock on Android without root.
+
+I personally use Firefox with.the uBlock Origin Extension. You can, however, use a VPN to filter ads. If you googe "Adblock VPN Android" you should find more on that.
+
+As for Youtube, you have different methods aswell.
+You can install "OGYoutube" from XDA-Developers, which is basically a Youtube App with more functionality, like downloading MP3/MP4 and offline Playback.
+
+Or you could use YMusic, which is a completely different interface used to listen to music through Youtube. It also allows background playback.
+
+The "cleanest" option is to just use an app called *censored* which literally enables Youtube RED, and with that you get background playback.
+For the third option you have to msg me..
+
+Hope that kinda helped.
+
+It should be said that the ROOT/Xposed options are far more convenient, but I want to stay in the safetynet without hassle and the mentioned solutions work well for me :-)
+
+
+
+
+To put it in a nutshell: Way faster storage!.
+
+The reason why most Android phones "feel" sluggish or get even slower after time is that they use eMMC storage, which is ridiculously slow.
+
+Modern phones use something called UFS, but Apple kicks the door in with NVMe. It's not really the storage but rather the interface. 
+
+The end result matters: The phone "feels" much much faster due to lower latency.
+
+On your desktop PC, your storage is probably a HDD or an SSD connected via SATA3 (AHCI). The best way to utilize an SSD is, however, also via NVMe. The current NVMe SSDs can reach around 3GB/s!
+I remember Widgetlocker. I had it on my Samsung Galaxy Nexus! It was a hit!
+I can totally understand your points, I also prefer the fingerprint on the OP3T and the software support is massive due to widely-available Qualcomm drivers and good support from OP.
+
+What tipped the tide for me is the Hi-Fi DAC/Amp combo in the Axon7.
+
+That was my personal decision, which phone was "the first" to get 7.1.1 doesn't matter much when the difference could be measure in **days**.
+
+So my advice: Take a good look, maybe go to a retail store and "feel" the phones ( the axon does feel incredibly silky smooth haha ), and then decide.
+Since the main ads that bother me are the data-hogs on websites, I substituted AdAway with uBlock Origin on Firefox.
+
+Firefox got reasonably fast in the last couple of updates and I initially only wanted to try it. Needless to say I imported all bookmarks etc. from Chrome and stayed on FF ever since :)
+
+There are a couple of "Adblock through VPN" apps, which should allow you to block most of the ads.
+
+I also need to mention that the original Adaway, which works by editing the Hosts file on your Android system ( this is why it needs root! ) is much simpler and hassle-free.
+
+Decide for yourself :-)
+
+
+Fair enough, I should've mentioned that these games have that "going back in time" feel compared to current-gen PC games, which is what OP laments in the title.
+
+Titles like SS or Super Mario Galaxy 2 aren't even remotely retro, my bad...
+
+This retailer here apparently has a store in Akihabara.
+
+https://www.keitaishonen.com/item.php?gn=109883
+
+As a foreigner, the best you can do is google for Cellphone store Tokyo and then search for Axon 7 on their site. The prices are around 400-500 USD.
+You might want to link the country-specific Amazon page.
+He stated that it's really hard to get in his country, so he probably is not from the US.
+
+Here's the japanese link (due to Katakana characters it is huge..sorry)
+
+https://www.amazon.co.jp/ZTE-A2017G-SIM%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3-Android-%E3%83%87%E3%83%A5%E3%82%A2%E3%83%ABSIM%E3%82%B9%E3%83%AD%E3%83%83%E3%83%88/dp/B01HGJD2MA/
+
+If you calculate the price from Japanese Yen to USD it's around 430$.
+ So, OP, you should plan for around 450-500$ if you plan to buy it from a local retailer :)
+That depends on what you consider bloatware.
+Proprietary Calendar/Clock/Gallery etc. apps? If you mean that, then yes, this phone has almost every app including Dialer etc. replaced.
+
+If by bloat you mean non-Google Apps that are preinstalled on your system then I can say that you can count them on one hand and they CAN be uninstalled normally like any other app.
+The only thing that I cannot uninstall and need to disable is their ridiculous Touchpal Keyboard replacement. Replace it with GBoard and you are good to go.
+As an avid ex-flasher (stopped recently with the Ax7) I believe that it is currently NOT worth it.
+
+For some scenarios, the mentioned BadBoyz ROM might be okay (afaik the only real stock rom out there).
+
+LineageOS apologists probably will not like me for this, but there are more bugs than the dreaded speaker audio.
+Not to say I am *very* grateful for UD's work since he basically maintained this ROM from the ground up (with the help of others mentioned as mentioned on XDA).
+
+But **currently**, there is not much that draws me personally to root.
+Stock 7.1.1 is plenty fast (using Nova launcher) and the only 2 reasons I used to have a Custom ROM are YTBackgroundPlayback and AdAway. Both of which can now be achieved with workarounds without Root / CRom.
+
+So at the end of it all, it all comes down to your personal preference wether or not you absolutely need Root/Customization options that you don't have in MiFavor.
+
+As for Battery life: Both Lineage based Roms and Stock Roms are well optimized and should give you similar battery life.
+
+Hope my view helped your decision.
+I believe the whole cache clearing / factory resetting is a placebo effect.
+
+Afaik, caches are rebuilt enough times anyways and unless you have a ton of apps which can run rogue/wild you can simply Up-/or Downgrade as you like.
+Not sure about Retro games but I really like my Nintendo Gamecube and Wii collection. The plus side is that you can emulate the games pretty well and even play them with upscaled textures. The graphics aren't Witcher, of course, but Super Mario Sunshine / Galaxy, Zelda Windwaker, Twilight Princess, Skyward Sword and of course the entire Metroid saga can keep you occupied and they never get boring in my opinion!
+
+They are not really retro, but I am in my early 20's and played them in my childhood :-)
+The "Stock Android" option is only available for US models.
+
+Do yourself a favor and save some time by just installing trusty old Nova launcher. The "Stock" look that the US users have is inferior in my opinion. The app drawer icon is washed out for example.
+
+When I was on A2017U software I installed Nova launcher anyway.
+represent
+I have a device with a FP Reader on the back (Axon 7) and I would like for it to be on the front to be honest. I like the OP3T solution.
+
+But I think that's really the biggest example of **personal preference**
+Fair enough, I ignore reviews of that kind. That's the downsides of user-reviews. Most of them are just stupid (sorry..)
+Check XDA for flashable zips, you can simply flash the bootstack+system most of the time.
+I hear about a lot of people buying it from Amazon.de (German Amazon)
+
+If not, you could find a German who can buy it for you and then ship it to you via DHL.
+
+Edit: It would be about 350quid for you from Amazon.de
+You don't like it and that's okay! :)
+
+ I own it and love it, but in todays market you have plenty of choices in the Android ecosystem.
+To be fair, there were and are some valid concerns about this model. (DRM, price point).
+Get a used WiiU for like 150$.
+
+It is the BEST invest you can make if you value games and are on a very very tight budget. I don't know if it's morally acceptable, but Nintendo basically screwed up and it's incredibly easy to just download games and play them on the Wii U, including all VC titles and og Wii titles.
+
+That means you have the library of all games up until Zelda BOTW for ~150$.
+
+And even if you are not struggling to get food on the table while being able to game Nintendo games, you can also buy BOTW on the WiiU and it is just as good :)
+Is it worth driving to Paris (400km/250miles) , then selling it on ebay?
+Reddit market experts, do you have a prognosis?
+At those price points I would slam the brakes on the hype train hard and sign up for oneplus.
+Unreachable utopia unfortunately. I'd love it though.
+6" with small bezels please :)
+Huge respect to Air Force mechanics though. They have great responsibility.
+I followed the golden wiiu.guide and followed the route **without haxchii**.
+Once I am in my redNAND I can get to Homebrew Launcher via the Channel.
+
+But getting into redNAND is incredibly unreliable, the Kernel Exploit
+(I believe that's what it's called) freezes my wiiu around 6/10 times.
+
+Is there a more reliable way to boot into HBL?
+My 64GB is actually more like 62GB, and then after installing redNAND onto it, it shows 29GB of free space. So it looks like 32GB is unsufficient for the black Wii U.
+On the underside of your Wii U you should see how much storage you have :)
+I love market research on reddit.
+Consider moving to FF on all platforms. I made the switch about a month ago and I am positively surprised. Have it running across all of my devices (Mac OS, Windows, Android etc.).
+
+I just imported all of my bookmarks etc. into one copy of firefox, started sync and it just left me at the point where I took off in Chrome, very uncomplicated :)
+"Thanks for paying 69.99€ for this piece of plastic that is basically a mandatory purchase if you want to have a decent playing experience"
+
+Glad to see your opinion. I share it. Loved my G4, never had any bootloops with it, my mother is still using it (going for 22months now). It's incredibly easy to repair.
+
+The specs on the G5 look hot too. I cannot imagine a scenario for me or my friends to ever need more than a SD808 or something along those lines. Man people nowadays love 800$ Whatsapp machines.
+Didn't say that it was new. It's good to see more cooling techniques being applied. Not many manufacturers choose to go that route. You mentioned Samsungs Top device. That's one device...
+Pretty much all phones use some sort of thermal paste, it's pretty cool that LG opted for heatpiping though! :)
+The only thing I want is to mass delete super old apps in my "All Apps" list...
+Your number 1 issue will be addressed in the following 7.1.1 update.
+There are some reports (even screenshots to back the claims up).
+Unfortunately a lot is under NDA. Rest assured that your app lags are addressed. It will take a little while though.
+
+I notice it most of the time in Whatsapp. Sending photos is horrible!
+This is an issue on Nougat. Which software version are you on?
+IIRC calls go through GSM frequencies. Either way, 2G (You might know it as EDGE) has nothing to do with your texts/calls.
+Hijacking to ask how I actually update.
+
+Fresh install is always with Rom,Gapps,SuZip(from your site) etc.
+
+But if I just update to a newer build, do I still have to flash everything like SU again or just the one new build.zip?
+As far as I remember AptX got reverted? Great stuff that they do these recaps in prosa form. Many people don't really know how to use gerrit. Maybe they do, but don't want to invest the time there.
+
+In any case. Great stuff ! :)
+Switching SELinux to permissive will definitely trigger SafetyNet so I think Android Pay won't work? It doesn't matter to me since I'm not in the US.
+But yeah, it doesn't affect your OS.
+You need to be rooted, just get an App called SELinux switcher. It was on the PlayStore before, not sure if it is now. Then switch it to permissive via app (there are literally only 2 buttons).
+Many people are forgetting that you need your SELinux to be set to permissive. This can be achieved with root aswell. So you basically only need root.
+Great to hear! It is my absolute favourite by far. The similarities to Death Note, as you mentioned, is pretty clear.
+
+Nina is hated by pretty much everyone I know.
+Are you excited for R3 or do you think R2 wrapped things up neatly?
+Medium Reception, I think the bad battery is due to my high standby usage. Many people use their phone, get 6h SOT but have to charge overnight. I often go about 2-3 days.
+Might aswell turn it completely off then haha. Thanks for the tips though.
+No, it's not the devices fault, all my devices never get above 2h-3h SOT but around 3 days of standby. I just use them rarely and they suck away around 1% per hour..so after 3 days even if I don't use them they will be empty.
+Works on A2017U and A2017G (europe). You have to flash different Modems and that's about it.
+With MM, Nougat and LineageOS I never get above 3,5h SOT while Phone Idle gets to about 3 days.
+
+Not sure why, I'm a pretty lightweight user. Only reddit no gaming.
+lel Germany. Years of tears...
+An deinem Nick sehe ich, du bist ein Franke. Sehr schön :) Die tollste Gegend hier in DE.
+Not indicative, but mine is running strong. H815 Variant from the first batch (HW1.0) and never bootlooped.
+Do we? I never noticed an AOSP like skin. I can switch between "Classic 4.0" and "Platinum" and some other colors but that's it.
+I have never owned a bad phone. I only had enough money to buy an Android smartphone when I was old enough to read through forums and search for the best.
+
+Absolutely loved my first one, the Galaxy Nexus. Good old AOKP times. After that came my LG G4, superb phone for the price, running LineageOS 14.1 currently.
+
+Now I have an Axon 7 since I got into Audio and have good headphones and do not regret my decision at all.
+Nowadays I would recommend anything that has a Snapdragon 6XX and 3GB of Ram.
+
+I have, however, owned one FLOP device: The original Nexus 7 from Asus. It was pretty decent at first, but then the eMMC storage got PAINSTAKINGLY slow which ruined the whole experience.
+Now..my Nexus 9 does not get love and is not even officially supported by LineageOS even though it is a Nexus device and all drivers are released.
+
+Guess I have bad luck with tablets.. Can somebody recommend me a CM/LOS supported tablet with 10 inches?
+Spotify and Poweramp both use the AKM DAC. Never tried Rocket player.
+You almost are able to decipher **some** of the contents!
+WOW
+What is up with their site layout?
+
+https://puu.sh/tP6hf/69af23c62e.png
+
+
+Also, I think they run lower profit margins with higher sales figures.
+I'm not sure their target group are enthusiasts for 200$.
+
+I really enjoy these durability tests. Especially Zacks. But keep in mind this is a 250$ phone, one quarter(!) of the price of a premium phone. Granted, there are other 250$ phones out there which don't have these issues, but still.
+ The phone has a lot of features, just not for the Android enthusiast on Reddit. Just something to keep in mind while keeping the ranting in check.
+
+Zack also always says that his durability tests do not show the devices other capabilities. Even if a phone breaks, it can still be a great device to many people. The Nexus 6P is a favourite here und broke completely aswell, same with the Robin.
+
+Axon 7 is going to be officially maintained soon.
+You usually buy these for a fixed price. They are not cheap where I come from.
+There is always a huge core in it meaning less actual flesh.
+
+This time, there was a tiiiiny litle core meaning more flesh, hence he won the lottery when picking his avocados.
+Thank you for replying! Great to hear, I don't mind waiting. Just wanted to hear if my little flounder is getting some love too like all nexuses.
+
+
+Hey guys, I was wondering why flounder (Nexus 9) is not being built. It's such a cool device and it being a Nexus means it should be easy for LOS to be built.
+All blops should be readily available etc.
+
+Would be super excited to see an official build :)
+What kind of settings do you recommend for night time shooting? Looks a lot less noisy than my attempts :(
+Their SD625 is pretty solid. You should really put that poorly in quotation marks. My SD820 phone flies above everything ever needed for simple mobile-class apps.
+
+What we need is the performance of SD820 but instead of saying we increase power by 20% and efficiency by 10% it needs to be power by 5% and efficiency by 25%.
+Videos :)
+Spotify? For Youtube? I'm afraid I don't understand..
+Does anyone have a consistent alternative for Youtube Screen Off and background playback? Afaik the XPosed module spoofs a Youtube Red account and it works flawlessly
+Not sure how it correlates but there are much more Custom Roms for Qualcomm Devices than for other SoC devices... Many devs just pick proprietary qc blobs and implement it for their device. It's very convenient if you have many SD820 devices and can easily bake together a stable ROM.
+Still distorted. The CM13 bugs have not been fixed yet.
+I am sorry gw3gon, I did not see a "North americans only" warning when I entered this thread.
+Hello 'Caliph_Imam_Obama', I already know how he acts and what kind of candidate he is, I saw a couple of his speeches.
+
+What interested me is how he was able to be a candidate in the first place with such a past.
+Thank you for answering in detail. I understand that the major point where he got famous was his TV show?
+I got responses on why he is bad and how his candidacy went. I wanted to hear how he got popular in the first place, because I had never heard of him before the election.
+I am sorry 'assjuice666', I just wanted to hear opinions from other redditors. Hope you can still enjoy your day.
+Hello, I am a European teenager who has never heard of him before the U.S elections. Imagine you are in 2014 and trying to explain who trump is, what I should know about him and why.
+
+Could somebody from the US do that for me? Because I just cannot understand how someone like him can even become a candidate.
+
+Thanks for educating :)
+I'm wondering if the concerns were gone if the camera was gone aswell...
+
+In my usercase I wouldn't really need it to be honest. Not much to share in my day-to-day life and if something happens I pull out my phone.
+
+What I AM interested(or rather completely excited) about is that I can literally watch the news or Youtube or whatever all the time.
+Call it cyberpunk-factor or whatever, this would be a product I would have no real use for but would be tremendously "cool" to have.
+Unfortunately I feel like no one would shell out the kind of money it aims to cost (~1000$ if I recall) for a "smartphone extension" so-to-speak. Just look at Android wear. The adoption is cripplingly low even though they are not even expensive.
+
+Just my opinion.
+I have an Axon7, which has is on the back. I prefer the Oneplus solution to be honest...I often use the device laying flat on a table and that makes it a pain to be honest.
+
+6600K with 1050Ti here at 1080p around 70FPS.
+> http://www.geforce.com/whats-new/articles/give-star-wars-battlefront-a-4k-makeover-with-toddyhancer-mod
+
+It's just a SweetFX preset. There are multiple Youtube tutorials on how to achieve an effect that will look 90% the same as Toddys version.
+The hate is real. It's just a boot animation.
+
+I like it :)
+Meanwhile, we on Reddit like to have "rankings" that show how speedy updates are.
+
+We are part of the problem by demanding something that is apparently not feasible without bugs.
+
+Then again, hardware producers should just slap AOSP on their devices and let us flash nightlies in my dreamworld.
+
+We need to accomplish something inbetween maybe? Oneplus is already near-stock but still has a lot of customizations in Oxygen OS which takes time?
+
+I know that in professional settings deadlines have to be kept, but still. It must be annoying to have that "ETA???!!!" stuck in your head as a dev...
+Huh? The average "millennial" I know is on the low tier at best. They can handle a file explorer, might even know how to install an antivirus or post Facebook posts, but fixing computers?
+
+Maybe that's just in my country and people from the US are more tech savy?
+
+If by armchair CEO's you mean reddit, I chuckled.
+If by armchair CEO's you mean reddit, I chuckled.
+as far as I know you can update bootloader partitions manually? Not sure if CRoms play well with that but consider the bootloader basically calls for the Rom to be loaded there should be no changes.
+
+Maybe Vendor partition or something like that needs to be updated but it shouldn't be too much of a hassle...
+
+I would like them to be thinner, but around 5.7-5.9inches to compensate for that. More surface area and it would be cool if they were bezel-less like the Xiaomi Mi mix. I don't really need a front camera to be honest...
+
+There will probably devices like that in around 3-4 years aswell as thicker ones with bigger batteries.
+
+Just like the Moto Z Play. Pretty cool device that should satisfy /r/Android s needs.
+Crazy. As someone living in a schengen country in the E.U this is so surreal for me that there is a car constantly parked at a trivial border like this that will correct you if you take one step off the sidewalk.
+
+I mean, sure, there are border patrols here too on rare occasions, but still the most we have to do is show our passports real quick and prove we are an E.U citizen.
+
+But I suppose you could compare it to the different states in the U.S.
+
+Still, Canada and USA are just so very similar in many aspects (if we ignore the "im sorry" memes etc.) and it's not like Canadians would do any harm if they were allowed to go dining to the American restaurant across the street without going to Border control....
+Wow, all these people here talking about their high insurance cost. But what wonders me is how ridiculous your prices for procedures are?
+
+Is that cancer treatment for 20 years or just 1 year?
+
+The second most upvoted comment says that an appendectomy costs 24.000$ WHAT?
+
+Doctors must be filthy rich in the US...
+My old LG G4 had everything except for front facing speakers. Really good. I still have it but as an audiophile I could not pass up the Axon 7
+
+No, the G4 did not bootloop in the 16 months I had it. My screen broke after I dropped it, but this thing is so easily user-replaceable. ^^
+I tried it out and while I appreciate the effort /u/MarshallOfSound has put into this (he's a cool dev) it's just not cut out for me.
+
+I tried it out for a day only and it instantly reminded me of the web interface. Like it just polls the website and displays it in a windows environment.
+I just temporarily "left" spotify to test out GPM with the 4 month trial.
+
+I prefer Spotify over GPM anytime, but 4 free months got me. 20$ are 20$.
+
+GPMs webUI is horrible, they have no desktop client and every song "loads" or "buffers" for me whereas spotify just plays.
+
+However, their App is pretty cool and I just LOVE that swipe down to get to playlists gesture.
+If it wasn't so cluttered by suggestions, "im feeling lucky" etc. *sigh*
+
+If spotify implemented that downswipe that would be nice.
+
+I just want to hear my playlists, not "discover weekly"...
+Definitely Sync for Reddit. I just love that the dev keeps implementing user requests and you actually have the opportunity to talk to him and he respons via his subreddit.
+
+It's pretty good! :)
+I am pretty sure he just meant unofficial sources that cannot be checked. For all we know the adb binaries from XDA could be infected and just be fully undetected or something like that.
+
+But yeah, warez are still a "thing". Games still cost 70$ and movies and music is pretty expensive aswell.
+
+With alternatives like Netflix and Spotify the demand is of course lower because almost anyone can shell out 5 bucks a month to listen to music, but some people prefer downloading stuff.
+
+So yup, Torrents, Oneclick Hoster, Usenet still alive and well :)
+> Homebrew
+
+Brew is such a hassle-free way to install things on macbook. 
+Mobile Data phone: 1GB max (after that my provider throttles to 64kb/s)
+
+Tablet Wi-Fi: Around 25GB (Youtube only)
+
+Home Ethernet: Around 500GB-1TB per Month
+
+Seedbox: You don't want to know
+
+I am on 0 times :) Replaced the screen a week ago because I dropped it...other than that. LG G4 is superb and cheap.
+I don't think this is much of a deal. Many people even professionals use Micro SD cards. 
+
+However I don't really understand it, because they could've used Mini-HDMI or Displayport aswell, there are plenty of adapters and everyone I know has a mini-DP -> HDMI adapter lying around because of Macbooks and other laptops.
+
+Actually comparing the other 2 cars in the right lane. Look at their brake-distance! They avoided a crash but it was close.
+The tesla slammed on the brakes and came to a stop in a couple of meters.
+
+Very impressive!
+Got the Axon7 for around 370€ a couple of months ago. Came from an LG G4 where I had to use a separate USB DAC/AMP...how tedious.
+
+
+I would love to have AOSP on the ZTE device as I had on my G4, but I have to admit that I only use Whatsapp, Youtube, Reddit, Chrome and of course Music apps so the OS doesn't really matter to me as long as it can do basic functions.
+
+Notification bell is fixed on EU devices now, too so that's a plus.
+
+Great device.
+I think so too. The yellow panel on the side, and it looks like Germany :)
+https://www.picotech.com/images/uploads/library/_med/mains-analysis-fig1.png
+
+I have one and unfortunately it does have lightbleed. The buttons are totally fine. Battery is fine and it is overall very responsive EXCEPT for opening apps. Like the first gen Nexus 7 I think it's something with a cheap eMMC storage..takes forever to load but once I am inside an app everything is just spot on. Games are fast too.
+
+Overall for the money such a good buy! Congratz! Not for 400$ though.
+
+Also a plus by being a nexus you have so many custom roms, I even had Remix OS on it and it ran so well(!) but I wanted to try out Nougat :)
+Hello, I am a hobby-graphic designer. I have not yet designed a subreddit theme, but have done a couple of online forum designs.
+
+Send me a PM if you want a couple of tips or maybe even help. Naut base looks good, but also very overused imo.
+
+Greetings, digging all the other ideas!
+The only people who can "acknowledge" this are actual devs...
+I would rather talk with an actual guy from tech than a community manager...
+Flushing DNS can help, many provider lock the Network via the Firewall / DNS.
+
+If your app is freezing it often helps to undo / redo the network lock.
+370€ Axon7 here. Never going to buy a flagship phone again. 400 is my absolute upper limit for a device I'm going to switch in 24months anyways..
+Notificatiom bell has been confirmed to get a fix with the B08 update in the following weeks.
+Any force closes? My G4 was unuseable because everything crashed. Is 500dpi safe?
+Well done!
+Very essential!
+
+At first I had only Nexus devices with a maximum of 32GB of storage. I had to backup all my photos on an external HDD every couple of weeks. Also Whatsapp images etc. etc.
+
+Keep in mind an SDCard is usually slower, but for things like Photos, Whatsapp etc. it's plenty fast.
+
+Also: FINALLY I can keep all of my Spotify playlists locally on my device. Trust me, 64Gigs of extra storage for 20$ are so worth it.
+
+You stop worrying about how much storage you have left.
+I'd much rather get a 6inch display, but the point is still the same for me:
+
+I would go for a 1080p Pentile AMOLED display.
+
+It is still good enough that you will definitely not see the pixel difference in daily use (Whatsapping, browsing reddit while on the loo etc.)
+
+But you will have better battery life, your gpu won't struggle, resulting in more FPS in games. Less CPU GPU Stress overall.
+I'd rather have a fingerprint, USB Type C, lots of Ram, Storage and all other things first than a 1440p screen. At 6 inches I cannot see the difference at all, even with Pentile displays. 
+
+Heck, I was okay with my Galaxy Nexus 720p Pentile Amoled screen.
+I see almost exclusively plus points:
+
+Advantage of 1080p:
+-Less battery consumption
+-Less CPU Stress
+-More FPS in games
+
+Disadvantage:
+-Doesn't look as sharp for some people
+Is there a student 5€ version for GPM? Or even 7€. Sign me up. And playlist migration would be awesome so I could check which songs are available and which aren't.
+Old world blues really spoils the challenge...
+is ZTE affected?
+Read it on the XDA thread.
+Please consider voting even if you don't own a ZTE device. The threshhold for them to consider this is 500 and we are hovering around 300 currently..
+My bad, I meant optional of course! Wanted to type "now"
+Most bad reviews focused on the notification bell. It is no~~t~~w optional since update B29.
+
+As an owner, I cannot say it's too bad. It doesn't look 100% stock but it is snappy enough for me.
+
+The developers are communication much better than I expected them to in their community forum. If you have decent suggestions on how to make things better chances are that they are going to implement it.
+
+Also, the Nougat test builds look much more close to stock than the current MiFavor version.
+
+Overall I would give them a B+ if you consider Nexus software to be A+ :)
+Hello! Thank you for this app! Solves one of my minor nagging point about the volume mixer. I know the struggle when you have to tab our of your game.
+
+2 small things:
+
+- I would love to be able to change the Default Playback device (already mentioned I think)
+
+- The design is okay, but there's room for improvement. I would gladly help out for free if you need any help on design parts only (like icons, design elements etc.) Just contact me!
+I don't know about that. Back when I had my G4 on stock I just threw Nova launcher on it and it was pretty decent. Not that far off from stock.
+This is a known scam taking place on the german Amazon page. Report the guy. In the description he tells you to e-mail him.
+
+They are data mining and scamming people, never sending products.
+If you are looking for a pattern look at these new 4k TVv
+
+https://puu.sh/s4e1h/f1aa8e32bc.png
+
+https://puu.sh/s4eaN/3115d7e901.png
+
+
+I advise you not to buy from these people.
+Is that something that only happens to you or in general? Because the syncing seems to be totally fine for me. 
+
+If I add a new password on my PC it will automatically appear on my Phones too.
+I'm currently using Enpass premium. What are the pros and cons of all the major password managers? 
+
+Would anyone mind clearing me up about that? I would be using the premium variants of the respective managers.
+Not for European and Chinese devices.
+
+ZTE focuses completely on the US market on this one sadly...
+the launcher sucks, but the skin is ok
+I was thinking about hard flashing. Not just OTAing. Would it have effect on my LTE connection?
+Could I potentially flash this on my 2017G model?
+The LTE bands are important for me so I'm sticking with the G Model. Fingers crossed that the ROM community will have something out to mitigate this unfair-ness...maybe 2017G users can flash the U rom or something like that..
+The game I most enjoyed in my adult life and would give a 10/10 is Fallout3/New Vegas.
+
+Objectively maybe not the best game but for me it was and still is. The vast world. I lost countless hours in it.
+
+My 2nd pick would be Kingdom Hearts. Sora and his friends brought me through my childhood. Thank you thank you square and disney. I feel like video games saved me from a dark place.
+leave it, everyone on MAL who would care about this App uses that abbreviation :)
+Wow! I was thinking about buying the Axon 7, but many people said the camera was terrible.
+
+It's "OK"! All the night shots were terrible from the cheapest to the Pixel, I don't mind that. The photos in good light looked good enough for me. Thanks for posting it! :)
+Rooting without unlocking BL? Is it not possible outside of EU?
+I don't mind the wait for 7.1, it should be fairly quick to adapt given how it is only a minor upgrade-step.
+
+Thanks for the info!
+True that! I've heard that it doesn't really matter when your phone was built, any model could bootloop at any time. If that risk percentage is too high for you, you are definitely off with a better phone.
+There are plenty other options in that price range too :)
+It's LGs fault ultimately and they lost tons of customers at least on reddit with their Quality Control!
+Looking through the comments makes me want to think reddit became a pool of electrical engineers overnight.
+
+Every Note 7 in that store is definitely going to combust any time soon now.
+I still go with the "dis is literally robbery". It is in OnePlus territory performance-wise. Maybe 100$ more for the softwarestuff which I really don't care about . The first thing I would probably do with a pixel is uninstall allo, duo, several other Gapps and hard-disable assistance or any voice recognition.
+
+Then again, I am probably not the customer google is aiming for.
+I dislike telemetry and data logging so yeah..
+No bootloop here. And I have one of the "affected" ones. SN506 ,H815 H/W:1.0 if anyone cares.
+
+And no, it will never bootloop, I will write the same in 3 years.
+
+In Germany you call those "Montagsfahrzeug" for cars.
+
+It basically means a bad batch of devices that will randomly stop working or develop faults but you can't do anything about it.
+You are right, it's probably more around 0.001% :/ Yikes!
+
+But seriously, the whole SD808 (G4,V10,N5X) variants probably sold millions. Even if you take all the "reddit complaints" and multiply it by 1000 it would still be 0.5%...
+I'm honestly intrigued about Germany...only one of my friends still lives with his dad. The rest of them moved out when they started studying and so did I.
+
+I have to add that as in finland you get money from the state aswell in order to pay ror your rent.
+Neither should this nor any other place be for console hate.
+
+I don't understand the console hate at all. Just some people with superiority complex thinking they are something "better" by writing "PCMR" and having more graphics power or whatever.
+
+I play on PC, I built it myself, I had a good budget. So what? My friends play on a console and I like to play with them, too.
+
+It all gets down to having fun. Some people just take it too seriously.
+
+If your existence depends on educating "measly console peasants" about how "cheap and fast" your "custom built" gaming pc is then you should pull the curtains to the side and go outside to see how insignificant "Console vs PC" really is ;)
+
+Keep playing on PS4, OP, good luck and have fun in your matches!
+Slightly related to this topic:
+
+Is there actually any word by any dev as to why they are removing the "open-ness" on Android?
+
+We all speculate "security" blah blah, but is there actually a dev working on Android 7.x who can tell us "Yeah, we need to do that because the execs don't like open systems".
+
+Surely no Android dev would like to do this safety-net thing and other restrictions on purpose?!
+There are a lot of those already on the market?
+
+https://www.amazon.com/Mushan-Charging-Magnetic-Blackberry-Smartphones/dp/B01J74BVXY/ref=pd_lpo_107_tr_t_3?_encoding=UTF8&psc=1&refRID=R4651DSSQ6JMEV24761F
+
+
+just one example on Amazon.com
+
+Aliexpress has a lot more to offer and cheaper too!
+
+Edit: Okay you have to buy a separate one for iPhone and Android but those things are used to stay plugged in anyways so it doesn't make a difference at all!
+I'm even using an LG G4!! It must bootloop any time now. Panic mode activated!
+What percentage have gone up in flames? I've hear about 30, now multiply that by 1000. Maybe 30.000 in the whole world.
+
+How many Note7 are out there? 5 million? So that's 0.6% gone up in flames.
+
+
+Heck if I find a used Note7 for a cheap price, I'm going to buy it.
+
+
+My H815 506 is going strong!!
+The changelog must be a joke.
+I love LG, they have cheap used prices because everbody panics about bootloop :)
+Read the thread again please.
+As you can see, it's not true :) Check the recent edits.
+So after treading the 10 top posts.. boy boy boy this sub seems to be triggered by LG.
+
+People throwing the word Bootloop around like it's candy.
+All it took to fix this is uninstall a couple of apps?
+
+Maybe incompatibility with the LG skin? I don't know, but definitely NOT a hardware issue.
+
+But it doesn't matter. The rumour is spread, soon everyone will think the V20 bootloops even if it doesn't.
+
+Same with the other phones. Some LG G4 models bootloop, yes.
+
+But this sub thinks that the Nexus5X bootloops, G5 etc. No proof.
+
+not LGs fault this time ;)
+Sure, I'll try to be as exact as possible:
+
+S/N:506KPLC48...
+
+H/W: 1.0
+
+LG-H815
+
+Made in Korea
+
+Bought in Germany, Europe from a Carrier.
+AMA I throw my G4 around like a maniac, flash roms on it, no warranty (bootloader unlocked). Still running like a charm after 15 months :D
+Yay!! I'm so stoked!! I love low-power builds and I kept hugging my 750Ti until now. Finally a card to replace my little rascal :)
+
+Seriously at that price point the 1050Ti is like 1.5x so good.
+
+For Overwatch, League and casual games at "high" this is more than enough.
+Remember guys: You are in the minority. There is a reason why they don't introduce the 5.2" device here. They have a market research team and know full well that it's not worth to release and go through the specifications to please a handful of redditors ;).
+
+I'm as sad as you are, but there is nothing I can do.
+XD.
+
+I already thought the Pixel price was too high...
+ööööö :D
+
+nice work!
+Alright, I'm gonna check it out. Thanks a lot!
+Yup, running the old official one. Thanks a lot :)
+If you have a clear screen you can put a matte protector over it.
+
+If you have a matte screen you cannot put a protector over it to make it clear again.
+
+So while the protector variant is inferior I don't think there is enough market for a matte phone currently.
+Wasn't there a "Lite" app recently floating around? Does anybody have a link for that?
+Can I just update the apk or do I have to uninstall the old one?
+I'm currently running the latest non-material version on ARM64 SDK23.
+
+Are all my Xposed modules just going to stay?
+Who in their right mind would take drugs?
+Nice touch with the bodypaint. Very original!
+
+классно)
+And here I am without a bootloop for 16 months and voiding the warranty on the first day by unlocking it via their official method.
+
+H815 all the way! :D
+That honor 8 looks so sexy though...
+They were out of danger when they entered in Greece / Italy, yet they head north.
+dank meme
+Hello there, certainly. I got it from a site called www.elobuddy.net
+
+You should PM "Subjective", he is a community moderator there, not sure if I can give it out, but he certainly can :)
+
+Best of fun with the pranking!
+Yes! I want to visit crimea now
+LoL Enhancement Suite by Snowl does that.
+
+It's discontinued but a dev updated it for this patch and included the feature to change the appearance of your rank.
+
+If you want I can share it. Not sure if it's allowed here. "Don't share how to cheat"
+german here. Sounds about right. We want no more war
+I thought this was a joke
+scary
+no? usually everyone wants to move TO the usa not the other way round
+woo cool. engineers are searched here !
+
+good luck. please learn german ty :D
+Haha I live 20km from Offenbach am Main. Can confirm it's Turkey with Haftbefehl and the likes.
+
+I'm interested by the US foreigners. Why are they here?
+
+more than before. not enough apparently
+because he now has counterplay and would be completely gone from the meta if not for those 6 seconds
+more like 5
+tier 2-3 now he is tier 1 who else is tier 1? there will always be op champs
+In my experience native apps are just way smoother and Android offers so much especially if rooted.
+
+best recent example is imgur App
+rebooting did the trick. I feel like a donkey, should have tried that before. Thanks so much for the help. Removed the ads instantly, couldn't afford the cake unfortunately :(
+"Can't start voice recognition". Any idea on how to fix this? Would be great :) ty
+i chuckled
+15$ :)
+I made my Matura in Nidwalden which is stereotypically conservative but we did everything in standard german. 
+Our German teacher encouraged me to use the ß letter in my essays :)
+I'm a German and I lived in Switzerland for 4 years. There is definitely prejudice although I think the cultures are 95% compatible / similar. Swiss and Germans have a similar way of life and are strict/punctual etc.
+
+I was there from Age 14-18 and suffered minor prejudice because I didn't speak their dialect. It's mostly about this idiotic language barrier where I as a German am not allowed to speak German although it's the national language.
+
+If I migrated from Bavaria to Berlin nobody would judge me because of my dialect. The Swiss do.
+
+That being said it's not particularly gruesome hate. Just another nudge here and there about integration.
+definitely not, but more than expected ^^
+As always on reddit. Shun the center right parties and "never vote for ukip" but in the end the result will show ;)
+
+It was the same with Germany. No one ever votes publicly for CSU but they have a majority.
+lol
+look up "hi im l33t" XD
+http://i.imgur.com/m2Mn0hB.jpg
+http://i.imgur.com/m2Mn0hB.jpg
+http://i.imgur.com/m2Mn0hB.jpg
+do they have special benefits or privileges? 
+seriously, though.
+
+What? I never saw that lol!
+You should do that ! :)
+
+It's a free country you should be allowed to do something like that
+but they are taxing all the people..
+bs
+I gladly pay to have better roads. Poor East-Germany, the stuff they have to put up with :( 
+True. But the money is used elsewhere.
+Thank god I live in a place where almost every road and Autobahn has been renewed at some point.
+
+Frankfurt Main, but still Bavaria (border) <3
+**sigh** ... my government
+Hello Pinn im Konoe XD
+Awesome :) 
+I want better roads!
+can confirm
+ok
+no.
+i think its about 50/50...
+XDXD
+WIP WIP WIP WIP
+YES!
+well...30 games in a row with under 10 ip pls :(
+
+i expect a little boost like 100ip per week at least
+XD SQUAD
+LOL MKJOGO I thought he used bol or leaguesharp
+
+mkjogo is not cheating lol
+    Myfavourite support <3
+Lag Exploit by Joduskame <3
+
+
+Every EUW/EUNE/BR player got banned in the banwave for 3rd party usage :(
+
+including me of course.
+The bad thing is that now all the scripters are cracking accounts.. poor kids 
+Scripting is always punished with a permanent suspension.
+Source: Banwave from 2 weeks ago.
+
+what about opinions?
+do we have to wait for the Drop to use her ult? :s
+Or just be like David, he was a Developer on Bol and earned teemo hats from Riot. Ridiculous.
+Ask a random brit on the street. I'm pretty sure they wouldn't know.
+The problem is we base everything off of these Lolking Winrates.
+once something is slightly above 55% shit is hitting the fan.
+Yes of course there's a difference. Ask that to a farmer in Germany, he will tell no difference my friend.
+I still feel a connection. You cannot distinguish if a Ukrainian a Pole or an Estonia speak english. The accent is the same.
+"Eastern european accent"
+
+With all those people I feel a connection.
+
+Edit: GUYS PLEASE. Ask an American or western European. You know how much they care that Baltics are nordic and not slavic? You think they would notice a difference? Please be realistic.
+He does a good job in this very hard country.
+When you actually understand his interviews he is not the big overlord.
+
+Don't mind my flair by the way, I am half-half.
+
+I would love to see the Russian society and government more welcoming towards homosexuals, that's my only issue. It's not as bad as the media portrays it, though.
+
+8/10 if I were to put it in numbers.
+THIS gets gold? Ridiculous.
+It's because of a store exploit since the store is basically just a website.
+Is this 2015? 
+Ridiculous by Facebook.
+upvoted!
+
+neutrality ftw, I hate brigading
+yes I can.
+Jinx:
+
+Automatic W Harrass in Lane, automatic Q switching for Targets out of range.
+Automatic Ult with prediction. Baseult (kill people in base when they recall on low health)
+high attackspeed = good orbwalking = a lot of DPS
+Automatic Chompers on impaired movement.
+
+Kogmaw / Ezreal:
+
+Hit every skillshot with movement prediction, orbwalking, autoQ for lasthit etc.
+
+Scripts just give you High Diamond mechanics, that's all :)
+
+
+Jinx.
+I have also been banned.
+Jinx, Vayne, KogMaw, Ezreal benefitted the most.
+Nexus 5 user, like once a week probably.
+No.
+"in their pocket"
+
+eu has the rest "in their pocket"
+
+split the world into pockets, how nice..
+nice winrates in Season 4 KappaHD
+Hard Spacebar Kappa
+edited
+
+just an example from my last game lol
+Hello. The new Season started. Do you want to be eloboosted to get out of elohell?
+
+**sigh** delete...
+
+These bots...
+I love how you say " because x hasn't been nerfed yet "
+
+Shows that Riot strikes the NerfHammer to strong lately imo.
+
+Someone who is a viable pick gets smashed instantly because people cry "nerf plz"
+so? nothing new lol XDXD
+plat 1 is ALWAYS the highest no matter if you were challenger or something else ^^
+Prodiction or Vpred?
+R.I.P Assassins Season 2015
+Just surrender. I don't even try to carry and stuff. A game like that is not fun, and if I don't have fun I just surrender.
+
+Unfortunately, people hide behind anonymity and are toxic. Nothing new.
+When I smurf in Gold I ask them kindly if they want a guaranteed win or not.
+They usually give me my role but if not it's ok :)
+
+83% Winrate is not bad for Gold I guess. The only games I lost is where I didn't get my role unfortunately..
+60-70 is ok.
+80-100 ms is decent ping TIL lol
+100 is unplayable coming from Euw with 20 ping.
+Teambuilder still takes about 20 minutes for me on EUW :(
+
+Normal Draft queue is like 1 minute.
+I agree, pretty much all ranged Mages are a pain in a melees ass though :s
+She had a normal winrate. Why the nerf I don't understand.
+There are no girls on the Internet Kappa
+I'd rather be with a bunch of weebs watching Gurren Lagann than hear Elitists rant or discuss about precious "gems" like Logh because they are so "oldschool" and how new anime suck.
+
+So yeah I'd join an Anime Club if we had one :)
+Too many ;_;
+Sightstone is good. Ruby Sightstone is useless.
+Deathmark or Super Mega Death Rocket Across the Map :)
+So that's why my ping jumped to 170+ Recently. 
+
+Danke Deutsche Telekom :)
+Please. Japanese Voice pack please :( :( :(
+I always say Diamonds are not gods. They had the patience to grind the ladder :)
+Every time I perform poorly.
+Since Riot did the move to Netherlands EUW has been great. This last week my ping went from 30 to >100 :(
+
+Unless I reconnect then it will be 50.
+
+Definitely not normal since my ping to the Server in my region is 19 like before.
+I really love guys like you.
+
+ I'm Diamond and play with a Silver friend. All I ever get is flame for mistakes from other Silver players in Normal Mode :(
+
+Or "Not Challenger yet"
+Or "Diamond 5 is the trash of Diamond"
+
+Wtf..
+relevant flair
+If you go on 10 loss streaks you will wish back the 2-3 games that saved you from dropping a division :)
+
+I would like a promotion and a demotion series.
+Finally, about damn time :D
+I love how these posts start with "got bored". When I am bored I am not nearly half as productive
+
+I just fap
+1,13€ in Germany!! Diesel of course.
+
+Einmal Volltanken bitte!
+It's mostly taxes though.
+I don't understand why they limit the restriction to playing normal draft.
+
+The thing about punishment is that it's automated at the moment.
+
+There is no difference in being passive aggresive by writing "omg. why?" 
+or "duck you ****" (insert swear words)
+
+When **people** actually reviewed the cases you read the WHOLE chatlog. Maybe a player is being driven to be toxic by his teammates constantly harassing him.
+
+I feel like the current system is x report = x chat restriction.
+
+I experience about 1 or more toxic player in every 2-3 games. Usually one toxic player makes the others be toxic aswell. More in ranked than in Normals.
+Was his girlfriend also toxic?
+As he said: They play with VPNs, different computers and all that stuff.
+
+I think there is no actual way of knowing MOST of the boosters/boosted accounts.
+
+If you really searched I think you would be able to find 10% of the boosters/boosted? Maybe?
+
+
+I don't hate particular champions. But I dislike Point-and-click stuns.
+What is the threshhold where Riot should nerf a Champion?
+
+50.0001%?
+51%?
+59%?
+I'm sorry you got that many downvotes, it definitely wasn't my intention when I posted that. Like many others I just don't want to play 4v5.
+
+
+No. the best about this is that if someone afks or ragequits or Dcs, I know that if he does it a couple of times again, he will be punished :)
+
+so?
+Just build both?
+Idk, works in Diamond ^^
+dat bronze 3v3 icon tho
+nerf him? or let him just be.
+love how you left Vayne out the champs. Is it because she is too op?
+Takes a little while to Roll it out to all servers!
+Every Assassin, ADC, Meta Toplaner, Meta Midlaner, Meta Jungler :)
+Already fixed! Takes a while to roll out the fix on ALL servers.
+It's fixed, Rollout takes a little while.
+Already Fixed
+Already fixed.
+It's fixed and the fix is rolling out.
+According to Reddit, every Champ that isn't Urgot or Taric is OP.
+
+edit: And 0 counterplay, how could I forget the 0 counterplay rule.
+What about 5-man AFK'ing because we don't want to wait until 20 minutes? We're not ruining the game for anyone :)
+the clamping is horrible in dia :(
+Sad how the guys on /r/Ukraina react.
+
+I think this is a pretty un-biased opinion he has and I respect it.
+Haha nice
+all are too damn good :3
+12 hours*
+This is not something new. He is just a human aswell, not a god.
+
+Certainly not the only intentional feed I've seen in my past week in SoloQ.
+SoloQ is about luck not getting Teemo Jungle in your team.
+I only play Normal Draft if I have to play normals.
+
+Blind Pick and Teambuilder are too carefree for me. 
+
+I have to decline 80% of the teams because they are not meta. At least in Teambuilder I can choose wether to play Meta or not.
+
+Toxicity is about the same on every picks.
+
+ Blind pick enables to just lock in random champs and that results in a worse game experience.
+
+
+I think Teambuilder is ok, despite the Mirror matchups.
+
+Normal Draft is my choice, though :)
+It's just inconsistent imo.
+
+It seems that Riot has this Logic "he is an Ultimate so he already is special enough".
+
+But I support giving him a light Texture Rebalance. Nothing too fancy, just like the rest of the new texture :)
+Is this only a Visual Update or a Gameplay Update *cough* Nerf ?
+Guys, let's give him the benefit of the doubt. Maybe he is right. Mistakes happen.
+
+If not, Lyte will smite.
+I support this. Bring back Cigar!
+You are not allowed to be Pro-Russian? Is that against Reddit rules?
+Code Geass
+The only anime that makes me breathe heavily and get goosebumps.
+Again shift in the meta?
+
+Tell me who will be OP next patch so I can switch who I pick.
+The reality is: they say pref mid, and if you don't give them mid they will argue "I tried it the nice way, now I troll".
+
+Attempting to reconnect. 
+
+Close client, restart: "Could not connect to League Server". 
+
+Close client, restart: Works fine, won the game.
+Everyone is cool except for Cassio, Sona and Sion.
+
+Yeah I know the new Sion Ults are hilarious, especially when they miss all the time.
+
+But Riot took my AP Sion Mid away. Never forget. This was my go-to midlaner..
+I'm not even salty about the 2014. That's fine. They are just sooo underwhelming overall.
+
+The S3 icons were shiny and awesome.
+http://forums.euw.leagueoflegends.com/board/attachment.php?attachmentid=151867&d=1384353133
+
+Compare those to the 2014 ones.
+Still looks totally underwhelming comparing to the Season 3 Icons.
+Tell that to my support :)
+Thresh with Talisman of Ascension I cry :(
+As I see on this comments: People are different and interpret situations differently.
+
+There is the "I afk you suck" or the "I play for fun I troll" or even the "I am here to communicate in foreign languages" guys. EVEN MORE.
+
+No leaverbuster system will filter out deliberately losing. Those people reached a certain point where they will have satisfaction in seeing *YOU* lose and they don't care about their own win.
+
+Maybe they didn't get ganked or whatever. They will maybe continue to play and make a huge throw in the teamfight **ON PURPOSE**. And you can't prove it.
+
+I am one of the persons who plays for the win. Either it's a win or I lost 40 minutes of my life.
+
+Being polite doesn't even help, be happy that you maybe play on NA and people actually talk English instead of the tiresome "fr?" Bonjour quelquechose blahbla. 
+Or "fr?" is loss I afk.
+
+You absolutely do not know what kind of child sits behind this champion. The only way where people get a liiiittle bit better is when you reach Platinum. Still flame, still throws, but most of Plat+ players are actually above 12 years old.
+I know you can win, I know you can make a comeback and they throw. Everyone knows that. But it's just a situation where people say "I am done with this game" meaning they already gave up completely and want you to lose. It's as simple as that. They don't even care about the win anymore.
+
+What was the point of my text? Stop crying, stop asking, you can't change anything. Some people are just shit. Unless you want to put them in a mental-camp or something, nothing will change.
+Battery is exactly what it is: 1 day of usage.
+
+GPS is fine
+
+Speaker is not so good.
+
+The rest is just awesome. I still love it and will switch only in October 2015 :)
+Best Accent ever.
+
+Unfortunately, I am not knowledgeable enough to find a solution. So far, the ceasefire hasn't helped much except for reducing the casualities (which is already a relief).
+
+The problem with this freezing conflict is that people have no certain identity. Is the Donbass now Ukrainian or a "special zone" or actually DNR/LNR? For everyone that is cloudy and varies.
+
+On the other hand, just giving the Donbass region away would be a huge blow.
+
+I'm not suggesting anything, but just wondering. I am a simple citizen and no politician or expert.
+
+Exactly. That is also why I can't really respect Poroshenko (Putin has lost his mind anyways I won't even bother talking about him).
+
+It is no news, though, that politicians are rigged in that area.
+I condemn the individuals responsible for deaths. Why should I say "Russia is bad" when there are Russians who demonstrated against the invasion?
+
+I think you are being unrealistic with the Donbass rejoining Ukraine.
+
+Crimea was a rather different style. It was abandoned by the Ukrainian soldiers because they knew they could not defend against the Russian army.
+
+I'm not saying the way Russia handles things is legit. In fact, it is horrible and should be punished. And it is being punished by sanctions. Look at Russias economy.
+
+But who dies meanwhile? DNR/LNR citizens and Ukrainian soldiers by GRAD attacks. What did they do wrong? 
+
+But I understand that you might be emotionally hurt by the conflict so I respect your opinion.
+I don't understand these questions that have been popping up lately. 
+
+This sub is clearly pro-Ukrainian, the majority of people sees Russia is the big bad guy and therefore paint them as Nazis, not Ukrainians. I really don't know where you get this from.
+
+The funny thing is that people think there are only pro-Russian paid shills. Did you read some of the really hardline pro-Ukrainian comments?  Not really different.
+
+There is some hope, though. Very few people on this subreddit actually view the situation as it is: A conflict between two parties.
+
+Do you want a confirmation? While starting pro-Russian I switched to being neither in favor of Russia or Ukraine. Both countries committed atrocities. 
+
+And when people say "but what about" I just get the chills. Who started this conflict is not relevant anymore. People are being killed everyday by both parties.
+
+Stop the war, please...the only ones suffering are civillians.
+
+In reality, these guys speak Russian with each other :)
+Great contribution to Ukrainian Conflict
+
+/s
+I still cry over Gambit :'(
+
+I want M5 back..
+Diamond looks incredibly underwhelming.
+Not like Dark alley Ukrainians are any better.
+Condemn the one, praise the other.
+Please change the rank icons :(
+The Season 3 Icons were so cool and the new ones are worse imo.
+" Take us on as equals and all will be forgiven. "  
+If you truly think so, I am extremely happy. I am not even Russian but that is the essence of peace right now.  
+Be ready to forgive when given the opportunity. That is the only way of stopping this damn war.  
+I can only hope that the Russians will give you the opportunity to forgive, but in my opinion they would be stupid not to.  
+After all, Ukrainians are nice people :)
+Because there is equal hatred towards Russians, my fellow Ukrainian.  
+Unless the anti-Russian hate is going to stop, the Russians will still hate Ukraine.  
+The only way to achieve peace is to lay down the weapons and be friendly to each other again.  
+I believe that VICE is pretty objective and covered this topic well enough.  
+However, what many (if not most) people will apparently never   understand is that the Ukrainian nationalist thugs are the same as the DNR thugs.  
+But they will only throw hate at Donetsk thugs and support Ukraine joining the E.U.  
+I, those poor girls in the beginning who were pro-Ukraine. I welcome them into the E.U.  The rest, not a chance.
+
+But this video also shows that there is support for DNR.  
+It's just sad that the comments on this sub are so subjective :/
+
+Germany <3
+We have, we have. No reason to have even more.
+I'm just saying.   
+The problem is the separation between actual Euromaidan activists and right sector thugs, because they share some interests.   
+Also, videos like these show exactly, that on both sides of the conflict, monkeys are using force and the people have to suffer..
+Regardless of who is right sector or not:
+Animal behavior.  
+Get rid of those people or you will never become a part of the E.U.  
+The Police have no idea how to deal with this.
+Both sides speak Russian in daily life.
+Journalists asking questions in Ukrainian are getting Russian answers.
+Same with my friends from Daugavpils :)
+
+So you can only differentiate by looking at their Uniforms.
+K let's trade Kaliningrad for Easter Ukraine and Russian populated baltics.
+Uh oh
+
+Someone really hates Russia :)
+I lost my Promos.
+
+Please Riot loss prevented :(
+Upvoted! Riot please consider this :(
+Looks really good.
+Russian women are handsome.
+Kudos for the effort and how it turned out :)
+This is actually something I can stand behind. EUW has been a pleasure to play on after countless of crashes.
+
+Good job Riot. :)
+I love it how these comments are all filled with "suck it up" or "it will be abused".
+
+The fact that this issue pops up EVERY SINGLE DAY shows that it has to be dealt with.
+
+I don't know how to resolve it, but someone at riot hq MUST know it.
+I have no words. Every day you see something bad from Russia and then from Ukraine.
+I know what it's like in the east.
+
+1 good guy in the video trying to stop them telling them "we are not animals". I applaud him for that. Sadly, there were 10 other animals in this video.
+I am 100% certain that the Ukrainian people are good people, but at this point in time, the ultras and bad animals just outweigh them.
+You need to get to the root, put them all behind bars and THEN we can talk about european integration.
+Peace above all.
+what I wanted to write. He has been so underperforming this worlds.
+And again I read the words "nazi" and "terrorussia". 
+I see that the posts condemning this brutal Cop are getting upvoted. I'm glad. NOTHING justifies this behavior. This guy needs to see an anger management class.
+Poor dude from Donetsk, I would have been terrified.
+teemo
+ты што с ума сошел?
+Living in Germany that's the last thing someone would think about a Ukrainian.
+
+This is the most ridiculous statement I've heard in a long time on this sub. Never in my life have I been insulted for being a Ukrainian.
+This is journalism. Thanks for posting this OP. They really interviewed people from every opinion-group and gave us an objective coverage. Actually one of the few unbiased mini documentaries I have seen :).
+
+Are you for real? 1 out of the 20 here is Russian.
+*headshake*
+Another advice: Standard German is easier and enough for the  first time. Some people frown upon standard German but you can pick up the dialect after that.
+
+Same goes for Italian French or Rumantsch (if you're into that lol)
+Normally we frown upon debit cards instead of cash
+Darmstadt is pretty cool ;)
+Language language language!
+Learn the language BEFORE you enter.
+Come to Darmstadt :)
+I will be your guide.
+Why would this be propaganda? We know by now that the majority of people living on Crimea are Russian. Of course they are going to be happt to join Russia. Doesn't have to be propaganda you know. And it doesn't mean that eastern Ukraine feels the same.
+It's been like this for a long time now because of greens and social democrats. 
+Oh no, while I tend to be a little bit more pro-Russia, I fully understand that the "fascist junta" groups are only a small part of the Ukrainian public / politics. I do not symphasize with how the Ukrainian government is handling the Eastern uprising, but they are far from being nazi fascists. 
+Did I say the word fascist in my post?
+I pointed out that the flag is used by the right sector, period
+It is used by the right sector, though...
+The hate on Svenskeren is real. For "chingchong". Lmao.
+Yeah, people are pretty sensistive on Lol. "omg.." is considered verbal abuse and "chingchong" is mentally killing all asian people.
+
+I have been called Nazi so many times because I am from Germany, and experienced racism because I am an immigrant, Idgaf, grow a pair.
+Switzerland
+Nerf Talon and Remove silence
+
+/s
+
+
+Hate the Talon nerfs, just keep it like it is..
+According to Reddit, millions of Spetsnaz fighters are invading Ukraine + GRU + Special Forces + 200 tanks.
+
+Seriously guys, I believe there are Russians fighting on the Rebel side, but just not as much as you think.
+I think a buffer zone will work as well as a ceasefire. It won't.
+Someone always fires 1 bullet and that's enough to justify a counterattack, sadly.
+I didn't even know there was a franconian flair.
+I'm from lower franconia :)
+
+Racism is not an issue of individual countries. It's an issue because some people are dicks. I am a RussianGerman (Russlandsdeutscher) and I never had any problems. Maybe 2 times in my entire life. I certainly ain't crying. Germans are very open and friendly if you can assimilate and learn to respect the local rules and laws.
+Nur Bares ist Wahres :)
+
+The reason we prefer debit to credit cards is that it technically is a debt and we don't like to be in debt :).
+
+(I hope you don't mind if I say "we". I use the flair only for solidarity with my " old" people)
+I never expected this to have so many comments. Shout outs to you guys for keeping is rational and informative. :)
+Exactly why I posted this. Yet, people say it's the dumbest post ever :(
+I just wanted to express my sadness about it.
+Guide how to view the realistic Ukrainian situation.
+  
+Look at this map  
+Look at UA map  
+somewhere inbetween those 2 is reality.
+I don't think it's the final punishment.
+Step 1: Write "Putin Xuilo"  
+Step 2: Receive -10 points from Russian Downvote Brigade  
+Step 3: Receive +100 points from Ukrainian Brigade  
+Step 4: Profit  
+Yes!
+I like Putin. (before you downvote read the WHOLE comment) He gathers all the hate on himself and when he steps back or dies, Russia can be respected again (hopefully).
+
+At the moment the world hates Putin, he is the personified evil. And it should stay that way instead of blaming the Russian citizens.
+
+Other than that, I feel safe. Despite having a Ukrainian flair, I accepted German citizenship recently and got rid of my Ukrainian one. That country is as corrupt and evil as Russia, trust me. Maybe not 100%, but 90% as corrupt.
+
+I nevertheless hope for peace in the east.
+I'm sorry for you and I hope that you will be able to live in Donetsk again peacefully.
+Way 2 go.
+ROFLMAO ! This is some next level shit :)))
+
+Rough translation (just a short summary):
+
+Don't help the Separatists!
+They promised annexation to Russia but didn't succeed.
+They are responsible for the horrible things happening. (Murder Rape etc.)
+The separatist leaders left you.
+
+
+Many people on this sub say it is necessary to perform these ATO operations (maybe risking some civilians) But you forget to see that these people will never in their life think "Oh god, thank you ATO that I rejoined Ukraine".
+
+While the ATO was goodwilled, I think it may have completely alienated the locals.
+Yanukovich Putin Agent
+Poroshenko Putin Agent
+
+Dude..there will never be peace in Ukraine will there?
+Ich bin Russlandsdeutscher. I pronounce it Lugansk.
+Probably not, because the euphoria will be over in a few months already.
+
+Let's hope the best for the people living there :)
+
+It's just my guess, I am also not sure. The Ukrainian side of my family is from Crimea and they cried tears of joy when they joined Russia. I drove through Donbass every year to visit and was under the impression they were pretty pro-Russia. That might've changed now, though.
+
+Just my estimate here, I don't wanna spread propaganda.
+Armed separatists, yes. I would say more than half is pro-independence, though.
+Unfortunately :(
+So far a lot of people have been killed. I do not know what nationality you are, but I saw on this subreddit that many people support the war in Donbass. By the time the ATO have cleansed the Donbass region of Russians, there won't be a lot people left to be saved. 
+
+Just saying, none of my business..
+Losing a small piece of soil > Getting even 1 person killed in my opinion.
+So? You can still help the people. People are suffering because of this conflict, why not help them?
+Better downvote, it helps more :)
+
+So far I have seen threads on this subreddit "How can I help the ATO" instead of "How can I help Donbass people?"
+Says a lot about the west.
+Your opinion. My grandma thinks differently. Let's hope it will be settled peacefully.
+Schön für dich :) Rette die Umwelt, damit ich weiter Diesel fahren kann.
+
+the twitter comments are hilarious.
+Ukraine delivers 0 help to the Donbass.
+
+I am not denying Russias aggression, but damn, they are atleast helping the PEOPLE there.
+No on in Novorossiya wants special status. They want to be an autonomous republic. So either let them go or retake them. Nothing inbetween. Those are not people with who you can argue. Either 100% or 0%.
+Looks like a disguised tank. Heavy weaponry..Seriously, Russia may have invade Ukraine, but in the white trucks there is only aid. They cross the military on other points.
+I don't flame, I just press alt+f4. Next game, try again ^^.
+
+Don't flame, it won't bring you anything.
+I buy Russian, Asian and European goods. But I generally do not pay a lot of attention.
+
+edit:downvoted because I buy Russian goods, roflmao.
+It's not humanitarian in the sense of "for the people" but rather for the Ukrainian Forces fighting in the areas.
+
+Light equipment for soldiers like glasses medicaments etc.
+I think it will be the same. They have to make sure to show it to everyone, though. "Look how Crimea is better off with us Russians!" 
+And I think Crimean people will benefit :) So it's good.
+If only they could get rid of the corruption. It's the same as in Russia unfortunately. Money rules the world in the east, even more than in the west. Source: Personal experience.
+I'm fairly certain that about 10% of the population are not happy with joning Russia. 90% are pro. I am sure of it! 
+It's better than trying to retake it by force, but (no offense).. I don't think Ukraine will have a better quality of life in the next decades.
+How can this post get upvotes?
+worked well in the gdr.
+God no...independence from Russia? Yes! Joining the EU? No!
+
+edit: lol, -4 . Just stating my opinion.
+I think it's still there to some degree. Globalization tries to fog distinguishment between cultures and still tries to show us "be tolerant of others". In Russia's case this is too extreme but I, for one do not conform with certain western values. You see that Ukraine is CONPLETELY different from the west the way it handles things. Same goes with Russia etc. True peace can only be achieved if we find a consensus, hence "bow down to the west". It wasn't meant to be an attack.
+That's why I like that people don't hate Russia, but rather Putin. I have the smallest hope that if Putin is gone, people will start feeling more sympathetic towards Russia. Right now I see headlines like "PUTIN STARTS THE WAR"...
+
+I think if Germany was able to flee from the moral hell of "You Hitler Nazi German!!111", if Russia becomes a democracy with a leader who bows down to the west, we could reconcile.
+But as long as Putin or rather the whole "regime" is in power, It's not gonna happen.
+I would be very happy if you made one with the original lines "Welcome to Summoners Rift" "30 seconds till minions spawn" etc.
+I will, thanks for replying :)
+lol.
+Thank god it got downvoted. My faith is restored. The sub is not lost.
+This subreddit has gone to the dogs. Seriously, wtf.
+Time to move to Austria.
+Will the sanctions end when Putin steps back? Because it seeems like people want to "cripple Russia forever"
+Title should be "UT attacks Kremlim propaganda by the same-style propaganda".
+
+Both of them are ridiculous.
+Highly doubt it's 100% Russians who took the city. More likely joined forces of Rebels, Russians, Chechens, Cossacks etc.
+
+But yeah. Russia is alone in Ukraine /s
+None of my Latvian and Lithuanian friends lives in fear. They continue to mock Russians and Ukrainians like before in Skype."Vatniki" i "Ukropi/Hochli"
+"oh, a full fledge protest anti-putin and pro ukraine with solid points and arguments" -> "SLAVA UKRAINI", nevermind...
+Wait 2 days, it will be the other way 'round.
+Of course!
+Oh, sorry for misinterpreting that. My opinion is that this is a temporary crisis. I still don't know how brethren can fight against each other where the 2 cultures are so related. It's could not imagine Germany fighting Austria right now. We are so close culturally. 
+I am not the one deciding what actions Germany should take but merely stating my concern that everyone says that Russia should be turned into a shithole just because. 
+And I like Neutrality, Switzerland has been pretty ok with Neutrality.
+The conflict should end soon. Either with independence or Donbass stays in Ukraine. But Germany should play no role in it.
+correct.
+I said nothing about loving them. American extremism much? What are you hating me for, I am pretty neutral. Isn´t neutrality desired? Guess the east needs a little bit of freedom in form of war.
+I want close economical ties with Ukraine and Russia and not isolation of one or the other.
+Merkel is already trying to de-escalate. You guys want her to crush Russia. It will do nothing good. Keep it like it is.
+Yes, you should treat nobody like that. Thanks for clearing it up. Genuinely thought she was a protester.
+Wow, this is just wrong. Thanks for clearing me up.
+Exactly. ATO LiveUAMap HIGHLY biased pro ukrainian, this one HIGHLY biased pro Separatists.
+
+Better resort to reas0ning imo :)
+This is truly horrible. Not all is well in DNR and LPR. Even if she is standing in "enemy territory" she is clearly not violent and just voicing her protests.
+This must stop and I have a hatred for those thugs.
+It's not about geological distance. I am talking about economic ties. I build up a life here in Germany, I don't want to give everything up just to move closer to Russia. That would be insane.
+Looks like a non-biased map.
+
+I stopped looking at Liveuamap when they colored DNR/LNR the same as Russia.
+
+
+Good: ForeignPolicyWatcher; This one here
+Bad: Official Ukraine Military Version,LiveUAMap, Official Rebel Version.
+
+It seems like neutral people make the best maps. I'm following those 2.
+I'd be glad.
+As a german citizen and ethnic Ukrainian, I want closer ties with Russia.
+Downvotes incoming but in the end, after many years. Closer ties will be beneficial, because this conflict, like other conflicts will be forgotten.
+Not every toxic player should get a ban. People who write "..." and "omg" are not as bad as players who wish others cancer and are racist.
+PLEASE MAKE IT HAPPEN
+It's ok. You already have more refugees than you can cater to. This liberal policy will destroy the EU :(
+ok.
+No, but he isn't gonna play worse either. Nothing is gonna change the outcome of this game :)
+Like I said, I don't flame, especially not in ranked, but I do understand.
+I also like to surrender when the team KDA is at 15/40 even if I know we might still have a 0.1% chance to win, because I am not having fun playing like that.
+I don't really care and laugh it off. In ranked, I am quite serious myself and understand when someone is raging at a 0/8 trynd "main".
+
+Unpopular opinon: If you cant handle the flaming community, dont play League. I dont mind ragers and flamers.
+Even after the "liberation" of DNR / LPR, these people will have a huge hatred for Ukraine. You see that in the video.
+
+Tl;dr of the video is that they are pissed and pro-separation.
+I have not heard Kurrrrwa tho :D 
+
+Thx for the info, still slavic, nice ^-^
+They are not all russian right? I hear strong accents that are NOT from russia.
+wanted to post the same, my friends from Kaliningrad shop in Poland for a long time.
+Your map is the best and most accurate. Good job mate.
+https://pbs.twimg.com/media/BvaIYKPCYAAE3jM.png:large
+
+I prefer this one :)
+i dont like this map. I prefer FPW (foreignpolicywatcher). Seems more accurate to me.
+Learn german and you will be fine. I hate foreigners who can't soeak German and love the ones who try. :) Don't worry. You cannot be worse than Americans who don't speak a single word of German.
+Ab zur TU Darmstadt. Warum auf English??
+Thank god I live in CSU controlled Bavaria.
+Look at those hippies screaming. My ears are hurting.
+"Peaceful protesters" kicking and screaming at policemen.
+
+I love Germany and it's organized police force. Good country. Conflict solved.
+
+--//--
+Vote green and left /s lol
+I identify myself with the law-term "Russlandsdeutsche" which means "Russian-German".
+
+Commonly known as Putin-Hitler. Yeah I'm fucked. Lol
+Freedom to Siberia starting with Ukrainian accent "Heroyam Slavo" lol
+No. Look at the gap that switzerland puts into Europe. A gaping hole on all EU maps. If we convince Switzerland to join then maybe yea.
+To the guys who play TANK supports. U are amazing. Why? Because in Gold nobody picks tanks. Ever. 
+I think ForeignPolicyWatcher shows us a more accurate map. This one is biased by Ukraine.
+Was there without a ticket. Had to wait like half an hour today. Np really.
+Just went there, no chaos, everything fine.
+Was there at 13:39, got in at 14:30
+
+Are they still available?
+Are you sure there are still tickets around?  I live 2 hours away and wouldnt want to drive just to be disappointed.
+Yes, most definitely. And after I'm finished with my studies I will gladly pay pension money and taxes for the opportunities this country has given to me.
+I strongly symphasize with the russian style of living, but I don't practice it. I am born here and I was raised to be western :)
+However, I have a different view on the crisis im the east especially as my relatives are living there.
+16 years old and already cheating. Way to go lol.
+No relationships for me. Fukit, and I'm not even a teen.
+Haha well... if you want to know why that is.
+Many Ukrainians/Latvians/Kazakh/Russians living in Germany are called Russlandsdeutsche. They came to Russia when Katarina the Great was reigning and after the fall of the Soviet Union they were offered to come back, get money and a German Passport without any tests or restraints. My Surname is actually German, but my family lived for several Generations in Ukraine and Kazakhstan :D
+
+About 80% or so in my experience still consider themselves Russian, regardless in which geographical part of the SU they were born. I just have the Ukrainian flair because of the whole conflict now.
+The overall opinion in this sub has gone to the rats. People think that UA Army shelling is a necessity to secure law and order. If people have sunken so low, there is no point in discussing. People should hate both the UA and the rebels, but they only hate the rebels. Everyone killing and shelling should be condemned. Not only one side.
+
+But on this subreddit, if the UA gets another city, killing 100 civilians it's‚ a success. Let me tell you something: It isn't! They killed people, it can never be a success.
+
+Soil > People's lives. This is what Ukraine is all about. From BOTH; and I  can't stress it enough: BOTH sides
+
+Fuck referendums, let's just kill people to show who is stronger. -.-
+
+Slava Ukraini! Slava Rossiyi! And people like that want to join the EU.
+Germany..but seriously, no one is really biased. If we can house Turks, we can house Americans :D Every nationality does stupid stuff, it's not like someone would prefer or neglect you just because you are from the usa.
+Still takes 15 minutes to find an ad carry if you are premade.
+Still takes TOO LONG
+You don't understand it. We are not talking about soil, but soul. You have no idea how it was like in the SU. The fact thst we differentiate between Russians and Ukrainians makes me sick. It should be one people. Wether or not Donbass is geologically Ukraine does not matter if all the people living there don't want to belong to Ukraine. If Bavaria wanted to split from Germany, they would split. The war is a consequence of unnecessarry hatred between ex-soviet cultures where the Soviet Union tried to get rid of exactly that hatred.
+Team Siren *cough*...
+Haha awesome :D
+Exactly.
+
+Hopp Schwiiz! Way to go. Neutrality at its finest :)
+I think so.
+Everyone mindlessly downvoting iPengu. He does not rage or flame. He posts and article and valid arguments -> downvote.
+
+Even the title says "could be totally off", no reason to downvote, it's just contributing to the discussion.
+
+I play Akali or Fizz :D 
+I am Spike. I hate loosing.
+We should just accept all forms of separatism and let the countries split, Kappa.
+No tinder, but lovoo I think.
+Was gehtn bei dir, alter.
+Good to hear!
+Lol. Most of my friends and relatives drink, tho. I don't.
+Water. Alcohol destroys you.
+Judging from both of your replies, the best punishment for Toxic players would not be a ban, but a chat restriction.
+
+How is it in ranked? Are you playing to enjoy your spare time or are you playing to win?
+
+I kinda noticed more toxicity in ranked, against people who say "I play for fun" -> "Then don't play ranked".
+
+In normal games I stopped chatting altogether, although I do want the win always. I think the only difference right now in ranked is Draft Pick. People don't play better, they troll asmuch as in normals.
+
+Well, having said that this thread really helped me understand the impact of toxicity, but still I consider myself not toxic or mildly at least. Look at the forums and the Lyte Smites, what the other guys post.
+It's lost. Ukraine made a very offensive move yesterday and they succeeded.
+DNR falls today.
+Regardless of what will/can happen, I want the fighting to stop quickly.
+I live in Germany and I like Holland the most :) Very good people there. And I also like my homeland Soviet Union (now Ukraine).
+
+People speaking in this video have most of the time a Ukrainian Accent. But the title is "Russians invading Ukraine". While I believe it´s very misleading this is a very interesting insight in how things are handled there. Unprofessionally. Some serbian volunteers etc.
+
+Horror. Pure horror.
+
+Translation is a bit off aswell.
+According to this guide, I should have never been reported, because I NEVER say bad things  like that in LoL. I don´t like to actively disrupt the team by attacking one´s family or swearing. It doesn´t serve any purpose.
+Alright man, thanks for your advice, will try that.
+I play normal games mostly and I noticed that people don´t really play to win there. Maybe that´s the problem and no one listens to "stop feed omg pls". Because they don´t care? I might be too competitive for normal mode.
+
+Edit: Just to hear your opinion: You already call me toxic. What would you call people who say this to me: "i hope u get cancer katarina wtf" "go kill yourself and before that uninstall lol you suck so hard"? 
+
+That´s my original intention of this thread. What is toxic and what are the levels of toxic. Are there "better" toxic player than other ones? How should we call them?
+I noticed that I had the report message even if I didn´t write anything and played 29/7 . Maybe from the enemy teams, does it show the report message aswell? I have never been banned. Always this "You have been recently reported too many times because of ... blablabla"
+Hello, thanks for the comprehensive answer.
+
+I was just wondering what the threshhold is and I apparently am already above it.
+
+I just heard "kill yourself" and "i hope ur mom gets cancer uninstall fgt"
+and I thought I might still be very mild, because the examples I posted don´t even happen every game. I am calm in about 50% of the games.
+
+I rarely write "stop feeding", but rather "play def please". But no one listens to "play def please". Maybe I should write "stay under your tower"? Because people often don´t get that loosing 10 cs is better than having an enemy doublekill. I should be more specific.
+
+And yes, i think my "..." and "omg" is passive-aggressive. I am not an openly aggressive person like those "kill urself cancer" guys, but I am often disappointed in teammates.
+
+I also noticed, that being passive aggressive like that and playing the "commander" wins most games. If I say "well played!" and "we will win guys, np :)" people usually report me for taunt and we lose. Maybe it depends on the server? On EUWest, I often get people who only speak the basic "LoL-English" and thus can´t differentiate between real praise "well played fight at baron guys :)" and  taunt "nice lucian 1v2 easy ... "
+
+"Lucian first time?" Was last game and I actually carried him as a Leona. It was definitely not meant as a taunt and I was giving him the advice to put CDR into his build because of the new lucian e :) We won that game! As for the reason why I asked if it was first time. He was dashing INTO them and just not hitting anything. It really looked like he was trying him out ^^ I actually got a "helpful" honor from that game. Don´t know if it was from him, though.
+
+Thanks for your advice man. Hope you have a nice day.
+
+Hast du mal gelesen, wie die über die Ukraine berichten?`
+
+Es ist die Bild. Neutralität ist ein Fremdwort.
+U.S.A Always ready to help.
+It´s lost for the rebels. 100% Look at how small Novorossiya is now. I think they won´t hold much longer and this will finally be over.
+
+Results:
+
+Massive negative Russian reputation
+Many civilians dead.
+
+totally senseless war.
+Yes, Putin himself is riding on his bear to seize eastern Ukraine. And he shot this mayor with his rifle. 100%
+"Journalism" at it´s best. I think Ukraine has better journalists, but this one is pathetic.
+It shows us that from both sides the propaganda machinery is working really hard to conceal the truth. I only listen to neutral organizations.
+They are influenced by the Ukrainian media.
+250R Ninja AWESOME! :D
+The whole reason for this Ukrainian conflict. 
+
+I am proud to be Russian even though I don´t live in Russia. I will never say I´m Ukrainian, but Russian. I live in Germany, though. Kinda opportunistic :x
+My whole family speaks Russian and only my grandmum can speak Ukrainian, but I never even bothered to learn it. 
+We joke about "hochli" although we don´t mean it and the Ukrainian neighbors never complained, it´s just a joke and in the end we don´t see a difference.
+
+Latvia=Estonia=Russia=Ukraine=Kazakhstan etc.
+
+All soviet countries. Hell, my mum is from Kazakhstan and I don´t see her speaking Kazakh xD
+
+I feel russian/soviet and will continue :)
+any mph is fucking fast to be texting to be fair :)
+
+You should NEVER text.
+America, where 60mph is fast.
+Why did the author of this article move to Moscow? I'm sure he isn't welcomed there with his opinion and should just move back to the US.
+But not in those amateurish videos. Those suck and cannot be seen as proof.
+
+If they manage to sneak in a pro-team under protection that can record it, it would mean the end for rebel support.
+So the worst case. I really hope it ends with as little casualties as possible, though :(
+I would say that at this point, they have a chance of winning, if they get weapons supplied. 
+
+If Donetsk falls, I hope they have the brains to surrender.
+Hello, just wanted to express my gratitude for putting up such an informative map. Really shows how things are going back and forth, but overall, the UA is progressing. 
+
+
+Lol. Taling Russian and telling him in RUSSIAN to say "Hail Ukraine". Logic Level too high. 
+
+Seriously, any uprising of this kind in Austria would be laughed upon as they are basically Germans.
+
+Same people, but they fight each other. It´s extremely sad to see. The poor guy did nothing wrong here. I am allowed to show flags in the country I reside as I please. I have a Russian flag and was driving next to a Ukrainian Lorry. I saw him at a the next spot and he didn´t care and was laughing. 
+
+Just some idiots versus other idiots. Most of the people there want to live in peace. Everyone should just stop. Separation failed. It will only cause more discomfort for the people there.
+But every name in German please, or at least Swiss-German.
+Kappa
+Yes, we are shaking in fear *rolleyes*. I prefer to drive to Krasnodar via Belarus anyways. 
+I am probably going to wait. I´m safe and sound from the riot area aswell and I´m happily living in the west. But man, after the recent exposure that the BUK that was alledgedly transported from- and to Russia was in Krasnoarmejsk, which is in the other direction, I am starting to trust Russia more.
+I don't even see "omg" "..." As flame. It's an expression of disappointment. And the guys who say "this team": I don't mind em. I occasionally do that myself; but when people say " i hope your mum dies of cancer uninstall lol" it really hurts me...
+Dude 5-7 Reports? I get more on a daily basis and I don't even write in the chat. Report system is really outdated...basically everything will get you a report. Pick a non-meta champ "reported for troll". Win the game -> " You have been reported too many times...." 
+Hey! We have 16 years to go 'till the next Putsch!
+Why isn't everyone on reddit like that?
+I get downvoted a lot for questioning but why?
+Why do I have to solely trust the Ukrainian side? BOTH sides use active propaganda.
+"liberated"
+Never disappointed by redditors, lol :)
+My car is in a lot of Pictures :-)
+
+Mercedes Benz W211 E-Class and it's pretty affordable as the E220CDI.
+He is not Russian. He is talking with a Ukrainian Accent!
+Tragic times, but it's good that the separatists let them investigate. AndI hope the OSCE observers will get more access! 
+Oh yeah? In that case they might've found them! Thanks for clearing me up :) advice to separatists: Please give them to the OSCE guys, it cannot get worse than it already is.
+To me it seems they have not located the boxes themselves. Their intention is to hide them but they seem to have gotten lost. Orange satellite boxes are not black boxes. People should rush in before they find them.
+Tl;dr english translation:
+
+They have no idea where the black boxes are, but if they find them they won't give them to the OSCE guys but keep them until further notice. Also, Moscow shows interests about the boxes (no further details in the talk)
+Gaming really encourages development in technology. I love it :)
+I agree. Some theories are crazy!
+I think "there is no way of telling" is actually the healthiest attitude. Hate equals hate equals hate.
+Separatism in the western world works different from Ukraine. Diplomacy > War. And it's better like that. I hope Cataláns and Spanish people will find a solution.
+
+Last time in Barcelona, I saw CAT License plates :D
+1500 upvotes for insults. The level of discussion has plummeted in reddit.
+FINALLY. Thanks google :-)
+
+This is a healthy attitude. Here on reddit everyone is biased.
+
+I thought it was shut down by separatists? Better blame Putin.
+
+
+Regardless of who did this, my condolences go out to the families. This was collateral damage of a war that should have never been taking place. Avoidable :(
+I think it´s difficult to read into facts as we sit at our couches. We can only form our opinion based on witness accounts, but can we trust all of them? It´s very difficult if we are not present in the area.
+Good answer. Both points have opposing views. We (westeners) have no right to say who is correct. 
+
+Fact: It was near the russian border, but wether it was actually in Russia is questionable although highly indicated.
+
+Good that the russian medics took care of the Ukrainian soldiers, I would´ve done the same. 
+
+Shows that the people still care about each other. I hope this conflict will stop soon.
+Ambulance driver had to go somewhere maybe? A fire? A shooting?
+
+And the woman heard what the man said?
+Tl;dr
+
+Buy a Nexus.
+I thought that a german flag might imply that Germany is supplying them. The flag itself doesn't bother me because I live in Germany :D
+
+It's like those Russiab mercenaries based in the fact that they have a russian insignia on their jackets.
+I hope so. Because that would mean that the west is no better than russia if they supply them.
+
+But if he bought it in some store its ok :D
+That´s what is making me scared. This is escalating quickly (meme not intended)
+What a ridiculous reason to downvote someone..
+Poroshenko is not the real junta-fascist. THESE guys are. Look at them, this is fascism. Wtf. Really like Vice News at this point, they show both sides of the conflict and that there is violence at both sides.
+
+Stop the violence!
+
+edit: just saw the German flag at 0:41, I´m saddened to see it.
+
+edit2: Lol at the language differences. One guy talking in Ukrainian, the other in Russian and they understand each other! Just as the language, the people should understand each other peacefully :(
+I´m not even going to argue who shot what and who is at fault. 
+
+I am just impressed by these cannons. I mean how many rockets were that?! I thought this war was fought more with artillery and tanks, but it seems that both sides have now shit like this, which is plain mass-destroying and annihiliting weapons.
+You are entitled to your interpretation, I won´t deny it. I have mine, you have yours. It´s ok *handshake*
+You are entitled to your interpretation, I won´t deny it. I have mine, you have yours. It´s ok *handshake*
+I'd rather see "no to war" than "child crucified". The latter is just plain horrible.
+Really? Might've come off differently to different people. I felt an anti war sentiment. Especially because this isn't created by Russian TV but by a single guy on Vkontakte I think.
+Ok
+I strongly support LGBT rights, but I wouldn't call it marriage. Partnership is ok including adoption and everything. Just..the word marriage is in a religious context and if the religion (like catholics) forbids gay marriage then that's their deal. 
+Nevertheless, EVERYONE has the right to adopt children and get the same benefits from a partnership :-)
+
+I think that's the most reasonable attitude towards this discussion.
+If this is propaganda it's at least better than those mutilations-propaganda.
+Sure, it's HEAVILY anti-USA, but at least it's goal is to NOT enter a war. anti-War is always good
+As soon as they phone, they start to speak Russian. Like most Ukrainians.
+
+But seriously, who is their commander. Get the guys out of there before more deaths happen!!
+Will report back, but judging from you 2 guys here I think Lithuanian people are nice ^^
+And I know some Latvisn guys and they're nice too.
+Free travel ftw :)
+I know what you mean tho. You can just drive over there drink a beer and come back. Awesome :P
+Alright, will do, thanks for the advice. I'll sound like a dumb tourist anyways :P
+I think not many people know that in the west :D
+Or at least they need to think a second about who is or is not in the EU. Many countries join recently, but it's good to know, because Visa-Free travel is so awesome ^-^ Glad you guys came, I hope you are benefitting from it.
+Hey thanks a bunch! 
+
+I only found the european companies like Avis etc. and they have higher prices. That really helped me :)
+
+LOL I found a similar car to my own for only 17€ and Automatic gearbox. Old Mercedes C-Class. Perfect, thanks a lot you really helped me out!
+If he did all that, then he is wrong, yes. But I still would embrace ANY shows of goodwill instead of bashing him again :D
+oh alright. got it.
+Hey there :)
+
+15€ per day would be awesome.
+
+I´m landing in Vilnius.
+
+Haha sorry for asking ^^. So I can travel through the border without Visa etc.?
+Shame on any slut. Be it male or female I don't care. Cleavage or naked upper body on males are the same as female.
+Overweight or skinny doesn't matter either.
+Burka ftw.
+Awesome subreddit.
+Alledged border breaches-> People shout at Putin. He invites military from foreign country to watch -> "No way they can see everything". 
+No matter what he tries it's wrong.
+Don't worry mate, I'm used to it :)
+You can't even hang a flag out in new Ukraine? Must be awesome.
+Better in Moscow,Sochi and Krasnodar from my experience.
+Ахаха точно
+
+Ahaha you're right
+EXACTLY :D
+Sochi didn't cost 50billion but 13billion.
+And the world cup will cost an estimate of 18billion where a lot is put in infrastructure. But again, putin bad russia bad like always.
+Both sides are propaganda. Kiev AND Moscow. 
+Haha don´t worry, I will build the next Mercedes BMW, Audis and VWs with pride. I even got the German citizenship.
+Or that, yes. But there definitely wasn´t rivalry; I have relatives from Kazakhstan aswell :) It was just friendly.
+I´m staying here 100%. I can identify myself a lot better with the west than the east, but I read so many wrong things about the Ukrainian war biased by Ukrainians and Russians. People don´t always like what I say, though :D
+
+When have we talked before? :O
+
+Oh btw: WELTMEISTER ! Jawoll!
+
+edit: studying mechanical engineering btw haha, which is like the most German thing to do.
+Why do you think Donetsk people fight? It's because they (I consider myself western because of immigration) in Ukraine there's a huge anti-"old times"  mentality. Many separatists, however, have soviet mentality.
+
+People don't get this in the western world where french are french and germans are germans. In the east many (not all! especially elder people) consider themselves brethren even if they are from different countries. Armenian Kazakh Ukrainian Latvian whatever. If you ask those patriotic people they will answer "I am Russian". In the soviet times everyone was Russian :)
+
+Hope this helps you understand.
+
+Oh übrigens bin Russlandsdeutscher :)
+Hahahah. 
+
+Got me for a sec.
+We have an awesome president :). Vsyo za rossiyu!
+2nd phone is a Galaxy Nexus and like 3 years old. Running latest Paranoid KitKat it's still fast!
+Would love to just have a separate section or site where there's always the most recent bootloader for Nexus devices.
+Tired of downloading factory images 4GB big.
+My words..At least have him end up with SOMETHING. But no..well see for yourself mate.
+Op is tech-savyyy.
+Sense + Android L :) 
+Give me my OTP!
+
+On a side note: oreimo much?
+Suggestion: Amsterdam
+Nope. Eberything's fine
+Who drives around with a plate like that lol.
+What does an illegible plate mean? I have a normal German License plate. Wtf
+Looks great. I'm using it with paranoid.
+Funny :D
+Sorry ya dumal ti ukrainskij znayesh :) U menya russkaja klavka netu ya is Germanije
+Hello there. Quick question. What kind of advantages does this hold over Open Mic+?
+Maybe I'll switch.
+This + Project Volta will be heaven and hopefully enough to satisfy all battery enthusiasts :)
+Just open the borders and let those poor people flee to Russia. The soil is Ukrainian, you can't do anything about that now (Although my grandparents would love to be part of Russia). At least let the people go to Russia, it's better there anyways and no discrimination against your own people :)
+
+
+иди пишы на украинском языке!
+What?
+Oh nice to hear a different experiece. Well I guess it's cool, because it brings forth your own independent culture ^^
+
+Btw it wasn't Riga the buddy who told me they mainly speak Russian. He's actually from Cēsis.
+You convinced me to visit Estonia this summer.
+
+Assuming I would only speak Russian, would I be able to communicate even in small villages?
+
+I'll just go there from my annual Latvia visit :D It's not so far.
+Oh damn. Thanks for clearing me up. I indeed only asked them wether they were BORN in Latvia, not what their ethnicity is. So it's different than in Ukraine? Ok. Gotta watch some Estonian TV :D
+
+No reason to be so aggressive tho. The people I met are from Riga, Daugavpils and Kraslava. And yes they consume Russian media.
+
+Sorry if I offended you.
+I am an ethnic Ukrainian but emigrated to Germany very early. I think I know the German culture a lot better than the Ukrainian haha :) 
+Germany is like Austria
+Mights have phrased it poorly, you are right. The ones I know say 90% they are russian. Maybe it depends on the region you live in? They are real Latvians, not ethnic Russians. Their parents speak Latvian but they refuse to speak it themselves. After all, in school, Russian is taught most of the time and Latvian less and less (at least in the regions I know of).
+
+Probably in bigger cities it's a reverse effect! Thanks for enlightening me. I don't wanna sound like a douche :(
+
+Isn't Russian the everyday language there? It's like in Ukraine all TV shows are in Russian :D (I'm part Ukrainian)
+
+Edit: I acknowledge my mistake and tried to be educated, but all I get are downvotes :) reddiquette at it's finest.
+I cannot believe how many people are pro-bombing the cities in this case because "hurr durr we have to kill the separatists".
+
+
+I don't want to stop immigrants, lol. I just wanna make sure they know what they're into or they will end up either on the streets or in social constructs I have to pay. 
+
+If he's educated, has a concrete plan and will study the language so he can operate his small business, I am welcoming him! :)
+I really like this documentary. What he forgot to mention is when you ask the neighboring countries citizens; they will 90% say they are russian. I have met so many latvian and kazakh people and when I asked them 'where are you from/what nationality are you"? They anwered "russian". Simply because in old times there was one Russia.(even though they were geographically born in Latvia) On the other hand small groups of young activists want this to stop. They say they are Estonian or Belarussian.Well, l can only say from my experience but ALL I met say they are Russian and not Estonian :)
+
+In USSR times there was a broad mix of people. Russian is not about soil, it's about family and history. 
+Coming to Germany without any money and education. We need more of those. 
+
+But yes, you can travel through Europe without problems. Settling down requires €€€. I know I'm sounding like a dick here, but I just know some people that failed horribly. 
+Wow this turned out in a way " we the west have to get Belarus to go to us"
+
+Stop it! It´s a slavic country, they all speak RUSSIAn (+ of course Belarussian). In Germany, I can speak Bavarian and German. I still want to be a GERMAN. 
+
+You guys don´t get it.
+This is the reason why I cannot trust those people Anti-Putin. 
+
+People want to flee the regime in Ukraine and you guys are supporting Poroshenko. It´s a mass evacuation, the region is going to be dry. Useless western politicians.
+
+THEY WANT to go to Russia my goodness why not let them. It´s all about the friggin soil..
+I support Italy in this case. Remain on good terms is how we should  resolve the conflicts of the world. 
+Never.
+Still better than the average people. Marriage still awaits you! :D
+I've lived in Switzerland for 5 years.
+
+French/Italian - Swiss are more liberal and open to foreigners.
+Swissgermans are very conservative and reluctant towards foreigners.
+
+As a foreigner, I have stayed in 5 locations, 3 of those were Swiss-German. I was never well-received. A lot of skepticism awaits you.
+
+However, Geneva, Vaadt and Ticchino are very friendly and welcome foreigners ^^
+Is that a nexus phone? Marriage awaits you!
+Thanks for confirming a Switzerland stereotype of being neutral and non biased.
+
+Nowadays EVERYthing that is Russian is bad. Glad that somebody still knows how to point out positive things. Thanks, OP.
+Some kids want to play cool.
+Definitely not an invading army.
+KIDS with weapons..
+https://www.youtube.com/watch?v=_sr81nV_6E4
+
+
+The Ukrainian Army is not some peacemaker army. They are not welcome in eastern Ukraine.
+I welcome this.
+In countries like Germany or Norway there is no need for Homeless and Beggars. Everyone gets a shelter and enough money to live. In Germany it's called Hartz 4 and it's financed by the tax payer. Why should I give beggars money when they can just go and get their money from the state?
+PUTINS FAULT OMG QQ.
+I remember how all the people were bashing on this execution.
+ I was shocked myself but I kinda thought it might've been fake. Finally something positive in the news and not the regular flaming.
+But still..what kind of "PR-Stunt" is this? How could that have a positive impact on the Ukrainian people?
+Actually, it was a war veteran who suggested it. Putin just thought that a referendum on it could be held.
+But well, it's cool now to hate him.
+In order of how well I can speak them (all at a very good fluent level)
+
+German,English,Russian,French,Spanish,Ukrainian
+Please oh god have mercy. My TV doesn't have DLNA or stuff like that. Just 1 HDMI port. A chromecast would be so sweeeet! :) Finally being able to cast all the things!

@@ -1,0 +1,2076 @@
+So the crypto project is still going ahead, just with the money they raised from private investors? Makes sense: they have more than enough.
+That's way over the voltage of line-level or headphones-level audio. What is the source?
+>When your boss does payroll after 2pm on a Friday, what happens? You may see that money on Monday, right? In 2018. Seriously?
+
+>That's slow money. Bitcoin fixed that 8 years ago.
+
+[UK banks fixed it 10 years ago.](https://en.wikipedia.org/wiki/Faster_Payments_Service) Crypto is slower than our regular fiat payments. Your argument doesn't really work here when we can send £££ instantly for free.
+
+Or for us civilians: the value of the US dollar is that if you want to live and work in the US you have to pay taxes in USD. The same applies to other countries which is why most fiat currencies have stable value.
+It's mostly programming, if you can already program in python then you can do this. The actual electronics is quite straightforward.
+I think it's quite straightforward. It was one of my first arduino projects.
+
+You can connect the audio signal to your arduino's analogue input pin and use the FHT library to separate it into different frequencies. Or you can use the MSGEQ7 chip (this is what I did). Once you get the signal, look for beats, and trigger LED patterns based on the beats.
+
+
+
+I would just use a buck converter regardless. They are so compact these days, even ones that supply 3A.
+
+The fuse only protects against a short circuit leading up to the regulator... not necessary IMHO
+I have driven an Attiny85 + WS2812b LEDs from a lipo's 3.7V. If you don't need long runs of wire this will probably work fine for you too. Then everything is much simpler!
+My bet is he's going to eat his pet pig Richard.
+>headphone audio signal that peaks at around 7V
+
+Where did you get that figure from?
+You didn't specify that in your initial post! Your diagram is correct. But it doesn't match what you've actually built. That's why you're getting mixed advice.
+Plug in wall adapters. A car battery would also work. It makes no different to the load on the regulator.
+
+The important factor when choosing a regulator is the final load, and OP's diagram shows the load is an arduino which doesn't draw more than 100mA on its own.
+
+edit: just saw another comment where OP says there's actually some servos in the circuit too. The onboard regulator isn't sufficient then.
+Jesus it sounds like a husband mocking his wife's drinking problem with a passive-aggressive tone
+I think the voltage in Europe is more commonly 220V anyway. It's 240V in Australia.
+How much memory does it need? That will help you choose which Attiny to use.
+Oh you didn't say it had to do anything else after triggering the URL.
+
+In that case, instead of using delay(), record the millis() when you trigger the URL. Then check the current millis() and compare to the old one. If the difference is greater than 60000, you know that 1 minute has elapsed.
+
+https://www.baldengineer.com/blink-without-delay-explained.html
+No, it's fine to run an arduino on 12V forever. I use it all the time.
+62Ah seems to be a common size: https://www.thebatteryshop.co.uk/smf027-gs-yuasa-car-battery-12v-62ah-540a-15306-p.asp
+The linear regulator on the arduino is specced for 12V input. If OP needs higher current (not indicated here) he should use a buck converter rather than the LM7805 
+Yeah it's gotta be a full size car battery.
+The barrel jack on the arduino uno. It connects to Vin, which connects to the 5V regulator.
+Why don't you just plug the 12V directly into the Vin barrel? It's got a voltage regulator.
+IMO you should learn about mosfets with a project that needs them. This is not that project. Addressable LED strips will make this project smaller, lighter, and more interesting.
+What about the 0.5% fee?
+Interesting how that link (and the pdf) talk about "small events" of a few hundred people, with examples like a charity run, but doesn't mention weddings. Surely it's common enough to have an official stance on it.
+> I understand that diabetic ketoacidosis occurs when there is a high level of ketones in the body and hyperglycemia, but can this metabolic acidosis occur when there are high ketones but blood glucose is at normal levels?
+
+Yes, high blood sugar isn't required for ketone production.
+*Wemos
+
+Wemo is a Belkin brand of home automation stuff.
+Kraken is based in San Francisco and has XMR/USD and XMR/EUR pairs.
+Wait what? It costs $45 to buy $1000 worth of crypto? How do they expect to be competitive with fees like that?
+Why do you not? It's super useful being able to search the whole archive. I can also jump to a specific date. 
+
+Do you delete old emails?
+He also lost control of VK and fled Russia because he opposes Putin's regime.
+And if someone else gets your passcode...
+That eliminates Gmail's business model though
+No history is a huge drawback IMHO. If I lose my phone, I can log in on my new device and have years of messages immediately available.
+I believe they usually use the NEC protocol
+
+https://www.sbprojects.net/knowledge/ir/nec.php
+You mean it has one common pin that connects to +5V, and then a bunch of other pins that go (via resistors) into your arduino? Consider those the ground pins. The arduino sinks current from those pins when it sets its own pins low (ground).
+I'm curious why your power supply hasn't died already. The voltage is surely dropping a lot. Is there a yellow tinge to the colours at the end?
+I think arduinos have pullups available on every pin except A6 and A7 (which the Uno doesn't have).
+
+ESP8266 has a some pullups and a pulldown that can't be disabled.
+
+>Do you think going from 2.5A to 7A will make a big light improvement as in: will I get brighter light?
+
+That depends on what is the limiting factor. Are you limiting the brightness in software? (you should be). If you're trying to drive them at full power then you are overloading your supply. What voltage do you measure at the end of the strip?
+Thanks. Designing boards is pretty fun. I produce them myself with a laser (which is not fun) but you can get them really cheap from China now. I recommend you look into it, you won't go back to shields and jumper wires!
+bad bot
+Yeah if you have multiple boards in the platformio.ini for the project, the build and upload menus will show them as options.
+
+>I was going to git init my whole arduino folder containing all projects. Not good idea? 
+
+Well, what if you want to share your project with someone else? Or make it public so that others can fork it and work with your code? I create git repos as I imagine I would like to find someone else's: able to be cloned and built immediately, without too much unnecessary stuff.
+
+>In the lib/readme.txt file there is no mention of global library folder, how to associate it?
+
+It's the --global option as described here:
+
+http://docs.platformio.org/en/latest/userguide/lib/
+
+So for example if I want to install the [i2cdevlib-mpu6050](https://platformio.org/lib/show/107/I2Cdevlib-MPU6050) library, I can type this:
+
+    pio lib install "I2Cdevlib-MPU6050"
+
+or 
+
+    pio lib --global install "I2Cdevlib-MPU6050"
+
+
+Maybe one of the two input pins isn't connected correctly?
+1. Projects can have multiple targets. Select the one you want to build for. In that sense it's not so different to the arduino IDE. 
+
+2. The directory structure means you can sync the whole project via github
+
+3. You can install a library globally. It defaults to local for the project.
+Well I don't know. What do the instructions say?
+But in a new sketch, it plays? You need to identify what is it in your code that prevents it from playing.
+As a test, replace both of these lines:
+
+    analogWrite(enableA, (0+(motor_speed)));
+
+with 
+
+    digitalWrite(enableA, HIGH);
+> This one has 20 turns to a rotation and is continuous, as well has having a momentary button
+
+That's a very common part. I'm sure you could replace it with another standard rotary encoder and it will work right away.
+
+24-detents-per-rotation is another common type, which will still work, but it will be "faster" if you get what I mean.
+>(my managing partner said this was a several thousand dollar investment into a specific remote) 
+
+What? No way. You can get the top of the line logitech Harmony for a couple hundred, tops. I would just do that.
+
+edit: just checked and the £100 Harmony Ultimate can control 15 devices. 
+You mean microstepping modes? Not that I know of. I made my own board for that reason. Looks like this: 
+
+https://i.imgur.com/6zSSAD4.jpg
+
+https://i.imgur.com/lj5tl6e.jpg
+Try a different PDF reader
+As an alternative to a light bulb, you can get carbon "heating wire". It's coated in silicone. The wire itself is black and has 33 ohms per metre. Your heating power is easily selected based on your voltage and wire length.
+There's that, but there's also the fact that it keeps the party going when people are sick of drinking. Or it lets you keep drinking without becoming a mess. Something like that.
+If you don't need the arduino to do anything else, the simplest solution is just to put `delay(60000)` after it sends the URL command. This will prevent any further action for a minute. If your user is still wearing the sensor after a minute it will fire the URL command again. Make it 10 minutes if that's a problem.
+>The government's link to Soroush has raised concerns among Iranians that their could messages could be monitored.
+
+Yeah, I'd say that's a given.
+
+>In the Soroush sticker market, emoji of women carrying signs saying "Death to America" can reportedly be found, along with emoji criticising Israel and praising Iran's leader Ayatollah Khamenei.
+
+What a time to be alive.
+Okay cool you're nearly there.
+
+>execute it only one time
+
+Until when? The arduino is restarted? Or just wait a few minutes?
+
+Do you have an arduino micro or leonardo? That will make your job much easier, because you can just send some keystrokes.
+
+Otherwise you have to write a program to listen to messages from the arduino and then open the URL.
+>The mosfet drains into the 9v, then to the motor, then back to ground. 
+
+High-side switching? You need low side switching for an NMOS. 9V-motor-drain-source-ground.
+
+Also make sure the arduino ground is the same as the mosfet ground. And you need a diode to protect against flyback current from the motor! This is very important. Do you have a diode?
+KYC for an illegal profession? Also who's doing the KYC? I thought this was decentralised. 
+Well it's mostly that they're slow. The chip has to do many more cycles to complete a float calculation. I don't know how slow, though.
+
+Does the MP3 play if you put the code right at the start of your sketch?
+How will Pinkdate prevent imported sex slaves being listed on the app?
+>future workers won't want to go to the pimps
+
+You think they do now? Just how naive are you?
+You can just put the url here :)
+Extremely wishful thinking. Pimps aren't just going to say "oh I guess I'm not needed any more, you can handle it honey" and give up their pimpin' ways.
+Prostitution is legal in Australia as long as its operated by a licensed brothel. This is such an obvious solution I don't get why it's not more common in other countries.
+
+In the UK, prostitution is legal but brothels are not. So... they're on their own.
+You can edit your post, select your code and click on the "code" button on the toolbar above the editor to format it as code (it will put 4 spaces in front of every line). If you don't have the formatting toolbar... I guess just paste the code into pastebin.com
+you should use the other version that doesn't use floats as it's faster and will take less space. But this will probably work fine too.
+Good point. You can initialise it at zero. It means the first few readings won't be accurate, but you're reading at 20 times a second (at least) so it shouldn't matter.
+Yeah `measurement` is the reading you get from the sensor. 
+
+It's a bit easier if you look at the unoptimised floating-point version from that page:
+
+    float alpha = 0.7; // factor to tune
+    value = alpha * measurement + (1-alpha) * value;
+
+Each time a new reading comes in, it's scaled down to 70%. The current 'average' is scaled down to 30%. Then these numbers are added together. So the new 'average' is composed of 70% new reading and the 30% old readings.
+
+Lower values of alpha give a smoother signal. If alpha = 1, the final value is completely dependent on the latest reading (ie, no smoothing).
+Cool, glad to hear it :)
+>According to the datasheet, pins 0,1,2,3 and 7 can be used as interrupts 
+
+All pins can be used as interrupts as long as you don't care whether it catches a rising or a falling edge. For your MPU6050 that doesn't matter. So just attach the interrupt to whatever pin you want:
+
+    attachInterrupt(digitalPinToInterrupt(pin), ISR, CHANGE)
+But there will be plenty of instances where it needs to be changed to a HIGH while keeping the other lines LOW.
+If we only invest in things with a working product that pretty much limits us to Ethereum and Monero
+
+The trick is to get in on a project before it has a working product so you'll be there as it takes off.
+1000% is pretty great tho
+
+I invest in solid projects like OMG, VEN, XLM and ARK and don't get anything near that return.
+Oh that's simple. You must read the data from the serial buffer to empty it. In your case you're only reading the data when L==0.
+You can do that but it's a terrible idea as it makes your code harder to read and harder to change.
+
+Just use copy/paste...
+Sending where? 
+
+Maybe just post all your code
+Clearly Deutsche Bank just needs to fire 99,800 employees, drop nearly all of their customers and business products and move to Malta. Then they can be profitable like Binance.
+Have you tried `tone()`?
+Link to the LED controller?
+What if you compile it under windows subsystem for linux?
+Honestly this market is so unpredictable and irrational that we may as well choose coins based on the logo. Seems there's no correlation between "good team, solid whitepaper" and price performance.
+This would make me think I'm constantly getting messages!
+And when people click on the Tower Bridge photos that just tells Google's algorithms that it's what people wanted to see from this search result.
+Have you tried it without the opamp?
+The diode is up near the reset button. This is the polyfuse.
+> It loops so fast the memory is filled in less than a minute. 
+
+Why are you storing the readings in memory?
+You can tweak the components in that simulation.
+I was at least expecting "send nudes"
+Cool. You can put it in series with a 100uF capacitor (to remove any DC), then into the midpoint of a 1:1 voltage divider to centre it around 2.5V. [ I built a simulation for you here](http://www.falstad.com/circuit/circuitjs.html?cct=$+1+0.000005+10.20027730826997+50+5+50%0AR+80+160+80+112+0+1+40+2.5+0+0+0.5%0Ac+80+160+192+160+0+0.00009999999999999999+-2.7204710955060634%0AR+192+64+144+64+0+0+40+5+0+0+0.5%0Ar+192+64+192+160+0+1000%0Ar+192+160+192+240+0+1000%0Ag+192+240+192+288+0%0AO+192+160+272+160+0%0Ao+6+64+0+4098+10+0.1+0+1%0Ao+0+64+0+4099+5+0.00625+1+2+0+3%0A)
+
+
+What are you trying to read? I've read an audio signal directly on the ADC without an offset. Only the positive waveform was visible but that was okay.
+Nah I wrote this comment before that one. I was indicating that OP isn't the one who took this photo, because there's a watermark from some shitty humor website.
+So you didn't fomo completely and go all in? Smart. 
+You need a resistor for every LED that will be on at once. For a beginner, every LED can potentially be on at any time, so they should all have resistors. A more advanced method is multiplexing which makes the LEDs very quickly turn on one at at time.
+
+This is commonly used with multiple 7-seg digits.
+I don't think the DFplayer can sample audio. It's playback only.
+How'd you break out of the red if you FOMO'd in at xmas? 
+No, the TX/RX pins aren't the same as the data pins of the USB. 
+
+You'll need a USB-to-UART adapter like the FTDI, or another arduino.
+
+Incidentally, this is where you should be using a Pro Mini. It's smaller because it lacks the USB stuff.
+That's using their PIO Remote service which lets you do an OTA update through the internet, like for deployed devices. 
+
+I use ArduinoOTA all the time to upload code via wifi (not internet) and it's completely free and unlimited.
+>Unfortunately PlatformIO is not open/free
+
+Yes it is... what are you looking at? There's a "plus" version which provides hardware debugging for devices that support it. ESP8266 doesn't, and a remote OTA server. You don't have to use that either.
+
+I use PlatformIO with VSCode editor. PlatformIO puts your dependent libraries in a subfolder of your project (can also make them global), which means the whole project folder can be put in a Git repo. Pulling the repo down on another machine gives you all the files you need to build the project. 
+Both of those are optional and a basic strandtest will work without them. My guess OP doesn't have the code set up right.
+"humor vault" more like comedy cemetary
+Wow those fees are really low. They could raise the fees and it would still be cheaper than Visa or Paypal.
+Am I missing something? What's wrong with a standard two-resistor voltage divider? In what circumstances will it not work for the microcontroller?
+Nice! Did you solder it by hand? 
+
+I thought this chip had 6 pins and comes in a SOIC-6 package. Are all 8 usable here?
+Pretty much yes, the whole point of arduino is that the code should run on any arduino-supported hardware.
+
+However, the Micro has 12 analogue pins while the Mini has 6. 
+Yet there's none in the much-larger Lewisham.
+Makes sense. If the servers switch to battery but the cooling is off, the first errors will be from overheating.
+That about the tube station? Bit of a step down from the White House in the first movie
+Unless you like having the tube nearby
+So it would require a bit of arithmetic to work out the number of years since a certain event if it was before the current era. That seems inconvenient.
+It's totally possible. Post your code
+Wow the whole airport is closed
+
+https://www.independent.co.uk/travel/news-and-advice/amsterdam-schiphol-airport-closed-flights-latest-power-outage-delays-passengers-departures-arrivals-a8327886.html
+You're forgetting mooning
+Really? Why BCH instead of ETH which is faster, or LTC which is faster and cheaper, or Nano which is instant and free?
+I want e-ink wallpaper.
+> I'm in the US and I've never heard of one
+
+That doesn't mean anything dude. Saltwater pools are definitely a thing whether you've heard of them or not.
+They're using the Due which has a DAC. Uno and nano don't. You can build one with resistors, or maybe the Mozzi library will do what you want.
+>Give the best person the job here.
+
+Right, what if the best person doesn't hold any crypto?
+Have you forgotten the way the price tanks just on rumours of government regulation?
+> your coin goes down in satoshis but up in usd
+
+In other words, the coin underperforms compared to BTC. In that case BTC is a better investment, yes. I think that's obvious. But people buy alts because it's a better investment.
+You mean forward all my messages from an old phone to a new one? That's not a workable solution. Particularly if the old phone is lost.
+Why are all your comments just copy and pasted from the article? Are you a bot?
+What's the point of a private blockchain?
+Most people buy crypto to get more USD.
+What happens if you log in from a new device? The history is not available?
+They totally do.
+
+https://www.gov.uk/government/news/new-online-application-service-for-uk-visit-visas-launches-in-russia
+
+>In 2015, the UK issued 122,000 visas to Russians and 96% of applications were successful.
+
+>97% of visit visas were processed within 15 working days. The average processing time in 2015 was 7 working days.
+So the scope picks up the signal but the logic analyzer doesn't? Super weird.
+
+What happens if you disconnect the adalogger? Can you then see the signal on the GPS Tx pin?
+>But as an American I can go pretty much most places in the world and have no trouble getting a visa.
+
+No, you need a job to get a visa for the UK, or anywhere in Europe. Or Australia. It's about $2000 for a visa in Australia. 
+
+For a holiday (90 days or less) you can just go without a visa - to Western countries. We need tourist visas to go to Russia just like they need tourist visas to come here. It's reciprocal.
+Probably not. You can trigger a flash, but it won't be in sync. That's more an android limitation than anything else.
+If they have employable skills (like in IT) then they can apply for jobs in Europe. They can't move over without a job, but that's the same for everyone.
+Firstly, typically you drive the distance you need to go. You don't drive until the car is empty. So with L/100km, I know that a lower number means I pay less for the journey I'm about to do.
+
+Secondly, and I think this is the main reason: it's just more sensible mathematically. Kilometres/litre (or miles/gallon) produces a number that approaches infinity as a car gets more efficient. 
+
+Consider three cars, with efficiencies of 5, 10 and 15 L/100km. The amount of fuel used by those cars is a linear progression. Written the other way it's 20, 10 and 6.6 km/L - no longer linear, so it looks like car B and C are similar.
+What was your experience? I work with a Russian person here in London. I assume she's on the same tier 2 visa as me. 
+I'm not sure how it can be any clearer. If Trump needs 10 fulltime lawyers working for him, and Cohen is one of them, then Cohen is only doing 10% of Trump's legal work. But he's still working fulltime.
+
+Or maybe Cohen only works a few days a month with Trump. Nothing can be inferred from these statements.
+
+His exact words:
+
+>DOOCY: How many — how much of your — Mr. President, how much of your legal work was handled by Michael Cohen?
+
+>TRUMP: Well, he has a percentage of my overall legal work — a tiny, tiny little fraction. But, Michael would represent me and represent me on some things. He represents me — like with this crazy Stormy Daniels deal he represented me.
+
+
+Visas aren't cheap for Australians either
+You can use a digipot. I've used the DS1866.
+Yes, but there exists already nice pinout diagrams [like this one.](https://i.pinimg.com/originals/bb/11/f1/bb11f1963aa704b86fb8c9c90a8e75ed.jpg)
+
+>What would you like the pin toggling to do
+
+Control the pins on the connected arduino, using Firmata. We need a nicer-looking Firmata gui.
+The point is the Iraq war didn't need to start in the first place.
+What I don't get is why did Trump, alleged billionaire, need to use campaign funds for a measely $130k? Doesn't he have that kind of cash available?
+Peace on the continent is pretty good but the real achievement was the elimination of roaming fees
+> But during the call in to Fox News, Trump himself said that Cohen really didn't do much legal work for him at all. That means that very little of Cohen's material would be privileged as attorney work product for Trump (even if that stood), based on Trump's words there.
+
+Actually he said that Cohen only does a small part of his legal work (ie, Trump has other lawyers). That could still be 90% of Cohen's work though. I'm not sure this statement is a big as deal as we'd like.
+TIL a Corona costs just over a dollar in Georgia. It'd be $5 in Australia, at least.
+What do you think will happen to it?
+
+I would use a Wemos D1 Mini with the SHT30 shield.
+All pins on the ESP8266 are capable of PWM, interrupts, and I2C.
+That's not true. Russians are eligible for visas just like everyone else.
+Can you click on a pin to toggle its state? That would be very useful for testing circuits. And otherwise if it's just a static picture we can look that up online.
+Has it affected your ability to type?
+I'm curious how it got there. It looks burnt out, but the walls aren't black so it must have been moved there later. But who moves a burnt car?
+Counterpoint: it's decoration.
+Fiat yes, of course. Crypto though? How do they know if I sold ETH for a profit in BTC? They don't know which exchanges I use, and the trade isn't visible on the blockchain.
+It's not clear who gets to vote on that though. It's not a staking system. It could be just the inner circle voting.
+So we should sell ARK?
+PlatformIO works fine. I've used it with Atom.
+The lite version also lacks the VBATT pin which I find really inconvenient. Hopefully they fix that in the next version.
+Don't forget Diptrace. Better UI than Eagle and also free.
+He's the Dutch version of Trump, but with better English.
+Only takes one hop through an exchange that doesn't do KYC and the trail goes cold.
+Is ICX competing with ARK in that sense?
+I gotta say this sounds more suitable for an iPad app and bluetooth speakers.
+I've done it with my chromebook using crouton. 
+Wemos D1 mini Pro has a connector for external antenna.
+Those are typically JPEG cameras like the ov7670. They transfer a still image, slowly. 
+
+For video you really need a Pi.
+[Levels of bisphenol-A in thermal paper receipts from Belgium and estimation of human exposure](https://www.sciencedirect.com/science/article/pii/S004896971200945X)
+
+> BPA was detected in all the samples; 73% of the samples had concentrations between 0.9% and 2.1% (between 9 and 21 mg BPA/g paper)
+
+[Transfer of bisphenol A from thermal printer paper to the skin](https://link.springer.com/article/10.1007%2Fs00216-010-3936-9)
+
+>When taking hold of a receipt consisting of thermal printing paper for 5 s, roughly 1 μg BPA (0.2–6 μg) was transferred to the forefinger and the middle finger if the skin was rather dry and about ten times more if these fingers were wet or very greasy. 
+
+[Holding Thermal Receipt Paper and Eating Food after Using Hand Sanitizer Results in High Serum Bioactive and Urine Total Levels of Bisphenol A \(BPA\)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0110509)
+
+>commonly used hand sanitizers, as well as other skin care products, contain mixtures of dermal penetration enhancing chemicals that can increase by up to 100 fold the dermal absorption of lipophilic compounds such as BPA
+
+I mean, you're probably not going to get sick from it, but still...
+> and not needing ink is nice.
+
+On the other hand, the paper contains toxic chemicals which penetrate the skin. Swings and roundabouts
+The arduino can't record video but it can control some cameras. What are you using?
+Have you selected the right board? Constants like D5 come from the board definition.
+It's described on that page:
+
+>This library eliminates the need for external pull-up resistors because it enables on-chip integrated pull-up resistors, and it also handles/sets high impedance on all unused column pins. It basically scans column by column. It does so by setting the current column pin LOW and reads pin values of rows for that column, and then jumps to next column etc… until it scans all connected/assigned pins. 
+
+This is a common way to have more buttons than pins.
+I have made a few projects using MQTT and home assistant. What errors are you getting?
+2020: [Fuck everything, we're doing five notches](https://www.theonion.com/fuck-everything-were-doing-five-blades-1819584036)
+If BCH is better than BTC then it should succeed on its own merits. Trying to take the "bitcoin" name indicates that Ver thinks it won't succeed otherwise. It makes me trust it, and him, a whole lot less.
+That's fantastic. Really looking forward to seeing cryptocurrency taking down Paypal.
+
+But, honest question: how does the REQ token fit into this? Is there any reason to hold REQ?
+Try this: http://www.solar-wind.co.uk/cable-sizing-DC-cables.html
+Here in the UK the official starter kit is [£73 from amazon.](https://www.amazon.co.uk/Arduino-Starter-beginner-K000007-projects/dp/B009UKZV0A/ref=lp_1779758031_1_2?srs=1779758031&ie=UTF8&qid=1524818598&sr=8-2) That's CAD 130.
+
+So the actual price of your kit was normal, but you got screwed over by shipping costs and customs duty... I didn't realise you have to pay customs duty when importing from the US. Don't you guys have a free trade agreement?
+
+
+If you consider the ESP8266 and ESP32 part of the arduino "family" (they are compatible in many ways) then yes:
+
+https://www.reddit.com/r/esp32/comments/6kzca7/doom_on_the_esp32/
+It is a joke. That error makes no sense. Also the 3 users posting in here all seem to know each other.
+Yep. Advantage of software is you can tune it without having to change any hardware, so I would try that first.
+
+You don't need a library, just the line of code I posted earlier
+Cool, happy to help
+You can use a 3s lipo.
+You can use Nick Gammon's board-detector sketch: https://github.com/nickgammon/arduino_sketches
+
+That will tell you if the bootloader is there or not. Maybe it's all fine, and it's your UART that isn't working.
+Copy and paste it in to your sketch.
+Yes, an RC circuit (resistor+capacitor) is a very good way to reduce noise. The running-average code is a software implementation.
+
+https://www.electronics-tutorials.ws/filter/filter_2.html
+Wow I thought you were joking... Nope. TIL Scott Adams is an alt-right conspiracy nut
+Yeah that's what I'm thinking. If it's a peristaltic pump air will leak. They aren't designed to hold back pressure.
+>. I think my issue was due to the fact that the beer had to travel further as the level lowered. 
+
+My guess is that as the tank empties you need more air to build up a head of pressure. It would be solved if the pressure remains in the tank.
+Interesting. VWR is one of our major suppliers, along with Thermo Fisher and Sigma Aldrich. But I can also order parts from RS Components and Farnell. I can't order stuff from amazon or ebay unless I use my own credit card and apply for a reimbursement. It means that the things I build at work have a higher BOM cost than my home projects even if they use the same components!
+Try uploading the blink sketch via your programmer. Does the LED blink? Assuming you put one on the board.
+Oh really? Where do you buy electronics components?
+That's a good approach. Commercial peristaltic pumps are quite expensive but I've seen designs for 3d-printed heads for a standard stepper motor.
+You can edit the contact's name in the app. But you can't change the profile pic, as far as I can see.
+100% use a peristaltic pump. Silicone tubing should handle all those solvents.
+
+Go to the electronics supplier for your university (mine uses Farnell and RS), look for peristaltic pumps, and match them to your needs and budget.
+I'm not familiar with that board. It looks larger than the stm32f103c8t6 boards.
+Can you link to one? 
+
+Worth investigating the difference between stm32f030f4p6 (cortex M0) and STM32f103c8t6 (cortex M3, used in the blue pill).
+
+The latter might have better community support (and arduino compatibility) because the boards seem to be more common. The M3 is considerably more powerful. 
+That uses the same pinout as the '328:
+
+http://www.electrodragon.com/w/images/7/7a/Atmega328-pinout.png
+
+PB1 is pin 9, so you can just `digitalWrite(9, HIGH)` to turn it on. Unless I've completely misunderstood what you're trying to do.
+> Not to mention QE26 or whichever one we're on now
+
+What are you talking about exactly?
+>But if you want to save energy and use less miners
+
+Well I don't use any, I just hodl like most of us here.
+You didn't specify that. What chip?
+They do. I've got a whole lot of random coins in my binance wallet.
+> This results the person with the biggest hash power to be able to solve 8X more transactions making the whole system 8x more centralised.
+
+Does that mean it needs fewer miners and thus wastes less energy? I haven't seen that aspect discussed yet.
+Yes you can use things like Blynk
+
+https://www.blynk.cc/
+Yes, you can upload code via wifi and it's much faster than USB. Plus it doesn't need to be connected to your computer.
+Call it a feature, add a spring for quickly ejecting the flaming battery towards your foes.
+Why don't you just use the actual pin number written on the board?
+In addition to the Teensy, ESP8266 and Adafruit M0 suggestions, have a look at the STM32f103c8t6 "blue pill". It's the cheapest option by far.
+
+Personally I use ESP8266 for many projects even when wifi isn't needed.
+I remember when quantitative easing was supposedly going to trigger hyperinflation, in like... 2009
+Yep.
+
+I'll do another test. Target is atmega328:
+
+    long var1=10; void setup() {} void loop() {var1 = var1 + 2;}
+
+514 bytes
+
+    float var1=10; void setup() {} void loop() {var1 = var1 + 2;}
+
+884 bytes (370 more). That's the cost of the float routine I guess.
+
+And with division:
+
+    float var1=10; void setup() {} void loop() {var1 = var1 / 2.1;}
+
+890 bytes. Doesn't add that much. But this is interesting:
+
+    long var1=10; void setup() {} void loop() {var1 = var1 / 2.1;}
+
+1118 bytes! I guess the casting takes its toll.
+
+edit: finally, adding a second float doesn't add much:
+
+    float var1=10; float var2=10; void setup() {} void loop() {var1 = var1 / 2.1; var2 = var2 / 2.1;}
+
+938 bytes (48 more)
+>higher voltage battery and a buck convertor might be a better option
+
+Yes that's commonly used in the RC/drone community where the terminology for a buck converter is "UBEC". If you search for that you get more compact buck converters than your typical hobby electronics module.
+
+Couple those with a 2S or 3S lipo and you have plenty of power available.
+Animals that sense infrared light don't do it with their eyes as far as I know. They have specialised sense organs for it. So they don't necessarily have sensitivity between green and IR.
+Might be better off asking in /r/matlab
+But I heard trade wars were good, and easy to win?
+What if it's child porn though? I can see some problems with immutability.
+Check out PlatformIO, the plugin for VSCode. It will manage your platforms and your libraries and gives you easy access to the serial monitor etc.
+What exactly are you trying to do?
+The library added 400 bytes in my test, not 1kb
+"There's nothing in the rulebook saying a dog can't play golf! We'll have to allow it!"
+I wondered if that made things worse.
+
+Still, not sure how OP managed to save 1kb by removing all the floats...
+Well you always need a backup in case the hardware is lost or destroyed
+Hey, so I build things for festivals and I've spent a lot of time playing around with different ideas. My advice is: consider using physical controls (knobs, buttons, accelerometers etc) rather than wifi. You'll get a lot of interested people coming up to you, and they'll love it if they can interact with your toy!
+>10:45 am on a Tuesday
+
+*"The gang gets blackmailed"*
+Diodes? For switches?
+The original post from 2009 has this url for the account:
+
+http://p2pfoundation.ning.com/profile/SatoshiNakamoto
+
+The "you've been hacked" message from 2014 comes from this account:
+
+http://p2pfoundation.ning.com/forum/topic/listForContributor?user=0ye0gncqg772o
+
+edit: oh I see. There are other posts from 2009 with the weird URL too. Fair enough.
+Yeah the cops would make every attempt to recover the body.
+Oh of course. In that sense, a float uses only 6 bytes more than a long when the only time its used is this:
+
+    test_var += 1;
+
+That line costs 44 bytes if test_var is a float, and 38 bytes if it's a long.
+Interesting. Just ran a test:
+
+1st float variable adds 410 bytes to the program  
+2nd float var adds 44 bytes to the program
+
+I can understand the first bit because the float routines needed to be added. But subsequent calls?
+In theory anyone can use it but I believe their focus is Thailand and neighbouring countries since that's where they started.
+Did he really think that would work?
+
+"Oh, it sank? I guess that's that" -- Danish police
+Do you know why OP's float equations increase program memory usage?
+Whales need volume though, otherwise slippage is much worse than 0.025%
+I'm aware KCS costs more than COSS but last I looked it worked out to be a considerably higher ROI overall. Like 5x higher. Right now it seems to be the same: 0.018% per day.
+
+Sources: https://kucoinshares.com/  
+https://www.cosscalc.com/
+
+It'll all change when the next bull run hits and volume picks up everywhere. Will COSS keep pace with Kucoin though?
+That's not Satoshi's account. It's another user with the same display name. Check the URL on the display name and you see the imposter's actual username is 0ye0gncqg772o. If you google for that you get this website: http://0ye0gncqg772o.com/ which is clearly just a scam/cry for attention.
+
+
+How will that happen? It has higher fees than Kucoin or Binance, and doesn't have as many popular coins. What incentive is there for someone to trade on COSS?
+I'll check it out! Cheers
+Interesting tactic! Shill us your favourite sub-50m coin, if you will
+The point of OMG is to provide financial services to Southeast Asia. The reason Plasma is involved is because OMG will need higher performance than what Ethereum currently provides. Vitalik is one of the advisors for OMG so it's the testbed for the Plasma upgrade.
+
+Someone please correct me if I'm wrong!
+That's getting harder and harder due the proliferation of new projects, most of which seem fine on paper. Meanwhile TRON is up 50% this week. Seems that DYOR doesn't really mean much anymore.
+What is the battery pack, how is it connected to the arduino and what else are you powering?
+From this discussion here it seems that volatile will drastically affect performance. And probably isn't necessary for your program.
+
+https://forum.arduino.cc/index.php?topic=418692.0
+
+Also here: https://www.arduino.cc/reference/en/language/variables/variable-scope--qualifiers/volatile/
+
+>If the volatile variable is bigger than a byte (e.g. a 16 bit int or a 32 bit long), then the microcontroller can not read it in one step, because it is an 8 bit microcontroller.
+
+
+Floats are already being used here:
+
+    v_out = 255 - (ethanol_percent * 2.55);
+Weird. What if you don't make the variables volatile?
+You already created a thread about this... in the other thread you said you're using 9V but your motor is 12V so of course it's running slow..
+But if Kucoin's volume is more than 3x that of COSS then KCS will still give a better ROI, right?
+Why only 9V instead of 12V? That's your problem.
+What will the fees be like for fiat? The fees for crypto trades are so high it doesn't make sense to use COSS instead of Binance.
+KCS is currently much higher reward than COSS and I don't see that changing. They have like 100x the volume.
+
+edit: actually volume is so low everywhere that KCS dividends are the same as COSS dividends. It used to be much higher.
+OvergroundHound
+It'll increase the frame rate but maybe you don't need that. You can stick with FastLED first unless you encounter performance issues
+In my experience no, it might twitch but won't overcome the spring.
+Oh what
+
+I use Onedrive all the time at work (1 TB storage) and this might break a ton of my stuff. Thanks for the heads up, OP
+Well, what voltage are you applying to pin 8? http://www.ti.com/lit/ds/symlink/l293.pdf
+Having tax proportional to the amount of floor space makes no sense. What happens when a company makes a loss? They still have to pay tax? 
+Oh yeah, that happens to me and I've always assumed it was standard behaviour. I wish it would a) turn the TV off instead of going blank, and b) give us the option to disable it entirely.
+
+Wait, how does it know not to do it when a movie is playing?
+> Positive supply going to the collector.
+
+That's wrong, the load needs to go to the collector. Emitter goes to ground.
+>Also certain time needs to be passed so fingers can move from one state to other, without this when ever EMG-signal is over 20 it keeps switching from open to clenched constantly
+
+Instead of always delaying after each reading, just delay after the movement has been started. This is called 'hysteresis'. Then it should respond instantly to the first movement but ignore other movements that occur in too short a time.
+Not sure your EMG is working properly...
+Post your circuit and your code so we can spot the error
+What motor driver are you using?
+From the admin's comment it's clear that's not the first time you mentioned Substratum and you already had a warning.
+So then two companies occupying the same office building pay the same amount of tax regardless of their income?
+Satoshi was dead all along!
+I'm with EE because they have the best network, hands down. I was with Three and it was terrible, and the price difference wasn't that great.
+Mayor of Scaredy Cat Town is behind a 'fridge' in the Breakfast Club.
+
+http://www.themayorofscaredycattown.com/
+Sure, Arduino can read I2C and it can send data over wireless.
+
+NRF24l01 is a popular module. Communication with the arduino is done via SPI.
+It doesn't need a library, just a few lines of code:
+
+    #define POWER 256
+    int alpha = 178;
+    value = (alpha * measurement + (POWER - alpha) * value )/ POWER;
+None of the people on the team are scientists. I'm a scientist and this crypto would not help me or my colleagues.
+Solid core is the obvious choice but it's actually pretty annoying to work with because you have to get the length exactly right since it won't coil up. I would use stranded wire and figure out a better way to keep your LED in place.
+Yep, zero chance this will go unnoticed. They aren't a one-man operation like Bitgrail.
+Get rich with this one weird trick! Banks hate him!
+It'll be shitty photoshops of cars on the moon and you know it
+> Picture Bob Ross and the joy of painting. If it was the modern day, Bob Ross could do what he does on youtube, but without needing to secure the production budget needed to operate it. The way this token can help the little guy monetize on all forms of media is really an incredible thing. 
+
+Isn't that the same as Patreon? What makes BAT better?
+Geoff Marshall made a video on that station: https://www.youtube.com/watch?v=DvjjDlEQXVI
+I would always look at the serial plotter to get an idea what's actually happening.
+
+>It will count as multiple beats as the signal is still increasing right? How do you make it only count as 1 beat?
+
+Check the time since the beat started... if it's less than x milliseconds, it's still the same beat and you don't need to start counting a new one.
+
+>And I am also worried about noises, as it may also count as a beat.
+
+Yeah, a smoothing algorithm like this exponential one will help a lot. 
+
+https://playground.arduino.cc/Main/RunningAverage
+Reading that makes me glad I'm old enough to have already graduated before Facebook was developed. My awkward moments are only memories.
+Ubuntu on Windows is even better than cygwin and it ships with Windows
+I just default to Mann-Whitney, is that bad?
+That numpad tho
+On the plus side, Portugal is pretty great and one could retire comfortably there.
+When the rate of change is above a threshold, you can say that's the start of the beat.
+
+This should be more resiliant to changes in sensitivity between sensors because the absolute values don't matter.
+If you get the song as an MP3 you can open it in a program like Audacity and measure the gaps. Or count the number of notes per second.
+ESP8266 dev boards have a voltage divider to bring the analogue input from 0-3.3V to 0-1.1V for exactly that purpose. The bare boards don't have that though
+The chip itself is not obsolete, but that dev board looks unusual.
+It's fine then, same as the question in the other thread
+Yeah not just that but they are apparently connected and a future one might have Tom Holland's Spider-man. They're leaving it open for crossovers.
+My guess is we won't see Tom Hardy in the MCU since he's playing Venom in Sony's franchise. 
+
+
+I agree, she was one of the least interesting or relevant characters in the MCU and I'd actually totally forgotten she was even in it until now.
+What is the battery voltage? 
+What are you talking about? I said that an opposition leader could campaign on a platform of improving ties, and trade, with the West, and getting sanctions lifted. That means: not using nerve toxins in England, not invading foreign countries, and not shooting down passenger jets. Doesn't seem so hard really. 
+
+This is all moot though because Russia is not a democracy, has never been a democracy, and will not become democracy in our lifetime.
+The infrastructure is broken.
+...That's not why Russia is facing sanctions and you know it.
+ARE YOU NOT ENTERTAINED?
+It'd be a different story if Russia had a working democracy with an opposition that can campaign on restoring the economy by increasing trade with the West. Then the people suffering from the sanctions have a real solution.
+If the signal does change, then the automatic threshold code will find a new threshold right?
+
+Alternatively, you could apply the threshold to the rate-of-change of the signal. The signal rapidly increases at the start of the pulse. If you take the current reading and subtract the previous reading, you get the rate of change.
+
+Russia has a lot more to lose in that particular front; not many wealthy English families sending their children to private schools in Moscow.
+Is that really the unit you have? It says obsolete and out of stock.
+
+You'll need something to communicate with the chip via I2C and then relay the info to your computer via UART. I would use an Arduino but any microcontroller should be able to do it.
+I keep a jar of jellybeans on my bedside table. Why get up?
+Not if assembled correctly they don't. That wastage would add up for IKEA.
+Big fan of the Shard but I find One Blackfriars displeasing in its proportions and asymmetry. Like a balding man with a beer belly or like friar tuck from the disney robin hood. Blackfriar tuck
+Why is that? You can use a different threshold for each sensor.
+
+You could also automatically find the threshold. What if you use a value halfway between the max and minimum readings?
+Google Docs spreadsheet cell A1 really needs SMS fallback
+Can send files up to 1.5GB, better searching, forwarding/replies/username mentions, live location sharing... oh and you can make your own stickers super easily
+Held on to a steward's moped.
+Oh right. I thought it was AMS1117. Good catch. The Zerynth page is wrong, and in fact it looks like they've just copied the Arduino page.
+And you'd need a visa for Portugal.
+Merely a pittance. *adjusts monocle*
+Well since it's a US territory, the government should take some responsibility for maintaining the infrastructure, but that's not going well...
+https://edition.cnn.com/2018/04/19/us/puerto-rico-power-outage
+
+The whole island lost power last week.
+That's absolutely how it works. You don't get to live tax-free simply by being a foreigner. Maybe /u/Shakesmyst lives in a low-tax country.
+Right? I'd pay 20% if it means I can live where I want.
+>power it with accumulator 
+
+The modern English word is battery, fyi.
+
+Anyway yes as /u/TomvdZ guessed, it is the 5V pin, which does nothing except link the USB 5V to the voltage regulator. You can put 3.7V or 7.4V there and the regulator will drop the voltage to 3.3V (if you use 7.4V it will get hot, but it's probably okay).
+
+If you connect the 3.7V battery, and plug the board in to your computer, the battery will get 5V and then you might start a house fire. So don't do that! The 7.4V battery is safer in that regard because there is a diode between the USB and the 5V pin.
+
+Why do they seem legit? To me they seem like just another pie-in-the-sky ICO with an ill-thought out business plan.
+A normal sight in the Netherlands, a terrifying prospect in London
+Good starter project!
+
+The ESP8266 requires 3.3V, but dev boards (like the sparkfun thing) have a voltage regulator to drop a higher voltage to 3.3V. This means you can power it with 3x AA or AAA batteries (4.5V). You can also use a USB power bank.
+
+You won't need an arduino. Your light sensor needs to be read by an analogue input pin, of which the ESP8266 has one. Arduinos have 6. But you only need one.
+
+>How would this get "built"? Would I stuff everything in some kind of box with a plastic cover to protect against the elements?
+
+I would solder the ESP8266 board and the light sensor to a protoboard (aka perfboard). If you aren't confident soldering, you can plug both things into a breadboard, but that makes it a temporary project. A permanent soldered project will look way cooler. Then just put them in a box of your choosing.
+
+As an alternative to the Sparkfun boards, you can look on Aliexpress for much cheaper components. The Wemos D1 Mini is the most popular ESP8266 dev board. But getting stuff from Aliexpress requires knowing a lot more about what each component does, whereas Sparkfun (and Adafruit) carefully document everything they sell, so it will be easier/less frustrating for you. If you're curious, search aliexpress (links are banned on reddit) for "arduino light sensor" and you'll see a ton of different components.
+
+edit: the Wemos D1 Mini is a great board though, I recommend getting several of them. 
+Serial.write is for printing something to the serial output, is that what you want?
+So it still wobbles even with a (more expensive) 2mm thick board? That's exactly the sort of feedback I was after. I'll got for a connector. Thanks!
+Right, that sounds like it'll just be more work than using a connector. Thanks for the info!
+Ah I didn't realise they need something more than just standard copper traces! That changes everything. Thanks.
+That was my thinking, but the other comments here have convinced me otherwise. Seems like it will be difficult to ensure a good connection.
+Alright, seems there's some manufacturer variability. But at least you have 2 sensors that are similar!
+What the fuck is up with these comments
+Good point. I'm doing this on the cheap with components from Aliexpress. But I think you're right- a proper connector is better than a PCB "hack". I'll order some connectors and solder them in for testing.
+> It's supposed to be used to reduce RAM usage, which is normally not all that high in my experience.
+
+Yeah the only time it's been an issue for me is with lots of addressable LEDs (which need 3 bytes each). 
+https://www.washingtonpost.com/news/worldviews/wp/2014/07/22/meanwhile-in-russia-putin-passes-law-against-protests
+
+>Under the new laws, protesters found guilty of “holding meetings, rallies, demonstrations, marches and pickets” multiple times during a six-month period will be eligible for a panoply of penalties, including fines ranging from 600,000 to 1 million rubles ($17,124 to $28,540) or two years of salary and up to five years of forced labor or prison.
+
+https://en.wikipedia.org/wiki/Freedom_of_assembly_in_Russia
+
+> As of 31 March, no rally in Moscow or St.Petersburg has been allowed by the authorities. The police have dispersed and detained participants.
+Protesting is illegal in Russia so yeah
+There isn't really an advantage to desoldering it if you're going to attach wires. 
+A gate driver is for driving a mosfet gate, not a solenoid.
+Oh I see, once they're banned they can't view the group at all. That's good.
+You're powering it with 7.4V which is getting dropped to 5V by the linear regulator. The excess power is dumped as heat. It's fine.
+What RF transmitter are you using?
+What heat? You didn't mention any heat.
+I thought Kraken was based in San Francisco
+Write a script to sequentially set a pin high and check for changes in the other pins.
+How many girls do you know investing in crypto?
+That's lower than most countries.
+Well there's at least two companies working on a crypto-based paypal competitor: REQ and Coinbase. Coinbase has a working product right now, and name recognition.
+Yeah if I'm sending $99M the fee could be $20 and I wouldn't care
+Get the "CNC shield", it comes with four A4988 drivers.
+"Fix" "bad"
+
+Neither of those words apply here. The board isn't bad and it doesn't need fixing. You just need a driver.
+>I heard that each pin has Max draw of 20mA . The sensor draws less between 2mA up to 5mA. So am i in the safe
+
+Yes
+I'm a bit confused. You invited them to your channel, then banned them. How does that stop them messaging your users?
+Like a modern day Hemingway.
+The interior is much less grungy than I remember.
+What happens at the other half?
+That's the bit I saw. I don't know how you calculated less than 7.5mA at 5V though.
+Oh come off it. I don't care for your country's politics but I know enough to know that she would have been *mediocre* at worst. What you have now is worse than that. 
+
+But that's irrelevant: there is no "right side" when it comes to an enemy nation interfering in your election. If you think it's okay, you're an enemy of democracy.
+You're legit defending the targeting of American democracy?
+Awesome!
+
+A neat trick is to toggle your GPIO pin between input (high impedance) and output-low, rather than the more traditional output-high/low.
+
+When in output mode (and driven low), it will pull your switch from 3.3V to ground. When in input mode, it's almost disconnected from the other circuit (there's a very large resistor in place, like 100 megaohm) so the switch will think it's open. You can actually press the switch and the circuit will get pulled to ground without damaging your connected ESP. If you had instead set the pin to output (high), pressing the switch would pull your output pin to ground, destroying your ESP.
+
+https://en.wikipedia.org/wiki/Three-state_logic
+Oh I see. So you reckon 7.5mA is just at 12V? Shame they don't have a chart showing expected current at different voltages.
+Wikileaks is a global site and the founder isn't American. Leaks about the Kremlin are just as important, no? 
+
+The suggestion that Wikileaks focuses on one issue over another means we can't trust them as an impartial source anymore. 
+Yes I did my PhD there. That's how I was able to get a visa from Australia to stay there for so long :)
+Wikileaks aren't the only channel for whistleblowers and leaks. Think about the Panama/Paradise Papers leak.
+The reason wikileaks has fallen out of favour is they became selective in which information they leaked. The cable leaks was the last great thing they did, and that was in 2010. Since then other groups have taken up the cause, like the Panama Papers team. Wikileaks is no longer as relevant as they used to be, and there's very real concern that they are compromised by Russia.
+My favourite city! I lived there for 4 years. Loved every moment of it.
+Polkadot's ICO in particular was fucked over.
+Can it print something with serial.println()?
+Only for locals though right? I was in Singapore in December and I wasn't able to use contactless anywhere. They had signs for some local payment thing next to the contactless terminals which didn't work with my mastercard.
+I have only tested up to a metre, with 60 LEDs. Beyond that I expect it will be a problem, yes.
+The LEDs can also be driven at 3.7V from a lipo.
+Short answer is no, that's a very difficult problem that is expensive to solve.
+https://sensepost.com/blog/2017/deep-insert-card-skimmer-research/
+
+This one uses a PIC, not an Atmega.
+
+Most amazing thing from that article: this website sells the parts you need to make a skimmer: http://www.cardreadertech.com/
+I don't think they use radio to transmit the info. It would use so much precious battery. This article says that they use IR to transmit it.
+
+https://krebsonsecurity.com/2017/07/thieves-used-infrared-to-pull-data-from-atm-insert-skimmers/
+> (assuming it's radio, maybe they just come pick it up?)
+
+I reckon they'd come back to collect it. They were able to install it without being detected after all. One more trip and they have the device free to use on another ATM.
+Still need cash to buy drugs tho
+That's a pretty terrible design flaw if so. 
+It couldn't possibly be more overrated than the bible...
+Why?
+https://en.wikipedia.org/wiki/Ash_Grove_bus_garage
+
+I wonder if the roundel is intentionally grey or if it just faded in the sun...
+Why show the date at all if it's only one day?
+I agree. RCS doesn't solve any problems and just introduces new ones.
+Those links are for NodeMCU (Lua) code, not Arduino code. I don't use NodeMCU Lua code because Arduino has better libraries. You can use whichever you want, but you already mentioned arduino, so forget all those NodeMCU links and open up the arduino IDE. Choose the NodeMCU as your board and upload the blink sketch. Does it compile and upload without issue? Does the LED blink? 
+Good to know, thanks!
+Where are you seeing it taking 5V as the switching voltage? Looks to me that it needs 12V. OP will need a transistor.
+Just a thought - you can use WS2811 12V addressable LED strips. Then you don't need any shift registers. As a bonus you get full colour. Price will be slightly higher but there's less wiring and fewer components.
+Yes I love Germany and visit often but that still baffles me. I've had to leave a restaurant to find an ATM to pay the bill on several occaisions.
+A cheaper alternative to the sparkfun shield is the DFPlayer Mini. It can also drive a speaker directly since it has an onboard amplifier, but OP would need to add a 3.5mm socket.
+
+https://www.dfrobot.com/wiki/index.php/DFPlayer_Mini_SKU:DFR0299
+Random downvotes are common everywhere and I assume it's bots. Or reddit's vote-fuzzing algorithm, though I think they stopped doing that.
+Yeah the only issue is the logic level but I'd say there's a 99% chance it will work without a level shifter.
+Yeah I don't carry my wallet when I go to buy lunch etc. I have yet to come across a shop here (London) that doesn't accept contactless. It's great.
+IRLB3034 or IRLB8721 are common choices. You could also go on aliexpress and search for "logic level mosfet".
+
+Other mosfets are not logic level, meaning they need a higher voltage (usually 10v) to fully turn on, instead of 5V (logic level)
+Probably yes. What exactly was connected to the pins when the arduino reset?
+USB ISP programmers like the USBasp are basically generic items. I got mine from aliexpress.
+I remember the movie well but it wasn't obvious at all from your comment
+Yet another job lost to automation. Time to retrain and become a cat hasslerbot repairman.
+Oh yeah easily. You should have said it was an Atmega32u4!
+If the board contains an Atmel (AVR) microcontroller, yes. Presumably it does, otherwise how did you come across this subreddit?
+
+
+>Is there such a thing as a device I plug into my keyboard that will put AVR on it?
+
+Do you mean a device that will enable you to program an AVR device using ISP? There's the USBasp. https://www.amazon.co.uk/3-3V-USBasp-Downloader-Programmer-Adapter/dp/B00AVRHVPO
+Yes, it has to be if it's going to sense the voltage without pulling it down. A digital input has a impedance of 100 megaohms. I don't know what the impedance of the analogue inputs is but it's probably almost as high. The current is negligible.
+FYI you should be using mosfets rather than TIP120s. They are more efficient and easier to use. Darlington transistors are decades-old.
+No, when a pin is in input mode it only draws microamps. In output mode it draws as much as it can, so don't put it in output mode. But even if you do, the resistors used for the voltage divider will protect it.
+You can use a voltage divider to bring it down to 4.2V and thus be readable with the arduino's analogue input.
+The diode allows current to flow out of the coil and back in to the coil. So it needs to be parallel to the coil, but reversed (otherwise you get a short), hence 'antiparallel'.
+Like a joule thief?
+That's not the right place for a flyback-protection diode. It should be antiparallel to the load.
+Yes, that will work.
+Seeing these the first time was quite a shock to me as a non-Brit. Most of the chairs were empty but the park was otherwise full, since most people would prefer to sit on the grass than have to buy a ticket for a chair. If they just removed the chairs we would have more space to enjoy the park. At the very least the price should go down to the point that the chairs are mostly full.
+
+It's like every empty seat is an advertisement for capitalism's failures.
+Your crude circuit drawing is missing an essential feature: the voltage of the supply.
+Measure the voltage before and after the resistive load in order to determine the current. 
+
+This assumes you know the resistance. If you don't know the resistance, use a shunt resistor of known value.
+Oh yeah. That seems logical. I've been attaching the strip very close to the ESP.
+That doesn't make sense... the 3.3V signal only travels as far as the first LED. Beyond that a new signal is generated by that LED at the Vcc (eg 5V).
+I built a board with similar components but I didn't realise the antenna needed to be on the edge. I left zero space. Wifi works fine, but I haven't tested the range (it's not critical for me).
+
+On a side note, I didn't use a level shifter for the LEDs and they also work.
+I was expecting a bit more action when I opened the link to a bus fire photo
+Yeah it's annoying they don't fit in falcon tubes! Would make such a handy (waterproof) enclosure otherwise.
+
+Anyway, you can use a 14500 battery. It's AA sized, 3.7V, 750-900mAh. If you need more capacity, maybe you can find a lipo pouch cell that you can cram in the tube.
+Hmm okay, how about you set it up with just 1 sensor, and swap them. Perhaps one is just weaker than the other.
+You can make a really simple sketch that does nothing but read the values from the two sensors and output them to serial. That will help identify whether it's a code issue or not.
+
+
+Depends if you can use 3.3V for everything. That looks like a Nano which is 5V. Powering projects with a battery is much easier if it uses 3.3V.
+Awesome. I'll do that when I revisit that project. Cheers!
+This is really useful info, thanks a lot. This may explain why my attiny board was difficult to program (would get verification errors a lot). 
+
+Your auto-tuning function looks rad. I don't use any bootloader on my attiny though. Can I get the calibration data and put it into a fuse?
+Almost: ISO standard is 2018-03-31. The dashes mean it's valid in filenames.
+>And then a power relay on the other side that would, hopefully, be able to send a momentary signal to the pins of the momentary switch to activate the coffee maker. 
+
+Completely overkill. The momentary switch is only going to carry milliamps, if that. The ESP8266 can handle that without any extra components - just hook it up to a digitial pin and pull it low.
+
+Caveats:
+
+1. This assumes the button is "active-low", meaning the high side of the switch is connected to the machine's logic, and the low side of the switch is connected to ground. This is the most common way of wiring a switch.
+
+2. This also assumes the high-side voltage is 3.3V or 5V. If for some reason it's higher, like 12V, you'll need a transistor to pull it low. If it's 220V you'll need a relay. It won't be 220V.
+
+First step is to measure the voltage across the terminals of the switch.
+> You should connect the 12V to the shield and use the 5V line to power the arduino. 
+
+12V to the shield will power the arduino just fine. No need for a separate 5V supply.
+That is a standard screw terminal block. It will not hold a connector securely without using the screws.
+
+You can attach a JST plug if you like. How often are you going to change what its connected to?
+I recently put a Wemos D1 Mini and a GY-521 on a board together with one of those TP4056 charge/discharge modules.
+
+[pic1](https://lh3.googleusercontent.com/gyhEVA_pooIts7ZRL4zi0Tra3sG12FsF2sKSnOa-iMo9SbRfxVtziLtuh_UuUk1aPPIrxXAy0ftN2PP7e3iiqC5qSJsJs79PX5tENoeLDGRUfUx9mE3f82-Ouv4IG03FThrXnxlqtwgGWwYDkkpOB0Z3yDv8UmQtfTltjALd8oZFVef-_arbGVD0dS9-9-rvyeTn_Hq5-k0EkGOuto-QwhFZlCDjeC9EYNda4RqxW7uBc_GlI597VHoyvyWpsEweG9dr7TOEog-bMRHAh5c15iAmTCSvzlXo9a3Xlh7Wdf_N7hysurmQjvVjElcGYfttvsBCXbzdHpQySoyV0FC6ut6QgZtXQmjMueguaGZndBbF4lq4uWwRrqvbQe41AxO2fMZmMfR3gKLhQ2nM2OBkpkW-K79Okduc7BZfR9L49UJHjJixRwE-37ftDBXLwo6fz5OjMCQ3xntDPSCROnDnFDyJMQjPt4SNKdztSl7xIwkjmGFW11oJLaAyeHbyLERsYBQqQ7BgO-5_TzctRP-3_n1cmK0n-0jvj3SQsFnB3NyZs4hm0aWRr8W2-qr0rt2oiB9O_2Jb3RkCCnuudz6KxM7up4zIJkANIQSIrejL33GJUZ6u5tjc5CqbZtjku0sfPnh08NHQ7bfkORE60YkQPQzWMm2a7_swQw=w619-h825-no)
+
+[pic2](https://lh3.googleusercontent.com/Uf4mtLLi8Tk6G2Swa_y2fY8XpQ_XJlz_elpe2uxc86RON-wMw_utHLVtzf59ln6Q7Z52YGUvxxJZOCeKIiyPGidQ7GF6T-0sEeF3BMMAhWdBBJ8a4s_hyNYQXJFqv0KS5Kr1RdW7K4uSZB6ZDXIHqJRf_Q4teMZtDAWFTvhpqrzEWJTTFE0oiEgBrRkiPP0IzZxk6jMRXa7gEpHpBMFK_3K2VMJlpGaHgw3h0S44XqyzHgVGVjo0yo_pWIqdOSkVXVo5g8Pq35PEPPimY27ZD2sfjjr46OWjsiSYxMqkVPrVD1O2WseXs5TQpLGDxDHBHy6hS2n-OXuw-1DEAjzN4t6Fxw2qaxDi7zBrHSt9xZup2sDrCylrBA1uJVuC-opFxG4IOSBzFkTQfQ58V-4TL1fzc4v3mxMdPThd-kHUZxDGNEBTUIxJ33Tv_qspy2nMIW9XYyJuUGm46NgHwnHwijy2XNfy7roeqfj468CjedxU_lgf36EIznshFQcX0K3NqNT1ueDuaDDu2B3K9C5hvdP9AJhl-Gyjs458LwvbovUNCA3couYyxg2s6hnnnJmedoPpBzTQufn5Vr7BaYBkqSSYNapikimZ6kYrt8Ouj5p6VNzQyQ_up_l-58cliGX5Ct3AuZaBNVooXtJA4zSd_ZVpuC1S-zW5Sw=w619-h825-no)
+
+[pic3](https://lh3.googleusercontent.com/KKux1r4aJNmleSEgwDytH3d9aWbyzOM7rfI21z-dDOCXeBE8D4lfXCW3zKojwhbuyGfqABJfEjxgiROy9cBsGJxJvc5F-ziehifNcKSCCWh7lAEIzY5dbWMSetD9doyX3bNVu7jAmlwxsopaFIllJ-YelOchO7tRWgFcgLEBbbf1HZq9zbPJH80TCPQC5FbiGky51b0hr0scZG_1cQ-ggH73Ywxf4ZFi3B54HfHjAuOUKAexIN9DO1fYE0tbfCXp-ELzuJnUwl0XsyticUdwywbla0Q6dIw-J_CC0Ep5fJuVcXNJRMgEgvP7ka77rBJP8zZffEATk12h6NyDbjcjCSA-fM95Wn65THjfBroDRIgNvLhYsqXdilcVp0JkOvNrR9TMC_zbnLnolZScuoYUeQIS8RzpY4jO1ZCdPQ5RQgMWfGY71IB1CE57a860zprt-be6-HlM2Hf3XksJZ7KjStExvycYKZHt4wbeN0w4MK0VYDAJqUtZbHKslCshG4UauLyDegS8llL5hYnxFKEiQX0KYbb-LNr7ppMRtHhPTkmDlOUYSra-ZdStLb_IVKj33_41tIUT78prsa_YEPik6OeA2MSTPeGkFgwVjIh4ky-KFqzHal0UDb4sKVXiOT7H5dLLbGMijx-PtnTcZnFFdRA-8E99mZY5BQ=w619-h825-no)
+
+I'm not particularly happy with the design. Those JST-PH headers are difficult to disconnect and I wish I'd just used screw terminal blocks. And I'm not sold on the TP4056 yet and will make a new design using USB for power instead.
+
+I recently put a Wemos D1 Mini and a GY-521 on a board together with one of those TP4056 charge/discharge modules.
+
+https://photos.app.goo.gl/CT6z73aaQJ0btgeQ2
+
+I'm not particularly happy with the design. Those JST-PH headers are difficult to disconnect and I wish I'd just used screw terminal blocks. And I'm not sold on the TP4056 yet and will make a new design using USB for power instead.
+
+Yep. In theory your code can run with 100% memory usage. The dynamic memory usage printed by the compiler is for your global variables, the ones declared at the start of your code. The compiler is able to guarantee a memory location for those variables. But the local variables - ones declared in a function - aren't reserved because the compiler doesn't know if a function will necessarily be run. This also applies to more complex class variables like your vectors.
+
+If your code has lots of local variables then you need to ensure you have memory for them and the easiest way to do that is minimize dynamic memory usage by your global variables.
+Yes, you can power it with a 2S (7.4V) or 3S (11.1V) lipo battery and a buck converter (also called an UBEC) to lower the voltage to 5. Most UBECs can only provide 3A but it's easy enough to get higher powered ones.
+Interesting! I didn't know the internal oscillator can be tuned.
+
+But 9600 is so slow I don't see it being a problem. I was able to get 57600 without needing to tune the internal oscillator. But maybe I just had a good chip.
+They can if the current is low enough. It gets dumped through the clamp diode. A piezo is a high voltage, low current device, enough to affect the ADC but not enough to damage anything.
+
+https://www.arduino.cc/en/Tutorial/Knock
+
+Incineration seems like such a simple solution, why isn't it done more?
+> I'm not comfortable with used bulbs 
+
+Offer him a price you're comfortable with.
+I know right? This Spanish version is fucking badass
+>due likely to tuning errors with the internal clock 
+
+What? Tuning errors?? 
+
+Either your MCU is capable of reaching your UART speed or it isn't. 9600 is super slow.
+This must happen a lot.
+I would love an MCU+IMU board. But they aren't common, so I just make my own. You can do the same.
+Seems possible: https://groups.google.com/forum/#!topic/mozzi-users/l8l8KbMoXXk
+An atmega328 can handle a piezo.
+OP's link to the arduino website shows which pins are assigned to the banks.
+Oh right, I thought you were talking about flyback from the motor itself.
+
+For anyone curious: [the answer is an RC snubber.](https://electronics.stackexchange.com/questions/275389/ac-motor-flyback-diode) Or a TVS diode I guess.
+Yes that's what the Owntracks component does
+> 2 digital pins per motor for logic of f/r freewheel/brake
+
+You need a third pin (eg, enable pin) for freewheeling. 
+Cool, good to hear it's progressing!
+The team has always been focused on machine-to-machine transactions including zero-value transactions (data only). That's why the development of a user-friendly wallet was left up to the community. It's being made by a PhD student at UCL. The official wallet is notoriously difficult to use and many users have lost money due to it.
+>every Zergling is as tall as a human in power armour and are finely tuned predators designed to fill their role.
+
+Yo isn't that hydralisks?
+IOTA isn't designed for currency transactions like that. That's NANO's specialty. 
+The arduino 3.3V regulator comes from the 5V so that's fine but consider the total load on the 5V.
+> you’re going to want good optos and flyback diodes, and possibly zener clamps just to be paranoid
+
+How does one use a flyback diode on an AC motor?
+>If I dont play music (meaning that I exclude all the MP3 and SD card related libraries), everything works great (LEDs show the effects and the measurement works)
+
+Is the problem caused by playback or simply including the libraries? Which of those two libraries causes the problem?
+So, that's a ton of current. Couple of suggestions:
+
+First, are you sure you need 150W of lighting power? Think about how bright a 15W LED light bulb is (over 1000 lumens). You're going to have 10 of them. That's brighter than my whole apartment.
+
+It's really easy, and efficient, to limit the brightness of the LEDs in software. If you limit them to 25% power you will probably still have more than enough light and you can then get away with a smaller power supply and you won't need massive power cables running all over the place.
+
+Secondly, how large is this project? If you have long strips you will lose voltage quickly, but a good alternative exists: WS2811 12V strips. The LEDs are controlled in groups of 3, so you have less resolution, but you need a fraction of the current and 12V supplies are easy to get and voltage drop is less of an issue.
+I took an ATX power supply out of an old computer for a project I'm building at work. It's 600W! Amazing! But most of that power is in the two 12V rails (20A each). I don't recall the 5V rail but it wasn't nearly powerful enough for the OP.
+Oh you didn't say you were playing music. You said that simply including the SDcard and MP3 libraries prevented the LEDs from working. Which is it?
+
+> And even if it is, I think I am able to remove the ArduinoSTL library
+
+How much memory will you save by doing that?
+Yeah the mozzi documentation is a bit lacking. But it describes how to play a sine wave: 
+
+http://sensorium.github.io/Mozzi/learn/a-simple-sketch/
+
+    aSin.setFreq(440);
+
+That's A. C is 261. It would be nice if Mozzi had a lookup table of note definitions. 
+
+https://en.wikipedia.org/wiki/Piano_key_frequencies
+SPI shouldn't interfere with FastLED and they are on different pins.
+Yeah that should work as long as the LEDs don't swamp the sensor.
+Great!
+I've often thought about this. Perhaps you don't need to triangulate with timing... what about signal intensity? Piezos are extremely sensitive and can distinguish between a hard and a soft knock.
+If the piezo sensors are firmly attached to the board they should produce enough voltage for a digital pin to read as HIGH. Then the ADC isn't needed, speeding up the sampling rate a lot.
+
+> A normal Arduino only has 2 interrupt pins so you would to come up with something clever there.
+
+There's also the pin change interrupts which can be attached to any pin, but a max of 3.
+
+I was going to suggest you turn the LEDs off for a few dozen microseconds while you take the light reading. But the datasheet for that sensor says it takes 16ms to get a reading (in low resolution mode too). That will be noticeable. You could still try it though, maybe it's okay if you only need to sample once a minute.
+I think the map() function doesn't work like you want it to. From the docs:
+
+>The map() function uses integer math so will not generate fractions, when the math might indicate that it should do so. Fractional remainders are truncated, and are not rounded or averaged.
+
+"truncated" means rounded down (for positive numbers). So a value of 998 will map to a 2 and only 999 maps to 3, so the ~~3rd~~ 4th LED is only shown for 1 millisecond.
+
+This should work:
+
+    int x = map(currentMillis1,0,1000,0,4);
+
+it's totally possible with high-speed PWM and a lowpass filter. That's how Mozzi works.
+Check out the mozzi library. http://sensorium.github.io/Mozzi/
+Post your code and the compiler error, maybe we can spot the problem
+How much memory are you using?
+How much space can you save by cutting out the stl library?
+
+Maybe you don't need any more space anyway. 90% is okay.
+Have you installed the AdafruitIO library? Open the console and type `pio lib list` to get a list of the libraries installed for the current project. `pio lib -g list` will list the ones installed globally.
+The Arduino IDE is okay for basic sketches but for a complex project one really needs a proper editor like VSCode, library management like that of PlatformIO, and integration with Git.
+Another approach is to get a module like the DF Player Mini which handles the SD card and MP3 decoding itself. The arduino then just controls playback with a few pins.
+FLIR cameras can do it. They use them in airports monitoring passengers for signs of fever.
+Do you guys buy and keep your hats? In Australia we rent them for the day. Same with the gowns. Don't get any souvenirs except a degree and a debt...
+I don't think it's good to do CPR on someone if they don't need it.
+TIL there is a difference between mannequin and manikin. One is for modelling clothes and the other is a training dummy.
+
+http://www.thermetrics.com/blog/it-thermal-manikin-or-thermal-mannequin
+... could you be more specific? 
+Oh yeah. Try digitalWrite HIGH
+> As in, a cab is on the run for many hours a day
+
+But a lot of that time is spent not actually moving, at which point the motor consumes no power. I can well imagine they can last a whole shift.
+What video signal?
+Think about what happens if you control a circuit with a PNP transistor instead of an NPN. Normally we use NPNs (and N mosfets) because they are more efficient. A high signal turns it on. With a PNP/P-MOS, a low signal turns it on.
+Your new fan is more sophisticated and has a dedicated PWM wire. It probably connects to an[ open-drain input.](https://en.wikipedia.org/wiki/Open_collector)
+
+Your first fan only has 2 wires by the looks of it. How were you controlling it with PWM?
+It's okay for them to be connected, just not sharing the breadboard's bus. The bus is not a good conductor and voltage drops are common. I experienced this same issue with an LED strip and the solution was to minimize its usage of the bus.
+Your strip has 3 LEDs per IC, and uses 12V. If it's addressable, it's WS2811.
+
+Use the FastLED library, load one of the example sketches (such as "first light") tell it that your chip type is WS2811, and provide 12V for the strip.
+
+Really not sure what to make of it having pre-loaded sequences. Where are you powering it?
+IIRC it won't block but it will drop chars. At least that's how it works on the receiving side.
+Power actually does flow backwards through the regulator. If you plug the Arduino in to USB there will be ~5V on the Vin. I don't know how much current can be pulled through there without damaging the regulator.
+
+I wish this wasn't the case. If you have a 12V motor hooked up to Vin and you unplug the barrel connector, the motor will then be powered by 5V through the regulator.
+I'm not sure what is causing that. The code should always run... the arduino doesn't randomly "skip" a serial output command.
+No don't do that, the digital pins can only source 20mA and the LED strip will need a lot more. Exceeding the current capability will destroy the arduino.
+
+> unfortunately the bare conductive has another 5V pin instead of the Vin pin
+
+I'm not sure what you mean but that, but that's actually better than using the Vin. Both your LEDs and your sensors want 5V. Just give them 5V, but avoid having them share a bus on the breadboard.
+>This may be a typo but I think it bears mentioning, this isn't a strip. It's two 8x8 adafruit led panels
+
+Well it's still a strip, just arranged in a matrix. You have one data pin right? The physical arrangement of the pixels only impacts the way you construct the animations. You still only need to call fastled.show once to send the data out to all the pixels. 
+
+Remember, fastled.show is a slow function. It takes time to send the data out to the pixels, so you want to minimize the number of calls do it.
+
+>Void dispwarpT is just one loop. I have other loops that display sweeps of the leds, strobe effects, etc. So there's void sweepT, void strobeT, void waterfallT and so on and so forth. My main loop is dedicated to the remote control I made that switches through all of them with multi-button pressing
+
+Yes, I understand, and that's a good way to do it. My own projects are similar. The difference is, I call fastled.show() and delay() in the main loop. The actual animation functions don't touch the LEDs themselves, they just touch the led array. This means the animations always run at a fixed frame rate so it looks smoother.
+
+Recently I've started using ESP8266 boards which are much faster and with more memory, so now I don't need to bother switching between animation functions. Instead, *all* my animation functions are called every frame, with each one having its own `leds` array. At the end of the frame, just before fastled.show(), I choose which one of those arrays will be blended into the final array to be sent out to the pixels. It means I can have fading transitions between animation scenes ;)
+> People will use the FIAT pairs.
+
+That's not guaranteed. People will use GDAX if it's cheaper.
+
+edit: really guys, downvoted for pointing out that people are free to choose?
+Maybe my first example wasn't clear enough: you only need **one** call to fastled.show() and one delay(), in the main `loop()`. All your other animation routines simply need to change the values of the `leds` array, based on timing info from millis() or  helper functions like EVERY_N_MILLISECONDS. At the end of all your functions, the contents of `leds` is sent out to the LED strip with fastled.show(). 
+
+This is how animated movies and video games work: the image is prepared and then shown all at once (a "frame"). 
+
+In your code you have four calls to each of show() and delay() which is why the animations aren't working the way you want. The example code from /u/bal00 shows a technique you can use for creating the frame. You should still move the call to fastled.show() out in to the main loop.
+
+
+To be fair that mole is probably not going to metastasise in the next month.
+I think OP is getting it mixed up with biochemistry.
+Interesting! A bit of googling leads me to this stuff: http://www.hellermanntyton.co.uk/products/heat-shrinkable-tubing/hmt200a/354-02259
+Your example code isn't the same as what I suggested, because you're calling fastled.show() and delay() multiple times. You only need to call each of them once. The delay() is useful to maintain a reasonable frame rate. Are you really doing an animation without any delay? Can you show your code?
+The barrel connector goes to the Vin which in turn goes to the regulator to drop the voltage to 5V. If you instead power the board with USB, the Vin has 5V on it. 
+
+If you power the board with something more than 5V, it must go in to the barrel jack / vin. Don't connect the sensors to the Vin then as it will damage them and your board.
+You can feed the sensors from the Vin pin and the LEDs from the 5V pin.
+I'm referring to your question about using a buck converter to provide 5V for the arduino. It's not necessary. The linear regulator onboard is fine.
+In that case the linear regulator on the arduino is totally fine.
+Bad bot
+So turning on your phone's torch will do the same thing?
+But remember 180mA * 180V = 32W. That's way more power than needed by a Nixie clock so the supply is unlikely to be specced for that current.
+Why don't you just use the arduino's ADC to measure the resistance? I don't expect the 555 is more accurate.
+This is great!
+
+Are you using one of those flame sensors that come in the chinese "37 sensor pack" boxes?
+Ah I see. Home Assistant is great but not really what you need for this then
+Yes, the LEDs will draw power through the breadboard, dropping the voltage. 
+>I have a 1100 mA battery with only 7.4 V
+
+That's a 2S lipo, those things have plenty of current.
+
+
+What battery are you using? If it's a weak one like a 9V you probably just don't have the current for your motors.
+Is any of the LED current travelling through the same wires as the sensors? Ie, are they sharing a bus on a breadboard? The high current can cause a voltage drop which will manifest as a signal on the analogue readings.
+
+I'm not sure why sensor2 is giving a completely flat signal in your first pic. Is it connected properly?
+The other option is you connect the board and Pi via a USB cable and communicate via serial and then set up a web server.
+
+Check out Blynk too
+Just a thought - try running it with the cylon code, but without the LEDs connected. Maybe the current going in to the LEDs is affecting the analogue signal.
+You can use USB power banks, but to get more than a few days of battery life you will have to learn about sleep modes etc. It's possible but takes some skill.
+Where is the code for the cylon function? Does it contain delays?
+ICQ! Uhoh!
+Seems like most people here use paper books, but I haven't used one since I left Australia (where it was required) for Europe (where it's not, at least at my institutes). I use OneNote. It's so easy to add notes from anywhere, have them accessible and searchable online, and every paragraph has a timestamp.
+A4988 or DRV8825. Both are cheap, widely available, and easy to use.
+>on Windows it consumes 100% of the CPU
+
+That's Atom's fault, not PlatformIO. It runs fine for me with VSCode. 
+
+I want to like Atom, but it's easily the slowest program on my computer.
+Post your code
+So you can send ordinary keycodes, just none of the multimedia ones?
+Have you looked in to Home Assistant? IFTTT isn't really suitable for home automation.
+I'd say that's not really working at all. It's producing virtually no change in voltage. Try to isolate the problem. Is it the sensor or the code? Is it the specific pin it's using? 
+I have LED strip lights in my house controlled by wifi. I also have temperature sensors which upload data via wifi.
+
+I also build totems for festivals. I use wemos boards to control the LEDs and read data from sensors (I use an accelerometer to light up the totem when it moves). I could also do that with an arduino, of course, but this way I can upload new code without having to plug it in to USB.
+What's a drawing machine exactly? I can see a motor with some kind of disc attached to it.
+Sure, but on the other hand, interrupts for a button press are unecessary if code is written properly. Remember that I2C and serial commands can't be sent when in an interrupt routine which will cause problems if OP needs to control an I2C stepper, for example.
+
+Depends how long the loop is. Normally the loop is much less than a millisecond so it doesn't matter if you use an interrupt or not. When you press the button you aren't going to notice a 100ns delay.
+Not if it has to check the variable status in the loop (which is the best way to do it). The action won't stop until the code gets to that part of the loop, and you can just poll the button right before that.
+Don't really need interrupts, since you have to constantly check a variable anyway you can check the button too.
+
+> that would stop the whole process whenever it is with 1 push
+
+Your "process" code should regularly check the status of the button. If the button is not pressed it is okay to continue.
+Interesting! What do you use it for? Motor control?
+I'm not threatened by my zebrafish.
+It's 60mA per WS2811 IC. You have 100 ICs so total 6A.
+
+https://cdn-shop.adafruit.com/datasheets/WS2811.pdf
+
+> if it's more common to limit the max power draw in software (IIRC the FastLED library has a function for it
+
+That's what I do. I find the max brightness is completely unecessary for my projects.
+>  Surely they should just be glad it's got visitors, not moaning about how the clientele are too white?!
+
+I'm annoyed the author didn't report on what the clientele is like at other Lidos. For all we know, maybe all public pools have a white-dominated demographic. 
+Probably, though an ESP8266 board like the Wemos D1 Mini will make it a lot easier and more fun.
+That's not the speaker's fault, the arduino doesn't have the power.
+Same, both are definitely optional.
+Your bot sucks
+Yes, I haven't used it at all.
+Yes they use 3.3v logic. What are you driving that needs 5V? Most things are 3.3V these days.
+I think you only need to call EVERY_N_MILLISECONDS once, in setup. It will keep firing that event. I haven't actually used that function very much.
+
+You can also just do it yourself: calculate the millis() since you last turned on a light and if it's over a certain amount, turn on the light
+The pins you want to use are not connected to port C
+I feel the same sense of relief as I felt when there was a stabbing in Vauxhall the same time as the London Bridge attack only for it to be later announced as an unrelated incident, just regular London. 
+I did it (moved from Kilburn to Spitalfields) and immediately started loving London a whole lot more.
+Encoders need interrupts to work reliably. Don't want to miss any pulses!
+That code is using direct port manipulation for reason that aren't apparent. You can just do `analogRead(A6)`
+
+edit: In fact those pins aren't even connected to a port so they can't be read like other pins. They can only be used with the ADC, so `analogRead` is your best bet. They also don't have inbuilt pullups!
+
+https://arduino.stackexchange.com/questions/33488/how-do-you-configure-adc7-on-the-arduino-pro-mini-as-a-digital-output
+It's a visual programming tool. 
+
+/r/nodered
+Use an ESP8266 board like the Wemos D1/mini or NodeMCU.
+> I can’t help but feel there is a better option than having a ton of potentially unused memory allocated to an array
+
+There's not. What else are you using the memory for? What happens if the array needs that memory? 
+How are you powering the speakers?
+Homie!
+Those are platform cores, they don't have specific mqtt features.
+
+Platformio is great though.
+What's the gear ratio? I notice it's not 60:1 which bothers me but maybe the big hand would move too fast then.
+Hence we have gifv.
+>You give a guy like Soros a juicy short and he's gunna take it.
+
+So would any professional trader.
+That is possible just with HASS, since HASS can generate events from any MQTT topic.
+Yeah and don't forget the IBM partnership.
+
+http://www-03.ibm.com/press/us/en/pressrelease/53290.wss
+But the price isn't 100% random, it's driven by sentiment so terms like 'bullish' mean a lot.
+Yes it's originally a Ripple fork, created (and run) by Jed McCaleb who created Ripple. I don't think Ripple does smart contracts but it might be on their roadmap.
+Yes. They use a different approach to Ethereum: instead of providing a full Turing-complete language they just provide a bunch of building blocks that can be used to assemble a smart contract. This means it's less flexible, but simpler and less prone to exploits.
+> There are already a lot of ETH competitors out there doing stuff better than ETH, yet they aren't overthrowing ETH.
+
+Yeah. I'm a big fan of Stellar and I think it's superior to ETH but I recognise that ETH is "good enough" and has first-mover advantage.
+Wow I thought you were joking...nope https://github.com/doged
+Yeah the mistake is thinking about doge in fiat terms, when we should really be thinking of fiat in doge terms.
+You know this isn't twitter right? We don't do hashtags here
+What's on the other side of the switch? Ground? In that case it's just a matter of seeing if the 12V goes to 0V.
+
+If it's a high-side switch for some load it's gonna be a bit trickier.
+Great work!
+
+The panel-mount USB jack is a good addition. I just try to line up the micro-USB socket with a hole in the enclosure which isn't nearly as polished.
+Yeah I see. Reviews of that are less than stellar. 
+
+It'll be pretty hard for anyone to make one without the actual joystick though. 
+You mean like this? https://www.amazon.co.uk/LogiLink-USB-2-0-Gameport-Adapter/dp/B008UG6CPS
+Well the only TI H-bridge with I2C control is the DRV8830 which, sadly, doesn't seem to be widely available on a breakout board.
+Why do you say washminster instead of westminster? Because of the constitution? I don't see any similarities with Washington - we have a separate head of state to the executive and the executive is just a member of parliament.
+Ah yeah - we have a codified constitution, unlike the UK. Plenty of other Westminster countries have that though, like Canada and NZ.
+>does it come complete with all sensors needed to monitor cloudy days
+
+Yes, well it gets it from the internet: https://www.home-assistant.io/components/#weather
+Yeah that's what I'm getting at - it's not a complete solution like HASS.
+Yeah I understand. The answer is no, it's hard coded: 
+
+https://github.com/home-assistant/home-assistant/blob/13172971912267158cdac72f3634b2b26c7b0672/homeassistant/components/mqtt_statestream.py
+
+You can do it with automation rules: when the light changes state, send an MQTT command.
+Alternatively, I2C H-bridges. They're more expensive than simple L293Ds but then OP wouldn't need so many MCUs.
+Eh? The only thing our government has in common with the US is the federal/state system. Parliament is very much Westminster.
+
+>and to gain further powers they have to ask the electorate to bestow them via a special double majority.
+
+What are you referring to here?
+You wish that people didn't follow critics... so that we can have more mediocre movies?
+
+I watched that so much as a kid I was later confused when I found out Robin Hood wasn't actually a fox
+The MPU6050 can be configured to send an interrupt signal to your arduino to wake it up when motion is detected. That'll save a lot of power.
+> seat/place (of gods)
+
+Badass name
+Depends, did you sell it in 2017? Then you should set aside fiat to pay for those taxes.
+
+If you didn't sell it in 2017 you've realised no gain and pay no tax.
+And we don't pay tax on gains less than £11.5k :)
+Oh I was talking about this "JUST" token. You can send it somewhere, but then you get 1 extra back. If you send it to Etherdelta and sell it, what happens?
+Does the sensor know how fast you're moving or is it just a binary output?
+/u/54692d4558b62da01af1 is right though, on AVR chips the RST pin has an internal pullup so an external one isn't needed. However it's like 50K so a lower value external one will give more stability.
+Accelerometer was my first thought, but here's another idea: put RFID tags in each face of the object, and place it on a reader. This makes the project MUCH easier because you don't have to deal with batteries or wireless transmission. But it's not really as fun because you need the reader on your desk all the time.
+Cube is pretty sensible, much easier to build. What's the battery life like?
+TIL the science museum has a 70mm IMAX!
+> 10% fee on buys, sells and transfer 
+
+What? On etherdelta the only fees are the gas fees and the 0.3% taker fee
+Why would PLC be an option? Can a PLC turn on your Hue lights to a colour based on the weather forecast? I thought they were just for industrial control.
+Can it be sold on etherdelta?
+For my MQTT lights it was a matter of configuring the template. Maybe statestream is the same. What do the docs say?
+Either way it still delivers more power into the battery which makes it hotter.
+Oh true, a voltage divider will solve it. 
+
+Wouldn't be needed for 5V though since the pins are 5V tolerant. The LED might be dim though
+Reliability is about the same for both the NodeMCU and the Wemos D1 Mini. I have both. The D1 Mini is smaller (same number of useful pins) and has a range of shields available so I recommend you get a couple of them.
+
+The Wemos Lolin32 is a new generation board with a much more capable chip on it but you're unlikely to need the new features until you get more advanced.
+They're not *that* far removed from wolves.
+>  The aircraft switches power the LED from the same wire as the switch and expect 12V
+
+The "engine start" button is the same. The only button with truly independent circuits is the round one without text.
+Well actually, take a look at the datasheet for the 12V 50A button. The LED and the switch are part of the same circuit. Rather inconvenient. OP will have to power the LED with 5V or less because the ESP pin will see that voltage when the button is pressed.
+OP was doing just that. Other passengers wanted him/her to move over to the window seat.
+Seems that Stellar is a good choice then: it can do smart contracts but is almost as fast and free as Nano.
+Crypto really has revolutionised the act of losing money for us ordinary folk.
+Yep. Make sure you plug it in to the board's 5V pin and not the 3.3V one because it has to go through the regulator.
+
+Also, you should probably put a diode between the battery positive (red wire) and the 5V pin, otherwise when you plug the board in to your USB, current will flow into the batteries causing them to leak.
+Really nice looking powerbank, but I guess you don't have a presence in the UK because the reseller on amazon.co.uk is selling it for twice the US price.
+Yes. Dev boards like this have a linear voltage regulator (rather than a buck converter) which means power is wasted when it drops the voltage. Dropping 9V to 3.3V wastes a lot more power than dropping 4.5V to 3.3V. The 9V battery will not last long at all.
+Depends if you consider Google a single entity or a group of people.
+Use 3 AAA batteries. Or a lipo.
+They'll just move their robots to a country that doesn't tax them like that.
+> Yeah the transition to automation will be rather rough if it is handled poorly, which it probably will be.
+
+This is my concern. Millions of truck drivers are going to need retraining and we aren't prepared for that.
+Ah okay. You might be out of luck then. Electronics is very much an online-sourced hobby nowadays
+TIL RS has a physical store. Looks like they aren't open on weekends though.
+> Googling didn't really bring up any physical stores other than Maplin.
+
+So why don't you go there? Massive discounts right now.
+It would be easier if you didn't redact the name on the sign.
+TBH I don't really understand the problem you're having. If you just want the arduino to know what "screen" the android app is on, get the android app to send a special character to the arduino when you change screen.
+It's only overkill because mosfets are bigger and more expensive. But a bag of mosfets is more useful than a bag of BJTs as they can drive much bigger loads. And are easier to use.
+How much current is the shield drawing?
+> It is not hard but I don't think we can use single characters because this can collide with the keyboard characters
+
+Your keyboard doesn't have all the single characters on it. ¢¤®©™
+Gotta use double quotes when you have multiple characters
+I recommend you get an arduino starter kit, and a few wemos d1 minis for wifi projects.
+
+The best board is the wemos lolin32. Heaps of pins, tons of ram, and battery management.
+/r/raspberrypi
+You can just make a fixed size array and don't use all the elements.
+A multimeter will help you answer those questions. And yes 6V is too high for the 5V pin.
+Hold on- why don't you just plug a USB power bank in to your board and call it a day?
+I get that, but at the same time surely we need *some* standards.
+Yeah. Facebook stores messages too, and since that hasn't been blocked (AFAIK) we can only assume they are handing over messages to Russia.
+>3.6V from 2 AA batteries 
+
+?
+> so you can actually see the LED travel across the array (call it, a chase sequence, if you will).
+
+>Basically I want to get rid of the delays but still have the leds travel at a normal speed while they chase - not a ridiculous speed that just looks like a line flashing.
+
+A chase sequence in FastLED is much easier than your approach. You can simply turn on on an LED and then fade the entire strip.
+
+Here's some psuedocode, you'll have to adapt it in to C++ and use proper fastled calls etc but hopefully you can get the idea:
+
+    thisled=0
+    loop
+      leds[thisled] = RED
+      leds.fadetoblackby(25%)
+      fastled.show()
+      thisled++
+      if thisled > NUM_LEDS: thisled=0
+      delay(framerate_interval)
+    end loop
+
+The chase speed is set by the framerate delay. You always need that delay, but only once, in the loop. The size of the "pulse" is set by the fade rate.
+Strange thing to say. They hated each other.
+
+>Rothbard was critical of monetarist economist Milton Friedman. In a polemic entitled "Milton Friedman Unraveled", he maligned Friedman as a "statist", a "favorite of the establishment", a friend of and "apologist" for Richard Nixon, and a "pernicious influence" on public policy.[56][57] Rothbard said that libertarians should scorn rather than celebrate Friedman's academic prestige and political influence. Noting that Rothbard has "been nasty to me and my work", Friedman responded to Rothbard's criticism by calling him a "cult builder and a dogmatist."
+
+
+LTC won't go to zero but like most cryptos that it has a good chance of becoming nearly worthless. Only the truly useful coins will survive.
+Like they need another reason
+Oh come on now. 
+
+That's messy! Just need to spread some Novichok on a phone.
+Wifi? Unless your device is out of wifi range, I'd find it way easier to send the data to the internet than to save it to an SD card that needs to be retrieved later. Check out Blynk.
+I would use the barrel jack option suggested on that page.
+Yes, which is why the chip has built-in pullups available for each pin.
+I2C addresses are set using pins on the chip and it doesn't look like the common modules break out those pins. So OP will be better off using SPI.
+My first thought was optoisolator, but they are low-impedance inputs so they'll affect the voltage on the piezo.
+>  33mV .. 6/1024 on a 10 bit ADC
+
+In a noisy environment like a car?
+I guess the author of that library needs to work on optimising it!
+33kb! How big is it without the ws2812fx library? 
+
+Yes, you should initialize the array with zeros. But it doesn't actually matter that much because you can just start the calculations when you've loaded 10 readings into the size-10 array.
+It doesn't have to be minereum to do this scam.
+Logic-level mosfets (the IRL ones) only need 5V. Other mosfets like the IRF series need 10V.
+
+There's plenty of other naming conventions for mosfets... when in doubt, look at the datasheet
+Yes, the autohotkey script can read the name of the website in the current tab. You can make it check it every second or so. If it detects "facebook" in the title you can send some text to the arduino via serial. You could send RGB values.
+Oh nodemcu lua has ws2812b support built in? Nice
+Not everyone has the resources to make a car bomb so you have to make do I guess.
+How many amps is your power supply?
+There seems to be some confusion. You are using 12V LED strips which have their own current-limiting resistors (otherwise they wouldn't run at 12V). You are switching them with a mosfet which requires very little current to turn on, so your arduino pins don't need a current limiting resistor. In fact, putting one in place actually slows the on/off speed of the mosfet, making it run less efficiently when using PWM.
+Are we looking at the same video? OP is using LED strips and mosfets. 
+>I mean it also would be nbd to just use a 2nd pin for the 2nd side haha
+
+Well it uses twice the ram but that isn't an issue until you get hundreds of LEDs.
+Yes, that's exactly what happens.
+>I have read that this can possibly fry my arduino as sometimes power supplies can be fickle in their voltages
+
+That's not very common, especially with USB chargers
+
+> Is it possible to cut one end off a double male mini USB cable and hook that up from my nano directly the the DC power jack?
+
+No, the DC power jack should only be used with voltages above 6. You can actually just power the Arduino via the USB socket and then power the LEDs via the arduino's 5V pin, but only if your LEDs draw less than 1A. You can limit the brightness of the LEDs (in code) to achieve that.
+
+1A at 5V is 5W of power which is plenty bright enough for a display. If you drive the LEDs at full power they will consume 60mA*100 = 6A, or 30W, which is brighter than most household light bulbs.
+
+> Would a decoupling capacitor solve my potential voltage problem? 
+
+No, capacitors are only good for fixing very brief fluctuations in voltage. If your power supply suddenly decides to give out 12V (it won't) then no capacitor will help your board.
+Yeah to interpret the signal you'd need to be able to measure the length of a pulse with about 0.4us precision. It will require some carefully optimised code. And then the arduino won't be able to do anything else since it'll be fully occupied.
+Could be because the pin numbers don't match the labels on the board. Try using D4 instead of 4.
+What does the error say exactly?
+Here's code for a complete project I made a few years ago. It had 2 LED strips of 144 LEDs each, and 3 rotary encoders to select "scenes" (animations) and control parameters like colours. There was also a game, and a microphone to respond to music. Whole thing used about 40% of storage and 80% of ram.
+
+https://pastebin.com/UKGfp8K4
+The choice is simple. Mosfets are more efficient than BJTs and easier to use. Get the IRLB8721 or IRLB3034 or, really, anything that starts with IRL (though make sure it's an N-channel, they are better than P-channel, just as NPN is better than PNP for BJTs).
+So WS2812FX is using 99% of your storage and 36% of your RAM.
+
+It's easy to write non-blocking code with FastLED (which is what I use for all my ws2812b code) at a fraction of that usage.
+>and it says Sketch uses 28510 bytes (99%) of program storage space
+
+What else does it say?
+
+Anyway, it looks like WS2812FX is a huge library. FastLED is much more efficient.
+~~It's a hardware buffer built in to the Atmega chip.~~ It's a RAM buffer reserved by the arduino core code.
+
+https://www.arduino.cc/en/Serial/Available
+
+>Get the number of bytes (characters) available for reading from the serial port. This is data that's already arrived and stored in the serial receive buffer (which holds 64 bytes). 
+
+Edit: I was curious to learn what happens if the buffer is full. The answer is: new bytes are discarded.
+
+https://arduino.stackexchange.com/questions/1726/how-does-the-arduino-handle-serial-buffer-overflow
+
+
+> How would I write this to get the LED to illuminate?
+
+Eh? You're already doing it. Look at your code!
+
+    digitalWrite(ledPin, HIGH);
+OP is using addressable LED strips, unless there's some analogue strip that runs on 5V. 
+That's storage, which doesn't really matter if it's full. The issue is RAM of which you only have 2kb and the code will crash if it fills up.
+
+But, how on earth is it taking up so much space? Is it the WS2812FX library? 
+
+
+>I'm staying solder less for now. 
+
+Why?
+What's it for?
+
+That's a lot of headers, is this not a permanent project?
+How much memory is your code using and how much do you save by cutting out those libraries?
+Perhaps it's the numeric or algorithm library? I haven't used any of those.
+Good catch, that should do it!
+I just had a look at the source: https://github.com/espressif/esp-idf/blob/master/components/esp32/include/esp_sleep.h
+
+Doesn't look like it's possible to see which pin triggered the wakeup.
+
+How long does it take to wake up? Is the button still pressed?
+That's a great looking board!
+
+But yeah fine tracework is difficult even with the best tools.
+Apparently the new generation of encabulators do away with the need for pre-famulation, so it can do a complete vertical shim with just a single marzelvane.
+That's the most soothing video on friction welding I've ever seen
+>We were all, "ooooh, hot swappable! We need it now!"
+
+Yep. I think the younger Redditors here might not appreciate just how great this was at the time. We could just unplug a printer and replace it with a scanner? Praise be to USB!
+Wow I had no idea. I thought Chrome was heavily sandboxed.
+
+I think my solution is easier though.
+Well... actually I can see them on aliexpress. They are Super-Flux Piranha RGB LEDs. £10 for 50. I agree they are very nice though.
+It's still an indicator that fewer new people are getting in to the game.
+Another spam account. Did you sell it or were you hacked?
+I doubt Chrome extensions have permission to access the serial port.
+It's a 10 pack
+bad bot
+Sure. 
+
+1. [Use autohotkey to detect when the browser tab changes](https://autohotkey.com/boards/viewtopic.php?t=26947) 
+2. Get autohotkey to [run this command](https://batchloaf.wordpress.com/serialsend/) to send data to the arduino.
+Yeah it would be a shame to go to all the effort only to end in frustration as the traces don't line up with the pins, or are bridged.
+
+Fine-pitch traces are a challenge with milling, let alone a vinyl transfer.
+That's not how you wire a voltage divider. 
+
+5V -> velostat > A0 & resistor -> GND
+Yes I see.
+
+Well, here's my prediction/warning: your copper transfer won't be able to get traces small enough for the Atmega chip. 
+From our previous conversations I'm guessing you're trying to use those functions to calculate the median value of an array of integers (the inter-beat-intervals from your pulse sensors). You might be better off just calculating it yourself with your own code. 
+
+Calculating the mean is much easier than the median so I would just do that. The disadvantage of the mean is that a single erroneous value can throw the whole thing off, but you can solve that by rejecting any values more than (say) 10% away from the mean.
+Why do you need to reverse engineer it? It already sends MIDI commands. You can read them on your target computer.
+Common mistake
+> so I'm unsure if my LED strips would need to be in parallel or series.
+
+It makes no difference until your strips become multiple metres long. The LEDs onboard the strip are actually wired in parallel anyway.
+> But just split them to two pins and they work twice as fast.
+
+Which library are you using?
+How did you make your other boards? Also copper transfer?
+Have you had much experience doing it?
+
+It's just that, if your new to this, you're making things hard by using non standard techniques.
+>they would either force the new company to honour the token system as part of the sale, or they would distribute part of the exit profits to the tokenholders
+
+Are they required to do either of those things? I thought the whitepaper gives them an out.
+Even Google couldn't compete with YouTube.
+VEN is one of the best performing coins of the last few months though
+IIRC Modum doesn't have to pay staking rewards if they get acquired by another company. They can change the deal to suit them.
+Hey man, what happened to your account? Looks like you got hacked. Your old comments are normal, but everything in the last week is just copying random sentences from the articles.
+
+The other comment in this thread is also the same. It's a bit creepy, like zombies
+>FLASH has been known to hire shills and buy upvotes
+
+Source?
+Bad bot
+>These people aren't investing for the "sick gainz"....they're buying their piece of control of the future.
+
+Well, so am I. A much smaller piece, but still...
+Maybe I'm missing something but wouldn't he then be holding bitcoin at a lower price that he paid for it? How does he exit that?
+Where did you get the idea of using a vinyl cutter? Are you sure it will produce traces thin enough for SMD work? This is the first I've heard of that technique.
+> MQTT Broker on an AWS Linux EC2 Instance which I have been unable to set up properly
+
+You get a free MQTT broker at CloudMQTT. I've been using one for years.
+
+> IoT shadow device
+
+What is that?
+
+
+Sounds like a bug. Report it at the G+ page: https://plus.google.com/communities/109127054924227823508
+Yeah the bootloader is programmed to flash the LED in a pattern I don't fully understand. 
+
+Did you get any errors when uploading?
+Change your code so that it blinks every 100ms to confirm it's running it and not just the bootloader.
+Tried a different USB cable?
+Oh, so it'll be photos of me double-fisting Stella then.
+Are you guys in the same class or is this just a common university project?
+Which hall effect sensor do you have? In that video he's using a [linear \(analogue\) sensor](https://sensing.honeywell.com/index.php?ci_id=50359). I've used the much more common A3144 which has a Schmitt trigger built in, so the analogue signal is converted to a digital one. Actually looking at the[ A3144 datasheet](https://www.elecrow.com/download/A3141-2-3-4-Datasheet.pdf) I can see it also has an amplifier built in! 
+
+The A3144 has a threshold of about 70 gauss at which point it is fully on, producing 5V. The SS39E sensitivity is 1.4mv/gauss, so at 70 gauss it will produce only 98 mV. 
+
+So the A3144 is much more sensitive. What about speed? SS39E response time is 3us. A3144 has a rise time of 0.04us and a fall time of 0.18us. If we assume that to be the response time, let's average it to 0.11us. The A3144 is therefore 27 times faster. 
+
+But as I said earlier I'm surprised if the speed is the issue. At 3us response time you can detect a full cycle in 6us, meaning you could detect a maximum of 1000000/6=166000 full pulses per second. That's a million RPM! 
+This reminds me of those preachers who insist the end of the world is happening on X date. And then when it doesn't happen - oh just a misinterpretation, it's actually *Y date*, yessirree
+> Wow. Did they just take Ladyada's design and straight up print it Chinese knockoff style. 
+
+The description too, by the looks of it.
+>At these high velocities, the hall effect sensor does not have enough time to switch on and off when the magnet passes by.
+
+That is surprising. How did you calculate that?
+Sad!
+Fomo isn't adoption
+>4Real
+
+I remember this one. The parents said they came up with the name after learning that the mother was pregnant and saying "this is for real"
+A class D amp like the PAM options will outperform the LM386 in every regard except for "coming in a DIP package"
+A few lipos can do it :)
+That depends a lot on the voltage you need for the motors to run at the speed you want. If 5V is enough, you can power the arduino and the motors from a USB power bank.
+
+You also need to consider the total current drawn. If all your motors are pushing a heavy load (or starting up) at once they will draw a lot of current. If you have a datasheet you can estimate the current. If you have a multimeter you can measure it. If the current is more than 500-1000mA then you shouldn't power them via the arduino's USB port because it has a fuse.
+
+It's fine as long as the total power demand doesn't exceed 500mA (when plugged in to your computer) or 1000mA when plugged in to a USB charger/power bank. This is because of (resettable) fuses.
+
+As an alternative to limiting the brightness with that command, you can use a dynamic brightness based on the max power. 
+
+https://github.com/FastLED/FastLED/wiki/Power-notes
+
+I have built many projects with ESP8266 and WS2812b and I always use USB power. It's convenient, and bright enough for my needs.
+Mosfets are more expensive but they are more efficient.
+
+If you go with BJTs, you should use a resistor of between 330 to 1k between the arduino pin and the BJT base. This is to protect your arduino. 330 ohm will allow more current to flow through the motor than 1k.
+You need pullup or pulldown resistors on those button pins. Easiest is to use the internal pullups, and have the switches wired to GND instead of 5V. When the switch is pressed the pin will read LOW.
+
+What are the transistors? If they are BJTs, you need base resistors. If they are mosfets, you might want to consider pulldown resistors on the gates otherwise the motors will turn when the arduino resets.
+Common ground is essential. 
+
+Try published code that should work, like the [100-line demo sketch](https://gist.github.com/kriegsman/062e10f7f07ba8518af6)
+
+Modify the DATA_PIN, NUM_LEDS and LED_TYPE constants to match your hardware. Change the brightness from 96 to 32, and power the whole thing with USB and disconnect the 4A supply. Don't use any resistors. 
+
+Once you have established that this setup works, you can modify it for your own needs. Put the resistors back in if you like.
+Does it still reset if the relays aren't connected?
+Yes, all pins have builtin pullup available
+Great!
+Yes I suppose that will work. 
+
+What other resistors do you have? You can use anything above 250 ohms. 10k is just a convention.
+I'm not sure how useful that will be - I just did a quick search and it showed me a Fuller's pub, because London Pride counts as a real ale.
+>or Relish if you're in their area. It'll be expensive.
+
+Relish is actually really cheap. 
+The issue is that user code doesn't run until after the bootloader timeout period. So your pins are not in output mode until then.
+
+A 10k resistor between the pin and ground will solve it.
+I thought he was joking until I looked at his comment history.
+The pins don't "fire" during startup, they are merely floating. OP should use pulldown resistors.
+My impression from other discussions on this topic is that you may as well just buy stuff from aliexpress.
+But supermarkets don't give you a discount for paying with cash. 
+That's fucking hilarious dude
+Oh yes, that makes sense. I haven't heard of vector before. If memory is getting full then it will crash unexpectedly.
+That can't be right. It must crash when performing a particular calculation. 
+Maybe the second sensor isn't as sensitive. Have you looked at the plots?
+Yes, you already said that. I'm asking at which line does it get stuck.
+Does it appear in the schematic view?
+Does it actually run the beginMeasurement function? You can add more serial.print commands to see exactly where the code is getting stuck. 
+Yeah the mistake for many people was buying crypto in the first place. Doesn't matter if they buy the best coin on the market, they're still down 60%
+This reads like a Trump tweet
+I agree but does it run on RPi? It's a Microsoft thing after all
+Because your sex life is so good right?
+> Problem is, if i made 20 trades, hit on 10 of them but lost on the other 10 I'd owe taxes on the 10 i won on.
+
+You get a tax credit for losses. The 10 you lost will offset the gains and you'd end up paying no tax.
+They sold in January
+I have this: [MAS830L](https://www.amazon.co.uk/Rapitest-MAS830L-Multi-functional-Electrical-Multimeter/dp/B004YKV9VG). It does everything I'm ever going to need in a multimeter.
+I see, yeah you won't want to use fill_rainbow for that. You can use fill_solid to fill a block of LEDs. Have a look at the code here:
+
+https://github.com/atuline/FastLED-Demos/blob/master/fill_colours/fill_colours.ino
+Why do you like those coins? IMHO those are some of the worst coins on the market. Lisk has sluggish development and major centralization problems compared to little brother Ark, and Modum has an exit clause in their whitepaper enabling them to never pay out staking rewards.
+Sadly it doesn't really matter if you do research or not. Great project with solid team? Price goes down. Shitcoin that's just been hacked? Price goes up. There is no correlation between quality and ROI.
+
+On the other hand, proper research will reveal one very important fact: we're in a bear market. OP should just hold on to fiat.
+What do you mean by shelf? How many LEDs per shelf?
+This is looking great!
+
+A good complement to the potentiometer is a rotary encoder.
+You can try the Atom editor with the PlatformIO plugin
+Where's this from then? A rooftop near city hall?
+I see, I didn't realise they made it thinner. 
+
+2015 model: 1.8cm thick, 2 USB ports, 2 thunderbolts, HDMI, magsafe charging
+
+2017 model: 1.49cm thick, 2 USB-C ports.
+
+ I use all the ports on my Macbook 2015. The 2017 model was a major misstep IMHO. It's 3mm thinner but has significantly fewer ports, and the price was higher.
+How will that work, using a proximity sensor?
+They were photographs I took during my travels across Europe while I was doing my PhD there. My PhD is in biochemistry, so no the photos weren't relevant. They just looked nice and provided a splash of colour to help demarcate each chapter :)
+
+edit: [an example](https://i.imgur.com/h4GXNUv.jpg)
+America would be a much nicer place if it was more like NZ
+No, but I'm sure something exists. Otherwise you could write one with PyGame and PySerial.
+It's totally fine to put artistic works in your thesis book. Mine has photographs at the intro to each chapter. Committee liked it.
+You will need a program on your computer to send serial data to the arduino. Nothing to do with Nextion
+This is the first result for 'arduino nextion tutorial', have you looked at this?
+
+http://openhardware.gridshield.net/home/nextion-lcd-getting-started-for-arduino
+>somebody just suggested using this 
+
+If you look at the source code for the fill_rainbow function it basically does exactly that. 
+
+>do you have any idea why the led strip would flicker every second
+
+What kind of flicker? Is it exactly every second? If you change the rainbow delta from 5 to 1 does it still flicker? What if you change it to 0?
+>We don't need electric taxi's,
+
+Oh come on, we need *all* cars to be electric if we want to have clean air.
+The electric models won't use any fuel when at a standstill.
+> You could forego the arduino and just use an ESP microcontroller (it has wifi) and the accelerometer.
+
+This is definitely how I would do it. The ESP8266 uses 3.3V logic like the accelerometers (and like most modern ICs) so no logic-level shifter is needed.
+
+OP: check out the MPU-6050, a popular accelerometer that can be bought on ebay/aliexpress for like a dollar. You can adjust the sensitivity. It should be fine for demolition derby as I think it's even suitable for rocketry at the minimum sensitivity setting.
+Yeah the rainbow won't move if your starting hue is always 255. You need to modify that value. You also don't need the inner loop (`i`) because the fill_rainbow function already handles all the LEDs.
+
+In fact, you don't need the outer loop (`j`) either because you can just increment the hue value each time the function is called. Here's how I would do it. I've added some comments to help explain what's happening:
+
+
+	void loop() {
+		rainbowCycle(20);
+		FastLED.show(); //show should just be called in the main loop
+    }
+
+    void rainbowCycle(uint8_t wait) {
+		static uint8_t hue = 0; //a static variable retains its value 
+		fill_rainbow(leds, NUM_LEDS, hue, 5); //fill the entire strip with a rainbow starting with hue 
+		hue++; //increment hue so that the rainbow will shift a bit the next frame
+		delay(wait); //delay to maintain a reasonable framerate
+    }
+
+
+Yeah I'm not saying you can't have a nice life there, but to me it felt very corporate & clean.
+You don't need any of that. The Wheel function is unecessary.
+Yep exactly. There's plenty of greenery since it's in the tropics. But you know that feeling you get when you see a waterfall & trees inside a shopping mall? How it feels "nice" but also very corporate & carefully controlled? The whole city feels like that.
+
+It's the complete opposite of, say, Berlin.
+yeah change in hue is how much the hue changes per pixel. If it's 0, it wont' be a rainbow. 
+
+More info here: http://fastled.io/docs/3.1/group___colorutils.html
+
+Looks like the default is 5
+
+edit: check out this code https://gist.github.com/jasoncoon/fa1e7efd8726223c2b5c5eb5f7256d65
+Yes... rich...
+Initial hue is a number between 0 and 255. It sets the hue for the first LED.
+Yeah but if I'm paying thousands of pounds for a laptop to use at work every day, I don't want to have to use a dongle just so I can plug in a USB stick. There's space on the chassis for it!
+I think that meme is dying out
+No one is disputing the importance of charts for day trading. But when I'm day trading I *also want to know what the price is doing while I go about my day*. That's all we're saying.
+    leds[i] = CHSV(i, 255, 255);
+
+That sets LED i to a colour with hue i, saturation 255 and value (brightness) 255. 
+
+But you don't even have to use a for-loop if you want to fill the leds with a rainbow:
+
+    fill_rainbow(leds, NUM_LEDS, initialHue, changeInHue);
+
+You can call that function once in your main loop. If you increment `initialHue` then the rainbow will move down the strip. Now you can eliminate the nested for-loop and the Wheel function, all because FastLED takes care of this for you :)
+By gassing a bunch of civilians in a different country?
+Take your low effort videos elsewhere please. Reported for spam.
+What have you done with the nextion so far? Have you followed a tutorial and looked at example sketches?
+How do you "play" it?
+I expect they'll stay with their bank in Tallinn for that. There's no benefit to being based in London for eurozone transactions.
+Have a look at that "basic usage" page. It shows how to set an individual LED's color. You can use CHSV to choose a hue, no need for that Wheel function at all.
+I agree. It's like a giant shopping mall/airport. Everything is carefully controlled, nothing feels organic.
+I can't imagine how bad it must be in the US. It's considered one of the worst draught beers in NL!
+It's also cheaper isn't it? Canning/bottling is a big part of the production cost so the cheaper method is favoured by smaller breweries.
+>since calculating it from the accelerometer is not accurate if the system is subject to small disturbances
+
+That's not my experience. The compass and gravity is all you need to get stable XYZ headings.
+https://www.ali express.com/item/DC5V-1m-3m-4m-5m-WS2812Bled-pixel-strip-30-60-144-leds-m-WS2812-IC-Black/32649441294.html
+Is that your full code? Where's the fastled include?
+To use FastLED you need to remove all references to the Adafruit neopixel library and add the LEDs using FastLED. There's a guide here: https://github.com/FastLED/FastLED/wiki/Basic-usage
+
+FastLED has a lot of nice features which make it easier to use than the Neopixel library. 
+Yes, you'd add that in setup().
+
+You can also change it later. I once built a project like this which had a button to toggle the power limit between 500 and 1000mA. I would keep it on 500mA when it was connected to my computer.
+>Would it be a good idea to use a non-adressable 
+
+Not really no. Addressable strips are far easier to use and not that expensive from aliexpress. You need 121 LEDs and I can see a place selling 180 LEDs in 3M strips for $18.
+
+Then you can drive the whole thing with a single data pin, from 5V, and you have the option of colour if you want it. You can also fade.
+
+
+Limit your brightness in code, then you can run hundreds of LEDs within your USB's 500mA limit.
+
+https://github.com/FastLED/FastLED/wiki/Power-notes
+Enough to make you avoid the area? 
+
+Did a beard murder your parents?
+I was also excited about the underground ducks reemerging.
+People like to say that Shoreditch is no longer cool, but I agree with you it's got tons of great bars and clubs, and streets like Redchurch St are nicer and more interesting than what you'll find in many other parts of London. And it's not like Brick Lane is fully gentrified.
+>but for getting an input to arduino, he shouldn't connect the piezo directly to the arduino
+
+No that's fine, it works extremely well. 
+
+https://www.arduino.cc/en/Tutorial/Knock
+I got u fam. I skip H&C trains and get Metros when at Liverpool St in the morning.
+A gentle crash then. More like a soft landing?
+> Yeah I did know a guy involved in drug sales who live right in the middle of soho
+
+Yeah we all know a guy like that. Does most of his business on weekends?
+>  I'm really not keen to pursue more education unless it is a postgraduate.
+
+Well the obvious choice is a PhD. It's not the best place to do one but the PhD students in my lab are happy.
+> no blockchain is compliant with The GDP
+
+How so?
+Well the mosfet will come on when the voltage rises above the threshold. But it won't tell you how high the voltage goes so it can't be used to determine the power like OP wants. He should use an oscilloscope.
+Law and Justice Party is a creepy name...
+>Polish get out now lol
+
+People tend not to like it when they come over here (UK) even though they do good work for cheap
+Kraken?
+>Does the general public just not care?  
+
+Yes. No one is talking about bitcoin anymore since so many people lost money. They don't need crypto anyway so why would they care?
+Which is great for us UK folk. Means we can transfer GBP directly.
+You can use analogue LED strips with a mosfet for each channel driven by the PWM driver.
+Arduinos don't need sd cards as the code is written directly to the chip.
+For what purpose exactly?
+You could use a pro mini, it is much more power efficient than an Uno or Nano
+That suggests your srf05 is drawing too much current. Does it actually work on another board? It could be damaged and shorting.
+I doubt they produce enough current to drive a BJT. You can see the voltage directly on an analogue pin without a transistor though. It will be clamped to 5V which is why it's not suitable for measuring the power.
+>No TMZ, no 24 hour news cycle and 3 tv networks.
+
+I want to go to there
+The Wemos should still boot under those conditions. Which connection exactly is the one that prevents it booting?
+Piezos generate hundreds of volts but micro amps. You should use an oscilloscope to properly measure it.
+> Basically if the srf05 is plugged in, the board won't start properly. Seemingly because the 5V is being input into the board and it expects 3.3V input or similar. 
+
+Which pin prevents the Wemos from starting? Are you using one of the reserved pins? D3 D4 D8? Don't use them.
+Yes, but OP wrote
+
+> i would like to use a relay and a USB power plug as an external power source
+Right, amps should be higher. Voltage should be the same.
+
+>  I have decided to get a simple universal power supply from Amazon with 6V and 1A, instead of using USB.
+
+I suggest you get a 5V supply because you can drive the arduino with that. It's more versatile. Your pump will run a bit slower at 5V, but do you need the maximum speed?
+
+Plenty of >1A USB power supplies available though
+Polycarbonate would be a better choice as it won't scratch as easily. Acrylic gets scratched by paper.
+Alternatively, a vision of a future where global warming has wiped out the humans and nature is reclaiming all our brutalist architecture
+Yeah payments have to be done with NFC or it's not going to get mainstream adoption. The first crypto to achieve that will be a huge milestone.
+Well they never caught him, so...
+I guess OP is interested in hearing about Processing vs QT vs Kivy. I'm planning on using Kivy for an upcoming project. Do you have any experience with that?
+Yes which is why OP can just provide object files and not source code.
+
+But actually that raises a good point about GPL3 libraries. They'd make OP's code GPL3 :/
+Literally every thread on tax has comments like that. Including this one
+Isn't your ruling party extremely right wing? "Law and justice party"
+Yes exactly.
+> A false positive is better than a false negative but you don't want people thinking they are being randomly drugged when they are not
+
+You also don't want people getting a false sense of security.
+There's a big advantage of a USBASP over ArduinoAsISP: you can select the voltage to 3.3V.
+You have two options:
+
+1. Don't use any GPL'd libraries, which means no arduino.h, so you have to write all the hardware access code yourself.
+2. Use the libraries, but compile your own code separately (as an object file) and then link it to the libraries. Then you just need to provide the object file. The user can link it to their own libraries (complying with the GPL rules) without being able to see your code.
+
+I'd do option 2 and do it when you're ready to release.
+Right but arduino.h is LGPL and most third party libraries are GPL3. Avoiding them may be an easy solution for you but it's still a lot of work.
+We'll alert the colonies that transport ships are on their way. 
+Try the ClickEncoder library.
+Look in the description for a chip name or part number and then google for that.
+>it seems like they are trying to do what you can do in python eg. sense = Sense.hat()
+
+That's exactly what they're doing.
+The library files are already publically available. The object files are your (compiled) code. The user can't see your actual code.
+
+You're a looong way from this being an issue though. Just stick with Arduino code unless you switch to an MCU that isn't supported by it.
+the GPL3 license requires you to provide object files so users can recompile the code themselves.
+I think it should be okay. If you use a common USB source like 1A (or more) it should have enough power to drive the motor under load.
+Is the latency low enough for those tasks?
+Two in series will always make a voltage usable by the arduino's voltage regulator
+Nice! How did you construct the tree? Twisted wire?
+> then pluged into the same cable 
+
+What cable?
+We don't drink Foster's in Australia mate, that's just a marketing thing for you lot. I don't think it's even sold here anymore.
+Oh... I'll to check. I haven't actually used the charging function very much. Thanks for the heads up.
+Bitcoin isn't any better though, it shits the bed based on rumours and tweets
+> What was done about it? Nothing. He was able to pass a background check. 
+
+Well, that's a problem isn't it?
+Sure, I have LED strips in my flat controlled by arduino code. 
+I think OP wants to out the arduino as an output not an input, so any arduino will work.
+Pretty sure the focus right now is on background checks especially for unstable people. That seems like a good idea regardless
+It does doesn't it?
+
+If we switch to a bitcoin-based economy and everyone hoards it (like they do now) the country will come to a standstill.
+I firmly think the latter. We know the exchange was giving out too much ethereum when people withdrew, which is exactly the sort of shitty coding that can cause an exchange to become insolvent.
+
+
+Makes sense, thanks
+> Also are they better at things that people actually care about? Because that's just as important. 
+
+Telegram's desktop app is far better than Whatsapp's web interface, but my friends that haven't used Telegram think that whatsapp web is great. They didn't grow up in the era of desktop IM apps I guess.
+I wish I used it at work instead of email which feels so archaic. Especially when I want to send a file over the 10mb attachment limit...
+What's a Vulnerable Adult?
+Well the resistor ladder uses more than 13 wires so it's more complex to construct. But yes it's fewer wires running to the actual arduino board so perhaps that works out better for your project.
+
+Both are fine options either way.
+I'm sure the air force does even if we don't get that info
+The Rich Mix membership is pretty great. You get 2 free tickets right away so it basically costs nothing, and then you get discounts on tickets and food/drinks at multiple places in the area.
+That's the game that got me into programming! It was distributed with DOS and you could edit the .BAS file to change the gameplay. We also had nibbles.bas which was a Snake game.
+Two ESP8266s with an OLED screen each!
+Derp, you're right I was counting Yemen in that figure.
+Just to provide a counterpoint: you're now using a resistor ladder to enable 11 buttons to use 3 analogue inputs. In your original design you were using 11 digital inputs, one per button. Is your new design better? No, because you're saving pins that you aren't using anyway, and now you have to use a bunch of different resistors.
+
+If you return to your original design and use internal pullup resistors instead of all those external ones, you can build this even more simply.
+FYI that shows only 496 ~~+35~~ +14 = ~~545~~ 510 strikes in Africa.
+Oh I see, like a grey card in photography? I guess it's possible with a colour sensor, but it will need to be sensitive enough to work with ambient light rather than relying on its own LED. 
+They did this because they were on the gold standard and the country was running out of banknotes. They didn't remove the gold standard until the 1970s. 
+Also they only give the prizes to living people.
+>  Obama dropped more than 1 bomb in Africa for every day he was President. 
+
+[Citation needed]
+For the curious:
+
+https://en.wikipedia.org/wiki/Executive_Order_6102
+
+>Executive Order 6102 required all persons to deliver on or before May 1, 1933, all but a small amount of gold coin, gold bullion, and gold certificates owned by them to the Federal Reserve, in exchange for $20.67 per troy ounce. 
+
+>The main rationale behind the order was actually to remove the constraint on the Federal Reserve which prevented it from increasing the money supply during the depression; the Federal Reserve Act (1913) required 40% gold backing of Federal Reserve Notes issued.   
+By the late 1920s, the Federal Reserve had almost hit the limit of allowable credit (in the form of Federal Reserve demand notes) that could be backed by the gold in its possession (see Great Depression).
+If we're talking burgers we should definitely mention Bleeker at the Old Spitalfields Markets! Considered by some to be the best burgers in London. IMHO it's second only to Slow Ritchies in Peckham.
+>But it may not last long, as a local council hurriedly investigates whether or not such venues need a license. Brothels are illegal in the UK, though in this case the workers are dolls and so the nation has hit a gray area in the law.
+
+Hard to see how it's a brothel when it has no prostitutes.
+> I would suggest getting a desktop wallet and air gapping a hard drive if you want real true safety
+
+But then it's much harder to actually use the cryptocurrency for its intended purpose.
+>The Cambridge Analytica thing isn't even a scandal.
+
+>Half the country just needs something to chase after
+
+I bet you wouldn't be saying that if they had been working for Hillary. 
+Minor correction, Olympic was built before Titanic and it survived until retirement. But yeah Britannic was built after Titanic sunk and was supposed to be stronger but it turns out naval mines are worse than icebergs
+If you use serial.print to output the raw numbers to the serial plotter you should be able to see how the pressure affects the readings and the best place for the threshold.
+Bizarre. I've never heard of it and it's not mentioned in the linked article. These accounts seem to be spamming it in multiple threads. 
+
+That's how Vechain got banned. 
+How do you know if your threshold is appropriate? Maybe it's too high, so you only reach it when there's enough pressure.
+
+
+It looks okay to me. Try to debug it: simplify the code down to a single servo, and use serial.print to output the val1 to the serial monitor.
+What's your goal here? 
+
+If you want to know the colour temperature of the light, look at the specs of the light source.
+You'll need another IBI vector for the second sensor.
+
+Is this code working? Is it accurate?
+China has announced tariffs on 130 US products in response to this. The trade deficit is going to get worse, not better.
+Oh yes, that's a good idea.
+
+Median is more complicated to calculate which is why I didn't use it myself.
+Wait, his casinos went bankrupt? *Casinos*? The fuck kind of businessman lets that happen?
+There's one a bit further east if you want to move
+No the delay should be as short as possible so that you accurately detect the start of the pulse. If your delay is 30 then you can only find the start of the pulse within 30ms.
+Very true. Does Ark have trial partnerships?
+Circuit looks good to me!
+You could do 5 RGB LEDs and a white one ;)
+
+But yeah it's not that exciting compared to addressable LED strips.
+TPIC6B595 power shift register.
+
+does it really need 12V? How many LEDs per segment?
+No, that IC is for driving LEDs directly. The addressable strips have an LED driver like that built in to each pixel.
+Narrator: we did lose.
+What would those companies do with a blockchain?
+
+Maybe I'm just a bit skeptical but I don't see why a tax accountancy firm would need their own blockchain.
+There's demand, which is why IBM has partnered with Stellar, and Bosch with IOTA etc. But who is lining up to use Ark?
+Build the product first, then find customers? I see many parallels with the dot-com bubble.
+More control over the development. I don't see Apple, Google, Airbnb, Uber or Amazon getting into blockchain by using Ark, do you?
+
+Smaller businesses might use Ark, but they're also less likely to need a blockchain. 
+How do you declare income at tax time?
+Awesome! Will you put it in a proper enclosure? If you have a knob on the pot it will look quite professional. Bonus if it's battery-powered.
+
+Also is it two player?
+>Private businesses both big and small, organizations, and individuals can have their own Ethereum capable blockchain instantly and for free.  
+This will create an ecosystem of blockchains around Ark. Ark will be the centrepiece of this ecosystem.
+
+My concern with Ark is that this won't really happen. The vast majority of businesses don't need a blockchain, and of the ones that do... realistically most will just build their own.
+
+What happens if the Ark gets built but no one gets on board? It won't be much of an ecosystem if there's only a couple blockchains using it.
+But then you see them every time you log in
+The -11 version (TLE5206-2) is no longer manufactured according to my supplier (Farnell). They're just using that image for the -12 version.
+I don't understand why people who hate minions would subscribe to a subreddit about minions
+I don't miss living in Kilburn but the Czech club does make me want to go back for a drink there outside (in summer). Lovely garden!
+Oh right, yeah that makes sense. That's probably why the OUT pins are the first and last ones. I hadn't noticed that until now!
+The south end of Brick Lane up to Old Street roundabout is pretty much the first 3 panels. 
+Nothing affects house prices quite like the Luftwaffe.
+No, it's the kids who are wrong!
+"Love heroin? Why not try fentanyl?"
+Buying coins that have to stay on the exchange, just so you can sell them at a higher price, isn't adoption. It's gambling.
+Same here. Before the fiat thing it was "it'll be great when the new UI is launched" "volume will pick up when they add more popular coins". 
+
+Meanwhile Binance is powering ahead with their own fiat plans. COSS has no chance.
+>  It seems the team are working on upgrading the exchange engine, and are wary of adding too many coins
+
+Then why do they currently have 88 pairs, including such popular hits like LALA World, Vezt and Tigereum?
+
+
+More expensive than BTC Markets no?
+Coinbase's crypto is insured through Lloyd's of London
+/u/sexycyborg might have some suggestions.
+Floating pin?
+I just press the home button.
+Diptrace is more user friendly than Eagle and free for 2-sided boards. But eagle has more libraries.
+Yeah you can, but it won't turn off the charger until the current drops below 10% of the selected charge current (which I think is set to 1A on those boards). So if your load draws more than 100mA the charger will stay on indefinitely, and that might be bad. 
+
+[You can do what this guy did and use a mosfet.](http://blog.zakkemble.co.uk/a-lithium-battery-charger-with-load-sharing/)
+
+Or you can do what I did and use a physical switch. I like that because it's also an on/off switch.
+Maybe I'm missing something, but isn't it nearly always the case that the train drives on the left?
+How are we supposed to help you if you don't show what the error is?
+Pretty much any IoT stuff is cheaper for you to make yourself. For example, a garage door opener that sends you a text when the door has been left open, and lets you close it by responding to the text. How much would something like that cost to buy? A hundred bucks at least! But you could do it by attaching an ESP8266 to your garage door opener. That's like $3 and a few weekends of coding.
+Well Binance is 0.1% or 0.05% if you hold BNB.  
+GDAX is 0.25% for market and 0.0% for limit and that's with fiat.
+
+No problem :)
+Oh, no that was just the first thing I thought of when I saw the code.
+
+The gif looks fine to me, that's how I'd expect LEDs to flash when triggered based on sound. 
+Yep! That one is even a bit overkill as it has two pots, but maybe you want to dim two LED drivers ;)
+How about a 100k digipot controlled by the ESP8266?
+What LEDs are you driving?
+Just looked it up - it's 0.2% for trading fees, and possibly 1% for fiat. That makes it one of the most expensive exchanges.
+You don't need the `switch` since you're just passing the value to the line function anyway. 
+Isn't this exactly what REQ was aiming to do? 
+I agree. We won't see a bull run until the hype comes back, and *that* won't happen until the bitterness from everyone's January losses goes away. The average person thinks bitcoin is just a thing that caused people to lose money.
+We're not, no
+That will happen if the signal is a bit noisy, meaning it bounces up and down a bit so it crosses the threshold a few times before it truly spikes up. Try increasing the delay to 5. 
+
+You should also print the readings so you can see it in the serial plotter.
+Yep just like that
+Huh, I didn't notice that before. 
+
+They are probably doing that to avoid the data wire becoming an antenna. But it risks overloading the output pin on the last pixel so I wouldn't do it (and have never done it).
+ELI5 was that a compliment?
+Are you able to upload the blink sketch?
+I got u fam. Black perspex 962. The 3mm stuff is highly IR transparent. 2mm would be even better if you can get it. I've also used 6mm and found it was not IR transparent.
+
+https://www.ebay.co.uk/itm/INFRARED-TRANSMITTING-ACRYLIC-SHEETS-PERSPEX-BLACK-962-/231787983493
+Jesus christ these comments
+Well if you want to limit it to 20mA, yes. But you should use a transistor (or H-bridge) to drive the coil. Then you can put multiple amps into the coil if you want.
+
+Because your load is inductive (magnetic) you need to watch out for flyback. You should use [a diode to protect against flyback.](https://en.wikipedia.org/wiki/Flyback_diode) 
+
+The popular L293D H-bridge chip contains a flyback diode (that's what the D indicates).
+I would do it much more simply:
+
+1. Is currentReading above the threshold and is previousReading below the threshold? This is the start of a beat. 
+2. Save the currentReading as previousReading.
+3. Record the time.
+3. Subtract the time of the previous beat. This is the IBI.
+4. Delay(1)
+5. Repeat from step 1.
+
+You can use 1023 for the initial value of previousReading. This will ensure nothing is recorded until the next beat properly starts.
+If you have a multimeter you can measure the resistance of the coil. Then you can get an idea of how much current it will draw.
+The output pins can only source 20mA. Your coil will draw more than that and destroy the arduino. The solution is to use a transistor to switch the power.
+
+If you want to reverse the polarity you can use an arrangement of 4 transistors called an H-bridge. Instead of making your own H-bridge you can just use a single chip which contains everything needed.
+AFAIK the Sonoff switches don't have a buck converter capable of putting out 5V/10A. They have relays for switching mains power. You'll need to add a buck converter.
+Have a look at a teardown of the nanoleaf. It has strips in the corners.
+You don't need to hold 10 seconds of pulse data. You just need to know an average of the pulserate after 10 seconds. So make your array size 10 and overwrite old values when it gets full.
+Yes. You are overloading your power supply. Don't do that.
+
+Instead, limit the brightness in software. If you're using FastLED, and you should be, you can use the function described here: https://github.com/FastLED/FastLED/wiki/Power-notes
+Physical computing? Is that a different name for electrical engineering?
+Sonoff can do it but you won't get 10A. You might get 100mA.
+Isn't COSS really expensive?
+Have you tried arduinoOTA?
+What does the glass block?
+You can have hundreds or even thousands of them. The strips are easy to work with since you can cut them anywhere and solder new connectors.
+Afrezza is delivered via the lungs and apparently leaves the system in 45 minutes. It's not a closed loop system, instead it just relies on you eating food to prevent a hypo in that 45 minutes. AFAIK it saturates insulin receptors so one dose is the maximum dose, and that's why carb counting isn't necessary.
+'I wish to employ the services of a man-at-arms!'
+
+'Mate this is a Weatherspoons'
+Well you've seen what the signals look like. The voltage doesn't drop back down instantly.
+
+Also you can read the signal in a few dozen microseconds.
+> I think this would be the Fleet River having flooded
+
+That would be particularly unpleasant. 
+
+edit: also probably not possible given that it only starts in Hampstead so it doesn't have a large watershed.
+No you should start the timer when the signal goes above the threshold, and stop the timer when it *next* goes above the threshold.
+
+To measure 2 signals, just measure one and then the other. Two calls to analogRead(). But first focus on getting one working :)
+
+That's interesting... is that with standard fast insulin or fiasp?
+
+The reason I'm unsure about the whole thing is because Afrezza showed that carb-counting wasn't necessary if the insulin acts fast enough (faster than injections) which makes me think it actually saturates the insulin receptors. 
+This question has actually been bugging me for years ever since Afrezza appears and forced us (or me, anyway) to rethink how insulin actually works.
+
+I spent an hour today trying to find solid answers in the scientific literature without success.
+>For your first question, yes more insulin makes your sugars lower faster. So taking 5x as much should result in 5x as much change after an hour.
+
+I'm not sure those statements are saying the same thing. OP was asking if more insulin causes a faster drop, not if it will drop more. My impression is that blood glucose drops at the same rate, but a larger dose causes it to keep dropping for longer.
+
+edit: I haven't been able to find any scientific studies which makes it clear either way. 
+Nah pretty sure the black bird in this gif is an ostrich. This isn't the first time I've seen an emu and an ostrich together. Amsterdam zoo keeps them in the same enclosure for example.
+Yeah Python+RPi is a clunky solution for a simple embedded device. Arduino is a good choice!
+
+
+Is that an ostrich with the black feathers?
+Two sets of variables to store the millis() and two sets of arrays to store the IBIs etc. Basically just duplicate everything.
+Yes the steps are exactly how I would do it :)
+>which is convenient for me. (I do not have to find the time difference between each beat) 
+
+You can find the time difference simply by comparing the millis(). Writing your own code like this will give you more control and a better understanding of what's going on.
+>so lets say I used a 12V battery power supply
+
+No no, just stick with 5V. Or 3.7V. 
+
+The other posters here are correct: you only need 10W of lighting power for a *very bright* decorative hat. That's 2A. Try it. 
+Check out Homie, a library/protocol for the ESP8266 that makes it easy to subscribe to MQTT topics. Then I just add the device as an "MQTT Light" in Home Assistant.
+Yeah but the [instagram](https://www.instagram.com/nanoleaf/?hl=en) page indicates that most people use linear configurations. Actually with ws2812b it could still branch, but the branches would look identical, which I also see on that page.
+
+Good point about the antenna problem. 
+Yeah. That's an okay tradeoff for simplicity IMHO
+You could simply pass the WS2812b data line along the panels.
+HASS is perfect for that. I have custom LED strips controlled by HASS via MQTT.
+> For example, if I take 5 units vs 1 unit of insulin, will I drop any faster at first?
+
+Not in my experience, and the way I understand it, we actually saturate our insulin receptors with even a small dose. The difference between a small dose and a large dose is time.
+
+>Does the liver process carbs into sugar faster than insulin works?
+
+No, because in non-diabetics, blood sugar is tightly controlled. Insulin works extremely quickly once it gets into your blood, but our subcutaneous infusions take a lot longer. Ultrafast insulins like Fiasp use tricks like adding vitamin B3 to help it infuse faster.
+Catching on? I'm providing a suggestion for you.
+He uses a very expensive camera. A RED I believe.
+What the... How did Apple come up with that design and think it was a good idea?
+If they have your key, yes.
+Itead make something like that. With an ESP8266 inside!
+If they have access to the encryption keys yes. But the keys are not stored on the same servers.
+Especially with Revolut making it free
+GDAX is a great exchange though
+>Do you memorize all the code?
+
+Eventually, but before then, you just google for everything.
+How's your code-for-salary ambitions coming along?
+The thing you give a potential employer that lists your achievements
+>Will people want to hire me? Because I'm still in college
+
+Having a working project on Github will look good on your CV! Assuming you're studying some kind of engineering that is. 
+You should learn about the difference between server-client and end-to-end encryption
+All messages are encrypted. Secret chats are further encrypted.
+
+The cloud chat encryption is described here: https://core.telegram.org/mtproto
+
+The keys are split across servers in different countries so authorities can't get a complete key by raiding servers.
+What a delightful blog. Is the author Sir Digby Chicken Caesar?
+
+http://www.bbc.co.uk/staticarchive/6020d7219888e70daa16d4f4f5761de55c93e882.jpg
+>Doing a PHD from what I have heard is quite a lonesome existence.
+
+It depends a lot on the field. I had a great time doing mine (in biology) and made tons of long-term friends. But in humanities I believe it's quite different as you don't share a lab.
+Also Bounce for table tennis!
+The TP4056 module with undervoltage protection is slightly bigger than the basic TP4056 which only does charging. You'll see it has OUT pins for the load.
+Super easy:
+
+1. Wemos D1 Mini from Aliexpress
+2. Wemos SHT30 temperature+humidity sensor shield
+3. [Blynk](https://www.blynk.cc/)
+
+You'll need a soldering iron. The board can be powered by microUSB. Nice weekend project :)
+That's good to know!
+
+That number is directly written on nutrition labels in Europe and Aus. It's the "carbs per 100g".
+I don't know if country stats are available
+I'm using a tp4056 module which has that.
+
+I've also got a project using small lipo pouch cells which I think have undervoltage protection but I'm not entirely sure...
+Isn't that just GI * the amount of carbs? In that case we're considering it when we count carbs.
+Seaborn is fantastic. Makes great plots easy.
+I dunno I think it's reasonable that it beeps once an hour in the leadup to pod failure. You're supposed to change it before then
+
+The beep after changing the pod is a US thing, we don't have that in Europe.
+>Russian government can raid its offices and read all of your chat files in plain text. That's how much secured it is.
+
+Not without the encryption keys they can't. Do you even know how it works?
+That's always been the case
+>everywhere else it's niche on par with signal
+
+Telegram has three times as many users as *Twitter*.
+
+Signal has less than 1% of that.
+Yes I have done this and it works exactly like you think.
+Your title was seriously "seriously?"?
+What is cheaper and more efficient than attinys? PIC?
+Between exchanges yeah, but not between people. In the UK bank transfers are instant and free. Crypto won't beat that.
+What light are you using? Which motion sensor?
+What's the chances of that happening though? Surely a 1ms difference in the button press would be enough to avoid a collision.a
+What random holdoff are you talking about exactly?
+You don't need to sync the boards! Just use the time the message is received by your server.
+That page doesn't explain why this particular word is used in such an unusual manner
+Nah, it's probably just different subsystems and the main pump firmware will ignore commands it can't exceed.
+Yeah I see. But where do you draw the line? Is it correct to write "innit" or "some fing"?
+It's still a verb but it's a strange choice.
+
+In some parts of the UK (the south, mostly) they use the past participle of "stood" and "sat" in place of the present participle "standing" and "sitting". 
+
+They don't do it for any other verbs and I don't know why. I live in England and have to bite my tongue when I hear it ;)
+What makes it legit? I'm curious how this developed, were you taught it this way at school?
+Imagine a car with a speed governor on the engine.
+Anything video related is solidly in the realm of RPi stuff. Arduino can't handle that amount of data.
+"trace" = a line of copper on a PCB
+The HX711 sparkfun page says:
+
+>Selectable 10SPS or 80SPS output data rate
+
+sps = samples per second
+Yeah there's no need for interrupts when reading buttons and they make the code more complex.
+Oh sure. I explain it :)
+"use a Pi" is an example of an answer I'd give over there.
+
+I use both extensively and recognise the different uses. Media centre? Pi. Streaming radio, retro games, web server? All Pi stuff. Driving stepper motors? Arduino. Lighting up LEDs based on internet weather forecast? Arduino (well ESP8266 but that falls under the same umbrella). A Pi can be used but it's overkill.[ Making an animated LED hat for a festival?](https://www.reddit.com/r/electronics/comments/889nr1/a_gifplaying_top_hat_with_1024_rgb_leds/) Also Arduino, I wouldn't want to have to reboot the Pi while wearing it! 
+We need positive sentiment for money to flow back in to the market, and that can take months or years to return.

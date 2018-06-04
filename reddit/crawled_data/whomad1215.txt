@@ -1,0 +1,2801 @@
+So the tv series White Collar is based on real life now.
+I like my red 990s...  And they're made in the US. If I'm spending $150 on a pair of sneakers, I'm not buying made in China. 
+
+I dislike Nike, never fit my feet.
+
+Adidas used to be my go to, especially the barricades (for tennis) and then they decided "hey everyone loved this shoe, let's just make it super narrow and flat for absolutely no reason."
+
+ASICS is a bit loud for my use, so many vibrant colors.
+
+Yonex isn't bad, kind of odd arch support in some models. 
+>For me it's more about just having the headphone jack for when I need it. It's super annoying to try and let your iPhone buddies control music in car rides.
+
+iPhones don't have a headphone jack at this point either, so if he's using a 3.5mm cable he already has to have an adapter for them.  That would then entail swapping adapters depending on what phone is being used, Lightning or USB-C.  
+
+If he has a newer car/head unit he could probably connect via USB, but then still needs a USB-A to Lightning and USB-A to USB-C to allow for his iPhone buddies the ability to control the music.
+IPhones that also don't have a jack? 
+Little above what it should be, but much closer than it has been lately. 
+Have one of the coolest troopers out of all the movies, give her no role and kill her off almost immediately, twice. 
+Battle Royale is basically king of the hill but the hill gets smaller over time
+1440p 144hz is probably the most demanding of the possible resolution and refresh rate combos.
+
+You'll want an even mix, but more on the gpu. I'd look at a ryzen 2600 and a 1060 at least.
+
+It'll also depend on the games you play and the settings you want to have. I have an 8700k and 970 (upgraded from a 2500k and plan on a new gpu this next generation), but I drop most settings in the games I play. Fortnite is basically everything except render distance on the lowest but I get around 160fps in exchange for that. Overwatch is mostly medium/high except for some settings like shadows, sit around 120fps.
+
+LoL will run on a potato, so you don't need to worry about that one. 
+Tftcentral does extremely in depth reviews, but they don't do all monitors 
+More cores and threads helps. I'd be looking at the ryzen 2600 or 2700 (and their x versions) 
+I have a thermalright le grand macho rt which is their gigantic cooler that competes with the noctua d15 and such. 
+Scythe shuriken or kabuto
+
+Thermalright axp-200r
+The difference is the warranty.
+
+Don't bother with the black. If a hdd is going to die, it'll either do it immediately (and be within warranty) or after a very long time. 
+You have a 6600k and want to upgrade?
+
+Unless you're spending $300 on just the cpu (8700k or 2700x), you really won't see any noticeable performance improvement.  And even then, depending on what you do, it may be minimal. I went from a 2500k to 8700k and got about a 5-10% fps increase. 
+
+And until amd steps up their gpu game, they really don't have a card that's great at 1440p. Vega is still stupidly overpriced thanks to the mining, and even at msrp fails to beat the Nvidia equivalents. 
+No. Like Dante said you can buy a pcie hub, but you can't just swap the ports on the case or mobo. 
+I think dell and viewsonic have one. 
+/r/buildapcforme 
+Ryzen is definitely the right choice at this price point.
+
+OP also needs to wait for a gpu to get near msrp, which is happening more often now. 
+They wanted the laptop thinner, so they had to reduce the travel distance 
+Ubiquiti is basically commercial products at consumer price. 
+They seem to do just fine with the stock coolers.
+
+http://www.overclockers.com/amd-ryzen-7-2700x-and-ryzen-5-2600x-cpu-review/
+There's a reason for the price difference (at msrp) between all the cards, performance.
+
+You can look up benchmarks, but typically the more expensive the card, the better it performs.
+
+A 1070ti is about 65% the performance of a 1080ti
+There are "silent" mice but they don't tend to be gaming quality (good sensor, etc) 
+You can tie windows to your Microsoft account. Then there's a "I changed my hardware button" and it's reactivated. I'm sure there's an actual guide out there.
+
+You can make a Bootable flash drive for the installation. Again I know there's a guide for it. It's free to do. 
+Looks good to me. Updating the mobo would be the only hiccup. 
+Went from a 2500k to 8700k with a 970 at 1440p.
+
+Got about 5-10% better fps, but it doesn't fluctuate as much.
+
+I'd go with the stock fan, last I heard it performs about the same. 
+Fresh install of windows on it.
+
+Then copy/download games. 
+
+You don't have to do anything to the old drive. Just remember to change the boot order in the bios to use the ssd. 
+
+Not at those prices.
+
+The cooler is overkill (unless its aesthetics are mandatory). A top end air cooler works just as well and costs $50-100 less
+
+The ram is more expensive than other equivalents by about $40
+
+The m2 ssd is expensive, a 500gb ssd is more around $100
+
+The gpu is waaaaay overpriced, a 1080 is a $500 card
+
+Psu is expensive, on a good sale you should be able to find one for around $80-100
+
+Rgb fans aren't necessary especially 6 of them
+
+No rgb fans, no need for an extra rgb controller.
+
+Peripherals are personal preference, there are better products than corsair but would require research on your part. /r/mechanicalkeyboards /r/mousereview 
+AIO are louder in most situations, go check basically any comparison. The only advantage they have is aesthetics, and maybe slightly better cooling once you get large enough (360mm+)
+
+Scythe fugen, thermalright macho, and a handful of other air coolers are all very quiet while cooling quite well.
+
+
+The mech keyboards with silent switches, otherwise basically any keyboard.
+
+Not sure on the quiet mouse part
+I wasn't really paying much attention during Obama (just out of high school, etc), but recovering from the worst recession since the great depression did take quite a bit of money to do.
+
+The fact that we're still cutting taxes and spending even more now, but the economy has mostly recovered concerns me. If the economy slows down again we really don't have anymore options to try and fix it (to my knowledge). 
+Something something easier to control the population when they're not educated.
+
+Seriously though, these things need to be taught in school. Knowing finances is a life skill. 
+As a tank main. 
+
+Fuck scatter arrow.
+
+
+We have more than 2 parties now?
+
+I'm pretty sure if anything he's made the divide worse, virtually every bill passed has been straight down party lines. 
+When it's a 2 party system, it's one or the other. 
+Facts like "spending a lot of money is bad, look at all the money democrats are spending" and then passing a bill that adds another trillion dollars in debt that does virtually nothing for 99% of the countries population? 
+Artificial is still the go to for the majority of people that don't want to travel (either locally or internationally).  Artificial also tends to cost more because you aren't buying a single shot, usually you're buying a tank of it (based on my limited knowledge) 
+
+Friesians, at least high quality ones, are much less common than thoroughbreds (again based on my limited knowledge).
+
+
+A lot of horse people are jerks and have the "holier than thou" attitude, where they are right and everyone else is wrong. 
+
+The Redragon brand seems pretty popular also relative to other Chinese brands. 
+Magicforce 68 is a very popular compact keyboard. 
+People can type like a gorilla on any keyboard.
+
+If you can hear their keyboard it's more on their mic than anything. 
+Fuck this case, fuck coolermaster.
+
+Never have I been so disappointed with a product.
+
+Even if this is the updated model, the build quality will probably still be garbage, and you'll still need to buy the mesh front. 
+LPT - just always wear nice socks, your feet will thank you. 
+You can register a key to your windows account and reuse it with w10. 
+Guess it went out of stock. Posted in /r/buildapcsales like 8 hours ago 
+Does the monitor have input settings and it's on the wrong input?
+
+Can you try the other hdmi port on the gpu
+The white one is 
+Can you take pictures of the insides and the back where it's plugged in
+/r/mousereview
+
+/r/mechanicalkeyboards
+
+If you want a mouse with the thumb button grid, there are only a handful I think. Putting sensor type in parentheses, (sensor type). 
+
+Razer Naga (laser), corsair scimitar (optical), logitech g600 (laser), Roccat nyth (laser), and a Chinese brand I can't remember (laser).
+
+Razer green switches are equivalent to blues from every other brand. There are an absolute shitton of great mechanical keyboards out there now at a ton of price points. The gaming brands tend to cost more for not as good build quality but better rgb controls. 
+Why are you rebuying windows? 
+Plug the monitor into the gpu.
+
+Integrated graphics typically get disabled when a dedicated video card is installed. 
+If the game benefits massively from extra cores and threads, what about ryzen, the 2700 or 2700x has 8c/16t and comes with a good stock cooler. Would still require a new mobo but they start at like $50.
+
+Otherwise if you get a 7700k, either buy with a good return policy incase it doesn't provide the improvements you expect, or buy used. You'll need an aftermarket cooler for the k series. 
+The ryzen 2600 is a newer version of the 1600.
+
+At $500 for a gpu, find a 1070ti or 1080.  Prices are getting more normal right now.
+Loose cable? 
+I'd keep an eye out. /r/buildapcsales
+
+There have been plenty of cards around msrp lately, and if your budget stays the same, some shuffling of parts to save money here and there could get you to the ~$500 for a 1070ti or 1080
+You could try more of a claw grip. That should shift the thumb buttons further back. 
+There's a new version of ryzen, 2600
+
+Completely drop the cpu cooler, stock cooler from amd is plenty.
+
+That ssd is expensive. You can get a 480gb for $100 with a semi decent sale.
+
+Gpu prices are normalizing, so wait a little bit.
+
+Psu is expensive for a 550w bronze. 
+
+I'm not familiar with that monitor, but the 25" 1080p 240hz Alienware have dropped to $300 multiple times.
+
+Peripherals are personal preference. If you haven't bought the keyboard and mouse, do a little research /r/mechanicalkeyboards and /r/mousereview 
+The logitech g203 is a pretty small mouse and on sale for $15 right now on amazon. G203 prodigy rgb.
+
+
+Roccat kone pure owl eye is a small mouse with a top end sensor and also very light. I've seen them around $50
+
+
+http://www.rocketjumpninja.com/tag/SPALM/
+Seems fine to me.
+
+If you're going all out for literally every other piece of your build, buy a good cooler also.
+
+Scythe fuma or mugen 5 runs around $50 and is within 1-3c and 1-3db of the $80+ coolers like the noctua d15 and thermalright macho.
+
+
+There are dozens of us! Dozens! 
+Intel stepped up their cpus due to some actual competition from ryzen.
+
+The 8th gen Intel models added 2 cores to each model. So it's probably worth getting the newest version just because it'll last longer.
+
+And more USB C stuff comes out all the time, in a year or 3 I think almost everything will use it (which is the goal). 
+It's about $50 vs $80.  So it's not a huge difference.
+
+I have the macho and it's worked great for me (not that I'm doing anything extreme with it). I'll always recommend thermalright after my experience if someone wants a top end air cooler, as excluding is the availability of it, it's better than almost everything else out there.
+
+Plus the fan isn't brown. 
+Never such a thing as too big.
+
+Unless your psu cables don't reach what they need to. 
+I'd go with the 2400.  Can always add more ram later if absolutely necessary 
+It's $80 on amazon, and I think they're the only ones that may sell it.
+
+It's a great cooler though, and it's super simple to install.
+
+Scythe makes some good ones also, the fuma and mugen. Within 2-3c of the macho and noctua d15 and 1-3db of noise
+It feels like it could be a Doctor Who episode
+Do you also like mechanical keyboards? 
+Check out the logitech mx master for a mouse if you need a work mouse.
+
+Matias makes a mac layout keyboard that looks identical to apples, but has backlighting. 
+I really like the addition of USB C.
+
+That said, they should have put only 2 USB C ports, and then a handful of legacy ports like USB A, SD card slot, hdmi and/or displayport, etc.
+
+The macbook pro is supposed to be a work machine. 
+Yeah.
+
+Dropping to a 1080 is probably more cost efficient. The ti usually costs like 30% more for 10-20% more performance. Save the money so you can upgrade again later. 
+It's discontinued.
+
+I couldn't find anything similar.
+
+ 
+/r/mechanicalkeyboards
+
+/r/mousereview
+
+Magicforce 68 or a Redragon keyboard
+
+I like Roccat mice, the kone pure 2017 can be had for $50 or less often. 
+I'd switch to Ryzen 2600 or an i5 8400 with a cheaper mobo. Cheaper ssd.  
+
+Can you reuse a windows key or get it cheap/free via work/school? 
+
+With those savings could probably get a 1070ti or 1080, which will affect your gaming quality way more than the cpu. 
+Better cpu cooler.
+
+You went all out with everything else and then cheaped out on the cooler.
+
+Scythe mugen, thermalright le grand macho rt, noctua d15, be quiet dark rock 4
+Redragon maybe.
+
+Most mice will be black or grey with leds
+Wait for sales basically.
+
+Get a cheaper cpu cooler, scythe mugen or thermalright le grand macho rt both are good alternatives.
+
+Wait for gpu to get to msrp which is more 700-800.
+
+Cheaper case.
+
+Windows should only be $80-90, or free/discounted through work/college
+
+Better/cheaper psu, you can get a gold seasonic for that price. 
+Vega 56 or 64.
+
+Good luck. 
+Probably not. Does the specs say it has one? 
+So from 2300 to under 1000?
+
+That's not "changes" that's an entirely different build 
+Ryzen 2600 just came out. Worth looking into.
+
+That ssd is expensive for just an m2 form factor and not nvme speeds. 
+You don't need the cpu cooler.
+
+You don't need the expensive z series mobo, you can get a cheaper h or b series. 
+
+The 750d (even the airflow edition) is known for terrible airflow, but if you don't mind that is fine.
+
+I'd be looking at 1440p (and possibly 144hz at it depending on the games you play) 
+No.
+
+You'd have to buy different fans. Or turn off the lights. 
+What about Costco's brand Kirkland? 
+Carnegie didn't exactly come from wealth either. He worked as a kid also.
+
+From Wikipedia, born 1835, started working in 1848, 12 hours a day, 6 days a week. Wage was $1.20 a week ($36.36 in 2017 dollars).
+
+It was over 150 years ago, times have changed a bit with regards to child labor. 
+That's my point.
+
+It's like playing the game telephone (or whatever you called it), person A tells person B something, they repeat it to the next person, yadda yadda yadda, by the time you get to the last person it's completely different. 
+Dogpile.
+
+Searches using like 7 search engines at once. 
+I know a family who is not the "buy all the lambos I want" but still rich.
+
+
+There's definitely distinct advantages to being in their tax bracket, like knowing the president of a college to get one of their daughters accepted. Or the ceo of a company to get their other daughter an internship with them.
+
+Google voice. It's free. Call from your phone or computer. 
+When I was a child my older sister did something to annoy me (I was probably like 6, I'm sure it was something totally stupid and irrelevant).
+
+We had a very skittish cat. Cat was sitting in her lap. I made a loud noise. Cat freaked out and scratched/cut the hell out of her legs. 
+Everyone's complaining about how terrible these are, and how airlines overbook, etc etc.
+
+Guess what, we've shown airlines that the *only* thing that matters to us is price.  
+
+Things like these are a direct result of them trying to find the best ways to make more money while keeping the tickets as cheap as they can.
+
+If you gave someone the option of these seats at $200, or a traditional seat at $300, guess which one 99% of the population is going to pick. 
+I've got an htc u11. Been very happy with it. Though I wish I'd waited till the red one was available. 
+I didn't start following politics till recently, but yeah, dems absolutely suck at delivering a message.
+
+I know for this last election, the only message they sent me was "I'm Hillary, I'm a woman and it's my time"
+
+Hopefully this time around they'll be better. 
+"Government isn't working, vote for us to fix it" 
+
+Gets voted in, cuts more funding, gets voted out. Dems spend next couple years trying to fix it and have to spend more money 
+
+"See! The government doesn't work!" 
+Their looks are stored as data, if she has access to that data she could mesh them together.
+
+Mainly just doing the devils advocate thing, as only the author could say if that's how yui always looked or not. 
+Probably not 
+It's almost purely personal preference.
+
+
+I like asrock, never had any issues with them.
+
+And now you have 1 person who prefers each brand. 
+Sli doesn't even work unless you have a 1070 or better.
+
+The only gaming reason to do it is that you have a 1080ti and still can't push enough frames, and money is no concern. 
+Thanks!
+
+
+She could have analyzed their data (genetics in real life) and combined them.
+
+
+I'm just starting the Fate series, any advice?
+
+Because that's the articles headline.
+
+All of apples phones got more expensive. 
+Shhh, this is /r/apple you can't say anything negative about apple (except for Siri).
+
+Seriously though, the target market for people buying a $1000+ iPhone X is not the same target market for $100-400 androids.
+
+Apple sold less phones than previously, but at a higher price. 
+I think so.
+
+But there's only so much a company can do with plastic, unless they want to do the corsair route and use aluminum because it's "premium" but really just adding excessive weight. 
+None. Logitech makes good products.
+
+I disliked the scroll wheel on the g900, but that's personal preference
+
+I just prefer the leadr, I like a heavy mouse. Plus extra buttons (even if I rarely use them) 
+/r/mechanicalkeyboards if you want to go down that rabbit hole.
+
+Mechs have an advantage over domes in that they activate partway down, whereas a dome activates at the very bottom.
+
+There are some new low profile switches out that have much less travel. Tesoro Gram XS is one I know of, I'm sure there are more.
+
+Edit: Havit HV-KB390L is another and cheaper. 
+It's basically the equivalent of a Ferrari or any super expensive product.
+
+It can do a bit more than others, but you're really only buying it to show it off. 
+Replaced my g900 with the leadr. I'm very happy with it.  Build quality blows away the g900. Plus I despised the scroll wheel on the g900. 
+
+The clicks were really heavy to start with though, and I've either just gotten used to them or they've worn in a bit. 
+Bashing razer for being a "gamer" brand and then promoting corsair and logitech is the pot calling the kettle black. They all sell "gamer" oriented items, logitech is the only one with a professional aspect with other products.
+
+Sometimes pro gamers actually don't have extensive knowledge on their equipment. When you're endorsed by a company you use whatever they give you.
+
+The g502 is about as "gamer" as it gets, a bunch of buttons, lights, weights, sharp aggressive angles. 
+Toon, OoT, sheik, bokoblin, and ww zelda please.
+
+I see some on there, and I'm really hoping they have decent availability. 
+An extremely brief Google says there are no windows 7 drivers for ryzen. Since you know it has what, 2 years of support left
+No 
+Yes, but measure the gpu length, it's probably fine
+
+No
+
+Probably not, measure and check clearance 
+
+No
+
+Why couldn't you 
+There are a handful of gaming grade wireless mice, and they're all expensive. 
+
+They have no lag.
+
+Tradeoff is the battery life is like 20 hours with the leds turned off.
+
+I've got the g900 and Roccat leadr, neither have any lag from the wireless. 
+Or just use windows defender, malwarebytes, an ad blocker, and common sense
+[They're taking the Hobbits to Isengard!](https://youtu.be/kJGGlVg5PpY) 
+Work smarter, not harder. 
+Is payment a requirement to be considered a client?
+
+Cohen said Hannity was his 3rd client. 
+
+
+Hannity said he never hired or paid Cohen (except maybe a $10 or so).
+
+So if Hannity said he never hired Cohen, can Cohen say Hannity was his client? 
+He says he was never a client, but also claims attorney-client privilege.
+
+I'm not a lawyer, but I don't think you can claim attorney-client privilege if you're not a client. I'm sure someone will correct me. 
+I'd try to find people with your mobo so you can see what it'll look like on it. That'll tell you more if it'll cover the ram slots or not.
+
+Scythe and thermalright both make great coolers for the price that may work also. Honestly there's a ton out there so it's mostly personal preference. 
+Specs say clearance of 165mm for height.
+
+It should work. Big air coolers will cover something up in many cases.
+
+I also dislike aio, more expensive and don't work any better, with more points of failure. 
+It's probably not 3.1, but at least 3.0.
+
+There are plenty on Newegg and Amazon also. 
+Most (all?) teachers also get the choice if they want their paychecks divided over the 9 months of school, or over the entire year.
+
+3 months off in summer sure sounds nice. Yes they do sometimes do recertification and stuff like that, but you can't tell me that's 40 hours a week for 3 months.
+
+Some people are saying you need a masters degree to teach, and that's just not true except for college (and then you probably want a PhD or work experience), a bachelor's is all that's required for k-12.
+I have mixed feelings on it.
+
+Starting pay for a teacher could definitely be better, $30k is usually what I've seen.
+
+But then you see teachers that have been there a few years making $70k, never update their lesson plans, etc.  Basically working 9 months, 30 hour weeks. Those ones I have issues with. 
+
+
+On the plus side, because it's a public position, all the pay is available to look up. 
+Zoom in slightly on the picture, it'll stop them from swiping. 
+Oh your best team is built around debuffs, that's cute.
+
+Or they do a lot of damage with their basics, let me just regenerate protection when I get hit by basic attacks. 
+
+And finally, every time you hit me I permanently gain speed.
+
+
+DDR4 ram, 8-16gb, 2400mhz or faster.  All the new stuff only uses ddr4. 
+
+Pcpartpicker.com will automatically filter things that don't fit.
+
+The 8700k does not come with a cooler, the 8700 does. Reason being that Intel knows 99% of people buying an 8700k are going to overclock it, which requires a better cooler than what they'd include. 
+I doubt any case has a built in SD card reader. Options for that are an external one, or one that fits in a 5.25" slot which many modern cases no longer have. 
++1 for the macho.
+
+Super quiet, stupid simple installation. 
+Pcpartpicker.com
+
+You're missing ram. 
+
+You don't need the cpu cooler if you're ok with some extra noise (stock Intel cooler works fine but isn't the quietest)
+
+You don't need to spend extra on the z series mobo, the 8700 (non-k) can't overclock. You can buy a cheaper h or b series board.
+
+Only a 240gb ssd is going to run out if space super quickly. Especially if you play AAA games which are often 30+ gb in size.
+
+Monitor and peripherals? 
+Also makes them more blue. 
+It was so worth it.  I kept him out during PvP.
+
+My account got hacked at one point in time after I had quit for a while, and in the process of getting it back, discovered they had sold my oozeling.  A GM was kind enough to return him to me.  This was before pets were stored in your collection permanently.
+I remember getting a disgusting oozeling from a white drop in AQ20.
+
+Thing was worth like 1.5k gold, which was a ton of money back then.  I never sold him, though I had to put him away during raids because the -20 resistance and defense could get me killed while tanking.
+Should just be a big red banner at the top and bottom of the screen, permanently there.
+
+And they have to say they're not news every 5-10 minutes 
+Someone else with the highland warrior skin, I'm not alone! 
+Based on the few reports we get, it sounds like the majority of the country is starving.
+
+Also one of their testing facilities most likely collapsed completely.
+
+So they may just be at the end of the line. 
+Blaming a gun for causing lag is about as far off as you can get.
+
+
+Russia becomes the 51st state? 
+Sprint, t-mobile, and att have it. Verizon is the only one who hasn't done anything yet. 
+Good thing the tips are just enclosed in plastic. 
+Flower power?
+
+The spacebar probably won't fit. I think standard is 6.5 whereas razer (and most of the other gaming brands) use a 6.0
+I'm personally a fan of seasonic because everything they make is consistently good, and their top end stuff is the best.
+
+[focus plus 850w](https://pcpartpicker.com/product/jWFXsY/seasonic-focus-plus-gold-850w-80-gold-certified-fully-modular-atx-power-supply-ssr-850fx).  The corsair isn't bad, it's just a bit more expensive, I'm sure it has sales that bring it down to around $100.
+Because if it's never used, it's literally pointless.
+
+If you're doing something that needs more than 16gb, you'd know it.
+Unused ram is wasted ram, and with the prices on it so stupid high right now, you're throwing away money. 
+"in order to never be wrong, KidGrundle never communicated in any way ever again" 
+Is there a reason you're getting 32gb of ram?
+
+The psu is also expensive for what it is. 
+/r/buildapcforme 
+An ssd is literally the single biggest improvement you can add to any pc. 
+If you haven't bought either, get the newer one. 
+I'm 99% sure they won't fit, unless it was a gmk set (because gmk gives so many keycaps including some for the bottom row in my experience).
+
+That non-standard bottom row is a curse if you like to buy custom caps. You'll spend as much on the bottom row as the rest of the caps. 
+Considering you want to spend $350 on a cpu, $200 on a mobo, $50-150 on a good cpu cooler, but nothing on a gpu.
+
+I'm going to say you seriously need to rethink your build. Ryzen 2600 ($200) with a cheaper mobo ($50-100) would save you $400 and have pretty similar performance in most cases. 
+M2 is just a form factor.
+
+8gb of ram can be added. 
+Depends on the mouse.
+
+And if you post the mouse, you could literally just Google "mouse name dpi settings" instead and get the answer on your own. 
+"my USB mouse and keyboard don't work, I'll try disabling my USB ports"
+
+1 + 1 = 0
+
+I think pulling the cmos battery, waiting a few minutes, and putting it back should reset it, like tsloa said. 
+It's not terrible with the prices for some stuff right now.
+
+I'd want to add an ssd though. 
+Like Kelso thinking about Eric's sister in That 70's Show 
+
+https://youtu.be/jCHRkoMD3EM
+
+Skip to 2:10 for how Kelso hears her. On mobile and couldn't get the timed link working. 
+1. Buy stuff
+
+2. Put it together
+
+3. ???
+
+4. Enjoy
+
+On a serious note, read the sidebar 
+People in congress were allowed to trade stocks at any time when they were the ones making the laws that affected the companies until like the early 90s or something.
+
+It's nice to be the one that makes the laws to regulate yourself, you just don't do it. 
+Taking the sanctions thing and turning it.
+
+It would be nice if Trump would put sanctions on Russia like he's supposed to have done. 
+Sounds like Bane but talking about cell phones.
+
+You think the lack of a notification light is a deal breaker? I was born in an era without them, grew up without them, by the time they arrived they were nothing to me but distracting! 
+You gotta use your peripherals 
+They don't have to use OLED. 
+Why, it's not like prices for flagships have decreased, we're getting almost the same device as we did years ago, but paying an extra $100-600 for it. 
+
+Sure the hardware has improved, but it's not like it costs more money to get parts relative to what the best cost years ago. 
+I don't know what this ranking is, assuming it's a popularity thing, but I'm glad she's on it.
+
+The soundtrack for Violet Evergarden is fantastic in my opinion.
+Everything is smoother.
+
+Especially scrolling. 
+None have that thumb wheel.  Only one with something that could be similar is the Roccat leadr/tyon.
+
+What are you looking for in a mouse, any size or weight preferences, number of buttons, etc. Budget. 
+
+I like Roccat, I feel that their mice are better in quality than the major 3 brands (corsair/razer/logitech). The kone series from them has several great mice with different sizes and weights.
+
+/r/mousereview 
+It's definitely a work mouse. 
+The IRS provides tax software for free if you make under 66k
+
+Just Google "IRS free file." First result should be the IRS' website, irs.gov. 
+He's apparently putting an amendment on it that he's not letting anyone else see before the vote, so... 
+If this is the first generation, it's kind of the going price for them now. 
+I rarely see it.
+
+It'll only happen in situations where your fps drops dramatically like from 60 to 15, and most game developers try to avoid that happening. 
+So a fully programmable board
+
+I think coolermaster can.
+
+There are less common boards also
+
+/r/mechanicalkeyboards 
+A laptop 
+Depends on a lot of stuff.
+
+People played for decades without adaptive syncs, you'll live without it also. 
+You don't need the cpu cooler if you want to save some money, 8700 will come with one. 
+It's mainly US.
+
+There's a Canada based one, link is on the sidebar 
+Buy Massdrop vast, wait for it to arrive, sell x34
+
+Wait for Vega 2 or whatever it's called. 
+Sounds like retail. 
+And the X samples at 120hz (display is still 60hz).
+
+It's only a matter of time before Apple puts it in the phones. 
+I am a simple man.
+
+I see your posts with sources, I upvote. 
+I'll give you a nickel if you give me a quarter in return.
+
+Sounds good to me, doesn't it sound good to you? 
+Oh man, they totally missed that one with the sharpedonite (mega stone).
+
+That would've been amazing
+
+Also could've been water/flying 
+He's reaching into the dish water to pull the plug, but only because he wants to replace it with his own dish water. 
+I hope other companies adopt the fast refresh rate displays.
+
+They'll probably only do it after Apple does it though and makes it mandatory on flagships
+>"If there's a fire you're trying to douse, then you can't put it out from inside the house."
+>
+>-Thomas Jefferson, Hamilton the Musical, Lin Manuel-Miranda
+
+/- Wayne Gretzky 
+What do we need to do to prevent a Mecha-Trump from happening? 
+The goal was to provide players with a sense of pride and accomplishment 
+A bug type shark, or just a shark.
+
+Because they already have Sharpedo. 
+But it did have gesture based navigation. 
+Is it really copying apple if the palm pre did it 10 years ago? 
+There's a reason we get nothing done. One party goes in, passes some bills, other party gets in power and undoes them all, rinse and repeat. 
+That situation is like the movie poster situation though.
+
+A few people knew about it, told all their friends, who told all their friends, and suddenly no one gets the benefit anymore because everyone is trying to do it.
+I saw an article about why a bunch of Republicans changed their minds on legalizing Marijuana.
+
+Pretty simple answer, money. 
+Probably the cost. Sonos is the only one that hits the $350 mark.
+
+Also apple made the homepod voice controls only work with Apple music/iTunes.  They easily could have opened it up to allow Spotify etc. 
+Gotta farm that runecloth. 
+Trump barely won so many states.
+
+The democrats just need to put up a candidate that isn't Hillary Clinton, and they should hopefully win. 
+He's like Harvey Dent.
+
+You either die a hero or live long enough to see yourself become the villain.
+
+Only instead of death, it's retirement. 
+It may not mean anything, but considering that Cohen has had 3 clients in the past decade, and Cohen's role for those clients (at least 2 of them) is to pay off other people and "fix" problems. At best it doesn't look good for your image.
+
+It's basically "connect the dots" and while we think we know what the final picture is, it may or may not be that. 
+It's Sean Hannity.
+
+Just got announced. 
+So there's the 3rd.
+
+
+The fuck, is he working for Pixar or something?
+
+There is absolutely no reason for any consumer to ever buy that cpu.
+
+If sticking with Intel, get an 8600k, z370 mobo, 16gb ram, and even that may be overkill for what he's doing with it.
+
+If amd, ryzen/ryzen2 1600/2600 or 1700/2700, b350 mobo, 16gb ram. 
+Well, excluding the gpu, it's about a  £600 pc, and a 1060 (which is comparable to the 580) is £200.
+
+So, no. It's really not a good price. 
+Depends on the price, $500-600 I'd think if things are gotten on sale. 
+busted spark plug.
+
+$2.50 later and a few hours of frustration trying to figure it out.  
+
+I am not a mechanically inclined person.
+My snowblower is relatively new and just refuses to start 80% of the time.
+
+I hate it. 
+You don't like enemies having the equivalent of 700 speed? 
+I really like what Roccat has been putting out lately.
+
+Build quality is much better than my previous mice from razer/corsair/logitech 
+/r/buildapcforme 
+/r/mousereview
+
+Rocket Jump Ninja also has a ton of reviews and suggestions based on hand size etc
+You're going to want a beefier cpu cooler if you plan on overclocking.
+
+I'd also skip the nvme drive, not worth the $100 difference (at a 500gb size) 
+Air is cheaper for same performance. 
+Depends how much you want to spend. 
+/r/buildapcforme 
+Same amount of attitude, but in a smaller package 
+They should be more iterative than anything, but we'll know more in a week. 
+Isn't that the 240hz 1080p monitor?  It can't be set to higher than 1080p.
+
+Depending on games and settings you absolutely can play at higher resolutions (but you'll need a monitor that can support it). 
+The skylake one will last longer because you know, it's like 8 years newer.
+
+It's gpu is kind of trash compared to the 970 though.
+
+I'd go with the skylake one and upgrade the gpu. Try and get it for a bit less if possible. Just because they over payed for something 1-2 years ago doesn't mean it's worth more today. 
+Others have said it elsewhere.
+
+If it was from campaign funds, it's illegal. Or if it was illegally made (laundering etc) 
+Take a page out of Paul Ryan's book and get out before it fully sinks.
+
+F5 Friday was full of new stuff again.
+The republican party definitely took a very visible shit on itself lately. 
+Updated ryzen cpus are out in a week.
+
+I'm not familiar with editing software, but if they like cores, ryzen has more of them. 
+Chromecast?
+
+Plug into the TV, cast whatever browser window has the stream on it. 
+It's not even the amount, it's the availability.
+
+You cannot find the smash or anniversary amiibos at msrp.
+
+I still need sheik (smash), toon link (smash), ww zelda, and OoT Link. I am not paying $20+ for an amiibo. 
+USB C is the replacement.
+
+Thunderbolt still exists, but it uses the USB C standard now for the cables. 
+They're typically setup as 2 seasons, 2 arcs per season
+
+/#1 has aincrad and fairy dance 
+
+/#2 has ggo and mothers rosario
+VMs make me think you'd want more ram.
+
+And an ssd.
+
+I'd wait a week to see what the 2xxx series from ryzen offers, and possibly drop down to a 2600. 
+It's fine.
+
+Intel is still the best simply because of their single core speed, but as more games utilize more cores the playing field evens.
+
+Look at benchmarks for the games you play the most and see what the difference is. It'll probably be like 5-10% at most. 
+Any ryzen cpu will work. New ones are out in a week. 
+Zalman clip on mic? It's like $7
+I have the taichi. No problems with it.
+
+Rgb support isn't as good as with other brands (like asus).
+
+I always recommend asrock just because I've never had an issue with them. Some of their cheaper models would work well also. 
+New amd cpus are out in 6 days.
+
+Kind of cpu heavy depending on what you plan to do with it. 
+It's been replaced by USB C. 
+Depends.
+
+If you missed that step, probably.
+
+There's the possibility that it isn't necessary for the mounting bracket you used. 
+Monitor on (and on correct input if required) 
+
+Monitor plugged into gpu (not mobo) 
+Sorry, virtually every game ever made that involves shooting a gun in any capacity has a time when switching to a gun. 
+Double pump was broken
+
+Pump -> anything is almost as broken, because a solid hit with a pump is going to kill or almost kill anyone.
+
+Virtually every fps ever made has a delay when you switch weapons. 
+I thought he said in December he wasn't going to quit 
+Games change over time. This change does not break the game.
+
+
+Based on your other responses, do you already have everything else? You may be better off just waiting a bit or buying other hardware.
+/r/gatekeeping is here
+
+Just because you don't share my opinion does not make it invalid. 
+People don't read patch notes. So now they see blue pump VS green tac, and they always take the pump. 
+If you're a heavy typer, any switch will be loud due to the noise from bottoming out.
+
+Otherwise as long as you avoid clicky switches (blues mainly), you can dampen the sound more with rubber o-rings or silencing clips.
+
+Per key rgb with mechanical switches probably won't be very cheap, at least not $50 cheap.
+
+/r/mechanicalkeyboards may have some suggestions, I can't think of any off the top of my head 
+Not sure if that's doable. I know they don't support sli for games, not sure if they would work just for separate displays though 
+/r/buildapcforme 
+Probably more related to how they changed shotgun colors.
+
+Since pumps are now green/blue, I've run into a lot more people with them. 
+I like the delay, I'm so sick of shotguns everywhere. 
+Hey, just because it has the aerodynamics of a brick doesn't mean they all go under the limit 
+Does fracture stack with speed down in raids? 
+Doesn't really tell anything, just that he is guilty also, not just the people around him.
+
+If Mueller completes his investigation and finds absolutely nothing, I'll be surprised, but I'll accept it. 
+I'm waiting to see if Trump gets taken down. Had an argument/discussion with father in law several months ago and he seems to think Trump is squeaky clean. 
+Makes me think of The IT Crowd where they give Jen a black box with a red light on it and tell her it's the Internet, and she believes them. 
+The prime lineup from seasonic are some of if not the best psus on the market.
+
+Have the prime gold, very happy with it.
+
+The prime ultra is I think the newer versions, just came out a few months ago. 
+Years, decades.
+
+The cpu is rarely the part that fails first. 
+That it was just a typo of wonder.
+
+You never know how good your backups and disaster recovery procedures are until you test them in production 
+Must be salt flavored
+Look at Mr forever over here, lasting a whole 5 minutes.
+
+It's more like 25 seconds 
+His hair probably 
+You're going to need to provide pictures of basically every power cable and part. I'm assuming something isn't plugged in fully.
+
+Otherwise if literally everything lights up/spins up, but you're getting no display, it's probably a dead cpu which almost never happens. 
+Their base will revolt against them if they denounce trump. 
+I've heard it's because the employee hasn't been trained on it, and it's easier (and probably less angering to customers) to say "it's broke" than "I don't know how to use it" 
+If we could get money out of politics...
+
+I don't even know how much things would change, and I imagine mostly for the better. 
+You mean the jew hater?
+
+Because that's Ryan's replacement 
+Too far gone at this point. They're beyond redemption. 
+Tried as vp and didn't make it.
+
+Plus he "wants to spend time with his family"
+
+
+I love the "I didn't want it" argument.
+
+Don't want the job? Then don't take the job. 
+His replacement is literally a nazi (hates jews, etc). If they vote for the nazi instead of the democrat, we definitely have another major issue. 
+Getting out of a global recession definitely had a part in that, both parties are to blame for that specific event.
+
+It was also $8.6 trillion total, not $10 trillion.
+
+Trumps current plan has him raising it $8.3 trillion in a 4 year period (as opposed to Obama's 8, and we aren't in a global recession). Trump also isn't using a major chunk of that to help people that need it, the majority is towards corporations and such that don't need any help. 
+Fine, I was kind of vague.
+
+Sounds like opioids, which are constantly over prescribed and are a huge problem in the USA right now with no fix in sight. 
+It's not a giant brewery and is better than Miller or budweiser which is the gold standard for a lot of people (because it's cheap) 
+Sounds like any other opioid 
+If a company becomes a monopoly (or oligopoly, looking at you ISPs), they should become a public service and heavily regulated.
+
+I know there are so many reasons why that won't ever happen, but it would make things convenient. 
+Oh, I thought we were comparing at least somewhat similarly priced devices.
+
+Your argument is the same as the "my $200 laptop is a piece of shit, but my $4000 MacBook is so amazing I don't know why I ever used windows"
+
+Also a ton of the cheap end Chinese vendors have actually quite nice devices now. A $100 phone can still come with 16gb + microSD slot. 
+
+Finally it's not like Apple didn't keep their base storage too low for the longest time. 
+They'll learn eventually, high school does end at some point.
+
+When they have to pay for their own phone is probably going to be a breaking point for a lot of them. Then again a lot of broke people have brand new iPhones, so maybe not. 
+Ram is still in the wrong slots. You have it in A1 and B1, should be in A2 and B2.
+
+Make sure the ram is fully seated, that little lock should click into place when it's pushed in all the way, it usually takes some force. 
+
+Did you install all the standoffs? Shouldn't matter that much but it would be good to do. 
+
+If it's still not working, take out one ram stick, take out the gpu, plug the monitor into the mobo. Get it as basic as possible. 
+
+
+Acer 21x
+
+Also read the sidebar. This isn't the place to be spoon fed a build. 
+The Dutch did that to the US rep when he said there were "no go zones" and that politicians were burned alive (or something like that), they banded together and kept asking the same question until he answered. 
+If those pictures are with everything plugged in, you aren't plugging your monitor into your gpu. I can tell there's nothing connected to the gpu in picture #4
+
+Also it won't affect the pc booting, but if your cpu cooler is blowing air towards the front of the case (since the fan is currently on the back of it), you'll run a bit hotter. 
+Ram is in the wrong slots is one I see.
+
+A1 B1 A2 B2
+
+needs to be in B1 and B2
+Part list, pictures?
+
+Monitor plugged into wall, monitor on, monitor plugged into gpu (not mobo) 
+Depends on what you do.
+
+Just gaming, no. 
+You start with a huge budget and pick the best parts for strictly gaming, not sure what you're expecting to hear.
+
+The dell/Alienware AW3418DW is the best gaming UltraWide on the market, high refresh rate, gsync, ips. Can be found for $1000
+
+I like seasonic psus, the focus or prime line are all top quality, I'd go with 650w (or higher if you want, no real need). 
+I like the grenades because people never grab them so they're everywhere, and they serve as a useful way to flush people out or just flat out kill them if they don't move
+And then using a mini gun and destroying the base
+If you didn't plug the monitor into the gpu, you'll get no display.
+
+The gpu has the power cables connected right? 
+You cloned your failing hard drive to a working ssd.
+
+Fresh install windows on the ssd. Move whatever you cannot lose to the ssd or an external drive. 
+Ryzen has no integrated graphics, did you plug your monitor into the gpu.
+
+Is your monitor plugged into the wall
+
+Is your monitor on
+
+Do you have any pictures 
+Except for those people whose medical bills bankrupted them and they said they'd rather be dead. 
+People can fit a 159mm Evo in it, with "some extra room" 
+There are brackets on amazon for $10-30.  I've seen people use figurines, Legos, etc. One person made one out of a bolt and some other stuff from a hardware store for like $5
+"choose your stat"
+
+Like it wouldn't be speed 99% of the time 
+All for the fantastic pay of $11 an hour. 
+The smurfs movie covered it's production budget completely through product placement. 
+I must have worked at a good one (as far as call centers go).
+
+My only really negative memories are the last month before I quit (graduated  school and got a much better job), where suddenly the queue was always filled, average wait time was like 45 minutes. They must have shut down a different location or something, because while it was usually busy, there would be gaps between calls before that. 
+They attacked my freedom of speech using their freedom of speech, so theirs needs to be taken away! 
+https://www.aei.org/publication/what-economic-lessons-about-health-care-costs-can-we-learn-from-the-competitive-market-for-cosmetic-procedures/
+Elective procedures are the only price competitive medical care you can get, because you'll pay out of pocket and not through insurance. 
+It works just fine out of the box, you just also have the ability to tinker with it. 
+Ah yeah, probably a flagship and a mid tier (which will probably be overpriced compared to the Chinese competition) 
+3d audio was on the u11. 
+
+OIS on the front camera will be nice again, I think the 10 was the only device to ever do it.
+
+Pixel definitely had a gimped version of the squeeze, the launcher htc introduced with the u11+ was the best implementation I think.
+
+This leak says the screen size is a 5.5" 18.5:9, but all previous rumors/leaks have said it was 6"
+They listed a 5.5" 18.5:9 display.
+
+I'm like 99% sure that's wrong.
+
+Also saying April release when it's been pushed to May (based on other rumors/leaks) 
+The thing about basically every type of keyboard except mechanical ones is that they wear out.
+
+The 2012 probably felt much better when it was brand new instead of after 5-6 years of use. 
+ssd or hdd, whatever you have.
+the cpu is old and the ssd is very small.
+
+the 960 is about on par with a 1050, so would work well at 1080p for most everything still.
+
+I'd say $200-300 at most.
+logitech g900.  new version is the g903.
+
+one of the few lag-free wireless mice.  Roccat Leadr is one other I know of.
+"scanning and repairing hard drive" sounds like a hardware failure to me. 
+There are several that rival the d15 including the scythe mugen and thermalright le grand macho rt 
+Don't mix and match ram like that.
+
+I'm unfamiliar with the cpu cooler (doesn't mean it's bad, check benchmarks)
+
+Psu is completely overkill
+
+Monitor is underwhelming for the rest of the build
+
+Peripherals are personal preference. 
+Dying hard drive? 
+Htc u11.
+
+I miss the front facing speakers of my m8, and the headphone jack on occasion 
+Can you just build a pyramid on top of yourself? 
+It's more that they never adopted the newer standards of just having it be a notification 
+Didn't you read, op said "reputable" sources
+
+The quotes they included make me think Facebook 
+Trigun brings back some memories 
+How do you plan to play on 2 monitors at once? 
+Why bother with 120mm aio when the stock wraith cooler from the 1600 is more than capable.
+
+I'd just upgrade her cpu/mobo/ram
+Windows 10, follow the guide from Microsoft to make a Bootable USB drive.
+
+
+We tried to get to the moon again via Bitcoin.
+
+We were so close. 
+"that looks like a video of a person who looks exactly like me but is not me"
+/r/buildapcforme
+
+Yeah, 4k ones that cost $500+
+
+Why do you need it? A 1060 should be able to hit 1080p 60fps in basically everything 
+
+>1. What is the m.2 slot for? Only SSD? Why people recommend it so much?
+
+It's for ssds. People recommend it because it's the fancy new thing and for minimal builds gets rid of two cables. 
+
+>2. Which SSD form-factor/interface would you recommend? m.2.? PCIe? 2.5 inch? And why?
+
+2.5", unless you need the form factor of m2. Excluding nvme drives, basically every sata ssd (regardless of form factor) is about the same speed. 
+
+
+>3. How to compare different SSDs and their speeds? What besides capacity can make you choose on over the other?
+
+Benchmarks and spec sheets. 
+
+>4. Is CPU stock cooler good enough for all cases that do not involved overclocking?
+
+Yes, but it will normally be a bit louder
+
+
+
+>5. For PSUs with the "80 Plus" rating levels: Does it really matter what level you get (bronze, gold, etc.)? I mean what is the trade off of price vs rating?
+
+You'll save like $2-5 a year on electricity in most cases with a gold vs bronze
+
+
+>6. If I want to make my PC/Case shiny and blinky with RGBs, do they require specific inputs on the Mobo or are they power from somewhere else (USB?)? If it is the first option ,I guess I have to find a mobo that supports that (i.e. has RGB inputs)? Is it common for modern mobos to have inputs for RGB? 
+
+
+Many new mobos have rgb headers. If they don't (or don't have enough) you need a standalone controller. 
+
+
+>7. What are the some RAM brands you would recommend?
+
+
+Basically any name brand
+
+
+
+>8. How would you recommend choosing a case? Because at the moment, besides form factor (which is always pretty much mid tower), looks and number of bays, I do not see how one is better than the other?
+
+It's basically looks. Some have worse airflow than others. 
+
+
+
+>9. Do cases come with their own fans? Because I know you can order extra and the CPUs, GPUs and PSUs come with their own ones, but I think I have read somewhere that cases come with some (one?) too?
+
+Most come with 1-4 fans installed. Some super cheap or old cases may not.
+
+
+
+>10. From what I read in the guides, more than 4 cores per CPU is overkill for gaming purpose. But is this really the case? Because the currently recommended top CPUs are 6 cores.
+
+Depends on the game and what else you do with your pc
+
+
+>11. What's up with AMD Ryzen CPUs? I see R3 2200G and R5 2400G recommended a lot, sometimes even not only because of the integrated GPU(?), but then there R5 1600(X) and R7 1700(X)/1800X. Somehow I don't get the tiers of AMD CPUs (high end, mid, low) 
+
+R3, R5, R7.  The APU are newer and basically the same or slightly better than the older models without the integrated graphics, while still being the same price. 
+
+
+
+>12. Where can I keep up with trending CPUs and GPUs and other parts and their performance? I would like to learn to understand why that CPU is good with that GPU and why is that RAM good or that SSD, instead of just blindly building. In other words, I would like to learn how to recognize what combination of parts is good at the moment....As analogy using gamer terminology, my question is like "Where can I learn what the current *meta* with PC parts is?" :P
+
+
+Super technical stuff, no clue. Benchmarks and tech websites give a goo& overview 
+
+
+
+>13. Related to the above question: Is there some tier list for parts somewhere online? I mean, when coming as newbie without knowing what part is good, it would be nice to see a list that notes that "CPU X and Y are high end CPUs" and "GPU X and Y are high end" while other CPU/GPUs are mid-range or low-end and etc. This question came up to me when I thought to myself "Okay I read all those guides about what you should be looking for for certain parts, but when I want to build high-end PC, how do you know which of all those CPUs/GPUs are high end?"
+
+
+
+There are, but a lot of times they don't stay updated. 
+Same. Htc phone still takes over the entire device when a call comes through. 
+Only games really benefit from high refresh rates. 
+*taps head*
+
+Can't say voting machines were hacked when there's no way to detect the hack
+*diet coke
+€170 for a coolermaster psu is the worst thing I think. 
+Thermalright and scythe both make great coolers. Most should have the am4 bracket at this point. 
+Magicforce 68 is well regarded.
+
+I think there's a Redragon or something that people like also in that price range. 
+
+/r/mechanicalkeyboards
+
+If he's buying a mouse also, avoid laser sensors, they aren't as good as optical sensors. 
+It's not super amazing, but it's good. Probably closer to $750 would be better.
+
+
+Isn't she like 12?
+Went into music education originally. Got to my senior year and finally got in the classroom. Dropped the education part, went into information systems. 
+
+Others have said it, I'll echo it.
+
+Look for internships as soon as possible (they should all be paid).
+
+For those saying "you'll start at a help desk" I'll say bullshit (maybe your internships will be, your job doesn't have to be). You should get a very rounded experience with basic programming (web and mobile for sure), database (probably SQL), networking, and possibly some ERP experience. Of course it's more a business major which I think is what makes it important, too many people in IT can't communicate with the rest of the business and it's an extremely important skill.
+
+I'll recommend learning some extra data warehouse or database admin style stuff if you can. People with those skills are less common than java/c# programmers. 
+Check out information systems or maybe being a database admin.
+
+Still in demand, not as common/popular. 
+Should the entire subreddit just be flagged as spoiler, because it's literally the first paragraph of the first book in alicization that they talk about the tree
+Isn't the main reason Bond used the ppk was because it didn't ruin the lines of his suit? I'm not a gun person, but I'm pretty sure that's a selling point of the weapon. 
+It's how Wikipedia cites things, I'm sure it is an actual style/format
+Because apple would never be cheap about their hardware.
+
+Like leaving 8gb or 16gb of memory as the base model when phones 1/3 the price had more. Or keeping ram lower, etc.
+
+When you're selling devices on the scale apple does (especially the iPhone), saving $3-10 per device adds up to a good chunk of money. 
+It's not like you don't get the manufacturer warranty. 
+Ah yes, because anodizing aluminum is so difficult to do the same way every time
+They add a 2nd year on to most 1 year warranties, 90 day return window for any reason (and basically no questions asked), and free technical support.
+"imported from Detroit" 
+It's like $100 on other sites. 
+Unless you require the aesthetic, basically any air cooler is as good/better than any 120mm water
+I like grenades...
+
+People never expect them, and they're great at destroying stuff. 
+I really want them to televise his interview with Mueller, provided it isn't just pre-approved and scripted questions/answers.
+
+Think of the ratings! 
+I want less shotguns.
+
+That's really my only complaint with guns.
+I want the Lego set they just released for it. 
+An extra 75b out of the 350b or whatever they brought back. 
+Thermal paste could also have played a smaller role, not sure how much a difference it can make though. 
+Thermalright is definitely a smaller company, I have the le grand macho rt and it works very well, and installation was super easy.
+
+Rgb strip I'm not sure. If the mobo has an rgb controller it may just plug into it. 
+See the size difference between the two? That's why the noctua works so much better. 
+Building a pc is a bit different than what Apple would do.
+
+They just need to pick a vendor, offer the top options from them, refresh it every year with the newer offerings.
+
+User upgrades, Cpu is basically the only that that can't be swapped easily in the future. Ram, storage, gpu, psu, etc, barring another big change like ddr5 ram, are all easily swapped. 
+Scythe mugen is also good, cheaper and smaller.
+
+Both will fit. S340 has 161mm of height, the thermalright is 159mm and the mugen is 155mm
+Case also matters.
+
+Thermalright le grand macho rt should fit anything, but it's huge, also a bit expensive, but it's a top end air cooler. 
+DDR4 is also physically different than DDR3, so op will need new ram also. 
+Mystery machine, I remember someone had that as an interest check but it seems to have disappeared. 
+Intel got caught with its pants down by amd with ryzen.
+
+Gpu prices went up for consumers because of all the Bitcoin crypto articles being written.
+
+Nvidia is still at least a year or two ahead of amd on the highest end. They have no reason to push anything new out when what they're selling is already the best available. 
+Because amd probably doesn't want to be bought. 
+Like home depot, where you had to work for 20 years to get the full $1000.
+
+Or Walmart who then closed something like 65 Sam's clubs
+
+Apple is giving 3k vested over 3 years
+
+Those bonuses were all sham pr moves. 
+They were already planning to invest like 275 billion before the tax cut happened. 
+No comment about how the new MacBook keyboards break from getting a piece of dust in them? I'm surprised. 
+I'm a bit late to the party, but is there a full translation of the 18th novel? I found the first two chapters but can't find the rest. 
+Look at this guy and his fancy bedroom door.
+
+My door is a hollow core door, it now  has a hole in it and is held together by duct tape. 
+I enjoy the game, but it's optimized like a pile of shit on Android. It'll drain 30% of my battery with 10 minutes of play because something runs in the background even if I force stop it.
+
+Animations lag, it rarely goes into 60fps mode, etc, etc. It completely kills my will to try timed modes including many magicites. 
+Depends on the game, settings, and 1080p or 1440p.
+
+I keep most things around medium with a 970 and get a pretty solid 120fps in overwatch at 1440p. 
+Because they put dampeners in them. There's a reason many people say they feel mushy. 
+Any mech will be loud if you type like a gorilla.
+
+Clicky switches (blues) have an audible click when the switch activates.
+
+Tactile switches (browns/romer-g) have a physical bump but no audible click
+
+Linear switches (reds) go straight down.
+
+All switches have noise when they bottom out. This can be reduced by typing lighter, or adding rubber o-rings/silencing clips. 
+You need to spell everything using trebuchets
+Trump has said he wants to testify, but his lawyers have said they'll only answer specific pre-approved questions in writing, if that. 
+I just really want a counter to say how many comp games I need to play to prevent decay. 
+This is the 5th time I've seen this hit the front page, with the one yesterday getting around 250k up votes.
+
+Either reddit is removing them manually, or their algorithm is designed to keep this off. 
+I'd try different gauge strings or just a different brand.  The nut itself may have also been cut a bit wrong causing the G to not be locked down with the D
+The Netflix revival of Voltron is pretty good 
+You'd have a giant hole where the Floyd was I would assume.
+
+If you don't want the floating aspect of it, you can either tighten the springs down so it's flush on the body and can't move, or put a block of wood in the cavity to prevent it from moving.
+
+I'd take 10 minutes and watch some videos on how to restring and tune a Floyd.
+
+Tuning - set the fine tuners in the bridge halfway. Loosen the locks at the nut. Tune the strings via the headstock. Tighten the locks at the nut. Only use the fine tuners on the bridge unless major adjustments need to be made. Finger tight is all you need to do. 
+Should just give everyone a free copy of the battle royale 
+So these are basically a low profile SA? 
+Because my 2nd grade teacher said I needed to learn division and multiplication because I wouldn't always have a calculator on hand.
+
+Apple is just reinforcing that. 
+It's Snoke, the *Supreme* Leader 
+Sounds like the paperwork doesn't matter 
+Depends on what games you play.
+
+More cores typically help more when everything else is equal, but if your games you play don't utilize them it won't help.
+I'm like 85% sure that your ram is in the wrong slots.
+A1 B1, A2 B2.  Should be in B1 and B2 I think.
+
+Only use the GPU for connecting, the cpu/mobo doesn't have integrated graphics.
+Looks good.  I'd wait on sales though, almost everything in that list is  10-30% more expensive than recent sales.
+
+Ram, Mobo, SSD, PSU.
+
+Also try the keyboard and mouse in store if possible.  Switches are  purely personal preference, I personally dislike the romer-g switches.
+Physically push it against the wall from its side.
+
+She didn't pin it to the ground like a wrestler.
+
+Also it's not like these are wild horses, for the most part they aren't going to be super aggressive or fight back unless the owners/trainers are assholes.
+Publicly traded company, constantly increasing profits is literally what they have to do, regardless of how they do it. 
+Just call them glorified bus drivers, they love that. 
+I would, it would rule out drivers being the problem. 
+Did you use ddu to uninstall the old drivers before upgrading? If not, do that, then get new drivers for Vega and install those. 
+"your medicine accelerated their death and now we're suing you"
+
+Money.
+
+Also bad results = doesn't get to the market, not getting to market = no money. 
+
+So they'll only test when they can hopefully get good results.
+
+It's almost completely about money. 
+Roccat kone pure owl eye.
+
+Good build quality, top sensor, light weight. 
+Cherry nature whites exist but are uncommon.
+
+The 2200g is basically a 1200 but with integrated graphics. Runs around $100
+
+Also basically brand new. 
+"the only thing that stops a bad guy with a gun is a good guy with a gun"
+
+And other such bullshit. 
+They banned me for bringing up trump and Russia. On mobile and can't find the exact message. 
+I got banned from /r/conservative because I argued against trump. When he congratulated Putin despite being specifically told not to. 
+
+For people that insult safe spaces, they sure need their own. 
+It's a corsair thing. Was never able to get into my z68 bios with my k90
+I'm one of those people.
+
+I cannot wait for self driving cars to be the standard. Not only because I don't really like driving, but also because so many people are terrible drivers. 
+They need to get on the rgb train. 
+Rocket jump Ninja has a review of the leadr and the kones on YouTube. 
+Good enough, does what it needs to do and doesn't randomly hog the cpu for no reason.  Better than some, worse than others. 
+
+Rgb lighting doesn't phase as smoothly as other brands, but I turn it off for maximum battery life (not that I really need it, plus the lighting is under your palm anyways)
+
+It is on the heavier end at around 126g or something I think, but it's the best built mouse out of my last 3 (razer lachesis, corsair m90, logitech g900) 
+Actual kinder eggs, or those dumbed down ones with separate packaging for the toy 
+G900 is a great mouse.
+
+Personally have the Roccat leadr, I like the shape better and the extra weight doesn't bother me. 
+I was really hoping the chug jug would be a better version of slurp juice, not just an "immediately max out hp and shields after use" 
+I can understand the reasoning, just wanted to make sure. 
+
+For peripherals, I'm going to say avoid the big gaming brands for keyboards, I'd suggest looking at ducky or the gmmk (glorious modular mechanical keyboard). 
+
+Mouse is more of a personal preference. I've had razer, corsair, logitech, and they've all been good. My current brand I'll recommend is Roccat, the build quality is much better than the others mentioned. The new kone lineup (and leadr) all use a top end sensor and are great mice. 
+
+
+Marquette is like a private island in the middle of a poverty ocean. 
+That's made with the best parts currently available.
+
+If he's just playing esport games at 1080p 60fps it's completely overkill.
+
+If he wants to hit 60fps in AAA titles at 4k with everything maxed out, then he needs a 2k machine.
+
+Don't forget a monitor and peripherals, a top end monitor easily runs around $500-1000, good peripherals I'd budget $200 for (quality keyboard /r/mechanicalkeyboards and mouse /r/mousereview) . 
+They should be basically identical 
+Have the first version, do not recommend.
+
+Airflow is shit. Build quality is on the lower end (my old rosewill thor is better). CM never responds to anything from a customer service aspect.
+
+Go with a better brand like phanteks or fractal. 
+And chicken farmers in India. 
+Go with something else like the phanteks enthoo pro. 
+Depends on the model.
+
+
+You can get a pretty good pc compared to a maxed out iPhone X.
+
+$1200 still goes a long way. 
+No, it's like a 10c difference if I take the front off. It's pretty drastic.
+
+Also the build quality is absolute shit, my rosewill thor is much better. 
+Own version 0.1 of this case, do not recommend.
+
+I'm done with coolermaster, I have never had a good experience with their products or their customer service 
+It's flush I think, and doesn't move
+Htc m8.
+
+Give me stereo front facing speakers again, it's honestly all I want. 
+No. My two experiences with it are it has a fire rate between the pump and tact but has a longer range.
+
+A direct hit didn't one shot a person without shields. 
+It is, but I just bought one. I spent $40 on overwatch and got a solid year of play out of that, fortnite is along the same lines.
+
+It's more to support the company than anything else. They've created a game I enjoy playing. It's free to play, it's not free to develop and run. 
+Saw it last year at EAA, looks so weird flying around.
+
+In law said it looked like a stingray. 
+Really debating about lightning osb since I have almost every other soul break for her. 
+The pro 3 is a $80 cooler, the le grand macho rt will outperform it while being quieter.
+
+The macho Rev b is $50 and still very good, version with two fans is $55.
+
+Go on amazon and just search for thermalright. 
+There's no need. 
+It's fine for the price. A 970 performs closely to a 1060/580 which are around $300 right now.
+
+If you want to add something, an ssd would be the biggest upgrade, and then if necessary another 8gb of ram. 
+Thermalright makes great coolers that are stupid easy to install 
+/r/buildapcforme is a better place to ask. 
+"the one moniker will stand for the flagship device"
+
+Then every device they sell has "one" in front of it
+Probably just getting lost as text.
+
+Like saying "she's so hot she's unreal" doesn't mean the person isn't real.
+
+OP is saying it's extremely cute. 
+The prime has 5 slots between pcie and cpu. Looking at the pictures on Newegg at least. 
+There's a reason there's a ton of rescues for "off the track thoroughbreds" compared to like 1 for each of the other breeds.
+
+It's all about money in the racing world.
+
+The big races now are kind of bullshit in my opinion anyways. Does it really count as winning when of the say 10 horses, 6 are owned by the same person 
+They ride them so young that virtually all of them develop problems later in life because of it.
+
+The horse racing industry is unpleasant. 
+Almost all of those "bonuses" were shams.
+
+I think home depot requires you work there for 20 years to be eligible for the full amount, apple gave $3000 but it vests over a 3 year period, Walmart closed a bunch of stores (Sam's club stores), etc
+It's not so much the space of the mouse pad, but the distance between your arms.
+
+A fullsize board adds like 6" between your arms compared to a compact layout. 
+Technically it's a 75% because of how the arrows and navigation cluster are setup.
+
+Compact layouts are great, so much room for your mouse. 
+Chairs which are designed to keep you in a proper sitting position are uncomfortable to do it with. 
+So you haven't actually tried anything.
+
+I'm not familiar with macs honestly.
+
+I'd back up your data to an external drive and do a factory wipe.
+
+Unless someone else comes up with a better thought. 
+And what have you done to try and fix it
+You need to be more descriptive.
+
+"car no go sometimes" doesn't help solve the problem. 
+I hopped on the bandwagon and got mine yesterday. It's comfortable to sit in for me. I don't use the lumbar pillow and don't lean back in it enough to need the head pillow.  Though the ability to lean back basically perfectly flat is interesting, I probably won't utilize it very often. 
+
+All the typical office chairs people recommended were not comfortable for me.
+
+I also have a bad habit of tucking one leg under the other which office chairs don't really allow. 
+Ironically the character page only shows up to gear 12.
+
+If you have a g12, take a look. It says "g12 -> g12" 
+Probably nothing. Have you tried it first? 
+Someone had a picture. Luke looks at Vader and goes "there's good in him" despite the fact that he's terrorized the galaxy for 20-something years, slaughtered countless people, etc.
+
+Then he sees Ben Solo falling to the dark side and wants to kill him as a child. 
+
+No he didn't act on it (he kind of did), but it's such a drastic difference compared to how he acted in the past. 
+A porg keycap? 
+Weren't the German helmets the ones that gave the best protection also? 
+Letters in the shape of guns. 
+Are you a bot, you're literally linking the same article again.
+
+Also Russia didn't meddle in the election (to our knowledge), didn't just kill someone with a nerve agent, didn't have extra sanctions passed on them, didn't have individuals and companies indicted for meddling in the election, etc.  
+
+Bit of a different environment/relationship compared to now. 
+I'm not talking about Obama.  I'm talking about our current president, who apparently is so illiterate that "DO NOT CONGRATULATE" is beyond his comprehension. 
+Amazon, monoprice. "mini displayport to displayport"
+
+They're usually about $10
+Called and congratulated Putin even though he was specifically told not to congratulate him.
+
+Then gets angry at someone for leaking it.
+
+Maybe follow instructions better next time. Or he was following instructions, just not from Americans. 
+You should mirror it so their weapons are in their dominant hands.
+
+
+Hand and a half? 
+He used antlers in all of his deeecoraaating
+
+
+I'm not out herding animals, and they're trained to wait anyways.
+
+The bridle and halter have different use cases for me. Just moving them around use a halter, actually working them use a bridle. Also seems to get them in a working mindset when a bridle goes on.
+
+My horses are not just tools to me, so my thoughts on how things are done are probably different than people who see them as just tools. 
+Why does he have both a bridle and a halter on his horse? 
+I have the prime gold 850w, it's very quiet. Jonny guru has some in depth reviews on them.
+
+I've heard good things about be quiet also. 
+Mini dp to dp.
+
+A good quality dual link dvi cable can work, and a good quality hdmi 2.0 cable also apparently, but displayport is easier. 
+I will always suggest a seasonic focus plus or prime if you've got a top of the line build. They're simply the best available. 650w should be plenty.
+
+Gold is fine, you don't need platinum or titanium (though if they're the same or similar price, no reason to not get the better one) 
+I'm a fan of the seasonic focus/prime series for a psu.
+
+Ram is ram for the most part, you're probably looking at around $200 for 16gb 3000mhz rgb ram. 
+I started with botw, hunting down the old smash characters (at or below msrp) is a pain in the ass. 
+It's also alive and well if you are rich.
+
+Acquaintance is a ceo of a company, got his daughter a job that she was not qualified for because he knows the ceo of that company. Got his other daughter into a college because he knows the president of that college.
+
+But now he owes them a favor, so I guess it's fair /s
+If I can buy a $500 gpu that gives me 150fps, or a $600 gpu that gives me 125fps, I'm going to buy the $500 one.
+
+That's literally the point of a better gpu, more frames. 
+You can replace the fans. 
+You think you've won, then the tie dodges like 9 attacks in a row
+Innovative things ended a few years ago. 
+"I'm a woman, vote for me"
+
+Those were the extent of her ads where I lived. 
+Can we rename dusty depot to depressing depot, because there is literally 1 chest, 2-3 guns, and a dozen people that land there. 
+Dr. Seuss wrote a book about that, called "The Lorax" 
+I bought a used copy of heart gold. It had a shiny geodude. 
+I honestly don't think that cpu can handle those games. It wasn't great when it released like 7 years ago, and hasn't aged well either.
+
+I think you'd be better off going with ryzen 2200g, b350 mobo, and 8gb ddr4 ram. It'll perform better and last longer.
+
+You don't need the cpu cooler or cd drive.
+
+Just get a 1tb hdd and save $30.
+
+There are cheaper psus out there. Seasonic S12II has dropped under $30 quite often recently. 
+I seem to get around 15-20 hours of use with leds turned off on both my g900 and Roccat leadr. 
+I'm excited about asrock making gpus, I've always had good experiences with their mobos.
+
+AMD needs to get a top end card that can compete with a 1080ti though (and the next generation of Nvidia cards). Vega fell quite a bit short, and the shortage of them doesn't help their prices. 
+End result would have been the same, only the resistance would have also had a dreadnought chasing after them.
+
+The resistance couldn't run away successfully, they were being tracked. 
+Because it's been the only case that has been argued for the past year.
+
+They investigated it, she testified (something trump won't do), nothing is happening, it's over, it's done.
+
+Even if something *is* done, how will that have any impact on the current administration. "congratulations, you were right, she still lost, now go autofellate in joy" 
+ >*The* Ukraine
+
+Sounds like an NFL player saying what college they went to. 
+If it's not Hillary, then why is it always her being mentioned 
+I never understand why Hillary always comes up at this point.
+
+She mishandled classified information, she should be in prison, or at least punished somehow.
+
+That said, nothing is going to happen to her now, and if she leaves politics, probably ever, so why keep bringing her up.
+
+Even if they did go after her and she's imprisoned, what effect does it have on the current administration? 
+
+Just lose the single argument they have in this hotel of bullshit they've built. 
+Can someone make a movie poster based on Total Recall, but rename it to "I Do Not Recall" and have it starring Sessions and friends? 
+It's cold out, climate change isn't real!
+
+I don't know if I need an /s or not, because it is an argument that people try to make... 
+If they want drastic change, they have to start with small changes first. Democrats will make those small changes towards what you want. Otherwise the Republicans have shown they will do the opposite and go further away from what you want.
+
+It's like trick or treating as a kid. Candy is still candy, even if it's not your favorite, it's better than getting an apple. 
+He doesn't like Apple because they hide all the repairs from the repair shop.
+
+I remember his video where he repairs a $2 temperature sensor or something to fix the problem. Apple's licensed repair shop software said it required a full logic board replacement, a $700 repair.
+
+
+He doesn't like Apple because they do a lot to hamstring their repair shops. They want customers sending in machines for expensive repairs even if it's unnecessary. 
+I just call it immersive
+"let the karma vote decide" is literally what reddit is.
+
+Get rid of that, and you have Facebook or some other even worse site. 
+Can someone explain the circling wagons thing?
+
+To my knowledge it was a technique people used on things like the Oregon trail to protect themselves if they were attacked. 
+If you can't fix it with duct tape, you aren't using enough duct tape 
+Gets hit by a proton torpedo, goes into the vacuum of space, flies back into the ship, and survives.
+
+Meanwhile Luke makes a force ghost and dies because he's tired. 
+Auto hot key and have it automatically type it out?
+There's no reason to buy any of the others if gaming is your sole use. The 8700k is a 6core 12thread cpu over the 4core 8thread of skylake so it'll last longer in most cases.
+
+Sli is extremely hit or miss, so there's no reason to have two 1080tis, one is plenty.
+
+One has a server cpu, not good for gaming.
+
+One is an i3 with a 1080ti, again a terrible pairing. 
+What are you doing with it. I'd go with #1 because it's coffee lake and a 1080ti.
+She supports net neutrality (which is good), and is a vote deciding topic for me.
+
+
+Ghostery shows you who's tracking you. 
+I prefer rein over Orisa purely because of fire strike.
+
+The burst damage is much more dangerous/useful than the machine gun of Orisa in many situations.
+
+
+
+
+At least in my experience in low masters/high diamond.
+
+I'll still play either of them
+45-60 minutes to get through the text and first stage if rushing.
+
+They do explain some things like modifications and stuff to weapons. 
+You need two displayport cables.
+He's wearing a jumping vest, I'm not sure of the brand but you can clearly see the logo.
+
+Edit: someone else linked a Tipperary, looks right. 
+Wooting one uses optical switches also.
+
+I have it, they're nice switches, smoother than my cherry switches. 
+Windfury was awesome, even the totem. My main was an arms warrior, that totem was the greatest buff. 
+This article is a month old, has the legislation gone anywhere? 
+My first thought is going from vga to hdmi is already a problem. Has to convert analog to digital. 
+Fjallraven (clothing company) makes them, they're (typically square?) backpacks. 
+A tolls a toll, and a rolls a roll, and if we don't get no tolls, then we don't eat no rolls. 
+Have you seen the one that's a keyboard? 
+I had a twink 39 ele shaman back in the day.
+
+My favorite memory was grounding totem a mage presence of mind pyroblast, then using the 100% crit ability and one shotting them with chain lightning. 
+I don't have any solid sources, but you can Google Joe Satriani lesson and a bunch of videos will pop up with him. There's a few books, one which was a collection of lessons he wrote for guitar player (or some other) magazine. I'm sure there's some free pdf version of it out there nowadays. 
+How do you build a border wall if there is no border?! 
+Aren't malamutes larger than a husky? 
+Some assembly required
+
+https://novelkeys.xyz/collections/frontpage/products/the-big-switch-series
+It's not pretty, but it does what it's supposed to, capture audio better. 
+Someone put a good amount of work into that. 
+They'd be a step closer than others then if they're putting sensors and cameras behind the display.
+
+Also would have to be OLED I believe. 
+Edited because I am stupid 
+
+1 at the top, 1 at the bottom, 1 on the back, 1 on the front.
+
+I'm curious since you clearly had the most negative opinion in this thread, who do you think is a better musician/guitarist than Mayer, because I've only seen you be negative but offer no other examples.
+
+Shawn Lane? Derek Trucks? Steve Vai? Guthrie Govan? Mark Knopfler?
+
+I understand Mayer is easy to dislike because his most popular stuff is basically pop music, but that's clearly what sells the best, and there are certainly examples where he shows off his technique. 
+I've always liked what Joe Satriani has published for lessons.  He was a guitar teacher before he started touring and such. 
+
+Not all his stuff is fun (exercises, scales, etc) but learning it will help you develop a strong foundation to build on. 
+
+I'm sure there are others that are better teachers now, but he definitely knows his stuff, and as a bonus is still performing today. 
+IIRC it's based more on wealth than anything.
+
+High poverty leads to more shootings (among other things). 
+It's not a lie if you believe it
+
+
+- George Costanza
+I hate supporting time zones, and now they're thinking about putting people on Mars, even more time zones to support! 
+/r/fatalbullet 
+I thought the argument for Bush messing up that speech is he didn't want the press to be able to quote him as saying "shame on me"
+
+Because we all know taking quotes out of context is a pretty standard thing they do. 
+Am I just dumb, I cannot beat the white day event against kuradeel.
+
+I'm assuming it's more that I only have one good character in Alice at 70.
+Possibly Fire Andrew McCabe.
+
+Like 4 days before he retires with benefits. 
+You won't notice much (if any) difference between a sata and nvme drive for games.
+
+
+Nothings wrong, but you can save some money. 
+
+From personal experience, there's no reason to spend extra on the wd black, all you get is a longer warranty.
+
+Is there a specific reason you want that mobo, it's expensive and isn't going to add a whole lot as far as performance goes.
+
+I'd skip the m2 ssd and get a larger one for the same price, 240gb fills up fast.
+
+Gpu prices are high right now, if you can wait they seem to be stabilizing a bit. A 1070 is a $400 card normally. 
+You can buy a cheap dvi to vga adapter, like a couple bucks. It'll work fine. 
+An 8gb flash drive is like $5, I'd try that. 
+Isopropyl alcohol and Coffee filters work best because they don't leave any fibers behind. 
+Congress voted overwhelmingly to pass more sanctions on Russia.
+
+The white house has not enforced any new sanctions on Russia.
+
+A list of wealthy Russians taken from Forbes or whatever does not count as enforcing sanctions. 
+don't go over to /r/Firearms 
+
+they're very upset that Illinois is passing a bill preventing those under 21 from owning assault weapons
+Is that not the entire purpose of our second amendment, so people can rise up against the government?
+
+I just don't see it ever happening. Take everyone who treasures their guns (between the ages of 18 and 21) and have them go try and gun down some government officials in DC, see how far it goes. That's what the second amendment is for, right? 
+I just don't think there's a lot of Americans who want to spend $100m+ on a ship with guns so they can go up against the navy if their gun rights are challenged. 
+You know people wealthy enough to buy a warship and also want to buy one? 
+You know people wealthy enough to own a warship? 
+We're talking about the raid boss.
+
+Nihilus as your character has annihilate start on cool down every fight, it's literally in the description of the ability. 
+A top end air cooler performs just as well as water coolers costing twice as much. They're physically large though.
+
+Noctua d15, thermalright le grand macho rt, scythe mugen, etc. 
+If you're not overclocking heavily the h7 is fine.
+
+A big air cooler works just as well as a huge water cooler. Thermalright macho, noctua d15, etc. Unless you really want the looks of a water cooler. 
+You can buy our politicians for like $100-10,000 a piece. 
+Kirito says it during his story with Silica in SAO.
+Asajj can heal nightsisters too
+If you're diligent you can get one for less. Depends how badly you want it now. At that price, even "like new" it's still used and isn't worth more than what manufacturers charge.
+
+Watch /r/buildapcsales and setup notifications from manufacturers and vendors. 
+I'm no expert, I'd assume it's just a personal preference. You see other types of swords in the series and novels including many of what you listed.
+
+In SAO the game your skills level up through use, so he probably focused on that type of weapon early on and didn't want to switch. 
+nice parts for the price.  case alone is $200 if you like big atx cases.
+
+finding a gpu is the issue still.  A 1070 or better would be ideal, and even at msrp is around $400 new.
+Nothing I needed did not come with some part I ordered.
+
+CPU cooler came with thermalpaste and a nice magnetic philips head screwdriver (thermalright, highly recommend their coolers).
+
+PSU came with cable ties (seasonic) though you can always use more
+Can you rewrite that so it actually makes sense, because I think you're missing some words 
+The russians seem to be getting off pretty easy, so I'm not sure what your argument is going after.
+
+Sanctions passed congress by what, 418-5 or something, and the white house said "here's a list from forbes, we're enforcing sanctions by posting this list of russian billionares but doing absolutely nothing else" or some garbage.
+I'm in Wisconsin.
+
+Probably not going to happen this time around. 
+Can be difficult to find the time honestly. Even if they're open from 6am to 8pm or whatever, life and work gets in the way. 
+You can get a clear skin for the back. 
+I've never had a bad experience with asrock 
+Steve Vai plays a triple neck.
+
+It's very interesting 
+Sprint and Verizon still do. 
+Succ
+They don't want to pay the licensing fees to Qualcomm to support cdma. 
+Personal experience.
+
+Do not buy this piece of shit case
+
+- build quality is garbage
+
+- airflow is pitiful
+
+
+Why British companies are the most reliable source for American news I still don't understand. I'm glad they're around though. 
+1800 layouts are the best.
+
+I still need to get one
+Not even dlc, I remember Lineage 2 coming out and it was technically in a beta for another month. The company was going to reset the servers after that month and the community backlash made them leave it alone.
+
+Best bug I found involved the ship. Normally you have to buy a ticket, wait for the ship, then get on to go to this island. However you could avoid buying a ticket in 2 ways. First was waiting for the ship to start moving and you quick run on, the other was to just run straight into the ocean, you eventually fell into a trench (it followed the ships path) where there was no water, and you could just run to the island in this water free underwater trench. 
+Like when an item online was originally $500 but is now on sale for the low low price of $29.99!
+
+And then you check the price history and it's always been $29.99
+The Welsh got all the consonants, and the Hawaiians got all the vowels. 
+Always look things over before buying, in almost every case if it's too good to be true, look harder. 
+No, it's just a cheapo rubber dome. That list price is garbage.
+
+Camelcamelcamel says the price on amazon hasn't changed from $30 in almost 2 years. 
+You give them points now each time they survive 
+Someone gets shot, they just immediately build a wall, no questions asked. 
+Can we just raise everyone's wage by like $8 an hour? 
+Actual money I think.
+
+So far everyone just gets around it by making you purchase currency of some sort and then use that. 
+/r/whowouldwin
+Just waiting on them to actually make a phone based on the fake m9 renders. 
+I still wish they were both front facing.
+
+Using the phone as a resonance chamber (or something like that) was very clever on their part.  
+Kailh browns are basically cherry browns.
+
+Tactile bump, no audible click on activation.
+/r/fatalbullet may know more
+$30 for me, but I'm paid twice a month.
+
+My paycheck actually went down though, because other costs went up. 
+If no one else said it yet, the clone wars animated series explains it a bit.
+
+He can't materialize as a ghost, but he can still communicate. 
+Chinese copy of mx blues
+Been there since at least 9pm central last night.
+
+Personally I'm unwilling to spend $20 on a single amiibo 
+I got a clear skin for my u11 since it was getting micro abrasions.
+
+Apparently my kitchen counter (slate tiles) is a slightly harder material than gorilla glass 5.
+Probably prison. I think they were able to match the character names to actual people. 
+Yes. 3360 (or a variant of it) is the best optical right now.
+
+
+My main concern with "there is no evidence" is that if your security is so poor that they got access in the first place, do you even have the ability to track changes?
+
+There could be "no evidence" because you just can't find any
+
+
+Based on George Costanza's desk/bed in Seinfeld? 
+That split keyboard is very nice
+You should look at  Bob's Burgers Burger Book. It's got a great selection of relatively strange burgers and toppings that are delicious.
+
+Burgers are based on the show. 
+Gotta make Siri personable.
+
+I have two echo dots I got free, Alexa doesn't give cute answers and I'm fine with that.
+
+Alexa turn on the tv
+
+OK 
+He didn't die from getting cut in half.
+
+He has a story arc in the animated series (clone wars/rebels) 
+"managment" 
+You'd still have like 6mm of black space in the exact middle. 
+Living in the US, I'd be dead in a week with our Healthcare system, so I'd probably skip it. 
+With only 2 you'd have your focus where the monitors join together.
+
+On an UltraWide sure, or on 3 monitors.
+
+2 monitors does not work 
+It's still ips vs TN. The colors may he accurate but they won't be as vivid(?).
+
+TN just never looks as nice.
+
+I'd just get a 60hz monitor as a secondary, not like you're going to game on 2 at once
+Ips always has better colors
+Just use compressed air, don't tilt the can, use short bursts.
+
+
+Laptops typically don't activate the dedicated gpu unless it's necessary.
+
+Google how to switch between them. 
+Case fans plug into the case fan headers on your mobo. "CHA_FAN" 
+
+Hard drives have a sata data cable going to the mobo, and a sata power cable going to the psu
+
+You just need to follow the manual. It'll tell you where everything goes. 
+At 1080p I don't think you'd need it. 
+Basically any 400w or higher should have enough.
+
+That gpu is like a decade old though, I'm assuming you're not expecting to play any modern games right? 
+Punch your display right in the middle. 
+I know Mercury engines (for boats) had a massive issue when they shipped production overseas.
+
+China is apparently very very lax with the actual formula and "close enough" is their standard.
+
+Engines would barely last like 1/10th of what they previously did, which didn't sit well with customers. 
+Why do you want an external fan controller when the computer can just handle it itself
+I've been farming almost purely 16/20 energy nodes and I don't really get more than I use
+Utini! 
+Even the revive mechanics are getting fucked up.
+
+Boba and Nihilus prevent revives, except for zombie, who cannot be permakilled. 
+I thought the book was "A Princess of Mars" 
+Nice.
+
+I hated fenrir and still struggle on him. 
+The domes themselves begin to deteriorate, causing inconsistencies between keys. 
+In win 503?
+
+You're asking for a strange case.
+
+Glass is heavy, which is an issue for the 10lbs. 
+
+External 5.25 bays are uncommon because nothing comes on a cd anymore.
+Helps if you list your country.
+
+Qisan (magicforce) are the most recommended for less expensive boards on /r/mechanicalkeyboards 
+It's not about being prettier (some new mechs look like they're from the 80s), it's about the keys all being consistent, feeling better to press, and being less fatiguing.
+
+Also they're basically impossible to wear out, whereas a rubber dome does wear out. 
+Any of the new Roccat mice.
+
+The kone pure owl eye (top end sensor, light weight, good shape) is on amazon for $50.
+
+I have the Roccat leadr and the build quality is much better than my previous mice, logitech g900 and corsair m90/scimitar. 
+A mech is a mech, however the quality of the big brands isn't as good for the price because they're a big name brand. Marketing and in store presence costs money, and part of the cost of the board goes towards that.
+
+Finally the bottom row on most gaming brand boards is non standard, so getting aftermarket keycaps is more difficult/expensive. 
+It's one of the primary ways you interact with your computer, why not make the experience better 
+Tell him switches are a personal preference and there is no best switch for any activity.  Try a few at a store to get a quick sense of what he may prefer. 
+
+Going by cherry colors
+
+Blue is clicky: audible click on activation and a physical bump
+
+Brown is tactile: no click on activation, still has a physical bump
+
+Red is linear: no click on activation, no physical bump.
+
+Stop by /r/mechanicalkeyboards if you want to go down the rabbit hole and possibly hurt your wallet.
+
+Edit: all switches clack when bottoming out, some (like romer-g and the silent cherry switches) have dampening built in to help with this noise. 
+Greens are basically heavier versions of blues. They both have a click on activation. 
+I still miss my stereo speakers from my m8.
+
+I don't use the speakers on my phone much, but when I do I like it to sound good.
+
+Razer is honestly the company doing what I want the best. Stereo speakers, high refresh rate display. 
+That's literally the role of Brigitte.
+
+Be a self sustaining support.
+
+As a person who likes playing tank/support, I'm excited. 
+I've been debating about refunding my order. Put in about 2 hours and wasn't super happy with it.
+
+Plus I've got such a large backlog of games I have issues justifying buying new ones. 
+Sounds like Darth Sion from kotor.
+
+Keeps himself alive by using his anger and pain. 
+You'll get it eventually. I submitted mine in late October and received the check in mid January.
+The nichicon 12k black capacitors are the only really important part there.
+
+It's marketing just like all the other manufacturers do.
+
+
+I mean, there are laws against hiring family just because they're family.
+
+Kushner lost his clearance, wouldn't be surprised if Ivanka disappears also. 
+I wasn't buffed, it went poorly for me.
+
+Then I buffed up and chopped her down with ease. 
+Then watch her basic apply them back on the enemy. 
+/r/buildapcforme
+
+Gpus are priced high right now thanks to crypto mining. Other than that it's really what you want and are willing to spend. 
+When Ron gets splinched and Hermione tells Harry to get the medicine out of her bag, and Harry has to use a spell to call it to him because he can't find it in the bottomless pit of the bag. 
+Matt's a dick
+2 years to clear 75 of the 100 floors.
+
+I'd assume it would've taken another 2 years at least to get the last ones cleared. Things get harder and harder, the 75th boss killed like 1/5 of the best players in the group.
+Here's what you get with an apple error
+
+An Error Occurred
+
+Close | OK
+
+Good luck troubleshooting that
+I had a professor like that in college, she hated me for reasons I still don't know.  She was also retiring at the end of the semester so there wasn't much I could do. 
+
+Same situation with papers. Asked her for help, revised them multiple times, got other people who were doing well to check, still bad grades.
+
+I spent 40+ hours on a research paper and got a C-, one of my classmates wrote theirs literally the night before and got an A-.
+
+Some people don't deserve to teach. 
+There's a difference when the $300 laptop dies and when the $3000 laptop dies.
+
+People expect better everything with more expensive products. 
+The Lenovo yoga book says hi
+It's normally a marketing strategy.
+
+"new Xbox comes out in a few weeks!" now no one is going to buy an 'old' console when the new one is just around the corner.
+
+Google does take too long though 
+I'd be happy about that, I'm 3 shards away from 7*
+Adjust the text speed in settings to the max, then it's all there at once.
+
+The mouse can function as enter/delete, but most of the scrolling in menus is still done via keyboard which I do agree is annoying 
+Halo 1, chiron, only shotguns (and grenades).
+
+Such a hectic battle
+My only argument is that once they have a small change, it's easier to enact larger changes.
+
+Didn't the UK ban certain types of porn a few years ago, and now you have to register to look at any? 
+
+In another 5-7 years I wouldn't be surprised if they required you to login just to get access to the Internet. 
+If you bought it from Newegg contact them, worst case is they don't do anything, best case is they credit you the difference. 
+No experience with the keyboard, but their mice are top quality. 
+Go to flush factory.
+
+Unless the bus drops over it immediately, there will be no one else there. 
+Many m2 ports disable some of the sata ports. So it's one or the other.
+
+If you have a ton of hard drives you should really be looking into an external solution like a NAS 
+I throw in ugnaught, nute, and pig.
+
+That way the two taunts and deathmark are gone. 
+So they've tied stuff to the frame rate, so annoying.
+
+One of the dark souls ports did that also but with equipment durability, so on pc all your stuff broke 2-4x as fast. 
+Unlocking the fps would be nice also.
+
+I also have absolutely no clue why they default to have motion blur and vsync on in a shooting game
+hyperX fury lineup is pretty thick.
+do you need windows
+
+are you willing to be tech support for life for this device
+
+I'd honestly recommend a prebuilt and then throwing an ssd in it.
+I'm honestly not sure
+Smaller boards have less space for stuff like rgb.
+
+I've never had a problem with asrock boards.
+
+Look at a standalone rgb controller if the mobo doesn't have a header on it. 
+There's no reason unless you're spending a decent amount on one, and at that point you should look at an external DAC instead 
+Setting up in stock alerts on manufacturer and retailers websites.  
+For making k-12 actually matter again for everyone?
+
+I interned at a school district where the high schoolers were learning autoCAD and getting cisco certifications, whereas where I went to high school we had nothing like that. My school also had something like 40% of the students on free or reduced lunch. 
+
+The funding differences between the schools gave a distinct advantage to the students at the school with more money.
+
+Fixing k-12 fixes education for everyone. Making college "free" just adds another 4 mandatory years to what everyone has to do to be competitive in the job market. 
+Bluetick coonhound
+No pro fps player uses acceleration, it destroys the consistency of tracking because moving the mouse faster will move the cursor further even if the actual physical distance the mouse moved was the same. 
+Not far off the "ANYONE GOT A MIC" people 
+I haven't gotten to play it yet, but that is really disappointing that it's locked to 60fps.  Makes me think that corners were cut elsewhere also
+Pretty much.
+
+I think they'll probably recommend the logitech g203 or something like that.
+
+Shape and weight are the two biggest factors after a good sensor. 
+Msrp for a 1070 is more like $400 
+Drop to the 1600, it comes with the wraith cooler.
+
+Drop to 16gb of ram.
+
+Buy a better psu
+
+Drop the bluray drive
+
+Buy a better wifi card (if you require wifi and can't hardwire) 
+/r/mousereview
+
+Find one with a good optical sensor 
+Free college sounds better than "fix the 12 years of mandatory school everyone already goes through" 
+They're closing another 200 or so apparently 
+Because apple decided people don't want to actually turn it off. Using control center just disconnects you from your current network temporarily (same with Bluetooth). 
+I like htc, but I really doubt they're ever going to recover at this point.
+
+I wonder if Google will just buy their entire phone division. 
+If the monitors have a deep sleep function (on the monitor itself), disable it. 
+If you bought one of the Dell s2716dg or s2417dg monitors, you need to disable the Deep sleep function on the monitor itself. It can prevent your pc from waking the monitor. 
+When Andy Murray loses, he's a Scot.
+
+When Andy Murray wins, he's English.
+
+So I'd say yes. 
+FBI, video games, movies, lack of guns.  All reasons that have been given for these things happening.
+
+Gotta find those easy excuses while you wait for it to blow over again. 
+1080p doesn't upscale to 1440p equally so it looks like garbage 
+https://m.imgur.com/ZnFeu
+I'm really not sure, I would think anything would be fine, it's plastic, glass, and metal.
+
+I'm not familiar with painting stuff though. 
+Could get a white case like the evga dg75 and add gold accents. $80 on Newegg with code NEEV9
+I'll second thermalright coolers.
+
+Have the le grand macho rt, it's a behemoth, but works very well and was super simple to install. 
+Largest monitor I'd recommend at 1080p is 24"
+
+Any 1440p monitor probably won't scale well with the consoles. 
+Cherry reds are common and I think run around $0.50 a piece when bought in bulk.
+
+Custom cases are the biggest cost, then keycaps, and finally switches.
+
+End result is a keyboard that does the same as every other keyboard, but has higher quality parts and looks different.
+
+I'd say a cnc case is usually $200-400, keycaps are $100-200 depending on layout, and switches are $0.10-$2.00 per switch. There's also other things like a pcb, plate, controllers, leds, etc. 
+I personally still preferred the RO characters over the new trilogy.
+Why not, it's not as in depth as some go, but testing was fine and provided simple results.
+
+Dot, line, X, spiral, excessive amounts, all provided 47c under AIDA64 cpu stress testing.
+
+Literally the only bad option is too little 
+Can't get kicked if you're close enough.  
+The smaller the horse the more stubborn it is. I'm surprised the Donkey and mini put up with that. 
+Strangely enough, Norwegian fjord horses (in my experience) don't seem to really care about the pecking order either.
+
+They're one of the oldest and purest breeds around though (2000-4000 years), so I wouldn't be surprised if that's why they don't care. 
+So the Kingsman bar fights were based on real events
+Fast response time, low input lag.  Blur reduction if possible. 
+
+Tftcentral does some great reviews, but don't cover everything available.  
+Finn - the guy who always runs away unless his back is against the wall
+
+Poe - the guy who is full of himself and starts to learn it's a team game
+
+Rey - the girl who acquires overpowered abilities from plot armor. Has no backstory, always wants to know her past. 
+I wish there was a collectors version for pc. 
+Already behind him, don't need to worry about the shield. 
+Amount of cores means jack shit for heat generation.
+
+Linus and others have done tests showing that excessive paste just looks like garbage but has almost no impact on actual cooling.
+
+Not cleaning the old paste off first would probably be more detrimental. 
+Fine, let's ban every gun.
+
+Now we have 0 confusion on what is and isn't allowed due to the technicality and classification of the type of gun. 
+I got a $55 a month reduction on my federal income tax. 
+If that's what it takes to get shootings to stop, then yeah.
+
+Other countries have guns, but they don't have these shootings.
+
+Minnesota is a good example of a state that has a lot of guns but very few shootings (relative to how many guns they have).  Quality of life is honestly the biggest problem, if poverty is high gun crime tends to be high, but good luck getting washington to figure out something to help that.
+I'd think when we get our deaths by gun:population more in the 1:100,000 like australia (or better) as opposed to our current 10:100,000
+"criminals will always find ways to get guns, so we'd just be an easier target without them"
+
+Maybe if it's harder for everyone, it will deter at least some. 
+Staycations can be great. It's amazing how rarely you get to actually just sit and do nothing for a few days in a row. 
+And he specifically said they couldn't do it with their design language.
+
+They put their logo on the back already.
+
+Make the sensor also show it, not like it's visible 24/7, and it would fit with their design language. They made the logo glow on the laptops in the past, which some may consider gaudy, but they still did it. 
+
+But you really just want to argue over something that will most likely never happen anyways, so if you want you can reply again just to get the last word. 
+Kind of like the logo on the back of every device they make, where case makers specifically leave holes in the case so you can see said logo?
+I have the thermalright le grand macho rt on my 8700k, compares to the noctua but isn't brown. Also a single fan and no ram clearance issues.  Installation was stupid simple.
+
+I highly recommend it, it can be difficult to find sometimes though, I think they only have a single distributor in the US. I got mine off amazon from them. 
+What if you make it look like an apple? 
+Camera is honestly the biggest differentiating factor in phones now.
+
+A $200 android phone can call, text, play games, run basically all the apps, etc, as a $1000 phone can.
+
+The camera is almost always garbage on a low end phone though, and build quality itself tends to be different. 
+I mean, our tax cuts are already temporary, what you see now is the biggest you'll see.
+
+But the corporation tax cut is permanent 
+Ah the main reason for democracy/anarchy in twitch plays pokemon 
+Google says hdmi 2.0 can do 144hz.
+
+Depending on your gpu you're probably better off just getting two displayport cables. Not many (any?) gpus have multiple hdmi 2.0
+I have the taichi, and it definitely has things on it I'll never use.
+
+Honestly they're all pretty similar, I'd go with whatever has what you need (ports, etc) and is the best price 
+I believe 1080p 144hz will work over hdmi, however you'll need hdmi 2.0 for 4k60fps.
+
+Displayport also tends to be the only one that works with the adaptive syncs (freesync/gsync) 
+It's ranked as one of the most friendly and welcoming subreddits, it's probably more your attitude (based on your responses in this thread).
+
+Edit: also a $450-600 keyboard (because 3x the price of a K95) would stick you well into custom range. 
+The mx silent switches (which are not corsair exclusive anymore) have built in dampening similar to adding o-rings.
+
+Any mechanical will be louder than rubber domes, especially if you are heavy handed. 
+Swing that hammer round and round 
+You underestimate my power! 
+Who am I
+
+I'm Jean Valjean
+How about borderlands 
+Mine are all around g8/g9 with meh mods, and I've rarely had to attempt it twice, no auto though. 
+
+Chirpa lead, elder, scout, wicket, and teebo.
+
+
+Didn't you hear, playing video games makes you an accurate shooter in real life.  /s
+It's like the random words that make Bucky go into kill mode in Captain America. 
+Don't ever order any keycaps from Massdrop then, 6 months would be the on the short side.
+They plug into the pins/ports on your mobo. The manual should show you were, and typically the mobo itself has print on it also. 
+If someone hacks your amazon account and adds a new address they have to reenter all payment information. 
+Like a 5 vs 95.
+
+That would be interesting. 
+"it's not our fault you revolted over our loot boxes and gutted our expected profit"
+
+- EA probably 
+I got it and didn't use it for a while.
+
+Then someone pointed out how useful it was.
+Windows task manager shows them now I believe, there's probably other software.
+
+My guess is it's either buggy drivers, or something is spiking and hitting 100% usage randomly 
+Buy a monitor, use TV as secondary display. 
+Monitor cpu, gpu, and ssd usage (I'm assuming the games are on the ssd) 
+It is worse while moving, it's just that shotguns (in basically every game) are more a "point at the body and shoot" and due to the spread you'll always hurt them, whereas a rifle can just flat out miss. 
+I believe at least 4 people need to be shot (can include the shooter) before they have to report it on the news. 
+Always worked fine for me
+It's just options. 
+
+My boss uses one so his phone is always charged. Pick it up, set it down.
+
+Wife uses one when going to bed. 
+Wife has one of the leather watch bands, quality is a joke. 
+It's a convenience thing. Just set it down instead of plugging it in. 
+Literally any, I've got an asus one that was $20 and works just fine.
+
+If you get a bluray drive many of those require additional software to do things with bluray discs
+Basically remake the one series with smaller bezels.
+
+And I guess wireless charging (so a glass back) because everyone else does it now. 
+Part of the game.
+
+Hog still hits decently hard if you can land shots at the right range, and tanks are still all sponges for healers to get ult charge.
+
+Also teleporting away has a longer cool down, and depending where they went it takes them out of the fight they tried to setup. 
+Can't you just set the timer to be like... An hour before showing you're away, or is it locked
+As long as those drugs are super addictive opioids.
+
+Anything else, not allowed. 
+
+>Val DiGiorgio is chairman of the Pennsylvania Republican Party.
+
+Literally the chairman of their republican party. 
+
+Just look at Virginia, the tying vote the person couldn't even fill in a circle and stay inside the lines. 
+I think pork used to be less safe to eat, so people always overcooked it. Then their kids always cooked it. Then the internet was created and people realized you don't have to overcook pork anymore. 
+Turkey and pork chops.
+
+Always so dry... 
+[Toooooooaaaaaast!](https://youtu.be/WDPgWhSaMlc) 
+I would go for the prime, it's the top end product line. Platinum vs gold isn't a huge difference 
+Never eat any berries that grow on a golf course. 
+You'll usually get 1 fee refunded a year (company policy), anything after that comes down to if the rep is nice, or the company isn't a piece of shit. 
+I'm not saying one is better, but to some people, $30 is a lot of money, and fortnite is free. So even if they would prefer Pubg, they might not be in a financial situation to afford it. 
+I just remember that I was that kid at one point, just playing different games. 
+
+
+> even tho tons of these bugs/glitches are fun as hell and kinda part of the gameplay experience
+
+Are you a Bethesda employee?
+When you hop on squads by yourself and a small child goes "ANYONE GOT A MIC"
+
+I try and help them by telling them not to ask if people have a mic, but where they want to drop. 
+$30 is more than $0
+Same reason people argue over consoles.
+
+Gotta be on the winning team.
+
+I'll agree it's stupid. A bigger selection is better for us. 
+I also know rogue is not rouge because of world of warcraft. 
+Beautiful, clean coal.
+
+Those silly scientists, all they had to do was dust it off!
+
+Kind of /s
+They've kind of just been removing themselves.
+
+Now the dems have no leverage on it. Even if they get the votes to pass something helpful, trump will say no, and they won't have enough to veto his decision. 
+Let's see what happens with the dreamers now. Dems had the budget to hold as leverage, now they're party to raising even more debt and the debt ceiling, and by doing so are also causing automatic cuts thanks to the new tax bill. 
+[I was elected to lead, not to read](https://www.youtube.com/watch?v=6zQ55S-DJsM)
+Lies! Deception! Every day more lies! 
+"just video chat a doctor"
+
+- ads constantly played during the Olympics 
+Warriors in early vanilla (and pre lvl40, which is when you finally could get mortal strike and have an ability that wasn't heroic strike) were bugged and so horrible to play, speaking from personal experience.
+
+2h weapons had a bug where it had the same miss rate as dual wielding, so something like 22% on basic attacks instead of maybe 5%. It was rough. 
+Homepod and echo both have speakers and assistants.
+
+The only difference is the price range. And some features. 
+It doesn't excuse his behavior, but I think every states attorney General has an investigation/lawsuit going on with equifax.
+
+Hopefully the company actually gets hurt, and other corporations take notice so this garbage doesn't happen again. 
+"my $2500 macbook is so much better than my $300 windows netbook"
+
+It's not an equal comparison. 
+People seem to like the jurassic park theme.
+
+Barber adagio for strings
+
+A relatively uncommon piece that I like is Scriabin piano concerto no.2 (especially the second movement) 
+Might as well just play Mars by Holst. 
+Wireless charging via the pencil case (sold separately, $79.99)
+You're also comparing a $100 device to a $350 device. 
+This looks like it makes you hit the ball way higher than you should 
+I wouldn't say she's struggling because it looks like her parents and grandparents were both rather successful 
+Probably knows some krav maga
+Didn't they beg the president not to release the republican memo for the same reason? 
+So it's a straight reference to the blue cuckoo from Ocarina of Time? 
+As the reverend Billy Gibbons says about Texas.
+
+1. Good Mexican food
+
+2. Good Mexican food
+
+3. Pretty girls
+
+4. The dollar store, anything you want, one dollar
+Hopefully it goes public all at once and everyone is taken down at the same time.
+
+I'm going on the assumption that Trump and his minions are all caught in illegal activities.
+
+I won't be upset if some others go with also, this seems like it's been a long time coming. 
+Because it's already been discussed back in what looks like 1982/1998.
+
+Also says his wife is deceased.  
+
+Also was only one wife, one time (not that makes it any better).
+
+Also he doesn't have access to top secret information.
+President watches Fox, tweets what he watches, Fox then reports what he tweeted.
+
+It's a vicious cycle.
+If these were clears people would be buying it just to harvest the switches from it.
+Need a 144hz display to actually notice that though, and the people that have one don't need convincing 
+"it was tongue in cheek"
+
+- sanders (not Bernie) probably 
+Just in terms of naval power, the US has more than the rest of the world combined 
+Watch for their seconds sales. Usually it's 2 for $250.  I think shoebank is their seconds website. 
+
+They're good shoes for the price, and if taken care of will last forever. 
+Take a picture, text it to a friend, have the friend print it out, fax it back, then scan it in, and submit a ticket 
+It probably wouldn't though, that grass is like 1/10" tall
+My 6th grade math teacher had this coconut that he'd had for like 15 years. One class it rolled off the desk, hit the ground and cracked apart.
+
+Inside was another, smaller coconut. 
+Roland Garros would be better. 
+
+Wimbledon being grass makes most rallies shorter, the ball is faster and bounces lower.
+
+With Roland Garros though, the clay is slower and causes a higher bounce, which tends to cause longer rallies. 
+Hey now, he was in Scotland for that. It was the person he left in charge, who everyone knew hated unions, that had them killed.
+
+Unless it is a different event you're talking about. 
+I did a research report on Carnegie when I was in middle school, so I'm kind of an expert myself.
+
+He came from nothing, became one of the richest people, and then gave it all away.
+
+There's still a lot of libraries around that he paid to have built. Also the 8 hour shift was developed by one of his employees/friends, as they realized that people worked better with three 8 hours shifts instead of two 12 hour shifts (so yes, it was profit driven).
+
+Bill Gates is probably the most similar person to him currently alive. Massive wealth, using it for good (in most cases) 
+I wish this would happen to the people who live near me.
+
+For like 8 hours a day on the weekend they ride the damn bikes in circles, and they're stupid loud (can hear them at least a mile away). 
+Trump can't even remember how many times he's run for president, if he speaks during an interview he'll perjure himself.
+60% of the time, it works every time. 
+Jedi teams aren't very common nowadays. Excluding kenobi and Barris with a sprinkle of hermit yoda
+Max hp sounds like it hits the hp pool directly to me.
+
+You're right though, just watched one of the videos, definitely hits protection first. That's disappointing. 
+Take away their ship and what does a pilot become 
+Hardly, almost any team comp will work. I ran it with Boba, Zam, Greedo, cad, and ig88 for a really long time.
+
+Also had it with storm han and chewie for a while, rotate their taunts to keep everyone else alive 
+I feel like trooper and assassin, hitting through protection, will be viable.
+
+Shock + rebel + jedi = 20-60% of their health each turn. Two turns and assassin should be able to 1 shot almost any of them.
+
+Doesn't help with jtRey though 
+
+>Is strength only measured in raw power? 
+
+Maybe to a sith
+Probably same type of stuff as to why all the Republican passed bills only have something decent for people for around 2 years before they turn to shit.
+
+Democrats take over and the Republican passed tax bill now needs us to cut Medicare etc to keep the lower taxes. No matter the decision it makes democrats look bad, even though it isn't their fault. 
+If you are a racist, I will attack you with the north
+
+- Abraham Lincoln 
+I'm so tired of contradicting abilities.
+
+"cannot be resisted" except in these specific cases 
+Setup alerts on manufacturer and retailers websites. Don't overpay just because you get impatient. 
+The more people buy the higher it goes. People who have a bunch of money can manipulate the price simply with pure quantity. 
+At msrp the 1080 should be around $500-550. Depending on the mobo it's not a great deal. 
+Do you need the wifi card?
+
+You definitely don't need the sound card, or thermal paste, or extra fans. 
+
+The cooler is fine but you could get something better.
+
+ Psu could be better, the seasonic 620w bronze is around that price.
+
+Get faster ram
+
+Get at least a 240gb ssd
+
+The k55 is just a glowy rubber dome keyboard, it's not mechanical (if you care). 
+They're independent of each other.
+
+The adaptive syncs adjust the refresh rate to match your fps.
+
+An Nvidia card cannot use freesync at all. An amd card cannot use gsync at all. 
+
+A 1080 can definitely push 240fps depending on the game 
+Why did you not just get an hdmi splitter for the hdmi port on your gpu, then you don't need to worry about converting anything
+Why don't you just plug them both into your computer without the splitter and tell windows to mirror the display instead of extend? 
+Sidebar
+
+/r/buildapcforme 
+You're arguing different timeliness here dude, you're not the flash.
+
+ January of this year was not Obama era.
+
+
+Trump called for a shutdown today, he's the one saying shut down the government. So your argument that "the people calling for a shutdown today called Republicans un-American under Obama" literally is saying Trump (because he's calling for a shutdown) called Republicans un-American. 
+Trump called Republicans un-American? Huh, til
+No one gets deported if the government is shut down 
+With possible Russian interference? 
+He literally just called for a government shutdown over immigration. 
+Can't lose an argument that way.
+
+
+That wasn't the point I was making.
+
+When you are a role model (which being the best at something, you typically are) you should try and be a good human being. 
+Not, yet
+When you're called the goat you become a role model for every person who plays the sport.
+
+Roger Federer is the best example I can think of, greatest men's tennis player to ever live, also a class act. 
+Except they say the echo chamber is the liberal/Democrat side, and they, the conservative/republican side, have all unique thoughts and think for themselves. 
+He's constantly belittling people with crude nicknames, it's time they stuck one on him.
+I remember someone saying it's the first time Republicans have had control of all 3 branches in a century.
+
+The reply to them was that the last time Republicans had all 3 branches the great depression happened. 
+He also called himself "nonbraggadocious" in another speech.
+
+I think he may want to look up what that means. 
+They should start calling him Tiny Trump
+Hello Airplanes? It's Blimps, you win. 
+It's just ffrk. I'll try the cache clear and see reinstall.
+
+Thanks for the suggestions 
+I'm getting pretty consistent crashes on Android 8.0, anything I can do to fix it, or am I just out of luck until they update (and hopefully fix things) 
+But we just got that tax cut, I heard a school secretary got a whole extra $1.50 a week!
+
+I could buy an extra avocado every month with that! 
+Some apps are definitely inferior (looking at you Final Fantasy Record Keeper).
+
+I don't really use any of the super popular apps, so I can't comment on those. 
+A base model basically Facebook machine for $1k?
+
+That's why you're getting down votes, not because people hate Apple.
+
+Also this subreddit is really more for parts, not laptops.  Thus why it's "build a pc sales" 
+Return it and the mobo. Threadripper literally disables half of its cores to enter "gaming mode". If you are only gaming, it's a terrible decision. 
+Threadripper isn't a gaming cpu, it's a workstation cpu. 
+The model issue is probably hard drive based, it happens on consoles also (which have spinning drives).
+
+Your cpu is a bottleneck 
+Because they're going to roll out even more towers to support a new tech that has even shorter range?
+
+The main selling point of CDMA way back was that it covered more area per tower. The US isn't Europe, there's a lot of space to cover. 
+Yeah, verizon is just gonna redo their entire network for funsies.
+It's not Game of Thrones by Jane Johnson, the editor. 
+
+It's Game of Thrones by George RR Martin, the author.
+
+The person who has all the information should be the one writing it and have their name on it. The person who makes sure there's no typos gets a note. 
+You forgot uranium one
+Nah, I've got a few friends (and several Facebook only friends) who think Mueller is corrupt and should be in prison.
+
+There is no reasoning with them. 
+What's not to understand. Get the loot, kill everyone else. 
+So Gowdy is the only one who read it. Why would anyone other than him write it.
+
+"hey man I forgot to do my homework, can I copy yours" 
+Why would Nunes have any say in it, he read nothing 
+His argument is that Trey Gowdy was the best person to read it.
+
+If Trey was the best person to read it, why wouldn't he also then write it?
+https://pcpartpicker.com/product/XJYWGX/gskill-aegis-8gb-1-x-8gb-ddr4-3000-memory-f4-3000c16s-8gisb
+
+
+https://pcpartpicker.com/product/GCJtt6/crucial-sport-lt-8gb-1-x-8gb-ddr4-2666-memory-bls8g4d26bfsc
+Mx blacks are linear switches, they're a heavier version of reds
+I would wait for the 8th generation Intel chips to be added. Extra cores/threads can make a huge difference for longevity. 
+All I see is *******
+Htc needs to make a single low end, one mid range, and then 1 or 2 flagships (regular and plus/mini). Then make them actually price competitive. 
+Using whattomine and ethereum 
+
+Three 480s make $6 a day
+
+Three 1080tis make $7.71 a day
+
+Three Vega 64 makes $8.31 a day
+
+At msrp, the 480/580 is a $200 card, Vega 64 is $500, and the 1080ti is $800. So you'd be looking at an extra $900 to start and about 10% less performance. Current market means msrp means jack shit though. 
+I can't talk to some old friends about politics, they've gone so far down the right side, it's a path I could not follow.
+
+Any time a discussion starts they immediately turn it into a blame game and devolve into insults while pointing fingers at everyone else.
+
+The investigation is obviously a hot topic, and regardless of the outcome, I don't understand why people would want it stopped. They're investigating Russia meddling in the US election, it needs to be completed. 
+
+
+Amd cards are much better at mining, which is why they demand a stupid high premium right now.
+
+Vega was a disappointment for gaming but miners sure appreciated them. 
+basically anything ryzen.  Even the ryzen 1200 outperforms the 8350, the 1600 really outperforms it.
+
+You'll need a b350 or x370 mobo, and ddr4 ram though.
+It'll be better, not a whole lot though.
+
+I'm assuming you're buying these used. Otherwise I'm really wondering why you're looking at 6 year old cpus. 
+Someone should let them know that the shell of the bomb isn't the dangerous part
+I filled a squad game last night, 3 kids probably 10-15 years old. Kind of obnoxious at times but nothing totally annoying.
+
+They hadn't played much, but ended up saving my ass in the final fight and winning the game for us.  
+Pyramid trap him, then leave. 
+The Space Balls Flamethrower 
+No fair, they're able to slow down time. 
+Could've just filmed at a different time. Puffins only come to land to mate, otherwise they live in the ocean.
+
+To my knowledge 
+I too like the Bing daily wallpaper.
+
+Kuhmo, Finland, by Ville Heikkinen
+https://i.imgur.com/Otu0LkZ.gif
+Shawshank Redemption was pretty good.
+
+The Lord of the Rings (not the hobbit) trilogy was good.
+
+Arguments could be made the marvel movies are based on comic books
+The only other thing Republicans can show as a win is the tax cut, so they're probably taking anything they can get to try and avoid looking bad.
+
+The government shutdown, when you control all 3 branches of government, did not look good, and it's probably going to happen again in a week. 
+Basically every Stephen King movie turns out poorly though, or at least isn't as good as the book it's based on. 
+I think it'll perform within 5 degrees at best (worst?), it'll probably be a 2-3 degree difference.  Good air coolers always compete very closely with water. 
+
+Water coolers just take up less space (different space I should say) and look prettier. Aesthetics is worth a lot of money. 
+They're compatible but the cpu is probably going to bottleneck hard. 
+Noctua d15 will be the best air cooler. I'll toss in the thermalright le grand macho rt, performance is basically identical, but has no ram clearance problems and only uses a single fan (which isn't brown)
+
+
+Faster ram. 3000 or higher. Ryzen likes fast ram. 
+Mobo probably has the least involvement with the results you'll get. Pick the one that you like the looks of, fits in your budget, and has the ports you need. 
+The very smart and very stable genius who absolutely did not collude with Russia should have no issues testifying in front of a grand jury.
+
+I wonder why he won't? 
+Leaked benchmarks show the 2400g between a 1030 and 550 mobile, so not really great. The 1050ti is nearly 2x as good. 
+Spends $2k on a top of the line pc, buys a budget psu.
+
+Please don't be that person. EM1sw suggested a very good quality psu, and I'll echo it. Seasonic makes the best psu you'll find.
+
+And speaking from personal experience, their rebates actually come in a timely manner (like a month, which is way better than most) 
+The competition may price match, but I'm unfamiliar with their policies. 
+I really really doubt they'll send you anything before they get the wrong item back, and it's really unlikely to come next day.
+
+I'd contact them immediately in the morning and ask. You'll probably have to shop elsewhere if you want to do it this weekend. 
+
+I'm not in the UK though. 
+Oh yeah, Nintendo never has a sale. 
+Damn, a 10 year old game for $20, what a deal!
+
+Steam sales have been less amazing recently, but you're still talking 50-90% off almost everything. 
+The mini consoles are saying people will buy a $5 piece of hardware with 20  20 year old games for $60-80+
+See, Nintendo promoted exercise with their video games. 
+They don't have to report it unless 4 people are shot (I think).
+
+That's how common injuries/deaths from guns are here now. 
+It's not a lie if you believe it
+Not-yet-undead undead? 
+On the DnD alignment chart, where do most libertarians stand. 
+The criminal, murderous, illegal Mexicans, but of course, who else would pay for it, certainly not us red blooded 'muricans.
+
+Our government has become such a pile of shit. 
+They're reds (linear) but have a shorter actuation distance (and overall travel).
+
+Corsair markets them as the "speed" switches. 
+My favorite is their infrastructure plan (or lack of).
+
+1.5 trillion, only 200 billion coming from the government. The rest, *shrug*
+Set up alerts on retailers and the manufacturers sites. 
+Ah yeah, generic droids like ig88 and hk
+A zylo can basically solo the fight 
+Once you start maxing the fleet shop out and have nothing but zetas to buy, they're less exciting. 
+Snoke joined their minds.
+
+Apparently that takes a lot less effort because he did it not knowing who Rey was and over a vast distance. 
+My asus zenbook is also 6 years old and running windows 10.  The 4gb of ram is starting to rear its head once in a while, but for the most part it's still plenty capable.
+
+Solid state storage does a lot for keeping things fast. Processors really haven't gotten a gigantic boost in the past 6 years. 
+And then Rian posted a thing on Twitter (I think) where he gets out the force academy book or something, turns it to the page which describes a force projection.
+
+My question is, does the book say "this ability kills the user" because I really fucking doubt it. 
+So that's why the boomerang in zelda games tends to go straight and then curve back to you, it'll curve immediately if an enemy is targeted and the game does the aiming though. 
+Don't try crouching when the other person has a pump.  If they hit you you're basically guaranteed to die.
+
+Source - happened to me a few times
+You've seen at least a few of the scandals with college athletes right? Classes designed specifically for them where they automatically pass just for writing a single paper, papers written with a writing level of a second grader, etc.
+
+Some colleges know the kid will bring in a bunch of money for the school, so they bring them in, they play sports for 1-4 years, and then go pro. 
+I'm not familiar with soccer (American here from r/all), but I know Andy Murray (tennis) does a similar thing. 
+
+He never got a signature from Agassi as a kid, so he spends as much time as he can signing stuff for people because he knows how much it can mean to them. 
+And Apple does the same thing. 9to5mac.com in an article dated June 21, 2017, "Apple ramping up App Store cleaning efforts, has already removed 'hundreds of thousands' of apps" 
+Because storage is pretty cheap for them, if they had a 128gb model, some people may buy that instead of the 256gb
+
+Why make $40 when you can make $90
+Like how Maggie shot Mr Burns when he tried to steal her candy. 
+Well if it's completely broken you can try an RMA, which sounds like you are missing some required documentation, or you can take it apart and try to see if you can fix it yourself.  /r/mousereview may know more.
+Well they literally told you how to clean it.
+I've really only used windows defender and malwarebytes, so I'm not well versed on any others.
+Windows will try and send audio through microphones sometimes, especially USB microphones.
+
+Go to your audio settings and disable your mic as an output 
+Now that's not a problem I've encountered or seen elsewhere.
+
+Try a different USB port (always on the back of the pc, not the front).
+
+Your monitor have anything that would cause input lag (or you're using a TV)?  make sure if you have an Nvidia gpu that vsync is turned off
+You're a generation behind. Get an 8600k or 8700k depending how much you want to spend on the cpu.  Both will outperform the 7700k 
+
+Z370 mobo, I like asrock, but honestly they're all pretty similar. 
+
+For cpu coolers, I personally prefer air, but understand the appeal of the much nicer looking all in ones, you can shave $20-50 off by going with a good air cooler.
+
+Depending on what resolution and fps you're looking for, a 1060 wont meet all requirements, it's aimed at max 1080p 60fps, you'll want a 1070 or better for higher resolution and/or refresh rates (unless you're just playing esports games).
+
+Psu is fine.
+
+Windows is fine, if you're a student you can probably get it free, and many workplaces have deals with windows so you might be able to get a good discount. 
+Some boards have higher quality capacitors and such, typically boards within a similar price range are very similar regardless of manufacturer. 
+Any chance you've got a virus, the crypto mining viruses will hijack your gpu. 
+Basically. Motion sickness is a pretty common issue with low quality vr
+Whenever you think they're dirty 
+/r/buildapcforme 
+Contact razer. 
+You're gonna be really disappointed with a Radeon 550, that card is basically just for a computer that needs more video outputs.
+
+With the ryzen 1600 you'll want at least a 1060 or 580 to actually utilize it. 
+Probably not 
+Amazon or monoprice probably are the two most reliable brands/companies.
+
+Monoprice does have the advantage of a lifetime warranty, but they'll only replace it once (in my experience). 
+The Nordic countries seem to do pretty well. Consistently ranked as the happiest citizens, good economies, great education, great Healthcare, a prison system that focuses on rehabilitation, etc.
+
+Unless I'm misunderstanding the question, but their governments seem to focus on making the lives of their citizens better. 
+Literally the design style of the zenbook lineup.
+
+Asus does take quite a few notes from apples designs though, the zenbook was basically a windows version of the macbook air originally. 
+Time also runs differently on the planet Luke is on, since Rey apparently watched him for at least a few days.
+
+Meanwhile the rest of the movie takes place in under 16 hours of star wars time. 
+We don't know when jtr will return. Farm han and chewie now if you want her next time (and have everything else required). 
+People wonder why the nukes weren't dropped on Tokyo, it's because Tokyo had already been extensively bombed. 
+The faster you move the mouse, the further the pointer goes.
+
+On YouTube, rocket jump ninja (who reviews a *lot* of mice) does an acceleration test using a ruler.
+
+Without acceleration, your pointer should only move as far as the mouse physically moved, regardless of how fast the mouse itself was moved.
+
+With acceleration, you could move the mouse very quickly one direction, and moving it slowly back to where it started, it won't return to the starting point. 
+Might want to take another look at the competition. There's no professional all in ones that I am familiar with (but there are some), but new consumer models like the hp envy with the curved UltraWide display, and asus zen aio, look really good. The asus one is basically an iMac though. 
+Monitor your cpu and gpu usage, see what's using it
+If my m8 battery hadn't shit the bed I'd still be using it. I miss front facing speakers. 
+Google got a massive patent portfolio out of the deal. You have to look past just the raw numbers. 
+If you're returning the 6100 you'll probably have to send the cooler with it.  Otherwise the stock cooler will be fine for anything except the 'k' models.
+
+Check your mobo bios version and make sure it's compatible with the 7xxx series, compare it to the manufacturers website.  Pcpartpicker put that warning there because when the 7xxx chips came out, they still fit in the older mobos, but didn't work without a bios update, which required a 6xxx chip to perform. 
+Your mobo may possibly need a bios update to handle a 7xxx chip. Most likely it came with it from the factory already, and you don't need to do anything. You can put any 6xxx or 7xxx chip in your mobo. 
+
+If you literally just bought all this and can return it, I'd advise going for ryzen or coffee lake (intels 8xxx chips). 
+TIL
+
+that definitely makes it worse. I thought they could override him like the majority of things congress has a hand in deciding.
+
+Edit: I understand now that these were signed and put in place, but the executive branch is not enforcing them, and outside of impeachment there's nothing congress can do about it. 
+Obstruction of Justice and perjury are the main charges that seem possible right now.
+
+When you're being investigated and try your best to stop the investigation before you can be charged, there's the obstruction.
+
+And he just doubles back on everything he says and can't keep any story straight, do that under oath and it's perjury. 
+Let's use the Russian sanctions example.
+
+If congress votes to pass sanctions 517-5 (98-2, 418-9), and the president won't pass the law, does that mean we have a constitutional crisis? 
+With the Russian sanctions thing being passed 517-5 (98-2, 419-3), then trump saying no, we'll see who tries to veto his decision. 
+Probably just adding a little strategy to a game which involves a lot of luck.
+
+
+Some of those bonuses look nice in headlines, then you read that it's up to $1000, given with $50-100 per year of tenure.
+
+You know anyone who's worked at home depot for 20 years to get that full $1000?
+
+Walmart is raising their minimum wage to $11, but that's not retroactive, so you'll have to quit and get rehired or specifically ask for it and hope they agree.
+
+The DOW has hit record highs, but more than half of the country has $0 in  the stock market 
+You fool, you never buy hotels. You buy all the houses, and that way no one else can buy any houses (because there's a limited amount). 
+Turn off vsync, monitor your cpu and gpu usage. Google the specific games and stuttering problems. 
+A ryzen 1600 setup or dropping down to an i5 8400 would handle those perfectly fine and save you a good chunk of change.
+
+Setup alerts on the manufacturer and retailers websites, they come in stock near msrp but sell out quickly. Hopefully it normalizes soon otherwise. 
+Shouldn't you expect anyone to listen to their superiors in a military environment?
+
+"who's this holdo person, just some decorated fleet captain renowned for winning an apparently very important battle and the next in command after our 2-3 leaders got sucked into space or a coma. Guess I better not listen to her" 
+Vsync does the same as gsync but adds some input delay or latency (I forget the correct term).
+
+Stuttering isn't normally a monitors fault, screen tearing from wildly fluctuating fps would be, and the only thing gsync will fix. 
+Are you seeing a lot of screen tearing, because that's all gsync will help with. 
+It's really going to be a personal preference. I play mainly fps and fast paced games, so I wouldn't trade 144hz for higher resolution. 
+The Microsoft store has an msi trident 3 that is basically identical in hardware but only $1000.
+
+I'm not familiar enough with the software she'll use, but would a laptop be a viable option? And then a docking station at a desk with big monitor etc
+Wait for gpu prices to not be double msrp.
+
+Noctua makes some of the best coolers, I'll throw the thermalright le grand macho rt into the mix, it performs a tiny tiny tiny bit better, and doesn't have ram clearance issues. 
+
+You're really overspending on the mobo, unless it has something you absolutely need that others do not.
+
+Psu is a bit pricey but they last forever, there are alternatives. Seasonic focus plus 750w & 850w is $100, focus 750w is $80.
+
+Get a single big ssd if you want a tb of ssd storage. Bigger drives are cheaper and faster than two smaller drives. Get a hdd if you just want cheap mass storage.
+
+What games are you playing. What resolution do you want to play at. What refresh rate do you want. You could be dramatically overspending if all you want are esport games at 1080p 60fps
+There are 0 high refresh rate 4k displays currently available.
+
+If you want a high (above 60) refresh rate, you have to drop to 1440p or 1080p. 
+If you go the Apple route, **do not** get the base model hard drive. The base model hard drive is a 5400rpm disk, it's an embarrassment that it's even an option. You need to upgrade either to pure ssd, or get the 2tb fusion drive.
+
+Also the 27" 5k iMac is honestly a hard device to best just because of that display. A standalone 5k display still runs around $1300 by itself.
+
+Swap out the 5k for a 4k, and there are a shit ton of prebuilts that can beat out the hardware used. 
+Sounds pretty standard and what everyone did prior to wireless controllers. 
+ChromeOS (or whatever google calls it now) is better for the most casual users, and it doesn't cost $1200 to get an entry level device.
+
+It updates everything automatically, you can't download any random files, and it's basically a fancy web browser that can use android apps.
+ublock origin is better than adblock, in my experience.
+You're right, looks like the one study that gained traction had some pretty cherry picked individuals. I'm sure there's a small amount, but nowhere near as bad as football 
+Or fifa.
+
+I've heard soccer is almost as bad. 
+No, the hdd will become a secondary drive that everything is still on.
+
+Windows settings and drivers will need to be redone.
+
+Otherwise you can clone the hdd, but the max used space has to be less than the max space on the ssd, and I'm personally unfamiliar with the process. 
+If you tilt it too much or turn it upside down it will spray out a liquid. 
+Create a Bootable USB (windows creation tool).
+
+Turn off computer
+
+Install ssd
+
+Plug in usb
+
+Boot into bios
+
+Set USB as priority
+
+Boot, install windows to ssd
+
+Unplug usb
+
+Reboot into bios
+
+Set boot priority to ssd
+
+Profit
+Just don't go ryzen, excluding the ryzen APUs, they don't have integrated graphics so you'll need a gpu (and good luck with that right now) 
+Cores and clock speed are not all parts of the equation either. Instructions per clock (IPC) is never listed but plays a huge role in speed. 
+Msrp is about as low as cards go right now, they're all super inflated in price right now, something too good to be true probably is.
+
+Higher clocks, faster the card. They all should overclock similarly. 
+Razer quality is inconsistent, however they're large enough that they'll just replace whatever breaks like logitech.
+
+Roccat is my new favorite mouse brand, build quality is much better than anything corsair or logitech are putting out. 
+The 560 will work fine for esport games, but it's not a very powerful card. A 1050 or 1050ti is better and if at msrp, not much more expensive. 
+No idea. You can setup notifications for when gpus come in stock, Nvidia, evga, etc, and from the manufacturers they'll typically be msrp and not some super inflated price. They sell out fast though. 
+It types the same key multiple times super fast.
+
+http://community.coolermaster.com/topic/20563-masterkeys-keys-repeating/
+have you just tried messing with it?
+
+It's either a polling rate, something for macros, or speed of some lighting effect.
+40% better or so, if prices get back to normal
+
+ryzen 1600/mobo/16gb ram would run around $400-500, $400 for a 1070, $100 for the case and psu, and then a monitor/peripherals if you don't have anything to use.
+set alerts on the company website as well as retailers.
+
+watch /r/buildapcsales
+
+sometimes massdrop has them, new products go live at I think 6am pacific.
+Big corporation in my city wanted a new headquarters on the water. City sold them half a municipal golf course for 3mill.
+
+The corporation now gets something like 6 million in tax breaks, and we also get to pay for 3 million in road construction (to reach the new headquarters), and another 8 million to turn the rest of the golf course into a park.
+
+So they paid 3 million for some land, and we get to pay 17 million in taxes. 
+It should be any 5.
+That's like what, Nihilus, krennic, and death trooper? 
+Wrong code, fuck that shit too.
+
+Had some basic blood work (checkup style stuff), all denied. Apparently because it's a new year, and I didn't tell them "no, I don't have more insurance from a different source" they just denied everything. Then a month later it's all reprocessed and I owe nothing. 
+And then computers became mainstream and hand written things were never used again (we can pretend) 
+If I could get rid of my health insurance, but my taxes went up 10%, I'd still be paying less.
+
+Health insurance is so fucking stupid, and then when you actually need to use it they can't tell you what it'll cost because even they don't know. Wife had two moles removed, "Oh it'll be around $250", $1400 later all the bills are finally done. 
+[my favorite picture of Jesus](https://i1.wp.com/asyourpoetshavesaid.com/wp-content/uploads/2017/04/star-wars-Jesus-Obi-Wan-similarity.png) 
+It's good but could use some small changes.
+
+With the 1500x, you're already extremely close in price to the 1600, which has 2 more cores and 4 more threads.
+
+You have a micro atx board in an atx case, it'll fit just fine, but it'll look kind of funny being so small, also micro boards tend to have less connectivity because they just don't have the space. 
+
+You probably don't need the extra case fans.
+
+If possible, try and get a 240gb ssd for OS and some games. An ssd is the single biggest improvement you can put into a pc right now. 
+Overwatch does have a built in fps limiter, you can set it to your displays refresh rate. 
+You see comrade, when target is on fire, they are easier to hit because the flames make them more visible. 
+Edit: phrasing 
+
+1440p looks sharper than 1080p on the same size monitor.
+
+You'll notice most 1440p monitors are 27" or larger. 
+So it's $1075?
+
+Its an OK price with the way gpus are right now. The only thing that concerns me is the slow ram, and *extremely* low power power supply 
+I'm a fan of thermalrights coolers, personally have the le grand macho rt which is their largest.
+
+The silver arrow itx is $40 on amazon and competes with many top end coolers.
+
+https://www.techpowerup.com/reviews/Thermalright/Silver_Arrow_ITX/6.html
+
+
+https://www.amazon.com/gp/aw/d/B00R19O0FY/ref=mp_s_a_1_2?ie=UTF8&qid=1516932204&sr=8-2&pi=AC_SX236_SY340_FMwebp_QL65&keywords=Thermalright&dpPl=1&dpID=61Fb9dSmW8L&ref=plSrch
+
+Should come with thermal paste, so that makes up the $6 difference. 
+1070 should be around $400-430
+
+1070ti should be about $450-490
+
+1080 should be around $500-550
+
+
+The used market or a 1060 is your best bet. Gpu prices are kind of whack right now though. If you're diligent you can get one at a normal-ish price 
+/r/mechanicalkeyboards
+
+/r/mousereview
+
+/r/headphones
+
+For a mechanical keyboard, if possible, try them out in person (at least the switch type you're looking at). The switch types are all different, and it's purely personal preference what one you get. There is no best switch for any use.  I'll suggest ducky, Vortex, or ikbc for a mech keyboard brand. Amazon or mechanicalkeyboards.com has them. 
+
+For a mouse, top end optical sensor is pretty much the only thing it has to have. Shape and weight are personal preference. A lot of fps players like the lighter mice.  Pretty much every company has at least one good mouse, many have a lot. I personally like Roccat, I think their build quality is the best (personal preference kicking in here again). The kone series (emp, pure, aimo) are all a similar shape, but different sizes and weights. Can be found on amazon for $60-90.
+
+I'm not much into the headphone/headset world, but you'll get better quality with headphones and a separate microphone. Headset is more convenient. 
+Could even skip the cooler and spend the money on peripherals instead 
+Please wait for at least a semi normal priced gpu. The 1070 is a $400 card, not a $900 card.  Look for a 1080ti if you're willing to spend $900 on a card. 
+
+I'd also buy a better cpu cooler, but if you're not planning on overclocking what you have will be fine. 
+
+
+Basically every other sith has anti jedi abilities though.
+
+Palp leader, Dooku everything, maul has double damage, Vader basic, and I think that's it
+Good bot
+Yeah but now he has to farm him anyways if he wants the ship. 
+What other characters are in the resistance, Leia?
+
+More first order (or any dark side) would be great 
+What if I'm listening to it on my cars crappy speakers through an old version of Bluetooth with a spotty internet connection and lots of road noise.
+
+Will I notice the difference 
+I think I floated down from a high spot straight to the shrine, because I didn't get yelled at until I tried to leave it
+Do you know a site that lists what each service utilizes?
+
+The echo has "beamforming" also.
+
+I just really doubt that any inexpensive speaker does it the same way as the beolab.
+
+I think apple and Amazon are using beamforming as a "it doesn't play it at max volume straight into the wall" whereas beolab directs the sound to you. 
+And amazon music
+
+Which is cheaper than other options if you have prime already (though the same if you're a student) 
+It's a tuna casserole, what's wrong with it.
+
+Add a layer of potato chips on top for some extra crunch
+I really like the badge they included with my prime series psu, actually a metal badge and not just a cheap sticker. 
+It looks good to me. I'm personally not a fan of liquid/aio coolers, but that's purely personal preference.
+
+If you want to upgrade to 16gb of ram later, I would try and get a single 8gb stick now, so you'd have more space if you want to add even more in the future 
+Comes down to if you want to spend the extra for Intel then. I would check benchmarks and see how they compare, with your games of choice if possible. 
+The top end air coolers are usually around $80 and will perform almost identically to even an $150 aio. They're just physically gigantic and not as pretty looking. 
+I'm not seeing any reason why they wouldn't fit, the gpu has an extra square spot, but the rounded one will fit in it just fine 
+The 8600k is better but the cpu and mobo cost more. 
+Artisan maybe?
+
+So you're looking for a cloth pad that has a hard backing to keep its shape?
+
+/r/mousereview may know
+Seems totally fine to me, I'd get a better cooler if you plan on overclocking 
+Top end air coolers are the noctua d15, thermalright le grand macho (which I will recommend, super easy to install and has no ram clearance issues), and the scythe mugen
+A 120mm aio rarely outperforms an equivalently priced air cooler. 
+Wait for normal priced gpus, other than that it looks good to me.
+
+I'm personally not a big fan of razer peripherals, their qc has been spotty lately.  I'll be one of those people and recommend "odd" brands, Roccat for a mouse (kone pure owl eye or kone aimo), and ducky, Vortex, or IKBC for a keyboard 
+
+/r/mechanicalkeyboards 
+
+/r/mousereview 
+
+
+Because they know they'll sell regardless of price, may as well make more money 
+Sounds a bit like web design also.
+
+"here's a rough layout, we'll change the colors and text sizes later"
+
+I really don't like that color, it's too pink, it should be less pink and more red, and that text is too small.
+
+
+........ 
+/r/talesfromtechsupport
+The podesta emails were the Hillary things right?
+
+I didn't even care about the content. If she was just a random person in the military and did that, she'd be fired/fined/in prison. Shouldn't our leaders be held to as high or even higher standards than the average person? 
+[Lies! Deception!  Every day more lies!](https://i.redd.it/zmhjyzs09evz.png)
+I like how they're comparing it against the (often $30) echo dot.
+
+That seems like an equivalent comparison 
+"most used maps app"
+
+When it's pre-installed and opens all links that use directions 
+My dad's klipsch horns from the late 70s are still working just fine with 0 maintenance.
+
+Speakers don't really wear out 
+Gonna echo cool, what gpu, because ryzen has no integrated graphics 
+You're missing out on a huge performance boost. 
+I'd go with whatever is cheapest, ram is ram if the speeds/timings are the same. 
+
+https://uk.pcpartpicker.com/product/w3hj4D/patriot-viper-elite-8gb-2-x-4gb-ddr4-3000-memory-pve48g300c6krd
+How far have you overclocked the 2500k, it's still pretty capable and a cpu upgrade may not net you a huge gain. 
+If you want 1440p 144hz you'll want at least a 1070 or better.
+
+Unless you're only playing games like LoL and rocket league.
+
+And yes, gpu prices are terrible right now, but hopefully will return to normal soon. 
+Pretty much every brand yeah. 
+I would see what 3000mhz ram costs, ryzen likes fast ram. Otherwise I think it's good. 
+I notice when my ping goes from 20 to 100 during a game.
+
+Once you get used to low ping, it's difficult dealing with higher. 
+I re-watched a clip of that.
+
+Yu-Gi-Oh, for being like a 16 year old, sure has a deep voice
+Asrock makes great motherboards, but I will say their rgb compatability with other manufacturers isn't as good.
+
+Gpu is really just a "find the one you like the look of" they all will overclock similarly.
+It looks like you're going for mostly asus stuff, but viewsonic, Acer, and I think one or two others also have the same specs and may be cheaper. If that matters at all.
+
+Alternatively some UltraWide are getting higher refresh rates also. 

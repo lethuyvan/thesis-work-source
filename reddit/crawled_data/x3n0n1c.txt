@@ -1,0 +1,3407 @@
+I have a C7 and have had no issues with HDR other than some games can be a bit dark when you wouldn’t expect. The cause of the issue is really on both parties (tv and game devs). 
+
+LGs tone mapping curve’s life goal is to preserve highlight detail. Meaning when the brightness of a pixel goes above the TVs mac brightness output (around 800 nits for oled) the tv will darken the pixel to preserve detail rather than let it blow out to white. 
+
+This can cause bright scenes to look somewhat dim. 
+
+As for the devs, they can map their hdr to realistic limit and not have an issue. Other games like PUBG are just broken implementations of hdr, it will always look shit until they fix it. I believe it’s the same case for the new monster hunter game. 
+Probably Morrowind. I’d need to go back to my state of mind at the time (around the beginning of high school) though. 
+You sure you weren't just watching the Smurf Channel? ;)
+
+Thanks a lot for the detailed info.
+Really odd.
+
+Do you mind reiterating specifically what the warning signs were so i can keep an eye out?
+
+Cheers.
+I fail to see how a source device could do anything to damage a television, short of sending a power surge to the input board.
+
+I have a LG OLED (C7) and an Apple TV 4K and have had no issues. I have match content turned on.
+The system produces heat...
+
+Unless your system is shutting down due to overheating don't worry about it.
+The Last Jedi is one of the first Bluray movies to include Dolby Vision, which the Xbox One does not support.
+
+My working theory is that it isn't handling forwarding on the stripped out HDR10 stream properly, throwing off the metadata sent to the TV.
+I see, thanks. All the needed settings are enabled on both the TV and the Xbox.
+
+Been playing other Blurays, Apple TV 4k, HDR games on both Xbox One X and PS4 pro without issue. Just this one bluray.
+
+Cheers.
+Sure you can kill the spec that it needs to function, but what is to be gained? The whole point is watching this movie in HDR.
+HDR on the TV is automatic, there is no disabling it. If it gets an HDR signal it will switch to an HDR video preset.
+The b6 supports Dolby Vision though HDMI. If you have a DV capable receiver and send the receiver an Atmos bitstream it will certainly work. 
+Never ever is a long time :P
+
+Micro LED is very promising if they can get them small enough.
+Best looking TVs you can buy hands down, but as with any display tech there are negatives.
+
+If you're aware of the techs limitations and don't push your luck you won't have any issues.
+Some of the B7s don't support internal Atmos decoding, other than that yeah.
+
+Think it might be in Europe if I remember correctly.
+No, but you can cast to it for Youtube and Netflix for example. So it's somewhat there.
+If you have burn in there is no recovering, thats why its called burn in.
+
+Anything that goes away over time is image retention.
+There is nothing preventing you from getting Dolby Vision and Atmos from another device, they are just few and far between.
+
+A dolby vision capable Blu-ray player for example.
+
+Hopefully Apple eventually add Atmos support to their Apple TV 4k.
+You’re personally waiting but you would personally get the X. 
+
+I’m confused. :P
+Just bought one myself. If only this version wasn't so ugly....
+
+The gold accent on the front especially is super tacky.
+While technically true, surround upmixers will do the equivalent of upscaling. 
+
+They are able to pick out sounds that would typically come from above (they tend to be pretty good at rain/thunder, explosions, aircraft etc) and place them in the height channels. 
+
+I find the DTS-X Upmixer on my Yamaha receiver does a better job at it than the Dolby one. 
+Where are the wispy wings?
+Not saying there isn't an issue, but people have to remember that just because you didn't scratch your previous phone doesn't mean you can't scratch your new one.
+
+Correlation doesn't imply causation ;)
+ST2084 is the correct transfer function for HDR, that is not the issue here. I believe the Xbox One X is not properly forwarded on the metadata for the HDR10 core of the Dolby Vision stream in this title. I don't own another Dolby Vision bluray to test with, but all my HDR 10 ones have not had this issue, nor has my Dolby Vision iTunes content on my Apple TV 4k.
+
+HDR can result in what some people feel as dim video due to the absolute rather than relative lumance curve. By this I mean in standard definition a pixel has a brightness of between 0 and 255, how bright that is depends on your TV and TV settings.
+
+In HDR, brightness is set in absolute terms of light output. For example the sun might be 4000 nits, while a desk light by a table lamp might be set to 100.
+
+Some people who prefer their sets to be really bright may find HDRs too DIM, because they were mastered to be that way. 
+
+Best picture quality hands down will be an OLED, such as the LG B7 or C7. If you tend to play the same games for long periods Burn in might be a concern though.
+
+If that is the case, go for the Sony 900e (or this years model the 900f), or the 930e. 930 is their mid/high tier set and is roughly the same price as the OLEDs.
+I just bought the Bluray and it's doing the same thing. Jumping in and out of other apps doesn't seem to make a difference.
+
+The movie is very dim, this definitely isn't right.
+
+Total waste of money if I can't get this fixed.
+
+Frustrating thing is the menu's of the bluray themselves are bright.
+
+I'm suspecting this might be an issue due to this being a Dolby Vision bluray and maybe the Xbox One X isn't handling stripping out the HDR 10 base stream.
+
+Sure, lets go with that.
+Lol @ the pokemon fighting game.
+
+What a piece of crap.
+Looks like just a normal limited time frap they have now. hmmmm
+You are going to have to get used to stutter, but there is a good reason for it.
+
+OLED are able to effectively instantly update their pixels, meaning there is no inherent motion blur which is not the case for LCDs. On OLED you essentially can see every frame rather than subsequent frames blurring together to some degree.
+
+The end result is virtually perfect motion performance, but will appear juttery on 24 and 30 fps content.
+I work in IT myself.
+
+View certainly has its moments, though I face a plain white wall.
+
+Encourages doing the rounds ;)
+Glad to hear it!
+Looks at this chicks chest. That will get us views right?! That makes us legit right!?
+
+Time for slow mo fellas. 
+A 60hz tv cannot correctly display 24hz video, requiring the use of 3:2 pulldown which results in frame rate jutter. 
+
+It should in no way cause the soap opera effect as that is only achieved by inserting interpolated frames in between the real ones to hit your target frame rate. 
+
+You must have a setting off somewhere, you should not have to disable 24hz playback. 
+There is one benefit to wireless charging that I rarely hear mentioned, and it is potentially a big one. 
+
+Should your lightning port ever go bad you can still charge the phone without a repair. 
+Have a nice day! XD
+That intro though. Had a tear run down my face the first time I played it. 
+I honestly don't see that much difference. You can tell if look for it, but while playing it might as well be 1080p.
+
+HDR on the other hand constantly wows me. Worth it for that feature alone.
+Thanks much. Will look into this.
+Thanks for the tip, I'll be checking for that after I do my next test upgrade.
+
+SecureDoc is a product we have been using for years and are rather fond of. It offers a lot of flexibility on what is encrypted and how it does so. It can also manage bitlocker but I have not played with that feature.
+
+Decryption is an eventuality we've looked at but really doesn't work. We are a financial company and our laptops absolutely cannot leave our premises unencrypted. Ensuring all machines have been decrypted, updated, and re-encrypted all while our users are actively using them is too onerous. 
+Thanks much, ill check that out.
+This is from previous versions of Windows 10 to 1709. Did you experience issues going from 10 to newer 10?
+Thanks! I’ll give it a try next time I encounter the issue. 
+My experience setting up our SCCM server has been exactly that.
+
+Follow a numbers of guides, make good progress, then get stuck. Spend hours searching forums and guides just to finally find out you didn't check a box or skipped a step like distributing content for  a upgrade package or image.
+
+Works great after that ;)
+Like the S9?
+
+Better processor and a better camera, pretty much sums it up.
+
+Most phones are just incremental updates at this point.
+Assuming the DAC has no volume knob on it the 3.5mm jack is not for headphones, it will be a line out. This can potentially damage your headphones or your hearing as line level is meant to be sent to an amplifier. 
+
+For your setup you would need to get a headphone amp which would connect to your dac generally via the red and white RCA outs. 
+
+They do sell headphone amp/dac combos as well. 
+Thats pretty close, will certainly be able to see some extra detail from that distance.
+No matter what your image is being upscaled, wether by the Xbox or your TV.
+
+Try both and see which one you feel looks better, if at all.
+How far away do you sit?
+There is also a limit to the amount of detail a person and perceive from a given distance, and from the average sitting distance with 4k you are well into the range of diminishing returns.
+
+Again, as I said in both my comments, the increase in resolution does not make a significant difference, key word significant.
+
+I sit roughly 8 feet away rom my 55" and I can tell the difference. But, again it is not significant. If I sit 5 feet away then things become far more obvious.
+
+HDR makes a huge difference.
+There is a difference sure, but it isn’t huge. You need to be pretty close to see all the added detail. 
+The difference isn’t so much resolution as the support for HDR. 
+
+4K is nice but at normal sitting distances really doesn’t make a huge amount of different unless you have a gigantic tv (above 65”).
+
+HDR on the other hand makes a huge difference if you have a tv that can reproduce its effects. Unfortunately you generally need a rather high end tv to do so as the more inexpensive models at this point in time can’t really do so. Many of these cheaper sets will display an HDR signal if you sent it one, but can’t actually get bright enough or show enough colours to properly reproduce the HDR image. 
+There is a segment in John Wick 2 that takes place at night in some ruins and tunnels therein. There is an event going on with a singer on stage. There are spotlights, lasers, flashlights, gun muzzle flashes, etc. 
+
+Trying no to spoil anything haha.
+
+Looks great on OLED.
+Obviously the source material matters, and i'd hope no one here is arguing the benefits of super sampling on Mario 64. That really wasn't the point.
+It's not about adding pixels. It is about resolving as much detail as possible. Supersampling isn't snake oil, it results in tangibly better image quality, especially on thin geometry that will lose pixels due to stair stepping artifacts (see video link below).
+
+See [this](https://youtu.be/aiTn2VqT0Pc?t=157) video for example and you can clearly see the effect that supersampling has on fine details.
+
+Is is mainly a technique best used for rendered things like games, but it works on video as well, ie 4k downscaled to 1080p will generally look slightly better than a native 1080p source.
+The guy explained it wrong but his idea is valid. 
+
+Supersampling can produce a more detailed and less aliased result even though the native display resolution does not change. 
+That is true but there is a point of diminishing returns when it comes to resolution.
+
+You can put a 8k panel in a 21" screen but it wont amount to anything because you wouldn't able to perceive the increase in detail.
+It is a rather dim tv for HDR, it wont look as good as a proper HDR set like their Q7 and up that are able to hit the brightness level needed for HDR content.
+32" really isn't a good size. Non of the worth while TVs come in that size and computer monitors aren't good enough to show you how good 4k HDR can be.
+
+Consider the 49" Sony 900e.
+I’m not even mad. 
+Ohh yeah. The true blacks they produce make them really pop, and the colours just look more real since they aren't coming though a filter like on LCDs.
+
+They dont get as bright and you have to baby them a bit, but its worth it.
+HDR encompasses a signal with greater colour depth (wide color), and meta data that that allows the display to know what level of luminescence each pixel should have at a certain value of the range.
+
+This allows content creators to specify how dark or bright something should be in absolute terms, and the display will do its best to display it, within its abilities. How this meta data is handled, and how often this metadata can be updated is where the different HDR formats come in.
+
+This is where HDR compatible vs HDR capable displays come in. HDR compatible can accept the signal, but cannot properly display the content as intended. Yes, you may see some benefit on these displays but they still won't give the intended effect.
+
+As a rule of thumb, to really get the benefits of HDR a display needs to be able to reproduce in the high 90% of teh DCI-P3 colour space, should be able to hit close to 1000 nits of peak brightness, and have a above average black level with good local dimming (for LCDs).
+
+Lose any of those 3 things and the effect is noticeably hampered and could look worse than just feeding the TV a standard dynamic range signal. 
+Decoding the signal does not make it real HDR.
+
+The wider colour gamut and dynamic range are the entire point.
+
+Many 720p displays will accept a 1080p signal, doesn't mean they are 1080p displays.
+
+
+Once you go OLED man. It's worth the cost if you are willing to work arounds its failings.
+
+Not an ideal TV for constant gaming or news watching, but if you watch a lot mixed content and vary your usage there isn't a better TV around right now that you could buy.
+Also to add, not everyone wants a full year.
+
+My interest in games on different platforms varies, and I don't necessarily need Gold active year round.
+We get it, its just a different outlook.
+
+You can say that they said this, and should have done that until your fingers go numb but it doesn't change the fact that they simply don't support it anymore.
+
+The Kinect was a double flop, it failed on the 360 and it failed on the One. They tried to force it down our throat with the launch of the One, but even that wasn't enough to change the fact that it was a doomed concept. People don't want to control their game with that body, they just want to veg out and use a controller. 
+
+End of day 99% of people just used it for voice control and that wasn't enough to keep supporting it. It would be nice if they would release a stand alone mic to reintroduce this functionality but if they thought they would sell enough of them they would have released that already.
+
+If you really really want to use it you'll have to overpay for the official adapter or you can try one of the DIY solutions. Thats the reality of it.
+
+Maybe MS will change their mind. Make sure to submit the feedback.
+Of course not available in Canada. Why do you hate us Microsoft :(
+They dropped it because only a small minority of people used it. Remember, Microsoft has metrics about how people use their product. If they saw enough use to have faith they could still make a profit from it they would have kept it alive.
+
+If you are going to lose faith in a company just because they drop an unpopular product you'll likely have to ditch a lot of other products you own too.
+If you have your Xbox One S connected to a 4K television then games are being upscaled no matter what. 
+
+You can get the Xbox to do it or you can let your tv do it. 
+
+Which one does a better job is up for debate and will obviously depend on your model of tv. 
+
+Yes, the Xbox One S can upscale games to 4K. I’m not sure why this fact is so important but it is true. Kind of irrelevant, but true. 
+The Spigen Tough Armour actually covers the bezel of the lens.
+
+https://cdn.mobilesyrup.com/wp-content/uploads/2017/10/spigen-iphone-x-tough-amor.jpg
+Planet earth contains a lot of really close up shots that really shows off the detail possible in 4K. 
+
+Combine that with the ability to really crank the colours because of the lack of human subjects (no skin tons to blow out) and it really makes the subject matter pop. 
+Expense. 
+Each pixel on the LG OLED panels is made up of a red, green, blue, and white sub pixel. You’re likely having an issue with one of the white sub pixels.
+
+As others have said, hopefully a pixel refresh will take care of it eventually. 
+Nothing better to reduce fire risk than smashing the screen. Brilliant. 
+You aren’t seeing the difference because your tv is HDR compatible, not capable. 
+
+Your tv can accept the signals but cannot reproduce the needed image. 
+
+Your tv cannot get bright enough, cannot display the needed colours, and lacks the needed contrast ratio in part to its poor contrast ratio and in part to its lack of local dimming. 
+
+I’d suggest simply leaving the setting off. 
+That flashing though.
+Console version of a game does not equal the PC version.
+Because you still expect games you already purchased to work on the x too.....
+It is rarely that simple.
+
+Even if all they have to do is change a few lines of code here or there that sets the rendering resolution, it doesn't mean that's the end of the work.
+
+They have to play test it, QA it, fix any bugs that arise, play test and QA again. At the end it has to be validated by Microsoft, etc etc.
+
+All this assumes there is actually someone with the knowledge/ability left from the team who developed that game to actually do it.
+Sure it would be nice, no one is debating that.
+
+Doesn't mean they are set up to do it.
+It's fine to be disappointed but you can't expect every developer to update every single one of their recent titles, it just don't work that way.
+
+Teams have moved on, split up, started new projects etc.
+
+It just isn't feasible in many cases.
+It's normal for the X unfortunatly.
+I had no issue with Dunkirk, but Jason Bourne had a 5 minute segment of compression artifacts, stutters, etc.
+
+It cleared up after that and was fine for the rest of the movie.
+Oleds suffer from vertical banding which results in a very similar effect.
+
+Plasmas were really the king of uniformity. 
+
+
+My thought on extended warranties is this: If I bought one on every decently expensive device I've purchased over the years I would have spent way more money than paying for odd repair should something fail.
+
+Admittedly I've had very good luck over the years and pretty much nothing has failed on me, but I think it would pan out the same way even for those less lucky than I've been.
+If that bothers you on the OLED, the uniformity issues, flashlighting, and clouding issues on LCDs will drive you nuts. Try another C7 and see if it is better.
+
+Also, keep in mind that uniformity does improve as the refresh cycles do their thing after every 4 hours of use. My TV has certainly gotten better. Unfortunately there is no perfect TV, especially as you get up to TVs of that size.
+
+Even plasmas, which were known for great uniformity, suffered from horizontal banding when horizontal lines appeared on screen.
+TBH you just took a bunch of clips from Apple's marketing material and shoved it together.
+
+There really isn't much to talk about.
+Yes.
+
+Go to Best Buy and state your case.
+
+There have been many stories of Best Buy being willing to help people out in situations like this.
+Not really the case.
+
+The way HDR is mastered is the content is tone mapped to a specific nit value curve, with a maximum nit value for pure white. The HDR10 spec calls for up to 4000 nit highlights but many content creators don't master to that. 
+
+Anything within the capabilities of the set should display at the nit level intended by creator. It's only what happens outside the capabilities of the display that is up to the TVs internal tone mapping to deal with.
+
+FH3's mapping is just off, they have set midtone values too low.
+I'm in Toronto too, its a lot of money for a case. Expensive impulsive late night buy!
+
+I don't know if cheap was the right word to use, if you have touched a otterbox symmetry then you know the material feel.
+
+
+Decent case overall.
+
+The wood on the back (I close walnut) is very nicely finished with no flaws as far as I can tell. It is also cut out well and is nicely inlay-ed into the case.
+
+The case is comfortable to hold due to only the corners having a raised screen lip.
+
+My main issue (other than the stupid amount of money it cost me in Canada) was that the case materials (hard plastic/TPU) feel cheap. My Spigen Tough Armor feels significantly more premium in the hand.
+
+That said, their material choices probably have a lot to do with how protective the case is so I guess it comes with the territory.
+Anything glass if possible, those always have the type of adhesive I mention.
+
+I haven't tried one personally so I can't suggest a specific product.
+Buy a screen protector, one that has a softer adhesive.
+
+The adhesive will fill the scratch if it isn't too deep and you won't even be able to see it.
+
+There is nothing you can do to the screen itself as you'd ruin the anti-reflective coating on that part of the screen making things much worse.
+It is hit or miss due to the different method of generating the depth map. Rear portrait mode uses parallax while the front uses the dot projector.
+
+You can see the differences using the depth map preview in Focos.
+
+Parallax will give better edges with iffy 3d detail detection while the dot projector will give significantly better 3d detail but will struggle on edges as there just aren't enough dot to give you a nice smooth edge. The phone has to essentially play connect the dots and hope to get it right.
+
+Honestly I think it was just a case of Apple jumping at the chance to implement something because the dot projector afforded them the ability to do so. Just a side benefit.
+
+
+Pretty much.
+
+I get that a lot of these developers are one man armies, but it really shows a lot of laziness.
+HEADLINE: Cute little girl found inside pet snake!
+No one is arguing that there will be one. Thats just the rumour right now.
+
+The argument here is if it is technically possible, and feasible for Apple to do so.
+I just bought one, my wallet cried.
+
+Worth it.
+The lack of production leaks does not rule it out.
+
+The simple fact is this, 120hz OLED displays exist. I own a TV that will do it. The technology is capable of it.
+Go back and read your conversation with that other guy...
+So, to ask that other guys question again.
+
+Link to a tablet released prior to the launch of the 2017 iPad Pros that contained an LCD panel running at 120hz.
+
+If you're trolling, fine. If not, you're a moron.
+So easy to pull a practical joke on these guys. 
+
+Tabasco down the dick tube! It's just a prank bro!
+You're making an appointment to be seen about a battery replacement. That's really the reality of how they operate. 
+Mable. Classic cool!
+Her name IS Mable.
+
+Period.
+18... adult... haha
+But the volume indicator is in my way for half a second!
+
+T. Cook. To the firing line!
+Probably due to the length of the Carrier name.
+
+My carrier is "TELUS" and i've never seen it scroll.
+Its still on the lock screen, in the control centre, and the notification shade. Not exactly gone.
+Their estimate can certainly be a useful metric if the app is legitimate and doesn't farm out for fake reviews. That is the scenario I am referring to.
+They can estimate a perfect world revenue from an app, but we know that isn't what an app like this actually earned. So why even bother with it, their estimate holds no value.
+Close to accurate in the amount the app has generated yes. But they have no way of knowing how much of that was actually earned (true revenue), and how much of it that app developer payed out to the farm that they had purchase the app and review it.
+
+
+Just think of the resale value, still sealed!
+Hey you can leave the phone in it’s box too, that way you don’t scratch the finish.
+
+My point is just enjoy your phone. I’ve had a great plasma tv for 5 years now and I was paranoid as hell when I bought it because of posts on the internet about how easily they burn in. Ruined the first few months of owning the thing. 
+
+Eventually things lose their preciousness and you just start using them. And hey, 5 years on and no burn in. 
+F12, type type type, done
+Or just use the damn phone. Unless you leave the same image statically on the screen for extended periods you won’t have an issue.
+Might want to add Quantum Dots to the backlight list to keep it up to date :)
+Sounds pretty cool but I personally prefer each “ring” to be longer and a bit more complex. 
+
+Would be awesome to hear and extended version. 
+Right handed left pocket. Right pocket is for my wallet. 
+Sigh, $16 import duties and taxes. Over $100 on a case now.
+
+Sure hope its good!
+I see people in uniform relatively frequently on the Toronto Subway system.
+Fire, lots of fire. 
+What about pressing the "i" on that iMessage conversation and turning "Hide Alerts" on?
+I did thanks. Hopefully you get a little kickback from those!
+
+Keep up the great vids man.
+
+-A fellow Torontonian.
+$80 Canadian shipped is pretty expensive.
+
+On Mous' site they say it is made of "TPU, PC & Silicon". Silicon could be glass but they aren't specific.
+Ordered one based on this video.
+
+Shit was expensive!
+
+Question, the included screen protector, how hard is it? I assume it is just a softish plastic protector?
+Certain bugs may be documented, but many are conditional.
+
+Personally my iOS11 experience has been largely issue free on all three devices I've used it on (iPad 10.5", 7 Plus, and X), and I run all the Public Betas. I cannot personally attest to many of the issues people describe, but I don't deny their existence.
+
+High Sierra on the other hand hasn't been great for me.
+Just take it to apple for a replacement.
+
+Clearly the PVD coating on your unit didn't adhere properly.
+It is because generally those are in response to the other end of the attitude spectrum, like the lovely 2227843627 up there.
+
+Just because some vocal users are experiencing issues doesn't make them universal, and visa versa. 
+"Your" data. :P
+Pretty sure thats bread. Yup, bread.
+It's almost as if there is no perfect display tech.
+
+Funny that.
+How's your signal?
+
+Really awful signal can cause pretty severe battery drain.
+
+Also check the usual location services stuff.
+
+One thing that can really help is a "reset all settings".
+
+This will not wipe the phone or anything but you will have to go in and configure all your settings again. If there is something in there causing problems it can fix it.
+It's great that they did a much less sketchy video this time around, I still don't understand the point they are making.
+
+Look at how much effort this took. They had to get an accurate 3D scan of the face, use a high end 3D printer to print the mask, and also have an infrared photo of the persons eyes.
+
+Touch ID took much less effort to fool than that...
+Based on the video from your previous post it is my opinion that you are simply expecting too much out of a cellphone camera. 
+
+Under indoor lighting conditions even professional cameras will produce noisy results. 
+
+The camera in the X is a significant improvement over the 6’s camera, but you need to keep things in context. 
+Not really.
+
+Apple provides the tools to automatically fit your interface to the screen, you do so by setting margins from edges and such.
+
+That way you don't have to totally re-write your UI when apple adds new devices, for example the 10.5" iPad.
+
+Since that game goes to the edges of the screen it clearly used this tool, but didn't give any thought to what would happen if the aspect ratio changed.
+Thats fine. Call it patina instead of wear and people here will totally digg it ;)
+That is how insurance works...
+
+His point is the amount of money people will spend on something you just excrete later that day, not the fact that they physically hand you something.
+It's your headphones, there is no fixing it sorry to say.
+Means your old phone is on a newer version than the iPhone X.
+
+If you're on a Beta on the old phone, setup the new one as a new device, install the beta on it, and then reset the device and try again.
+It means the developers use the Auto Layout APIs when developing their app, but didn't account for a change in screen aspect ratio.
+
+The DEV will need to fix it.
+ 
+That's... one way to edit it.
+
+Really hard to follow that, by the time you focus one something you're already abruptly jumping to the next shot.
+
+When I paused it to take a look at the content it looked quite good though ;)
+My thought is these tests are pointless. No one uses their phones like this.
+
+Android is well known for loading small apps like social media and such faster than iOS, while the opposite is often true for larger apps like photo/video editing software and games.
+
+It really comes down to this, the day to day activities are trivial for pretty much any phone that comes out these days.
+
+What matters most to me is the smoothness of the overall interface, especially scrolling. iPhone generally has that down, my Galaxy s8 certainly doesn't.
+
+I'd be interested in playing with the 5t to see how it compares in that regard, but I only know 1 person with a One Plus phone and it's a One Plus One.
+The spigen's are great for this because of the alignment tabs.
+
+Leave the screen on so that you can see the edge of the screen, line up the protector with the earpiece speaker, and then check the home button alignment.
+
+Once you feel it is properly aligned, lightly allow one side of the protector to touch the screen so it tacks down, then confirm alignment again.
+
+If it isn't perfect then you should be able to untack the protector and try again. If you feel it is perfect, then let it all the way down.
+
+The key is not letting the whole thing stick down until you feel its perfect, if you do getting it back off with the tabs still in place can be tough. That plastic doesn't hold well once removed.
+Used both my protectors using that frame (two different phones) and both were slightly misaligned. Was easier to align manually.
+You sure thats not a hair under the over glass?
+Best bet is to wait until 10PM-12PM and keep checking the online store for stock.
+
+You might get lucky like I did and grab one that way.
+Dude, the adhesive holding the battery is meant to be pulled out by the tabs at the bottom of the battery.
+
+https://www.youtube.com/watch?v=oTSbkG41p2o
+It's a matter of custom code.
+
+The apps implement their own solutions to things like video, so apple has to force the bar to appear to ensure a situation doesn't arise where the bar doesn't appear at all in an app.
+
+The bar should always appear unless intentionally hidden.
+My lord, she had a pretty good night!
+Sigh, think whatever you want. You are entitled to be wrong.
+
+Rub your natural leather case with a white rag and check the color of the rag. Can you guess what is wearing off?
+Real leather products that see very frequent use, such as wallets, keep their colour for years. 
+
+These cases darken in weeks, and darken where you wouldn’t expect them to. 
+
+The dye is simply wearing off. 
+Slow sync flash?
+My god, that was hilarious!
+
+I have never seen that one, and it is oddly relevant haha.
+Unfortunate Canada got the snapdragon this time around. 
+
+I haven’t tried the beta yet, no. Will have to see what’s involved as far as getting enrolled. 
+As others have said you mostly stop noticing it. I think it looks kind of neat to be honest.
+
+Sure you lose a little bit of real estate for videos if you zoom in, but nothing generally happens at the very edge of the frame anyway.
+I own an s8 (snap dragon). The performance is still very inconsistent.
+
+Some times it runs rather smooth, and others it herks and jerks, in the same apps.
+
+I only use that phone for testing our MDM solution I implemented at work and there is barely anything on the phone.
+
+It's a nice phone for sure, but performance is inconsistent. 
+That isn't what table was referring to.
+
+Samsung cranks up the colour saturation system wide to make the whole experience more vibrant, even in cinema mode. Yes, Samsung does tend to do this on photos too, but that is a different issue.
+I think it pretty great. 
+
+Really liking the form factor and the device itself it beautiful. 
+
+My only issue is that there is a bit of dust under my rear camera lens. Doesn’t affect photos but I will be taking it into Apple for a replacement when I can find the time. 
+I don't own an 8, but it's pretty easy to agree with you that you got a lemon.
+
+Get that shit replaced.
+Its just a game... play it and have fun or don't play it at all.
+
+Focus your campaigning efforts on something more important.
+What is wrong with it?
+It is one of those situations where apple is choosing what is "best" haha.
+
+As the others hear have said, zoom in any close and things will start looking pixelated. Apple decided to not enable you to do so to save you from yourself :)
+Millions of phones sold, there are bound to be a few that are defective.
+It is an evolution of the 6-8 line for sure.
+
+But honestly, with that attitude what phone really changes things up?
+
+The S8 is still pretty close to S6 edge for example, would you say it really isn't that different?
+Up until the X the 5s was my favorite.
+
+Gotta say though, the X is much better. It is a gorgeous device.
+
+There isn't one design element on the X that seems out of place (obviously the notch is a point of contention, I personally like it).
+
+The 5S was mostly great too, but those rear glass strips were a bit of a cludge design wise.
+The only time the regular front camera is used is when it is showing you your picture, such as when you setup face ID or are using portrait mode.
+
+The actual FaceID function itself uses the second front camera (IR) in conjunction with the flood illuminator and dot projector.
+How many notifications do you get?
+
+Every time you get one the screen lights up to show you and that adds to the home and lock screen time. 
+Nope. 
+Yes.
+
+The sensor has a 4:3 aspect ratio, so I will never fill the screen until you cut out content.
+I originally ordered the Silver because I thought it looked way better.
+
+But after seeing it in person, the grey one is really elegant. I quite like it.
+I've used them since the 6, and I've never scratched any of them up.
+
+The case won't allow the bottom of your phone to contact a flat surface.
+
+I'm also careful when I put the charging cable in, so no real issues from that either.
+I'm not sure how this phone being a marginally more expensive than their other models would make it infallible. 
+Calculator was just an animation bug.
+I'm honestly not sure what people expected. I totally agree that this is the best phone Apple has made.
+
+That said, I also knew exactly what I was buying before I bought it. I really don't understand those people who were "disappointed" with it and are returning it. You'd think they'd have figured out the pain points before they dropped a grand on it or renewed their contract.
+
+
+
+Ignoring the flaming, Dumbtacular does have a point.
+
+Scrolling in Appolo is absolute butter, while doing the same thing in Narwhal has the stutters mentioned.
+
+Yes there are issues Apple needs to iron out to improve this, but a developer does seem to have a lot of control over it.
+Gotta complain about something.
+Happened to me on the way home actually.
+
+Don't bother with the case, apple has already acknowledged the issue, said its software, and will be patching it.
+When I left for work this morning it was 3 degrees C.
+
+Purposefully used my phone for the approximately 5 minute walk and didn't notice any change in the touch responsiveness.
+
+Those having issues, can you confirm if you do or not not have a screen protector installed?
+
+I do, maybe that helps?
+I honestly think it is a situation between reality and expectations.
+
+Apple rates it between the iPhone 8 and 8 Plus and that feels right to me.
+
+Coming from a 7 Plus I feel I am getting a bit less battery life, but I expected that.
+
+I still end the day at between 40 and 50%, so no complaints here.
+That can't happen.
+
+The phone will not charge itself beyond 100%. There is no way to overcharge it.
+
+The only real fire risk would come from a poorly designed charger. Just use the Apple ones and you'll be fine.
+They are on a yearly schedule.
+
+Like it or lump it, unless the release has something game breaking in it they are going to release it and patch it later.
+It doesn't.
+Yes, I own both phones. The S8 is my work phone, the X is personal.
+
+It comes down to this:
+
+-The iPhones screen is brighter. I've tested then side by side, the iPhone gets much brighter.
+
+-The iPhones screen is colour accurate. As DisplayMate's review said, its indistinguishable from perfect, meaning it's so closet perfect you couldn't tell the difference by eye. Wether you care about this or note is up to you.
+
+-The Note 8s screen is larger and has a higher resolution. Makes sense, its a much larger phone. My personal opinion is that the resolution needlessly high. 1440p on a phone is a waste, you can't see it unless you stick the phone 5 inches from your face. Consider it a positive if you wish, but note Samsung sets display resolution down to 1080p unless you set the phone to high performance mode or change it manually. Funny that.
+
+-Samsung sets the Note 8 colours saturation way up, giving bright vibrant colours. If you like this fine, but its not "correct". You can enable Cinema mode on the screen to help tone then down but it still won't be as accurate as the iPhone.
+
+-No one here can tell you exactly what Apple's requirements and input were as far as the design and manufacture of the Display. It is already known that their software implementation for the display is superior to Samsung's, hence the praise for the colour accuracy as a lot of it comes down to the colour management pipeline in iOS.
+I own an s8 if that counts for anything ;)
+
+And no I don’t get your point, as you continue to spew nonsense and false facts. You’ve disproved nothing. 
+Not sure why you posted this....
+
+So Toms Hardware likes a larger screen? So what? What does that have to do with this conversation.
+It's not.
+
+You need to do some research on what a properly calibrated, colour accurate display is.
+Usage is not screen on time.
+You really need to check your facts.
+
+1. The Note 8 has a 60hz panel, just like pretty much every other phone.
+
+2. While the Note 8's screen has a higher peak brightness, this is only when it is lighting up 1% of the screen. When lighting up the entire screen, the X's display is almost 50% brighter than the Note 8's display.
+
+3. The colour accuracy of the X's display has NOTHING TO DO WITH TRUETONE. You need to forget about that tech, having it enabled technically decreases it's colour accuracy by change the white point of the screen to match your environment. Perfect colour has a fixed whitepoint.
+
+4. You really need to look up the definition of designing something.
+Go read DisplayMate’s review of the screen for more information. 
+
+The X’s screen is the best mobile screen they have ever tested. Resolution had nothing to do with that assessment. 
+
+> The iPhone X matches or sets new Smartphone display performance records for:
+>  
+> ·  Highest Absolute Color Accuracy for any display  (0.9 JNCD) which is Visually Indistinguishable From Perfect.
+>  
+> ·  Highest Full Screen Brightness for OLED Smartphones  (634 nits).
+>  
+> ·  Highest Full Screen Contrast Rating in Ambient Light  (141).
+>  
+> ·  Highest Contrast Ratio  (Infinite).
+>  
+> ·  Lowest Screen Reflectance  (4.5 percent).
+>  
+> ·  Smallest Brightness Variation with Viewing Angle  (22 percent).
+
+The screen was customized to Apple’s specifications, that is all we know. That can mean different things, it can mean specific alterations to the core design of the display, or it could simply mean the screen needs to be a certain shape for example. 
+
+Would have been nice for sure. 
+This guy is very biased against Apple.
+
+Every. Single. Video. He takes a dig at Apple in some way.
+
+When he tests and Android phone that has the same negative as Apple does, he will take the opportunity to dig at Apple again rather than the phone he has in his hands.
+
+I like his content overall, but that gets really annoying. 
+Overall its very smooth.
+
+But at the end of the day, it is a brand new device on an already buggy OS release.
+
+Apple will largely get everything ironed out, they just need more time.
+You are clueless. The more you talk the deeper a hole you are digging yourself into.
+You expect FaceID to recognize your face while it is covered by a mask?
+Beets*
+And these are the type of people you want life to teach a bit of a lesson.
+Gave me a chuckle during my morning coffee at work ;)
+
+Study up. 
+
+
+From what I've read Apple did this deliberately.
+
+They made it a little more annoying to do to discourage doing it as it can actually increase the drain on your battery.
+
+ 
+They do that by design to get you the latest content.
+
+That's not iOS, thats the app doing it.
+Where did I say it made a screen indestructible?
+
+It can prevent the breaking of a screen in the event of a drop.
+
+Keep your delusion that it provides no benefit, you’re entitled to be wrong. 
+Who knows. They still haven’t updated their apps for the 10.5” ipad either and it’s been out for months. 
+
+Really annoying. 
+Nah, I work in IT.
+
+It's just keyboards/mice and general electronic hardware all day.
+The back glass has a oleophobic coating to make finger printers easier to clean off. Doing any kind of scratch repair will remove this coating, and I bet change the appearance of the back because of it.
+
+Honestly it's best to just live with it.
+
+You could cover it with a rear protector of some type. The adhesive on those will generally fill in scratches so you wouldn't really be able to see them.
+The fact that so many people bought one would seem to contradict that.
+
+It is worth what people are willing to pay :)
+I really wish people would stop using Antutu, its result vary WILDLY.
+
+For example in the video their iPhone X scored 150k, last night I tried it on mine and I got over 210k.
+
+Please tech reviewers that are not reading this comment, STOP USING ANTUTU.
+
+Cheers.
+Haha, ok dude. Keep thinking that.
+
+I hear the earth is flat, are you a member of that society too?
+Sigh, sometimes it's hard to resist the hope that people will see reality.
+
+In the end you are right.
+If it's glass then it will only have adhesive on the edges of that protector, ruining the screen quality and allowing dust underneath over time.
+They add protection, just like the cover glass adds protection to the screen underneath. To say otherwise is just ignorant.
+
+Think about it this way, you have an LCD laminated to the cover glass. You drop you phone, and the cover glass shatters but the LCD underneath stays intact. Happens ALL the time. I'd wager that 90% of people walking around with shattered screens have only shattered their cover glass. How is that any different than having a screen glass screen protector adhered to the cover glass? It serves the same purpose.
+
+No one is claiming they will make a screen indestructible, but it is a reality that they very much can protect a screen from shattering in a fall. Say your phone falls and lands screen down on pavement, and there is a pebble in between the screen and the pavement. This is a pretty much guaranteed screen shatter scenario, it's like their kryptonite.
+
+A screen protector can very well save the screen underneath in that situation, and that is far from the only situation they provide extra protection.
+
+Yes.
+
+But what tipped me off was I happened to find this site and it showed stock in one of my local malls.
+
+https://www.istocknow.com/live/#device.0=iphone&type.0=X&brands=1%2C27%2C26%2C11&lowzoom=0&position=43.29599281662429%2C%20-73.50076713534496&zoom=4
+Keep thinking that buddy.
+With, can't see the phone all that well without them ;)
+Just tried with my glasses off and it didn't seem to care.
+The function of the sensor itself is fine, it's just that oils from my fingers build up on it and become very hard to clean off. Until you clean these off the sensor will no longer sense my fingerprint.
+
+Really frustrating. Maybe my skin oils are sticker than many, who knows.
+One thing I would like to mention about Touch ID. Every iPhone I’ve owned with it has had the same issue, and that is after about 6 months the oleophobic coating on the home button wears off and I clean the sensor multiple times per day to keep it working.
+
+The idea that Face ID won’t deteriorate like that is pretty awesome. 
+Bought that one too and even though the protector was fully aligned in the frame it still wasn't quite right.
+
+Easy good enough installation but I really think a simple set of "wings" on the of the protector for manual alignment makes it easier to get it perfect.
+I am one of those people. 
+
+After getting a 2-3 week result on my preorder and still with no update on my shipping time I decided to try and snag a phone in store. 
+
+Late last night I decided to check store stock and a few locations near me had stock (they didn’t earlier that night).
+
+So I chose my closest location and tried to order, but I had issues with Apple Pay on my laptop and that model went out of stock. So in a panic I chose another location that still had it and ordered. 
+
+Turns out that mall was a real pain in the butt for me to get to so I checked again but in a different colour. Managed to get space grey at the first mall I tried, easy for me to get to. 
+
+I now had two reservations at two different malls. As I ordered late at night I had no confirmation from the stores that my ordered would really be ready for me so I decided to leave both active. The first pickup was 10am this morning the second at 1pm. 
+
+Went to the first store for 10am and they had my phone ready. So when I got home I canceled the second reservation (which was ready for pickup). 
+
+Hopefully someone else who was having trouble getting one managed to get that one. 
+You're missing that some people don't understand how physics works. Let them be stupid.
+I keep my pair of the lightning EarPods in my work bag incase I forget my AirPods or otherwise can't use them, and I keep them in one of these older cases.
+
+All I did was cut a notch out of the case for the lightning connector to hang out of. Makes putting them away faster too because you don't have to wrap them perfectly for the connector to be in the right spot.
+So do scratches and shattered screens, but those can't be fixed for $5.
+Yes. It’s a very exact fit. 
+Sure, here is the one I just installed, from Anker. 
+
+https://imgur.com/a/Buolb
+Maybe he didn't notice or read the sign.....
+To be at least a bit fair they do look pretty similar. Put the dude on the rights hair on the guy in te left and it helps highlight this..
+
+https://i.imgur.com/dvTHpRb.jpg
+The 7 is fully capable of this.
+
+The 8 and X are just a bit better.
+Yes I do. And the one on the right has had the dye (paint) wear off revealing the dark, thin leather beneath. 
+
+You'll notice in most cases the phone case is dark all around, I don't know about you but I don't touch the top edge of my phone very much. If it was natural aging you would expect it to darken mostly in the areas you directly touch most often as it absorbs oils from your hands. But that's not how the apple cases age, they darken all over as the dye is worn off by being placed in pockets many times per day. 
+
+It's super thin dyed leather, nothing else can be expected.
+People gotta stop thinking this is aging. 
+
+The dye is wearing off. Simple as that.
+Because it wouldn't really make much sense to through all the effort of making the basically bezel-less display only to take up half an inch of it with on screen buttons.
+
+Their solution at least leaves that screen real estate usable as the home wipe indicator thingy is not a button and can be above content. 
+Honestly the higher refresh rate makes the most sense on mobile devices.
+
+Having that 1:1 touch response makes a big difference in the feel of the device.
+
+Didn't really care about it until I tried it, the difference more than noticeable.
+What manufactures are trying for right now is to integrate the finger print scanner under (inside) the screen. 
+
+If my memory isn’t failing me I believe they use some form of ultra sound to do it. 
+A few do, it’s up to the devs to implement. 
+The X is slightly wider.
+My anker karapax tempered glass was delivered today. Too bad my delivery isn't till late November :(
+
+Either way, the two protectors inside seems of decent quality.
+
+The real selling point for me was the alignment tool, seems to be a really good design.
+
+Will see when my phone is delivered.
+
+I ended up ordering a White silicone case.
+
+I have both a silicone and leather case for my 7 plus and I find myself using the silicone more often because it just feels nicer.
+
+The leather is great at first, but it loses it's softness over time and any of the coloured ones will look like crap after a few months.
+
+People around here act like it is aging but thats just not true, the dye is wearing off.
+
+If you're going leather, I highly recommend going black. The colour will hold up.
+Displaying a largely static screen is trivial and will be handled almost entirely by the GPU anyway.
+Hmm, I stand corrected.
+It's not a graphics benchmark, display resolution is irrelevant.
+Pretty sure that is fake.
+
+No way would apple put a date on the front of their box, it would just be the wallpaper.
+Let's just put it this way, it is there to protect your phone incase something unfortunate happens, not to be be an underwater camera.
+
+It may well survive in the situations you mention, but you're risking it for sure.
+As others have stated, the Apple return policy is the try before you buy :)
+
+If I could walk into a store on the 3rd, play with it, decide if I like it, and walk out with one I would, but it will take months to get one if you don't pre-order.
+I never claimed anything was done on purpose.
+
+I'm not the dude you've been telling to fuck off ;)
+Lets be real here, updates do slow down older phones. Updates add features and new code that doesn't run as fast on the older hardware as on the new. Take predictive typing for example, ran great on new phones when apple introduced it but could slow down typing to a crawl on older devices. They just didn't have the processing power to do it fast enough.
+
+Someone running an iPhone 5S is having a slower experience now than they were when they first bought it. They will encounter more stutters and increased loading times.
+
+Many benchmarks don't reflect that because apps as Geekbench and many Graphics benchmarks run at the same speed as they always have. But some apps have gotten heavier than they used to be an will slow down.
+
+It's not a matter of being a conspiracy, or planned obsolesce, its just a matter of code being written for more cutting edge hardware, slower hardware be damned.
+That kind of tone is what rubs people the wrong way. 
+
+Could have said you didn’t like the design, but instead it’s hideous. 
+
+
+Should Samsung put in a superior SoC i'm sure no one will gloat about it at all. Only apple users do that.
+And Android users don't do the same?
+Basically just google.
+
+For me, Maps and Hangouts....
+
+I can't believe it's taken them this long to add support.
+KOTOR, always KOTOR.
+
+The Witness
+HDR really isn't image stacking, it is using the data from multiple photos of different exposures to expand the amount of data available for a particular pixel of an image, expanding the overall dynamic range of the capture. It's very handy in shots where there are shadows and sky for example but can also really hurt images if not handled properly by making them look very unrealistic.
+
+Image stacking is what Google is doing with HDR+ (pretty sure the iPhone 8 and 10 are doing it much more heavily now too), stacking multiple images together and averaging the value of a pixel to do things like eliminate noise and increase detail. For small sensors it is really the only way to go from here as the tiny sensors in these phones really aren't very good.
+
+At the end of the day, Apple and Google are doing the exact same thing, Google is just being more heavy handed with it and each company clearly have different metering targets.
+Except that Apple is now doing the same thing by default on the iPhone 8's by auto-enabling HDR the same way Google does.
+From my point of view the Pixel is superior in most cases for one simple reason, you can’t (for the most part) recover detail in blown highlights. 
+
+It errs on the the side of under exposure to protect against it, making many photos under exposed. You can then easily bring up the highlights in post.
+
+What I really don’t understand is why phone makers don’t build in preferences for metering settings in their built in apps. 
+
+Allow you to set exposure compensation permanently to adjust shots to your preferences. The exposure slider they give you is nice but annoying to do every shot and is pretty much useless outside when you can barely see the screen. 
+There is a big difference between preferring certain qualities in the technical aspects of a photo and being predisposed to the brand that took said photo.
+These articles should show the photos blind and only let you know at the end of the article which one is which. 
+
+Too many biased comments here. 
+Being in IT, I spend most days pouring through logs to figure out how to fix stupid issues like the ones people complain about here. It's no different an issue, on the phones you just don't have the ability to pour through logs and troubleshoot the issues. You reset the phone to a known good state and put your shit back on.
+
+Same shit, different dress.
+PornHub and YouPorn were tested only for science of course. Right.... right?
+No...
+http://www.nationalgeographic.com/content/dam/photography/rights-exempt/best-of-photo-of-the-day/2017/animals/07_pod-best-animals.adapt.1900.1.jpg
+[Emma Auditore Da Firenze](https://imgur.com/a/E1bHv)
+I own both the Airpods and the Beats X, and I find they each have their best use scenarios.
+
+Most of my headphone use is on the way to and from work, and while the Isolation of the Beats was great, it could make things difficult when there were announcements on the subway for example. Also caused an issue at work as people would be yelling at me and I couldn't even hear them haha.
+
+The AirPods solved those issues, while being way more comfortable to wear for me due to the fact that I don't find headphones being jammed into my head comfortable, and the behind the neck wire on the beats is oddly long and really gets in the way. I originally bought the beats due to their longer battery life but that actually turned out to be more annoying and while the AirPods have less battery life, they charge on their own in the case where I put them anyway, while the Beats I had to intentionally charge every couple days.
+
+That said, when isolation is desired, the beats have that going for them as well as more bass since they are sealed. I do find the sound from them to be rather muffled though due to a lacking high end. Also, having play/pause/volume on the wire is something I really miss.
+
+At the end of the day, for me, you cant beat the inconvenience of the air pods. Beats are pretty decent though!
+You mean “Couldn’t be happier”?
+
+Just checking, I know that Keyboard is small ;)
+It’s just indexing bro, INDEXING!
+Look at the flash, bottom half should be yellow.
+This was an entertaining read, thanks guys :)
+
+@mynamesnotmolly
+
+Try "reset all settings" in general>reset and see if it helps, if it doesn't just give it the old "erase all content and settings".
+
+I'd be very surprised if that didn't resolve your issue, as much of a PITA as it is to do.
+And has a NIC many times faster than the fastest you can get (10Gb)
+I have never seen that severe stutter when loading. 
+
+I’d say it is a third party widget that is misbehaving. 
+Honestly the iPad Pro 9.7" was never smooth to begin with.
+
+Had one for about 6 months, and even new it was never as smooth as it should have been. The Air 2 operated smoother.
+
+Was no surprise that 11 made it even worse.
+Not being a Smartass but settings has a search feature. 
+
+If you’re looking for something just search it. 
+Metal pins on metal pads. It’s going to scratch. 
+No, no it is not.
+Honestly not the worst rapping i've heard.
+
+I'm disappointed.
+For those complaining of battery issues, do a "Reset All Settings".
+
+A bit of a pain to have to configure all your settings again, but your apps and data all remain untouched, but performance on my 7 Plus has noticeably increased, and so has my battery life.
+
+Not sure what performance issues people are seeing on the 10.5", I've been using iOS 11 on mine since the first public beta and it has always been very snappy and smooth.
+
+Bugs of course were encountered but most got resolved before the GM.
+If you like puzzles, get the witness. 
+
+Many hours of challenging puzzles in that one. 
+
+What I like best is how the game has no tutorial. As you explore the open island you’ll find lots of puzzles you don’t understand how to solve yet, but eventually you’ll find a series of puzzles that will teach you the rules of a particular symbol. No text explaining things, no voice over, just increasingly harder versions of the puzzles to teach you the ropes. 
+But every single person who visits this site has seen everything posted, ever.
+
+Didn't you know?
+People want larger apertures for better lower light performance, so this is what you get.
+
+Lenses aren't magic, they need a certain amount of space.
+
+
+I've had both of the new Pro's, and neither had any dead pixels.
+Pretty cool!
+
+Tried it out and it seems to do the job pretty well.
+
+1 small issue I encountered is that after the filter processing finishes and the animation plays to imitate the polaroid coming out of the camera, the white boarder was misaligned with the photo itself during the animation. Was fine once the animations completed.
+
+7 Plus on iOS 11.
+
+I can take a video if it would be helpful.
+
+Great work!
+https://urbanarmorgear.com/products/ipad-pro-10-5-2017-cases
+I haven't argued that it shouldn't be changed, I am arguing that this isn't worth the amount time people waste whining about it.
+It's not an opinion. Having a volume indicator in the middle of the screen for a second is trivial.
+
+People may want it changed, but that doesn't make the issue non-trivial.
+
+This issue simply isn't worth the outcry.
+It is objectively a trivial issue and does not warrant this level vitriol.
+Yet the setting still exists. Funny that. 
+It also depends on which version you had before iOS 11.
+
+If you weren't running 10.3 then you are also gaining the benefits of a new file system that supports things like file cloning, which can save a lot of space by saving only 1 copy of a file that may be used in many different places.
+The GM is the same build.
+
+People like myself who ran the GM won't even get the update, because its the same thing.
+Never could really figure out why they don't allow for more than two taps in a gesture.
+
+It may be a bit fiddley, but they already use a triple press on the play/pause button on wired headsets to go back a track for example.
+The issue is the phone is often in your pocket, so you can't really rely on it.
+
+And while the AirPods have a built in mic, its really chews through the battery so again really can't be used for this kind of always on function.
+
+Maybe in a revision or two.
+It is very much intentional.
+
+They mention the change in their release notes for the Betas.
+It seems people totally forget that the settings app has a search feature.
+10 years, 11 revisions later people continue to whine about this trivial issue.
+They have to support it. Apps that worked in iOS 10 will work in 11.
+
+I'm sure they are some customization they need to make to be 100% compatible.
+The spec wants the panels to get extremely bright.
+
+No set out there can meet the spec yet, but OLEDs are even further behind. The ideal set needs both deep blacks and extremely bright whites.
+
+I think mLED sets are going to be the ones to hit the mark.
+Because it can get bright enough (not really, but does squeak in there), and it can support the colour space needed.
+
+Fails at the contrast bit.
+Then that movie doesn't have it.
+
+It will either say HDR or Dolby Vision.
+As I said originally, the deeper black level of OLED TVs is great, but a big part of the HDR experience is peak brightness.
+
+Ideally, the spec wants 4000 nits for the brightest part of an image, say the sun, but no TV right now can product anywhere near that.
+
+What we are left with is a choice, better contrast ratio (OLED), or brighter peak brightness (LED/Quantum Dot).
+
+Take your pick, but neither is superior to achieving the goal.
+
+If OLED could match the brightness of the LED/Quantum Dot sets, it would be a hands down winner. 
+Pretty much the same, but with flappier heads.
+
+As is tradition.
+Sigh,
+
+My response to that is in my first comment. Agree or not, my point is there.
+>HDR is best achieved on OLED screens like the iPhone X
+
+I said that isn't the case.
+Just because I love the movie, The Martian has an HDR version on iTunes.
+That is not really fully true.
+
+While super low black levels are great, part of HDR is a massive peak brightness, that right now LED sets are only able to reach.
+
+Each tech has its strength and weakness for HDR.
+It's pretty simple.
+
+The reason they could absorb this cost is exactly the reason they won't do it.
+
+They didn't become as valuable as they have by giving things away for free.
+On an Apple sub-reddit, complains people here like Apple.
+
+Don't go to the S8 sub-reddit, you might find too many people there that like their phone.
+It can certainly be used as a replacement for your W10.
+
+There are plenty of apps with optimized versions of their apps, but that will really depend on what you consider optimized.
+
+Many apps for example will give you extra panes in the interface, separating categories from content for example.
+
+As for multitasking, with the new pros you can run two apps, side by side to each other, with a third that you can bring in and move to either the left or right side of the screen. 
+
+Certain apps will also allow you to pop their video out into a movable, scalable box that you can move to the different corners of your screen for viewing.
+It’s all there. 
+
+Only thing I’ve noticed is you can only have two live apps, not 3 like the new pros. 
+Which will be in short supply too ;)
+
+They can barely make enough (or arguably can't) right now to meet demand, so no chance they would include it as a pack in.
+Or Scot’s and other Scot’s. Damn Scot’s. They ruined Scotland!
+What is the point of that.
+
+If you use the adapter you still need to carry around a lightning cable to charge with, even if you've strapped it to the top of the pencil.
+
+Just keep the adapter in your wallet/purse and be done with it.
+When the pins make contact with the pads on the iPad they leave marks scratched into the pads.
+
+Are you seeing these and are they all pretty centered?
+Customer Service Code.
+
+I changed mine back when Nougat was being released to get the update before my slow carrier released it.
+I too have seen Book of Mormon.
+
+I HAVE MAGGOTS IN MY SCROTUM!!! 
+
+-Edit
+
+Ouch, all aboard the downvote train.
+See if you can change your carrier code to another and see if it will pull down the update. You can then change it back.
+It's not.
+
+It can only use two of the four cores at any one time.
+
+You're never going to get more performance than the two Large cores can provide.
+Better get used to it. 
+
+Can’t go to Samsung, they use it too. Can’t buy many Windows laptops as they have IR cameras for windows hello. 
+
+
+Exactly,
+
+Remember, the iPhone 7's don't have a home button. It is a sensor.
+
+You use other physical buttons in it's place for hard resets.
+Will likely be a minor upgrade. Based on what is going on in the rest of the space advancements have been minor.
+
+My guess is it remains dual core, all models will come with 3GB of ram, and we will see maybe 10-15% better CPU scores and maybe 20-25% GPU.
+
+Rumor is Apple will include a secondary CPU on the main board for AI processing, ie on device machine learning.
+I have a late 2013 15" and use the default most of the time.
+
+1680x1050 equiv when I need more space.
+
+The 1920x1200 just pushed the system too hard to be used everyday, hardware just isn't up to it.
+Potentially apple.
+
+You say you need a new pair, so I assume an existing pair has gone bad?
+
+Take it to the Genius bar and see if you can get a replacement pair.
+
+I've done it before, one side started going bad and they replaced it for me for free.
+It is because of the cord, as I said in my comment. 
+Yes, the cord in most cases is what does it.
+
+That said, if the Earpods are not comfortable to you, the Airpods won't be either.
+I'd argue that it was to ensure the reliable performance of all 3 apps due to the new iPad Pro's having three cores, but the Air 2 has 3 as well.
+
+That said, I doubt they would want the Air 2 to be able to have a feature the Original Pros don't.
+
+Who knows.
+Some of the more expensive brands will use genuine gorilla glass.
+
+More expensive ones can also have superior oleophobic coatings applied. 
+
+Some of the really cheap ones don’t have any coatings at all, those suck.  
+I would not recommend getting the 9.7" pro now, not unless you are getting a really good deal.
+
+The 10.5" is better in almost every aspect.
+
+
+
+
+Makes sense. From video I’ve seen of that case the fit is very tight. 
+Vertical position on the stand is a nice feature though!
+Link?
+
+Quit standing around and go save Zelda!
+There are pros and cons to each implementation. 
+
+Pre ios11 scrolling is more accurate and better for reading material, but it take more finger movements and is slow to jump around pages. 
+
+Ios11 is much faster to scroll down to the bottom of a long page, and takes less work to do so. But is less accurate because of it. 
+
+I personally prefer the new scrolling, if only because pretty much every other device does it that way. 
+Hoping this resolves the notifications bug.
+
+On Beta 6, for me at least, they appear for a second on the lock screen and then disappear.
+Any wrestling fans about?
+
+[The Greatest Strowman](https://lh3.googleusercontent.com/-B3TXIysA2Wc/WaTC74pIvAI/AAAAAAAAUus/-MQjYzQ_L50O_QI_bxVaXpmlYc9raQR0wCK8BGAs/s512/2017-08-28.jpg)
+My issue is that they don't age like real full grain leather, the paint just wears off.
+
+It looks similar from far, but close up it really just looks worn.
+
+Too bad.
+[UAG Metro](https://urbanarmorgear.com/collections/ipad-pro-cases/products/ipad-pro-10-5-2017-cases)
+
+Decent protection, pencil holder, removable cover, and Smart Keyboard compatible. 
+
+Does the job. 
+Wow, I thought of that scene but totally forgot he had that actual mustache!
+
+[It's beautiful!](https://vignette3.wikia.nocookie.net/theoffice/images/2/29/BranchWars.jpg/revision/latest?cb=20071103212728)
+Can never take Steve Carell seriously with facial hair.
+
+Looks like he is Michael Scott trying to sneak back into Dunder Mifflen after creating his rival paper company!
+Worked fine for me. 
+
+[Screenshot](https://imgur.com/a/uIpIK)
+I will try my pair using my iPad tonight and confirm.
+Have you paired it to another apple device you own?
+
+You only do it on one device, it then pairs itself to any other device on your account.
+The pairing process is a one time thing.
+
+The AirPods have an added feature where you can pop the lid up with AirPods inserted to check the battery status of the AirPods and the charging case.
+
+On the beats X, when they have never been paired to your devices the pop up will show up the first time they are turned on. Once you pair you won't see it again.
+Crabpeople, Crabpeople. 
+That is one pug fugly case.
+They've made it this far :P
+Yay!
+Just go to the MacBook Pro buy page, hit the "select" button on one of the non-touchbar models, and then you will see the different config options on the right hand side (on a non-mobile browser). 
+https://www.apple.com/ca/shop/buy-mac/macbook-pro?product=Z0UK9LL/A&step=config
+TB3 is just as buggy on the Windows side. We use TB3 docks at work with Dell laptops and they are constantly having issues.
+
+I don't think the tech is ready yet.
+I'd wager that apple doesn't do this because it could potentially be a rather extensive dataset to search through, especially if you retain conversations for long periods of time.
+Seems to me if you're searching your purchased you can just search the main store. The app you are looking for will appear either way.
+Check out the UAG case. Has a removable front cover and the rear case has a cutout for the Smart Keyboard. 
+The latest beta has largely addressed that issue.
+What a wonderful man.
+Hyperbole?
+
+The hinge for the kickstand the Surface Pro uses to allow for its Type cover is quite a bit thicker than the iPad Pro.
+
+[Hinge](http://4.bp.blogspot.com/-R36AJhAHfMs/U8KBoF7Nb5I/AAAAAAAAA_k/EK0Eg2qoisw/s1600/WP_20140704_017.jpg)
+Apple really couldn't have used Microsoft's solution.
+
+The thickness of the hinge alone on the Surface Pros is thicker than the entire iPad Pro.
+What OS version are you running?
+
+I don't use the applications you mention so I can't comment on that but as for memory management the short answer is you do not have any control.
+
+You can clear out memory by swiping apps away but that is about it.
+I'm sorry, but that would make things very confusing for the Australians.
+Half youtube, half reddit. The perfect time wasting setup :P
+I don't find them great, but they are pretty loud for a phone.
+Not only that, but the adhesive acts the same way as the lamination in the screen itself.
+
+In effect it just thickens the coverglass, it does not add a air gap like a non-laminated display.
+Never need fire insurance until your house burns down :P
+
+It's just that, insurance.
+Thats great in theory, but I personally have not every gotten a scratch where I knew the cause. And I baby the hell out of my phones, never drop em, never put them face down, never put them in a pocket with anything else in it.
+Might be me! Haha
+I can confirm the 10.5” keyboard works fine with the 9.7” iPad, so I imagine it would work the other way around. 
+
+Can’t test it though, sorry. 
+Apples stores have a no questions asked return policy. 
+
+You can say you don’t want it because the moon was the wrong shade of grey last night and they would still take it back. 
+Except it's less than that because the iPad does not use a 16:9 aspect ratio.
+
+If you watch regular video content (16:9) on the 12.9" Pro you are getting 1537p.
+Been using it for the whole time I’ve had my 10.5.
+
+Works fine, some just occasional minor bugs. 
+The iPad Pro 10.5" has a resolution of 2224x1668, which is a 4:3 aspect ratio.
+
+The best equivalents I can give are the following:
+
+**The resolution of 720p and 1080p are 1280x720 and 1920x1080 respectively**
+
+1. Theoretically if the 10.5" iPad was stretched out to a 16:9 aspect ratio to match that of 720p and 1080p then it would have a resolution of 2965x1668, or 1668p to match terminology.
+
+2. If you watch 16:9 content on the 10.5" inch iPad then you effectively get a resolution of 2224x1251, so 1251p. So in between 1080p and 1440p.
+
+Hope this helps.
+It was too big for me to comfortably hold in bed.
+
+Was great on a tablet stand on my bedside table though.
+There is a gap where the keyboard folds that creates that line. 
+
+Normal. 
+Yes. Too big for long term holding. Great for on table though. 
+
+10.5 is the perfect compromise. 
+The glow was obnoxious.
+
+Glad to see it gone.
+Screen jumps after the 5 were not highlighted, even though size and resolution increased again. Doesn't even list the plus models screen size/rez.
+
+Things full of errors.
+What a goofie looking dude!
+
+Is he part Bull, part Pit?
+Prob an ostrich egg.
+Thanks for the response. I’ll give the power cycle a shot. 
+
+Unfortunately no warranty replacement for me, console is a day one edition. 
+The fact that your phone has to be in a perfect spot to charge makes "wireless" charging a no go for me. 
+
+I had one for my Galaxy s7 and I charged it on my bed side table (you know, so I can check it during the night if I have to) and if I ever accidentally hit that table in my sleep the phone would move off the sweet spot and I'd wake up to a uncharged phone.
+
+The tech really just isn't very useful to me.
+
+The only reason I like having it there is as a redundant way to charge it should the charging port fail. Thats a nice feature.
+Their construction is the same, but the unibody is thinner.
+
+Don't expect them to take as much abuse as the older thicker models.
+It's possible, but the app's UI is just poorly done.
+
+Even my new 10.5" ipad stutters a bit when scrolling through the comments.
+They are made of a thin aluminium shell, and covered in glass. 
+
+Drop it and they very well may break. Be careful with them and they likely won't.
+
+Pretty much all there is to it.
+The youtube app is awful with that. It's not just you.
+ Make sure to have the alerted guard sound too then.
+The codec sound? Don't be that guy.
+
+Everyone in college was that guy.
+Which is why the counter will register 1 cycle when 100% of the capacity has been drained and then refilled, so if you drain it down to 80% 5 times it will count as 1 cycle. Roughly anyway. 
+As MrEdgarP said, twitch supports background audio playback.
+
+Checks twitch settings to see if there is an option to disable this (i dont use twitch so I dont know).
+
+If you can't disable it then you will need to manually pause or stop the stream before you put your iPad to sleep, or you will need to mute the system volume.
+That entirely depends on the number of cycles you have on the battery.
+
+If you have 50, then there might be an issue.
+
+If it's 350, then its not abnormal.
+It works, though its obviously too large. 
+
+Sleep/wake doesn't work either as the magnets don't align.
+I seem to remember apple opening it up for system use in one of the io10 updates.
+[This](http://i3.kym-cdn.com/photos/images/newsfeed/001/016/674/802.jpg) is you.
+Tell me about it. 
+
+Bought a 9.7" Pro in January, now I own a 10.5. 
+
+My wallet hates me but the 10.5 is a big step up. 
+Not only that but people forget that things were actually slower back then. 
+
+They remember that device being really fast, but now see them for what they really were. 
+I did not. All devices I own that are connected to icloud had them as an option.
+Sit down and finish your Ketchup Chips. 
+
+Mmmmm ketchup chips.....
+
+Love from TO
+I only tried the first beta on my 9.7" pro, and the interface was quite laggy overall. Really not a smooth experience.
+
+On my 10.5" though, I noticed that Beta 2 felt smoother, so maybe things have improved overall on the 9.7". I'm keeping an eye on it.
+
+Battery life is hard to comment on, its a beta after all.
+Considering the iphone 7 is less than a year old, it means you are still within the warranty period. Get Apple to deal with it.
+I think the issue is more along the lines of the apps you use being more a front end to a whole back end system that is interconnected throughout the OS.
+
+Meaning they can't update certain apps without breaking compatibility with others. So they are all updated at once in a situation where they all HAVE to update at the same time, ie a OS update. Not piecemeal through the app store.
+
+Just a guess.
+
+
+> Google S7 water resistance
+
+Woah woah, it was a joke bro.
+
+Sit back, relax, have a margarita.
+
+Really slamming the media here.
+
+Sounding a bit like a trump speech ;)
+Test other headphones?
+
+Could be your hearing.
+Oxenfree has been pretty cool, and also as has been mentioned the room 1-3 are amazing. 
+
+Knights of the Old Republic is an amazing game, play it if you haven't before. Or play it again!
+Never used enlight but I can pretty much guarantee you yes. 
+Filled out, look forward to seeing your results.
+$20 is extremely cheap for what you are getting with Affinity.
+I've heard that. 
+
+Frankly, the case is just a TPU condom, just like any other case. The finish on some iPhone 7s have issues. 
+Spigen liquid air might fit the bill.
+
+https://www.spigen.com/collections/iphone-7-plus/products/iphone-7-plus-case-liquid-air?variant=21599788865
+That seems to be the case. Good catch.
+Only one I have come across on my 10.5" is hangouts.
+We can agree that he just likes to whine in general then. 
+Anything with port covers.
+
+If you want to go all out get a waterproof case like a Lifeproof.
+
+If water can't get in, then neither can dust.
+Don't listen to them, if you want one get one.
+
+They have plenty capable hardware and have amazing displays.
+
+Just because it doesn't have a GTX 1080 in it doesn't mean its shit. Not everything is meant for gaming. If that's what you want to do, then yes, get a gaming PC.
+General response, not directed directly at you hockeymass. Louis R is a butt hurt repair tech that does nothing more than whine about Apple. If you want to see a grown man cry feel free :P
+
+The GPU failures mentioned were due to bad GPUs, not inferior quality on apples part. You can argue that if Apple had included beefier cooling it wouldn't have been as wide spread, which is fair, but Apple runs those chips within their rated TDP.
+The cover glass is quite flexible, it flexes when you put pressure on it.
+
+Not abnormal, especially on a 12.9.
+Ssspspspspspspspspsps
+It really isn't whining, the position of the scanner is annoying to reach, and when you do your finger is often not in the perfect position to take a proper scan.
+
+It really should be in the middle of the phone like every other rear fingerprint sensor, those work. 
+Mine still works, 10 years later. It was relegated to a file server for a few years and now just sits in a closet.
+
+Should bust it out again.
+The issue is this is a tablet.
+
+Those 7 Lb laptops (I kind of miss my old Dell Inspiron 9400) sat on a table top, or maybe your laptop (sayonara testitcles, ehh boys?). They weren't held in your arms for long periods of time.
+
+I find anything over a LB (12.9" pro, Surface Pro, etc etc) are just too heavy to be comfortably held for extended periods of time, which is personally why I buy a tablet.
+
+On a desk though, 12.9" no question.
+
+I've looked for the same thing, and while the ipad has the needed brightness to do it I don't think Apple has implemented a way to actually decode the content.
+
+Hopefully when ios11 is actually released.
+I honestly think it is the new, much better anti-reflective coating.
+
+I think fingerprints reflect back some light, and since the anti-reflective coating is so good there is more contrast between the two making them stand out. The older iPads didn't have nearly as good of a coating.
+I totally would, but that thing is expensive for something I would almost never use.
+
+Grabbing a USB power supply and lightning cable is pretty much as much work as grabbing the power supply and the powered hub :P
+
+I also really don’t need the USB3 speeds for anything.
+
+Only reason I have the USB2 one was for connecting a portable DAC/AMP.
+So have I. I'm not denying they exist, exactly the opposite.
+
+
+The S8 is already so tall that it is tough to operate with one hand. Most interface elements are at the top of the screen so they can be hard to reach.
+
+The S8+ compounds this problem.
+Everythingapplepro did a video on the changes.
+
+[Link](https://www.youtube.com/watch?v=jB2ch1O0IIA)
+I tried this with my apple wired keyboard, but it claims it draws too much power.
+
+So I tested it by plugging the keyboard into a powered usb hub, which got it's power from a battery bank. That hub was then plugged into the iPad using the camera kit.
+
+That worked, but looked ridiculous haha.
+You made and observation and I responded, not sure why you are trying to start shit here.
+
+Here is a photo with no laptop is sight. Maybe I gradutated to double sided tape like the below commenter suggested! Moving up in the world.
+
+https://imgur.com/a/672NM
+Grow up.
+The two were close but not touching. 
+Yeah, not a bad looking case.
+Not only that, but this keyboard is an inch away from the screen and will be illuminated by it.
+
+It's not like it is a foot away on a desk or something.
+Yes its there in iOS 11.
+
+This is on a 10.5" iPad.
+
+[Screenshot](https://photos.google.com/share/AF1QipOaVqZwjTSUhYMM3_JY1a5aQqa7nt6EjjorD8QPNJBhQVSnrU77BchtlgGm7S2TJw/photo/AF1QipPmrsaybthD0LmjzhwZ8IP8W3rKIt7oacgoft62?key=bXJ5RkQxRlNUSlZDVXo4WXZWN2R1bkxobXpPRVhR)
+My old iPad 4 lives above my stove. Use it for watching youtube or netflix while cooking.
+
+Though I see that Apple might give me over $130 in their recycle program for it so I am considering doing that.
+That is certainly a negative. 
+
+I personally don't really care about that particular feature but I know a lot do. 
+
+It should be there. 
+Because the front cover is solid and not sectioned like a Smart Cover, it having no magnets to hold it closed really doesn't make much difference. 
+
+You holding the case even at the spine will keep it closed. 
+
+No and no unfortunately. 
+I haven't encountered any, no.
+If you were on the fence about this then I would highly suggest reading up on phishing red flags.
+
+This has every telltale sign of a fake warning, its not even subtle.
+According to the [arstechnica review](https://arstechnica.com/apple/2017/06/review-10-5-inch-ipad-pro-is-pro-hardware-patiently-waiting-for-pro-software/) the battery life on the 10.5 varies from marginally better to marginally worse than the iPad 5.
+I can tell you there is absolutely no gap on mine. It is not normal.
+They can be yes.
+Had the same thing happen to mine.
+
+Silicone is grippy and will wear, not much you can do about it.
+If you are not fond of narwhal then you are not fond of what I consider a good reddit app :P
+
+There is no hope for you.
+That would be nice, for sure.
+I noticed no real difference to their older ones.
+
+It's just a box, I only keep them for potential resale later.
+It really doesn't make any sense.
+
+The most significant draws of the Pro tablets are Power, Smart Keyboard, Pencil, and Split View.
+
+A pro level chip would be too power hungry for the small mini so it would likely be relegated to a iPhone chip, a smart keyboard would be too small, it's screen is too small for any serious drawing (people already complain about the 9.7/10.5" being too small), and split screen multi-tasking is very cramped.
+
+I have nothing against the mini line, but it really doesn't seem destined for a Pro model.
+Snapchat with the augmented reality bits? If so, that will warm the thing up as well.
+Were you recording 4k video? That's actually a pretty computationally expensive task and will cause the phone to heat up.
+For ants!
+
+/zoolander
+> I dont think you will ever see MacOS touchable
+
+That is a big claim ;)
+This tablet has a hell of a SoC in it, it will get warm.
+
+For the most part the heat will be localized to right around the apple logo on the back.
+
+Its normal.
+USB-C connector does not equal high speed throughput.
+
+A USB-C connection can still just use the USB 2.0 standard, ah-la the Nexus 6P for example.
+Biggest recommendation I can make on top of what you've suggested is to clean the protector before applying as well.
+
+They often attract dust from the factory, packaging, as well as your handling and can be covered in particulates, which will become airborne when you peel the plastic off of the protector.
+Why not complain about the e-mail keyboard too, look how small that space bar is!!! Damn @ symbol cramping my style!!!
+I can't remember ever typing unwanted periods when searching in the URL bar.
+
+It may not be constructive but it is the reality, just type more accurately. Having it there is extremely convenient for when you are not searching google.
+Tried it after dark, they were pretty much the same.
+I noticed that too. I’ll have to confirm tonight after sunset. 
+In general it seems to work pretty well. The most consistent issue I run into is springboard crashing when adding icons to the new dock. 
+
+It’s generally smooth as butter on my 10.5 pro but has tons of stutters on my 9.7 pro. Not sure what’s up with that. 
+Ahh I see.
+
+I have the 10.5 in my hands and all 3 apps are live. 
+
+I’ll have to confirm with my 9.7 pro when I get home to see for myself. 
+
+Cheers. 
+Can and did ;)
+
+Like I said in my original response, its not the Thickness or Weight that is uncomfortable. Its just holding something that large with one hand while interacting with it with another is kind of off putting.
+
+Plus, the 12.9" pro is only .25 Lbs lighter, not exactly a lot.
+
+To each their own.
+Again, I have a tablet that large, I've had it for more than 2 years.
+
+For me it is just too big for something i'll be holding for long periods of time.
+
+I'm glad you loved yours though, cheers.
+What do you mean by 3 apps?
+
+Do you mean Split View plus one in slider over?
+
+If thats the case then the 9.7" Pro certainly supports that.
+Don't try the 10.5" and then not get it.
+
+Trust me. That 120hz made way more of a difference than I was expecting.
+Played with it in the store, just seems too big for a tablet.
+
+I own a surface pro 3 and it is awkward to hold that thing for any length of time, and I am not referring to its thickness or weight. For me it is just too large.
+Ignorance.
+Anyone know what storage option is on that 7 plus?
+
+As we all know about storage gate or w/e the hell people called it, the 32Gb option on the 7 Plus is significantly slower than its larger counterpart, and would have a decent effect on this test.
+Gotta remember, there is a battery in there.
+
+Batteries do not like getting very hot, and the screen is only held on be adhesive.
+
+Nature of the beast.
+Antutu test results vary widely, its a pretty crappy test.
+
+iPhone 7's used to score about 180k, I now struggle sometimes to get to 160k.
+Looks amazing now, but will looks like crap soon unfortunately.
+
+That yellow will darken very quickly. :(
+[Jambalaya](https://www.youtube.com/watch?v=pW5qQcYwmW8)
+In photography being able to achieve a shallow depth of field is generally   considered a good thing.
+It looks nice but it's too tall. 
+
+Tapping navigation or brining down the notification shade are extremely awkward when using the phone one handed.
+
+16:9 Is a better ratio imo. Put the same bezels on a 16:9 phone and I'd be happy.
+
+Again, looks nice though.
+Why a 38mm if you have a wrist that large?
+
+I use the middle notch on my M/L strap and the 42mm is far from large on my wrist.
+You would need a functioning black phone's logic board and screen/touch id sensor.
+
+Those could be installed in a red shell and retain all functionality.
+For me it was generally small pebbles, worst thing that wold happen was you couldn't walk through them without getting a million of them in your shoes.
+
+Then they switched to the damn chips and now when you fell you'd have slivers of wood stuck into your skin. Better somehow?
+Not going to take things that far :P
+
+I know what I see, and can only comment on the S8 in my hands.
+I would consider my self very sensitive to frame drops and stutters.
+
+First thing I did when I got the phone was to update it, then factory reset it. 
+Got a brand new s8 from work and was playing with it over the weekend. Canadian model seems to have recieved the Snapdragon this time around rather than the Exynos like last year.
+
+Anyway, I can confirm the interface is littered with stutters, just like my S7 Edge was. Almost every time you swipe down for apps on the home screen it stutters. It stutters sometimes when going to the settings, it sometimes stutters when pulling down the notification shade (without any notifications). It stutters when bringing is Bixby (beta yes, still does it though). 
+
+It stutters like mad when using chrome, which is somehow perfectly smooth on nexus/pixel devices. my S7 edge did that too, not sure whats up with that.
+
+Anyway, for a brand new device it is rather disappointing how stuttery the interface is.
+
+If only its UI performance lived up to its looks.
+I don't have many people that post videos on my list but I did find one and it did some odd stuttering yes.
+
+
+Just disable auto-play on videos in settings.
+Just straighten this photo using the crop tool. You'll lose a bit of the edges but that is not a big deal. Unfortunately your positioning when taking the photo doesn't allow total symmetry.
+
+Also, these kind of photos LOOOOVE black and white ;)
+
+http://i.imgur.com/txvyv1b.jpg 
+Straightening the photo will go a long way to making this more appealing.
+No way would they put the flash in between the two lenses. That is just asking for washout. 
+It is almost like there is another word in the title which that "change" does fall under.
+REM Atonia. Essentially you body decreases the sensitivity of your muscles to stimulation, effectively paralyzing you so that you do not move or injure yourself while you are sleeping.
+
+Some people suffer from Sleep Paralysis, where the paralysis can actually continue for a time while you are conscious. Happened to a buddy of mine a few times, says it was terrifying. 
+
+You just wake up, but you cannot move any of your limbs, and breathing is difficult too.
+I can relate, I've pass out twice because of it.
+
+One time I was watching a movie while laying on my couch, with my laptop on my legs. Had to pee so I jumped up, next thing I knew I was on the floor, with my lava lamp (they are awesome, shutup) broken beside me.
+
+Next time was, like you, on the toilet. Stood up after doing my business and next thing I knew I was on the floor, with a broken toilet and floor, and a very sore hip.
+
+Hasn't happened in about 10 years, mainly because since those i've been more careful about quickly getting up. 
+I can only speak for people I have talked to, but most I have spoken with on this topic over the years have agreed that review scores for movies are largely to be ignored.
+
+Critics scores are often useless because they would rather sniff their of farts and speak of artistic merit than lower themselves enough to actually just enjoy a movie intentionally ridiculous, leave your brain at the door fun movie. User scores especially upon first release are full of 0's and 10's, making their results a bit biased by trolls and do no wrongs. Time evens them out, but the movie is long out of theaters by the time that happens.
+I kind of agree. 
+
+I don't care about the studios making money, but I do care about all the great movies I wouldn't have seen if I took any stock in aggregate scores.
+
+I do think they hurt the end viewer.
+Man, such a great show.
+[Bastard coated bastards with bastard filling](https://www.youtube.com/watch?v=ds4nEz59oRw)
+If the screen is fully working then you can cover the screen with a glass screen protector.
+
+It will hide most scratches and make cracks fade.
+
+
+My colleague got this one for his pro and it seemed quite decent.
+
+http://www.staples.com/Belkin-F7N350BTC00-TL-Polyurethane-Tri-Fold-Case-for-97-iPad-Pro-Black/product_IM14L4853?akamai-feo=off 
+It may just be placebo but I have felt that my 7 plus is noticeably smoother after 10.3.2. 
+
+I know it's not a 5s, but it's all I got.
+Dug up my old iPod touch (2nd gen) a little while ago, and yeah, it's minuscule.
+
+Had an S3 for 2 years, was pretty great the entire time minus the usual android quirks.
+Not saying you don't have issues, but it isn't due to battery size. You have something else going on. 
+The S7's battery is less than 20% smaller than the one in the edge. There isn't that big a disparity.
+You need to work on yourself man.
+
+3 times? Really?
+Worked for me. Try to speak moar batter.
+Really cool shot, I really like.
+
+If only the building reflection to the right of the apple logo wasn't there. Ruins the symmetry.
+Sync for Reddit is by far my favourite Reddit app on android. 
+Tony Hawk?
+https://www.youtube.com/red
+My mother used to have to hide those catalogs.
+
+I kept asking her what the line between their boobs was called.
+You have upset the hive mind. Repent.
+You'd likely get that $99 back in resale value anyway.
+Don't forget that in 1998, The Undertaker threw Mankind off Hell In A Cell, and plummeted 16 ft through an announcer's table.
+
+....
+
+Sorry,
+I just added a meeting in google calendar's website on my work PC.
+
+I immediately picked up my phone, went to calendar, and hit the today view.
+
+The phone took about 5 seconds to sysc and my test meeting showed up. So that works.
+
+Can't really test to see how long it takes to sync in the background.
+
+I suppose just make a habit of opening up calendar to force a sync after doing some management from the web app.
+My S7 felt smooth to me, until I got the 7 plus, and it is an exynos model.
+
+Now when I go back it feels like a jerky mess.
+
+Still love the s7, but it far from being as smooth as ios.
+
+Tried my colleagues S8+, same thing. It's just Samsung software at this point because I've also tried the Pixel XL and it was much better.
+Looks pretty shit on my s7 edge too.
+
+Needs 4k.
+Piss tastes like piss.
+
+There are plenty of actual decent tasting beers that are plenty refreshing.
+Ohh, that's a given. 
+
+The issue is others buying it and then it getting left in your fridge. 
+Cannot discern age, moving on.
+Must have hit her head on the way down.
+7% of their reviews.
+Or just dump it down the drain like I do.
+That was... terrifying.
+
+Not sleeping well tonight I suspect. 
+lmgtfy
+Love how the quote in your title was is not present in their response.
+Because the viscosity of water changes with temperature. This changes the sound it makes when poured.
+PDF isn't designed to editable, it is a output format only.
+Da da daaa, DA da daaaaa, da DA daaaa, da da da da da.
+Played with a colleges brand new S8+ today for a few minutes. Gorgeous screen, no question.
+
+But the thing was still herky jerky, just like my S7 Edge. The thing I like most about my iPhone is that most of the time it runs butter smooth, scrolling especially. It is just more pleasant for me to use.
+
+Once iPhone goes OLED and matches the quality of the Galaxy's screen, that'll be a good day.
+The OS takes up space, as do updates pending installation and other things that are cached that this screen does not reflect.
+
+
+There are on a home screen, just swipe right. They just don't allow them to be on a screen among your icons.
+It wouldn't really be a scratch, more like impact damage.
+
+It is either directly damaged at the point of impact or something has become loose on the ribbon cable.
+Lol that dancer falling was hilarious. 
+The tests weren't really totally fair.
+
+The S8 has a taller screen and his video and gaming tests weren't using the full display. This will drop the power draw of the screen extending battery life. Not saying that would allow the 7 Plus to outlast it mind you.
+
+As the taller screen is pretty much the S8's biggest feature, it should have been fully utilized for the tests.
+
+
+The idea is to highlight the special portrait mode on the 7 plus.
+
+Some buyers may not realize that mode was added, this might inform some of those people.
+I had no idea these were a thing until I saw a random video reviewing the difference between cheap and expensive ones.
+
+Rating things like the ability to throw and catch it, spin times, build quality etc.
+
+Watching it reminded me of bike wheel reviews, talking about how much better ceramic ball bearings are and how they were worth it.
+
+Look how long my wheel spins when I spin it with no load!!
+It came up on the front page about a week ago, if I could give credit I would. 
+
+Here is the original and the version I put though Lightroom to make it more colourful. 
+
+https://imgur.com/a/M0Rk1
+http://www.wallpaperup.com/uploads/wallpapers/2013/12/14/195897/3691ae17e27c9999b2c23529d2de221c.jpg
+[Lock](http://i.imgur.com/l2TSwbW.png)
+[Home](http://i.imgur.com/Duk0GuQ.png)
+
+Maybe a chance for them to try and make it up to you, in a small way.
+Sure, it's just a small iPhone.
+
+The specs are there so it really just comes down to you liking the form factor.
+
+I''ve had 5.5" phones since the 6 plus so i'm very used to the size, but playing around with some of the spare 4.7" iPhones at work is always a bit of a novelty, its kinda neat not having a phone that is quite as big.
+
+I do find the SE a bit small though, especially typing. I am much more accurate typing on them than I would expect but it is still too cramped for my liking, especially for web browsing.
+I personally have never felt what OP is describing on my Plus.
+It will eventually wear to pretty much black.
+I've heard it in person and I would agree with the video.
+
+My guess as to what has happened here is that in order to compete with the iPhone 7's dual speakers volume levels they just increased the power to the speaker, which as far as I can hear is very similar to the one is the S7/Edge.
+
+This speaker can't really handle this and distorts.
+
+At the end of the day it isn't a big deal as the quality improved when I turned the volume down a bit.
+Need to smooth those faces on the corner edges of the phone, unless you wanted it to look like a diamond cut or something of course.
+Toronto too.
+I think they sound pretty decent for what they are. 
+
+I also like that they aren't in ear and the silicone sleeve over the bud makes them rather comfortable for me. 
+
+That said I like the apple air pods as well, again for what they are. 
+
+I would be very interested in hearing the akg buds that come with the s8, they are certainly being praised. 
+You seem like a lovely person.
+He is talking about app integration, not that the sensor is faster than "insert android phone here"'s sensor.
+
+Other than the Samsung browser for site passwords I can't remember the last time something let me use the fingerprint scanner for authentication.
+It's Bardyard Crisperbasket, thank you.
+Guess the white earbuds that came with the galaxy s7 let people know they bought an iphone too?
+You can do this yes, but you have to give up screenspace for safari, you also cannot do it at all on iPhones.
+
+Really shitty of them.
+Sold in boxes of 10.
+
+Yeah, this isn't meant for joe blow.
+Google constantly does what ever they can to break this functionality.
+
+It's them, they want you to use youtube red.
+Shots fired.
+I think I was incorrect. 
+
+Seems the option might just be essentially sorting by comment count. 
+
+Weird because the first time I tried it found the post I was looking for. 
+Narwhal supports comment searching. Quite a good app.
+Dimly lit room. On the Narwhal Reddit app, adding a comment to get the keyboard up. 
+
+It looked uniform to me. 
+The sub pixel rendering is fine, but the issue is the areas where you will notice it are rather common. It's not a universal fix all, though it certainly can have benefits. It's effect can really fall apart on straight lines, causing somewhat noticeable aliasing when green isn't a significant presence, especially in VR. They push VR so strongly and yet continue to use the worst type of pixel layout for it.
+
+As for the the resolution of the red and blue pixels, I have gone over my math and concede it is not 720p. But it is still not 1080p either.
+
+It is around ~85% of 1080p's total pixel count. Still missing out on over 3 1/2 million sub pixels.
+Followed your instructions and as far as I can see my screens colour is totally uniform. 
+Almost certainly a swollen battery then, as you said.
+
+Get it replaced asap, they can potentially catch fire if they burst.
+More power to ya!
+Play some music or a video and see if your earpiece speaker is working. It might have died on you.
+Reader view is generally designed for reading articles.
+
+Things like reddit messages are really out of its scope.
+It will change the colour and contrast characteristics to suit watching a video.
+
+When you jump to another app you can see it fade those changes out.
+How does the left edge of the phone look?
+
+The battery is along the left side of the phone as you're looking at the screen.
+
+http://www.techinsights.com/uploadedImages/Public_Website/Content_-_Primary/Marketing/2013/Apple_iPhone_5s/iPhone5s-teardown-3.jpg
+Correct it a few times and it will generally remember your correction.
+
+Take "fuck" for example. The first few times it will try and correct it to "duck", but be consistent and it will eventually give up and no longer correct that word.
+I get the numbers from reality, I zoomed into a photo of my screen and counted them, and extrapolated the data out. The math is all there in my first comment.
+
+I am only commenting on the actual countable sub-pixels on the display, I can't say anything for nearest neighbor rendering.
+
+[Here](http://i.imgur.com/t5smniF.jpg) in the original photo. The loss of ppi on the green and blue portions of the google logo is very apparent.
+
+All I know is I was watching a video using Gear VR the other day and could barely make out some of the text on screen, because it was Red. The resolution is just too low for VR.
+
+If it was a true 1440p display it would be much clearer.
+The resolution of the Red and Blue pixels actually equals out to 720p, not 1080p.
+
+Take a look at [This](http://imgur.com/zbQ3cBa) close up of my S7 Edge's display.
+
+You'll see that for every 5 green pixel row you will have a mixture of 2 or 3 Red or Blue pixels for each blue/red row.
+
+Extrapolate that up so the green pixels match the 2560x1440 resolution of 1440p and you will get 1280x720 on the Green and Blue pixels.
+
+For green on the horizontal you will need to tile this 512 times across to hit 1440p (ie 2560/5=512). 
+
+And for blue and red, since its either 2 or 3 per line:
+
+3 * 512 = 1536
+2 * 512 = 1024
+
+Average those together since the ratio will flip for each line: 1536 + 1024/2 = 1280. The magical number for the horizontal pixel count of 720p.
+
+Same works for the vertical obviously.
+
+It really is in false advertising territory. The iPhone 6/6s/7 Plus models at only 1080p get a lot of flank from android lovers, yet that display has more total sub pixels than a 1440p Samsung display.
+     
+I find that to be hard to believe, for exactly the reason you state.
+
+It would be so trivial to implement.
+It isn't a matter of difficulty, it is a matter of consistency and upselling.
+
+If they implement it on the non 3d touch devices then they need to undo those changes on the 3d touch devices and implement the 3d touch versions. Its more consistent to just learn to assume the device won't do anything that you would expect 3d touch on than to have to guess what features were implemented with a touch only workaround (like long pressing).
+
+This will be confusing for some who for example can't do the same actions on their iPads (non of which have 3d touch) and their iPhone 6s or 7s.
+
+Then there is the simple fact that it give the newer phones a little bit of extra draw for those on the ledge of upgrading.
+
+Like it or not I believe that is their reasoning.
+All I can say is I have never heard any noises coming from the chassis of my iPad.
+Totally normal.
+
+The cover glass is thin and flexible, it will flex when you put even relatively light pressure on it.
+
+Put enough and you will start putting pressure the screen itself, that is when you see distortion as you are messing with the polarization of the screen.
+
+If you're seeing that you're pressing way too hard.
+That is not normal.
+[It's under 3D touch](https://goo.gl/photos/mKfwtCoYLF76YeVX9)
+Maybe it didn't cure properly and is too soft.
+
+Take it back and get them to apply a new coat.
+That place is so hostile.
+
+I browse it occasionally but man they are a bunch of dickheads arguing over who is the largest.
+Won't Netflix refuse to output an analog signal due to the lack of HDCP?
+I use interfacelift.com
+
+It's not an app, but has tons of really nice photos, especially of nature.
+
+You can choose what ever resolution you want.
+
+I usually just choose the 4k option.
+It takes things like traffic, construction, road lanes, and road speeds into account.
+
+If it feels it might be a easier trip to send you on a non-straight path it will suggest it.
+The two devices aren't in the same situation. 
+
+The mini 2 was the depreciated device, the air 2 has been replaced. 
+
+It's done. 
+Having poor signal will greatly decrease your battery life.
+
+I have decent signal at my home, when I have a day where I pretty much stay home and don't touch my phone  much, I will still be at around 95% by the end of the day.
+
+I have crap signal at work (I'm 46 floors up) and I'll be at 60% by the end of my shift.
+
+It makes a significant difference.
+Because they want you to have some cheese with that whine.
+Did you mess with DPI settings?
+Sure you could adjust shutter speed, colour temperature, and eposure, but it will not match the Pixel's photos.
+
+For one, Samsung applies an overly strong (in my opinion) sharpening filter over the whole photo, which looks generally crap.
+
+Then there is the fact that the pixel's HDR mode uses frame combining techniques to achieve its HDR effect, which it does rather well.
+
+Your best bet for matching them would be to shoot in RAW mode, which will bypass the sharpening filter, and then use photo editing software like Lightroom to edit the photo to match the Pixels tendicies for exposure, colour temperate, and shadow/highlight adjustments. 
+Shit signal, shit battery life.
+1st try doing a hard reset but holding down both the power button and home button at the same time for about 10 seconds.
+
+This is a harsher reset than simply turning the phone off and on and can solve weird issues.
+
+If that doesn't work, then it's likely time to wipe the phone and start over.
+
+If that still doesn't solve it it may be a hardware issue and you'll have to get Apple involved.
+Or he knew there wasn't a ship under the bridge.
+Keep it in my wallet, if I need it I always have it.
+
+Pretty simple.
+Different chipset is nice, but is a marginal increase over last year. Display is nice, no question, but the S7s screen is close behind. Camera is almost exactly the same. Case is also marginally different to the S7 edge, it's just thicker. We will see about the battery, reviews I've seen rate the battery life as sufficient, not great. 
+
+Again, the only major change is the screen ratio. Everything else are incremental changes, not reasons to upgrade for most. 
+The S6 is getting nougat so who knows. 
+
+If Samsung leaves something as portable as UI as an exclusive I would seriously reconsider future purchasing decisions. 
+
+
+Sounds like you are trying to start an argument, friend.
+
+If you feel it's worth the upgrade, go nuts.
+You should do marketing for them. Maybe pick up a commission.
+Until they abandon the s8 in 2018.
+
+Endless cycle.
+Nothing that you can rely on.
+The S8 is just a taller s7. Nothing more.
+
+If you have an S7 there is pretty much zero reason to upgrade.
+Febreze that shit.
+TL:DR
+
+hustlebnes: I dont care about pro audio
+
+neomancr: but pro audio
+
+hustlebnes: I dont care about pro audio
+
+neomancr: but pro audio
+
+hustlebnes: I dont care about pro audio
+
+neomancr: but pro audio
+
+hustlebnes: I dont care about pro audio
+
+neomancr: but pro audio
+
+hustlebnes: I dont care about pro audio
+
+neomancr: but pro audio
+
+hustlebnes: I dont care about pro audio
+
+neomancr: but pro audio
+"Ruins the immersion".
+
+I now hate you as a person.
+These comments are so divided, its hilarious.
+Grow up. Go read your original comments and see the attitude you yourself exhibited. 
+
+As for most android flagships having wireless charging, let's think last year. 
+
+LG G5. Nope. 
+
+HTC 10. Nope. 
+
+Google Pixel. Nope. 
+
+One Plus 3. Nope. 
+
+LG V20. Nope.
+
+S7 and S7 Edge. Yay finally found one. 
+My experience with my Galaxy S7 Edge is that it is noticeably more slippery than my iPhone. 
+You think it's a difficult problem? That they have been taking years to figure out how to "make this work".
+
+You're delusional.
+
+It is a feature they would need to do a complete re-design around. Its not a question about how to make it work, its if they are willing to alter their design so drastically to make a single feature with very limited use possible.
+They would have to completely re-design the shell of the phone to incorporate a glass back in order to implement that, it will not work through metal. Just because its a trivial thing theory doesn't make it trivial to implement.
+
+Personally don't want a glass back. It breaks easily, is slippery to hold, and looks like crap the second you pick up the phone.
+
+Maybe I have more videos on my feed.
+
+Disabling auto play made a significant difference for me.
+On Facebook, go into preferences and disable video's auto playing.
+
+This solves a lot of the janky scrolling when in that app.
+I didn't see this yesterday. It's almost like other people might benefit from a picture being posted more than once.
+
+Funny how that works.
+If you have 3D touch you can hard press on the contact in the search result.
+
+You will get a white set of bubbles showing the contact, and options to let you mess,age call, video, or mail them.
+
+If you tap on the contact bubble it will take you to that contact in the contacts app, where you can edit them.
+I haven't seen the screen on the 2017 9.7" but I do own an iPad 4. Even that screen still looks pretty darn good.
+
+People love to make mountains of molehills.
+Not sure what being on mobile means to you as there are tons of apps available.
+
+If you're talking about their mobile website, you just go to the subreddit in question (in this case /r/photoshopbattles) and hit the search button at the top of the screen.
+
+It will only search the subreddit you're in by default.
+Read the Contract of Carriage you agree to when you purchase your ticket.
+
+They needed the seat, he was chosen since none volunteered, he wouldn't leave, so he was removed. Pretty simple situation.
+The screen issue is WAYYY overblown.
+No you are not, not at all.
+
+This is not a race issue.
+I get your sentiment, but if you just type "obama portrait" into search and limit to this subreddit you see them all instantly.
+
+Not exactly buried.
+Shitty situation that shouldn't have happened int eh first place, but when you force them to physically remove you from the plane this kind of shit can happen.
+
+He should have acted like an adult and walked off that plane when instructed and not force them to drag him out.
+I think their question is more along the lines of why you would get a new ipad for a toddler, rather than a cheaper one second hand.
+Was this originally shot in 4k, or are you panning a 1080p60 video?
+
+I know the iPad won't record 4k at 60 fps, but since its a time lapse you could have doubled the frame rate in post.
+I'm all for the bigger screen to body ratio as far as aesthetics are concerned but I think a shrinking of the borders would detract from the usability.
+
+The borders are there to hold onto, and I use them all. If they were smaller I believe it would be less comfortable to hold and would need an over reliance on palm rejection to work well.
+Samsung phones fall in price faster than Apple's devices do, the S7 is also 6 months older.
+
+You have to weigh what is more important to you, initial cost or resale value.
+Own both the 7 plus and the S7 edge.
+
+The s7 has a gorgeous screen and is more compact, but suffers from inconsistent UI performance and it's impossible to get a good glass screen protector for it. Obviously it runs Android which comes with its Pros and Cons. 
+
+The iPhone has much more consistent UI performance and a better app ecosystem, update timeline etc. The screen on the 7 plus is great, but does lack the contrast ratios of the AMOLED panels.  Accessories are much more numerous for iPhones if you care about case choices and the like. 
+
+Apples service is also much better, many people are being turned down by Samsung for screen repairs, which are expensive if you can get one. 
+
+Both great devices but I personally prefer the 7 Plus. 
+Since the 10.3 update Antutu has been stuttering badly during its graphics tests. This causes the low graphics score. 
+
+When I bought it phone I got 180k on antutu and now I fluctuate between 160-170k. 
+
+Ignore Antutu for now. 
+Front facing camera will only do 720p on the 5s.
+My pockets hurt...
+You are missing my point. 
+
+Because of how Apple has sealed this device it is easy to tamper with the contents and then reseal it. 
+It's not planned obsolescence.
+
+It's a pretty simple thing, their newer OS' are designed for faster hardware. The updates are simply more demanding on the hardware.
+
+Apple prefers to leave as many features present on old devices as possible, only removing those that fall below their acceptable performance levels. Take iOS 7's transparent blur effect not being enabled on the iPhone 4. It likely just made the framerate go below what they consider acceptable levels.
+
+
+How?
+
+You would have to have developers code the functionality of their apps separately for each device.
+
+Thats not realistic.
+
+Nor is expecting apple to release newer versions of their OS with features intended for use with beefier hardware that somehow still runs perfectly on older hardware.
+
+
+No one has mentioned this yet but there really isn't such a thing as a "sealed" iPhone 7.
+
+The wrapping on the outside of the box is a folded, self adhesive type design that can be opened and resealed. If done neatly and tightly enough they could easily make it look like it was factory fresh.
+The media are idiots.
+
+They keep saying the non-laminated screen and the like are flaws. Things that take away from the tablet....
+
+That is just stupidity. 
+
+They are concessions, measures taken to reduce the cost of the device. Use lower cost screens, use an older body to reduce tooling costs, etc etc.
+
+I don't know how they can take themselves seriously when they praise the lower cost but denounce the lack of higher end features.
+Different strokes man.
+
+A friend of mine constantly breaks her screen. She is clumsy, knows she is clumsy, and just accepts it. A screen protector wouldn't do much to save the phone from the amount of times she drops the thing ;)
+
+When she gets a new phone she gets a case for it, and proceed to rather quickly drop it, so she always makes sure to have apple care. They will replace your phone twice, for something like $50 a pop. After her replacement quota is used up she just lives with the shattered screen. On her current 5S I can see the front camera module through the rather large hole in the glass.
+
+Its cringey to watch, but she knows herself and just accepts it. Doesn't make her an idiot.
+Hyperbole.
+
+THE SKY IS FALLING!!!!!
+Those upside down boxes... why man, why!?!?
+I can only speak for myself but the change log has all the info you need. If you don't value the changes all the power to you. 
+
+For me, new features and tweaks aside, it's the overall sense of polish. It feels well thought out.
+Depends on how fast you want it.
+
+Over time it will sync on its own, but it won't be instant like on Android unless you open the app, which will make it sync.
+I would argue the S6 Edge was the largest design departure.
+
+Two curved screen edges, glass and metal design without a removable back etc. It set the standard for what their next two Galaxy S phones would work from.
+Thats an awfully trivial reason to not update to Nougat.
+
+There are exponentially more benefits than detractions.
+Both have advantages in those two categories. Love what you got.
+
+Screen:
+
+* S7 has higher native resolution, especially over the 4.7" iPhone 7.
+* iPhone 7 Plus has more subpixels due to to the S7's diamond pentile pixel layout.
+* iPhone 7's screen is the first component out of the phone, makes replacements trivial. Good luck getting an S7's screen repaired.
+* S7's AMOLED screen suffers from burn in.
+* S7 has virtually infinite blacks and gets brighter on Auto Brightness when in daylight.
+* iPhone 7 has great color accuracy with DCI-P3 support.
+* I have seen a lot more complaints of faulty screens on the S7's (lines and splotches etc).
+* The screen protector situation on the S7's is awful due to their curving displays.
+
+Camera:
+
+* S7 has arguably better low light performance.
+* S7 produces very punchy saturated photos on auto.
+* S7 sharpens jpegs to all hell.
+* S7 camera app has a lot more options, including out of the box RAW support.
+* iPhone 7 Plus has a second camera module with 2x Optical Zoom
+* iPhone 7 Plus produces more natural looking results on auto.
+* S7 uses contrast based auto focus when shooting 1080p60fps.
+* iPhone 7's stabilization is arguably superior.
+* iPhone 7 still records video with mono audio.
+* iPhone 7 has issues with sharp transitions in auto-exposure. You can see it stepping through exposure levels rather than being nice and smooth.
+
+etc. etc. etc.
+That ancient 2 year old phone! 
+This can be attributed to the normal variance is benchmarking results.
+
+They can vary by a couple hundred points between two consecutive runs.
+Please provide proof of this response.
+Few people bitching on reddit = thousands.
+
+I have a test S7 running Nougat at work that has no SIM installed. IT has facebook and messenger installed and active and has been on battery for 10 days now. Still at 30% charge.
+
+Since owning the phone I just don't see this evidence of those two apps causing detrimental battery life.
+
+I do not use snapchat so can't comment on that.
+Everyone wants security until it inconveniences them.
+
+Apple should stick to their guns on it. It's a super shitty situation but Apple unlocking it has implications well beyond this "special" case.
+I know people want black, but I've seen a number of videos of people who have swapped their screens to a black one and I really don't think it looks very good.
+
+It think it just looks tacky.
+
+Maybe the shade of red doesn't suit it, I don't know, but I just didn't think it looked great.
+Best ketchup flavour I have come across. Sooo good.
+I get a huge kick out of Canadian Tire's brand [Frank](http://canadiantire.scene7.com/is/image/CanadianTire/0534927_1?$sri-image$). Just "Frank".
+
+My friend and I lost it the first time we saw it.
+Shrug.
+
+A perfectly viable solution exists, do what you will.
+And you've seen it in person?
+
+I've seen the mkbhd unboxing and while not eye piercing it is pretty vibrant.
+Too flashy, yet still bright red even with black...
+If you need to read the messages all you need to do is hide the keyboard using the bottom right button and you will be able to read your messages.
+It happens. They make so many of these things that the occasional one will take a little damage during production.
+
+Take it back to apple and tell them about it. 
+
+Be pleasant. If you go in there with a chip on your shoulder about it they will be less inclined to believe you and help you out.
+
+Good luck.
+It was pretty clear. Calm yourself.
+I own the gear VR, it was on sale and I bought it out of curiosity.
+
+The head tracking is perfect, I haven't noticed any issues with it.
+
+I really only have 3 complains.
+
+1. There needs to be way more free content. Everything even remotely decent is behind a rather large paywall and I'm unwilling to spend $5-$10 for a app ill use for 30 minutes.
+
+2. My phone (exynos variant) overheated the last time I played it, but that was during the summer and I don't have A/C in my apartment.
+
+3. One of the biggest draws for me was the 360 video content. But the video quality present is total ass. I know it has to take a 720p or 1080p video and stretch it out into a 360 sphere but it just looks so shitty.
+
+What I use it for most often by far is just to watch netflix on VR big screen haha.
+My only android device is my S7 Edge. Are we able use try daydream?
+Your comments about spacial audio seem to insinuate that a pair of supported headphones are required to utilize the function. If this was not what you meant then your wording was misleading as both neomancr and myself interpreted it that way.
+
+My explanation was intended to show why no special headphones are needed.
+
+I do not have access to a Google Pixel so I cannot comment on it's ability to use this tech or not.
+
+I do wonder how well Daydream will perform to compared to GearVR due to one main factor, and that is the lack of a high poll rate accelerometer to measure your head movements. The Gear VR includes one, which is why it works so well. There is zero perceptible delay between your head movement and the display reflecting that movement. I question how quick the accelerometer is in the pixel, though I look forward to trying it should I get a chance.
+I will confirm about "3D" audio.
+
+No special headphones are needed for this, a simple pair of $3 earbuds will work, they will just sound shit. The better the headphone the better quality audio they will output and the better the effect will sound.
+
+3D audio is achieved by taking advantage of the way our brains interpret sounds that hit both our ears, but with varying amounts of delay between the sound playing in each ear.
+
+It does this by using a calculation called a HRTF (Head Related Transfer Function). Each person has a different one, but they will use an average one that will work for as many people as possible. This function describes the physical differences of your ear (both the Pinna and the Ear Canal) and enables the engine to trick your brain into thinking sounds are coming from a specific location.
+
+A simple explanation is that we as humans only have 2 hears, meaning we only hear stereo. Our brains are able to tell where sounds are coming from by comparing the delay between the sound hitting your two ears. If a sound hits your left ear slightly before your right, then the sound is coming from your left. Various other effects such as the Doppler effect give our brains other clues about sound sources moving, or coming from above or below us.  
+
+A famous demo of this is the [Virtual Barber Shop](https://www.youtube.com/watch?v=IUDTlvagjJA) Video.
+
+It doesn't take a ton of horsepower to do these calculations, but the engine does need to support it.
+
+Some headphones can do these on their own by having a surround sound decoder built in, as well as an audio processor to do the effect, like some gaming headsets.
+
+It's not snake oil.
+Random interloper here.
+
+ProffTrack, you really need to actually back up what you say, you're really coming off looking like an idiot.
+The W1 chip is in the headphones not the phone.
+It would seem my recollection was wrong and the A9X does come out ahead.
+Return it at Best Buy.
+
+If you get apple to exchange it then you won't be able to return it to Best Buy (should the situation change) as the serial number will be different.
+The iPad Pro is weaker, though not by a whole lot.
+The thing is the screen size isn't everything.
+
+Take a look at the S7 vs the Iphone 6/6s/7. The S7 has a 5.1" vs 4.7" screen but is very similar in dimensions. Apple is known for their large bezels and huge forehead/chin bezels.
+
+http://i-cdn.phonearena.com/images/reviews/190792-image/Samsung-Galaxy-S7-vs-Apple-iPhone-6s-01.jpg
+It's $80 for a battery replacement directly from Apple. If you don't want to do it yourself just pay them to do it.
+
+If you still have issues after that replacement then they can't say there isnt an issue with the phone.
+Dig your nail into the screen.
+
+If there is one on there your nail will catch.
+Just grab the beta if you want it.
+
+Its been very stable for me.
+I did the changing CSC using dialer, letting it wipe the phone then install nougat. 
+
+Took half an hour and now have nougat on a test phone at work. 
+
+Don't be scared just be prepared to have to set up your device again. 
+Or do it now. 
+Worked great. 
+
+I'm on Telus. Cheers.
+Want a tissue?
+RIGHT TO THE STERNUM!
+Hey, lets be real, the Witcher 3's female models weren't all [amazing](http://i5.photobucket.com/albums/y153/BeefEaster/CF0T729UUAADo06.jpg%20large_zpstz5pzj89.jpg).
+It uses frostbite, a very capable engine. Don't blame the engine for their lame modeling and animation work.
+https://www.amazon.com/12-9-inch-Feather-Light-Composite-Aluminum-Military/dp/B017BKAUP6/ref=sr_1_4?ie=UTF8&qid=1489689678&sr=8-4&keywords=ipad+pro+uag
+Used to use it to remove clothing from the female wrestlers in some wrestling game.
+
+Ahh before I had the internet.
+Other than the clear Sony bias present in the wording, the below are a few incorrect points. These have all been said in other comments, I didn't think they needed to be reiterated again. 
+
+1. Xbox 360 was not ARM based. 
+2. The Cell processor is PowerPC based just like the 360's chip. 
+3. The Cell processor is not much more powerful than the 360's chip, just more complex. The SPUs can help with graphics tasks and devs like Naughydog were able to take advantage of this but this can all be sent to modern GPUs for emulation.
+4. Microsofts creation of an emulator isn't nearly as trivial as OP makes it seem. 
+
+On and on. 
+Get your carrier to give you a loaner phone.
+When is there ever.
+
+I'm a sad Canadian.
+Vegan too?
+Full of misinformation.
+Every console "was" current gen. ;)
+Literally go fuck yourself. Might need to work on your flexibility. 
+If you have an apple store near you make an appointment for her to attend one of their teaching sessions.
+Just set your alarm when you need to get up, and get up.
+
+Problem solved.
+Heartwarming video, but the brides voice >.<
+If your phone isn't saturating the write speeds then I would say no.
+
+Maybe the pro has a better warranty on it?
+I love the hand of the person picking the cube up at the end.
+
+Shaking like no tomorrow "OMG DONT BURN ME"
+But mobs and chaos and stuff.
+It's pretty sluggish compared to the new ones, but far from unusable.
+
+I would suggest trying to get an Air 2 if possible, youll get much better longevity out of that one.
+You only need about 5MB per second for cellphone 4k.
+
+Most 4k phone footage is roughly 300MB per minute of footage.
+They're.
+W1 chip is not located in the phone.
+There is nothing you can do. The halo is due to the coverglass on the screen itself curving too early.
+
+Most screen protectors are only as wide as the screen itself to do their best to avoid this, but each phone is different.
+
+I got lucky and my protector stuck down totally, but i've installed 3 for other phones i've given out at work and they weren't so lucky.
+
+All I can suggest is try a different protector, some have thicker adhesive that can help with this.
+Much English?
+Schedule update Rogers the on coming soon its says it's.
+A +1 for Narwhal.
+
+Coming from android, the lack of Sync for reddit left a bit hole in my heart.
+
+Narwhal is the closest thing I could find on the iOS side. Its 85% of the way there.
+10.3 has a noticeable boost in overall fluidity.
+
+There are videos about it, but I can personally attest to it.
+Because it's only a beautiful QHD screen when it's two inches from your face. 
+
+For normal day to day it's overkill and lowering the resolution comes with performance benefits. 
+Yup, why I said it will apply to other camera apps.
+I highly recommend the Caseology Parallax line.
+
+Very premium feeling and looking, do not add a lot of bulk, and are like $14.
+
+I am going to assume you're American so here is the amazon.com link.
+
+https://www.amazon.com/iPhone-Caseology-Parallax-Geometric-Textured/dp/B01LY50PST/ref=sr_1_1?ie=UTF8&qid=1488851790&sr=8-1&keywords=iPhone%2B7%2Bplus%2Bcaseology%2Bparallax&th=1
+
+
+If your bluetooth module in your laptop is old it might have issues, though bluetooth should be fully backwards compatible.
+More expensive tempered glass protectors offer advantages. Some will use Gorilla Glass or off brands that allows the protectors to be much thinner and more flexible (making removing them easier), and can also have things like rounded edges for a better feel (cheap ones can come with this). More expensive ones can also offer better oleophobic coatings that will resist fingers prints better.
+
+The cheap ones do the trick but premium ones do offer advantages.
+One thing for 7 Plus owners is that, and this I'm sure will apply to other camera apps as well, is that using the Telephoto camera in low light is possible with Lightroom.
+
+In the stock camera app it will essentially just use the wide angle when in low light hoping its larger aperture and optical stabilization will produce a better end result than the telephoto. You can test this yourself by covering the inner camera (the telephoto one), even when set to 2x in low light you will still get an image.
+If only Nintendo actually showed a tiny bit of give a shit and actually gave a second screen experience on the Wii U (map, inventory).
+
+But nope, because the switch can't do that it never made it in. Can't have the old man show up the new kid.
+
+Nintendo really does seem to dislike its fanbase.
+It does If the gameplay is slowed down to compensate for the 2x speedup in post.
+Dude, you're vs your. Learn the difference.
+
+Now continue.
+That's a lot of love for a company that treats its customers pretty poorly. 
+I picked one up at a Best Buy in Toronto about a month or two ago as an impulse buy.
+
+Are they worth something now?
+I meant more along the line of the tech that game used.
+
+They could maintain the same aesthetic.
+It's been surprisingly good.
+
+The world... just wow.
+
+If only the performance wasn't total shit on the Wii U.
+
+This game only makes me more hopefully that the switch will fail and Nintendo will go third party for Sony/Microsoft. Imagine this game and world but with the graphics prowess of Horizon Zero Dawn?
+View songs and change sorting to artist.
+
+It'll be within a list of all your songs but it will show you what you want.
+
+Not a solution but more of a workaround.
+The issue with the back button on android is that you never know what it is going to do.
+
+Some apps it will take you back to the home screen, some apps it will take you back to the home screen and reset the app (sync defaults to this, you lose your spot in the feed), some apps it will take you back to the previous screen, some apps itll go from the app you're in to the previous app you were in.
+
+It's inconsistent.
+When you're trying to describe something specific you can't just be general and expect people to know what you're talking about.
+
+If you say that the iPhone wastes screen space most people are going to assume you are talking about something within the display itself.
+Don't drop the phone and it won't break.
+
+Drop the phone and it very well could.
+
+Pretty much all there is to it.
+Keep thinking that.
+Short supply bro, you'll have to pay the scalpers, wait your turn, or get lucky.
+
+Choose your poison.
+Guys.... This has nothing to do with the protector.
+
+Every phone is different and some start to curve a little earlier than others. If you are unlucky then it will start a bit to early and the edge of the protector will not make good enough contact. Its luck of the draw.
+
+Some protectors have thicker adhesive than others, thicker adhesive can help with this.
+Just don't count ;)
+It is.
+
+You know the limitations of your phone, and should plan accordingly incase you need a 3.5mm.
+
+Simple solution, use a pair of 3.5mm headphones and leave the adapter connected. If you dont need the adapter, put it in your wallet should you ever need it.
+
+
+Wish it was there, not bothered that it isn't.
+
+I keep the adapter in my wallet so i'm never without and I could count the time i've needed to charge my phone and listen to headphones at the same time on one hand. And I mean ever, not just on the 7.
+All cases will get worn and grungy over time.
+
+Spigens are great cases and don't break the bank. I would just get the one you like and replace it should you need it.
+
+It's only 10-20 bucks.
+Apple could have easily implemented a override toggle for this, so while not a fault, I would argue it is an oversight at least.
+As a Canadian S7 owner I just have this to say.
+
+STFU and wait.
+It does, in-line controls too. Even on third party apple compatible sets.
+Just leave it on all the time.
+
+The S7's auto brightness learns your preferences. If you don't like the brightness level in your environment, then just adjust it. Keep doing this for a week or two every time you feel its wrong and it will learn what settings you want at any given brightness level.
+
+I barely ever need to touch mine anymore.
+The 4.7" iPhone 7 is rated by apple for up to 14 now, and 16 for the plus.
+
+Talk times are getting better and better each year.
+
+
+Mine seems good. I'm in Canada.
+
+[Screenshot](http://imgur.com/a/i5Pn6)
+You should PM her that compliment.
+
+It would be in no way more creepy.
+What the fuck did I just watch.
+Gold, just makes the device look elegant.
+
+I would be very interested in a copper colour, but all we get is rose gold and apple's rose gold is just pink.
+No, it cannot.
+
+There is a board issue, which is why they recommend a replacement.
+
+Other than modular things like the screens, speakers, cameras, and charging ports, you can't really repair much without doing it at a component level (ie resistors, capacitors, ICs). Apple will not do this level of repair, they will swap the device.
+
+TouchID also has the mainboard linked to the fingerprint scanner so that complicates main board replacements too, again why they will just swap it.
+Well shit...
+It's a big phone. If that causes you problems, get the smaller one.
+
+Simple as that.
+You contact Samsung and get it fixed, where is the question here?
+
+Just bought the BeatsX, which was hard slightly hard to swallow as I know how much better audio you can get for the price. Those 3 options were the exact ones on my list.
+
+Ended up getting the BeatsX for the following reasons.
+
+1. I wanted the W1 chip for easy switching between devices, it really makes the process painless. Airpods obviously has this too, Jaybirds do not. From my short amount of testing the bluetooth connection from the BeatsX has been flawless. Not once have I had a single hiccup and that includes my packed to the gills subway ride home.
+
+2. AirPods are impossible to get where I am right now without overpaying on ebay or craigslist. ETA from Apple is April.
+
+3. I don't like independent buds, prefer them being linked by a wire. (Spigen makes a AirPod leash that ties them together, not sure how well it works though). Airpods battery life is rather bad too. I'd rather longer battery life and no portable charging case than crappy battery life and the charger. The stupid dock charging solution of the Jaybirds makes them a no-go for me. Forget that and you are SOL, for the airpods and beats its not hard to find someone with a Lightning cable laying around.
+
+The 5 mins of charging for 2 hours of life on the BeatsX is a nice to know should it run out.
+
+4. The real final nail in the AirPods coffin for me was the lack of ability to do track skipping or volume adjustment without the use of Siri. I take the subway to work so I have no access to the internet, though even if I did I wouldn't want to use voice to do so.
+Nothing, they are fully aware everyone hates it.
+
+Every review mentions it, every youtuber bitches about it, ever forums is full of users bitching.
+
+They don't care, we still buy the phones.
+This has me wondering why was it this persons last day? Which of the following?
+
+1. Because it was already their last day and they no longer care.
+2. Because they no longer care so this sign will now ensure it will be their last.
+For the last time lady, I didn't ordering any god damn onions!!!
+
+
+It's amazing isn't it?
+
+My first iPhone type device was a 2nd gen iPod touch and not once since then have I ever even thought about the volume indicator.
+
+I have to move my hand to reach the volume controls, by the time I re-adjust my grip and focus back on the screen its usually already fading away.
+
+Mountains of Mole Hills.
+
+Edit:
+
+Wow, only -4 in a day? I'm disappointed.
+We had the same issue and changed to 8 for outgoing as a result.
+
+Wasn't too big a fan of having the police come by and be required by law to check the call logs to find out which phone it came from so they can go investigate.
+
+Am loving 8 ;)
+A plastic screen protector will hide them all.
+
+Choose your poison.
+They have to essentially do an OS upgrade to perform a security update so it does give them a chance to apply some bug fixes at the same time too.
+
+But other than those there really has been no real updates, other than Nougat of course which is a huge one.
+
+I'd still count it as 1 update ;)
+Great, an all new model to have endless "when is this update coming" posts about ;)
+[Hugs buddy.](http://cdn.smosh.com/sites/default/files/ftpuploads/bloguploads/0413/epic-hugs-monsters-inc.gif)
+Sounds like you need a hug. Mommy not affectionate enough?
+Rocking jam man. Some good techno lyrics you got going there.
+"I want u just as much as anyone, please don't speak" - 20-EZ-4-ME
+[This](http://www.naskaras.com/wp-content/uploads/2011/03/PANASONIC-CD-1024x624.jpg) must be you because you skippin bro.
+That's not very nice. 
+Lol. Whatever you say buddy. 
+I live in downtown Toronto and take the packed subway to and from work everyday, and I see mostly 5/5S/6/6S phones.
+
+5 and 5S's are easy to spot by checking if there is TouchId, though the SE lines in a case are a crapshoot for figuring out if its a 5S or not, unless its rose gold.
+
+The 5 line (or maybe SE) I see all the time. Tons still have em.
+
+I don't see 4 or 4s that often, and can't remember the last time I saw someone using anything lower than that.
+Ok, you're locked right into your false idea.
+
+Enjoy that.
+Sure, but my mother would see no benefit upgrading from her iPad Mini 2 to a new pro as the Mini runs her stupid slots game flawlessly.
+
+Would literally be throwing money away.
+
+Me on the other hand, my iPad 4 was too slow so I bought the Pro 9.7. Awesome device, but not needed by many.
+When you use spotlight to search for an app, it will also tell you what folder it is located in (if in a folder).
+
+Other than that, I have never heard of a way to have iOS switch to the relevant page and point it out to you.
+They are great, i agree. But many people don't have upgradeitus.
+
+It does what they want and they are happy with it, regardless if its too slow to be enjoyable for us.
+I assume he is referring to error 53.
+There still tons of iphone 5, 5s, and 6s out there.
+
+Some people get unlucky but it doesn't mean they all will die.
+
+I manage the phones here at my company and in the 2 years since its release I've had exactly 1 iPhone 6 come back due to non-damage related failure, and that was due to a faulty battery which apple replaced free.
+
+I suppose we have been lucky with the touch IC death though, hear a lot about that.
+Haha, bit of a different vibe to that shot.
+Mother fucker, now I want Ketchup Chips.
+
+So pissed right now.
+A quote-unquote "real" watch's second hand does not tick, it moves smoothly around the face.
+
+Apple chose to emulate this and not the ticking motion of a Quartz watch.
+Can I smush its face? Its face needs a good smushing.
+Sounds like a lot of work is going on ;)
+Real mechanical watches don't tick once per second, but 6-10 times per second. They are emulating these.
+Enjoy, hell of a tablet.
+
+Cheers.
+You take a small sample of pixels, and multiply the numbers out. Are you that thick?
+
+I already did the damn math for you. The evidence is right there. They don't swap the layout mid screen, its consistent all the way across.
+
+So again, count them. There are 50 coloured dots in that image, how many of them are green, how many are red, how many are blue?
+
+By the way, the reason reviews mention 2/3rds is because of how this layout allows them to borrow a sub pixels from its nearest neighbor to essentially fake having more. Allowing lines to appear sharper than they would if they didn't do this. Go check out an old sub HD pentile screen and youll see how this falls apart when the sub pixels aren't super tiny like on these HD and QHD screens.
+
+
+The Air 2 is a much more powerful tablet than the air 1. You can certainly get by one the 1, it is still very usable and cheaper than the 2.
+Count the pixels yourself, it isn't hard. 
+
+And it looks sharper because it is. There is a full 1440p resolution there on the green channel, and our eyes are most sensitive to that colour. Additonally, at least in the Galaxy phone, they are able to do subpixel rendering, which allows them to treat each sub-pixel as its own element, rather than as a group (red, green, blue) like in standard RGB.
+
+But, all that said, it simple falls apart when you get really close. GearVR for example. Or if displaying images mostly comprised of blue and red. As long as there is a decent amount of green it will still appear to be quite sharp.
+
+Diamond Pentil used the following arrangement. A - is a blank space. You can't refute this, it is right there in my picture.
+
+R-B-R-B-R-
+
+-G-G-G-G-G
+
+B-R-B-R-B-
+
+-G-G-G-G-G
+
+It is lines of alternating red and blue, followed by lines of just green. Every other line of B/R swap the order of the colors.
+
+
+
+
+I wouldn't purchase anything less than the ipad air 1 honestly.
+
+What might suffice now will potentially not in a year or 2.
+
+Apple still sells the iPad mini 2, which is the same guts as the Air 1.
+
+My 2 cents.
+Use a black permanent marker to hide it.
+
+It won't be perfect but it will darken it.
+
+Best part is that a little alcohol will take it off real easy if you need to.
+Chill bro, have a candy.
+http://i.imgur.com/zbQ3cBa.png From my S7 Edge, count the pixels yourself.
+
+25 Green. 13 Red. 12 Blue.
+
+Assuming Green is full resolution, that means that there is Half the number of Red and Blue pixels as Green in each direction.
+
+2560/2=1280 Width
+1440/2=720 Height
+
+ie. 720p
+
+1280x720=921600
+2560x1440=3686400
+
+So, 921600 Red, 921600 Blue, 3686400 Green, for a grand total of 5529600.
+Sorry, but I have to be blunt.
+
+Stop worrying about your phones battery health reading from a random app and just use the f***ing phone.
+
+Best of health ;)
+Heres the thing, the 1440p amoled displays aren't really 1440p.
+ 
+They only have a resolution of 1440p on the green channel, the red and blue channels are both 720p. This is due to the pixel layout used, in the case of the S7 for example it is Diamond Pentile.
+
+What this means is that content that is mainly red and/or blue, but lacks green is actually not that sharp. You can see this very clearly by using the Gear VR. Text on white backgrounds does look very sharp though.
+
+Here is an example I took of my [S7 Edges' screen](http://imgur.com/t5smniF). Notice the much more visible pixels on the blue and red sections of Google's logo.
+
+The 1080p panel in the 7 plus actually has more total sub-pixels than the 1440p panels on pretty much any OLED.
+
+**Total Sub-pixels**
+
+S7 Edge: 5,529,600
+iPhone 7 Plus: 6,220,800
+The suggestion to not point it at the sun stems from DSLRs. Where people would to to use the view finders to aim at the sun, which is obviously just like looking into the sun with your naked eye. 
+Giggity?
+Change the cost range to w/e suits the handset in question, my point is that they should all receive updates. For years.
+
+Every last one of them, even if its just security and bug fixes.
+I don't really care how many lines of phones they have. They release a product and should support it. It's not like they have to re-write the entire damn OS for every phone.
+
+Do you think they are giving these things away? People spend $500+ dollars on some of their tablets and phones and they never see 1 god damn update. Or they spend upwards of a grand and they are lucky to see 1 feature release, and then crickets.
+
+Sell it and forget it. It's pathetic business practice and they only get by because they do make really good stuff.
+Many many owners still aren't even on nougat yet and we know that we won't get much beyond that. 
+
+They are great phones, but long term support is not on Samsungs agenda. 
+Shouldn't have to make the choice between features and updates, yet here we are.
+Checks out, stolen phone.
+You only have yourself to blame.
+
+Just because you damaged this one more than your previous doesn't mean that damage was caused by a weaker screen.
+
+Accept that you fucked up and move on.
+So no?
+To each their own. Enjoy. 
+Usage includes background tasks.
+
+If you've only been on battery for 3 hours and it says there is 3 hours of usage it means that something in the background is constantly doing something.
+
+As an example, my phone comes off charger at about 7am, it is 2:35 right now and my phone claims 7 hours 40 minutes standby and 2 hours 34 usage.
+
+If those numbers match, and you haven't used it the whole time, there is something keeping your phone awake.
+And wildly inefficient.
+There are always fringe cases I agree.
+
+Its nice to be there, I would rather it be there, but lets be fair here most don't use it.
+
+And by most, I mean the average joe. This subreddit will be full of "power users", numbers will be skewed.
+
+I manage the phones at my company, we have over 10 S7's deployed (over 30 iPhones) and I keep asking people if they use the multitasking features. They always are surprised it exists and still do not proceed to use it :P
+Which I have to say I never use.
+
+Useful on a tablet, kind of useless on a phone.
+
+To me its no harder to just switch apps.
+Camera module is likely bad.
+
+Replacements are cheap, buy one and if it works great, if it doesn't then you know something on your mainboard has crapped out.
+Thats school, they will have a much larger pipe than most homes and likely a symmetrical one (both up and down speeds match, such as 100Mbps up and down).
+Basically anything implying height :)
+I don't like this. Nope... nope. 
+
+Take it back. Thanks. 
+I'm sorry, I have no idea what you are trying to say.
+I really don't get the stigma against using a tablet as a camera.
+
+It is arguably better than a phone due to its larger size, both for viewfinder size and making it easier to keep the thing stable.
+
+I get it looks a little funny, but unless you are somewhere where your huge table is blocking peoples view I dont see the issue.
+
+Practically every review of every tablet will say you shouldn't use it to take pictures, idiotic.
+
+Just another thing to hate on cause its cool.
+Another fun thing.
+
+Get a bar of soap and bring your face pretty close to a mirror.
+
+Use the soap to outline the shape of your head in your reflection.
+
+Now back up, maybe 6 feet or so.
+
+The reflection of your head will still fit in the outline you drew with soap.
+
+Reflections in mirrors don't change size, regardless of your distance to the mirror.
+The proximity of the TV to the Camera is irrelevant.
+
+Only the horizontal position matters in this case. Light is way too fast to make the distance of the reflection matter.
+
+You need to study your grammar, Son.
+Buy a second black one and and make an S7 Edge Oreo.
+That his theme just get back to default!
+Listings I claimed to exist? Wth are you talking about?
+
+I never claimed anything about any listings.
+You're expecting too much and you're not going to get it.
+
+It isn't worth anywhere near $200.
+
+Sorry but that is the reality, its mobile tech, they don't retain value.
+Says right on the box that it contains fruit & veggie juice.
+
+https://www.motts.com/images/products/motts-fruit-snacks-medleys-fruit-flavored-snacks-assorted-fruit.png
+
+Hence the medley in the product name.
+You mean the one you can see on the package?
+Due to inertia.
+
+Recommended viewing: https://www.dailymotion.com/video/x3kxcss_bill-nye-the-science-guy-s5e20-motion_tv
+
+Supply and demand dude, the demand isn't there and there is no shortage of supply.
+
+No demand = No money.
+
+Yes it is very capable for certain things, but so are other brand new devices that you could get for what you are expecting.
+Do NOT use alcohol.
+
+The phones water resistance (the 6s does have some water resistance in place) relies on rubber seals and adhesive, both of which can be damaged by alcohol.
+
+Water is your only option here.
+I personally prefer white bezels and in no way find them distracting.
+
+Plus I love the gold finish so there is no choice but to get white :P
+Great username you got there. Fitting.
+The Caseology Parallax case for the S7 Edge is pretty nice.
+
+Decent protection and feels great to hold with the textured back. Looks decently classy too so doesn't look out of place in a work place.
+
+https://www.amazon.ca/Caseology-Parallax-Textured-Pattern-Samsung/dp/B01CDUMM2S/ref=sr_1_2?ie=UTF8&qid=1485982535&sr=8-2&keywords=galaxy+s7+edge+caseology+parallax
+Yup.
+
+Do not wipe your phone within 3 days of resetting your google password.
+
+Anti-theft feature.
+Depends on what game you are playing, some can really drain the heck out of the battery.
+
+Also Drawing isn't as lightweight as people thing. It takes a fair amount of horsepower to do all the operations it does.
+Don't bother. 
+
+Unless you have something writing to the phones storage there is no point in ejecting. 
+The S7 scores around 130k.
+
+Not sure where you got 200k.
+What is your screen on time during this 57m 22s peroid?
+
+If we don't know that we can't say much.
+And ipad has a much larger battery than a phone, you cannot charge it at the same rate.
+
+You can use a bigger wattage charger than the included one to speed things up a bit though.
+Dude, post the photos you are talking about.
+I've had no issues at all with the fingerprint reader on Marshmallow.
+
+Gets it right pretty much every time unless my hands are wet or something.
+Yeah? What?
+Just for clarification, here is the breakdown found on the S7 Edge (Diamond Pentile)
+
+A grid of **10x10** columns and rows will have **50 subpixels**, and **50 spaces**. Out of those **50 subpixels**, **25** will be green, and **12 & 13** will be red or blue (in w/e order).
+
+In your example, when there are only **2** colours being displayed, the breakdown is the following. These numbers assume there were **13 red** and **12 blue**.
+
+> **Red + Blue = 25 pixels = 50% resolution of equivalent RGB Matrix**
+> 
+> **Red + Green = 38 pixels = 76% resolution of equivalent RGB Matrix**
+> 
+> **Blue + Green = 37 pixels = 74% resolution of equivalent RGB Matrix**
+
+**66%** average resolution which would be roughly **920p**
+
+or
+
+**1/3** chance for roughly **720p**
+
+**2/3** chance for roughly **1080p** 
+
+Total subpixel count of the Diamond Pentile layout is about **5.4 Million** total, which is lower than that of 1080p at **6.2 million**.
+
+All that said, in practice it really is hard to tell the difference. Most images contain a mixture of all 3 colours and it will look to resolve to 1440p. Especially on these tiny screens.
+
+
+
+
+This is the screen on my Galaxy S7 Edge.
+
+Figured the google logo did a good job showing how different colours effects that patterns displayed by the diamond pentile layout.
+
+http://imgur.com/t5smniF
+[Here you go](http://static4.depositphotos.com/1000733/347/i/950/depositphotos_3472366-stock-photo-cobblestone-texture.jpg)
+Sounds like a great way to get someone you don't like murdered haha.
+
+"So, these guys with guns will come challenge you. Stand your ground! You'll be fine" ..... **laughs microscopically**
+Like the Air 2 and the Pro 9.7? :P
+The iPhone Plus line are no where near as big as a ipad. A 1" increase in screen size equates to a lot more area.
+
+Using any phone, even a phablet, is far from the experience of using a tablet. The 4" difference in the iPads screen sizes triples the overall screen area over the 7 Plus (double in the case of the Mini).
+
+Not saying a tablet is better, but personally I'd prefer to do almost any action on a larger screen rather than a smaller one (typing aside, I find it easier to type on a phone than a tablet).
+Don't you think the attitude in the title of your question is a bit much considering you are not setting an alarm?
+
+A timer is NOT an alarm, they work in different ways. Android has a Alarm process specifically there to trigger certain actions (like the alarm noise) when a specific time is reached and will ensure the phone is awake during that time.
+
+A timer is not the same thing system wise.
+
+If you have DND mode on the phone even warns you that the timer you just set will not sound while this mode is enabled.
+Tell that to my phone that got a deep scratch down the center of the screen and a huge scuff scratch over the front camera, all on a day where I barely left my desk at work.
+
+No clue what did it, but I wish I had a protector on it.
+
+Ohh well, company phone.
+Do you have any software to make Androids Doze feature more forceful?
+Moon person here. Fuck you.
+I didn't think TrueTone was of any significant, but I have to say it is awesome.
+
+Never do my eyes strain anymore when using it in dimly lit rooms. I put my old iPad 4 side by side and the 4 looked like the whole screen was colored over with a blue magic marker.
+
+Once you see you can't unsee.
+
+All that said, you can hack in the feature by manually adjusting the nighttime mode. 
+Hopefully he will get there, that dev is awesome.
+I just want sync to be on IOS.
+
+Sync is by far the best reddit app i've come across, I miss it so much when using my iPad.
+No, you have to wait, its an anti-theft mechanism.
+
+If you reset your password, do not reset your phone within 3 days prior.
+Handled faithfully, like your description, they are a great opportunity. A mutually beneficial arrangement.
+You son of a bitch! :D
+If they ask you then you be honest. You value your time and you were gaining nothing.
+
+Any decent hiring manager will respect that, as long as you can back up that you did your best to search for an alternative during and after that internship.
+
+I mean if you get to see business practices really at work, and are taking it all in then there may be more benefit than you think. But that's for you to decide.
+The span I am referring to is the amount of variance in what birth year constitutes a "Millennial"
+
+Considering on the low end of (1980-1984) and on the high (1997-2004) that means the "Millennial" window can be a low as 13 years, or as high as 24.
+
+Seems their millions of dollars would be better spent elsewhere if they can't even decided who is a Millennial, even before we talk about describing their shared traits.
+The first paragraph in the Date and age range section on wikipedia:
+
+> A minority of demographers and researchers start the generation in the late 1970s, such as Synchrony Financial which describes Millennials as starting as early as 1976,[22][23] Mobilize.org which uses 1976–1996,[24] MetLife which uses birth dates ranging from 1977–1994,[25] and Nielsen Media Research which uses 1977–1995.[26][27]
+
+Its in there, a minority yes, but in there.
+
+And don't you think the 11 year span between those start and end ranges you provided is a bit much?
+
+There is a pretty big difference between a 20 and 31 year old.
+
+The term Millennial is pretty pointless.
+And a few put it into the 1970s. Why are you arguing so hard against a joke.
+
+There is no universally acknowledged age range for Millennials, everyone uses a slightly different range. This makes calling someone a Millennial, especially as a derogatory term rather pointless don't you think?
+Change that 2 to a 3.
+Dont remember the last time someone on my list posted a meme I hadn't seen weeks before on Reddit.
+
+This place really does ruin Facebook in that respect haha.
+
+* *As a disclaimer* * to anyone who might feel like saying it, yes I know Reddit isn't where a lot of it is first posted, we get sloppy seconds too.
+Haha, i'm sorry if my tin foil comment rubbed you the wrong way, the line just came to me and I had to give it a go.
+
+My general feeling on the privacy thing is this, if you don't want anyone to know about it best not put it on Facebook.
+
+As for the app itself, on the S7's it is a built in app, so i can't really test its true install time. After disabling the app, re-enabling it, the update to the new version, excluding download time, took roughly a minute and forty seconds, which is a long time yes.
+
+That said, tons of system and other apps have ties into Facebook, ties that likely need to be made by the OS upon installation. Ties that will not need to be made for almost any other application.
+
+Personally I am just not a fan of crying wolf if it might be a sheep. Their coat is very useful and mutton is delicious.
+You know why apps need permissions right?
+
+Facebook allows you to take pictures in-app, hence it needs permissions to use your camera. Facebook can search your contacts to add or invite friends, hence it needs access to your contacts. On-and-on down the line.
+
+Then the takes too long to install comment.. wow. Not sure what to say about that. I don't think the tin foil hat is very fashionable these days, might want to consider taking it off.
+Except that saying someone is "pushing" an age is equivalent to saying nearly or almost. 37 year olds are almost(nearly) 40, they're closer to 40 than 30.
+Hence the word "pushing".
+That is true, and that is why I purposefully said consistent battery drain. Every app on android has its days, nature of the beast.
+
+Google photos the other day drained 20% of my battery according to my battery meter even though I hadn't opened it once, nor had I taken any pictures.
+
+Android is just weird at times :P
+Not sure, but I suspect the battery graph is lying to you.
+
+Whenever I have had serious battery drain and there seems to be a guilty party on my battery list I take a debug dump and take a look using Battery Historian.
+
+Usually I find it is something else, like google failing to do a backup or some location service crap.
+
+I honestly think the Facebook apps get a bad rap. Maybe they were awful in the past but I have yet to have any consistent drain from them.
+
+I even did tests by removing them and noticed no change in my battery at the end of the day.
+
+But people will continue to cry wolf.
+Seems to be Generation Z'ers.
+
+From Wikipedia:
+
+"Generation Z (also iGeneration, Post-Millennials, Centennials, or Plurals) are the cohort of people born after the Millennials. The generation is generally defined with birth years ranging from the mid to late 1990s through the 2010s or alternately ranging from the early 2000s through the early 2020s."
+Just as a data point, I have had no issues with battery drain today and did experience the one last week.
+Millennials are pushing 40. What do you have against 40 year olds?
+[Space](https://www.youtube.com/watch?v=xeKMS62GrTI)
+How does one type out the whistles in his speech?
+
+Newwswsws?
+Winehouse?
+I manage the cellphones at my company, and while not a huge sample, it is larger than most other people's here.
+
+We have 11 S7s in the company (most people choose iPhones) and not a single one has come back to me with a broken anything in the months since its release.
+
+It sucks for people who have had it break, but don't let the loud minority scare you off.
+Guess i'll chime in,
+
+Telus nothing :P
+Very true.
+
+Aihsa is alright, but her laugh is a bit annoying rather than contagious.
+
+It sounds like shes sarcastically laughing rather than being genuine. Don't mind her personality though, she gets along with the cast well and still takes are receives funny abuse when the opportunity arises. Plus i'm really just there to see Colin and Ryan with Wayne cracking up beside them :P
+That show isn't the same without his laughter in the background.
+Episodes are all over youtube. It wont have everything but there is a ton to watch.
+
+For the new who's line with Aisha Tyler there is a add-on for chrome called pitch-shifter which can adjust the speed and pitch of youtube videos. This allows you to "fix" all the speed up and high pitched videos people make to avoid copyright claims on the new ones.
+"He put my stone back in my end!"
+My experience is it is just the cell signal in your area.
+
+I work in downtown Toronto and I get full bars on both wifi and cellular and am down to 95% (the point at which the battery symbol is no longer full) by about 9:30 in the morning without using the phone much. I take it off the charger at around 7 am so that's 2 and a half hours of mostly standby time.
+
+Yet when I am at home, still full bars on both, it will take me until 1 or 2 pm to lose that amount, same usage.
+Purchase it ;)
+
+Its far and away the best reddit app i've ever found, the dev deserves the pay cheque.
+Are they? Good to know!
+This excites me.
+
+Hopefully Telus doesn't fall too far behind that mark.
+I don't mean things need to be be made of metal, glass, or diamonds to be beautiful.
+
+I just don't see the appeal of that devices design, it had no design. It was a flat brick with rounded ends on its face and a massive camera circle on the back that was 3 times larger than it needed to be.
+
+To each their own.
+Looks like a toy to me.
+
+I don't see it's design as simple, I see it as a lack of design.
+
+It was a great phone for the time don't get me wrong, but I never saw it as a nice looking device.
+Buys bulky case, complains its too bulky.
+
+People are idiots, don't mind them :D
+I got lucky with my case. My carrier had the exact case I wanted, so I bought that from the carrier and ordered the same one from amazon.
+
+When the amazon order arrived I just took it unopened (the phone box not the package) to my carrier and got a refund.
+Also remember that many credit cards extend the warranty on anything you purchase by a year. If it fails within a year after the manufacturers warranty expires you're covered for the repair. 
+
+Amazed at how many people don't know that one.
+Probably watching Rugrats.
+OLED screens such as those on the Samsung Galaxy line of phones are somewhat susceptible to it, its just the nature of the tech at this point in time.
+Burn in is not fixable. The phosphors or dyes that emit the light have been "burnt" into a state where they emit different levels of light compared to the rest of the screen. Theoretically you could use an inverted image of the burn in to even out the screen but good luck with that.
+
+The more temporary form is called Image Retention and can potentially be mostly cured by watching varied content for an extended period of time.
+
+
+Agreed its frustrating.
+
+Having just bought a 9.7" pro (and having and android phone too) the difference in speed is significant.
+
+Its great that Apple gives these 4 year old tablets the latest updates but I do think they should prune heavier features out a bit more than they do to keep performance levels more in line with one another.
+
+The iPad 4 was butter smooth when it launched, and even remained pretty smooth when iOS 7 dropped but as they added more features beyond that it really took its toll.
+
+In my experience with my old iPad 4 is that this is almost entirely exclusive to entering a search into safari or spotlight, where it has to give you a bunch of search results after every letter you type.
+
+Is your experience different?
+I don't have enough evidence to make a claim on the lens glass one way or the other.
+
+If there is a defect in the glass, be it manufacturing or caused by the user, the glass can break seemingly on its own. Its the nature of thin sheets of glass.
+
+One thing you'll never find on one of the "my lens glass broke itself" posts is a nice clear shot of the condition of the unbroken glass the day before the incident occurred ;)
+You are correct. If the phone was fully sealed it would blow its seals should you decide to take flight anywhere.
+
+The phone is water tight, not air tight. If air can get in/out steam potentially can too, though it will be harder for it to ingress than air.
+
+That said, I've had phones and music players in the bathroom for years (in the room, not in the shower) while showering and have never had one incur any water damage.
+
+Actually having it in the shower with you will obviously stress the seals more than simply being in a steamy room.
+Your phone has come into contact (multiple times by your account) with grit of some kind, there is just no other way this can happen (other than the obvious contact with rock or concrete surfaces).
+
+The screen is way harder than plastic and harder than un-hardened metal as well, it won't scratch itself.
+You sure it wasn't just the noise of air coming out of your nose?
+A case will insulate the phone, there is no question about this, so yes it will in the least not help the phone dissipate heat.
+
+That said, cases are generally thin, and the effect will be minor.
+My god, that was funnier than it should have been.
+Am I the only one who thinks it looks like they did that by colouring mashed potatoes?!
+I am really not sure what to tell you, I've given you my opinion multiple times.
+http://imgur.com/a/7Aggu
+
+As close as my lens will let me get.
+
+If you can't see a highlighted edge your speaker grille is probably just  a bit too close to the glass.
+
+
+The white lines there will only be light shining off of the glass.
+
+If your speaker is slighter too high then it would press up against the glass and be less likely to give you the specular highlight from the edge of the glass.
+
+Do you have a way to take a higher quality photo? These kinds of things are something we really need to see very close up and your photos don't hold up under magnification.
+I'l can take pictures at home yes.
+
+That said,  I am still confused about what your complaint is about. Your picture just confuses me more. 
+I had to borrow a co-workers phone and get him to email me that photo. Don't want to keep bugging him. 
+Sorry. I don't know what you are referring to. 
+http://imgur.com/a/mA95X
+Mine seems to be correctly centered.
+
+That said, this is a mass produced product. Many things have to be perfectly aligned for it to all line up in the end and not every one will be perfect.
+> If the optimization of the game is crap, the game will not perform good :)
+
+Was more interested in the joke than correcting grammer, but if you insist :P
+
+"If the optimization of the game is crap, the game will not perform well :)"
+https://s-media-cache-ak0.pinimg.com/236x/cf/54/5f/cf545fa8363f0fb52b65a1537c5b5cab.jpg
+
+Sorry, couldn't resist.
+You rooted your phone and used an app that adds apps to UPSM, UPSM stopped working and you wonder what happened?
+
+Pretty cut and dry dude.
+Conan has no shame about perving out, he wouldn't hide it.
+Go to the link in a browser. Looks fine there. I use sync for Reddit and I see the banding there but not in chrome. 
+http://www.samsung-wallpapers.com/uploads/allimg/160402/1-160402230Q5.jpg
+I've literally watched a Purlator guy get out of his truck with delivery slip in hand and leave it on my door.
+
+There is no question they pull this crap.
+That feature is not enabled by default (At least in Canadian Exynos models).
+
+Settings>Advanced features>One-handed operation>Reduce screen size
+Just reboot the phone, it will say the model on the bootup splash screen.
+Until they get you to prove it, show that you were lying, and take it from you or worse ;)
+There is an open in background option in addition to open in new tab. Praise be!
+With no physical damage it is a manufacturers warranty issue, no an accidental damage one.
+Ok thats awesome.
+
+I always figured it would show a map, but had no idea it would show you all photos on the map.
+
+Cheers.
+
+Volume Down + Power is the combo for a panic reset, which is the only combo that will do anything in this case. 
+
+All I can say is it should work. If that LED is on then the board is alive and should respond to this command. If it doesn't I suspect Samsung will need to get involved.
+I'm not sure why the curve drives people so crazy.
+
+I've had the edge since early May and haven't had any issues.
+
+The only thing I can think of is accidental touches, but those have not been an issue, even with my thin fit case.
+
+The only time where it can be troublesome is when trying to use the phone one handed and I need to reach across to the opposite side of the phone im gripping, and high up on the screen.
+
+For my hand size I can't really get there anyway so I always just use one handed mode in that case to shrink down the screen size.
+PTSD, don't try to rationalize it.
+Person wants to sell something, goes to a place that will buy it, that place offers them a price, the person accepts, and then bitches about getting low balled.
+
+People are idiots. You don't have to sell it to them...
+Because the first thing you said was you would hit them....
+
+So you would hit them, but it wouldn't be your goal. So the I'm going to swing my arms like this, and if you get hit its your oowwwnnn fault" approach. 
+
+Won't hold up in court ;)
+
+Edited my link for ya good sir. 
+You literally typed
+
+"If someone ever gets out and angrily walks towards my car I'm driving in to them"
+
+So you would hit then with your car. Seems like tough guy talk to me  
+
+And I apologize for my link from Google. I'm not going to save it and upload it to imgur just to make a joke. 
+[Internet Tough Guy](http://www.relatably.com/m/img/internet-tough-guy-memes/2f94fe5da679ea95cff6162f8fc44932b7a57d9ebbb6b7c9512405a68402bef7.jpg)
+Watching 1080p videos on my 1440p or 4k 28" monitors at home still looks plenty good, so factor in the crazy PPI on these screens and you will not be able to see a difference.
+
+Yes 1440p video does look a little sharper if you are 2 inches away from the phone, but good luck seeing any degradation at a normal viewing distance.
+https://media3.giphy.com/media/TziYd1ClxHmiQ/200_s.gif
+I've been on and off again since it came out.
+
+Its an amazing game, but it is a lot of the same.
+
+I am getting close to completing the main story at this point and its awesome to know I still have two expansions when I complete that.
+I would argue that the Bear line of Witcher gear is the best looking.
+
+http://i.neoseeker.com/n/9/the_witcher_3_wild_huntbear_armour.jpg
+You didn't watch the video did you? Unless you think the Sun flickers...
+Samsung's screen are not easier to scratch than any other brand, if it happened to your phone then it would have happened to any other.
+
+Put a screen protector on it, the adhesive will fill the scratch and make it invisible.
+I've wondered this myself thanks.
+
+Does this history not store notification contents?
+Omg, that guy hit by the pole.
+If that doesn't bring it back then I'd say it's pretty much dead. 
+
+Hope I'm wrong. 
+Unfortunately shit happens.
+
+If you are willing to sacrifice water resistance you could order the part and replace it yourself.
+
+If you want to maintain resistance then you should get Samsung or your carrier to do a repair, which shouldn't be too expensive.
+
+Good luck.
+Your sale was from the carrier you purchased it from. They are the ones who you need to deal with (other than Samsung directly).
+Calls.
+Volume Down + Power does a Panic Reset.
+
+If it is recoverable that will do it.
+I am going to guess all people with issues have the Snapdragon variant. My buddy who has one complains about it.
+
+In my experience the Exynos version does not suffer from it.
+Not off the top of my head, I just remember seeing that case reviewed.
+You seem like a fun person.
+You do realize that the current through a conductor between two points is directly proportional to the voltage across the two points?
+Canadian from Toronto, we used Nickey Nickey Nine Doors as well.
+This is normal.
+
+When you get the phone it is unlocked and will factory reset itself when a SIM is first inserted.
+
+It will not do this again, even after an additional factory reset.
+
+I manage the Cell Phones for my company and this has bitten me in the ass a number of times. Have to remember to always insert the SIM first thing :P.\
+
+An additional PSA.
+
+If you have changed your Google Password within the last 24 hours, do not factory reset the phone. It will not accept the new one and youll have to wait something like 3 days for it to unlock and allow you to activate the phone again.
+
+Pain in the ass, happened to our President. He was not happy...
+Samsungs battery case charges the phone wirelessly I believe.
+If you just put an SD card in and it has a lot of files, your phone will heat up due to it scanning for media.
+
+It should settle down after a day or so, also keep in mind that since the phone is glass and metal you will feel the heat more than a plastic phone.
+
+At the end of the day the phone has built in thermal protections, if it isn't warning you then it isn't getting too hot.
+
+Don't worry about it.
+The S7 despises grainy shots, so it will use a longer shutter rather than upping the ISO when it can.
+
+You can either go into PRO mode and set a fixed shutter speed that wont result in blur or you can download the Sport mode for the camera and use that. 
+Nothing special but I enjoy the simplicity.
+
+http://imgur.com/a/wvn4i
+You do have higher karma than I, correct. That can easily be attributed to the fact that I rarely post, having only submitted 5 posts in the past 7 months. Take that for what you will.
+
+And again, the reason I err on the side caution is because I have personally seen the phone fail. I have seen 2 s5's fail. My sample sizes are larger than 1 phone, but we aren't even talking hundreds of phones here, maybe 50. Part of my job is handling company cellphones, so when our phones come back damaged I have to deal with it. None of these water resistant phones should have come back damaged, yet they did. Expensive things to replace.
+Wow, you've had a 9 month old phone for a whole year now! You're a time traveler come back to tell us that the s7 is infallible!!!
+
+You reject and ignore any legitimate concern and respond with hyperbole, and you wonder why you get downvoted all the time.
+
+Here's to your health! /cheers
+Now you're just being childish.
+
+Go ahead and ignore the reality of the implementation of waterproofing in the S7 line, be my guest. 
+Yes.
+
+Go watch the video you linked on what actions were taken by Samsung to make the phone water resistant. It is simple stuff. Waterproofing equipment is done everyday in other industries, it is a time tested technology and very well understood. Just because we are only seeing it in the consumer cellphone industry now doesn't mean that is because of challenge.
+
+Samsung used sealed jacks with rubber gaskets on the chassis interface, and maintained pressure on these seals by screwing them down. Other ingress points such as the screen, back panel, and camera lens are simply sealed with a gasket of adhesive.
+
+This isn't hard stuff. What it is is time consuming to find the right level of resistance to achieve their goal rating, and then to get them actually IP rated. Certifications take time, lots of it.
+
+The Pixel was a heavily rushed phone, going from design to sale in less than a year. Effects of this can be seen with the Haloing issue for example. They didn't isolate the camera from the glass panel on the back, so light gets captured by that panel and gets essentially funneled right into the lens.
+
+They either didn't care enough, or didn't have enough time to include any water resistance.
+That's easy to say when yours is the not the device that has died. I was affected because I was the one who had to try and get the thing replaced, and it was my budget that the replacement device had to come out of. These things aren't faultless and people need to be aware of the potentials, once they are they can do w/e the hell they want, it's their device. Take it in the shower, play water polo with it, who cares.
+
+And yes it is that easy to add water resistance to a phone. Every phone is designed around certain criteria and your example such as the the Pixel and older iPhones were just not designed to be water resistant.
+
+HTC and Google didn't bother doing it. It's not that they couldn't....
+It's pretty thin, I doubt it.
+And if a single person here takes their phone into water and it is damaged due to this post, you better take your heat in turn.
+
+There is no technological progress here, it is simply a set of rubber seals pressure fit against the chassis and stencils of very sticky glue to seal between the glass panels and the chassis. It isn't rocket science, nor is what these ratings really mean.
+
+I'm glad you've been able to do all of the things you mention with your phones, but it won't turn out so rosy for everyone.
+
+Take my CEO for example, his S7 died when it got rained on. It was sitting on a bench and it started down pouring and they ran inside. The phone was out there in the rain for 2 minutes while he grabbed an umbrella since he knew the phone was water resistant. Thing had already died by the time he got it inside and Samsung, for the lack of a better term told him to sit on it and rotate when he tried to claim it under a warranty repair. Thing was 2 months old.
+Anodized aluminum (Aluminium Oxide) is harder than bare Aluminum, so a bare frame would be easier to scratch.
+
+The colour is also entirely embedded with the pores of the Anodized coating, removing that will remove the dye.
+
+Example image of an iPhone unibody.
+
+http://www.idenver.org/photos/Repairs-and-Customizations/polished-4-frame.jpg
+IP68 is NOT rated for any pressurized water, you would need a 6 rating for that. It is a rated for immersion in water up to a specific water pressure, in this case 1.5m of depth for 30 minutes in controlled conditions.
+
+It is there in case of accidental submersion and should not be expected to protect absolutely.
+
+Samsung DOES NOT cover any water damage under warranty. If the seals fail, it is on you to cover costs of repair.
+
+It also does not rate it against anything other than fresh water.
+
+Soap in the shower, salt in the ocean, chlorine and other chemicals in pools, acid rain etc can all damage the seals and pins in the charge port and headphone jack.
+
+Get these things wet at your own risk.
+Nothing.
+
+The frame is anodized, any attempt to polish out a scratch will result in the removal of this coating and you'll be down to bare aluminum.
+
+Unless you want to do this to your entire frame you will just have to live with the marks.
+The general answer is no.
+
+It is hard enough for repair shops to get the screens off without breaking the whole thing, not even speaking of doing a glass only repair.
+Remember, go fuck yourself.
+
+Do it hard.
+Twist, that's a dogs tail and the camera is strapped to the dogs back.
+USB sound devices work, though I can't say universally.
+
+It will affect your battery, especially if it has a bunch of LED lights.
+Not sure why it was marked NSFW, its a picture of "god" with a hat.
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9zz4KW1MtYIRblVumVKxrpX6DKVAKdxSEpNwMRIrGuicxTEO0
+http://i.imgur.com/9hiZRm5.jpg
+Spectacles, tesitcles, wallet, and watch. 
+Tell that to my phone that somehow got a huge scuff mark over the front camera and a long gouge down the middle of the screen.
+
+No clue what did it.
+If you say so. 
+You could yes. 
+If you think only kids but those things you might want to take another look out in public. 
+
+Anyway, I'll leave you to your cynicism. I'll go enjoy my super disruptive crazy bass in my apartment. 
+Certainly an interesting use case. I would be concerned about the Bluetooth reliability though, cheap devices tend to not be reliable in that respect.
+I'm not talking wubwubwub bass. The term bass doesn't have to involve shaking the walls.
+
+I would also point out one of the large contributing factors to the popularity of Beats by Dre. Wubwubwub. People like bass. 
+Yes, it will be per channel.
+
+Wattage is largely irrelevant, the way powering speakers work is most people will only use a few watts per channel in a home environment. As you go louder, it takes exponentially more power to do so, it isn't a linear scale. Most speakers will produce 80-90db on only 1 watt.
+
+The main concern is the resistance of the speaker, and this does matter. The standard is 8ohm and most equipment will expect this resistance. Most cheap speakers from Home Theatre in a Box systems for example are 4ohm, and could potential damage an amplifier if it isn't designed to support them. This is because a speaker of lower resistance will require more power to produce the same level of volume, so your amplifier has to work harder to power them.
+
+The power listed on speakers is the MAX amount of power you want to feed them without damaging the speaker. Any more than that and you may blow them.
+
+Large floorstanding speakers with lots of drivers may be bottlenecked by too weak an amplifier, but you could run most mainstream speakers off a 40 watt Lepy amplifier easy. Lepy amps are cheap as chips amps that are generally ment for car use, but are great for a cheap solution to power a couple speakers.
+
+https://www.amazon.com/Lepy-Channel-Digital-Amplifier-Included/dp/B01AQARWHW/ref=sr_1_2?rps=1&ie=UTF8&qid=1480112573&sr=8-2&keywords=lepy+amp&refinements=p_85%3A2470955011
+
+If your TV has RCA audio out than you can run it directly to the amp. If it doesn't you can use a simple optical to RCA adapter to convert the audio.
+
+https://www.amazon.com/D03K-Digital-Analog-Audio-Converter/dp/B009346RSS/ref=sr_1_1?ie=UTF8&qid=1480112767&sr=8-1&keywords=fiio+optical
+
+Or just get the receiver of choice :P
+
+
+And going strong.
+
+Whose equipment are supermarkets and home centers supposed to sell without them?
+The number after the decimal is the number of subwoofers, so in a 7.2 system you have 7 speakers and 2 subs.
+
+As for the first number, the number doesn't signify their arrangements, only the quantity.
+
+For example a 5.1 system could have either side or rear speakers, side being typical as many dont have enough space behind their couches for rear speakers.
+
+You will also see two decimal points, ie 7.2.4. The third number signifies the number of height speakers, typically ceiling mounted. These are for mainly effects, such as rain, wind, explosions, jets etc that are overhead. When you see Dolby Atmos or DTS-X they are referring to the ability to have height speakers among other benefits.
+Good luck. Let me know if you get anything, always interested to hear what people are choosing.
+If you feel they sound great and are happy with one then all the power to you.
+
+I am pointing out a superior solution exists for not as much as many expect.
+For the most part yea. Some diamonds in the rough though ;)
+Everyone can tell the difference, most just don't prioritize it.
+
+If they don't care than my advise isn't directed towards them.
+Hey, i'm not telling people what to buy, I am suggesting a higher quality alternative for those who are willing to spend the cash.
+
+There are always cheap options and you get what you pay for.
+Very possibly.
+
+I would be very interested to hear how that sounds.
+I am describing sound quality, not quantity.
+
+Yes soundbars can get loud.
+
+Do you know the model they purchased?
+If you don't have the money then you don't have the money. My points are intended to show how good quality audio doesn't have to carry a massive price tag.
+Floorstanding speakers generally have more drivers in them, so they can get louder than bookshelves, as well as being more balanced tonally because they can use different sized drivers in the same tower to cover the spectrum better. Because they have such a large cabinet they will also produce lower tones better than the smaller bookshelf versions.
+
+There is nothing wrong with floor standers in the rear or sides but mostly only effects come out of those channels, its pretty much thorwing away money of a difference you wont hear.
+
+Plus rear and side speakers tend to be in the way in rooms, so the smaller the better for many.
+If you already have a Bose system then it likely isn't the worse thing in the world. Bose gets a bad rap, just like beats do.
+
+I would say if you wanted to step up it your next system would be a nice receiver (Dolby Atmos is taking off now for height channels) if you dont already have one and a maybe $1000 or so 5.1 setup from the likes of Polk, Klipsch, or other main stream audio brands, but from their higher lines.
+It isn't about volume level or bass level. Better sound is better sound. If that isn't your forte then don't buy anything and enjoy what you enjoy. 
+Not all heroes wear capes. Don't want to get sucked into any jet engines!
+Those speakers will output 87 db at 1 watt of power. The rated power rating is the max the speaker will take without blowing up. 
+
+A 15 watt amp will do just fine for a small to medium sized room. 
+An optical cable from your TV to a $20 optical to RCA converter to a cheap $15 stereo amp will drive those speakers just fine. 
+
+No receiver needed. 
+If you don't care about getting better sound then my points are not directed towards you, they are directed to those who want great sound but thought it would cost $500-$1k+ to get it.
+
+Get whatever you want, you do you.
+Who are you?
+I linked the floor standers as they will have deeper bass than the bookshelves when being used without a sub.
+
+The bookshelves are $129 for the pair and will sound miles better than that RCA bar, even with their lesser low end.
+
+https://www.amazon.com/Pioneer-SP-BS22-LR-Designed-Bookshelf-Loudspeakers/dp/B008NCD2LG/ref=sr_1_1?ie=UTF8&qid=1480089917&sr=8-1&keywords=pioneer+bookshelf
+Nice straw man argument.
+
+It isn't 20x more for the basic setup, the additional speakers are optional and would only be purchased if desired.
+
+I didn't check the price of the soundbar, assumed it was in the $75 range, and the bookshelf versions I mentioned are $129 for the pair. 
+
+At $50 retail that RCA thing must sound ungodly bad. I would wager the speakers in the TV sound better.
+The main issue most have is that there is a misconception that a decent home theater setup has to cost a lot of money. Most also don't realize how bad many of these soundbars actually sound (the comparison to tv speakers doesn't help haha, those are a really bad frame of reference).
+
+For example, the following speakers are really really good for the money, there are also bookshelf versions that are even cheaper but wont have as full a sound.
+
+https://www.amazon.com/Pioneer-SP-FS52-LR-Designed-standing-Loudspeaker/dp/B008NCD2S4
+
+You can grab two of these and a simple amp or receiver and have some really good sound. And then if you want more, you can grab the center, rears, and sub for a full system at a later date.
+
+Nothing wrong with piecemealing together a system over time.
+Not universally. But the ones made by the major electronics brands tend to be sub par.
+
+I always suggest a simple set of decent Bookshelf Speakers (The Polk RtiA1's are great and are constantly on sale at Best Buy) and an amp instead as good soundbars are pricey as frig.
+I'm Canadian, and for some reason my mother would call Shepherd's Pie "Bubble and Squeak" when I was really young.
+
+I would always ask her why they called it that, and she would tell me that the grated carrots inside were goldfish and the meat was mouse, hence Bubble and Squeak. She lived in England for a few years so maybe that was how she picked up the name.
+
+What I always wonder is why her explanation never bothered me, I ate it right up anyway.
+This picture makes it seem like you have super tiny hands.
+
+Hopefully it is just an illusion ;)
+I'm so sorry about the RCA sound bar.
+
+Thats.... not going to go well.
+
+Enjoy!
+Dude.... my childhood!
+Thats too bad.
+
+At the repair cost you could buy a replacement phone for a few hundred more.
+
+Hard decision to be sure. I mean for $439 USD you could get the One Plus 3T.
+
+Good luck with whatever you decide.
+You are dead set focused on a point I never made, you misinterpreted my initial statement.
+
+The guy was asking on where she genetically originated from, ie her appearance. Canada is not a relevant answer to this question as Canada is way too young to be a valid response, again unless you are Native (They have been here a ton longer, and are relevant). This has nothing to do with Nationality. The initial question wasn't interested in it and I never contested it.
+Because doze disables Push notifications and other things people expect to receive instantly.
+
+Its meant to improve battery life when the phone thinks you aren't using it, like when you're sleeping. You wont care about getting that e-mail 15 minutes late when you're not conscious.
+Telus here too.
+
+Their update schedule now mentions an S7 update for December 5th, though they didn't remove the old November 15th entries from the list.
+
+Must have been delayed. 
+A cracked screen will totally tank resale value, especially on the S7.
+
+How visible is the crack when the screen is on?
+Doze in marshmallow was only designed to work when the device was totally idle, meaning stationary for an extended period with the screen off. As it is essentially suppressing background processes this function would disrupt regular use should it do so more often.
+
+One of the things they improved with Nougat was the ability for it to do the same while it thinks it's in your pocket, ie being moved but still unused for a decent amount of time.
+
+It was additional work and was simply released in a later version of android.
+Not genetically irrelevant no, this is not a complicated concept. She was asked "Are you Russian? You look almost exactly like one of my friends that is descended from the ughic (sp?) people of Russia. Their Russian but with a mix of Asian features from the huns."
+
+He wants to go further back than a few generations....
+
+I'll simplify things for you with an example, to make it easier.
+
+I have a friend who was born in Canada. Her Parents were both born in Canada, as were both her Grandparents. One of her Great Grandparents was also born in Canada, with the other being born in Japan.
+
+By preference or chance, every single one of those people were of Japanese decent, there were no other races in the mix, though my friend is on track to break the cycle by being engaged to her fiance, who is of Colombian decent.
+
+So other than that 1 Great Grandparent, even single person in that line was born in Canada, and yet she is still of Japanese decent.
+
+She is a Canadian citizen, she was born in Canada, she is as Canadian as pretty much anyone but that does not make her of Canadian decent. Canada is a very young country ;)
+OK answer me this. If you take a ancestry test would you expect to find "Canadian" as one of the results (again, aside from natives)?
+
+Asking about your genetic lineage isn't asking where your family lived. 
+The S7's selfie camera is somewhat subpar, no one is arguing this (i hope haha). 
+
+Being a dude who doesn't take photos of himself often, I am very happy to have the wide lens.  Get togethers/parties are really the only times I take selfies and there will be other people in them.
+
+A item to upgrade for the next iteration of the phone I suppose.
+
+
+Unless you're native there is no Canadian lineage ;)
+
+Hello from Toronto. 
+Samsung opted for a wide lens rather than a more narrow one. 
+
+Combine this with the wide aperture lens and it results in a limited focusing range. Since they added the wide lens to allow you to get more people in the shot they opted to set the focal distance close to arms length. 
+
+Not great for up close selfies but you'll love it for group shots. To compensate theyve added in selfie features into the rear camera to help you use the rear camera instead. 
+Fair enough, haven't played them much personally.
+
+I owned 4 for the GBA and got only about 1/2 way through and never played 5 or 6. 6 is one I really want to go through eventually though, it gets a lot of praise.
+True. Happens to be my favorite in the series to boot.
+Almost all main entries in the FF series are just as linear as 13. 13 just does less to hide it.
+
+The traditional world maps were simply filler. Giving you a field to run across to the next location with the occasional side interest.
+
+At the end of the day you were still progressing through the same story in the same order, with little ability to truly stray.
+I would think their chart would be all branches with no central line haha.
+
+>>>>>>>>>
+Most final fantasy titles would match the Nintendo line on this chart, with maybe 13 being straight until about 2/3rds down and gaining some branches on the last 3rd.
+Or there is type the name he mentioned into the play store.
+
+Difficult concept I know, but I think we can get people there.
+Man Bear Pig.
+Is there a LMGTFY for the play store?
+It was a pretty fecal design decision.
+
+Ahh poop, did I ruin the thing?
+I've done side to side test images with pro mode and I can't see a difference.
+
+That is unless I shoot RAW of course, but since I can't enable that all the time I rarely use it.
+
+I'll investigate the HTC app, thanks.
+I was impressed with the level of detail on this quick shot the other week. I just wish it didn't sharpen so heavily.
+
+http://imgur.com/a/ed2wu
+The most sane advise would be to report it stolen and move on. People have ended up dead trying to retrieve their stolen phones. 
+
+By all means check a parking lot but never chase after it if it appears somewhere that isn't a public place. 
+Just tested it on my S7 and it ran nice and smooth once all the game icon loaded in. Doesn't seem to be a universal issue.
+
+Hopefully google will get on the fix quick.
+Anyone who got it on any Canadian carrier happen to capture a changelog?
+I have yet to see a SARB033/35 look so big on someone before. Grats on the watch!
+You get them to replace it.
+http://i.imgur.com/3P4CVep.png
+
+Because they aren't married to women. 
+Bright pixels. They happen, even in high end cameras. 
+
+Sometimes they are caused by sensors heating up other times they are just faulty pixels. Most real cameras self correct for these pixels, or have a more manual process involving taking a long exposure with the lens cap on and telling the camera to use that photo for internal compensation.
+
+Kinda normal and easy to get rid of in post using photoshop and a test photo like mentioned above.
+The displays are different sizes. It will take a bit more power to light each pixel on the edge than the smaller s7.
+I've had this similar thing happen multiple times.
+
+I put it on the charger and go to sleep. Wake up in the morning, with my alarm never having gone off.
+
+The phone is completely unresponsive, no buttons do anything, but I have never had it feel warm. Even holding down the power button for 10+ seconds will do nothing.
+
+The only thing that will bring it back to life is the simulated battery pull (Volume Down+Power), and the phone will boot. I am actually in the process of doing a warranty claim on the phone due to this issue, as I was late for work that day because of the alarm issue.
+
+Its happened at least 5 times in my 7ish months of ownership. Persisted through factory resets too.
+You complain about no customization, and then say you use the Google Now launcher which has zero customization.
+
+Does not compute.
+Put it in a zip lock bag. Touch will work through the plastic.
+
+Just because its water resistant doesn't mean you can shower with it. Showers are hot, steamy, and use pressurized water. The phone isn't rated for that.
+A view distance and stability mod is all I need.
+
+Such an amazing game. Does a proper quest description/journal mod exist for skyrim yet? Navigating through the journal was what made Morrowind special. You actually had to find shit.
+
+Go to the hut on the other side of the island.
+
+How do I get there?
+
+Go ask around, I don't care. 
+Pedals can be a PITA to remove, even with the correct tools.
+
+Props to the thief! :D

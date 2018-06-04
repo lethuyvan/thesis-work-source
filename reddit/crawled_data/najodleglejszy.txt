@@ -1,0 +1,241 @@
+start playing any video in portrait mode, and then swipe down over the playing video.
+...that's actually a great mnemonic. 
+I know, you'd probably spell "harassment" right.
+lmao
+
+/u/stacecom I'm so sorry for my horrible harassing behaviour. 
+>I have no idea who decided this is "premium"
+
+"see this fragile glass sandwich I'm carrying around? if I drop it, I can afford to have it fixed".
+
+it's like with SUVs. many people don't need all that trunk space or offroad capabilities, and it's often difficult to find a parking spot that's big enough. but hey everyone look at me, I can afford paying more for gas so I got this big car over a sedan. 
+https://play.google.com/store/apps/details?id=de.munichsdorfer.screenittrial
+but that way you have to either use your other hand to tap the navbar keys, or reach down really hard.
+I can support ur bottom bby
+they removed the flag.
+what's a computer? 
+...oshit.
+I remember trying it and it said that gifs were unsupported in this app. perhaps I just attached a gif from gallery? idk, been a while and I only did it once or twice. 
+nah, it's not. I tried it after the supposed fix and the physics are still off.
+I remember finding some way to send gifs through some workaround, they'd work for the recipient but would still show up as a static image for me.
+🎶*the circle of liiiiiiiife*
+https://play.google.com/store/apps/details?id=com.flyersoft.moonreader
+they would also change some setups between the tests so it wasn't really standardized. for example, there was a shot in some room/office performed by different phones, including the XZ Premium. some other phone (can't remember which one) got a good shot, then the XZ Premium photo had a comment about how it struggles in that kind of lighting... except one of the windows was obscured by some stacked boxes.
+so you want to intentionally prevent yourself from seeing content that's generally liked and upvoted and most likely relevant, since it's being upvoted by people in a sub it's been posted in. makes sense.
+>Redditors are very smart guys 
+
+it's like saying "people are very smart guys". I guarantee that the majority of people in this sub don't know shit about coding, and can't really help solving it. if the dev wants to implement what you suggested but doesn't know how, they'll know where to look for help.
+"there are people out there who frequently post things that other redditors like and upvote a lot! let's block them REEEEEEEEEEE"
+which doesn't change the fact that it's better to contact them directly via email listed in Play Store instead of posting in /r/androidapps and hoping that the dev will stumble upon it. 
+Inkwire
+have you tried contacting the developer about it? 
+b-but
+what about magnets?
+yup, GMMP does that. not sure if by default or if you have to change some settings but it's definitely there. 
+https://youtu.be/BvQ571eAOZE [headphone warning]
+https://en.wikipedia.org/wiki/Cerebrospinal_fluid_rhinorrhoea?wprov=sfla1
+yup. I actually love the redesign for letting me stop seeing all the clickbait shit in the right pane. I really hope they keep it like that.
+you used markdown when posting link. basically, when you write `[some text](http://example.com)` you'll get a clickable text with a link, like this: [some text](http://example.com).
+
+what you did in your self post, was this: `[](http://link_to_your_image.jpg)`, so you hid the link in a non-character, and it's effectively invisible. 
+this is from his post, just hidden because of the markdown https://i.imgur.com/Cbk8XQE.png
+read the title again.
+shit I meant to post that in CC
+giffers pls
+
+I need an infinite supply of watersliding otters 
+>Wrapper around Twitter's mobile website
+do you mean SlimSocial for Twitter? it's a wrapper around Twitter's mobile website. 
+yup, neither Talon nor any other third party client displays Twitter promoted content. 
+>What Android apps exist that can send directly to iMessage without someone having a WhatsApp account or a similar account?
+
+there's no such app. you can only use iMessage on an iPhone. Whatsapp is a separate massaging app and has nothing to do with it. 
+it's... not that good. I'll probably use it for a while for the novelty and because it used to be my favourite player but it looks very weird. I'm eagerly waiting for GoneMAD redesign.
+>most people know that megapixels in a camera isn't everything 
+
+I wouldn't be so sure about that. 
+of all the most popular reddit clients only Slide and RedReader are open source. 
+nice, thanks for elaborating on my half-assed, uneducated comments :)
+welcome to people, more like. 
+some apps change the navbar colour to match their UI and more often than not it looks weird. it's just an optical illusion, but for some reason it makes it look like the navbar takes more screen estate.
+good old Kitkat lockscreen with its progress bar hidden behind the play button long press... 
+it's not open source, though. 
+oh yes, KDE Connect is the shit. the best PC-phone bridge so far afaik.
+ayyy
+...RMS?
+I think [this is the thingy](https://github.com/matrix-org/matrix-appservice-slack/blob/master/README.md), but I'm not smart enough to figure out if it's affected by the IRC and XMPP connection being phased out. 
+Yotube Vanced isn't open source, though. 
+Slide is the best FOSS reddit client you could find, as far as I know. very customizable with tons of features. just throwing it out there (:
+yes, but the author complained that he couldn't communicate with his teammates who already use Slack. same way as he had to use Conversations to connect to Hangouts instead of moving to Signal or Wire or some other FOSS IM.
+https://riot.im/index.html
+
+>Riot allows teams to communicate across a wide range of collaboration apps. If some team members use Riot while others use IRC, Slack or Gitter, Riot will allow these team members to seamlessly work together.
+for Slack, you could use Riot which is FOSS and can be connected to Slack afaik.
+>HEADPHONE JACK 
+
+whoa whoa slow down
+or ¯\\\_(ツ)\_/¯ as `¯\\\_(ツ)_/¯`
+>pwa apps
+
+progressive web apps apps
+[KDE Connect](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp) if you're by any chance using Linux.
+
+also [EasyJoin](https://play.google.com/store/apps/details?id=net.easyjoin), works on Windows, Linux and macOS
+thank you for being honest with us. 
+those look good, thanks a ton! 
+thanks. I've never used them before but I actually managed to make a couple of acceptable replacements with Icon pack studio and Adapticons.
+it does support Oreo autofill.
+the fingerprint scanner needs to support gestures in the first place for the app to work, so it probably won't work on the XZ2.
+oh nice, I can see your email address.
+Slide for Reddit has a button for hiding posts right under the title card in subreddit view.
+I obviously really ain't lawyer
+didn't they claim that the G3 would receive Nougat despite SD801 not fulfilling Nougat requirements? 
+[Mycroft?](https://mycroft.ai/)
+try asking in /r/firefox
+don't forget to make an intro post once you get in! 
+but... that's exactly what happened. they did listen and did change it.
+nice! I'd love to participate in the giveaway, too!
+try going to about:config, switching `apz.android.chrome_fling_physics.enabled` to true and restarting the browser. 
+/r/staircasewit
+I feel like compared to Chrome, my finger still needs to travel further over the screen before Firefox recognises that I'm indeed trying to scroll/fling.
+dear Lord, no. it looks good in logos but it's a horrible as a UI font.
+foodural appropriation 
+and it's a good thing that you haven't. Dolphin Browser has been caught sending browsing history to a third party server. the devs apologised and said they wouldn't do it anymore... and then got caught again.
+as is tradition
+no u
+Signal can indeed be set as default SMS client, but the last time I checked Wire didn't do that. 
+I found their Github page but it's for an old version and the last commit was 6 years ago.
+it's not open source. 
+"voucher provided is invalid" 
+it didn't happened because of iCloud not being secure enough, it was a phishing attack. 
+The Fappening was a result of a phishing attack. you can make your service the most securest shit ever, but it still won't stop an idiot user to voluntarily hand over their password to someone writing from app1e@thisisnotascam.email
+it's also got than neat feature of having been caught sending all browsing data to a third party server, even after the devs apologised and said that they wouldn't do that again. 
+from the excerpt you quoted in your previous comment:
+
+>You will need **either** root **or** a pc to grant it.
+
+-_-
+you asked for a solution that doesn't require root. this is a solution that doesn't require root. 
+https://play.google.com/store/apps/details?id=xyz.paphonb.systemuituner
+there is, but it's a different one from the one you find in Pixels. 
+r u
+my bad.
+https://play.google.com/store/apps/details?id=com.kimcy929.screenrecorder
+/r/titlegore
+toggle "I'm an advanced user" in uBO settings off.
+and add a second C at the end
+arms too short. 
+hey what's up guys MKBHD here annnd
+why? they're [a success story](https://www.google.com/admob/success.html).
+wow, no Clean Master and some of the apps are actually useful! I've been using Universal Copy for a while and it works great.
+Sony has been pretty good with their XA series recently, too.
+Kitkat had white signal and battery indicators. definitely Jelly Bean at most. 
+they don't mean the possibility, it's against Google's rules. apps in Play Store are not allowed to check for and download updates from a place different than Play Store. 
+https://i.imgur.com/jN1mfvj.jpg
+>They make an already fragile device more fragile and repair costs can be astronomical
+
+I mean, that could be contributing to the "premium" factor - "look at this fragile glass sandwich that I can afford paying for the repair of if I drop it".
+well yeah, it literally says "uploaded by Alvaro Soler" on the bottom of the video. 
+yes, you're the only one. no one has ever heard of that app. it's only got one install in Play Store. 
+https://upload.wikimedia.org/wikipedia/commons/a/a0/Huawei_pronunciation.ogg
+
+https://en.wikipedia.org/wiki/Huawei?wprov=sfla1
+https://i.imgur.com/24xRwSr.jpg
+icon packs and removing ads. 
+I tried it several times but I didn't like the iOS-ish design. also I guess it's petty of me, but I got a bit prejudiced against the app after the dev kept spamming /r/androidapps with it back when it got released. and subscription model for a weather app? neh. 
+🤔 
+...goddammit.
+it's a bunch of placebo tweaks from my experience. 
+postpartum depression 
+they probably do, there's a reason why so many Snapchat filters are doing that. 
+[or a 111 year old, even](https://en.wikipedia.org/wiki/Lina_Medina?wprov=sfla1)
+>People should be cautious if they find commercial packages that claim they can prevent or delay cognitive decline as the evidence for this is currently lacking
+
+I feel that apps that claim to "redesign your brain" fall under that category. 
+the only thing those apps do is make you better at playing those particular games they offer. they won't improve your memory or anything. 
+every user can start a private chat with another person too, regardless of a subreddit. 
+awesome, thanks! 
+contains ads = Google happy 
+💵 💵 💵 
+nope. it's Reddit's poor attempt at being more like Facebook. the only time I used it was during The Circle, because many folks would message me with their keys over there. 
+depends on the router, mine did have that setting. 
+Reddit Chat, that's about it. 
+another vote for *Solaris* here, it's a great, haunting read. I'm not sure how many other Lem's books have been translated to English (although I suspect a majority of them) but they're an outstanding take on sci-fi.
+or just use [App Cloner](https://play.google.com/store/apps/details?id=com.applisto.appcloner). it doesn't require root, and it changes the package name of the modded apk (for example com.spotify.music turns into com.spotify.musid) so it's detected as a separate app.
+dammit, I was going to suggest it.
+it's basically the same thing as disabling the apps. sure, it hides the apps from the app list in settings, but the apps are still there.
+
+my phone came with Facebook app preinstalled. I used this method to "remove" it, but when I tried to install a modded Facebook apk from XDA, I still got the "do you want to install update to the existing application?" prompt. 
+ (´༎ຶ۝ ༎ຶ)
+no, I'm pretty sure there's a toggle that lets you click on the vertical line to collapse the comments, just like that addon does. 
+yes. the official app shows notifications instantly. Slide then detects the notification from Reddit app, dismisses it and displays its own instead. 
+...oh. still noice. 
+Comment Collapser functionality is now built into RES too, so you don't need a separate extension for that. 
+why not Brave? it's FOSS and has ad blocking and tracking protection out of the box. 
+>I've never noticed the scrolling issue
+
+open the same website in Firefox and Chrome on an Android phone and try flinging the page around. 
+[for anyone unfamiliar with that](https://youtu.be/_GGwfGSHJCY?t=442)
+noice. 
+pewnie dwa poprzednie komentarze dały Ci już do zrozumienia, że większość z nas woli posty po angielsku, ale na wszelki wypadek się przyłączę. 
+I prefer Alt+D instead of Ctrl+L, since it's easier to perform with the left hand. 
+>This altitude makes no sense to me
+
+maybe you should get off your *high* horse
+the last place I'd expect to see a mineral nerd
+...huh, you're right. that definitely looks like Samsung's palette. 
+I feel like the round icons in the Account menu have been there since forever. but yeah, they're not pretty, the colours are all weird. 
+he's not
+[or just](https://i2.wp.com/all-funny.info/wp-content/uploads/2018/03/cosmo-unibrowws.jpg)
+oink
+ah right, I saw the number after WinterCharm's name and got confused.
+
+the answer is still the same. 
+no that can't be 
+he's got 300k, not 3M.
+
+the answer is, git gud. 
+we have a bot for that. 
+nollie ballplant
+the option is apparently locked behind the IAP, not sure about the keycode. 
+no, it's not in Play Store https://adguard.com/en/welcome.html
+>The standout feature is the 5.8-inch, 3840×2160 LCD in an old-school 16:9 aspect ratio
+
+OH MY GOD HOW *ANCIENT*
+guess they should make the display triangular then
+method 1. https://play.google.com/store/apps/details?id=com.bubblegumapps.dynamicrotation
+
+method 2. https://play.google.com/store/apps/details?id=xyz.paphonb.systemuituner
+ah yes, good old Snapdragon 810.
+well, the death cam I just got seems to state otherwise ¯\\\_(ツ)_/¯ could be because I was the last one alive in my squad. 
+it seems that after the server maintenance I'm getting much worse ping. 80-120 ms used to be standard, now it's 200-400 ms on the same server (Europe). 
+not only, just got killed in squad mode and got the death cam. 
+the last phone I would reset in order to fix battery life or whatever was from 2011.
+just in case someone wants to get themselves a file nanager: [Amaze](https://play.google.com/store/apps/details?id=com.amaze.filemanager) is a good free one, and [Solid Explorer](https://play.google.com/store/apps/details?id=pl.solidexplorer2) is an outstanding paid one. don't get ES File Explorer, it used to be everyone's favourite but it's gone to crap since a Chinese adware company has bought it. 
+well I don't want to live my life on autopilot with no dreams to follow, no successes to be proud of and no hope for a change and yet here I am, you can't always get what you want Graham 
+>Its linked to your gmail somehow
+
+not really. I have several devices using the same Gmail account, and updates don't arrive at the same time. 
+it's an installation file for Android, and this particular one is safe.
+not wrong per se, just incomplete. I added some info about staged rollouts.
+carriers don't have anything to do with Play Store updates. just a staged release.
+thank you for your valuable contribution.
+that depends on the model. Z3 Compact and XZ Premium both have great battery life. X was really struggling, though.
+if you switch phones your guest account doesn't transfer by default, so if you had purchased any IAPs you're probably out of luck. nice.
+in that case, /r/androiddev :) /r/Android is more of a general discussion sub than dev-related stuff.
+it's more of an enthusiast thing, both websites are well known in /r/Android.
+the countdown is for the end of "update rewards" event or whatever it was called. it shows the same time left on Android, even though the updated Android app has already landed.
+instead of checking the updates section, try actually searching for PUBG Mobile in Play Store. sometimes it'll show you an update to an app before the update appears in the My apps screen.
+it's literally the same apk. APKMirror is maintained by owners of Android Police, one of the biggest websites about Android things. all apk files are manually reviewed by the owners before they're submitted.
+>I've never seen that message before.
+
+that's weird, since the very same message appears when you first download the game and install it. it needs to download about 700 MB od additional resources.
+not suspicious at all. it's signed with the same developer key as the previous version from Play Store - you can tell because when you install it, it asks if you want to update the existing app. APKMirror is safe. 
+https://en.wikipedia.org/wiki/Unix_time?wprov=sfla1
+>Most player don't even have volume on
+
+[citation needed] 
+oh hey Jimmy, fancy seeing you in here. 
+I guess they decided 8.1 is not big enough to bother, as there's also no 8.1 update in sight for any of already existing models.
+I've tested it several times, downvoting your own content definitely doesn't affect the score.
+that's not true, XZ2 and XA2 line have fingerprint scanner enabled by default in the US software. 

@@ -1,0 +1,1384 @@
+UnleashX seems to be the most popular around here. I prefer using XBMC, personally
+!remindme 1 day
+
+Interested to hear what it is
+Built to Spill wrote a song about this
+So that's why toilet bowl cleaner tastes so tangy
+This is why I don't understand the whole 3rd party messaging thing. SMS sucks, sure, but it's at least a standard that everyone has
+Open it up and tug the spring out to increase the tension?
+Open it up and tug the spring out to increase the tension?
+If manufacturing defects are found they'd wanna trace it back to a particular production batch, maybe?
+
+Edit:  Oh, I misinterpreted your comment.  Yeah, doesn't seem overly specific to me.
+'Ello, gubna
+I take it any 70mm is a drop in replacement?
+He does this every night with your son
+It never worked for me despite having location on. Installed cf lumen and haven't bothered since
+Take your US bus and AT machine and get outta here
+You don't have to delete your existing saves from the hard drive in order to softmod. Use Rocky's as it's the most up to date.
+
+https://github.com/Rocky5/Xbox-Softmodding-Tool
+
+Check out the sidebar wiki over at /r/originalxbox for more infos
+360 replacement thumbsticks fit the controller S, I imagine they'd fit the duke as well. I got some on Amazon, less rubbery but better than peeling.
+Ah, got it. Sounds pretty neat.
+
+If it were more active on xlink I'd be apt to try it out
+This is why I stay in the garage waxing my body
+XBMC used to have Kai built in? Why'd they remove it?
+
+And how did it even work? I thought the Xbox could only run one thing at a time with no background processes
+I would recommend a WD Blue SATA drive and a Startech SATA to IDE converter.
+
+You'll also need an 80 wire IDE cable, don't try to use the stock one.
+That's cool, I didn't know you could take these apart or crimp your own. Is there any actual difference in the wiring that makes this superior to installing in reverse, though?
+Hey you're the chub guy
+If I didn't know any better I'd say this was a mushroom stamp
+🎵 oh how happy you'll beeee when I get this chubby lump up outta my jeans 🎵
+I don't believe so. I was interested it trying it but from what I read it causes issues when used with 14.1. 15.1 might be another story due to the changes in AOSP but I can't say for sure.
+> flashing it will kill the battery
+
+wat.
+
+Lineage OS 14.1 is great if you want something stable and up to date. Customizable enough for me, although it lacks theming support
+Lots of routers have a bridge mode, get one with DD-WRT and plug that into your Xbox
+I wonder if you could rig up some kind of SATA selector to toggle between a connection to the IDE adapter and a SATA to USB converter 🤔
+Interesting, never knew about this
+Wow, that was stupidly easy.  I'm back up and rolling with a nulled key, did the upgrade on both HDDs for good measure.  Thanks for maintaining these slick tools!
+You're the best. Now I just need to find my torx...
+Oh that's a great idea, I'll try that route. One more question, then: can I run your softmod installer off of the HDD, or does it need to run off of a disc? I don't have a burner handy
+I also tell myself that the data Google collects is often used to make their products better and more useful. Like tracking location to provide traffic estimates
+Interesting, I didn't realize that was a thing.
+
+Yeah, it's a SATA with adapter. Rocky suggested Xbox HDM so I'm gonna look into that
+Thanks, could chimp relock it with the backed up eeprom if I reinstalled the original HDD as the master?
+Cheers, thanks for the tips. I'll look into those
+Yep yep, this is what I did. Forlorn was suggesting I was using an outdated softmod that doesn't play well with this.
+It wasn't Rocky's, so I suppose it was crappy 😂
+
+It was modded like 5-10 years ago
+Nope I made sure of that
+Have you rebooted?  I just tried this and got an Error 06 -_-
+Damnit, I just did the same thing.
+
+What's the easiest way to re-lock with the original key?  Assuming a recovery disk won't work since it won't boot?
+Can I get a pizza massage?
+[dang](https://i.imgur.com/asFXWem.png)
+It's possible for things you throw away properly to wind up in the environment
+/r/thathappened
+I like this idea, might be easier to find than a broken genuine one
+Maybe not the "correct" way to do it, but I used the XBE shortcut creator to replace my default EvoX *.xbe with a shortcut to XBMC.  Works fine, no TSOP or chip required.
+It's 1400x900.  Ban him.
+Oh man, I played this flash game so much.  Also the modded version with the spiked club, blood, and land mines.
+Yeah Equifax is chill, too.
+
+For real, though, they won't do anything about any of them. They'll pay lip service long enough for everyone to forget about it, buts that's about all
+That's when I mark as spam in Gmail
+Could be JScript
+It's the size of the quality
+He means the caveman would eat him
+"less" maybe? Been a while since I used linux
+How about hours actively driven versus actively using a firearm?
+He means putting on a condom
+Shraaaaaaamp
+There are dozens of us hanging on. Dozens!
+
+For real though, with Lineage and a replacement battery the phone is still perfectly usable if you're not doing anything crazy
+My 5 o'clock shadow was only half as thick when I was a baby
+Substitute the skin fiddle for the guitar
+/r/spotifygore
+Would they be scented, too?
+Fun fact: 60hz was chosen simply because it's a more pleasing tone
+I'm guessing, but I've heard that the unofficial Lineage Oreo build doesn't have working Bluetooth, which is a requirement for official support. So it's possible that the devs just haven't checked off the full list of requirements yet
+[http://threewordphrase.com/mission.htm](http://threewordphrase.com/mission.htm)
+Oh man, I want component and digital coax... May have to hack this up
+Fuly is my favorite month
+I can see the greasy outline of your unlock pattern in the screenshot
+Oh thanks, I was actually using the zip from the op which is 2.7, I didn't realize that it worked up until 3.2.
+
+I wish these included survival scripts though
+Yeah, and turn off auto update in Google play
+HDR is broken in newer versions of Google camera that were previously not installable on marshmallow. You have to downgrade to 2.7 for working HDR, otherwise it just snaps a regular pic
+Yeah, it's pretty rare because of that. Also because games don't even utilize the extra ram so it's pretty much only good for xbmc and Linux and whatnot
+/r/spotifygore
+Also note the filled slot in the middle of the connector
+AFAIK using an 80-wire is a requirement when using a SATA adapter (and may still be good to use otherwise). I had the same or a similar error when trying to use the stock one
+Are you using an 80 wire cable or the stock one?
+Asstoot observation
+Also check out qwix to ftp isos from your pc
+Yeah well my dad can beat up your dad
+C'mon, Armando, it couldn't be that easy.
+Was something clone stamped out of the background? Looks suspicious
+I would love for bigtubz to give me his stick
+You can install an older version of the Google camera app if you want functioning HDR. Looks like I'm on 2.7 I think
+Not sure about that one, I've only known the snap camera since I've been on Lineage
+Having sex with a woman must have been a very unpleasant experience for him
+Albert Einstein, Steven Hawking, and H. Donna Gust. Absolute legends in the scientific community
+We got a sunwet over here
+Encompass parts for genuine one
+/r/spotifygore
+The Nexus 5 got camera 2 API support with lollipop (or was it marshmallow?). I've been using raw capture for some time now (Manual Camera or Camera FV-5)
+I'm imagining a scenario where an annoyed hiker chucked it into the river
+What does capacity have to do with heat?
+I'm not surprised, kids these days are too busy jizzle jammin' to do anything productive
+Streaks, like in the bowl
+Wow, I'm excited to try this. I've wanted to develop some more complex Tasker actions but can't stand trying to do it via touchscreen
+Spraynard Kreuger
+NBA Street Vol 2.
+
+There was one or two other problematic ones but I can't remember which.
+
+Looking at the default.acl it looks like it would have written over the existing _orig backup with the already-patched .xbe  when I tried processing a second time (which is kind of a dumb way for it to work IMO).  So maybe I should try recopying at least the default.xbe from the disc.
+Thanks for the tips!
+
+There was an *_orig, and I tried processing the ACL for it again. Also tried restoring the original before processing. But it still gives an instant dirty disc error on launch 🤔
+Oooh, purdy
+No prob, hopefully it's not in vain.
+
+Might as well try Lineage if you're wiping anyway 😉
+How would I be able to tell? Does it make backup? I'll look when I get home
+I'm not super familiar with how OIS works, but it's possible that it's controlled at the software level. What ROM are you using? Could try a factory reset
+I dunno about every game, I backed up a few that don't load.  Do I have to update the patch definitions or something?
+Are the OEM breakout-box type HD packs rare? I have one of those and use it with some overkill monoprice component cables and it looks great. Nice that the cables are swappable
+Is it safe to run config magic off of the HDD while doing this?
+Wow. Do want.
+I read this a few places and it convinced me to buy a startech. Works great and the build quality seems great as well
+If you upload porn they credit you $20
+Or just holding the shift key
+I tried to clone a drive using the stock cable and it caused issues, so I'd caution against assuming that the stock 40-wire will always work fine
+https://youtu.be/q95-6MFoNBQ?t=0m59s
+I couldn't tell ya, haven't been following too closely
+Sweet, thanks for the info. Might have to give it a shot
+Haha perfect. I've got one...
+What kind of bugs were you seeing? Never had a problem on Lineage
+There could be a sub dedicated purely to Spotify gore
+Looks good! Is the card that houses the LEDs swappable without desoldering anything?
+
+Basically wondering if I can attempt this on a spare pcb in case I screw up
+That huevo has huevos
+Aw, damn. Well thanks for the info.
+Is the animated navbar not able to be magiskified? That's all I really want
+If I can find my cinco mobile password I'll open it up
+Man I wanted to play that so bad but never had anyone into it
+No more stupid numeric dialer in the corner of my lock screen. Thanks, Cinco!
+
+[https://i.imgur.com/YvOjlXB.jpg](https://i.imgur.com/YvOjlXB.jpg)
+Which ones? It's also currently limited to the US since it can only dial 10 digit numbers
+I wish
+As someone who is still using a phone from 2013, yes.
+At boy scouts I would blow up my pants all the time, only we weren't swimming and they'd just send me home wearing a towel
+They're scrambling to find a way to lobby against this as we speak
+This looks promising: https://review.lineageos.org/#/q/status:open+hh-o
+:/ sorry mate, that's some bad luck
+Ah, probably, according to the guides I've seen
+Ooh, which pins would be used for the LED?
+Yeah, looks like you can just move the jumper down to cover the middle and slave pins, and leave the top master pin open.
+
+Remember to put it back once you remove the original HD to boot from the new one.
+
+Everyone on here recommends that adapter but I read about a few quality control issues, prompting me to go with the startech. All of that white crap on yours is kinda concerning.
+
+Also make sure you're using an 80-wire IDE cable, it's required for SATA adapters if I understand correctly. I tried using the stock one and it caused some subtle issues
+Andrei M., my hero 😍
+Well the biggest point of failure is the disc drive, and the best way to mitigate that is by putting in a larger HDD and playing games directly off of that.
+
+It's also easier to swap the hard drive if the original still functions, since it needs to be locked to the mobo with a unique code and it's tough to retrieve that if the Xbox doesn't boot.
+
+Also I'll give you the obligatory "remove the clock cap". 
+
+Check out the wiki in the sidebar for some good info on all of that.
+
+So basically yeah, I'd recommend it.
+Why do they call it that, though?
+This was almost my exact setup but I figured it wouldn't be secure against hunks like yourself
+> Lobbying is literally wolves
+
+🤔
+Have you ever reached the fabled top?
+Pop it into second real quick then try it again
+I could go for some Sumo
+Goatse imitates life, stretching it full circle
+(☞ﾟヮﾟ)☞
+This kills the home
+Lineage OS has this built in, Privacy Guard. More granular permissions. Nice to be able to prevent apps whose notifications I don't care about from running in the background.
+
+Doubtful you have the ability or desire to use Lineage, but thought I'd comment anyway...
+Pumpers NEED to pump
+Magnets to repel each key back up
+Cheers!  Haven't been back there since
+Yep, the exact same thing happened to me when I tried to use an official component pack.  Switched to composite and all was well.
+
+Took me some googling so find a random forum post where this issue was mentioned.  I think I suggested this info be added to the wiki on this sub but not sure if that's happened yet.
+Well it lost the weight of the air that was inside of it
+I'm having the same problem that you initially stated. I know I'm missing out on a slick experience, but I just can't bring myself to replace something that works. I paid, what, $350 for this? That may be cheap by today's standards, but in my mind that tier of product should last for years. The current prices for flagships are absurd.
+
+I do feel ya on l the pain points... We'll see how long I can hold out
+Encompass Parts for an OEM one in the US. They're an official parts distributor
+Honestly I don't really have a good answer to that.
+
+Personally I don't take any special precautions beyond what I'd do anyway (no password reuse, 2FA where available, etc.).  My perception is that the probability of having a chipset-level vulnerability used against you is lower than one of the "standard" attack vectors like phishing and Russians using your Equifax info. But I don't really know ¯\\\_(ツ)\_/¯
+This is the best option, but it should also be noted that there are vulnerabilities that can't be patched by anyone other than the chipset manufacturers. So the Nexus 5 will never again be as secure as a currently supported phone
+You scrolled it wrong
+He's "7", though. Practically a full-grown "man"
+They're too busy adding shitty implementations of features that nobody actually wants
+And yet they couldn't figure out how to properly implement a messaging system for sharing songs, so instead of fixing the half-working one they had they just removed it -_-
+I am pizza totinos boy
+Put some vibrato on that
+"Hey, you guys going to the sexual assault later? Cool, see you there."
+Now with anti-crust technology
+I want Tom Skerritt, personally
+Yuuuuup.
+
+It also won't fit 5 gallon water cooler bottles, surprise surprise
+*while downloading*, is the best part. Just open the .crdownload file
+If it's totally borked after your best attempts, check the sidebar for instructions on how to build an eeprom reader. You can extract the hddkey from the mobo and use it to transfer the hard drive into another box
+There are RAM management profiles?
+What if I'm an MP3?
+What's the advantage of TSOP over softmod? Just not having to lock the drive?
+Apparently they ain't coming soon anymore
+Clone of Ark
+Are you rooted? IIRC you there's a command you can run to actually limit the charging to whatever percentage. I've been meaning to try it
+I convinced a guy in IT to give me 64GB, since I actually needed it at the time. It has not helped my Chrome habits.
+Sure, I just bought some from Amazon. You're welcome
+Playin' possum is a much more effective technique
+Be sure to pick up a [black kid's computer desk](https://i.imgur.com/7XiVoPQ.png) while you're there
+It really heats things up
+Bagel clips, English muffin clips, dinner roll clips... Really cool stuff
+They fixed the issue after a certain version, right? If that's true you could potentially install a power supply from a later one, unless they changed the case as well or something
+Cigarette butts are not litter because they're just paper that will biodegrade over a short period of time.
+
+-Delusional littering smokers everywhere
+Ooh, which ones?
+It's what you use to flavor your chipboard
+I've been dragging from the "?123" button, I can't tell which is easier
+I'm guessing it *could have* worked, but they force you to use the latest in hopes that you'll just rent it from them.
+
+I had a modem that was one DOCSIS version too old, but their system supposedly wouldn't let them activate it despite their admission that the same model was still in use across their network. Like I need a gigabit capable modem when you offer 100Mbps in my area and I'm paying for 25...
+You could rig up some IR lighting. Although if the phone camera has a filter you would have to remove it (not sure if they normally do)
+Dang, I want a 2017 battery...
+From the hard drive or DVD? Could be a failing optical drive or incompatible bootleg DVD
+I like that the dummy is wearing makeup
+They just learned how to drive stick
+Here's an article/interview about it: https://www.cnet.com/news/xbox-duke-controller-hyperkin-price-release-date-interview-seamus-blackley/
+Cool, that's what I was hoping to hear. Not trying to resolder anything
+Is it just the plastic or the electronic bits as well? Wondering how easy they are to swap
+The system clock can auto update over the internet if you have a recent dashboard, which is helpful if you've removed the capacitor.
+ 
+You can play multiplayer LAN games over XLink Kai, if you can actually find anyone to join you.
+
+And you can stream music/video via XBMC across the network or from the internet.
+
+That's about all I can think of
+What's a space day?
+Damn, well sounds like I'll be sticking with my HD pack. I'm out of optical ports on my receiver, though, so it's annoying. Might have to hack on a digital coax
+Thanks for the comparison. Do you know if it passes through digital audio?
+You make me wet when you come through the door
+As a kid I had a lot of fun with a 2-liter, a bike pump, and a wine cork. Looking back I'm kind of surprised I still have a face
+Naw you're right, man, look through the bottle. His fingers are all stretchy and stuff
+Oh damn. Well maybe check out LGs website, Encompass was listed as an official parts distributor for the US so they may have them for other regions as well
+I did, no real complaints. 12/2014 manufacturing date, iirc, which is relatively new in N5 terms. My original battery wasn't *that* bad so it only helped a little bit, but if yours is more degraded you'll appreciate the difference
+I read that in EBJ's voice before I even noticed which subreddit this is
+I'm about to start starting it to a good start, myself
+Is there any reliable way to use substratum on Lineage? People say it causes bootloops in legacy mode
+And blank DVDs.  And a hard drive.  And a SATA adapter.  And an IDE cable.  And a Molex splitter.
+
+Easy enough project, for sure, but it's still a project.  More than just tossing in a chip.
+Nearly all music is mixed in stereo (2.0, 2 regular channels and 0 low frequency channels).  MP3s are only capable of stereo audio along with pretty much any music streaming service out there, and I'm guessing the BT spec only supports two channels as well.
+I would buy one in a heartbeat
+I believe it was this:  https://encompass.com/item/10389517/LG/EAC62078701/Rechargeable_Battery,lithium_Polymer
+Does theming via OMS work as expected? Kinda tempted to ditch Lineage for the time being if so
+Encompass Parts in the US
+[So real](https://i.imgur.com/MFf395c.png)
+Yo dawg, I heard you like dogs
+The box is probably more desirable since it has both analog and digital audio
+Everyone else in the world: "Duh."
+Eh, you could dissolve be some of the cap residue in water then test it, perhaps. Not the PCB pH in question
+That's what I figured. It'd be nice if you could have it cache the list of games (is that what the items.txt does?).
+> It is possible that having a ton of ROMs will increase load times due to the emu having to find and pull all of the ROM files.
+
+Ah yeah, totally. I also noticed EvoX taking longer to load after backing up more games. However this shouldn't affect load times *within* games and that kind of thing. So really it's a software performance issue and not a hard drive performance issue.
+
+Good points about the fragmentation. It seems like the cache partitions might be more susceptible to it since they handle random read/writes more often, but obviously that wouldn't be a big issue since they get cleared out.
+Or, ya know, get a pH test strip :p
+Why is that? Just because there's no way to defrag? Normally (in the non-Xbox world) you should be able fill a hard drive to something like 80 or 90% before performance takes a hit
+Yes, thank you. Any time I've seen vinegar suggested by someone they've said that the cap fluid is an acid in the same breath. That doesn't exactly instill confidence.
+The main menu is controlled by the skin. Look into XBMC4Gamers or sommat
+/r/suspiciousquotes
+Report back if you try it! If it passes through 5.1 audio I might have to pick one up
+Custom ROM != Oreo beta program
+There was a fair selection of sleeves of all types of Etsy a few years ago, you could see if there are still N5 ones up there. I went with a canvas one, still using it to this day
+My combo is: LT + RT + Start + Back
+
+Haven't tried Black in place of Start, maybe that would work for me too
+That would make OP a semiconductor die junction temperature maxinista
+Fill with syrup?? What in the hell
+Not really suspicious tho
+So they're detecting whether or not your phone has prematurely shut down before they're throttling it?
+Well this fix is also applied indiscriminately to all phones, including those that might not even have the problem in the first place
+Sounds like you need more cougars
+Steve taught me how to play possum, saved my life
+It depends on how crappy your current battery is. I replaced my original battery since it was just okay, and the new one is only slightly more okay.
+
+If your phone is powering off prematurely or depleting super fast then it will absolutely be better.
+
+Encompass parts has OEM ones if you're in the US.
+This is so dumb
+Eh, it's less of a "pull" and more of a "wiggle back and forth for five minutes". The leads eventually weaken and let go
+Dang, looks slick!  Makes me want to ditch Confluence and CoinOps, but I don't know if I want to start obsessing about finding every last bit of artwork for everything :p
+Windows key + number row activates the corresponding window on the taskbar (press the number multiple times to cycle through grouped windows)
+It's more just with burnt DVDs, OEM discs work fine enough most of the time. Good to know it's an option, though.
+
+But what's the real advantage to TSOP flashing? Seems like a softmod does everything you could need
+Perfect. I'll try using XBMC and if I lose the IGR I'll give this a shot. Thanks!
+Ahhh, awesome!
+
+I thought you were saying it requires a custom BIOS *and* softmod.  Thanks for the clarification.
+Alright, no custom BIOS, good to know.  So if I want this I'll have to TSOP flash to go with the softmod.  Thanks for the help
+Forgive my noobishness.  The softmod is more than tricking the Xbox to boot a custom dash?  I figured that was the extent of it.  If I could get this to work without TSOP that would be rad.
+
+If that's the case, can I boot Rocky5's tool from the HD and update my current softmod?  Not real keen on reinstalling my burner and trying to find media that will read on my finnicky Thompson.
+Hmm, in EvoX IGR was actually disabled for me even though it always worked...  I wonder if I have a modded BIOS?  That would require TSOP flashing I assume?
+
+A friend originally modded my Xbox a good 8-10 years ago so I don't remember the entire process very clearly, but I believe he used Slayer's tools.  Also certain we didn't TSOP flash, though.
+I do, but it was less than ideal because I bought a round one and had to remove most of the rubberized casing to get it to flex enough. Worked fine after that but not exactly plug and play.
+
+I'd search around for the flat one that's been linked on this sub.
+
+But if you're like me and really want prime shipping [here's what I used](https://www.amazon.com/gp/aw/d/B073T3VNC3/ref=oh_aui_i_d_old_o0_img?ie=UTF8&psc=1). Looks like it's $4 cheaper now -_-
+Ooh, interesting. I was wondering what the point of TSOP flashing was. I'll have to look into that, a little bit scared of bricking my box though
+Yeah most likely.  I used a 320GB hard drive, but after Chimp I had a 137GB F and no G.
+Things I ran into when I did this a week or two ago:
+
+* An 80-wire IDE cable definitely is required when using a SATA adapter.  Even though the stock 40-wire seems to work at first it can cause some more subtle issues
+* Chimp may only work if using the basic composite/RCA/yellow-red-white AV cables.  My official component HD pack caused the Xbox to shutdown when loading Chimp
+* You'll need to use [XBPartitioner](http://www.theisozone.com/downloads/xbox/homebrew-apps/xbpartioner-13/) to format the G drive after the swap, assuming your hard drive is large enough to require one
+The S is way more comfortable unless maybe you have Andre the Giant hands
+Lidia's: Official Marinara of Spaghett
+XIII is my latest OG addiction
+I saw a couple of threads complaining about the build quality of these models, so I spent $7 more and got a StarTech that someone else recommended.  Built great, works great, and comes with a molex splitter if you need to clone the stock drive.
+
+https://www.amazon.com/StarTech-com-Drive-Optical-Adapter-Converter/dp/B00EOJNGC2
+Interesting. Wouldn't it be easier to use qwix to extract the isos as they're uploaded? Could be done in a single batch
+Chodey McFuckface
+https://github.com/Rocky5/Chimp261812
+
+http://www.avalaunch.net/qwix/
+
+Not sure about the others, but you can probably find recent-ish uploads on theisozone
+Disk drives are directly swappable, right? Not tied to the eeprom like the hard drives?
+
+Edit: yes they are, just saw your reply in the next thread ᕕ( ᐛ )ᕗ
+They should make it go plaid
+Cheers, got it working.  Shows up in XMBC, I'll have to poke around with EvoX.
+Thanks for the response.  That's exactly what I downloaded, actually.
+
+Turns out it was the friggin' IDE cable.  I was using the stock Xbox one because the 80-wire one I ordered was awkward.  I figured since it worked at all it'd be fine but I guess this is one of the reasons why you need one!
+suP
+Tense or flow
+Workin' on Leaving the Living
+The sad truth. The majority doesn't know or care what they want.
+Was it better than 100 Grand?
+Anyone remember a leg like that?
+Intimacy with the LORD is no laughing matter, He enters me every day.
+More like Mike Hunt, amirite?
+Cool, I found another post complaining about the HDE quality, so I think I'll spend the extra $7 for some peace of mind.  Thanks!
+3 months later...  did the StarTech work for you?  I'm about to order the HDE but now you've got me scared.
+Uncircumcised radishes are more nutritious
+Bought mine here, seems legit
+There's no way he hasn't scraped at least occasionally
+Ah! Forgot it was f-droid. Thanks
+DNS66 worked well for the hour I tried it (someone else's phone)
+
+Linkme: DNS66
+"Nutn but full-blown AIDS" was already taken
+Whores at the door
+Pretty sure I see a vertically-flipped "b"
+You'll have to pay extra to access the music zone
+I'll just stronk one out
+If you switch back and forth between the same 2 seconds to display those 2 frames then you can achieve 2 FPS
+Unless there are also only two unique seconds
+/u/stabbot
+*dorkness
+Doo dah doo doo
+/u/stabbot
+It's what his mom calls him
+They can have sound, prompting people to ask for the video icon to avoid unexpected noises
+/r/totallynotrussians
+Stay strong, brother
+Fair point. There are still tasks beyond OS installation that require it, though. Try installing Spotify for example:
+
+https://www.spotify.com/us/download/linux/
+
+Not hard for you or me by any means, but it'd be totally foreign to some.
+I dunno, I grabbed the latest Kubuntu last month to put it on an old MacBook and I had to screw around plenty in the terminal.
+
+Maybe Ubuntu is slightly better because it's not a derivative, but I doubt it's 100% plug and play yet
+Thanks, Cinco
+You can connect two Bluetooth devices simultaneously?
+Before you know it we'll all be getting flipped the autonomous bird
+Because Tayne was accused of sexual misconduct after exposing himself via computer
+If you take a picture of "optical black", i.e. where the sensor shouldn't be capturing any light at all, the only thing that shows up is noise caused by imperfections in the sensor. If you subtract that "noise image" from the actual shot then it effectively cancels out those imperfections leading to a less grainy image.
+A shit ton is a regular ton plus a shit ton
+No prob, yeah pretty sure. Bought one from them and it looks legit with a working temperature sensor. 12/2015 manufacture date on mine, iirc, which is about as good as you're gonna get.
+You in the US? 
+
+https://encompass.com/item/10389517/LG/EAC62078701/Rechargeable_Battery,lithium_Polymer
+Is that a threat?
+I had a different drier but it also dried clothes
+Maybe they slowed themselves down for a photo op
+Only if you're watching on a phone
+Not official, but reminds me of MLB Temple in Wolf:ET
+So how is it different than the lady getting carjacked and killing her attackers, then? Clearly the carjackers who just robbed her at gunpoint are still a threat to the community. You're essentially saying that if this lady was a cop then it'd be acceptable
+Potable water for drinking...
+
+NOT
+This is what happens when you submit a SOAP request via their API
+All of the above.
+Lineage OS has been treating me well, I'd recommend it. Pretty clean and stock-ish, quite stable, up to date with security patches and all that, and easy to update as well.
+
+The only other I've tried is an AOSP build that was also quite good, but I had occasional update issues that forced me to clean flash which was a little annoying. But if you want it to be truly "stock" then you could give it a shot: 
+
+https://forum.xda-developers.com/google-nexus-5/orig-development/wip-aosp-nougat-nexus-5-t3446875
+> annoying teenagers
+
+It's not really an actual trend
+Or if you're paranoid like me, you can have it download the update, boot into TWRP manually, make a backup, then flash said update.
+Or Brule's Rules
+Naw, they'll just ignore the facts and blame the Democrats again
+Get in on that custom ROM game, no sense sticking around in marshmallow now that Google has abandoned our phones
+It depends on whether or not it's genuine, or so I've heard.
+
+Keep in mind that Amazon is not likely selling any N5 batteries themselves so they'll all be coming from random 3rd parties
+lol, I thought that was obvious
+It doesn't specifically say that, they probably got rid of some unnecessary colors to achieve that refresh rate
+Blegh, sorry mate. Not sure about that one
+I'm guessing the radio/baseband is outdated and you'll need to update that first to what the ROM is expecting.
+
+https://android.stackexchange.com/questions/57747/what-is-the-baseband-and-do-i-need-to-update-mine
+
+Not super familiar with it all, tbh, so sorry I'm not more help. I had the latest stock OTA update (and therefore the latest baseband version) on my phone before I went the custom ROM route, so I never had to deal with it. Pretty sure you can update it on its own, though
+Are you sure these aren't from the Mighty Boosh?
+Pastor says the sun of God has always been
+The issues might not be that bad, sure. The problem is that it's a not-quite-premium product at a premium price
+I almost converted to Izlam but my dank Christian family saved meme
+This is amazing
+This is precisely *why* it's funny to fart in an empty elevator. Leaving a gift in the lift
+I'll give it a shot, thanks
+Good to know. If that's true then maybe I'll have to buy pro, haha
+You also can't fix them like you used to be able to. Nobody wants to pay the dealership to service their vehicle to 200k even if it's entirely possible
+They must serve Little Caesar's
+Is this even possible to win? I feel like you'd need to prove you've been negatively affected, not just have the potential to be
+Eh, when my Nexus 5's NAND shat the bed Google told me to fuck off despite purchasing through the Play Store
+It stays fine in the fridge for a good while, then you don't have to defrost and soggify it
+Are those the same magazines he had in his oven?
+Invade?
+Sure, but you have to make them yourself on your TI-83
+Maybe they're randomizing the placement of the yes/no labels  relative to the correct positions on the server side.
+
+They're totally not, but maybe!
+> I could keep my OG Pixel XL
+
+...
+
+> a rock and a hard place
+
+ life is so hard for you
+Updating the cve is also up to the maintainer so it's useless for a lot of devices
+Sounds like you need a new battery
+I hate that such expensive products lasting 3 years can be considered outstanding
+Provably either a pre-amp or wireless headphones?
+Honestly
+There was supposed to be an exclamation mark at the end but they clearly misplaced it
+This sign is specifically directed at Bryan
+Go fuck a Prius
+My poop jokes are consistently underrated and you don't need to leave Reddit for those
+In college I had SSH access to my coworker's mac so I changed every system sound to a 30 second loop of this song.  Confirmation dialog?  Sexy sax man.  Drag a file to the trash?  Sexy sax man.
+He deserved that.
+Hey now, you can't blame Excel, the CSV format is not compatible with the extra blanks sheets that Excel adds automatically when you open a CSV.
+I'd rather be bonged (time to party)
+Nathan fuckin' shredded
+/r/docking
+Play Store > Settings, uncheck Add Icon to Home Screen.
+
+If you have a 3rd party launcher and it keeps happening look around in the settings for that as well.
+Uhh, or just turn WiFi off until the phone is patched.
+It's like buying a $60k car whose tranny stutters at 2 mph. I might put up with it in a base model Focus but if I'm spending money on a Benz that's a different story
+I just did it without Magisk, is that bad?
+Good luck fighting against the NCA lobbyists
+I am ALL fucked on this blessed day
+I'm pretty sure that's a Yankee Candle scent, actually
+Naw, but he's gonna need your checking account number to deposit the cash while he gets his visa approved
+I'm okay
+We won't let them win but they'll win anyway
+Actually they can, and once net neutrality is dead there's nothing to stop them
+Medium-rare, I'd say
+I dunno, rolling around in a power chair with a rag on a stick sounds like a pretty good gig to me
+I hate it when black guys do crunches on my dick
+He wants to subject you to the moderate inconvenience that is moving. Packing all your stuff, changing your address with the post office... I wouldn't wish it on anyone.
+Especially not if they're...
+
+( •_•)>⌐■-■
+
+(⌐■_■)
+
+waterfelons
+Not if you ride backwards
+Haha
+Plus it makes it safer against 3rd parties who might intercept the info
+I love this on Lineage
+Well it's the material coupled with the shape and size of the phone, the latter two being ruined by using a case
+Sounds like a hardware issue.
+
+I kid, the more customization the better!
+Minor Minion of the Cone Dominion?
+I work in a restaurant and fucking HATE it when people book reservations before they're about to die in a reckless kayaking incident
+You nailed it. The Sonys intrigue me, I like the idea of the compact form factor with flagship specs. But I dunno if I trust Sony to keep it up to date and I haven't looked into the custom ROM support yet. I really don't care about being bezel-less though, contrary to popular opinion on here.
+
+The OnePlus 3T might be a contender for me, seems like it has most everything hardware-wise and good Lineage support.
+
+But alas, my MO is to run what I've got until the performance is no longer tolerable, so I'll have to reevaluate in another year or two when the N5 craps out :p
+You'd need more than a lottery jackpot to lobby against the ISPs and fight them in court
+Admittedly I haven't researched much, but every new phone these days seems to have some downside. Crappy skin on top of Android, no headphone jack, little chance of updates, etc
+I have no idea. Thanks for the warning, though, I'll have to make sure to switch it
+To be fair Google's software-only schlong bokeh looks pretty amazing on the new pixels
+I picked up a kit at Walgreens, much cheaper to do it yourself
+As the plane flies over the sensor is pulsing a laser and measuring the amount of time it takes to reflect back, which is converted to a distance. The location and roll/pitch/yaw of the plane is being recorded so each pulse's position can be located in relation to the earth. Bounce each pulse off a mirror that's flipping back and forth and you get a scanning system instead of just measuring straight down. Do this hundreds (thousands?) of times a second.
+
+Each laser pulse (well, most of them) returns to the sensor multiple times since the beam spreads and bounces off multiple things as it goes (top of tree, branches further down, fence post, ground...) resulting in a 3D cloud of points that penetrates the tree canopy. The last return is most likely to be the ground, so couple that info with some math and manual cleanup and you can filter down to just ground points.
+
+Connect all of the ground points together into a mesh of the smallest possible triangles and you get a continuous ground model instead of a sparse cloud of points.
+
+Add some simulated solar effects to cast shadows on this model and render that into a hillshade image like this post, and voila, WWII trenches.
+
+You didn't ask but I 'splained anyway ¯\\\_(ツ)\_/¯
+lol, I was arguing your point by pointing out a bad analogy. Maybe I need to get my Flash facts straight, though
+Right back atcha [https://i.imgur.com/pyO0cTW.png](https://i.imgur.com/pyO0cTW.png)
+I'm on the beta, maybe it hasn't gotten pushed to stable yet
+Guess I was referring to Chrome blocking it by default. Flash had actual downsides
+Not really, HTML5 was fully featured and viable with no downside to users whatsoever when they started to kill off flash.
+
+Forcing shitty alternatives onto consumers before something better is available is a consumer-hostile way to drive the market forward. Companies should be well able to push BT forward without doing so
+Sync is OP: [https://i.imgur.com/bWhYUgf.png](https://i.imgur.com/bWhYUgf.png)
+Not since it was bought by a sketchy Chinese company whose only other app is a "RAM cleaner", in my mind.
+I mean, Google is pushing USB-C as a kind of cloaca.  Now that I think about it, maybe that's what the "C" actually stands for.
+Yeah but a Xiaomi exec says you don't know what you're talking about
+Well they don't want to end the argument about killing babies because it's the perfect platform to attract a large number of single-issue voters
+Who is simultaneously getting an abortion
+That's fair. Personally I'd probably wipe it down with isopropyl in that case, which I wouldn't worry too much about ruining my non water resistant phone
+That sounds like you're getting fucked by your dad
+All questions were related to his mom
+Nope, Smurfs
+Any practical difference between using Chrome and Google webview? Or AOSP webview, for that matter
+Wha?
+The ol' undershirt wipe always does it for me
+Pretty much making it a non-Windows phone
+Maybe the Pixel 3 will have a headphone jack and then I'll be able to afford it when the Pixel 4 comes out!
+How the hell do you get your phone that dirty in the first place?
+G O D I S N O W H E R E
+That does seem dumb. The notification shade  is probably baked into the systemui, unfortunately :/
+I just happened to come across this, you might be interested:
+
+https://forum.xda-developers.com/google-nexus-5/general/radio-enable-lte-band-3-nexus-5-d820-t2928561
+Colluding?  Maybe not.  Realizing that they can save money on parts and engineering while also increasing profit by selling overpriced adapters?  Absolutely.
+It's a bit expensive everywhere
+[It doesn't?](https://i.imgur.com/4jZrhKN.png)
+Encompass Parts my brotha. Otherwise it's a crapshoot whether or not it's genuine
+$25 to replace it, check out Encompass Parts for a genuine one
+It's fine... if you have a ton of light and your subject isn't moving
+This is disheartening to hear since the V30 seems to be the last hope for an upgrade
+[https://i.imgur.com/dJjUmCG.jpg](https://i.imgur.com/dJjUmCG.jpg)
+Thanks!
+How do you do it?
+I've been trying since I was 18 and it hasn't worked, now what?
+You can't be hurt if you're safe
+I just put Nougat in the form of Lineage on my dad's first gen and was surprised how well it handled it
+The dude filming is loving it
+Ah, used to have a late model 318, saw the same radiator and oil filter housing
+It's spring loaded
+A prehensile penis
+Selfie stick
+Gotta have that sour cream
+E30 with a hot air intake
+Horny Ants is the headliner, A Hand Fetish is the warm-up band
+They soak them in the tub overnight
+While I was being sarcastic that's actually pretty interesting stuff
+TIL the universe uses the RGB color model
+GIF is a shit format for what is essentially video
+I went on LGs site and found an official parts distributor (Encompass in this case)
+Multi-dollar company
+It probably tries to pick out complimentary colors or ones that'll maximize contrast
+What?? Do you know this? Why is it over 3x my Lineage install?
+I dunno, as much as SMS sucks I don't particularly like the idea of everyone buying into a single company's service. What we need is for carriers to get their heads out of their asses and properly implement RCS
+Huzzah, happy about the new updater. Took me an hour of retries on a slow connection to get it in the latest nightly
+Fair enough
+Like my dad used to say, always wear a helmet and use propane
+Unless it also leaves sticky residue all over, then it's back to being stupid
+I've noticed this multiple times. Bot's broke, yo
+> Apple users literally keep their phones forever
+
+-_-
+A scrunched-up brown eye
+Why would you ever want your password to be a file?
+Interesting read, thanks
+That's like calling a keyboard a MIDI. You're leaving out the descriptive part
+What were those prereqs specifically?
+This is why I keep a universal serial bus in my pocket at all times
+If they stitched them together into a "frame" at 4x the resolution of a single sensor then it might actually be interesting
+Knowing Spotify they'll release something crappy which they won't be able to get to work correctly then they'll ditch it in 6 months
+I also had zero reason to root until they stopped pushing security updates. An unlockable bootloader is important if you like to keep your phones for a long time
+/u/stabbot
+Ha, maybe if you're a hick
+I don't have the answer, but have you played with the chrome inspector? You can monitor all network activity from the page and view the http requests. I'm assuming so if you know how to set cookies
+Oooooh, the bot dun goofed
+
+
+> I | sus|pect | Ken | might (5)
+
+>O|cca|sion|al|ly | write | both | sides (8)
+
+>Of | his | ar|gu|ments. (5)
+
+
+/u/Eight1911, come take it out back and put it down.
+It seems you've been able to access a fragment of prior shitposts
+Apparently He is also God.
+Throw in Privacy Badger for a cherry on top. Not strictly for security, but still
+I hate you
+What's diceware?
+Keep him away from your spicy taco
+As long as it also has a physical keyboard screen
+He just wanted some of that sweet, sweet antifreeze
+It has a customizable wink pattern
+It's right there on the scooter. It's a front rear brake for maximum stopping power
+You can get an auto refund for like 12 hours if you just uninstall it. Plus it's two bucks, lol
+Ever drank a protein shake from a shoe?
+Have you figured out the break-even point on those savings? That new washer and dryer had costs (monetary and otherwise) to manufacture
+Bongs
+Pretty fugly for the money
+I'm just gonna give him a call
+Somewhere else mentioned that the fine print on the enrollment contains an arbitration clause so you can't sue or participate in a class action. Have not verified but would not be surprising
+Did it tell you or did it give you a date to check back?
+They could tell it to the police
+Is the hatchet also made of feathers?
+I hit a button that said "potential impact" and it took me to that same page -_-
+Been using the volume rocker for this ¯\\\_(ツ)\_/¯
+But mah net neutrality
+It's made with kid-safe ethyl alcohol
+Toast the inside of the bread only. Makes it crispy but doesn't cut your gums when you bite into it.
+
+Told myself that a while ago and still do it to this day
+He should have rode in the cart
+Beware the SCALE of 24000:1
+Is distilled water preferable to something like isopropyl? I think isopropyl would also help the water evaporate (maybe?)
+How is LGs skin on top of Android? Stock-ish, at least?
+[furiously rasterbates](/a)
+guilty as charged
+relative to what?
+It sounds better on the floor, that's what it was designed for
+The most important part of loading a dishwasher is making  sure to dirty the correct number of each type of utensil
+It's like having a food truck in the U.S. and not accepting rupees 
+You think your balls are bigger than mine?  [NO!  OF COURSE NOT. I'M SURIYA, MY BALLS ARE HUGE.](https://www.youtube.com/watch?v=GsgQ44_uFW4)
+http://threewordphrase.com/mission.htm
+^^^o
+Thought I was the only person who ever watched that show
+Nice! Sync has so many options it's hard to keep track of them all
+I just want cheap, user-replaceable parts so I don't need to worry about cases at all
+Negative, no power saving or performance tweaks
+I agree with that last sentiment. The old Nexus 5 is nowhere as smooth as a Pixel, but any app I need works fine if I don't mind waiting a second for it to open. I can bide my time until something that ticks all of my boxes comes along.
+Not sure, that may or may not be possible at the moment. I feel like I've seen that request at some point
+You saying my phone isn't new?
+
+
+
+(╯°□°）╯︵ ┻━┻)
+Just seems surprising that my phone could render fancy game graphics and play 1080p video just fine but not resample an image on the fly that easily fits into RAM.
+
+You could be right, though. Admittedly I didn't try it in any other viewers.
+**Device information**
+
+    Sync version: 14.4 (final beta)    
+    Sync flavor: free    
+    Removed ads: true    
+    
+    Device: hammerhead    
+    Model: LGE Nexus 5    
+    Android: 7.1.2
+
+Steps to reproduce: zoom and scroll 😏
+Use Magisk instead of SuperSU to pass safety net. SuperSU is owned by a Chinese company now anyway
+The "view all images" isn't bad for that, no?
+The problem with that would be extra lag with the single-tap action, which Instagram doesn't have
+I've had no problems going OEM from Encompass
+Wow, somehow I never found the option to disable it for specific apps. Now I know!
+Oh shiiiit, how have I not found that...
+Spiderland is great. Tweez is pretty rad, too, got that one on CD
+Eh, I prefer auto updates, don't want to have to individually update everything. I use this method since the latest gcam doesn't fully support my device
+Just don't ask about the release, ask when the day before it will be instead
+7 porns
+https://youtu.be/uyh3C1xDT3Y?t=37s
+Seriously, thank god for root
+They're working towards that for sure.
+
+> Yo dawg, I heard you like pictures...
+
+-Oreo
+If you use TWRP
+Did it happen? Proof?
+https://youtu.be/FZBtdvzDns0
+NOAA meteograms for life
+Or just, you know, not. Perfectly reasonable to prompt for a city of there's no location available
+Weather Timeline for Android can use Weather Underground (and a few others), plus it's just sexy.
+
+Costs a few bucks but ad free and worth it.
+one must be [tarded](/a) in the first place
+[explination](http://i0.kym-cdn.com/photos/images/original/001/265/255/f79.png)
+Curb for a bird
+Bokay haram
+I'm wondering this as well since I use my devices until I can no longer stand to. All these stupid issues with the fancy new phones...
+Eh, GBoard is fine on my 4 year old phone if that's what you're using
+I don't think you'll even need to root to feel that, necessarily. It was a real eye opener when I downloaded a file on my mom's iPad and tried in vain to locate it
+Forget you have another setting enabled? Lock delay? On-body detection? Location-based or other smart lock?
+
+The little lock icon would be open and pulsating if so, I believe
+Sweet, thanks for the low-down. I'm new to the custom ROM world and even newer to Lineage, so I wasn't sure what to expect. Sounds like I won't have to switch back to an AOSP build if I can bear the delay
+How much lag time is there normally between a new Android version and a new Lineage OS/CM version? I realize it will vary by maintainer, just looking for a rough estimate.
+
+Too afraid to ask about something update related over in the Lineage sub, so this seems like a good place...
+This little girl would kill at sports
+Canid Phallusii
+Peppermint Patty
+It's not like a 3.5mm plug will swivel.  I still want the jack, though
+That lighting is wonderful
+Oh good, I need a new computer to take to sailing quallage
+[His hood opens the wrong way](http://farm5.static.flickr.com/4069/4444836862_242127cff7.jpg)
+Faucetaboutit
+Some of us like to watch porn with our families ¯\\\_(ツ)\_/¯
+They make you sip it then sit and watch you for an hour to prove it's not acid
+I used to use that ROM before I switched to Lineage.
+
+It was very smooth and stable, I was running it with Open GApps and SuperSU. No OTA updates, but you can dirty flash. I did that successfully twice but had to clean flash another time due to force closes I couldn't fix.
+
+Overall it was a good ROM. I prefer Lineage now but would be perfectly happy if I had to go back.
+4d3d3d3 engaged
+Fuck, it's gonna take me a long time to save up for 2 houses
+Nice try with your thinly veiled attempt at getting me to tag /u/waterguy12. Better luck next time
+This plus Tesla Unread make it perfect
+I use this one as well, decently customizable
+
+[http://i.imgur.com/bP0qShk.png](http://i.imgur.com/bP0qShk.png)
+Got it, thanks for the info. Still concerning because I don't know the actual status
+Yeah, Trump would totally nominate someone reasonable and willing to listen to the people like Wheeler
+> 4%
+
+Well that's concerning.
+You can back up and restore most app data using Titanium Backup. It'll work fine for 95% of things, but you gotta be rooted
+> Shit... Shouldn't I be hibernating right now?
+That thread is kinda dated by now but it is a good place to start.
+
++1 for Lineage, been using it for a few months with no complaints
+Don't forget to enable f.lux
+Yeah he should have used a pesticide sprayer
+Also a scat fact.
+My nips hurt just hearing this
+OP doesn't love her kids
+Yerp.  My NAND failed, tried to wipe in recovery mode and got errors.  Had to send it in 2 weeks out of warranty and pay for repairs.  Classic LG.
+Great Job
+What's the source video?  Beach dunes?  Grassy knoll?
+It does, but the puppy has no butthole so you have to use the included colostomy adapter to take it outside
+> Mr. Heidecker and Mr. Wareheim were executive producers on “Nathan for You”, the most ambitious prank show ever broadcast
+
+Damn straight, NYT
+Keyword is "now", I'd never buy an older auto
+More like a left-foot flail-and-feel
+Just start down a hill in second and never shift
+Even if it is legal forcing student app makers to defend it in court would be enough to shut them down
+Can we get a picture with a 2017 penny for scale?
+Make like a tree and die in a firey crash due to suspension failure
+cornfirmed /u/TehPwndaz did 9/11
+AirAudio (for rooted devices) is amazing. It'll let you stream music to Apple TV, Chromecast, Roku, Fire Stick, and some other receivers. Includes album art and info on receivers where it can. I sometimes end up using it to cast Spotify to Chromecast because Spotify's native support is so buggy...
+
+Linkme: AirAudio
+http://i.imgur.com/B0Gfdu6.png
+How about the site you're on?  Yeah, Reddit has an app now, but they didn't used to.
+Yeah, I mean good in the context of Chrome/staying within the Google ecosystem
+We only got hunks now
+It's a threenis
+You sure it's not just a crappy old battery? Plenty of battery stories over on /r/Nexus5 where phones will shut down under CPU load
+I really wish there was a good solution for non-rooted phones. I have a hard time recommending the pseudo-VPN solutions to less savvy users
+Eh, I can see the potential use, at least. Properly designed mobile sites could replace a lot of infrequent use apps, some of which might have a legitimate use for vibrating notifications
+An extreme case of blue balls
+Sure you can, there are plenty of lossless compression algorithms. LZW, DEFLATE, etc.
+Especially if you're carrying a big-ass stick to fend off bears with
+Licking my own ass
+Oh interesting. Yeah I'd expect everything new-ish to be plastic and foam.
+Ah, the [good old diving boards](https://i.imgur.com/uB9Wjww.jpg).
+
+The shocks were just for NA-market vehicles due to DOT regulations stating that there could be no damage from a 5 MPH impact (if I remember correctly).  Euro models had much sexier bumpers.
+Hmm, sounds like just the kind of thing Big Public Interest would want us to think...
+This guy computers. I can tell by the words.
+Hang on, just let me chalk up my shins before I bust out this flip
+Your aspect ratio is way off
+Have an upvote ⬇️
+Over 9999 Milos? Wow
+Sure, but how many engine rebuilds?
+I dunno, its shoes are still on
+Can you rip me some Blu-ray releases if I send you a stack of VHS tapes? I love it.
+That's not an amazing fact, that's just common sense
+Some kinda polygon
+USA5372: Democracy not working as intended [bug]
+
+*marked as "wontfix" by gop69*
+Like an updated version of this?  https://i.imgur.com/q9RsdEP.jpg
+Shoulda used Sponge Bob tank decorations or something
+xpost /r/pcmods/
+https://youtu.be/1S7BGDpVotg
+> Tell me about: *dipping your wick in poison*
+Now a live wallpaper with an animated portal would be neato
+This is why I don't buy Chinese water off of eBay
+Most phones don't use .dng files?
+Eh, I'd rather have an inf-inch monitor
+Oh good, I thought he was gonna fall asleep and die of suffocation
+Wh🅱t th🅱 f🅱ck d🅱d 🅱🅱🅱 j🅱st f🅱ck🅱ng s🅱🅱 🅱b🅱🅱t m🅱, 🅱🅱🅱 l🅱ttl🅱 b🅱tch? 🅱’ll h🅱v🅱 🅱🅱🅱 kn🅱w 🅱 gr🅱d🅱🅱t🅱d t🅱p 🅱f m🅱 cl🅱ss 🅱n th🅱 N🅱v🅱 S🅱🅱ls, 🅱nd 🅱’v🅱 b🅱🅱n 🅱nv🅱lv🅱d 🅱n n🅱m🅱r🅱🅱s s🅱cr🅱t r🅱🅱ds 🅱n 🅱l-Q🅱🅱🅱d🅱, 🅱nd 🅱 h🅱v🅱 🅱v🅱r 300 c🅱nf🅱rm🅱d k🅱lls.
+
+🅱 🅱m tr🅱🅱n🅱d 🅱n g🅱r🅱ll🅱 w🅱rf🅱r🅱 🅱nd 🅱’m th🅱 t🅱p sn🅱p🅱r 🅱n th🅱 🅱nt🅱r🅱 🅱S 🅱rm🅱d f🅱rc🅱s. 🅱🅱🅱 🅱r🅱 n🅱th🅱ng t🅱 m🅱 b🅱t j🅱st 🅱n🅱th🅱r t🅱rg🅱t. 🅱 w🅱ll w🅱p🅱 🅱🅱🅱 th🅱 f🅱ck 🅱🅱t w🅱th pr🅱c🅱s🅱🅱n th🅱 l🅱k🅱s 🅱f wh🅱ch h🅱s n🅱v🅱r b🅱🅱n s🅱🅱n b🅱f🅱r🅱 🅱n th🅱s 🅱🅱rth, m🅱rk m🅱 f🅱ck🅱ng w🅱rds.
+
+🅱🅱🅱 th🅱nk 🅱🅱🅱 c🅱n g🅱t 🅱w🅱🅱 w🅱th s🅱🅱🅱ng th🅱t sh🅱t t🅱 m🅱 🅱v🅱r th🅱 🅱nt🅱rn🅱t? Th🅱nk 🅱g🅱🅱n, f🅱ck🅱r. 🅱s w🅱 sp🅱🅱k 🅱 🅱m c🅱nt🅱ct🅱ng m🅱 s🅱cr🅱t n🅱tw🅱rk 🅱f sp🅱🅱s 🅱cr🅱ss th🅱 🅱S🅱 🅱nd 🅱🅱🅱r 🅱P 🅱s b🅱🅱ng tr🅱c🅱d r🅱ght n🅱w s🅱 🅱🅱🅱 b🅱tt🅱r pr🅱p🅱r🅱 f🅱r th🅱 st🅱rm, m🅱gg🅱t. Th🅱 st🅱rm th🅱t w🅱p🅱s 🅱🅱t th🅱 p🅱th🅱t🅱c l🅱ttl🅱 th🅱ng 🅱🅱🅱 c🅱ll 🅱🅱🅱r l🅱f🅱. 🅱🅱🅱’r🅱 f🅱ck🅱ng d🅱🅱d, k🅱d. 🅱 c🅱n b🅱 🅱n🅱wh🅱r🅱, 🅱n🅱t🅱m🅱, 🅱nd 🅱 c🅱n k🅱ll 🅱🅱🅱 🅱n 🅱v🅱r s🅱v🅱n h🅱ndr🅱d w🅱🅱s, 🅱nd th🅱t’s j🅱st w🅱th m🅱 b🅱r🅱 h🅱nds.
+
+N🅱t 🅱nl🅱 🅱m 🅱 🅱xt🅱ns🅱v🅱l🅱 tr🅱🅱n🅱d 🅱n 🅱n🅱rm🅱d c🅱mb🅱t, b🅱t 🅱 h🅱v🅱 🅱cc🅱ss t🅱 th🅱 🅱nt🅱r🅱 🅱rs🅱n🅱l 🅱f th🅱 🅱n🅱t🅱d St🅱t🅱s M🅱r🅱n🅱 C🅱rps 🅱nd 🅱 w🅱ll 🅱s🅱 🅱t t🅱 🅱ts f🅱ll 🅱xt🅱nt t🅱 w🅱p🅱 🅱🅱🅱r m🅱s🅱r🅱bl🅱 🅱ss 🅱ff th🅱 f🅱c🅱 🅱f th🅱 c🅱nt🅱n🅱nt, 🅱🅱🅱 l🅱ttl🅱 sh🅱t. 🅱f 🅱nl🅱 🅱🅱🅱 c🅱🅱ld h🅱v🅱 kn🅱wn wh🅱t 🅱nh🅱l🅱 r🅱tr🅱b🅱t🅱🅱n 🅱🅱🅱r l🅱ttl🅱 “cl🅱v🅱r” c🅱mm🅱nt w🅱s 🅱b🅱🅱t t🅱 br🅱ng d🅱wn 🅱p🅱n 🅱🅱🅱, m🅱🅱b🅱 🅱🅱🅱 w🅱🅱ld h🅱v🅱 h🅱ld 🅱🅱🅱r f🅱ck🅱ng t🅱ng🅱🅱.
+
+B🅱t 🅱🅱🅱 c🅱🅱ldn’t, 🅱🅱🅱 d🅱dn’t, 🅱nd n🅱w 🅱🅱🅱’r🅱 p🅱🅱🅱ng th🅱 pr🅱c🅱, 🅱🅱🅱 g🅱dd🅱mn 🅱d🅱🅱t. 🅱 w🅱ll sh🅱t f🅱r🅱 🅱ll 🅱v🅱r 🅱🅱🅱 🅱nd 🅱🅱🅱 w🅱ll dr🅱wn 🅱n 🅱t.
+
+🅱🅱🅱’r🅱 f🅱ck🅱ng d🅱🅱d, k🅱dd🅱.
+Do you think my idea of opening a Shorts Authority would take off? Do you wanna work for me?
+I, for one, would love to accidentally tap stuff at the sides of the screen all the time
+I don't get it, my dog's cock isn't that large
+*bad title
+This looks like Deep Dream abomination.
+
+It'd be hilarious to see what Deep Dream would do to this, actually
+Forward it to sp@mnesty.com and see if they take the bait...
+
+https://spa.mnesty.com/
+Or just buying a cake.
+Fuck you I can't wait for your episode
+Afterwards he'll need a CT for his bunghole
+.
+The position of your face
+Which is less than 300
+xpost /r/biomememes ? Thought I was there for a second
+Liquid fart and MRSA
+If the table content fits the width of the post it'd be nice if Sync just displayed it. For posts like the one linked it's cumbersome to tap "view" on each one
+I want to see them corner and take the subsequent straight in reverse
+Instructions unclear, scraped my penis on the ground but no cats are near my vehicle
+Goddamnit, Brady.
+Eh, at least we don't have tornados
+Titanium backup can also move to a system app
+Nah, ad says it's just a center
+The key is to keep yourself if peak physical condition
+
+https://youtu.be/Vb82-_QQQIo
+There are more words in the Spanish set of instructions
+Seriously. In the year 17' people should know better
+siht ekil yllaer I
+For that professional touch, try replacing the tape with copious amounts of hot glue
+Love this one.  I always go for 0.5x.  You can also set custom scales through ADB if you wanna get real specific:
+
+    adb shell settings put system window_animation_scale 0.66
+    adb shell settings put system transition_animation_scale 0.66
+    adb shell settings put system animator_duration_scale 0.66
+I can see myself dropping a deuce while sitting in one and peeing across the room into the other
+Nice write-up! Wish I had one when I first flashed something. 
+
+Here's what you could do for systemless root:
+
+8 . Install [Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445) via ADB sideload
+
+9 . Boot
+
+10 . Install Magisk Manager via XDA Labs, enable Magisk Hide
+
+11 . Do whatever you couldn't with normal root, like installing Netflix from Google Play and downloading content for offline viewing
+
+
+Other comments:
+
+* Check your radio and bootloader versions, you might be able to skip that step. I already had the latest from OTA marshmallow
+
+* I never use sideload, but seems like that's be handy
+I'm going in for an emergency code 3
+OP definitely explored some black holes last night
+Sounds like a job for some custom Python. I had to do something similar a few months ago,  but it was a find and replace on an XML file within thousands of ZIPs
+To be fair, those GUIs are just there for people who can't figure out the command line
+Classic Spotify. Great service, garbage apps
+I heard that they have a lifetime warranty on cables, though
+If it's lossless then a 1920x1080 image is as good as it gets. But video compression is lossy, so it tries to discard information to save space and not every pixel is represented exactly. Which it's why representing a greater number of pixels than your monitor it's technically capable of displaying looks better in that case
+Same reason, it's rendering/streaming more data than necessary then scaling it down, rather than sending "just enough"
+Well the geolocation technique is old news, as is the fact that the CIA has a lot of spyware. So it's still totally fucked, yes, but the fact that they've been combined isn't an earth shattering realization
+1 like equal 1 share
+Doesn't look like my city's transit is supported :/
+What does this have to do with file managers?
+A context-aware transit app. E.g. if it's 5:00 pm on a weekday it will show a notification of the next bus from work to home
+Not true, I have a mug permanently installed on my desk
+Those shadows doe
+This is more accurate
+"non-dairy creamer"-- it's not dairy creamer, it's just regular old milk
+Saddam Hussein just wanted some exercise
+This looks shopped
+Mine was 12/15 if I remember correctly. It was a moderate improvement, although my old battery wasn't as bad as some people describe theirs to be
+That's why they should make them out of wood
+Analogous to the brakes on a wind turbine, I imagine. There's a limit before it gets ripped apart
+And your prayers will fall
+> to infidelity and beyond!
+MFW someone misses the joke:
+
+:D
+Here's one:
+
+:(
+Yeah, it can hide up to two incoming woodies
+With a broken tailbone
+More like pubic plans, amirite
+Well in very simple terms... You know where the satellite is in relation to the earth at any given point in time, you know when the shot was taken, and you know which way the sensor was oriented at the time of the shot. You also know the geometry of the sensor, the shape of the earth, etc. It's "just" a matter of relating all of those data points in order to map every pixel to a ground location. Kinda like a puzzle, more like a bunch of geometry
+Well, no AI involved in georeferencing, but the way all of different technologies work together is impressive nonetheless
+Smoking pole is not a crime
+I now understand the expression "fuck balls"
+Marry me?
+I don't like you but I wouldn't slap you for walking by me
+I'd be afraid to use that thing...
+Well when an anode and a cathode love each other...
+ja
+If reddit were like Radiolab then five different users would each respond to make up this comment.  I can't stand that editing.
+Ah, duh.  The shakiness is what got me.  Must be someone filming a screen.  Very clear for that, though.
+Why were they filming this in the first place?
+That's genius. I recently subscribed but have only visited on mobile so far
+Ah yes, sorry. Pretty straightforward:
+
+1. Visit /r/hmmm using fixed height cards initially
+2. Select "Change View > Full height cards"
+
+Occasionally the toast does not appear when failing to change
+Can we have an honest conversation about the source of these beliefs yet?
+If you turn it 90° it becomes the Dick Doubler™
+✊
+**Device information**
+
+    Sync version: 14.3 (beta 1)    
+    Sync flavor: free    
+    Removed ads: true    
+    
+    Device: hammerhead    
+    Model: LGE Nexus 5
+> single shot HDR
+
+The whole point of HDR is that it blends multiple exposures...
+I like the apostrophe instead of the accent as well
+Guys, he's not talking about T&E, he's talking about Reasonable Shirts getting cancelled.  Which is a travesty.
+In this case it's probably that they decided to hire no one at all
+Gotta have guns to be in the military
+Not sure, but you'd better watch your shrimp levels. Nothing to fuck around with
+I wanna meet that dad
+Sparts?
+This isn't /r/birdwitharm. GOSH
+Qatar is going to do the same thing, actually, but instead of using HD cameras and holograms they're going to force slaves to recreate the events in stadiums around the world
+So it doesn't fit in the container?
+Because who likes skim?
+"I have the best charisma"
+Sure, but the difference between an referee/umpire/official and a judge is that officials attempt to enforce consistent and pre-defined rules.  I'm not arguing that there's no judgement involved at all, but if I score a touchdown in a way that especially pleases a particular person it doesn't count for more points.
+I'm still waiting for macrowaves
+But if you call them "ree-sees pee-sees" I will come smack you
+That wasn't a cue to spark a pun thread
+Because of legal weed?  How so?  Just due to more tourism?
+Sometimes I use this contraction for something other than it's intended purpose
+Dad?
+To lubricate cantaloupes
+Duct tape.  I've taped a lot of shit, but I've never taped a duct in my life.
+Athletic activity != sport
+This is my definition of "sport" as well.  They shouldn't be subjective
+Why won't you shut the hell up until I've been out of bed for more than 5 minutes?
+Works better as a phrase
+*ever found
+Check your cable connection then try arguing that to Comcast.
+
+I agree, though. It's kinda dumb that ISPs charge you more for "up to" a higher speed.
+I have the same story with my 5
+The Metapixel
+Give it a 1MP camera, then. Problem solved
+Agreed, I'd much rather get skin cancer from tan-inducing chemicals than sun burn
+Snitches get stitches, brosephs get Closex™
+Is that similar to a fuckload?
+Judging by the size and temperature it'd be perfect for Hot Pockets
+Well they are an actual size, just not that size
+I dunno how Aussies can live at half the frame rate
+Eric's $500,000 movie
+That was before the adrenaline
+y tho
+u look like a choccboi
+Thanks! Just trying to make a light one that's easy on the eyes
+{
+    "name": "Olive Brownie",
+    "primary_color": "#533a3a",
+    "accent_color": "#546257",
+    "highlight_color": "#546257",
+    "primary_text_color": "#000000",
+    "secondary_text_color": "#8d8d8d",
+    "window_color": "#f4f4f2",
+    "content_color": "#fbfaf7",
+    "auto_subreddit_themes": false
+}
+Now I'm imagining this question being asked in person.
+
+"Your resume looks great, Bob. Last question, have you ever been convicted of a felony?"
+ 
+"Massachusetts."
+Could be legit if the topography is extreme enough
+Worth it for the sauce tho
+[makes sense](http://blog.duncraft.com/wp-content/uploads/2015/11/File-Jun-09-2-16-57-PM-1080x720.jpeg)
+Jack the blob, my brother.
+Go back to extendable antennas, problem solved.
+I think I remember reading when the technology was new that they'd stop the engine with a piston primed at top dead center. That way they could ignite it to start the engine back up without using the starter at all. Do you know if that's ever the case now or is it easier just to use the starter?
+looks like a nice place for me and my twelve wives
+[what now?](https://i.imgur.com/950A2Po.jpg)
+Time since last poop
+Do you know how I can install wingdings?
+He doesn't have a trademark on his name, I'm sure there are a ton of Ajit V. Pais. It's probable that he's shittiest, though.
+You're the most average person who ever was
+Hillary falls in the "anyone other than Trump" category.  That's about all the credit I'm willing to give her.
+Facts are always true
+"XLink Kai", I believe it was called, would tunnel the LAN over the internet.  As of like 3 years ago when I last tried it there were still a bunch of Brazilian dudes playing Halo 2.
+Been listening to hours of great deep house.  This is awesome.
+I'd like to play a classic map server again as well.  Good luck finding one with players, though.
+Probably not necessary to have the word "button" in each checkbox label-- pretty redundant especially since it's in the title of the pop-up as well. But that's just, like, my opinion, man.
+Going hiking, be back later
+It's okay for everyday use. If I don't go too crazy multitasking I don't notice any issues, but after a certain point it's obvious which apps we're booted from memory
+Bright sun for light, air bubble for fan. Got it
+Just accidentally formatted my hard drive. Thanks, OP
+Winky + Number keys are like an alt-tab for the corresponding app in the taskbar (keep spamming the number)
+
+Alt + D focuses the location bar in Explorer, enter "cmd" to open a command prompt with the working dir set to that folder
+More like a yobot, amirite
+Definitely intentional
+lol, like removing the schleem is "courageous"
+Even though it's backwards?
+This post spooked me pretty good
+If he were the actual FBI he'd already have your toilet records
+I made a DIY version by coating my erect penis in hot glue
+You're missing an arm. Interesting mistake
+The bits on the navigation systems are super interesting as well
+y helo thar
+I feel enlightened.  I never knew how to determine this!
+They don't teach you to tap B in driving school
+Just don't become sentient
+I've been flashing a [Nougat AOSP build](https://forum.xda-developers.com/google-nexus-5/orig-development/wip-aosp-nougat-nexus-5-t3446875) along with Open GApps to keep it as close to stock as possible while still getting the latest OS with security updates. As with any ROM it takes some tinkering to get it set up and manually update the thing periodically, but other than that you couldn't tell that it's not officially supported. Runs like butter.
+Damn, I have one in the mail from Encompass. Now I'm hesitant to install it
+We'll there's a setting to mark posts as read as you scroll past them and a menu option to hide read posts
+It's telling you to turn correctly
+Once you weld it, sure
+[Street view looks like a whole bunch of cameras](http://s.newsweek.com/sites/www.newsweek.com/files/2014/07/16/google-street-view.jpg), and it's pretty easy to see how they stitch them together at times.  There's also the [parabolic mirror kind](http://paulbourke.net/dome/LucyCamera/), though
+Steamplumbus is a whole aesthetic
+You don't say
+Mississippi could have had like 30 total searches without making this map inaccurate. It's all about how you stretch the data
+xpost /r/birdswitharms
+I carry baby wipes
+Naw, once you break the sound barrier it wraps around to the other side
+Same, it seems fine to me. If I start scrolling up it won't let me swipe back and vice versa, as it should be
+I hear this all the time, yet they acted like I was weird for contacting them when my Nexus 5 took a shit (back when it was new-ish, of course)
+Whoa, this looks cool. I don't think it's quite what I was looking for but I might play around with it anyway. Thanks for the suggestion
+(☞ﾟヮﾟ)☞
+But can I make the round corners the same color as the statusbar and navbar?
+I'll trade you for a couple bags of Tordo's Flavor Dust
+Article by [Vincent Adultman](https://i.imgur.com/aobX6b0.png)
+I think that's correct?  Not 100% sure since the only time I install via apk is when something's not available in the Play Store in the first place.
+
+You must be really paranoid if you're worried about people getting onto your Google account...
+> Spotify in general has been getting slower and shittier with every ~~recent~~ update. They even removed sharing to Hangouts
+
+It's the only app I ever have to force close and reopen
+Or Keep for super simple notes (although they won't show up in Drive)
+Probably not possible to hide them from the play store, although maybe you could install them from APKs downloaded elsewhere so Play doesn't know about them.
+
+And I believe some 3rd party launchers (Nova) will let you hide apps.
+Is it possible to have Android act as a bluetooth headset host?  I'm rooted if that helps.
+
+I want to see if I can use an old flip phone as a bluetooth "beacon" to trigger Tasker functions.
+The buttons on the Neo Hybrid are great.  Nice and clicky.
+
+That said I haven't used mine in a while, the N5 feels too good to hold on its own.
+I can still hear the combo noise
+You're ruining this sub with your interesting content
+Saw the thumbnail, expected free real estate
+I dunno, I was slightly intrigued by the shitty paint job
+Let's not get too reasonable, though
+What a time we live in
+Seems reasonable
+Poison spray is most effective on children
+Does the sim work in other phones?  It could be screwed because of your slot, but I've also had multiple SIM cards die on me randomly.
+I mean, you could probably coax a respectable shot out of a flip phone of you stacked everything in Photoshop
+> If you just watch a video on a reasonable brightness the whole time you could legitimately get like 10 hours.
+
+lol
+Interesting. What causes the errors in the first place?
+Do you use 10-digit numbers in Canada?  The app wouldn't work otherwise.  I don't think I'm allowed to ship the cooling gel across international borders, though.
+You can always download my unofficial Cinco-Fone dialer for Android...  https://play.google.com/store/apps/details?id=com.cincomobile.cincofone
+Yes! This is awesome.
+I could go for a jam handy
+Let's see him do that to Talon Bur-proof glass
+\\¯\\\\\\_\\(\\ツ\\)\\_\\/\\¯
+/r/handjob
+That's the sole reason this is on /r/crappydesign
+Not sure, tbh, but it totally does.
+I have no problems using PlayOnMac and the Windows version. If you have an Intel Mac you can't install the native OSX version
+Well it's not Jackie Chan
+This was fascinating.  We sure have come a long way...
+brb while I nail myself to some 2x4s
+Mine fails to swipe sometimes, regular typing is always fine
+Sounds over the top
+Sync could enforce it, though, no?
+I use a sleeve, which people think is weird. But my phone feels great to hold when I'm using it, and I've dropped it many times when I'm not. Still flawless
+Probably cheaper to have someone climb it every 5 years
+This is where I go to buy my cash
+Uh, it's probably a toe grafted onto a finger after an accident
+You can't make a circular line out of square pixels, it will have a bunch of tiny corners.  But if you fill in the tiny corners with a softer shade of the circle's color then it will look more round-ish.
+Rainy lake needs to step up its game
+I make joke
+MS = master siege-weapon
+Damn, he hit him so hard the Fox logo was shook
+Maybe it's case sensitive
+!Remindme check the link
+By work of art he means your taint
+Ah, damnit. Thanks, should have searched
+Oh ok I didn't know
+So both, basically
+Santhosh M's AOSP build is solid for me and he's been keeping it up to date. Currently on 7.1.2 with the April security update:
+
+https://forum.xda-developers.com/google-nexus-5/orig-development/wip-aosp-nougat-nexus-5-t3446875
+
+Although I tried to dirty flash the last update and it doesn't seem as seamless... So I might flash this next update from a clean state.
+
+Don't know anything about Substratum so I can't speak to that
+One horse
+Interesting. I imagine they could integrate some other form of cooling but it would probably also need to be passive to keep the reliability up. Plus it would add to the cost.
+A quall-ity subreddit already exists, /r/absolutelyproductions
+Amen.
+
+https://kodi.tv/article/piracy-box-sellers-and-youtube-promoters-are-killing-kodi
+It might be a neat effect if it scrolled you down a bit automatically if you were at the "bottom" of the screen when it came up.
+Let's just get rid of the seasons all together. Summer is the best anyway
+Will that's one way to do validation
+Google could take it, half-abandon it, and then come out with two other Reddit apps that collectively have 3/4 of the original features
+I started by copy/pasting Rubik's cubes from stackoverflow.
+I'm assuming there's no way for Sync to know this information ahead of time without requesting each file, which would be rather inefficient
+> oh how happy you'll be when I get this chubby lump outta my jeans
+Nice sound system
+But how does he poop?
+There's already an auto imgur uploader in sync, the theme editor already has a mock-up preview if screenshots aren't possible, and it'd be posted with the user's account so a bot wouldn't even be necessary. Seems more than possible to me ¯\\\_(ツ)\_/¯
+
+Alas, it's not up to me, and it's still pretty damn cool as-is
+Teach her how to use it?
+IMO this is what "publish" should do, and then auto-post the code as a comment
+You shouldn't be entitled to any emergency services unless you're sitting safely indoors eating a healthy meal
+Just like that, Sync was never updated again
+fatty fatty 5 by 1, fit that tumor through your abdomun
+Just keep in mind that the battery won't be mint. Mine still gets me through a day off light use, though.
+> hard time
+
+( ͡° ͜ʖ ͡°) 
+ELI5?
+Hang ten/ten
+I could go for some beanstanding
+Do I have to be a shirtless twelve-year-old to do this?
+If only my phone was new enough for Android Fist
+Now I wanna listen to Boards of Canada...
+
+https://youtu.be/88icyGGUSKA
+I don't trust those things to supply the correct voltage anyway. I guess I'm paranoid for totally different reasons
+If only I wasn't on the opposite coast
+There's only one way to make those Cadbury Cream Eggs
+In what part of the country?
+This is something​ I'd expect to see on /r/gamephysics
+Damn. That's super interesting
+I normally just swap some good, used oil. Saves me a ton
+Spruce goose all day
+Ha. Too bad most regions only have one ISP option
+What's with the decal of the dude on an ab ball?
+Bibio - A Mineral Love
+I'll be the six to your nine
+lolwut
+Plibt
+Asses all the way down
+Factory reset?
+I wanna meet that dad
+Thanks for the tip
+Wrong subreddit?
+I find that kids are much easier to babysit when they're on heroin
+If you upload a crappy quality MP3 Google will actually serve you a better version if one is available. They have their shit figured out
+FA Recruiting is my go to
+Ah! That's unfortunate
+This is great! Awesome work.
+
+However browsing a subreddit full of JSON and having to click into the comments in search of a screenshot that may not exist feels a bit clunky. What if publishing a theme posted an imgur'd screenshot and then put the JSON in the comments? Just a thought.
+
+Cheers
+That was fucking intense
+Also couch farts
+> blood in your stool
+
+I...
+
+okay :(
+What's your dad like?
+Crappy design, not crappy kerning
+You're supposed to wear these over your d-pants, duh
+She shouldn't be wearing those glasses since poor eyesight was part of the plan
+Your home screen doesn't even need to fit on your physical screen!  http://i.imgur.com/GpEOw2P.png
+Awesome! The example toast is a nice touch, lol
+
+http://i.imgur.com/5oFhaZW.png
+Yep!  https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity
+Damn, I can't go back and forth. Inverted for life
+I wonder if they have some kind of LEGOCAD software that will turn 3D models into plans
+I made a potato battery, I think I'm getting close
+Always drive a carbureted vehicle
+Should we sue? My chemical analysis did not find any traces of love
+How many inches equals an extra row of seats?
+What does nothing look like?
+aOL_iNstAnT_MeSsEngERcaSE
+It's not synced, you can see the rotors slowly spinning.
+
+Worst video I've ever seen.
+Can you not just build a date object like this?
+
+> var d = new Date(dateString);
+
+Then you can getMinutes() and do math and junk from there
+
+https://www.w3schools.com/jsref/jsref_obj_date.asp
+
+Edit: derp, sorry, somehow glossed over the top comment
+Goatse.
+
+I miss goatse.
+They're a Nougat feature only
+Sure, using deceptive marketing is always a bad thing.  But I'd be okay buying 50% meat 50% soy products from the grocery store if they was actually offered as such.  Tastes like meat but 50% better for the environment.
+I'm a hill roller
+One of my biggest pet peeves is when people leave out the words "to be".
+
+I feel ya, though.
+A nandroid backup isn't a bad idea if you go this route
+That's cool as hell. Plus it runs Android
+Stay strong, brother
+I dunno, but now I think I might get my lip removed.  It's a good look
+What features does it offer over version 7?
+Is that you, ken?
+^^*not Just Tires
+What, really? How does this work? Are you sure it's not just listening to the sounds of you tossing about?
+It's right there in the 69th amendment
+We're gonna need a bigger coat hanger
+I only ever use it to set alarms when it's dark and a don't want to stare at my screen. Occasionally to set reminders because it's faster than navigating/typing a sentence
+Did they back out when they left?
+Have you seen my rascal?
+> I don't know why they have to make a car that does that
+
+luls. Then don't buy one.
+Blackberry 8320 to Nexus 5.
+
+Holy shit, I could actually load and look at a web page
+It's likely a satellite image with a different band configuration than a photo from a regular camera. Meaning spectra that fall outside of the "typical" red, green, and blue wavelengths are mapped to the red, green, and blue channels for display
+Disc golf. Buy a disc or two for ten or twenty bucks then go play free courses all summer
+Karate? Goddamn!
+Cool
+There's a lot of depth to this pun thread
+The Siberian desert. It sounds hot, but despite being a desert it actually averages about −25 °C
+Hotstepper
+bein a dickbag
+A private tennis court
+Does the driver have a little door there?
+Presidentially Disabled
+> However Mr Trump has called Judge Robart's ruling "ridiculous", described him as a "so-called judge" and vowed to restore the ban.
+
+What a childish piece of shit
+SNAP
+Adguard works well, or I just learned of DNS66. Haven't tried the latter. Both will probably use more resources than a rooted option
+Second this, WT is great. Sexy and has nice widgets
+Yep, there are multiplayer Chromecast apps like that, e.g. Cardcast
+Pro-tip: filter the search results using a minimum price that's low but greater than a dollar
+Firefox mobile kinda sucks compared to chrome, or maybe it's just the fact that the non-material theme looks out of place. Hadn't heard of DNS66, though, will have to check that out
+AdAway if you're rooted, Adguard if you're not (uses more resources)
+fleetwoodmacrumors.com
+Polar bears just want to eat lunch
+She's wearing one of [these](http://i.imgur.com/dacADJk.png)
+Damnit, this is gonna break my home screen folder of "transit tracker" mobile pages for catching the bus. It's actually super nice having those open in a webview window
+Bibio has been my favorite artist for years. Currently obsessed with A Mineral Love
+adb pull'ing the backup wouldn't work for me either, until I tried it from TWRP
+It would be really cool to write the software to interpret the notes. Also hilariously pointless
+Oh shit, we have a President of the Universe?  How did I miss that election?
+3rd result on google, didn't even have to reboot.  You da bes.
+That's hilarious that you route all of your network's traffic through it.  I hope you have a good data plan
+Not at all
+Judging by the dirty ground and patio furniture, probably not?
+lol, choice is great but not everything has to be a setting
+[Muahaha](http://i.imgur.com/e54szkA.png)
+
+(I'm rooted. Would be a cool feature for Sync)
+It's not crossed out, I guess you're supposed to do that?
+What about the position of Earth relative to the sun?
+Syncing posts for a specified subreddit mayhaps
+I like to take vanilla pudding powder and then mix it on the plane. Gets through security just fine in a zip lock bag taped to my stomach
+There's barely any illusion here...
+> 💀🎺. Ms skeltal is doot, skeltal is get head. Inaccurate statement. there is a skeleton? thanked and updooted. thank comrade skeltal. thank mr skeltal but no updoot for strong bones all season" u r a fuccboi. no updoots from me eh? post.
+
+Do like this gecko and turn that frown upside-down
+I used the info from [this thread](https://forum.xda-developers.com/nexus-6p/themes-apps/mod-tutorial-pixel-launcher-smaller-t3499371) to add an extra row and column of icons on the pixel launcher grid, to match a denser dpi:
+
+http://i.imgur.com/GS8hwsA.jpg
+
+Much better with 6 across.
+
+Using Santhosh M's 7.1.1 ROM
+I'll stick to blowing my neighbors
+TIL that you can see the entire northern hemisphere from the top of the Matterhorn
+Not quite, it happens for me when I cold-start Sync from a message notification and then hit back
+Shock absorbers dampen motion while springs absorb shock
+Old post I know but check this out:
+
+https://forum.xda-developers.com/nexus-6p/themes-apps/mod-tutorial-pixel-launcher-smaller-t3499371
+
+Takes some tweaking for sure, but I managed to bump up the # of rows and columns to match my denser DPI.
+
+
+I would've gone for Trucking Grit
+No HDR+ (from my testing-- takes a regular pic) but the green video artifact issue has been fixed (from the change log, I haven't tried it).
+Human females can also do this from their lower body, but it takes about a month to recharge
+Is that British for the balls under the dickbutt dick?
+Maybe I'm a skeptic but couldn't it have just been the second flush? Reddit needs to commission a study
+Let me guess, you or a loved one suffers from mesothelioma
+Damn, [these guys have some long-ass names](http://i.imgur.com/OUo7a7R.png).
+
+Oh wait...
+If it gets bitten off it'll just grow another viable human
+I rooted the latest Marshmallow by following this guide:
+
+https://forum.xda-developers.com/google-nexus-5/general/guide-nexus-5-how-to-unlock-bootloader-t2507905
+
+Pretty easy. I like to know what goes on behind the scenes so I didn't bother looking for a tool.
+
+Of course I only lasted a week before opting to flash a Nougat build, haha.
+He just got them and now they're back inside him :(
+I miss that map. But good luck finding it on a server with actual players
+That looks ghetto as hell.  Those are my thoughts.
+Ah! I guess I glossed over that bit when it [warned me](http://i.imgur.com/t1YwkkX.png). Much better, thanks!
+The waterfall of their lives
+The apps are Tasker and CF.lumen, so yeah, they're not important as notifications but I do need them to keep running
+Is it possible to hide persistent notifications in a way that won't let the background process get killed? I'm on rooted device running Marshmallow
+Can Jesus do white? Red doesn't go with fish
+Hillary was Martin Shkreli in this analogy-- she had the CEO experience, but c'mon
+What's with the gorilla on the left?
+The first Kit Kats were actually all chocolate.  Over years of the same rejects getting repeatedly crushed the chocolate particles eventually started to break down into simple wafer
+Is there really such a thing?
+It's actually a photograph of a 3D render
+I was expecting everyone who jumped in to pull out broken phones at the end
+Sunroof, probably
+Depends on where he lives
+Autohotkey is weird
+I don't doubt it. But he still has a Tim and Eric name
+He's not a smart man
+I don't want to know what those sauces are

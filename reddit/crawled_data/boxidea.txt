@@ -1,0 +1,4369 @@
+Well flask doesn't handle CLI stuff at all, so you could include the CLI stuff in your flask app, but flask will still only handle the web part of things.
+
+I did something similar and ended up with 3 packages:
+
+- myapp-core
+- myapp-cli
+- myapp-web
+
+myapp-core handled all the business logic and contained the ORM models that were shared across the web package and cli package.
+
+myapp-web is a flask app that basically just does view handling and imports stuff from myapp-core.
+
+myapp-core is a CLI app that handles cli processing and imports stuff from myapp-core.
+
+This works great, but there's no reason you couldn't just put all your CLI code in the same package as your flask app.
+M’zip file. 
+This is the exact use-case for hybrid properties.
+
+    from sqlalchemy.ext.hybrid import hybrid_property
+
+    class Post(Base):
+        __tablename__ = 'posts'
+
+        id = Column(Integer, primary_key=True)
+        upvotes = Column(Integer, nullable=False)
+        downvotes = Column(Integer, nullable=False)
+        age = Column(Integer, nullable=False)
+        importance = Column(Integer, nullable=False)
+
+        @hybrid_property
+        def hotness(self):
+            return (self.upvotes - self.downvotes) * self.age / self.importance
+
+Then you can just do this:
+
+    Post.query.order_by(Post.hotness.desc())
+
+And you can access the property on instances as well:
+
+    post = Post.query.first()
+    post.hotness
+
+No need for extra update queries.
+You have a typo in your template:
+
+    {% url 'add_coin' %)
+
+Should be a }
+
+That should fix it
+Maybe I should have put a sarcasm tag. 
+Neat. I didn’t know watches could slow time down. 
+Sure he would. He already has a toaster. Why would he steal another one?
+The problem is that he's using recursion and never extends the current filelist when he calls `find_file` recursively.
+
+Imagine a directory structure like this:
+
+    folder/
+        file1.jpg
+        subfolder/
+            file2.jpg
+
+Here's a working example of OP's find_file using a global variable:
+
+    filelist = []
+
+    def find_file(folder):
+        global filelist
+        for filename in os.listdir(folder):
+            fullpath = os.path.join(folder, filename)
+            if os.path.isfile(fullpath) and '.jpg' in fullpath:
+                filelist.append(fullpath)
+            if os.path.isdir(fullpath):
+                find_file(fullpath)
+
+This works just fine and filelist will end up with:
+
+    ['folder/file1.jpg', 'folder/subfolder/file2.jpg']
+
+If we move filelist to a local variable:
+
+    def find_file(folder):
+        filelist = []
+        for filename in os.listdir(folder):
+            fullpath = os.path.join(folder, filename)
+            if os.path.isfile(fullpath) and '.jpg' in fullpath:
+                filelist.append(fullpath)
+            if os.path.isdir(fullpath):
+                find_file(fullpath)
+
+Now when this runs, filelist will only contain this:
+
+    ['folder/file1.jpg']
+
+Yes it did recurse into the subdirectory, but the output was basically discarded since the sub-call to find_file has its own filelist and does not do anything with it.
+
+The better solution is to return the value each time and extend the parent's filelist with the result of the call to find_file:
+
+    def find_file(folder):
+        filelist = []
+        for filename in os.listdir(folder):
+            fullpath = os.path.join(folder, filename)
+            if os.path.isfile(fullpath) and '.jpg' in fullpath:
+                filelist.append(fullpath)
+            if os.path.isdir(fullpath):
+                filelist.extend(find_file(fullpath))
+        return filelist
+
+    print(find_file('test'))
+
+This works properly and does not use global variables.
+
+Event better though, I'd probably use a generator:
+
+    def find_file(folder):
+        for filename in os.listdir(folder):
+            fullpath = os.path.join(folder, filename)
+            if os.path.isfile(fullpath) and '.jpg' in fullpath:
+                yield fullpath
+            if os.path.isdir(fullpath):
+                yield from find_file(fullpath)
+
+    print(list(find_file('test')))
+Wonder what this will do for Boost? I've used them for the past 3 years. Hope the coverage just gets better with not too much increase in price.
+Well the traditional way is to check for presence of a "distribution file".
+
+For example, if `/etc/redhat-release` exists, then you're on RedHat.
+
+There is a package called `getos` that does this. It also maintains a list of which file should be present for which distribution:
+
+https://github.com/retrohacker/getos/blob/master/os.json
+
+If you only want to check for specific distributions, it shouldn't be that hard to do it manually:
+
+    var fs = require('fs')
+
+    function callback(error, file) {
+      if (error) {
+        console.log("file does not exist");
+      }
+      // file exists
+    }
+
+    fs.readFile("/etc/redhat-release", callback);
+
+Makes sense. Just thought I’d share. 
+Brooklyn Noine Noine
+If you want to do all your logic in Postgres, you could check out a project like PostgREST. Ive used it for a couple small projects and it works great. 
+
+https://postgrest.com
+OP never said he follows you around. 
+
+You hand over the check at the real estate office and Samuel appears and starts yelling MOTHERFUCKER. 
+
+Just leave him at the real estate office while you go enjoy your new house. 
+^and ^dont ^forget ^about ^cars
+If you have 500 of them can you trade it in for a 1:1?
+Look at all the cigarettes in the shower and by the bath tub.
+https://www.reddit.com/r/legaladvice/comments/34l7vo/ma_postit_notes_left_in_apartment/
+
+And the follow up...
+
+https://www.reddit.com/r/legaladvice/comments/34m92h/update_ma_postit_notes_left_in_apartment/
+>Him: this is my hobby
+
+>Him: for fun and profit
+
+>Me: Do you make decent money from coinhive ?
+
+>Him: no. i have not made anything yet
+
+Sooo... just for fun then.
+It's so filthy but there are so many cleaning supplies in the mess. I don't even understand.
+
+It was named by Sir Humphry Davy and he was a bit indecisive. First spelling it alumium (this was in 1807) then changing it to aluminum, and finally settling on aluminium in 1812.
+
+The spelling in –um continued in occasional use in Britain for a while, though that in –ium soon predominated.
+
+In the USA, the position was more complicated. Noah Webster’s Dictionary of 1828 has only aluminum, though the standard spelling among US chemists throughout most of the nineteenth century was aluminium.
+
+http://www.worldwidewords.org/articles/aluminium.htm
+We've had broken banana breakdowns as well.
+
+Cutting sandwiches is a gamble right now.
+
+She may ask for me to cut it in triangles, so I'll cut it in triangles. 
+
+Then there's a breakdown because I cut the sandwich in triangles but she *really* wanted it cut in half.
+Isn't this is getting on 495 at 50 going north? 
+
+You'll hit the tolled exit for 66 before the exits for 7 and 123.
+
+https://goo.gl/maps/tgxDTvVo8w32
+Also:
+
+“My tent”
+
+“My fiance’s tent”
+
+“My fiance’s and my tent” sounds good but it’s actually referring to 2 tents
+
+“My and my fiancé’s tent” I believe is correct but sounds awkward
+
+“The tent my fiancé and I bought” is probably your best option
+If you open the integrated terminal, you can open a file or folder by running `code /path/to/file` like so:
+
+https://i.imgur.com/vQ7Ypf3.png
+
+This can be done without using the mouse.
+This one is a classic. 
+
+https://stackoverflow.com/questions/4456438/how-to-pass-null-a-real-surname-to-a-soap-web-service-in-actionscript-3
+Look at this guy hard coding LocaleFactory. He’s not even using the LocaleFactoryBuilder. That’s just asking for problems. 
+More like /r/wellworn
+It only changes the sidebar. I want a full dark theme!
+http://clintharris.net/2009/ie-512-byte-error-pages-and-wordpress/
+
+
+tldr: Internet Explorer (prior to version 7) will ignore your custom error page if it’s too small (e.g., fewer than 512 bytes) and always display its own. Add extra comments to the page to make sure it’s big enough. 
+> JavaFX is nice too but getting removed from the JDK.
+
+It’s getting removed from the JDK and spun off as a separate package. That allows it to develop at its own (maybe faster) pace rather than being tied to JDK version. 
+
+JavaFX is not going away. Far from it. 
+Yeah it's kind of a bummer. It works when you define things in the same HTML file, but it doesn't go through any external scripts.
+
+Check out this reply here. Others have suggested it as well, but it's "currently not on the plan".
+
+https://github.com/Microsoft/vscode/issues/15377#issuecomment-278578309
+
+So it must wait for awesome person to create an extension.
+So you have files included with a script like this?
+
+    <script src="app.js"></script>
+    <script src="another.js"></script>
+
+And then you want to write some more code like this in your html file?
+
+    <script>
+        someFunction();
+    </script>
+
+And be able to jump to definition of someFunction if it was defined in one of the script files?
+
+I don't think that's possible. There might be an extension to do it but I'm not aware of it.
+
+You can jump from javascript file to javascript file (provided you have a [jsconfig.json](https://code.visualstudio.com/docs/languages/jsconfig) file set up properly). But from HTML to javascript I'm not sure is possible.
+
+
+All the packages listed in `packages=` in `setup.py` get created in `site-packages`
+
+Which for your project, this:
+
+    packages=find_packages(exclude=['tests']),
+
+Gets translated to this:
+
+    packages=['shotcharts', 'retrieval', 'utils']
+
+So all 3 of those get created in `site-packages`
+
+You can nest it if you want by putting `retrieval` and `utils` under `shotcharts`.
+
+If you want it nested under `nba_shotcharts` then your directory structure should look something like this:
+
+    nba_shotcharts [main repository named whatever you want]
+        setup.py
+        nba_shotcharts [python package]
+            __init__.py
+            shotchart.py
+            utils
+                __init__.py
+            retriever
+                __init__.py
+
+Then your `find_packages(exclude=['tests'])` would get expanded to this:
+
+    ['nba_shotcharts', 'nba_shotcharts.utils', 'nba_shotcharts.retriever']
+
+And you'd use it like this:
+
+    from nba_shotcharts import shotchart
+    from nba_shotcharts.utils import something
+    from nba_shotcharts.retriever import api_retriever
+Weird. That looks right. I used your setup.py and the github repo linked. I was able to install your package successfully using `pip install .` I'm also using Python 3.
+
+It created the `shotcharts` package in `site-packages`:
+
+https://i.imgur.com/qVnEOuE.png
+
+And I could import it successfully.
+
+https://i.imgur.com/sNnTQta.png
+I cannot stand in-ear headphones. They make my ears hurt after about 10 seconds.
+
+I think my ears were designed for earbuds. They stay in for hours no matter what I'm doing and don't hurt at all.
+
+Seems like I'm in the minority though. Everyone is always pushing in-ear headphones.
+Type hints are crucial if you want to use the new [data classes](https://www.python.org/dev/peps/pep-0557/) in 3.7.
+
+    @dataclass
+    class Inventory:
+        name: str
+        unit_price: float
+
+    item = Inventory("Python Book", 34.99)
+Either of those commands should work. If you do a `pip install .` then it should create a `package_name-version.dist-info` folder as well as install `package_name`.
+
+It's possible that your package isn't set up correctly so it's not actually installing the package. Sounds like this is probably the case since you're not able to import the package after installing it.
+
+What does your `setup.py` look like?
+You probably want to return `redirect(redirect_url())` instead of `redirect(url_for(redirect_url()))`
+
+The way you have it now is going to try to call `url_for('http://localhost:5000/')` when `request.referrer` is set which won't work.
+Well there’s not a good text editor for vim yet. 
+What would a flask backend do for a calculator?
+Don't know if it's a mathematical term, but in design and carpentry it's called a chamfered rectangle.
+Yes, Word documents are actually compressed archives. Try opening a `.docx` one in a zip utility and you can see all the different files inside.
+
+`document.xml` inside the zip file is what actually contains the text of the document. So you could look at that if you wanted, but it has a lot of extra metadata still, since it's an XML document.
+Word documents are actually compressed archives, so the reason that it's smaller than the text you entered is because it's compressing it.
+
+So given two documents with 100,000 characters each and nothing else, the sizes of the documents could be very different depending on what characters are in the document (how often word/phrases are repeated) and how Word is able to compress them.
+Might not be too bad then. As long as you could turn it off for other people too, and not just Will. 
+It’s a lease. You’d pay 1% of MSRP per month. 
+It’s not a typo. You pay 1% of MSRP per month. 
+Will there be free stickers?
+sTalled
+Sweet! Let me know if you need anything else.
+This might be a little long but bear with me...
+
+Let's assume you have a directory structure that looks like this:
+
+    setup.py
+    README.md
+    vite/
+        __init__.py
+        vite.py
+        cli.py
+
+This directory structure allows you to make a pip-installble package. You would need to create setup.py to look like this (at a minimum):
+
+    from setuptools import setup
+
+    setup(
+        name='vite',
+        version='1.0.0
+        description='vite static site generator',
+        packages='vite',
+        entry_points={
+            'console_scripts': [
+                'vite-cli = vite.cli:main',
+            ]
+        },
+    )
+
+Now from within your directory containing setup.py, you can do `pip install -e .` to install your package.
+
+The `-e` flag means that it's editable so it will automatically pickup any changes as you make them and you don't need to re-install.
+
+The `packages='vite'` parameter tells setuptools to install the 'vite' package which has `vite.py` and `cli.py` under it. Now you can do `from vite import vite` in python no matter what directory you're in.
+
+The `entry_points` parameter tells setuptools to automatically create executables with the given names. In this case it will create a `vite-cli` executable that runs the `main()` method in `vite/cli.py`.
+
+That `main()` method can basically replace what you have in make.py.  You could assume that the user is always going to run `vite-cli` from the project home directory, which would be `os.getcwd()` in python, and you can build your paths from there.
+
+Something like this in `vite\cli.py`:
+
+    from vite import vite
+
+    def main():
+        # assuming the only thing this does is generate html
+        # really you should put your argument parsing here to dispatch the correct logic
+
+        project_dir = os.getcwd()
+        pages_path = os.path.join(project_dir, 'pages')
+        build_path = os.path.join(project_dir, 'build')
+        
+        vite.generate_html(pages_path, build_path)
+
+>How would I go about doing that? Again, given my current method of doing things, where will make.py fetch those functions from? Correct me if I'm wrong, but looking at that code you've written, are you implying a globally installed Vite module?
+
+Exactly, yeah. Vite gets installed once, then your entry point calls into that.
+
+`make.py` can call methods like `vite.markdown_render(filename)`. Instead of  markdown\_render\(\) taking a relative path and concateing with PAGES\_PATH it should accept a fully qualified path.
+
+`make.py` should know where the PAGES\_PATH is, then pass that along with the filename to markdown\_render\(\).
+
+Basically for project specific stuff, it should happen in `make.py` and `vite.py` should know how to operate on ANY project given the correct paths/parameters.
+You can also
+
+    lateinit var a: String
+
+for properties declared inside the body of a class
+
+It tells the compilier "it's null at compile time, but trust me, by the time I use it at runtime, it won't be null anymore"
+I can't wait for the day when someone invents a way to take horizontal video.
+Looks like a good start. Some feedback:
+
+1. You should make it pip\-installable. Then you don't have to worry about "Don't delete the cloned repo, since make.py" since you could have it create an entry script automatically.
+2. Avoid star imports like from `huepy import *`. Just import the names you need.
+3. Move all the argument parsing logic under `if __name__ == "__main__"`. The purpose of having that section is so someone can run your script like `python` `vite.py` and also import it using `import vite` then call `vite.create_project()`  The import doesn't work right now since you have argument parsing logic runs when vite is imported and causes python interpreter to exit.
+4. I would probably try and move a lot of the logic out of make.py and into another common package. Then in make.py you can call functions like `vite.project.jinja_render(project_path)` or something like that. Basically I like to keep the entry scripts as fairly "dumb" entry points that just do some argument parsing and call into a library that has everything organized. This makes it more re\-usable.
+They were introduced as part of the language in 3.5 because of PEP 484
+
+https://www.python.org/dev/peps/pep-0484/
+
+However, the types are not checked at runtime. They are only for development purposes and require your IDE or a package like mypy to check them and report the errors.
+I think you should use some algorithms. 
+Check out dbeaver. It’s the only database client I use now. It’s FOSS. Has pretty much every feature you could think of. 
+
+https://dbeaver.jkiss.org
+Binomial distributions will handle this perfectly.
+
+Check out this calculator:
+
+[http://stattrek.com/online\-calculator/binomial.aspx](http://stattrek.com/online-calculator/binomial.aspx)
+There's a single grave in front of the Chipotle in Ashburn too.
+
+[https://goo.gl/maps/G64E9VyyUby](https://goo.gl/maps/G64E9VyyUby)
+Check this one out.
+
+https://pypi.org/project/keyring/
+Non-static inner classes contain a reference to the instance of the enclosing class. I think depending on this this is used it could potentially slow things down and prevent the JVM from garbage collecting certain instances.
+
+Anyway, if you don't need access to the non-public fields and methods on the enclosing instance, then there's really no reason to use an inner class (or at least a non-static one).
+
+If you post code samples it would be easier to pinpoint exactly what is causing the slowness in one example.
+So does this: https://www.lingscars.com/
+If you’re running all environments from your local computer, changing the database url is the way to go. Do not keep multiple copies of migration files. 
+
+If you update your app config to read database url from an environment variable, it would let you do something like this:
+
+    export DATABASE_URL=whatever
+    flask db upgrade
+
+Then it will run against the right database. 
+What environments are you referring to? Like development and production?
+
+You should run the database migrations when you deploy your code to the environment as part of the deployment process. It won't make sense to run the database migrations against production if the corresponding code changes are not deployed on production.
+
+1. Write your database migrations and run them against development to make sure it works.
+2. Deploy your code to \[environment\]
+3. Run database migrations against \[environment\]
+
+flask\-migrate picks up your database information from your app config, so as long as you have the database configured correctly for the flask environment, you shouldn't need to do anything other than `flask db upgrade` in each environment.
+    Hand right = new Hand(Hand.RIGHT);
+It's some pretty shitty coding we had to do as a workaround, but the first thing `isQuenched` does is return the glass if it's still being sipped.
+
+Gotta love side effects.
+Thanks for the tip. I found it after some Googling, but it's not super intuitive.
+
+Go to File \> Other Settings \> Default Settings and set "Project bytecode version" to "Same as language level"
+
+Go to File \> Other Settings \> Default Project Structure and change "Project SDK" to an installed SDK
+
+Apparently my default Project SDK was set to an older version of 1.8 that I no longer have installed, so it was defaulting back to 1.5 whenever I created a new project.
+
+u/Philboyd_Studge not sure if you have the same problem, but that fixed it for me.
+That's what I do. Then I also need to...
+
+1. Right click on the project, go to Module Settings, change "Module SDK" from 1.5 to 1.8
+2. Go to Preferences \> Compiler \> Java Compiler, change "Project bytecode version" and "Target bytecode version" to 1.8
+
+Maybe I'm doing something wrong, but those never get updated automatically even after changing my pom.
+First thing is that you need to put your `drop` variable inside the loop so that each dropdown has its own list of selections.
+
+Next, if you track the dropdown values in a dictionary that is an instance variable, you can then access them at any time.
+
+Here's an updated `StockCheck` class. I added all the string variables to `self.options` using the same key that you have in your `stock` dictionary. Then I added a button that will print the values of `self.options` when you click on it, just as an example. Really you could do whatever you want with the output.
+
+    class StockCheck(tk.Frame):
+    
+        def __init__(self, parent, controller):
+            tk.Frame.__init__(self, parent)
+            label = tk.Label(self, text='Stock check', font=LARGE_FONT).grid(row=0, column=1)
+    
+            self.options = {}
+    
+            n = 1
+            for key, value in stock.items():
+                self.options[key] = tk.StringVar(self)
+                self.options[key].set("select") # default value
+    
+                tk.Label(self, text=stock[key]['unit'], font=LARGE_FONT).grid(row=n, column=0)
+                tk.OptionMenu(self, self.options[key], *count).grid(row=n, column=1)
+    
+                n += 1
+    
+            tk.Button(self, text="Show Values", command=self.print_values).grid(row=n, column=1)
+    
+        def print_values(self):
+            for key, value in self.options.items():
+                print(key, '=', value.get())
+4 8 15 16 23 42
+Thanks. Lots of people camp in that lane on 267 going 10 under the speed limit.
+If you want to try Django, I recommend going through the official tutorial. It's very thorough and easy to follow.
+
+It talks about setting up models \(relational database\) and getting everything working.
+
+[https://docs.djangoproject.com/en/2.0/intro/tutorial01/](https://docs.djangoproject.com/en/2.0/intro/tutorial01/)
+
+Once you understand that, you'll need to get your project to work serving data \- and not HTML \- so that your app can consume it.
+
+Django REST Framework is a popular choice for that.
+
+After the Django tutorial, you could check out DRF and it should make more sense.
+
+[https://code.tutsplus.com/tutorials/beginners\-guide\-to\-the\-django\-rest\-framework\-\-cms\-19786](https://code.tutsplus.com/tutorials/beginners-guide-to-the-django-rest-framework--cms-19786)
+I was not impressed with Sense of Thai when I went. Maybe I'll give them another chance.
+I've done this before. My wife and I went to this restaurant to order a dessert we really loved. After we finished the dessert, we realized it was dinner time and we were hungry, so we ordered dinner.
+
+The waiter did not care one bit.
+You’re just doing more with less. 
+Thank you! May your passwords always be hashed. 
+If the leftmost lane is HOV\-only, is the second\-to\-left lane then the "left lane" for purposes of this fine?
+Honestly that seems like a bug based on the documentation.
+
+But to work around it, I might do something like this. I converted the result to dict since I usually want a dictionary anyway.
+
+    vars = {'one': 'one thing'}
+    
+    data = dict(config.items('SectionOne', vars=vars))
+    
+    for key in vars:
+        data.pop(key)
+
+But if you don't want the dict, you could just do this:
+
+    data = config.items('SectionOne', vars=vars)
+    
+    data = [item for item in data if item[0] not in vars]
+
+Edit: I just submitted this issue: https://bugs.python.org/issue33251
+Yeah, they are real.
+It's super easy to print a return label from Amazon's recent orders. Drop if off at the post office or UPS.
+
+I usually get money back in a couple days when I return things.
+My wife and I use Boost and are happy.
+
+$65 for 2 lines with 10GB data for each line. Can't beat that.
+Amazon is the way to go. Last time I bought a new brand of cleats, I bought in 3 different sizes and returned the 2 that didn't fit. Super easy.
+Here's what you need to do...
+
+First you need to set `emmet.extensionsPath` to a directory. In this directory you will need to create `snippets.json` file.
+
+This file could look like this:
+
+    {
+      "html": {
+        "snippets": {
+          "!": "html>body"
+        }
+      }
+    }
+
+That will change the `!` expansion to `<html><body></body></html>`
+
+If you want to insert literal text, surround it with `{}` like this:
+
+    "!": "html>{example text}"
+
+That will expand `!`  to `<html>example text</html>`
+
+You can also use `${1}` to insert cursor position after expansion.
+
+Whenever you change the snippets.json file you will need to reload vscode.
+
+I'm not sure where they are located on your filesystem when vscode is installed, but all the default HTML snippets are here:
+
+[https://github.com/emmetio/snippets/blob/master/html.json](https://github.com/emmetio/snippets/blob/master/html.json)
+
+Hope that helps
+Python basically copies a reference to the closure variables to the function so they are available after the outer scope  returns. That keeps them available in memory.
+
+You can see this by using `inspect.getclosurevariables`.
+
+    >>> import inspect
+    
+    >>> foursided = make_test_dice(4,1,2)
+    Index1:  2
+    
+    >>> inspect.getclosurevars(foursided)
+    ClosureVars(nonlocals={'index': 2, 'outcomes': (4, 1, 2)})
+    
+    >>> foursided()
+    Index2:  0
+    4
+    
+    >>> inspect.getclosurevars(foursided)
+    ClosureVars(nonlocals={'index': 0, 'outcomes': (4, 1, 2)})
+
+So it knows that when you refer to `index` that it's a closure variable, and not a local variable or any other kind of variable. Notice that it also knew that `outcomes` is a closure variable, even though you didn't explicitly tell it so with `nonlocal`.
+Here's one of yours that has DEBUG = True.
+
+[http://tezro.webfactional.com/asdfasdf](http://tezro.webfactional.com/asdfasdf)
+
+Also, your SECRET\_KEY for andreyshipilov is in your github repo. I won't link it here. But you should really overwrite that in your prod settings file and make sure it's not checked into git.
+It's one of these condos in Baltimore.
+
+[http://www.silopoint.com](http://www.silopoint.com)
+
+[https://goo.gl/maps/8J71Ts1vxsL2](https://goo.gl/maps/8J71Ts1vxsL2)
+2011 MBP 17” checking in. 16gb RAM. 512gb SSD. 1tb HDD. 
+
+Runs like a champ every day. 
+Absolutely. Caffeine can really cause “tunnel vision” both literally and figuratively. 
+What’s wrong with the dinosaur pillow c...
+
+Oh. 
+For me it was extensions. Higher quality extensions. So much easier to install, update, and configure as well. 
+Once or twice a year to take my daughter to museums. 
+Good thing it’s an Accord then and not a Civic. 
+He smashed it into the touchline while deep in his own half. 
+
+Slightly more clear. 
+First time I’ve heard of the Houston Rockets. So I guess the marketing is working. 
+Yeah, over Tysons.
+Those are called "loss leaders"
+The fourth is actually the first book in the next trilogy. 
+    {{ form.name(id=line[0]) }}
+Because explosions.
+Nah. 
+
+    mylist[slice(1, 4)]
+If that happens then get a better editor. 
+Never take a "No" from someone who can't say "Yes”
+
+- Eleanor Roosevelt
+Cmd\+Shift\+4 then Space for a window capture
+
+Add Ctrl to any of the above for copying to clipboard instead of a file
+If you enable it, yeah.
+ Still use my mini 2 on a daily basis. It’s a little sluggish, but works fine for web browsing, messaging, Reddit, and video streaming. 
+r/fakealbumcovers 
+A schooner is a sailboat, stupid head. 
+He is. 
+It’s just a style thing. 
+No, originally he was using a number. Tuples are not denoted by `()`. Tuples are denoted by commas.
+
+    x = (1)
+
+That's a number.
+
+    x = (((((1)))))
+
+That's also a number.
+
+    x = 1,
+
+That's a tuple.
+
+    x = (1,)
+
+That's also a tuple.
+
+    x = [1]
+
+That's a list.
+
+No just do this:
+
+    is(12).plus(1).thirteen()
+Also check out Highbrow. It’s curated and ad free. 
+Highbrow and Reading Eggs are both great apps. We don’t let our daughter use anything else on the iPad. We lock it to one of those apps using Guided Access. 
+
+https://joinhighbrow.com
+
+https://readingeggs.com/apps/
+"anything other than eclipse" master race
+No.
+
+The way flask-login works is that on each request, it calls whatever function you have registered as `login_manager.user_loader` and passes the `user_id` that should be returned. 
+
+It should return None if the user ID is not valid. For example, you could have something like this:
+
+    class User(UserMixin):
+        def __init__(self, id):
+            self.id = id
+
+    @login_manager.user_loader 
+    def load_user(user_id): 
+        return User(id=user_id)
+
+That will simply create a new user instance on each request without connecting to any database.
+
+The only requirement is that the object that is returned MUST have all these methods and attributes:
+
+https://flask-login.readthedocs.io/en/latest/#your-user-class
+
+And that's all that `UserMixin` does - provides default implementations of those attributes/methods.
+flask\-login requires that your user object has certain attributes.
+
+For example, it exepects to be able to call `current_user.is_active` to check if the user is active.
+
+So now you need to add that to your user class:
+
+    class User():
+    
+        @property
+        def is_active(self):
+            return True
+
+It expects to be able to call `current_user.get_id()` to get the ID of the current user as a string. So add that to your class:
+
+    class User():
+    
+        @property
+        def is_active(self):
+            return True
+    
+        def get_id(self):
+            return str(self.id)
+
+There are a couple more attributes like that as well. So `UserMixin` provides default implementations of these methods and attributes so you don't need to do it all yourself. Just inherit from the UserMixin class.
+
+    class User(UserMixin):
+        pass
+
+You can see everything it implements here:
+
+[https://flask\-login.readthedocs.io/en/latest/\_modules/flask\_login/mixins.html#UserMixin](https://flask-login.readthedocs.io/en/latest/_modules/flask_login/mixins.html#UserMixin)
+
+Again, you don't have to use it. But if you don't, you'll need to implement all those attribtues and methods yourself.
+Don't feel bad at all! This is definitely one of those "how hard could it be?" problems where it turns out the answer is "very".
+
+Check out this StackOverflow answer. It contains an implementation of an equation parser, built on top of the pyparsing library \(which is built to allow you to parse strings into a grammar\).
+
+[https://stackoverflow.com/a/2371789/5050264](https://stackoverflow.com/a/2371789/5050264)
+Use [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
+    from bs4 import BeautifulSoup
+    
+    soup = BeautifulSoup(html_string, 'html.parser')
+    
+    text1 = soup.find(id='slim1').attrs['label']
+    text2 = soup.find(id='slim1').text
+For a simple solution, you could use `ast.literal_eval()` function. It can parse math expressions:
+
+    import ast
+    ast.literal_eval('1 + 2 / 4')
+
+Parsing a string like that manually is actually incredibly difficult for anything beyond simple cases.
+
+You would need to loop through the string that the user entered, try to figure out if the current character is a number, space, operation, or some other possibly invalid character. Then you need to calculate the answer, taking into account order of operations (if you want).
+
+If you want to go the second option... you'd need to put your `input()` calls in a loop and store them in a list as the user enters them. This is potentially easier. You can accept a number and an operation in each loop. Verify the operation is valid (based on a list you have created). Then calculate the answer based on the numbers and operations you have stored.
+
+It can still be tricky if you want to follow order of operations. Should this:
+
+    Enter number: 1
+    Enter operation: +
+    Enter number: 2
+    Enter operation: /
+    Enter number: 4
+
+be evaluated as (1 + 2) / 4 or 1 + (2 / 4)?
+You definitely don't need something like redis. The multiprocessing module has the ability to share variables with the process that spawned the process.
+
+Return the value from your looop function, then "results" would be the list of results from pool.starmap.
+
+Here's a working example:
+
+    import itertools
+    import multiprocessing
+    
+    list1 = list(range(0, 1+1))
+    list2 = list(range(0, 1+1))
+    
+    x_fromlist1 = []
+    
+    def looop(x,y):
+        localvar = x
+        return localvar
+    
+    def multi():
+        global x_fromlist1
+        with multiprocessing.Pool() as pool:
+            x_fromlist1 = pool.starmap(looop, itertools.product(list1, list2, repeat=1))
+    
+    if __name__ == "__main__":
+        multi()
+        print(x_fromlist1, "global variable")
+
+Which gives you the results of all 4 calls to loooop:
+
+    [0, 0, 1, 1] global variable
+There are many directions you could go depending on how the calculator should operate.
+
+Do you want the user to input a full equation like this:
+
+    1 + 2 / 4
+
+Or do you want to prompt for each individual input like this:
+
+    Enter number: 1
+    Enter operation: +
+    Enter number: 2
+    Enter operation: /
+    Enter number: 4
+This is actually kinda cool.
+TBF if you are playing against someone else who has mastered it, neither one of you will ever win. 
+Every day. Even the cafeteria at work just started accepting it. I wish gas stations would start accepting it.
+Bro. Everyone knows you empty the bottom rack first to prevent this. 
+Edited to add. 
+Yes, that is the sound the plane would make when it lands on the highway. But did it actually happen?
+[https://cdwindows.com/curved\-windows/](https://cdwindows.com/curved-windows/)
+I remember there were a bunch along the lines of “how to build a Facebook clone in Ruby on Rails in 20 minutes” that basically went like this:
+
+1. Make sure Ruby is installed
+2. Here’s how to write an if statement 
+3. gem install rails
+4. Build your Facebook clone using rails
+Yes.
+Don, we now are gay apparel. 
+And Apple is like "have you heard about plist?"
+
+    <plist version="1.0">
+        <dict>
+            <key>stuff</key>
+            <dict>
+                <key>foo</key>
+                <dict>
+                    <key>bar</key>
+                    <string>yes</string>
+                </dict>
+            </dict>
+        </dict>
+    </plist>
+
+
+Good point! I didn't even see those at first.
+Honda keys have a chip in them. So even if you cut it exactly the same it’s not going to work without a programmed chip. 
+Here you go: [https://i.imgur.com/ACg6V7O.jpg](https://i.imgur.com/ACg6V7O.jpg)
+That’s not the console user interface. 
+Go for it. I use both Java and Python in my job on a daily basis. They are both great languages and both have their strengths.
+Well it does have 53 moons. 
+The on/off ramps connect to other highways, so it won't create a crosswalk there. The only highway to non-highway is the Y-connectors on either side of the bridge. I can't remember off the top of my head if the game creates a crosswalk there or if he has a mod to remove them.
+
+From the build video:
+
+https://i.imgur.com/Jl46uZy.png
+In your "view all receipes" route, is there a reason you're building a list the way you are?
+
+https://github.com/O2-AC/recipes/blob/e05ef28d80300aaa31c4211b67db51605ee27b08/application.py#L108-L115
+
+I suspect you could just do `db.session.query(Recipe)` to get a list of all the recipes, since that seems like what you're trying to do.
+
+On this line, you seem to be referencing `ingredient` variable, but that variable is not defined.
+
+https://github.com/O2-AC/recipes/blob/master/application.py#L53
+
+Also the fact that you're doing `db.session.expire` in an "add recipe" view tips me off that there might be a better way to do what you're trying to do. You probably don't need to expire the recipe. Just find it by name like you're doing, then update it if it already exists.
+You're trying to return a string 'exampleOrg\_letter.zip' as a zip file.
+
+You probably want to use the \`send\_file\` method to actually send the file.
+
+[http://flask.pocoo.org/docs/0.12/api/#flask.send\_file](http://flask.pocoo.org/docs/0.12/api/#flask.send_file)
+Collection doesn't change that much. They have special events from time to time and some of the tours get changed up though.
+I created a custom app to track my workouts. It’s been a great project to build on over the years. It has just the fields I want and works exactly how I want. 
+
+The backend is a REST API in Java. I created a web app, iOS app, and was playing around with a JavaFX front end to learn how that works. 
+
+I can play with some data analytics stuff now too since it has a bunch of data. 
+
+Think of something that might be useful for you and build on it. 
+After that xkcd comic came out, I *may* have written a little shell script.
+
+    $ xkcdpass 
+    greatly describe warning correct
+    $ xkcdpass 8
+    brave variable forward rapidly vacation battle source verdict
+https://www.last.fm/robots.txt
+Use `editor.lineHighlightBorder`
+Because the way you would install packages is like this:
+
+    go get github.com/golang/example/hello
+
+And there was no option to pin to anything. It would always pull master. 
+
+Looks like there are some other tools now like ‘dep’ and ‘gopkg’ that allow pinning to a version. But the go get command always pulls master. 
+
+https://github.com/golang/go/issues/21933
+
+<rant>
+
+It just pisses me off because golang is a fairly new language. It’s not like it’s been around for 30 years and they bolted on dependency management when github became popular. It was designed that way. 
+
+It’s a fun language but the dependency management really turns me off. They could have made dependency management beautiful by learning from other languages, but nope. 
+
+</rant>
+Is your criticism really with vscode or with golang? Installing from github like that is how dependency management works in golang. 
+
+It's horrible.
+
+Install directly from github with no version pinning. I can't believe the designers of a language in 2009 thought that was a good idea.
+I remember reading this one too, and being frustrated about how much work it takes to make styled tabs.
+
+https://alistapart.com/article/slidingdoors
+Let me do the math to figure that out and I’ll get back to you. 
+A man with 13 clocks posts to /r/mildlyinfuriating.
+You could weight the categories based on which ones you think are more important.
+
+You could also calculate the standard deviation and then figure out z-score for any given statistic  and use that to rank.
+
+https://en.wikipedia.org/wiki/Standard_score
+
+http://fantasysixpack.net/creating-fantasy-baseball-player-rater/
+Very ambigious, like the other poster said.
+
+I could also make an argument for the answer 0.254464286
+
+If you interpret it like this:
+
+57/(3(7*8)+56)
+
+Getting rid of the ÷ symbol and using parens clears it right up.
+Ideally you should be offloading this type of filtering and joining to the database. This is exactly the type of thing that SQL is very good at. I'd strongly avoid adding attributes about orders to the products.
+
+For example, to get a list of all products:
+
+    select * from products
+
+To get a list of products where current stock is less than minimum stock:
+
+    select * from products where current_stock < minimum_stock
+
+Now you want to get a list of products that have orders that are not received. I'm not sure what your actual table layout looks like, but something like this should give you an idea:
+
+    select *
+    from products
+    join orders on orders.product_id = products.id
+    where orders.received = false
+
+This is only 1 query. There are no extra queries and no filtering you need to do in Java.
+
+Basically I think that doing all the heavy lifting in Java is not a good idea if you can avoid it. Let the database do what it's good at.
+
+You can use Hibernate to set up the associations (if you haven't already) and use HQL to query the associations.
+
+https://docs.jboss.org/hibernate/orm/3.3/reference/en-US/html/queryhql.html
+
+The spring query annotation makes it easy as well
+
+https://www.petrikainulainen.net/programming/spring-framework/spring-data-jpa-tutorial-introduction-to-query-methods/
+
+You'll need to find a specific solution that works for your project. But I think that's the way to go.
+Alternatively, you can pull a card out of your pocket that says “I am over prepared”
+
+You’ll have a good laugh. When the interviewer says “seriously though, that’s not a flaw” then you pull the other card out of your pocket that says “you don’t understand. I am ridiculously over prepared.”
+I got a fever. And the only prescription is more machine learning. 
+How am I supposed to react to this news?
+It just accepts a list of file extensions.
+
+If you only want to allow pdfs, do this:
+
+    pdf_uploadset = UploadSet('some/directory', ['pdf'])
+That's just python syntax.
+
+This is a class variable:
+
+    class Cont:
+        pos = Point()
+
+This is instance variable:
+
+    class Cont:
+        def __init__(self):
+            self.pos = Point() 
+
+And this is a class variable and an instance variable:
+
+
+    class Cont:
+        pos = Point()
+
+        def __init__(self):
+            self.pos = Point() 
+
+Well one is a class variable and one is an instance variable. Both are important for OOP.
+
+https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3
+I'm not sure if it's intentional, but the text is flush against the left side of the page.
+
+If I make the window bigger, I still need to to scroll horizontally to see all the pictures. This is full screen on 1680 x 1050
+
+
+Who cares. It was a year ago.
+I have no idea what this means. But it seems wholesome so I upvoted. 
+Found it. Thank you!
+
+http://chibird.com/post/43612116498/everybody-is-different-and-has-something-awesome
+Pull request rejected. You forgot to document the case where the variable is not true.
+There's also a calculator you can use that will tell you what your paragon level will be when the season is over:
+
+https://www.d3bg.org/paragon-calculator/en.php
+I do this sometimes. 
+
+Our official company policy is that you need to work 80 hours in a 2 week period. How you do that is up to you and your manager.
+
+I've worked all sorts of combinations of days/hours. It's very nice and provides all sorts of flexibility.
+I live a couple miles from IAD. The wind kept me up all night. I could feel my townhouse moving a couple times.
+I searched, but could not find a source. Does anyone know where this is from?
+
+edit: source: 
+
+http://chibird.com/post/43612116498/everybody-is-different-and-has-something-awesome
+Narwhal - reddit app
+
+Hoopla - borrow movies and audiobooks (provided by your library)
+
+Feedly - rss reader
+
+Key Ring - manage loyalty cards
+
+Mint - money manager
+
+Groupon - finding local deals (kinda crappy now, but still good for restaurants)
+
+CertifiKID - like groupon but for kids activities
+Thomas is full of laughs. The head of the railway is literally called "The Fat Controller"
+
+https://en.wikipedia.org/wiki/The_Fat_Controller
+I will echo this. Switched a rather large project from Flask to Django and it’s much easier to work with now. 
+cloc doesn't work for you? Looks like it works for me:
+
+    $ cloc app.vue 
+        1 text file.
+        1 unique file.                              
+        0 files ignored.
+
+    github.com/AlDanial/cloc v 1.76  T=1.02 s (1.0 files/s, 168.5 lines/s)
+    -------------------------------------------------------------------------------
+    Language                     files          blank        comment           code
+    -------------------------------------------------------------------------------
+    Vuejs Component                  1             30              4            138
+    -------------------------------------------------------------------------------
+flake8 is just a wrapper for pyflakes, mccabe, and pycodestyle. None of those tools have the ability to detect unavailable imports.
+
+pylint can detect unavaialble imports. For this it uses your PYTHONPATH. So you'd have to find a way to set that.
+
+You can set this using the command line, like so:
+
+    PYTHONPATH=/path/to/foo pylint
+
+Or using the option `--init-hook` to append to sys.path:
+
+    pylint --init-hook="import sys; sys.path.append('/path/to/foo')"
+
+And `/path/to/foo` should be your site-packages from your virtualenv, plus any other paths to other places you have packages installed that you want to check.
+
+TO get the same option in vscode, you probably have to do something like this:
+
+    "python.linting.pylintArgs": [
+        "--init-hook=\"import sys; sys.path.append('/path/to/foo')\""
+    ]
+
+Honestly though, why not just install pylint or flake8 in your virtualenv? Saves so much trouble.
+The admin interface sucks for generic foreign keys. There's no way to use the built-in autocomplete with it. There are third party components you could look into.
+
+Honestly I'd probably have a foreign key to both Building and Property and get rid of the generic foreign key.
+
+Then make sure that one of the two fields is provided in the model:
+
+    class TenancyDocument(models.Model):
+        building = models.ForeignKey(Building, ondelete='CASCADE', null=True, blank=True)
+        prop = models.ForeignKey(Property, ondelete='CASCADE', null=True, blank=True)
+
+        def clean(self):
+            if not self.building and not self.prop:
+                raise ValidationError('Must provide either building or property.')
+            if self.building and self.prop:
+                raise ValidationError('Select building or property, but not both.')
+            super().clean()
+
+Then you could autocomplete on both `building` and `prop`. 
+
+You could customize the admin template if you want to simplify selecting one or the other.
+
+edit: If you really want, you could even add a database constraint to ensure one of the two fields is not null.
+It's definitely possible. I do this sometimes. Just set the path to your python executable and linter executable in the specific virtualenv.
+
+My relevant settings look like this:
+
+    "python.pythonPath": "/Users/boxidea/.virtualenvs/main-env/bin/python",
+    "python.linting.flake8Path": "/Users/boxidea/.virtualenvs/linter-env/bin/flake8",
+
+
+If you use pylint instead of flake8, then set `python.linting.pylintPath` instead.
+
+Oh right, cause it's returning `RequestHandler<BaseResponse<UserType>>` and not `UserType` directly.
+
+But sounds like you got it... you need to cast from User1 or User2 to UserType.
+
+> I thought higher of Swift tbh...
+
+What would you expect it to do? Automatically cast to a different type? That would be very bad.
+
+I would probably get rid of User1 and User2 and just use UserType. Then have builder methods or helper methods to build an instance from either backend. That gets rid of your type casting issues. Doesn't sound like you're actually using User1 and User2 as separate types, so you're just making it harder on yourself.
+You will need to create a `UserType` object from your `User1` object in your function and return that.
+
+Or you could probably cast it to UserType
+
+    return r as UserType
+I don't think you can. There's an open issue to do what you want:
+
+https://github.com/Microsoft/vscode/issues/33607
+That's a mistake. Looks like it's 26 kb or 12 kb minified.
+
+https://github.com/arguiot/DisplayJS/releases
+Wallaby Way
+I just want multiple cursors. There was an extension, but extensions no longer work since Xcode 8.
+Slides are here:
+
+https://www.dropbox.com/s/6dt5kgk3vjsi3yf/PyCascades2018.pptx?dl=0
+Python 4. Print is now a class.
+
+    Print('hello world').show()
+I just visited the Metro website for the first time. I got nothing but ads for US companies. The ads are served by Google and target the viewer.
+Because the ads are served by Google, and Google knows where you're visiting from.
+
+I just visited Metro from the US and got this ad: https://imgur.com/wEYNQXh.jpg
+We use [Bamboo](https://www.atlassian.com/software/bamboo). It has separate build and deployment projects, which is nice. 
+
+The build project runs the tests, runs npm build, and saves the output as a versioned artifact.
+
+The deployment project detects a successful build and pushes the artifacts to the appropriate servers
+
+You could write a bash script that calls a python program to generate another batch script, then run it.
+
+I *may* have done that before.
+Don’t forget -version
+Special Agent Andrew Castor
+
+hotmail.com
+goodbot.jpg
+Another one:
+
+    def compact(arr):
+        return list(filter(lambda x: bool(x), arr))
+
+List comprehension!
+
+    def compact(arr):
+        return [x for x in arr if x]
+The integrated graphics card is your problem.
+
+I play on a 2011 MBP with 8GB RAM and I can play with a bunch of mods and medium graphics settings. But I've got the Radeon HD 6750M with 1GB of GDDR5.
+What font are you using?
+The one they just opened near me serves beer and wine. 
+They just opened a B&N near me. The cafe serves beer and wine. 
+> James argues that this math is incorrect; Michael should be responsible for all the rent until the 22nd of January, and they should split the rest in half.
+
+Makes sense to me. Why should James pay for time he wasn’t in the apartment?
+Judging by the outlets, he’s not in the US. 
+DO YOU WANT 150 NEW FOLLOWERS?
+
+
+Give this extension a try.
+
+https://marketplace.visualstudio.com/items?itemName=goessner.mdmath
+
+It highlights the equations in the editor, and formats them nicely in the preview pane.
+IMO `__init_subclass__` and `__set_name__` 3.6 resolve most of the pain with descriptors.
+You could probably use “Move It” to lower the houses after they get built. 
+    font-variant: small-caps;
+Maybe not so much a concept, but I like the [potato paradox](https://en.wikipedia.org/wiki/Potato_paradox):
+
+> Fred brings home 100 pounds of potatoes, which (being purely mathematical potatoes) consist of 99 percent water. 
+
+> He then leaves them outside overnight so that they consist of 98 percent water. What is their new weight? 
+
+> The answer is 50 pounds.
+Never used that tool before. Do you specify a path to vue.js anywhere?
+
+You should be able to tell which build you have by which file you're including/importing:
+
+https://vuejs.org/v2/guide/installation.html#Explanation-of-Different-Builds
+This is not right on Python 3:
+
+    >>> a = Dog()
+    >>> type(a)
+    <type 'instance'>
+
+It's actually this:
+
+    >>> type(a)
+    <class '__main__.Dog'>
+
+Software engineer in the aviation industry. 
+
+No I cannot "hack in to get free plane tickets".
+If you know what's actually going on, this sentence is not quite accurate.
+
+> Here, we added a method to send an email, which updates the is_sent variable to True.
+
+What's actually happens it that it copies the class variable to an instance variable and sets the instance variable to False. The original class variable is unchanged. It can be an important distinction and cause strange behavior if you're not aware of it.
+
+    >>> e = Email()
+    >>> e.is_sent
+    False
+
+    >>> Email.is_sent = True
+
+    >>> e.is_sent
+    True
+
+    >>> x = Email()
+    >>> x.is_sent
+    True
+
+It probably better to copy the default class variable to the instance upon instantiation.
+
+    class Email:
+        is_sent = False
+
+        def __init__(self):
+            self.is_sent = Email.is_sent
+
+        def send_email(self):
+            self.is_sent = True
+Because that's the old one. He should be using start-async-react-vue-js-alert-plugin-wrapper-app
+LOL he forgot to use jQuery.
+Don't forget the gray text on a blue background.
+
+Because I didn't want to read it anyway.
+Yup, just leave that out. Then all the template compilation happens in the build step (through vue-loader) and you don't need to include the complier at runtime.
+If you update your main.js file to do this: 
+    
+    new Vue({ router, store, render: (h) => h(App) }).$mount('#app')
+
+instead of this:
+
+    new Vue({
+      el: '#app',
+      router,
+      store,
+      template: '<App/>',
+      components: { App }
+    })
+
+You can switch to using the runtime build of Vue. The runtime build is 30% smaller and will run a bit faster since it doesn't need to parse template strings at runtime.
+
+https://vuejs.org/v2/guide/installation.html#Runtime-Compiler-vs-Runtime-only
+
+
+Yup
+DC has them. They are used as “express” lanes and the price is variable depending on the current amount of traffic. 
+Don’t forget 267. 
+You joke, but there is a privately owned toll highway near me. 
+Then the inevitable comments with these two:
+
+http://bettermotherfuckingwebsite.com
+
+https://thebestmotherfucking.website
+TIL CoffeeScript still exists.
+Can that connect to metro stations? Would love to be able to set up some like they have in DC. Escalator on one side of the street, elevator on the other with a tunnel to the station.
+You are now banned from /r/Sidewalks
+Just think of all the [Guy Fieri pictures](https://medium.com/friendship-dot-js/i-peeked-into-my-node-modules-directory-and-you-wont-believe-what-happened-next-b89f63d21558)!
+Remember that this:
+
+    <test v-model="something" />
+
+Is just syntactic sugar for this:
+
+    <test :value="something" @input="value => { something = value }">
+
+So by creating the component programmatically, then checking the result of `$on('input')`, you are essentially making sure that v-model works. Actually testing using v-model seems kind of redundant to me.
+
+vue-test-utils does have some nifty little helpers that we use. Check this out (to test the example we've been discussing):
+
+    import { mount } from 'vue-test-utils'
+
+    const data = {value: 'value***'}
+    const wrapper = mount(TestComponent, { propsData: data })
+
+    # test that 'input' was emitted and check the value
+    expect(wrapper.emitted().input[0]).toEqual(['value changed'])
+
+The formula for your grade is this:
+
+x = percent on assignment 1
+
+y = percent on assignment 2
+
+z = percent on assignment 3
+
+`g = (10 * x) + (40 * y) + (50 * z)`
+
+Fill in what you know so far (x and y) and simplify:
+
+`g = (10 * (73/100)) + (40 * (60/100)) + (50 * z)`
+
+`g = 31.3 + 50 * z`
+
+Now you know you want your final grade to be at least 67:
+
+`67 = 31.3 + 50 * z`
+
+So solve for z:
+
+(subtract 31.3 from each side, then divide each side by 50)
+
+ `35.7 / 50 = z`
+
+`z = 0.714` or `71.4/100`
+> How do we split up the numbers so everyone is even?
+
+Your question is a little confusing.Really not sure what you mean by that or what you're trying to do.
+
+You say these are the amounts paid:
+
+Roommate A: $1822 
+
+Roommate B: $1755 
+
+Roommate C: $1599 
+
+Roommate D: $1457
+
+Now what? What does that mean? Do you want to add some amounts to these? Is Roomate B's $50 on top of the $1755? 
+
+
+> geo-coordinates, you really must use a db like Elastic or mongo which has that functionality builtin
+
+Most popular relational databases have geospatial functionality built-in, or easily available as a plugin.
+I'm not sure I'd do it this way.
+
+v-model is handled by the template compiler, so when you instantiate it manually, you don't get the two way binding. This is what you found out. v-model is a function of USING the component, not defining the component.
+
+But, I don't think it really matters.
+
+If you're testing a component that looks like this:
+
+    Vue.component('test', {
+        template: `<div>test. value: {{ value }}, prop2: {{ prop2 }}</div>`,
+        props: ['value', 'prop2'],
+        mounted: function() {
+            var self = this;
+            setTimeout(function() {
+                self.$emit('input', 'value changed');
+            }, 500);
+        }
+    })
+
+What do you actually want to test? You don't need to test that `v-model` works when using this component. You need to test that the correct value is displayed, and that `$emit('input')` is called with the correct value.
+
+It's up to the PARENT component to re-set the value of `value` and trigger the re-render of the test component. This is what v-model does. But to test this component, you don't need to care about that.
+
+You could test USING this component in a parent:
+
+    Vue.component('parent', {
+        template: `<div>test: <test v-model="somevalue" /></div>`,
+        data {
+            somevalue: "a test",
+        }
+    })
+
+And in that case it would make sense to test the value of `somevalue` before and after the test component's `$emit('input')` is called.
+According to MacRumors they will be installable over-the-air through the HomePod app.
+
+https://www.macrumors.com/2018/01/30/homepod-updates-installed-via-home-app/
+VSCode uses emmet.
+
+Maybe the `doc` abbreviation is what you're looking for. It should expand to a full HTML document:
+
+https://i.imgur.com/1uU4lbt.png
+Without dressing, yeah. 
+Ditto. I disable all subreddit themes and use /r/carbon theme. Much nicer on my eyes.
+How much does it cost to restore something like that? I bet he could get quite a few donations on GoFundMe if needed.
+Baltimore City (for 24 years), Anne Arundel County, Howard County, and Montgomery County.
+Grew up in Maryland. Lived in 4 different cities/counties. You're not wrong.
+I do this with my flask apps and django apps. It's a great idea.
+
+Makes it easy to deploy, too. Our CI server builds a wheel file, pushes it to the server and does a pip install on the wheel file. Super easy.
+Can't you just go there and pick a random flair?
+Like most things, Python makes it even easier! You don't even need the operator!
+
+`"2" "2"` returns `"22"`
+Why did you subtract though? The original post is "2" + "2" which returns "22" in Python.
+Good bot!
+Try it:
+
+    
+    from pathlib import Path
+    
+    class MyPath(Path):
+        pass
+    
+    p = MyPath()
+
+Results in `AttributeError: type object 'MyPath' has no attribute '_flavour'`
+
+Problem is this line:
+
+https://github.com/python/cpython/blob/3.6/Lib/pathlib.py#L977
+
+When you subclass, `cls` is not `Path` but `MyPath`. So now you've gotta re-implement `__new__` in your subclass or add `_flavour`.
+
+Not super difficult, but kind of weird. If you implement `_flavour` as `_posix_flavour` in your custom subclass, then it won't work on windows.
+TRUMP PENCE 2017
+Is that conference room hard to find?
+I once had to travel to a place in the middle of Kansas. Asked for their recommended hotels and they sent us a link to the campgrounds nearby. Ended up staying in a Holiday Inn about an hour away instead.
+That's a slightly different thing.
+
+The "64 bits" you're talking about is the native storage size for "blocks" in the OS. This just means the OS stores its data in "blocks" of that size.
+
+When developing, an integer uses a size to determine how many digits to hold.
+
+Dates are typically stored as the amount of time (in seconds) since 1 January 1970. It's common to use a "signed 32-bit integer". This means it ranges from -2,147,483,648 to +2,147,483,647.
+
+[1 January 1970 plus 2,147,483,647 seconds](https://www.wolframalpha.com/input/?i=1+January+1970+plus+2,147,483,647+seconds) is January 19, 2038. And if you add another second, it could either roll over or throw an error (depending on the programming language).
+
+The solution is to use a 64-bit integer, which ranges from -9,223,372,036,854,775,808 to +9,223,372,036,854,775,807.
+
+You could technically store a 64-bit integer on a 32-bit OS, it would just take up 2 "blocks". It might be slower when making calculations and can even be a lot more difficult to work with (again depending on the programming language).
+I think the problem is that the extension is registered to work with `vue` filetype and not `vue-html` filetype.
+
+You can test this by seeing if the completions work outside the `<template>` block. For me, they work outside the template, but not in it.
+
+I manually updated my install of the extension to get it working.
+
+Add the following to ` ~/.vscode/extensions/thekalinga.bootstrap4-vscode-3.0.0/package.json` in the `snippets` section.
+
+    {
+        "language": "vue-html",
+        "path": "./snippets.json"
+    }
+
+I also updated the ticket here: https://github.com/thekalinga/bootstrap4-vscode/issues/10
+Reminds me of this.
+
+https://upload.wikimedia.org/wikipedia/en/5/5b/Weareallweneedalbum.jpg
+How is it buggy?
+Not entirely true.
+
+"Similarly, a deflection with the foot or feet is permitted in circumstances where it is not intentional (involuntary deflection or miskick from a teammate)."
+
+http://www.miredespa.com/Other/Football/FIFA/law12.html
+> GK can pick it up if it came off another body part regardless of intention
+
+Not 100% true. You can't do any tricks to get around the rule... like flicking it up with your foot and heading it your own keeper intentionally. You can get booked for this whether or not the keeper touches the ball.
+
+FIFA rules say: “no trickery may be used to get around the terms of the amendment to Law 12 [the back-pass law]” [1]
+
+[1] http://www.miredespa.com/Other/Football/FIFA/law12.html
+Install SublimeLinter and SublimeLinter-eslint
+
+In your project, npm install eslint and eslint-plugin-vue
+
+Configure eslint to use eslint-plugin-vue (details on the github link I posted)
+
+Done
+
+
+eslint with eslint-plugin-vue can do it
+
+https://github.com/vuejs/eslint-plugin-vue
+I had a 2011 MINI. One morning it wouldn't start. Towed to the dealer and basically *everything* was wrong with it.
+
+Something happened to the DME if I recall and basically knocked out all the other electrical systems. Had to send the DME back to Germany to diagnose and ended up having to replace the alternator, navigation system, and even the gas pedal. It was at the dealer for 2 months. This was the 3rd time I had to tow it to the dealer. I sold it after that.
+
+This was fun: https://i.imgur.com/RTC8k8E.jpg
+
+Good thing MINIs come with free towing and free loaner. You're gonna need it.
+That's $260,000. What do you do?
+r/javahelp would actually be better
+Once you know about another node/peer, you can exchange the blockchain with it, and ask it about the nodes it knows. Then it creates a chain and continue propagating when new nodes are added.
+
+So you do need to know how to connect to at least one other node manually to start, and hope that node knows about other nodes.
+
+Bitcoin has a hardcoded list of "seed" nodes to connect to:
+
+https://github.com/bitcoin/bitcoin/blob/master/src/chainparamsseeds.h
+In general it's not a good idea to explicitly check against booleans like `while won == False:` unless you have a good reason for doing so.
+
+Python has a concept of truthy[1] which allows you to just write `while not won:` which is more idiomatic.
+
+What happened is that since line 35 was indented, the `line_equal` method was actually returning `None`. And since `None != False` your loop continued.
+
+[1] https://docs.python.org/3/library/stdtypes.html#truth-value-testing
+Nice! This was my solution.
+
+    def string_match(a, b):
+        count = 0
+        prev = False
+        for sa, sb in zip(a, b):
+            if prev and sa == sb:
+                count += 1
+            prev = sa == sb
+        return count
+Well yeah, `Integer.valueOf(1)` just returns the cached instance, so it's literally returning the same instance.
+
+But... only for integers < 128 (which is the default max int for the cache IIRC):
+
+    Integer.valueOf(127) == Integer.valueOf(127)
+    # true
+
+    Integer.valueOf(128) == Integer.valueOf(128)
+    # false
+
+I was just trying to show that two instances can't be compared for *equality* in Java using `==`.
+Kind of a weird question when you convert it verbatim to Java. `==` in JS is an equality comparison but in Java is a reference comparison.
+
+In Java, one Integer does not even `==` another integer:
+
+    new Integer(1) == new Integer(1)
+    # false
+
+Anyways, it's super easy in any language with operator overloading. Here's Python:
+
+    class Thing:
+      def __eq__(self, other):
+        return other in (1, 2, 3)
+    
+    a = Thing()
+    (a==1 and a==2 and a==3)
+    # True
+
+
+
+The solution I just worked up used `zip(a, b)`
+
+https://docs.python.org/3/library/functions.html#zip
+You'll probably need to rework it. I can't see an easy way to make it work keeping your `for i in a:` the way it is.
+I think your problem is probably with using the `.find()` method.
+
+One of the example strings on codingbat is `xxcaazz`. Let's use this example:
+
+`'xxcaazz'.find('x')` always returns 0
+
+So the first time through the loop, `i` is `x` and it returns 0, which is right.
+
+Second time through the loop, `i` is again `x` and it still returns 0, which isn't what you want. You'd want it to return 1, representing the 2nd character in the string.
+
+Long story short, your code potentially fails when the same character appears in the string twice.
+
+Your code also doesn't count the same character twice if needed. Even once you fix the problem with `find()` it would still only return 1 for `abc` and `abc` when it should return 2.
+`ema12` and `ema26` are series.
+
+When you do this: `ema26 < ema12`
+
+How can you define if one whole series is less than another whole series? If all the items are less than all the items in the other series? If ONE item is less than ONE item from the other series?
+
+Neither pandas nor python will answer that for you. You need to do the conversion yourself when you compare the objects.
+
+> you’re moving to VA so that’s a step up from MD!
+
+I moved from MD a couple years ago. You're not wrong.
+Coding such applications in the Democratic People's Republic of Korea is a capital offense.
+
+All programs in Democratic People's Republic of Korea must be "Hello Democratic People's Republic of Korea and all praise to our Brilliant, Wise, and Respected Leader".
+Because alot.
+
+http://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html
+The bail bondsman gets it back. You don’t get back the 10% you paid him. That’s how they make money. 
+That is not expensive in this area. 
+Also known as a loss leader. 
+It disconnects for a day. 
+> It is impossible to remember all shorcuts.
+
+Agreed. That's what the Command Palette is for. 
+
+I wish all applications had a command palette instead of a toolbar.
+
+Especially other Microsoft apps. Digging through ribbons is a pain.
+Pretty sure I've had music and podcasts stuck on every second. Happens all the time.
+
+More frequently, it gets stuck on the last second of a podcast. It continues to play for 15-30 seconds.
+I believe it's built into VS Code now, so you don't need anything like this anymore.
+
+To link to a file at line 55, column 20:
+
+    vscode://file/path/to/file/file.ext:55:20
+
+Documented here: 
+
+https://code.visualstudio.com/docs/editor/command-line#_opening-vs-code-with-urls
+- Code Outline
+- ESLint
+- Prettier
+- Python
+- Vetur
+They rent out that room. I went to a wedding reception there once. It’s amazing in person!
+Cascading Superprogramming Stylesheets.
+You can adjust Prettier so it does that. 
+It's worth it when you get to the end, though.
+If only there was an article you coule read that would answer your questions.
+
+>The Aviation Safety Network also reported there were no commercial passenger jet deaths in 2017, but 10 fatal airliner accidents resulting in 44 fatalities onboard and 35 persons on the ground
+
+> That figure includes 12 people killed on Dec. 31 when a Nature Air Cessna 208B Grand Caravan aircraft crashed minutes after takeoff into a mountainous area off the beach town of Punta Islita, Costa Rica.
+
+So yea, it's worldwide.
+So I can use it for bathing? Sweet. 
+The 30 day mark was hard for me too. This is my first time past it. Days 25-30 are especially tough for some reason. It has gotten better since day 30 though. 
+
+Keep with it. It’s worth it. 
+Please tell me you say “boop” when you do it. 
+Wegmans in Ashburn/Sterling doesn’t have covered parking. I think the one in Leesburg does though. 
+I use linters in vscode as well, I just thought it was neat to also see it in the console. 
+My parents have landline phones that say who is calling instead of actually ringing. 
+
+“Call from... 4... 1... 0... 8... 6... 7... 5... 3... 0... 9”
+
+They have 3 different ones and they are all different voices. But you can hear all 3 through the whole house. 
+
+I want to smash my head through the wall whenever someone calls. 
+I love this place. 20 minutes from my house. I take my 4 year old all the time and for her it never gets old. 
+He used a UI term that could also be a restaurant term. Even crazier.
+I made a sub for this a while back. 
+
+/r/didnteventry 
+80 lbs if I recall. 
+
+They have one at the Tesla store in the mall here. My daughter loves to sit in it. 
+
+Apparently you can buy them in addition to getting it ad a referral award. 
+https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)
+thatsthejoke
+<h1">
+Good point now that you mention it. Can’t tell you how many times I’ve had something like this:
+
+    ['IAD' 'DFW']
+
+And wondered why my list wasn’t working right. 
+Not possible to apply transformations to placeholders.
+
+There's an open ticket requesting the feature:
+
+https://github.com/Microsoft/vscode/issues/34683
+Your syntax is not quite right. Check out the examples here:
+
+http://docs.sqlalchemy.org/en/latest/core/sqlelement.html?highlight=case%20function#sqlalchemy.sql.expression.case
+
+And then give this a try to see if it works:
+
+    expr = case(
+        [
+            (table.c.date_s == None, ' '),
+        ],
+        else_=func.to_char(table.c.date_s, '%m/%d/%Y')
+    )
+
+For your specific case, you could also use Oracle's NVL2 function which would be a little more simple:
+
+    func.nvl2(table.c.date_s, ' ', func.to_char(table.c.date_s, '%m/%d/%Y'))
+multi-line strings with triple quotes but they will include white space
+
+You can do this instead and it won't include whitespace.
+
+    k = (
+        '999'
+        '999'
+        '999'
+    )
+Siri: Sorry, I couldn't find "do we want Natural language processing" in your calendar.
+Python embedded in a YAML file. Programming is awesome.
+Rearrange the problem and maybe it will make more sense.
+
+Remove the 865 and all the other numbers sum to 3070.
+
+11879 + 1600 - 300 - 109 - 11000 + 1000 = 3070
+
+In the first case you're adding 865 to 3070:
+
+11879 + 1600 - 300 - 109 - 11000 + 1000 + 865 =  3935
+
+And in the second case you're subtracting.
+
+11879 + 1600 - 300 - 109 - 11000 + 1000 - 865 = 2205
+
+None of the calculators you're using are wrong.
+Not sure what you're getting at.
+
+3070 + 865 = 3935
+
+3070 - 865 = 2205
+
+
+FAA has digital downloads of VFR maps in pretty high resolution.
+
+https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/vfr/
+
+Should be fairly simple to crop and take somewhere to get printed (Vistaprint, Walmart, Office Depot, etc) if you want to go that route.
+But is it bouncing left-right-left-right or right-left-right-left?
+Python = `datetime.datetime.now().year`
+
+
+Yeah. If you’re creating a new character there’s really no reason to play non-season. 
+me too thanks
+    def answers(doc_id='testinfo')
+>I'm so used to just calling php files from JS with Ajax
+
+You can still do that if you want.
+Holy shit, yes. There are no rules on roads in Peru.
+
+The most terrifying trip I've ever taken was a van ride from Mancora to Piura.
+
+The busses do the trip in about 3 hours but the van did it in about 2. Fast and reckless. Driver was a maniac and I legitimately feared for my life on several occasions.
+Yes you are right. Thanks for clarifying. 
+Don't worry. Pai's got it covered.
+
+https://arstechnica.com/tech-policy/2017/11/fcc-will-also-order-states-to-scrap-plans-for-their-own-net-neutrality-laws/
+These are dependent events. Multiply the probablities.
+
+(1/140) * (2/100) = probability that both will occur
+
+(1/140) * (2/100) = 0.000142857 or 0.014%
+Set them equal and solve for x
+
+-18 + 90/x = -6 + 45/x
+Waxpool at Pacific Blvd.
+But 60% of the time it works every time. 
+Not sure if you can see his Maryland plates in the gif. 
+Olympia Brno
+Thanks. Kind of what I thought. I smacked it a couple times pretty hard with a hammer but it still didn't budge.
+
+Going to try destroying the inside of the latch tonight. Will try to cut it with a dremel or jigsaw. I don't care about replacing the lock. Would like something better than a Kwikset anyway.
+
+If that doesn't work I will likely take the door off the hinges.
+That was my first thought. But there is no resistance when I turn the lock. I stuck a small screwdriver between the door and frame and poked at the deadbolt and it is “free” and wiggles around quite easily. Doesn’t seem to be scraping against the plate. 
+Yes! I remember sliding down hills without a sled on top of the ice sheet. 
+You are now a moderator of /r/dadjokes
+Looks like they're using FontAwesome which includes the reddit alien.
+
+http://fontawesome.io/icon/reddit-alien/
+
+Also, his name is Snoo.
+Please tell me you went to bash.org and copy/pasted that instead of retyping it.
+Yep. What they actually have is this:
+
+    html5lib>=0.99999999pre,!=1.0b1,!=1.0b2,!=1.0b3,!=1.0b4,!=1.0b5,!=1.0b6,!=1.0b7,!=1.0b8
+
+Actually kind of a mess. I’m gonna submit a ticket to put an upper limit. 
+Street I grew up on skipped a huge block of numbers. My neighbor was 2902 and I was 2826. 
+Glad to see this, but I found out because it caused problems for us actually. 
+
+We depended on bleach 2.1.1 which depended on “latest version of html5lib”. But html5lib 1.0.1 broke bleach 2.1.1. 
+
+Bleach 2.1.2 was released to fix it. 
+Here's a real world example. I use generators for dates ranges a lot for various purposes. Given a start date and a number of days, it will infinitely loop through a range of dates.
+
+    def date_iterator(start, days):
+        while True:
+            yield {'start': start, 'end': start + timedelta(days=days - 1)}
+            start += timedelta(days=days)
+
+    cycles = date_iterator(date(2012, 1, 12), 28)
+
+    next(cycles)
+    # {'start': datetime.date(2012, 1, 12), 'end': datetime.date(2012, 2, 8)}
+
+    next(cycles)
+    # {'start': datetime.date(2012, 2, 9), 'end': datetime.date(2012, 3, 7)}
+
+OpenCV is probably your best bet. I don't think pyzbar has the ability to interface with a device's camera. You'll need to use another library (like OpenCV) then pass the image to `decode()`
+Will you marry me? Going on 5 years here and my wife STILL tries to tickle me.
+[Gareth Emery - Lost](https://www.youtube.com/watch?v=3XPeL3Na3_k)
+
+[Zedd - Straight Into the Fire](https://www.youtube.com/watch?v=mHa-fO9Vd6Y)
+
+[Steve Aoki - Home We'll Go](https://www.youtube.com/watch?v=kAwSQq44O_U)
+
+Yes, I like female singing in my EDM.
+Thanks for the Illenium suggestion. I'm loving it!
+Let’s say you use 1 gallon per day. 
+
+If you top off every day, you save 7 cents per day and a total of 35 cents every 5 days. 
+
+If you fill up every 5 days you would put in 5 gallons and save 35 cents. 
+
+It doesn’t matter. 
+Strings also have an ‘isnumeric’ method so you could just do ‘response.isnumeric()’ in that example. 
+How are you registering your view to your app? It’s possible that it’s not actually registered properly on the app. 
+Sum Ting Wong
+Give her a break. She’s not feeling well. She’s had butter days. 
+I have relapsed 3 or 4 times after 30 days or so. I always regret it after a week or so of being back on the caffiene.
+
+We'll see what happens this time in 2 weeks since I'm on day 15.
+
+Stay strong. Don't give in.
+7 is also a registered 6 offender. He should be locked up.
+inb4 copypasta
+
+For real though, beautiful picture. 
+I rolled a ╖ but I think that's better than a ╧ 
+Aipudhg, jyl'vf cykvukcfs mf. Rwugchukd gy cyifmace.
+
+This might take some getting used to. But already I can feel my fingers moveng less.
+I'd steal an 840 sign. Twice as good as a 420 sign.
+Open from 10 am - 3 pm Monday through Thursday. 
+There’s a Silver Line Express Bus that will take you from Dulles to the Reston metro stop. Costs $5 cash or credit. No SmartTrip. 
+Hey you two. Get a room. Or just a mattress. 
+https://thedailywtf.com/articles/What_Is_Truth_0x3f_
+I can’t believe how long the file_not_found joke has stuck around. It’s over 10 years old at this point. 
+Just like the 6s is “success”. 
+That’s basically what I did. 
+
+“Wear a suit. Wear this tie. You can keep the tie.”
+For development, tslint + vetur
+
+For building, tslint + webpack
+It does. Save it to a .py file and run it.
+
+Bonus points for knowing why this works.
+
+    username = 'root'
+
+    def log_me_in(): {
+        print('okay')
+    }
+
+    if username == 'root': {
+        log_me_in()
+    }
+Placebos can work. Sometimes even when you know it's a placebo.
+The problem is that while your initial query DOES join scenes and projects, when you access a related item like `scenes` for each project, it issues another query to fetch those items.
+
+You will likely need to experiment with [prefetch](http://docs.peewee-orm.com/en/latest/peewee/api.html#prefetch) to accomplish what you want.
+
+Why *did* angular skip a version though? I haven't been following it. Was there an actual reason for it?
+Didn't feel anything in Ashburn.
+Where are you getting that from? It’s in the standard library. 
+
+https://docs.python.org/3/library/string.html
+I have no idea honestly. I've never encountered a situation where that's necessary or desired.
+
+It's mentioned in the docs as "one of the pillars of Flask’s design is that you can have more than one application in the same Python process" but that's the only place in the docs that this "pillar" is mentioned. Weird.
+
+IMO one of the main issues it solves is circular dependency. Let's say you create your app in app.py and all your views in views.py. In app.py you import your views and register them to the app. Then in one of your views, you want to call a function that needs an app. You would need to import the app from app.py. Now you have circular dependency between app.py and views.py. There are ways around this, but they will all feel a little hacky. The application context is a *slightly* more elegant solution to that.
+
+FWIW, there's a big Github issue to update the application context docs because they are misleading and confusing:
+
+https://github.com/pallets/flask/issues/1151
+Yes. The first line is the "summary" and any other lines are the description (separated by a blank line). GitHub desktop just splits it out to separate boxes.
+
+Just do this:
+
+https://i.imgur.com/MVkOL5N.png
+#Application Context
+
+I write a function that I want to be accessible by any Flask application. You could write 2 Flask apps and run them both in the same Python process, and I want my function to work for both of them.
+
+So I write my function like this:
+
+    def myfunction(app):
+        print("this app is cool: {}".format(app))
+
+Now you can use this from your Flask application. You just need to pass in the current Flask application.
+
+That's not always ideal (partially due to circular dependencies), so as a convenience, Flask provides an "application context" to get the current app.
+
+Now I can rewrite my function like this:
+
+    from flask import current_app
+
+    def myfunction():
+        print("this app is cool: {}".format(current_app))
+
+Now you can call it from both of your Flask applications and it will automagically know which one to use.
+
+#Request Context
+
+Similar concept as application context. I write a function to print the URL parameters for a request:
+
+    def printargs(request):
+        print(request.args)
+
+Now you need to pass in the request every time you use this function.
+
+But instead of having to pass the request, Flask provides a "request context"
+
+    from flask import request
+
+    def printargs():
+        print(request.args)
+
+Now you don't have to pass in the request explicitly, and my function will operate on the current request (if it exists, like in a view) or throw an error otherwise.
+[It's a floor wax! It's a dessert topping!](http://www.nbc.com/saturday-night-live/video/shimmer-floor-wax/n8625?snl=1)
+For some more fun, you can use this to create "default" values with a syntax like this. It copies the class attribute to an instance attribute whenever an instance is created.
+
+    class Original_Class:
+        data_attribute = 'default'
+
+        def __init__(self):
+            self.data_attribute = Original_Class.data_attribute
+
+Then you get this:
+
+    instance1 = Original_Class()
+    instance1.data_attribute # 'default' as an instance variable
+
+    Original_Class.data_attribute = 'newvalue'
+
+    instance2 = Original_Class()
+    instance2.data_attribute # 'newvalue' as an instance variable
+
+    instance1.data_attribute # 'default' unchanged since it is an instance variable
+
+> Or rather, I guess I gave Python something in the more immediate scope to check than the class attribute.
+
+yup
+
+> Will make Original_Class.data_attribute always an instance variable?
+
+yup
+
+
+Your post is hard to read, so I reformatted it:
+
+    class Original_Class:
+        data_attribute = 'original'
+
+    original_instance = Original_Class() ## Class instance made
+    
+So far so good.
+
+    Original_Class.data_attribute = 'original updated' ## Update underlying class
+
+    original_instance.data_attribute 'original updated' ## Also updates created instance
+
+So reassigning a data attribute to the base class updates an already created instance.
+
+    original_instance.data_attribute = 'data updated 2' 
+    Original_Class.data_attribute 'original updated' ## Updating the instance does not affect base class. Makes sense
+
+    Original_Class.data_attribute = 'data updated 3' 
+    original_instance.data_attribute 'data updated 2' ## Suddenly the class and instance are no longer entangled
+
+Can anyone explain what's going on here? Thanks!
+
+---
+
+Now, to answer your question. When you do this:
+
+    original_instance.data_attribute
+
+Python checks to see if there is an instance attribute on `original_instance`. If not, then it checks for a class attribute with the same name.
+
+So when you first check `original_instance.data_attribute` it's returning the class attribute.
+
+Then when you do `original_instance.data_attribute = 'data updated 2'` you're adding an instance attribute, but it just happens to have the same name as the class attribute.
+
+You can check that the class attribute is updated by doing this:
+
+    original_instance.__class__.data_attribute
+
+What error do you get?
+You should do the split on each row.
+    'sjkasj fco st asklakl 2920 291029 sjajkjska'.split()
+
+Will return a list
+
+    ['sjkasj', 'fco', 'st', 'asklakl', '2920', '291029', 'sjajkjska']
+
+You could then use that to write to the CSV file.
+I abandoned OneNote in favor of [Quiver](http://happenapps.com). So much better for storing code snippet and notes with code embedded.
+"WATCH FOR CHILDREN"
+
+Best trade I've ever made.
+>buying a house right now is basically impossible on one income
+
+That's a bit of a stretch to generalize like that. 
+
+My wife is a stay at home mom and we have just my income. We bought a house ($400k USD). 
+
+It's definitely possible depending on the area, income, how much you have saved, and how many other debts you have.
+You have the right command to pip install from git.
+
+However, that project is not installable through pip. It does not have a setup.py file. And actually, it doesn't look like it's a python project at all.
+
+You will need to build/install it using the instructions they provide.
+Had this conversation recently with my almost 4-year-old.
+
+daughter: I love you and also I love mommy
+
+me: I love you too!
+
+daughter: But, I want to grow up to be like mommy, and not you
+
+me: Oh yeah? Why is that?
+
+daughter: Your feet are kind of stinky and a little bit prickly.
+
+Well thanks for that confidence booster.
+What’s the question?
+[You're probably right](https://i.imgur.com/TKWLoV2.jpg)
+I have a very visible scratch on my 6s screen. No idea how it got there. 
+I have a pen. I have a pineapple. 
+None chicken left pickles
+Herpes bullets. Sounds terrible. 
+You can actually browse that if you want:
+
+r/mechanicalkeyboards+sneakers+wtf+ATBGE
+
+This might not link correctly, but it works if you put it in the address bar. 
+No but I waited around until a taxi came.
+Consider yourself lucky. It doesn’t say “blueberries muffin” so you actually got one more than advertised. 
+Long term, yes. But we need a baby by next month! The sales guys already promised the customer!
+While technically true, it doesn’t really solve the problem. 
+
+You must be a software architect. 
+In what age?
+
+I think technically we are still an an ice age. 
+It wasn’t easy though. My mom has been pretty cool most of my life. I guess she doesn’t like my wife though. It was difficult to push her out of my life, but it was necessary. 
+/r/atbge 
+My mom has been shitty to my wife the entire time we have been married.
+
+Threatened not to come to our wedding unless we invited certain people. Said she was going to plan my wife's baby shower. Never did.  Said she would come to our daughter's baptism. Didn't. Many other false promises.
+
+The last couple times we were around, she was super friendly to me but didnt even acknowledge my wife was in the room. She also spreads rumors about my wife when we are not around.
+
+Sorry, you don't get to be mean to my wife and still have us come to things.
+
+They might store different subreddits in different databases or have separate caches. 
+How good were parking brakes back then?
+amount you get = price / 1.06
+
+So if you want the customer to pay 15.25 then do 15.25 / 1.06 = 14.39 plus tax
+/r/dontopendeadinside
+You should crosspost to /r/pareidolia
+Sounds like a great deal for the restaurant and Jacob. 100 new customers and 100 tips. 
+He probably just needs to replace the mouse. It could be all out of clicks. 
+Well if you take into account all the things, the odds are probably like 6 or 7, but I would never tell you. 
+Wonderland. Where nothing is as it seems. 
+I see an exclamation point. 
+Yes! I brought my newborn and toddler. I got an “I voted” sticker and my toddler got a “future voter” sticker. 
+Mawp. 
+Audiobooks should be in the iBooks app and not iTunes. iBooks can synch with iCloud. 
+Wait it’s Saturday? Have a newborn at home. I have slept maybe 3 hours each night this week. Haven’t even thought about the gym. Maybe next month. I’m so tired. 
+15% concentrated power of will
+Do you just tape top and bottom over your sock? Or tape the shinguard itself? Neither has been super functional for me. 
+Thanks. I will give it a try. 
+Even better. 
+I can never find a solution I like to keep my shin guards in place. 
+ctrl+enter should add a line below the current line. 
+
+Not sure why you would need to go to the end of the current line first. 
+Not so fast! Don’t forget to burn the house down first. 
+Very anecdotal, but I can’t hear much of a difference. I think the AirPods are slightly more bassy. 
+That exists. 
+
+https://github.com/drathier/stack-overflow-import
+Coffee so black it already did. 
+https://pythonclock.org
+(╯°□°）╯︵ ┻━┻ 
+
+Why haven’t I discovered this until now. 
+This is the truth. My daughter is 4. She has never watched TV and has seen maybe 2 movies. 
+
+We go to the library a couple times per week though. We can never leave without checking out a couple books. I love her enthusiasm for reading. I hope it never fades. 
+Pick one small part or try to answer one question at a time. 
+
+How does routing work?
+
+How are templates parsed?
+
+How does table creation work?
+
+How are model forms auto generated?
+You will need to provide more info if you want a helpful answer. You say you have tried that library already and it doesn’t work. Are you getting error messages. Which part “doesn’t work”?
+We've got this working without and problems, so it definitely *can* work.
+
+Do you also have `"experimentalDecorators": true` set in tsconfig?
+Yes.
+> Should i make them all packages? 
+
+Yes. This is exactly why packages exist.
+
+> Or instead change sys.path?
+
+Don't do that unless you have a really really really good reason. It will cause pain later.
+It doesn't fix the issue with the leading slash, and now your static path is hard-coded.
+Why not
+
+    {{ url_for('static', filename=data[0].image) }}
+
+That's what the filename parameter is for.
+
+And if you really need to replace the leading '/' I'd do:
+
+    {{ url_for('static', filename=data[0].image.lstrip('/')) }}
+
+No. But you can in Ruby.
+
+    if value = func()
+
+Returns true if `func()` does not return `nil`. Then assigns it to value.
+
+Swift also this feature. 
+
+    if let name = nameField.text {
+        // name is set here
+    }
+
+And the opposite:
+
+    guard let name = nameField.text else {
+        // name was not provided
+    }
+    // name is set now
+
+“Oh I think they sell water in the lobby. But it’s like $4 per bottle. You can probably get it cheaper if you walk across the street to the grocery store. Goodnight.”
+Adidas Gloro 16.1 for FG.
+
+Samba Millennium for indoor.
+Why don't you just set the `SECURITY_PASSWORD_SALT` setting?
+
+If you don't wanna use bcrypt you could use something else like `pbkdf2_sha512` which is secure enough, but that also requires a salt to be set.
+Random choice with replacement?
+
+
+You can reverse the equation which can sometimes make it easier to solve. 
+
+For example:
+
+11 percent of 20
+
+Is the same as 
+
+20 percent of 11
+
+And 20 percent is easier to figure out (10 percent times 2)
+You could use a JSON field. Postgres has excellent support for that, and I think MySQL does too these days. 
+Cinnamon usually goes well with apples. 
+Can’t stand ya!
+Views can return strings, but they can't return integers. You'd have to `return str(show_id)` if it's an integer.
+This is an issue due to not having Babel initialized for your app. It's trying to call the `_()` translation function in the templates, which doesn't exist.
+
+It was reported here:
+
+https://github.com/mattupstate/flask-security/pull/649#issue-232089197
+
+And fixed in this commit:
+
+https://github.com/mattupstate/flask-security/commit/4aee57d524758b059f36fdde6b3da6d0b202f266
+
+However, this commit didn't get released until 3.0.0. Looks like you've pinned flask-security to 1.7.4.
+
+So, update to 3.0.0 if you can, otherwise initialize Babel in your app.
+Thanks. Will be listening to the underground playlist at work today.
+Also to note it's not just a convenience thing, it's regulation. From 7110.65:
+
+2−4−14. WORDS AND PHRASES
+
+b. The word super must be used as part of the identification in all communications with or about super aircraft.
+
+c. The word heavy must be used as part of the identification in all communications with or about heavy aircraft.
+It can when they fill it with helium or hydrogen.
+yes
+For real. I play pickup with a guy who travels around the country with his 60+ team. Just rich old retired guys who love to travel and play soccer.
+Too late for what? To play and have fun? Absolutely not. Join a rec league. Find some pickup games. Recruit some friends. Have fun. 
+Thanks for your hard work! Really appreciate this library.
+> Is it not possible to have both these on the same page and same route?
+
+It is possible. It's not a good idea, but it's possible.
+
+It's best practice to have your views do one thing. Right now this view is handling at least 3 things that I can see: liking a video, disliking a video, and posting comments.
+
+Views that do one thing are easier to test and troubleshoot (in cases exactly like this).
+
+You would be much better suited by breaking this apart into 3 views.
+
+However, to address the immediate issue, you test `request.form['likebtn'] == 'Like'` in your view. When you submit the comments form, there is no field named `likebtn` so trying to access `request.form['likebtn']` will raise a `KeyError`. You either need to catch this error or check to see if `likebtn` is in `request.form`.
+
+But like I said, splitting this view apart is a better solution and will make your life easier and you'll be able to troubleshoot much easier.
+Agreed. Dude didn’t even get a ticket since he didn’t technically break any traffic laws. 
+You should have a more verbose error message in the console. What is that error message telling you?
+
+That being said, looks like you’re trying to access “likebtn” in your view, but I don’t see that being passed from the form. 
+Mine saved me once. Guy came in my lane and sideswiped me. He told the cops I was trying to come into his lane. Cops basically said it was his word against mine until I showed the dash cam video. Clearly showed me staying in my lane. 
+No, it's just an interface.
+
+JWaldoImpl is the implementation.
+Notice our big sign that says "keep out" along with our cardboad cutout of a police officer which is proof of our high level of security.
+Post some code that shows how you set the session and perform the redirect.
+desktop.ini
+It could pop down like it does now if it’s at the top of the screen. 
+1 is not == 2 and 1 is not > 2 so how could 1 be == AND > 2?
+This gave me flashbacks. We hired a very junior dev a while back. She could not remember that it was “git” and not “get”.
+
+For the 3 weeks that she was here, I got probably 10 emails saying “my get command isn’t working anymore” with a screenshot of her terminal.
+
+You may be wondering why we hired her in the first place. It was a “friend of the boss” type situation. 
+/r/ShittyTechSupport
+Try Hoopla if your library has it. You don't have to wait with Hoopla.
+Looks like it has its own implementations and basic query builder:
+
+https://github.com/jam-py/jam-py/tree/master/jam/db
+I have a bash alias to do the pip upgrades.
+
+    pip list --outdated --format freeze | cut -d '=' -f 1 | xargs pip install --upgrade
+For group 1, there were 73 students who scored 850 or better, and for group 2 there were 42 students. Combined average would be the sum of their scores divided by 115.
+
+However, we don't know their individual scores so we can't calculate the sum of them. We could make very broad assumptions based on population size, mean, and median, but the answer probably won't be right.
+2,000 * 0.80 = 1,600
+
+20,000 + 1,600 = 21,600
+I call bullshit. 0 errors and 0 warnings?
+My first reaction was: I'm not sure what I was expecting, but this is exactly it.
+> Is it a good idea to do this throughout my code (put hooks in where it makes testing easier? )
+
+To be blunt, it's a horrible idea. And a good indicator that you should refactor your code to make testing the production path easier, or use some testing libraries that can help you.
+
+Are you familiar with mocking and patching? In this case I would probably patch the "choice" method during testing to always return the first result.
+
+Here's an example.
+
+    class FetchStuffFromDB(object):
+        def __init__(self, category):
+            self.category = category
+
+        def fetch(self):
+            get = <code that talks to DB>
+            chosen = choice(get[self.category])
+            return chosen 
+
+Then using your test library's "patch" functionality (how this is used is different for each library, like pytest or unittest). You can swap out the random.choice call with a method that is NOT random. In this case it just returns the first item instead of a random item. So now you have a deterministic way to test this method.
+
+    @patch('random.choice', lambda x: x[0])
+    def test_fetch():
+        chosen = FetchStuffFromDB('category').fetch()
+        assert chosen == 4
+
+Edit: When I do code reviews, I *usually* only allow patching of methods/classes in the standard library. This is usually to make random or time-based functions not random anymore - like your example, UUIDs, random number, dates, etc. You technically can patch large functions in your own codebase, but then you're back to the same place you were when you asked this question - parts of your production code are not being tested.
+> They let smokers off but the rest are stuck on the plane.
+
+So they do have a way to get people off? They just don't want to let them off on the base?
+> Proxies are a feature introduced in ES6 AKA ES2015 AKA they’ve been out for a while. Because of that, I’m sure you have learned about them, but may have not been able to use them in a production environment because they’re unshimmable. No polyfill and no way to fake them in older browsers.
+
+Does this mean that Vue 3 will only support ES6 browsers? Or browsers that support Proxy specifically?
+Don't open!
+
+\- Dead inside
+It even says on the sign. 
+
+"Dine-in only"
+
+Sounds like they were being nice by giving it to-go.
+Just write some software that does a copy/past every couple seconds. Then you can move your mouse around to highlight and place code as neeed. No keyboard required.
+Here's a plug for /r/orlybooks
+> vlookups
+
+But have you tried index match?
+
+http://www.mbaexcel.com/excel/why-index-match-is-better-than-vlookup/
+The dog's age in human years after X years will be
+
+35 + (7 * x)
+
+Your neighbor's age after X years will be
+
+57 + x
+
+So we want to find the point where those are equal
+
+35 + (7 * x) = 57 + x
+
+Now solve for x
+
+x = 3.66666
+
+So they will be the same human age in 3.66666 years.
+
+That's using rough dates. You'd have to expand the years into days if you want to figure it out to the exact day.
+Hooray for working at an R&D company. We don’t have any production systems. 4 week vacation here I come. 
+They followed it up with this.
+
+https://twitter.com/mcpnews/status/902623444621291525
+Citation Needed. Maryland does require turn signals. Not technically required for changing lanes though.
+
+http://mgaleg.maryland.gov/webmga/frmStatutesText.aspx?article=gtr&section=21-604&ext=html&session=2015RS&tab=subject5
+
+I believe grant_type and code should be separate fields:
+
+    payload = {'grant_type': 'authorization_code', 'code': authcode}
+Good stuff! When I first implemented it, I felt like I was going against the grain because everything you read online says "you should be using vuex". But I've never seen any concrete reasons why it's better for use cases like this and most of the reasons boil down to "because it's what you should use". If I needed more, I'd probably go with something like a [global event bus](https://vuejs.org/v2/guide/components.html#Non-Parent-Child-Communication) instead of vuex.
+/r/ProgrammerDadJokes
+[And it's a real thing](https://github.com/qw3rtman/git-fire)
+> But wouldn't it be easier to just skip the $store (for a lot of cases) and just do a GET request on each page? So for every URL, the app loads the data directly from the server?
+
+That's what we do for our big Vue app. No problems yet. It's very easy to understand what's going on when you don't need to worry about "extra coding to ensure that the list in the $store still matches the list on the server".
+
+We do some basic caching for API endpoints that don't change very often, but that's easier to implement then a whole vuex store.
+Yeah it works. It’s how they do it in the documentation too. 
+
+https://docs.djangoproject.com/en/1.11/topics/db/examples/one_to_one/
+You can set `primary_key=True` on the OneToOneField and then the author's statement is true. But otherwise you're right.
+It's because y-p really is the same as -p+y.
+
+Think of it this way: you have -p and +y. 
+
+Add them together and you get (-p) + (+y) or (+y) + (-p) because of commutative property.
+
+Reduce the signs and you're left with -p + y or y - p.
+
+Really just different ways of saying the same thing.
+https://i.imgur.com/LOw5roo.png
+Yeah.
+
+> "But it's not something that lends itself to an easy solution," Mr. Obama said. "We could, obviously, destroy North Korea with our arsenals. But aside from the humanitarian costs of that, they are right next door to our vital ally, Republic of Korea."
+
+https://www.cbsnews.com/news/president-obama-north-korea-challenge-south-china-sea-aggression/
+Did he struggle with a main female character or with opioids?
+... in a sea of compliments. 
+Article says "nearly 195 pounds found". That would mean 195 / 32,000,000 = 0.000006094 pounds per person or 2.7641919 mg per person.
+
+Don't really know a whole lot about this but I did some googling. I got varying results, but seems like 2.7mg is a lethal dose according to all the results I got.
+
+So if 195 lbs of whatever they found is worth $30 million, and 2.7mg is a lethal does, then yes 94 cents for a lethal dose.
+A Juicy Lucy!
+Oh I see what you’re saying now. The phone taking the video could be using ARkit. 
+
+I originally thought you were saying the phone was actually displaying the pool. 
+
+Makes sense now. 
+I've always done it like this, but same result.
+
+    "a b c d".split(maxsplit=2)
+What about the ladder? It's actually off the edge of the screen. I don't think ARKit is *that* good.
+I get mine at Whole Foods. Organic is the only way to go. 
+I don’t want to admit to git that I made a mistake. 
+Meetup. Might depend on your area, but it can't hurt to check. Around here there are 3 groups that meet.
+
+Your county's parks and rec department. This might be US-only but I've found that many times they have leagues for adults/youth and include some coed leagues.
+
+maybe
+    cd ..
+    rm -rf project
+    git clone gitserver/company/project
+
+Let's forget this ever happend.
+I use this plugin to do it:
+
+https://marketplace.visualstudio.com/items?itemName=huizhou.githd
+
+You can compare the branches and it shows in the sidebar a list of all the files that have changed. Click on a file and it shows the diff.
+Not in a super clean way.
+
+You could look at `instance.__dict__` but that only shows instance variables, not also class variables. It also doesn't work for classes that specify \_\_slots\_\_.
+
+    class Awesome:
+        attr1 = 1
+        def __init__(self):
+            self.attr2 = 2
+
+    Awesome().__dict__
+    # {'attr2': 2}
+
+You could look at \_\_dict\_\_ on the class to get the class variables.
+
+You could inspect `dir(instance)` but that will you you EVERYTHING... built in methods/variables, class methods/variables, instance methods/variables.
+
+    dir(Awesome())
+    # ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'attr1', 'attr2']
+
+Put on your flashers and exit the highway if that happens. Left lane is not a good place to stop.
+Yes. You can. 
+That’s how I got I also. Find rare flails or use shards to gamble for them. Then upgrade in the cube. Took about 20 tries to get one. 
+You can't remove the border on the buttons on a Mac.
+
+You could use a label widget and bind mouse events to it. Then you could style the label as you want. That should work, I think.
+That's actually a thing already. Not gonna link to any, but google "captcha solving companies".
+Welcome aboard. You're now the Chief of Operations at GameSort.
+GameSort
+
+People play a game which involves sorting objects and competing against each other for the fastest time. Little do they know they are actually part of a sorting matrix and are sorting actual data structures. 
+
+Developers can pay a small sum of money and get access to the GameSort API allowing them to send their data structures to the game and get sorted results. 
+
+I’m going to make millions. 
+Permanently wired to the phone. 
+It's cause it's priced like this:
+
+number|price
+:---|:---
+1 license|USD $80
+10+ licenses|USD $70 / license
+25+ licenses|USD $65 / license
+50+ licenses|USD $60 / license
+
+Not that it necessarily "makes sense" but it shows how 10 licenses costs less than 9.
+
+Checkout the Enclave series by Ann Aguire or Red Rising by Pierce Brown if you haven't already.
+So you're saying it's possible.
+"Move this code from client side to server side."
+Actually if you put a person underwater they can live the rest of their life there. 
+He said 299**5**5 but you had 299**9**5. Otherwise, yeah.
+
+What do your settings look like?
+
+This can be a problem if django is traversing large directory trees looking for changes. Does one of your settings perhaps point to a very large directory tree?
+fuckin' a
+slickwraps
+
+https://www.slickwraps.com/apple-retro-case.html
+“Boss, someone monkeypatched the assert function again.”
+Either drop and re-create the one you have if that's the one you plan on using, or create a new one and point your Django config to it.
+
+Hard to give more details without knowing specifics of your environment.
+Honestly it's probably a good idea to start with a clean database when you go live. I wouldn't worry about resetting IDs for a go-live if you can prevent it.
+What database do you use?
+
+Best way is probably to use an autoincrement field and set the number it starts at to 5000. However, some databases (MySQL) only allow one auto increment column per table, and you're probably using it for the ID. So if you're using MySQL that's not an option.
+
+Actually, if you're using an autoincrement column for ID already, can you just add 5000 to that and show it as the invoice number?
+
+    class Invoice:
+        @property
+        def invoice_number(self):
+            return self.id + 5000
+
+Using that method the invoice number isn't stored to the database, but does it need to be?
+
+To answer your direct question, yes you can access the database in models.py. Here's an example that increments an invoice number to the max() + 1 if it doesn't already have an invoice number.
+
+    class Invoice(models.Model):
+        invoice_num = models.PositiveIntegerField(null=False)
+
+        def save(self, *args, **kwargs):
+            if not self.invoice_num:
+                self.invoice_num = Invoice.objects.latest('invoice_num').invoice_num
+            super().save(*args, **kwargs)
+
+However, this has a possible race condition. If two new invoices are saved at the same time, they would get the same invoice number. So I probably wouldn't use this method.
+    # Call the email function.
+Not always.
+
+"sudo" runs a command as another user. Any user.
+
+"su" switches to another user. Any user.
+
+To switch to another user, you only need to run "su anotheruser". However, many systems have "su" locked down so you can only run it as root. So then you need to run "sudo su anotheruser" to run "su anotheruser" as root.
+
+It's common practice to set up permissions so that normal users can only access su when running as root, and only allow sudo to access su. That's why the "sudo su" pattern exists.
+
+It's possible to give normal users access to su directly, but that's not a good idea.
+Day 5 is rough. You should expect lots of anxiety during your first week. 
+
+I had all sorts of horrible dreams the first week or so. I had dreams about ex girlfriends too and I've been married for 5 years. I think it's just part of the chemical imbalance that happens during withdrawal.
+Yeah, I was thinking of parameterized tests. I know a couple test runners that count each iteration as a separate test. 
+Spaces will win. We outnumber tabs 4 to 1.
+https://en.m.wikipedia.org/wiki/Rubber_duck_debugging
+I don't have a super addictive personality, but I have found that caffeine does seem to stimulate that part of my brain. I find myself drawn to more repetitive, addictive tasks.
+I've not had this problem. If I want to search for something in an NPM dependency, I just use "./node_modules/packagename" in files to include. If I only want a specific file type in the package, I do "./node_modules/vue/\*\*/*.js".
+
+It doesn't seem *that* weird to me. Very similar to how you'd do it on the command line 
+
+What kinds of searches are you doing that require lots of weird patterns?
+How do you handle the data differences between old columns and new columns when you perform a rename?
+
+At what point do you migrate the data from the old column?
+
+Let’s say you rename full_name to fullname. Customers could be updating either one in their profile depending on which version of the code they get.
+Put the car in neutral, get out, push the car.
+
+"I didn't put it in reverse, boss."
+My wife and I learned morse code while we were dating, because why not. Sometimes we tap out short messages to each other in public.
+In this example, I can't see why the parent component should be keeping track of the the state of the child component at all (isPlaying, etc).
+
+For a video player component, I think it would make sense to pass the URL/path to the video as a prop and that's it. The video component would keep track of its own state (playing, paused, fast forwarding, etc). It could emit events when things happen, so the parent component (or other components) could respond to them.
+
+But in general, each component should be keeping track of its own state. And I think that might be a good way for you to think about the encapsulation (data vs state).
+
+> I come to a similar conclusion when I was thinking about how to implement a component that shows notifications. Again, I could pass down an array in a prop, and then I could add messages with .push() but shouldn't the component handle the message queue internally?
+
+In this case I would say that neither the parent nor the component for displaying the notifications should keep track of the message queue. You should use something like vuex or another state management library (or write your own) to keep track of the queue. The notification display component simply shows the notifications in the global state, then any other components can add to the global state.
+> "Imdb ghostbusters" - opens up safari on IMDb search page for ghostbusters.
+ 
+You don't need a workflow for that, though. It's a built-in search.
+
+Out of the box, better. With workflows, not even close.
+
+Here are things I can do in Alfred that are impossible in Spotlight.
+
+- Search/select files and email them
+- View/edit clipboard history
+- Quickly define words
+- iTunes control/mini player
+- Date parsing (tomorrow 9 am, +4 hours, etc) and schedule meeting
+- Convert colors to/from hex/rgb/hsl/name
+- Search our company directory
+- Enter my timecard
+
+Screenshots of some cool stuff: http://imgur.com/a/vSohR
+
+
+I saw this one the other day:
+
+    result = True if value > 4 else False
+
+So close.
+I usually set a loading variable, then fetch the data from the API. That way you can distinguish between these states:
+
+1. data not yet loaded
+2. data loaded and no contacts found
+3. data loaded and contacts populated
+
+Script could look like this:
+
+
+    data() {
+        return {
+            loading: true,
+            contacts: [],
+        }
+    }
+
+    created() {
+        this.fetchData()
+    }
+
+    methods: {
+        fetchData() {
+            this.loading = true
+
+            someApi.getContacts().then((data) => {
+                this.contacts = data
+                this.loading = false
+            })
+        }
+    }
+
+And template could then look like this:
+
+    <div v-if="loading">
+        contacts loading...
+    </div>
+    <template v-else>
+        <div v-if="contacts.length">
+            show contacts here
+        </div>
+        <div v-else>
+            no contacts found
+        </div>
+    </template>
+
+For "date difference in seconds" you can do
+
+    (date2 - date1).total_seconds()
+
+instead of
+
+    def dateDiffInSeconds(date1, date2): #dunno
+      timedelta = date2 - date1
+      return timedelta.days * 24 * 3600 + timedelta.seconds
+
+When you do `(d2 - d1)` it returns a [timedelta](https://docs.python.org/3/library/datetime.html#timedelta-objects)  object.
+What bag situation?
+MD is square. So is VA. 
+>  is she pregnant?
+
+Hah. Yes, actually.
+
+I'm not denying there's something wrong, just seems like air quality test would be a good first step.
+
+Based on what I've been reading and /u/closethird's suggestions we're going to:
+
+1. remove everything from the room
+2. steam clean carpet with vinegar
+3. use dehimidifier
+
+If none of that works we'll pull up the carpet and check under there first. Should be free/cheap to reinstall if we are careful.
+http://www.json.org/license.html
+
+Specifically, this part is what trips people up:
+
+> The Software shall be used for Good, not Evil.
+
+Who determines what is good or evil?
+
+I work for a large nonprofit R&D shop. Same deal here. 
+>  then 486 (511-25) is the lower limit.
+
+Is this right?
+
+486 * 10 = 4860 days
+
+Then add back in the 25 days where they can rewatch another movie, that's only 4,885 days.
+
+Shouldn't it be (5110 - 25) / 10 = 508.5 movies
+> how many movies would it be possible to show them in that amount of days?
+
+5,110 days and one movie per day, it would be possible to show 5,110 movies
+
+Do you want the minimum number of movies possible? Watch a movie 10 times then move on to the next one.
+
+5110 / 10 = 511 movies
+
+And with 25 days where they could watch the same movie again:
+
+(5110 - 25) / 10 = 508.5 movies
+
+
+Depending on the site, you might not even need that. You might be able to get away with something like lxml or beautifulsoup + sending POST/GET requests.
+It was posted there 6 months ago
+
+https://www.reddit.com/r/AccidentalCamouflage/comments/5rhxzk/she_is_one_with_the_wall_now/
+List of vehicles sold without spare tires (PDF):
+
+https://publicaffairsresources.aaa.biz/wp-content/uploads/2015/11/Vehicles-Sold-Without-a-Spare-Tire.pdf
+> It’s chicken dumplings. 
+
+Gnocchi is actually just the dumpling. No chicken required. 
+Gotcha. I just edited my reply above. It's a weird syntax that I would probably never use. value_types should definitely be keyword arguments IMO.
+> They put keyword args, then *args after them in some of there functions. So, in your opinion this would be bad practice?
+
+It's not bad practice - Python just doens't even work that way. It's a syntax error. Do you have a link to what you're referring to? I'm curious now.
+
+Edit: I take that back, slightly. The only thing I can think of is this:
+
+    def awesome(one=1, two=2, *args):
+        print(one, two, args)
+
+In this case, `one` and `two` are not necessarily keyword arguments. 
+
+So you can call awesome with no arguments:
+
+    awesome()
+
+You can call with only positional arguments (as many as you want):
+
+    awesome(1, 2)
+    awesome(1, 2, 3)
+
+But if you call with keyword arguments, you can't specify any more positional arguments:
+
+    awesome(one=1, two=2)
+
+Neither of these will work:
+
+    awesome(one=1, two=2, 3)
+    awesome(3, one=1, two=2)
+
+It's kind of a strange syntax and I would probably never define a function like that.
+When you define a function, you can use `*args` to capture positional arguments, and `**kwargs` to capture keyword arguments. When you call a function or define a function, and important point to remember is that there can be no positional arguments after keyword arguments.
+
+Better understood with an example:
+
+    def func1(one, two):
+        print(one, two)
+
+I could call it using any of these:
+
+    func1(1, 2)
+    func1(one=1, two=2)
+    func1(1, two=2)
+    func1(1, two=2)
+
+But I cannot do this:
+
+    func1(one=1, 2)
+
+Another function:
+
+    def func2(one, two=2):
+        print(one, two)
+
+I could use all the same calls as `func1` but in addition, `two` is a keyword argument with a default value, so I can also do this:
+
+    func2(1)
+
+I can define a function to capture an arbitrary number of keyword and positional arguments:
+
+    def func3(*args, **kwargs):
+        print(args, kwargs)
+
+And I can call this however I want:
+
+    func3('hello', 'world', something='yes')
+
+But I cannot call it with keyword arguments before positional arguments:
+
+    func3(error='yes', 'definitely')
+
+In your `args_test` function, you have positional arguments defined after keyword arguments.
+
+Change the defintiion to this:
+
+    def args_test(*args, kwarg1='foo', kwarg2='bar'):
+
+And now you can call it with any number of positional arguments:
+
+    args_test('one', 'two')
+
+Or you can overwrite kwarg1, kwarg2, or both:
+
+    args_test('one', 'two', kwarg1=1)
+    args_test('one', 'two', kwarg2=2)
+    args_test('one', 'two', kwarg1=1, kwarg2=2)
+    
+Using selenium bindings, it might look something like this (for my example above).
+
+    driver = webdriver.Firefox()
+    driver.get("http://www.example.com")
+    value = driver.find_element_by_id('status').text
+
+This will literally load an instance of Firefox (you will see it pop up on your screen) then you can use the `driver.find_element_by_id` selector to get the value.
+
+Since it's Firefox, it will run all the JavaScript when you call `driver.get()`. However, if it does a lot of AJAX stuff, it might not be complete by the time you call `find_element_by_id`. In that case you can add some waits to make sure it has time to complete.
+
+You can implicitly wait:
+
+    driver.implicitly_wait(10) # seconds
+
+But in this case it would be great until we could say "wait until the div contains the text 'available'". You can do that too!
+
+    from selenium.webdriver.common.by import By
+    from selenium.webdriver.support.ui import WebDriverWait
+    from selenium.webdriver.support import expected_conditions as EC
+
+    element = WebDriverWait(driver, 10).until(
+        EC.text_to_be_present_in_element((By.ID, "status"), "available")
+    )
+
+So that will wait until the JavaScript has loaded for sure (but at most 10 seconds).
+
+Selenium is really powerful and you can do stuff that you can't in BS, but it can be slightly tricky to figure out how to do things on pages that have lots of JavaScript.
+This answer has a working solution on stackoverflow:
+
+https://stackoverflow.com/a/39677021/5050264
+You can definitely add TypeScript definitions. You can bundle the type definitions (in a `.d.ts` file), use other provided type definitions, or write your own for libraries that don't have them.
+
+I believe for flow you can include type definitions in a `.js.flow`file. So if your library is `something.js`you can include `something.js.flow` along with your published library and it should just work. Haven't tried, but I'm sure there's a way with flow to write your own definitions for libraries that don't have them.
+Ah yes, JavaScript most likely. Here's a super simple example:
+
+    <div id="status">sold out online</div>
+    
+    <script>
+        document.getElementById('status').innerHTML = '123 available';
+    </script>
+
+If you "view source" then you will see that it says "sold out online" but if you "inspect element" then it will say "123 available".
+
+View Source = Source that is delivered to your browser, before any JavaScript runs. This is also what BeautifulSoup sees, since it doesn't run JavaScript.
+
+Inspect Element = Current state of what you see on the page. JavaScript has probably run at this point.
+
+If you want to scrape stuff that is loaded through JavaScript you'll need to venture into the world of selenium (http://selenium-python.readthedocs.io) which controls actual Web browsers so it can run the JavaScript.
+openpyxl is my personal favorite for both reading and writing.
+What version of Python? 3.6 has this.
+
+    random.choices(('great', 'okay', 'suck'), weights=(50, 30, 20))
+
+The cpython implementation is here if you want to see how they do it.
+
+https://github.com/python/cpython/blob/8b7a4cc40e9b2f34da94efb75b158da762624015/Lib/random.py#L341
+
+> I have no way to make the information "escape the walled garden" of showresults().
+
+Sure you do. `showresults` could call another method with the selected values, or you could update a global variable:
+
+
+    selected_values = None
+
+    def showresults():
+        global selected_values
+        selected = listbox.curselection()
+        selected_values = [options[idx] for idx in selected]
+
+Now anytime after you click the button, you can access selected_values.
+
+Hard to answer definitively when I'm not sure what exactly you're trying to do with the values once they are selected.
+You can use `listbox.curselection()` to get an index of each selected item. So if you've selected the first and third items, it would return `(0, 2)`.
+
+If you need to get the actual values of what is selected, you'll need to use those indexes to lookup in the original list. You can change the command of the button to a method that does that.
+
+Here's an updated example that will print the value of each item selected when the button is clicked.
+
+
+    window = tkinter.Tk()
+
+    options = ["Option A", "Option B"]
+
+    Label(window, text="Choose options").pack(padx=5,pady=10)
+    listbox = Listbox(window, selectmode=MULTIPLE)
+    for item in options:
+        listbox.insert(END, item)
+    listbox.pack()
+
+    def showresults():
+        selected = listbox.curselection()
+        values = [options[idx] for idx in selected]
+        print(values)
+
+    confirm_button = tkinter.Button(window, text="Confirm", command=showresults).pack()
+
+    window.mainloop()
+
+The bot says nothing. The seal should have said ow ow. There is your haiku.
+And class attributes can be accessed on instances too:
+
+    >>> p1.sum
+    5
+    
+    >>> p2.sum
+    5
+    
+But try not to do that unless you have a good reason. It's confusing.
+When my wife asks me to carry the laundry basket upstairs.
+To show code formatting, indent all the lines by 4 spaces.
+
+What you probably want to do is compare strings by calling `lower()` or `upper()` on all the strings so they are the same case.
+
+Another option is to use a regular expression search and tell it to ignore case.
+https://stackoverflow.com/questions/4456438/how-to-pass-null-a-real-surname-to-a-soap-web-service-in-actionscript-3
+Read the next section (Integrating validation).
+
+>There are a few functions in django.contrib.auth.password_validation that you can call from your own forms or other code to integrate password validation. This can be useful if you use custom forms for password setting, or if you have API calls that allow passwords to be set, for example.
+
+The built-in `UserCreationForm` does this. See here:
+
+https://github.com/django/django/blob/a96b981d84367fd41b1df40adf3ac9ca71a741dd/django/contrib/auth/forms.py#L105
+
+If you use your own custom form, you'll need to call `validate_password` at some point like that form does. 
+You could add your own password validator:
+
+https://docs.djangoproject.com/en/1.11/topics/auth/passwords/#module-django.contrib.auth.password_validation
+He gets free advertising on reddit now too.
+Sure.
+And main.js is 35mb
+> forced useless temp vars due to attrocious complex expressions forced by forced indentation syntax
+
+Do you have an example of this?
+That would force all custom iterable objects to inherit from that type as well. Here's a custom class that can be used with `str.join` without any additional code:
+
+    class Stupid:
+        def __iter__(self):
+            yield "a"
+            yield "b"
+
+Now I can do `' and '.join(Stupid())` without needing to inherit from some base class.
+
+AFAIK the owner basically said “it’s not worth it to stay open” after that. 
+I think you’re going to want more than 6.5 hours of sleep. 
+Probably the part where Tess (played by Julia Roberts) pretends to be Julia Roberts because she looks like Julia Roberts.
+2011 MBP 17” still going strong. Most of the parts have been replaced at this point. It looks almost brand new. 
+How much are you spending? Credit card companies these days have a limit that doesn’t require a signature. Usually under $50 or $25 depending on where you are shopping. 
+> And you can counter that by catching KeyError.
+
+Or this:
+
+    switch.get(digit1, default)(tens_offset)
+Monkey City!
+We've been using vue-property-decorator and it seems fine. A couple quirks here and there but the typing greatly outweighs them.
+
+Where it's really a pain is testing. Every example and article and documentation online related to vue + typescript seems to ignore testing. No wonder why. Maybe some day one of these helper projects will tackle that.
+Hah. In my state we need to pay taxes on our car every year. Then the county says we need to spend $25 for a sticker to put on the car that says we paid the taxes. Thankfully next year they are getting rid of the sticker. But we still need to pay the $25. 
+Do you have an \_\_init\_\_.py file in your apps directory?
+‘let’ declares a constant in Swift whereas ‘const’ declares a constant in ES6. 
+
+I see no reason the jacket size should be a variable. 
+Somewhat related story.
+
+I was buying a bottle of water at Walmart and for some reason it wasn't ringing up, so the cashier had to type in the price manually. But typing in the price required a description. Cashier types in "WATER" but it gives her an error: "must be at least 6 characters".
+
+So I ended up buying "WATERR"
+Of course they let him in the club. He has all the koalafications.
+The punchline is over there. This is the line to get soda. 
+> It means no unnecessary query to the database
+
+It's the same number of queries, but I get your point about being a denormalization.
+
+    class Order(models.Model):
+        guid = models.UUIDField(default=uuid.uuid4, unique=True, editable=False)
+
+    url_patterns = [
+        url(r'order/(?P<guid>[0-9a-f-]+])/$', order_status_view, name='order-status'),
+    ]
+
+    def order_status_view(request, guid):
+        order = Order.objects.get(guid=guid)
+Any advantages to this method compared to storing a random uuid for each order and using that in the URL? That’s usually how I approach similar problems. 
+Nah. It’s all about close buttons now. 
+Probably not you. In the May 2017 update they enabled it by default.
+It's been requested but not yet available. Would be great if you could change it like you can with `window.title`
+
+https://github.com/Microsoft/vscode/issues/21662
+It's a nice compromise between 2 and 4 spaces.
+Yes.
+- App data
+- Apple Watch backups
+- Call history
+- Device settings
+- Health data
+- HomeKit configuration
+- Home screen and app organization
+- iMessage, text (SMS), and MMS messages (requires the SIM card that was in use during backup)
+- Photos and videos on your iPhone, iPad, and iPod touch1
+- Purchase history from Apple services, like your music, movies, TV shows, apps, and books2
+- Ringtones
+- Visual Voicemail password (requires the SIM card that was in use during backup)
+
+Your iPhone, iPad, and iPod touch backup only include information and settings stored on your device. It doesn’t include the information already stored in iCloud, like Contacts, Calendars, Bookmarks, Mail, Notes, shared photos, iCloud Photo Library, My Photo Stream, and files you store in iCloud Drive.
+
+https://support.apple.com/en-us/HT207428
+All hail FSM.
+Post your template code (how you actually display the variable) and your view (how you pass docs_tbl to the template). Hard to tell what's happening with the snippets you've given.
+Not necessarily true. A non-profit company can still make a lot of money. They just don’t have owners or shareholders and all the money they make basically needs to “stay in the company”. There are different rules in different jurisdictions so it’s hard to generalize, bit using money for charity is not required. 
+
+Source: I work for a large nonprofit that isn’t a charity. 
+Layer3 resells Verizon fiber. You say to L3 “I want service at 123 Main St” and L3 says to Verizon “we got a new customer at 123 Main St”. Verizon could say “too bad”. 
+Ashburn is the worst for this. Waxpool. Farmwell Rd. Ashburn Farm Pkwy. Shellhorn. Etc. 
+Technically they probably could but I know quite a few languages place restrictions on what can be used as an identifier. For example, python3 supports unicode but places [restrictions on identifiers](https://docs.python.org/3/reference/lexical_analysis.html#identifiers).
+
+    >>> value = "💩"
+    >>> print(value)
+    💩
+
+    >>> 💩 = "poop"
+    File "<stdin>", line 1
+        💩 = "poop"
+        ^
+    SyntaxError: invalid character in identifier
+
+Probably to allow for "all unicode characters" or something.
+
+Seeing the emoji identifiers in code completion makes me laugh.
+
+http://i.imgur.com/juJ2YBO.png
+Not *completely* emoji, but Swift lets you use emojis as identifiers.
+
+http://i.imgur.com/fgl2g7Q.png
+Several conditions could cause the last line to return:
+
+- makeChanges is 0 and `re.search(sevensixtyRegex, line)` does not return a match
+
+- makeChanges is something other than 0 or 1 (like another number or a string perhaps)
+
+- noMoveInLine is something other than 0 or 1
+
+Hard to tell without seeting other parts of the code.
+
+Perhaps instead of the last return you could raise an exception to see help you figure out what's going on:
+
+   
+    err_msg = 'line = {}, noMoveInLine = {}, makeChanges = {}, discardedLine = {}'
+    raise AttributeError(err_msg.format(line, noMoveInLine, makeChanges, discardedLine)
+I use the Python extension:
+
+https://marketplace.visualstudio.com/items?itemName=donjayamanne.python
+
+With flake8, pydocstyle, and autopep8 it's a very nice environment.
+Looking for something like this?
+
+http://i.imgur.com/OY7BChU.jpg
+Yes.
+
+https://wiki.winehq.org/Developer_FAQ#Copyright_Issues
+should be "eso si que es"
+You can usually disable CORS protection in your browser, or you can use flask-cors.
+
+https://flask-cors.readthedocs.io
+
+I run my vue app on port 8080 and flask app on port 5000 and flask-cors lets the requests come through (but only in dev).
+I do it too but with “my turn!”
+
+“What?”
+
+“The light. It’s green now. It’s my turn.”
+
+“Oh...”
+The canopy is probably the better choice. 
+I read it as though you had 30 minutes before you are locked in the room, so you have time to run to the store and back. 
+Man, that's nothing.
+
+I once worked on a database that had a "role_id" column for storing user roles. It had data that looked like this:
+
+100001001
+
+101001000
+
+100000000
+
+You're thinking "binary!" and you are wrong.
+
+It turns out that each digit (starting from the left) corresponds to an ID in the "role" table. So if the position first from the left had a 1, the user had role with ID=1. Second from the left, the user had role with ID=2. You get the idea.
+
+In subsequent upgrades, there were new roles added, so digits were just appended to these existing values.
+
+Other places in the database used actual foreign keys, so I don't know WTF they were thinking with that one.
+There's a keyboard shortcut for it. Opens the current file in a new window.
+
+Mac: ⌘K, O
+
+Windows/Linux: Ctrl+K, O
+
+Or ⇧⌘N to open a new window, then drag the tab to it.
+If you want to overwrite the documentation for those descriptors you can do it like this in `models.py` after your model definition:
+
+    Author.book_set.__doc__ = 'custom documentation'
+
+If you want to completely exclude them, you can add this to your sphinx `conf.py`:
+
+    from django.db.models.fields.related_descriptors import ReverseManyToOneDescriptor
+
+    def skip_django_descriptors(app, what, name, obj, skip, options):
+        if isinstance(obj, ReverseManyToOneDescriptor):
+            return True
+        return skip
+
+    def setup(app):
+        app.connect('autodoc-skip-member', skip_django_descriptors)
+
+And you can update that to skip any other kind of objects you want as well.
+Yes! I have a car-only napper as well. 3 years old. But thankfully she won't wake up when I move her to her bed as long as she has been asleep for about 10 minutes.
+I'd do it one of two ways. First define a "print_decorator"
+
+    from functools import wraps
+
+    def print_decorator(func):
+        """A decorator to print the result before returning."""
+        @wraps(func)
+        def decfunc(*args, **kwargs):
+            rv = func(*args, **kwargs)
+            print(rv)
+            return rv
+        return decfunc
+
+Then just decorate the methods you want:
+
+    class Worker(object):
+
+        def _get_id(self):
+            return uuid.uuid4()
+
+        @print_decorator
+        def run(self):
+            return self._get_id()
+
+    worker = Worker()
+    worker.run()
+
+Or if you don't want to decorate the class, do it after instantiation:
+
+    class Worker(object):
+
+        def _get_id(self):
+            return uuid.uuid4()
+
+        def run(self):
+            return self._get_id()
+
+    worker = Worker()
+    worker.run = print_decorator(worker.run)
+    worker.run()
+They're minerals, Marie!
+Visual Studio Code with the Python extension.
+
+PyCharm is free if you're a student. Otherwise the Community Edition is pretty good also.
+check
+I wish this had sound. I want to hear that so bad. 
+No it's just that all his questions are already answered here:
+
+https://en.wikipedia.org/wiki/The_Rookie_(2002_film)
+Yeah, it shouldn't be up to each app to implement this (differently).
+
+Would be great if it was an OS-level feature.
+> norecall = 2000 > modelYear > 2007
+
+That doesn't actually work though.
+
+    >>> modelYear = 2008
+    >>> 2000 > modelYear > 2007
+    False
+
+And the other one says "Gill Master"
+
+I guess that's why they are amusing.
+It's probably opening the folder but not showing the sidebar. I had the same problem.
+
+After it opens go to View > Sidebar > Show Sidebar
+`str.join()` and `str.strip()` are probably what I use most.
+You could do it like this:
+
+    norecall = modelYear < 2001 or modelYear > 2006
+
+Or like this, but the syntax isn't as clear:
+
+    norecall = not 2000 < modelYear < 2007
+Yes, after the first 2 weeks of going cold turkey.
+These all remind me of "before" scenes from an infomercial.
+
+/r/wheredidthesodago
+What is the difference? They look the same to me.
+
+https://i.imgur.com/wLliYrR.png
+>GMail related stuff comes from that time.
+
+Gmail itself came from 20 time. 
+https://youtu.be/06toc4GX6bE
+Well by default `re.search` will only search one line (which is delimited by \n). We can add another capture group for everything after the numbers:
+
+    heat input\D*([\d\.,]*) *(M{0,2}) *([^\r]+)
+
+Let's try it:
+
+    >>> val = 'askdfk heat input:  x  2.00 MM BTU/hr\r\n another line here'
+    >>> match = re.search('heat input\D*([\d\.,]*) *(M{0,2}) *([^\r]+)', val)
+
+    >>> match.groups()
+    ('2.00', 'MM', 'BTU/hr')
+
+So `group(3)` has what you want now.
+Here's a really great site for testing your regexes and visualizing what is going on.
+
+https://regex101.com
+
+What you have is pretty close. What I'd probably do to enhance it:
+
+    heat input\D*([\d\.,]*)
+
+This says:
+
+heat input followed by
+
+any non-numeric characters followed by
+
+numbers, commas, periods any number of times (and capture this group)
+
+Then you can use the "capture group" to get the specific output you want in Python:
+
+    match = re.search('heat input\D*([\d\.,]*)', val)
+
+    >>> match.group(0)
+    'heat input:    2,000.00'
+    
+    >>> match.group(1)
+    '2,000.00'
+
+You can enhance further to check for MM:
+
+    heat input\D*([\d\.,]*) *(M{0,2})
+
+This is the same as above except it will match "0 or 2 Ms" after the numbers.
+
+Then you can check for `match.group(2)` to see if MM was present:
+
+    >>> val = 'askdfk heat input:  x  2,000 BTU/hr'
+    >>> match = re.search('heat input\D*([\d\.,]*) *(M{0,2})', val)
+    >>> match.groups()
+    ('2,000', '')
+    >>> bool(match.group(2))
+    False
+
+    >>> val = 'askdfk heat input:  x  2.00 MM BTU/hr'
+    >>> match = re.search('heat input\D*([\d\.,]*) *(M{0,2})', val)
+    >>> match.groups()
+    ('2.00', 'MM')
+    >>> bool(match.group(2))
+    True
+
+
+Yeah unfortunately that's not a supported feature at the moment:
+
+> Run-time addition/mutation of base classes (e.g. registering ABCs)
+
+https://github.com/python/mypy/wiki/Unsupported-Python-Features
+
+I like it. It saves time, IDE autocompletion is improved, and we found a couple small bugs when converting a project recently. I wish it had better support for duck-typing (like for custom classes) but hopefully that will come in time.
+
+Would love to be able to do this:
+
+    def print_label(item: <anything with a 'label' attribute>):
+        print(item.label)
+He could have been lying though. Don't lose faith. 
+George Lucas said they weren't. 
+
+http://www.slashfilm.com/did-oaklands-cranes-inspire-the-at-at-walkers-the-answer-finally-revealed/
+Scala
+Racecar backwards is racecar
+Well look at you trying to have your cake and eat it too. 
+> Neither Great American Restaurants nor Boston Properties has provided clarification on how Jackson’s patrons will be able to park without using ParkRTC
+This was discussed a bit last week as well. 
+
+http://reddit.com/r/bootroom/comments/6gaff5/best_7v7_formation/
+The order of the import statements does not matter, but you need to call `install_cache()` before any of your `requests.get()` calls otherwise they will not be cached.
+> Is this all somehow automatic?
+
+Basically, yes. It does what's called monkey-patching.
+
+Essentially what it does is a more complicated version of this:
+
+    import requests
+
+    def custom_get(*args, **kwargs):
+        response = requests.get(*args, **kwargs)
+        print('got a response!', response)
+        return response
+
+    requests.get = custom_get
+
+You can replace functions in other modules with your own version. In my method I've replaced `requests.get`with a custom version that just prints the response. It should work exactly like the regular `requests.get` but prints the response.
+
+In the case of `requests-cache`, when you call `install_cache()` it's going to monkey-patch any necessary methods to cache the responses when you call `requests.get()`
+I also read the article. 
+My wife buys these potstickers and the package says serving size is 7 potstickers and there are "about 2" servings in the package. There are always 11 potstickers.
+
+Those fuckers know it too, cause one serving says 140g but the package is only 215g. 
+The return value of the print statement is being passed to foo. Basically this:
+
+    foo(
+        print("bar")
+    )
+
+Which is also why foo said it got one argument
+When I built this intersection, only God and I knew how it worked. Now only God knows. 
+How are you running it through VS Code? Do you have a run configuration or are you opening a terminal in VS Code?
+
+Sounds like you have `python.pythonPath` configured correctly (since your linter works) but however you are running it is not actually using your virtual environment.
+> It also tells you how to register commands through "entry points" defined in your project's setup.py file, if you use one for your project.
+
+This has been a big deal for us. It allows you to `pip install somepackage` then that package can make available a `flask run somecommand` without any other configurations required in your flask app. It's really awesome for distributing flask plugins that need additional commands.
+A lintour.
+Couldn't they just wire it top and bottom? It would have the same effect.
+The label printer can, but think of national companies. Taco Bell can advertise a taco costs $1 across the US.
+
+Then you could buy it somewhere with 6% sales tax. Or somewhere with 5% state sales tax and 3% city sales tax. Or somewhere with 6% sales tax but 10% sales tax on food.
+Total profit is sale price - price paid (number 3)
+
+Divide total profit by profit per sack to get number of sacks sold (number 1)
+
+Divide sale price by number of sacks to get price per sack he sold (number 2)
+"I don't know. I just got here. How am I supposed to know how your day was?"
+They work on my 6s flawlessly. Also on my 2011 MBP and 2015 MBP. Super easy to switch from device to device. 
+Use mypy and comment annotations for Python 2
+
+https://www.python.org/dev/peps/pep-0484/#suggested-syntax-for-python-2-7-and-straddling-code
+
+The vscode Python extension supports mypy with comment annotations. 
+You would need to know the formula for death rate and formula for birth rate, then you could [calculate the point of intersection](http://zonalandeducation.com/mmts/intersections/intersectionOfTwoLines1/intersectionOfTwoLines1.html).
+
+If you had 2 points for each you could assume a linear equation and calculate from that, but I doubt it would be accurate. I don't think either is actually a linear equation.
+A grilled grilled cheese cheese.
+I've never used vehicle assets. Does it replace ALL trams with the new model or do you get to pick and choose for different lines?
+>before_request that loads the user into the g variable is also attached to the main blueprint
+
+That's your problem.
+
+`app_errorhandler` registers the errorhandler on the app whole app. Meaning - when a 404 happens, it never goes to your blueprint and your before_request handler never executes.
+
+404 exceptions happen at the **app** level, not the blueprint level.
+It's probably just making requests faster than the API updates.
+
+When I run it in a `while True` loop I get this:
+
+    {"latitude": "-39.6958", "longitude": "-116.4965"}
+    {"latitude": "-39.6958", "longitude": "-116.4965"}
+    {"latitude": "-39.6958", "longitude": "-116.4965"}
+    {"latitude": "-39.6958", "longitude": "-116.4965"}
+    {"latitude": "-39.6958", "longitude": "-116.4965"}
+    {"latitude": "-39.6766", "longitude": "-116.4647"}
+    {"latitude": "-39.6766", "longitude": "-116.4647"}
+    {"latitude": "-39.6766", "longitude": "-116.4647"}
+    {"latitude": "-39.6766", "longitude": "-116.4647"}
+    ...
+
+So it's able to make a couple requests before the API has a chance to update.
+You're not doing anything wrong. That's just the way python works.
+
+If you have `blub/blub.py` you would import the module as `from blub import blub` then you can call `blub.first()`.
+
+Or you could import just the function by using `from blub.blub import first`.
+
+dunder name dunder
+
+Everyone I work with calls it that too. I've also heard just "dunder name" but that is confusing IMO cause you could also have a `__name`
+All the buildings got torn down?
+
+[Wikipedia](https://en.wikipedia.org/wiki/Centralia,_Pennsylvania) says this:
+
+>Its population has dwindled from more than 1,000 residents in 1980 to only 10 in 2010[5]—a result of the coal mine fire which has been burning beneath the borough since 1962. 
+
+>All real estate in the borough was claimed under eminent domain in 1992 and therein condemned by the Commonwealth of Pennsylvania. 
+In this case it seems like VSCode is a maybe little dumber than Brackets.
+
+VSCode does not seem to know that `e.target` is a DOM element but Brackets was able to figure it out.
+
+This is because it has no way of knowing what you passed to your `test(e)` function. You could potentially pass `test("string")`.
+
+If you use it directly on the result of `getElementById` it can easily figure out that it's an Element.
+
+https://i.imgur.com/tJ5DOEZ.png
+
+To fix this you can annotate your JavaScript to tell VSCode to improve your Intellisense. Like this:
+
+http://i.imgur.com/7ZALS03.png
+
+or this:
+
+http://i.imgur.com/89IcpIp.png
+
+or you can annotate the function parameters also:
+
+https://i.imgur.com/D1iL0zP.png
+
+The solution is to set it on fire. 
+>Purchasing new toilets for the entire school will cost $22,000. It will need to employ plumbers to fit the toilets at a cost of $9,500
+
+Total cost for toilets is $31,500
+
+> It is estimated that this will save the school $16,000 in water consumption fees.
+
+Is that 16,000 per year? Let's assume so for the sake of math.
+
+> The hand-driers will cost $13,500. The cost of employing electricians to install the hand-driers will come to $4,400
+
+Total cost is 17,900
+
+> As the school will no longer have to purchase paper towels, it will save $7,300 per year. It also estimates it will save $1,000 per year in cleaning costs, as the bathrooms will take less time to clean and bins will need to be emptied less frequently. The school will incur additional electricity costs of $1,700 per year however.
+
+Ok cool.
+
+So let's add up "one time costs" for installation.
+
+$31,500+ $17,900 = $49,400
+
+Now let's add up how much the school will save each year.
+
+$16,000 + $7,300 + $1,000 - $1,700 = $22,600
+
+Now divide the total cost by the yearly savings to get the number of years for payback.
+Depends on your players in my opinion. We've done a 3-1-2 when we had a fast midfielder who was good at controlling the pitch. 2-3-1 when we had a good striker. Dynamic 3-3 for just general play or if we were not sure what would be good against the other team yet.
+Jean-Ralphio
+I know someone who lives in one of those. They have a crazy HOA fee. Something like $600 per month.
+Condos.
+Most of the time, but not at Trader Joe's.
+Yeah it should
+💯
+Back when we were fixing y2k problems at my old job we didn't actually fix it, just assumed that anything 00 - 50 was 20XX and anything 51 - 99 was 19XX. This was dealing with car manufacture years so it worked. The 2050 problem is going to suck, but first we need to get past the 2038 problem. Thankfully I'll hopefully retire before either of those happens.
+
+Anyway OP needs to stop being lazy.
+Windows 95 came out in 1995 so Windows 10 must have come out in 2010.
+
+It's perfectly reasonable to ask for 5 years of experience. In fact you should be glad we're not requiring 7 years of experience. 
+Just replied to your other comment.
+P(A | B) is basically "the probability of A after B has been observed true". 
+
+So for independent events P(A|B) = P(A). Think of coin flips. P(first flip) = 0.5 and P(second flip) = 0.5 and P(second | first) = 0.5 cause it doesn't matter what the first flip was - second flip always has 0.5 chance.
+
+But it's different for dependent events:
+
+P(A | B) = P(A ∩ B) / P(B)
+
+For A to occur after B, B must have occurred which is P(B) and A and B must have occurred together which is P(A ∩ B)
+Which part do you need help with?
+
+Do you understand the difference between independent and dependent?
+
+Do you understand the ∩ and ⋃ and | symbols and what they mean?
+What version of Flask are you using? Is this running locally using the dev server? Or is it running behind a proper WSGI server like uwsgi or gunicorn?
+> Changing of volume is an IT function not HR.
+
+You would think so. But it has come to our attention that many people have been changing the volume on their computer without regard for others. 
+
+Until further notice, all volume requests must go through HR. This will allow us to ensure a consistent volume throughout the workplace. 
+the best gender input:
+
+    <input name="gender" type="text">
+Hmmm. Wonder if this will work on my office WiFi.
+
+The password changes every week but my Mac authenticates with a certificate so I never have to type it there.
+
+Wonder if my phone will be able to get it from my Mac.
+You need to import MathQueue if you want to use it in urls.py.
+
+Also, your urls.py looks a little funky in that regard. I've never seen anyone use this syntax before:
+
+    MathQueue.views.IndexView(generic.ListView)
+
+I'm not exactly sure what you're trying to do there. So even after importing MatheQueue it still probably won't work.
+
+Have you gone through the tutorial on djangoproject.com? It covers this very well. Specifically parts 3 and 4.
+
+https://docs.djangoproject.com/en/1.11/intro/tutorial03/
+
+https://docs.djangoproject.com/en/1.11/intro/tutorial04/
+> I already own it, so costs me nothing
+
+That's not really how money works.
+
+At least it wasn't on fire this weekend. 
+Try /r/iPhonePictures, /r/iphoneography, or /r/itookapicture.
+It's a play on words. 
+
+Volume = loudness
+
+Volume = the amount of space an object occupies (like a cube)
+Had this in Spain. Best pizza I've ever tasted. 
+Come to Perl. We'll look after you.
+
+or
+
+s![/:~]!!g @@ << ";" + "==" { object -> pack(-expand) }
+
+It's all the same in perl.
+Staying in offside position for a little while is a nice trick.
+
+I feel like many times, especially in rec leagues, people don't know the difference between offside position and offside offense.
+Professional programmer here. I use both Python and Swift on a daily basis. Both are great languages and I enjoy working in both.
+
+I also do a little bit of Kotlin work as well. I hated Java as well but Kotlin took away all the pain points, and it works with all the Java libraries my coworkers wrote. Worth checking out. It's pretty similar to Swift in many ways.
+This is how I was doing it:
+
+    $ kotlinc main.kt 
+    
+    $ kotlin MainKt
+    Hello world!
+
+    $ java -cp /path/kotlin-stdlib-jre8-1.1.2-3.jar:/path/kotlin-runtime-1.1.2-3.jar:. MainKt
+    Hello world!
+
+You sure the paths to the stdlib and runtime jars are correct? Java will not show an error telling you the path is not correct or the jar doesn't exist. It will just spit out the "NoClassDefFoundError".
+
+Your example works for me when I try.
+
+Once you figure out the classpath issue, the following should work. No class actually needed in kotlin:
+
+    fun main(args: Array<String>) {
+        println("Hello world!")
+    }
+
+It will generate a MainKt.class for you with `public final class MainKt { public static final void main(String[] args) }`
+/r/css_irl
+Honestly it doesn't matter as long as you use 4 spaces for indenting. 
+Here's Washington DC
+
+https://i.redd.it/rfnfxzpuavyy.gif
+I tried it first without "--include-errors" and got this PM from CompileBot:
+
+https://i.imgur.com/PQ6vgaE.png
++/u/CompileBot python3 --include-errors
+
+    def goto30():
+        print('home')
+        print('sweet')
+        goto30()
+
+    goto30()
+"A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools." - Douglas Adams
+I must go. My people need me. 
+> The code should have selected a new address for every single PC that was infected worldwide
+
+Apparently it was supposed to do that but it had a bug which caused it to fall back to a couple hard-coded addresses.
+
+https://twitter.com/threatintel/status/864504502682099716
+Wanna mess up your brain? Switch back and forth between Swift and ES6/Typescript where `let` is for variables.
+I don't do any Android dev. What does that mean? I thought you could already write Android stuff in Kotlin since it uses the JVM?
+I would also recommend Kotlin. One of the few languages that doesn't make me think "I wish I were writing Python."
+You can just buy one tire and have them grind down the tread to match the other 3. 
+
+I did that once back when I had a Subaru. 
+Yes. 
+You're on a role. 
+Will go through them one by one to describe:
+
+    @app.route('/task', methods=['GET'])
+
+This one is okay. You're asking to "GET all tasks" and you return all tasks.
+
+    @app.route('/task/<int:task_id>', methods=['GET'])
+
+This one also looks okay. You're asking "GET one task" and you return a single task.
+
+    @app.route('/task/', methods=['POST'])
+
+This is one he's talking about. You're asking "Create a single task" but then you return all tasks. This should only return the single task you just created.
+
+Likewise for updating a task. It should return only the task you update.
+
+There's nothing necessarily WRONG with the way you're doing it. It's just not following common REST practices.
+Interested to hear what others come up with. I wrote a workout tracking app for personal use that does exactly what you describe. I'm currently using a linear function knowing that it's perhaps not quite optimal. 
+
+Although it works for me because it encourages me to get a higher "score" every time I workout. 
+> Apple applied for a patent on this pizza box design seven years ago
+
+It's been downhill ever since. 
+I think gort is the only other reference? The rest seems to be valid stuff for crawlers.
+Created by /u/Moonchay
+
+http://reddit.com/r/reallifedoodles/comments/462n5e/professionals_at_work/
+Sounds like part of a Terry Pratchett book. 
+Stop with the puns before this thread takes a turn for the worse. 
+Should be mildlygithub
+Giving a new meaning to stdlib.
+[this alot appreciates you too!](https://i.imgur.com/eIR2eTl.png)
+The judges will allow it. 
+How far can you walk into the forest? 
+
+One step. Then you're walking through the forest. 
+Your delete route should not allow a GET request. Ideally it would only allow POST or DELETE.
+
+`form.validate_on_submit()` already checks to make sure the method is POST so you don't need to check it again.
+
+After you validate the form, you should get the data using `form.surname.data` instead of `request.form['surname']`.
+
+Nice. I think I would like the syntax a little better if it used slots for prefix and suffix instead of nesting HTML in another element.
+
+    <tab name="Prefix and suffix">
+        <span slot="prefix" class="glyphicon glyphicon-star"></span>
+        <span slot="suffix" class="badge">4</span>">
+
+        A prefix and a suffix can be added
+    </tab>
+
+http://chocotreasure.com/
+Yep. Also make sure to open the can upside down so none spills up. 
+How much space was between you and the guy in front of you? If you weren't [breathing on his neck](http://uploads.neatorama.com/images/posts/642/61/61642/1368311996-0.jpg) then obviously you had stepped out of line. 
+/r/juxtaposition is the right sub
+Looks like I can get it in Ashburn too. 
+Finally feeling better after a week of having a cold. Might try to lift something tomorrow. 
+> I'm asking how to find a prime number.
+
+Well basically you pick a number and check if it's prime.
+
+There are some more advanced algorithms to speed up this checking. 
+
+https://en.m.wikipedia.org/wiki/Sieve_of_Atkin
+
+But no, there's currently no way to really "calculate" prime numbers. 
+Being an adult is weird. Suddenly you have access to all the forbidden things you couldn't have as a kid. But then they are not that appealing anymore. 
+My job does that. You get 10% of your time for personal development. You can also take 40 hours per year for classes and 40 hours per year for community service time.
+Your comment was a nice tl;dr though. 
+A watcher checks for changes to a variable no matter where they happen. 
+
+An on:change directive is tied to a specific element in the page. 
+You need node at the moment to do SSR. In fact it doesn't even really work with other server side JavaScript engines. There's an active issue discussing that. 
+
+https://github.com/vuejs/vue/issues/5415
+
+If you want to do the server side rendering in another language you'd need to do all the template compiling and rendering in that language. Such a thing just doesn't exist. At least not yet. 
+I built something similar using [calendar-js](https://www.npmjs.com/package/calendar-js) so I didn't need to do the week calculations myself. 
+Moist von Lipwig would approve.
+> How could the variable be altered if the user is coming from one of my pages, and going to another of my pages? 
+
+The "next" variable is being injected from a URL parameter. So anyone can send a link to someone else and have it redirect wherever they want if you don't validate it.
+
+> Unless the user is doing that themself - in which case, why do I care?
+
+Let's say you run Example Bank and your site is example.com. I run malicioussite.com and I have designed my site to look exactly like yours. I create page that looks like your login page and says "authentication failed. try again" in an attempt to capture usernames and passwords.
+
+I create a link that looks like the following:
+
+http://example.com/login?next=http://malicioussite.com
+
+I send this link out in a phishing email that says "This is your bank. Please login to update your info!"
+
+The user clicks on that link, enters their credentials (correctly). It's your site, so it's legit. Then gets redirected to my fake "authentication failed" page after logging in. User enters credentials again on my fake login page and I capture them.
+
+This example might be a little far fetched for what you're developing, but it's just one example of what can and does happen with this kind of thing.
+They don't need to break into your webserver. The next variable is being injected from a URL parameter.
+
+http://example.com/login?next=http://malicioussite.com
+
+That will redirect you to malicioussite.com after login.
+
+Bottom line is you should ALWAYS validate anything that is user input.
+"embarrassment of riches" is an idiom that means an overabundance of something.
+> I don't remember exactly. 
+
+> Tells the story of exactly how it happened. 
+Actually, that's exactly how it works. 
+
+https://qz.com/807723/inside-the-secret-backroom-deals-big-brands-make-to-vie-for-control-over-grocery-stores/
+That's strange. It works the way you want it to when I do it. 
+
+The file has opened properly as HTML? What other extensions do you have installed?
+    document.getElementById("bos").textContent
+    document.getElementById("textbox").innerHTML
+
+Instead of
+
+    document.getElementById("bos").innerHTML
+/r/crappydesign also
+Using scoped CSS does not change the CSS class names. It changes the HTML elements and changes the selectors to target only those elements. See here for an example:
+
+https://vue-loader.vuejs.org/en/features/scoped-css.html
+That one is kind of a recursive backronym. 
+Default arguments!
+
+    def inclusive_range(start, stop=None, step=1):
+        return range(start, stop+1 if stop else start, step)
+The screen scrolls down pretty fast so you just need to hold your finger down for a little while. 
+
+Just tried with an album of 800 pictures and it took about 10 seconds. 
+
+But funny enough, shared albums DO have a "Select All" option. 
+When you select a photo, you can then hold and drag down to select more photos. Kind of hard to describe but it should work well. 
+Have you ever seen NFL live? The commercial breaks take place in the stadium as well. Everyone just sitting around while commercials play on TV. 
+Thanks!
+Have you checked out this extension?
+
+https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css
+
+Allows you to specify custom CSS files for skinning the UI. Doesn't require rebuilding the app itself. I've been using it for the last couple updates. 
+
+I made a post about it here showing how easy it is to update the status bar:
+
+http://reddit.com/r/vscode/comments/5jk1cx/updated_status_bar/
+Well the door isn't locked so you could just go outside. 
+I'm just right thanks. 
+Yes. It makes me angry and irritable. Others around me notice it too. I tend to be less patient with my wife. One of my reasons for quitting. 
+Ref was telling him to back up to throw where the ball actually went out. He was arguing and eventually told the ref to fuck off and threw the ball at him.
+They were a bunch of whiny idiots.
+
+It's the only time I've ever seen someone get a red card while attempting a throw in.
+You're not wrong.
+
+> To be honest, building shitty robots is surprisingly difficult. I want them to be shitty in a really specific way, so they are not just a shot in the dark. 
+
+https://www.reddit.com/r/IAmA/comments/5xbdu8/im_simone_giertz_selfproclaimed_queen_of_shitty/degqari/
+Seriously. If any of those items should be in a bag it's the meat. 
+Love the descriptions on the menu from a restaurant near me...
+
+
+http://i.imgur.com/fBgQsuF.jpg
+Depends what state you live in. Used to live in Maryland. They don't charge sales tax on groceries. Where I am now, groceries are taxed at 2.5% instead of the normal 6%. 
+    x = 34 if f(y) else None
+
+How does that look terrible?
+I'd probably do it like this:
+
+http://codepen.io/anon/pen/peGeXM
+
+Add a variable called `loading` that gets set to true when you click the button. Set it to false again when it's done loading data. Then bind `disabled` on the button so it's disabled when the quote is loading.
+Pretty sure I've seen that show before. 
+>Wasn't there already 2 ways to do it? .format() and %?
+
+Hey, don't forget good ol' string concatenation.
+Store your values as Double so you don't need to convert when you call the other library?
+Your dream can come true. This is a real park in my town:
+
+http://imgur.com/8dyUHY0.jpg
+The upvote and downvote icons. 
+3 years after the program ends. 
+r/im12andthisisfunny/
+I've had that happen too. They told me the thermostat wasn't supposed to work and to control the AC through controls on the unit under the window.
+Doesn't quite work in regular 6s
+
+http://imgur.com/uhNtjym.jpg
+Generally you would do something like this...
+
+>index.blade.php
+
+    <div id="container"></div>
+
+>app.js
+
+    import Vue from 'vue'
+    import App from './App.vue'
+
+    var vm = Vue({ 
+        render: (h) => h(App)
+    })
+
+    vm.$mount('#container')
+
+>app.vue
+
+    <template>
+        <div>
+            <navbar></navbar>
+        </div>
+    </template>
+
+    <script>
+        import Navbar from './Components/Nav.vue';
+        
+        export default {
+            components: {
+                navbar: Navbar
+            }
+        }
+    </script>
+
+That puts all the template logic in app.vue so it can be pre-compiled to a render function.
+
+And you can put whatever else you want in app.vue as well.
+
+Hope that helps.
+> You mean { } is for something besides initializing a dictionary?
+
+Yeah. Sets of course!
+
+    a = {1, 2, 3, 3, 4}
+This is why!
+
+https://www.reddit.com/r/reddit.com/comments/fd667/while_riding_the_bus_yesterday_an_inside_joke_was/
+>     <navbar></navbar>
+
+So here you have a component in your HTML that needs to be compiled in the browser.
+
+The runtime version of vue.js cannot do this since it does not include the template renderer. You have 2 options (as described in the error message you are receiving:
+
+1. pre-compile the templates into render functions (or use single-file components for everything).
+
+2. use the compiler-included build.
+
+This section of the documetation shows you how to switch to the compiler-included build (scroll down a little for browserfy):
+
+https://vuejs.org/v2/guide/installation.html#Runtime-Compiler-vs-Runtime-only
+
+You should use the runtime build if possible. It's smaller and faster (since it doesn't need to compile templates).
+This one:
+
+https://www.reddit.com/r/Fitness/wiki/index
+    /static/img/home-bg.jpg
+
+Start with a slash to make it an absolute path. That should do it, provided all your static files are under /static
+No. You only need to use vue-loader if you want to use single file components (.vue files). 
+Of course. All the data is loaded through AJAX calls. 
+I just deployed a fairly complex SPA using Flask as a REST API and Vue.js for the front-end.
+
+Don't have anything specific to share. It's a nice combo and it's been a joy to work with both, really.
+
+If you have any questions feel free to ask and I'll try to help you out.
+> files.save(app.config['UPLOAD_FOLDER'])
+
+You're trying to save the file as the folder name. You probably want to do something like this:
+
+    files.save(os.path.join(app.config['UPLOAD_FOLDER'], files.filename))
+My 3 year old has been saying all sorts of crazy stuff lately, especially out in public.
+
+The other day I was trying to get her in the car after the mall and she threw a fit.
+
+"This is not my car! Put me down! I want mommy!"
+
+I swear she's trying to get me arrested.
+startups
+Sorry, alias does not work with "sudo !!"
+
+At least not in bash. Dunno about other shells. 
+https://tools.wmflabs.org/topviews/?project=en.wikipedia.org&platform=all-access&date=last-month
+They aren't recommending you don't use vue-resource. 
+
+It's just no longer an official recommendation  since there are other options. 
+
+What your link actually says :
+
+> However, over time we have come to the conclusion that an “official ajax library” is not really necessary
+
+So they are just not officially endorsing any Ajax library anymore. 
+
+Curious why you think it's shit?
+
+Yes, I know. 
+> Has a small, but awesome cummunity
+
+I'm not sure I want to get anywhere near that project.
+It runs in a web browser. It doesn't have drivers.
+I haven't tried it, but I don't see why not.
+
+App Engine can be configured to serve static files:
+
+https://cloud.google.com/appengine/docs/standard/python/getting-started/serving-static-files
+First of all, how did this elephant even get in the room? The door is not very big. 
+That's what it does. 
+4x6 = 24 square feet
+
+8x8 = 64 square feet
+
+64 / 24 = 2.66666
+
+So you need 3 mats. But you will need to cut one up. 
+Nice picture but most people post screenshots of the game Cities Skylines in this sub. :)
+The app developer needs to program the functionality into the app. 
+
+For YouTube specifically, it has the functionality but it's limited to YouTube Red subscribers. 
+Alternatively, milk and a straw. 
+M'python
+This is a drug. Free workplace!
+The cart doors are to the right, with the black bumpers on both sides. 
+It's an entrance door and he's looking at it from inside the store.
+
+If it were an exit door it would say "exit only"
+You would need to call arrayChecker using "this.arrayChecker(item)"
+
+And since it returns a Boolean, you don't need the "== true".   You can just say "if (this.arrayChecker(item))"
+That's how I do all my troubleshooting. I burn my code to CD and listen to it on the way to/from work. Saves a lot of time.
+Easiest one to implement:
+
+"You must be 18 years old to use this website. If that is not your age, either wait a while or go back in time."
+They won't get dirty in the first few months cause you won't have time to leave the house. 
+Wifi has 4 letters. Air has 3 letters. That means wifi is heavier than air and will fall down. 
+2011 17" here. Had the logic board and graphics replaced 3 times. All covered by Apple. Last time was 2 years ago and it seems stable since. Case, screen, and keyboard replaced one of those times "because they looked a little worn."
+
+Currently has a 256gb SSD and 1tb SSD where the optical drive was. 
+
+I love this laptop. 
+I think you need to append a slash to your post request. You POST /lessons/profile but Django detects there is no trailing slash so it redirects to GET /lesson/profile/
+
+See here for more details under APPEND_SLASH:
+
+https://docs.djangoproject.com/en/1.10/ref/settings/
+
+Specifically this part:
+
+> Note that the redirect may cause any data submitted in a POST request to be lost.
+NBA Jam style. 
+I have the Gloros and love them. Took a couple hours to break in. They were quite stiff but now they are really nice. Light and comfortable. I got the same size as my regular shoes and they fit fine. 
+/r/lakefrontproperty
+Alternatively, just build the string and call the url_for function in your view:
+
+    return '<a href="{url}">ajax link</a>'.format(url=url_for('next_page'))
+/r/wellworn is the place for you
+
+
+Yep!  Work on it until you solve the fun/interesting part. Don't feel like working out the smaller details. Move on to something else fun. 
+> We have modified this tool to remove capacity more slowly and added safeguards to prevent capacity from being removed when it will take any subsystem below its minimum required capacity level.
+
+They are addressing that part of it, apparently. 
+Have you checked out modules in vuex?
+
+https://vuex.vuejs.org/en/modules.html
+Eh. I use groupon maybe once a month or so. 
+Fake weather! Sad. 
+me too thanks
+What happened?
+I suspect "this" is not referring to your component in this case since it's nested inside 2 functions. 
+
+Switch to arrow functions or try moving vm = this to just inside mounted()
+Yes! I love the random times/amounts/units. I got this one the other day:
+
+"Can you get me some water? I need seven... twenty fourteen ice cubes."
+Yep, that's one way to fix it.
+How so?
+I don't know too many latinos, but there is this Juan guy. 
+Repeated this one to my wife. 
+
+"Did I really decide to have children with you?"
+
+A+
+https://github.com/soynatan/django-easy-audit/blob/master/easyaudit/middleware/easyaudit.py
+
+I don't think that storing the request on the EasyAuditMiddleware class is a good idea.
+
+Middleware classes are shared across requests, so anything you store on the class is not going to be thread safe.
+What's the error message that Python shows you in the console/log? That should point you in the right direction. 
+Same here.
+Seriously. If I had a dollar for every time I told a junior dev "can you please make those two things consistent" I'd retire soon.
+Delete your comment. Don't give them ideas. 
+Well there's the problem. You're hogging all the handles for your fake cabinets. Plz send some over the ocean. 
+PAX AU TELEMANUS!
+/r/whatisthisthing is pretty good 
+Same. Married for 4 years now. 
+No surprise with Sharepoint. Can't imagine anyone wanting to deal with that in their spare time.
+You think you can just korma round here and make jokes like that?
+And naming them something that has nothing to do with what they actually are.
+
+Code review... this shall not pass!
+Sorry, not sure what you mean by that.
+This park: http://i.imgur.com/bAc4cix.png
+Odds that person 1 rolls the highest are 1/20k. Odds that person 2 rolls the highest rare 1/10k. Odds that person 3 rolls the highest are 1/30k. 
+
+Odds that all 3 roll the highest are 1/20k * 1/10k * 1/30k
+Yep! We have that in all our bedrooms. Remote control for the fan and light. 
+Dimmer switches in a couple rooms. About $20 each and super easy. 
+I'm sorry I don't understand. Can you rephrase that in em or px?
+Also, none of the books are exactly the same height. 
+Moist
+You replacing all the liquid you used to drink?
+
+If you were drinking 20 ounces of coffee and just quit, it could be you feel hungry because you're no longer drinking 20 ounces of something. Need to replace it with something else like water or herbal tea if you want something hot. 
+
+Might not be the case for you but it was a big factor for me. 
+"data are" or "data is"
+My Fibonacci Toaster is pretty neat. 
+You'd probably love to learn about fuzzy logic rice cookers. 
+Yinzer?
+Yeah where I grew up you shoveled out your parking spot on the street then marked it with lawn chairs while your car was out.
+
+Moving someone's lawn chairs was asking for a fight. 
+I'm guessing he's referencing this:
+
+https://www.reddit.com/r/gifs/comments/5o3wv6/fbi_in_action/
+Well I'm proficient in bus. admin or related, IMB MQ, sys. engg. (any field), and build data warehouses.
+"We have Jira installed and we create tickets."
+That's what you get for building a bullseye intersection.
+This also works in Python:
+
+    if True: {
+        print('Where is your god now?')
+    }
+Probably better for /r/softwaregore
+It's kind of like an animated jpeg (contrary to the photograph).
+Me too thanks. 
+The store in the mall is a marketing location, but Tesla does have a licensed dealership right around the corner.
+
+http://www.mvdb.virginia.gov/dealers/dealer.aspx?val=46978
+Try /r/iPhonePictures, /r/iphoneography, or /r/itookapicture.
+Try /r/iPhonePictures, /r/iphoneography, or /r/itookapicture.
+Another negative vote for Sprint. LTE coverage is really terrible. 
+I give this joke a 9
+Yep. First 2 weeks are brutal. I've been there a handful of times. It gets better!
+Fair point. I did pick that one cause it's popular. But all of the ines I have ever been to have charged for both individuals as well as vehicles. 
+Hah. 
+
+When I was growing up my dad had a Toyota truck with a license plate that said "DADSTOY"
+Not true for every park. Yellowstone for example is $30 per car or $15 per person if you arrive by hiking. So 3 people in a car is actually cheaper than hiking in. 
+There are 52 weeks in a year  so he pays 26 times per year. 
+
+420 * 26 = 10920 per year
+
+Divide by 12 to get cost per month
+
+10920 / 12 = 910
+I'd use a binary search. 
+
+https://en.m.wikipedia.org/wiki/Binary_search_algorithm
+
+Guess half way (500) then keep guessing half way until you get it right. 
+$420 every 2 weeks is $910 per month. 
+Yeah in this case I do agree but i thought you were speaking generally. 
+> expecting to have new pizzas made as you wanted originally is a bit much
+
+Seriously?
+I've had a bunch...
+
+Sony Ericsson something or other (around 2002)
+
+Nokia 6210
+
+Nokia 3310
+
+Nokia 8210
+
+Motorola Razr
+
+Palm Treo 650
+
+Motorola Q
+
+HTC Touch
+
+Blackberry 8830 
+
+Blackberry Bold
+
+iPhone 3GS
+
+iPhone 4s
+
+iPhone 6
+
+iPhone 6s
+
+
+https://www.youtube.com/watch?v=QEzhxP-pdos
+Ask a closed-ended question, get a closed-ended answer.
+/r/lakefrontproperty
+Fuck. I'm pretty sure I've said all those things over the past 3 days.
+It's for the karma!
+If you're using [css-loader,](https://github.com/webpack/css-loader) and [extract-text-webpack-plugin](https://github.com/webpack/extract-text-webpack-plugin) then yes. You can just `import './_reset.scss'` provided you have it configured correctly in webpack.
+
+I'm using it and my config looks like this.
+
+    var ExtractTextPlugin = require("extract-text-webpack-plugin");
+
+    module.exports = {
+        module: {
+            loaders: [
+                {
+                    test: /\.scss$/,
+                    loader: ExtractTextPlugin.extract({loader: ['css', 'sass']})
+                }
+            ]
+        },
+        plugins: [
+            new ExtractTextPlugin('css/[name].css')
+        ]
+    }
+
+Whaaaat. I was addicted to the first one. Didn't know there was another.
+
+See you guys in a few weeks.
+RemindMe! 1 day "insult bureX because his tech stack is now outdated"
+Just put them in the Glove Bag in the back of the hall closet and forget about them until next winter.
+> you can have the rest of the bike for free!
+
+Says who?
+They don't give you headphones or speakers then?
+JSON.parse is expecting a string of JSON data. You're passing it a path to a JSON file.
+
+2 ways I can think of to solve this:
+
+Load the JSON data server side, then pass it along as a hard-coded string in your Jinja template.
+
+Issue a request from JavaScript to the JSON file, then parse the response.
+Rule 1
+
+>Image posts with iPhone photography will be removed. Try /r/iPhonePictures, /r/iphoneography, or /r/itookapicture.
+Seriously. Why is rule 1 never enforced?
+
+> Image posts with iPhone photography will be removed. Try /r/iPhonePictures, /r/iphoneography, or /r/itookapicture.
+Exactly!
+Just put the silver nickel in your pocket, then throw out one of the regular nickels to make up for it. 
+Nothing you are proposing sounds impossible. You will need to figure out how to rank users based on certain criteria. But there are many different ways to do that. 
+
+One major thing to note is that Reddit does have an API. So there would be no need to scrape the site for a users comments. Just use the API. 
+
+https://www.reddit.com/dev/api/
+It was a joke. I'm sorry you didn't find it funny.
+
+This is the Woolworth building in NYC. Obviously he climbed up there.
+
+Here's a better picture to show how he might have climbed: 
+
+http://i.imgur.com/xjRvQhF.jpg
+Photoshop. 
+I usually play with minimal mods. My current list:
+
+- Network Extensions
+- Fine Road Tool
+- Fine Road Anarchy
+- Road Color Changer
+- Multi-Track Station Enabler
+- Automatic Bulldoze
+
+Makes the game much more fun but doesn't drastically alter the play style in my opinion.
+He used one of his meal tickets, but the madlad didn't even get any food! He only got chocolate milk.
+If half the teams win all their games and the other half loses all their games, team 16 would have 0 points and make it to the playoffs.
+
+I doubt that could happen though, since I assume two teams from the "lose all" half would need to play each other at some point.
+
+So depending on the league structure, somewhere just above 0 would be the answer, depending on how many times teams play each other. If a team from the "lose all" half can get away with only winning 3 games then they could get to the playoffs with only 6 points.
+If you are new to Django you should really go through the tutorial at least once. 
+
+It will help you answer this question along with other questions you didn't know you had. 
+
+Specifically, part 4 introduces how to handle forms and form input. 
+
+https://docs.djangoproject.com/en/1.10/intro/tutorial01/
+/u/opfeels /u/boxidea
+Could you just make the list a global variable?
+
+http://pastebin.com/eWHH0ahP
+
+Or are you asking about something else?
+/u/opfeels /u/boxidea 
+Good point. Thanks for working it out further. 
+Work it out. Let's say you have $100. 
+
+
+Something costs $100 and is now 20% cheaper so you can get it for $80. You have $20 left. 
+
+or
+
+Your money is worth 20% more so you have $120. So you buy something that costs $100. You have $20 left. 
+According to Apple's website the 32gb is $649 in the US and £599 in UK.
+
+Assuming 7% sales tax (probably about average in the US) it's around $695
+
+Converting GBP to USD is $740 at the time of this comment. So it's cheaper in the US still, but not a whole lot.
+Not sure if there's a way to solve it using just math, but I came up with 45 possible combinations using Python:
+
+https://repl.it/EyPH/2
+
+Click "Run" to get a list of all of them.
+
+This is assuming it could contain 100s, 50s, 20s, 10s, and 1s.
+It's from Key and Peele
+
+http://www.cc.com/video-clips/acaxis/key-and-peele-the-heist
+>1/2 * 1/4 = 1/6
+
+Not quite sure which part you're asking about but right off the bat 1/2 * 1/4 does not equal 1/6
+You can write the current votes like this:
+
+42 * 4.57 = 191.94 total points
+
+The number of votes we need is 42 + x and the desired score is 4.66 so you can substitute those on the left side of the equation. This also means the total points will go up by x * 5 so add that to the right side of the equation:
+
+(42 + x) * 4.66 = 191.94 + (x * 5)
+
+Solve for x and that's how many more votes you need.
+That game is 50/50.
+
+The monty hall problem isn't about knowing the previous steps. It's about being able to choose 2 doors or 1 door. It's just phrased in terms of multiple, intentionally confusing steps.
+We use Peewee with Flask and it's great.
+
+It's simpler than SQLAlchemy but so far we've not run into anything we haven't been able to accomplish.
+Think about what you want the offensive player to do, and try to position yourself to force him to do only that.
+
+Simple example... if he is coming down the wing and you want to keep him outside and prevent him from cutting inside or crossing, you need to position yourself so he cannot move his body inside and does not have an angle to pass.
+
+Obviously the closer you get, the harder it will be for him to cut or pass. If you just run in as fast as you can, he can predict your tackle and make a move around you. If you give him too much space, he can make any move he wants and you will be caught off guard 100% of the time.
+
+Position your body such that his only move is to continue down the line, then when he moves down the line you have predicted that. You're on balance for that and can make a tackle or force him to make a mistake.
+
+This is where it just takes practice practice practice. You have to know when to commit to the tackle and when to give him a little space to make a move. Ultimately what you want is for the offender to make a move that is really your idea! Give him a little space, cut down the angles, and make him want to take the only move you are giving him.
+
+Don't attack him square. Come in with one foot in front of the other, slightly "bladed". This will keep you on balance no matter which way he chooses to go.
+
+Here's a video discussing some of this: https://www.youtube.com/watch?v=GqJ9u2-hPN4
+
+His footwork is not great though. He's opening himself up to nutmegs. I'd personally come in more angled.
+
+Defense is as much a psychological game as it is a footwork game. Good luck. Have fun!
+https://youtu.be/1ByQhAM5c1I?t=956
+Perhaps I should've added a sarcasm tag. 
+I don't see what the problem is. The worker would only need to sell 17.64705882352941 egg mcmuffins per hour to cover his wages. That seems reasonable. 
+Maybe something like this...
+
+https://jsfiddle.net/7a2r8jd7/
+Nice! I just recently decided to start a Vanilla city after getting frustrated with the slowness of my MBP with a bunch of mods.
+
+Watching through your vanilla series now. Good stuff!
+
+Here's the link for anyone else who might want to watch: 
+
+https://www.youtube.com/playlist?list=PLB2MlqwGG_Fn15NNwuAB6o4LhhVPa9new
+Serious.
+
+> For cardinal numbers, consult individual entries in the Associated Press Stylebook. If no usage is specified, spell out numbers below 10 and use figures for numbers 10 and above. Example: The man had five children and 11 grandchildren.
+
+https://owl.english.purdue.edu/owl/resource/735/02/
+You probably need to watch for a route change since the same component is being reused (just with different URL parameters).
+
+    watch: {
+        '$route': 'getPage'
+    }
+
+See details here under "Reacting to Params Changes"
+
+
+
+https://router.vuejs.org/en/essentials/dynamic-matching.html
+Add to your settings:
+
+    "window.fullScreenZenMode": false
+That's more my style.
+
+http://i.imgur.com/WgdLAkQ.jpg
+Sierra works great on my 2011 MBP. You might have something else going on that's causing problems.
+Amazon does dynamic pricing. Since more people are looking at size 8.5 (maybe thanks to your link), it probably drove up the price.
+I also watched the gif.
+Those are beautiful. I think my wife would kill me if I got another pair of soccer shoes though...
+Yeah, it's possible.
+
+Open a Python file then go to Preferences > Settings - Syntax Specific
+
+It should open "Python.sublime-settings"
+
+Then you can add settings that will apply only to Python files, such as color_scheme:
+
+    "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme"
+
+Repeat for any other file types you want to be different.
+This drives me crazy! At first I used to just back away but now that my daughter can talk I usually say something to the person. We are really trying to reinforce the fact that she has control over her body.
+
+I usually end up spitting out something like this:
+
+"Please don't touch my child without asking. She is old enough to talk, and she didn't give you permission to touch her. Just because she's she's smaller than you doesn't mean you get to touch her without permission."
+((6 / 1) + 5 + 3) * 4
+I play lunchtime pickup in McLean. Lemme know if you want more details 
+> good electrician
+
+Or a good switch plate installer. 
+I found this one on slickdeals.net
+The odds are good, but the goods are odd. 
+Nah. Google is terrible at naming things. 
+
+An electronic store where you can buy software? Let's call it "Play"
+
+We created a programming language. Let's call it "Go". Oh that's impossible to google for help? Just use "golang" instead. 
+
+Let's call a JavaScript compiler "Closure" because that name already has meaning in programming languages. And remember, we like naming things so they are hard to google. Spend more time on the search results so we can show you more ads!
+Strange. This seems to work better for me in VS Code compared to Sublime.
+
+In Sublime, it always selects partial word regardless of whether "find whole word" is checked.
+
+In VS Code, "find whole word" toggles this behavior.
+"With a capital A" is referring to the concept of Web Accessibility. Specifically designing to allow users with disabilities to interact with your site more easily.
+
+I guess he used the term "with a capital A" because the word accessibility could be ambiguous otherwise. For example: How accessible is your project for newcomers to start developing? How accessible is it to download?
+
+I've always just used "Web Accessibility" (or 508 compliance depending on who you're talking to).
+I am happy now.
+First rule of this sub...
+
+Image posts with iPhone photography will be removed. Try /r/iPhonePictures, /r/iphoneography, or /r/itookapicture.
+Hey man, give tomorrow a chance.
+Why does a game make you enter a captcha?
+[water wigglies!](https://images-na.ssl-images-amazon.com/images/I/41JlJkqv02L.jpg) they still sell those things.
+1. draw some rectangles
+2. animate the rest of the fucking macbook
+You're part of the way there.
+
+> 1st month = 2 people 2nd month = 4 people 3rd month = 4 people
+
+So you have 10 "people months" or "units" that need to be paid (4 + 4 + 2).
+
+Divide the total by 10 to get price per "unit".
+
+If you were there for 3 months, you pay 3 units;  for 2 months, you pay 2 units; for 1 month you pay 1 unit.
+Hey Siri
+
+...
+
+Hey Siri
+
+...
+
+Hey Siri, how long unt **beep beep**
+
+"I'm sorry. I didn't catch that."
+True! Can't be mad that someone is trying to learn.
+>in which continent
+
+People are really bad at geography. 
+>aren't even considered for a intermediate position
+
+>unlikely you'll get placed in a high position
+
+>not like you can just pick up an entire stack overnight and be a expert.
+
+He's going for an internship. There's no expectation that he's going to pick up the stack overnight or be an expert. He'll be fine.
+They help you do it all by yourself.
+> flask.g is great for things that need to exist across sessions
+
+flask.g does not persist across sessions or requests.
+How does this work?
+
+`g` is a thread local and is per-request. Each user would have their own instance. So your admin view would only ever show one user.
+
+Additionally this line will fail:
+
+> g.current_sessions = ExpiringDict(max_age_seconds=60)
+
+Since you're operating outside of an app context.
+Hours of entertainment for the whole family!
+me too
+You dropped this: \\
+> 160x4
+
+Add grandparents. Not multiply. Then you get 014 for the answer.
+Let's not get carried away.
+Which step in your friend's break down do you not understand?
+
+No, I'm boxidea.
+Wrap it with a if block something like this:
+
+    {% if forloop.counter|divisibleby:2 %}
+        </div><div class="row">
+    {% endif %}
+Are you having a stroke?
+When you are done lifting now you can channel your inner Tobias Funke.
+
+"You'll never guess how much I blue at the gym today."
+You can't have your kek and meme it too.
+I me mine!
+Oh shit. You should probably go file a critical bug report right now.
+The Human class accepts anything that implements Alcohol so it shouldn't matter too much.
+Took my 3 year old shopping this weekend. We walked into a clothing store...
+
+"Oops. Sorry daddy. I messed up all the clothes."
+
+"Oh, you don't need to apologize. You didn't do anything."
+
+"But I will."
+welcome. your password is welcome. now change it.
+This should apply to biased coins as well... you'd just need to substitute 0.5 probability with p or q.
+
+https://en.wikipedia.org/wiki/Checking_whether_a_coin_is_fair
+Makes sense. No worries. I don't plan to use it in a crib or with an infant. 
+Solved! Thanks!
+No brand name or marking on it. The main dowel is about 12" long. Looks like maybe it's supposed to hang. 
+I combine the high kick with juggles. 10 juggles, then the 10th one is a high kick that I practice controlling 3 different ways: keeping it close, moving to space, or passing. It's a pretty fun drill. 
+I went to WalMart and got a pair of youth shin guards for $5. No strap, and they are not obnoxiously huge. They have been working great for a couple years now. 
+
+Similar to these
+
+https://www.walmart.com/ip/Wilson-Perfect-Club-Shinguard/11968969
+That's amazing! I usually can't finish one without losing four.
+Is there an easy way to understand peer dependencies in NPM? If vue depends on vue-template-compiler being installed, why isn't it a regular dependency? What's the difference?
+Create a data variable called `name` for the input value. Bind that to the input using `v-model`. Then you can use `this.name` in your methods.
+
+    Vue.component("name-sub", {
+      template: 
+      `<div class="name-sub">
+        <label>Name: <input v-model="name" /></label>
+        <button v-on:click="onNameSub">Submit</button>
+       </div>`,
+      data: function() {
+        return {name: ''}
+      },
+      methods: {
+        onNameSub: function() {      
+          alert(this.name);
+        }
+      }
+    });
+
+You should check out the Vue guides if you haven't already. This is covered on the introduction page under Handling User Input.
+
+https://vuejs.org/v2/guide/index.html#Handling-User-Input
+It will not have any collisions. The keys are not random or hashes. 
+
+> The keys are Base62 encoded strings based on the URL's ID value (auto-incremental primary key) in the database.
+Q: What happened after an explosion at a French cheese factory 
+
+A: All that was left was de brie.
+This auto body shop near me has a neat site:
+
+http://www.dandvautobody.com
+Yes. 
+I was just trying to eat my lunch today at work but some jerk stole it and ran to the other side of the building #hotdogdownahallway
+Except the lightning cables. They came out in 2012 so that's 3 per year. 
+Cool. But how is this related to Flask?
+> You're actually using more code in this example.
+
+Not saying you're wrong... but how so?
+I get your point, but it can easily be done with basically the same amount of code:
+
+https://github.com/timster/Lethalin/commit/870a3e0e26880166a9d63da17b249cdb5b7468aa
+>  <a class="button button-wide">.button .button-wide</a>
+
+Why is the duplication needed? button-wide is obviously a button.
+
+Bootstrap does the same thing and it drives me crazy.
+30,000 / 0.04
+No. Just use regular foreign keys. 
+
+Use validation to ensure either an artist or group is selected (but not both) if you want to enforce that.
+Seriously. Doesn't water weigh like half a pound per 8 ounces. 2 pounds is around 4 cups of water. I drink that much coffee before 10 am. 
+I've seen software dev jobs that would normally pay 100k go to someone with an h1b for about 50k. 
+Don't know about construction, but in IT, definitely tens of thousands per worker. Maybe up to 50k per worker annually, depending on the position and city. 
+I don't get it. 
+https://www.google.com/search?q=loan+payment+formula
+
+first result has the formula you need:
+
+http://www.financeformulas.net/Loan_Payment_Formula.html
+Get the card out, hand it to the cashier, put wallet away. Cashier swipes, then hands the card back. Stare at cashier with a "why are you handing this card to me?" expression.
+My wife told my daughter on Tuesday they were going to vote.
+
+"And then I will drive the vote!"
+
+Pretty sure my daughter thought they were going boating.
+This might be tricky. There's no straightforward way to do it.
+
+The index name is created by the [BaseDatabaseSchemaEditor._create_index_name](https://github.com/django/django/blob/master/django/db/backends/base/schema.py#L830) method.
+
+A subclass of this class is then set on the connection class for your database engine. Here's the [Postgres](https://github.com/django/django/blob/master/django/db/backends/postgresql/base.py#L139) line for example.
+
+You could potentially create a custom database backend that inherits from the base backend and overwrite only the SchemaEditorClass with a custom class that does what you want. Might work. Might not. I haven't tried it.
+
+Seems like a lot of work though for no discernible advantage IMO.
+Saw 3 jets fly right over McLean. I was at Lewinsville Park at the time.
+Well on the surface it doesn't seem like there would be a difference.
+
+In a 1, 2, 3 scheme, 1.5 would be the halfway point between low and medium (1 and 2). In a 1, 3, 5 scheme, 2 would be the halfway point. There's no difference. Both are unit-less numbers that only have context within the ranking of the specific scheme.
+
+It really depends on the specific implementation, though. There could possibly be a difference depending on exactly what you're doing, but given normal operations (average, mean, mode, etc.) there would be no difference.
+I accept pull requests if you want to try and fix it.
+I do! Except it only goes forward at a rate of 24 hours per day. 
+Two sided here too in Loudoun county. Except ours had a cover folder that you could use while carrying your ballot, and it would feed into the machine right from the folder. Completely hidden.
+
+Wonder if whoever was running your place forgot the cover folders?
+Millennial also checking in. My wife and I both voted for Trump. I don't agree with everything he says, but he checks all the right boxes for issues I really care about. I wouldn't admit that I voted for Trump to most of the people I know. Ironically, many of them seem to be filled with hatred and racism. 
+/r/metalads
+The newer Gloros (16.1) do not have a tongue though.
+Thanks. I didn't see that. 
+Games are usually 90 minutes long. In this gif they are at 90+ minutes, which means they are in [stoppage time](http://football.isport.com/football-guides/understanding-stoppage-time-in-soccer) which usually only lasts for a couple minutes.
+
+Meaning... this is likely the last goal scoring opportunity of the game and they are tied 0-0. And he misses. Spectacularly. What are the odds!?
+Assuming you're using D3 to display charts/graphs? What other graphing libraries did you consider and what made you choose D3?

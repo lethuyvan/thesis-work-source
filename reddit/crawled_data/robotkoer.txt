@@ -1,0 +1,2385 @@
+A browser that displayed all pages in VR. [Like this one ](https://play.google.com/store/apps/details?id=in.fulldive.browserlauncher)
+[This looks like it. ](repo.xposed.info/module/com.app360.app360)
+Getting every app to work in your view. It would be way easier to just make a VR browser, because the content inside it is standardized.
+[There is already a discussion here. ](https://www.reddit.com/r/androidapps/comments/8ex0ot/_/)
+[RCS?](https://en.m.wikipedia.org/wiki/Rich_Communication_Services)
+
+Edit: proprietary, oops.
+You still can't see the URL at all in that window width 😀 Do consider reducing toolbar buttons as suggested here to at least see the domain name.
+* [Lynket Browser](https://play.google.com/store/apps/details?id=arun.com.chromer)
+* [Merge Tabs & Apps](https://play.google.com/store/apps/details?id=com.urbandroid.tapps)
+* [PrivatBrowse](https://play.google.com/store/apps/details?id=com.jonathan.privatbrowse.newest)
+* [Jelly browser](https://labs.xda-developers.com/store/app/org.lineageos.jelly)
+If you think you've changed an about:config flag, go to about:support for a nice list of user-changed flags.
+[Peregrine Browser ](https://play.google.com/store/apps/details?id=com.marc.browse)
+[Any Chromium or Firefox-based browser. ](https://www.howtogeek.com/196087/how-to-add-websites-to-the-home-screen-on-any-smartphone-or-tablet/)
+>Also, my hunt for an option in `about:config` also came up empty so any other suggestions would be great!
+
+[`security.OCSP.enabled` = 0 ](https://superuser.com/questions/751720/how-do-you-hide-the-extended-validation-text-in-firefox)
+
+Whether it is a good idea or not depends on the user and use case though.
+And will lose it.
+You should [post them here](https://github.com/wireapp/wire/issues).
+On the cards, use a chevron at least to indicate there is something underneath. 
+
+On the share menu, why share the APK? Is it not in Play Store?
+That bottom bar is a straight iOS copy though. That menu button is not in MD guidelines yet, luckily.
+It would make sense to migrate some services to it at least. Right now I think we only have [com.google](https://com.google) \(previous april fools, now just homepage\) and [blog.google](https://blog.google).
+I wonder what motivated them to do this, since they haven't done that before and it isn't Android One.
+Yes, it is indeed nice. But I have other reasons to use Firefox, such as FOSS and privacy.
+>and that there’s something unnerving about a toddler developing dazzling mastery of an operating system before control of its bladder and bowels.
+
+But then one day that kid can make an IoT toilet running Linux!
+"Unneeded" is an irrelevant claim, every permission is needed for something. "Unwanted" is better, but still vague as it depends on the person. 
+
+If you are wondering about old apps that don't ask for specific permissions and give them all at once, [this app can alert you](https://play.google.com/store/apps/details?id=com.bh.android.apppermissionchecker) and give a quick way of changing them. 
+
+If you just want to change every hidden permission an app has, use [AppOpsX](https://play.google.com/store/apps/details?id=com.zzzmode.appopsx) (FOSS) or [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) (more features).
+I'm indifferent about the slabs, but the resource pack overall looks promising.
+I think of it as improvement in every area except the address bar - it is too rounded.
+Back when I was using Chrome, I was looking for forks just to fix the ugly space-wasting tabs 😀
+Create a shortcut for Settings > Notification log. Then search for the notification title and look up what app actually showed this notification. 
+
+If it was SystemUI, it is probably your manufacturer OS skin or ROM.
+~~Messaging on Android is broken~~
+
+~~SMS is broken~~
+
+Reliance on Facebook services is broken
+DigiLux and other apps that provide proper (swipe) fingerprint scanner gestures.
+You don't even have to download it fully. Just get to the point where it starts downloading and cancel.
+Any browser with the link sent to homepage (progressive web app).
+>Is there anything else you guys want?
+
+Same thing for mobile? 😁
+VPN just hides your IP. Trackers can do a lot more using cookie data.
+I'd suggest rather using stricter/more filters and options in uBlock Origin, Privacy Badger is good in theory but requires time and initial exposure to trackers in order to work at all.
+All CAF-based browsers use outdated Chromium since CAF itself hasn't been updated for a while. Please don't use an outdated browser!
+/u/afraidofmusic [Made this with the help of a friend](https://gist.github.com/Madis0/e62acaa14b18913467182f435e094d95).
+
+Bugs:
+
+* https won't show when editing, therefore browser thinks it was http and won't copy protocol
+* parameters aren't grayed out
+
+edit: wrong link
+[Peregrine](https://play.google.com/store/apps/details?id=com.marc.browse) is also a nice one. [Source](https://github.com/Marc-Inc/Peregrine)
+Would've wanted some real screenshots instead of just concept art.
+>it has soundcloud integration too 
+
+TIL. That implementation is very clever.
+Check out [Tusk](https://addons.mozilla.org/en-US/firefox/addon/keepass-tusk/). It is standalone in terms of using KeePass format, but it requires the password file to be fetched from a cloud storage provider, which you may not like.
+Now what about unifying the UI/UX of keyword search engines and the one-click search engines? Chrome does this well by showing them in instantly editable rows.
+That approach seems more reasonable than Chrome's. Either way they should be categorized separately and clearable with other kinds of history.
+It should be file:/// followed by the path.
+What about creating a bookmark that loads in a sidebar? That feature has been available since Firefox 3 I believe.
+Perhaps you could make it create a zip that can be used and uploaded as an extension?
+That indeed complicates things further. What if you select all (Ctrl+A) and copy (Ctrl+C)?
+Usually right click on the page and select "Save page as...".
+▔📲
+[Perhaps this? ](https://addons.mozilla.org/en-US/firefox/addon/dragonweb/)
+Signal. It's "extra shit" is the only one private (compared to Facebook/Discord/similar), so it is worth using and sharing.
+Intercept PM connections in order to decrypt/encrypt messages during transit?
+>Not even if I backup/clone the entire OS?
+
+The OS has nothing to do with it. Better try scrolling to the start of the conversation and saving the page as a HTML file.
+It should also force the white icons on the notification bar on all apps. Otherwise in apps like Firefox and FastHub you don't see the notification bar at all.
+Is it so small because it doesn't use native design elements? 😁 
+
+I don't really need this because I have a real multi-window mode, but since it is that small I thought I'd try it out and give feedback regardless.
+
+* Place the night mode in the menu, since it affects two tabs (no need for a duplicate button). 
+* Use simple back/forward buttons. Holding down mechanism complicates things for no reason. 
+* "Translate page" always loads the translated URL on the top, even if user wanted to translate the bottom page. 
+* Please support [tall screens](https://android-developers.googleblog.com/2017/03/update-your-app-to-take-advantage-of.html) and [runtime permissions ](https://developer.android.com/training/permissions/requesting.html)
+* It would be nice if we could resize the ratio between the two pages (drag the bottom bar up and down)
+* [You don't need an exit menu option.](https://stackoverflow.com/questions/4089496/android-app-exit-button)
+* How does the paid version differ from the free one? Please highlight the differences in your description, so users know if they are getting something new or just making a donation.
+I've found DigiCal to be a faithful alternative, though it's not open-source. Not sure if it *requires* Gapps to work per se, but it uses the calendars that sync with Android API, so you will need to find a way to make GCal sync regardless. 
+
+Or perhaps just use another calendar provider?
+Mi Mix series from Xiaomi seems promising.
+In their defense, the Oppo R15 has a pretty small bottom bezel too (compared to some), which is nice. However, they could've still done it the Mi Mix way - even with an earpiece on the top because it fits there - this blog post sounds like a defense of Oppo's design.
+>The thing with secure contexts isn't that vague, it basically means new features will only be available over HTTPS and I guess every major browser will follow the same road there also.
+
+**I** understand what they mean with this blog post, but I claimed it to be "vague" because it is still too technically worded for an average user to understand.
+I am aware of different config options being developed and released for optional usage. What I am wondering, though, is when will these changes get shown for all users.
+Ah well, gonna post it to their GitHub then.
+It is an interesting project for sure. Some feedback though:
+
+* Why are you asking for location and storage on startup? Why are you forcing storage permission?
+* Settings could use more visuals, like icons, grouping (sections), subtexts for explaining advanced features. For now all rows look the same, so it is very hard to scan for useful options.
+* When I last tried this browser, I noticed several "deprecated" options. (Right now though, I only saw it on "kill process on exit".) What's up with that? If it is deprecated, you could disable the toggle and add a subtext for explaining why it is, or just remove it completely right away and note it in changelog.
+* Presets would help less experienced users. For example, some common toolbar layouts, some common privacy options (incognito, anti-fingerprinting,  etc.), gesture presets... Maybe even expose the most wanted settings - such as dark mode - in the way Android 7+ settings do it.
+>now we've got a good old fashioned email chain running until we agree where to go.
+
+Why email though when you can still enjoy [rich interactive conversations?](https://www.privacytools.io/#im)
+There is no reason to build it for PC though. Chrome had its apps, Google integrations and now Android Apps, that they are using to push Chrome OS. 
+
+Firefox could at most make a good integration for PWAs (like in mobile) in order to create desktop shortcuts for  Progressive Web Apps.
+[It is "enabled" as in the prompt to download.](https://support.mozilla.org/ee/kb/enable-drm#w_playing-drm-controlled-content-in-firefox)
+
+> Firefox downloads and enables the Google Widevine CDM on demand, with user permission, to give users a smooth experience on sites that require DRM.
+Does it even work though? Any example themes available yet?
+Soon dead.
+What is Firefox's plan on deprecating HTTP? Chrome has published several blog posts about it, but for Firefox I haven't noticed anything [after this](https://blog.mozilla.org/tanvi/2016/01/28/no-more-passwords-over-http-please/).
+Why don't you use edge gestures from the right, where there usually is no drawer?
+
+Either way, Tasker (or equivalent) + AutoInput should be able to do what you want.
+What kind of question is that? Your phone is a portable computer, think of it as such.
+Password managers.
+If it's from the edge, it does make sense because *on* the left you have a drawer on several apps.
+True, but irrelevant to this discussion.
+Not really, you could again disable the apps on one user and keep enabled on another.
+You don't need an entire phone for it though. You can use simpler workarounds like a separate user or [working around Android Work](https://play.google.com/store/apps/details?id=com.oasisfeng.island).
+Any phone with an open-source Android custom ROM that builds on a recent Android version. 
+
+[What BlackBerry does](https://global.blackberry.com/en/smartphones/secure-smartphones) is mostly advertising buzzwords ("Secure Boot Process", "Military-grade encryption" - both exist in any 7.0+ phone), advertising features that already exist (DTEK) and some proprietary bloat (Privacy Shade, Password Keeper). Surely, they may have done some hardware differences to increase security, but that doesn't help when they don't update the OS itself (DTEK60 and DTEK50, which they [advertise for security](https://global.blackberry.com/en/smartphones/dtek50-60-by-blackberry/specifications) [are](https://m.gsmarena.com/blackberry_dtek60-8351.php) [running](https://m.gsmarena.com/blackberry_dtek50-8229.php) Android 6.0 which is [3 years old by now](https://en.m.wikipedia.org/wiki/Android_Marshmallow).
+I want this too, but CSS is a bad way to go about it. Please star [1379247](https://bugzilla.mozilla.org/show_bug.cgi?id=1379247) and [1067293](https://bugzilla.mozilla.org/show_bug.cgi?id=1067293).
+Smart Launcher
+[The animations](https://www.androidpolice.com/2018/03/07/android-p-feature-spotlight-sweet-new-transition-animations-android-p/) [and small change to QS](https://www.androidpolice.com/2018/03/07/android-p-feature-spotlight-quick-settings-now-vertically-scrollable-instead-paginated/).
+Comfort. Without bezels you get a bigger screen or a smaller phone.
+Pretty sure this widget is still in AOSP, OP just forgot to remove it.
+Because it is a DP**1**. As different articles have pointed out, the visual changes they've made already seem to work towards having gestures.
+But then the gestures are kind of pointless when many apps with a drawer nullify the back action. In my opinion the back action could be done from the *right*, as that gesture is empty most of the time.
+I'd say it can be easily solved by swapping home and recents actions. Home could even be a FAB in recents if users get confused.
+Now the circles interfere with sort mode knobs 😁
+Create a shortcut on your launcher > Settings shortcut > App info
+[Meizu Pro 7](https://www.wired.com/story/when-one-screen-isnt-enough-try-meizus-two-screen-phone/)
+I don't think so, as a behind-display camera would still have to create a notch when it's activated. So either you have a notch covering the face or the face still below camera.
+Looks good, but if you use a cog, I would expect some more stream-specific options (than just name and URL).
+
+In your image the circles still look slightly misaligned.
+>Regarding the "v": If i just remove it, some users may not know how to edit an existing station (i assume). Maybe I find another solution for this in the future though.
+
+In that case just use a pencil icon and make it open the bottom sheet. Also, align it better to the center. 
+
+Edit: found out about the sort mode and fact that it also uses a pencil. Try using [this icon](https://material.io/icons/#ic_sort) instead.
+Because we haven't even reached the point where all HTTP is marked insecure and HTTPS is not emphasized with a lock. 
+
+[Here is a nice bug to follow through. ](https://bugzilla.mozilla.org/show_bug.cgi?id=1158191)
+`ls ~/.mozilla/firefox/profile_name/extensions` should do the trick.
+>either coming from Android 
+
+That's easy, Gnome looks very much like Android.
+[App Ops ](https://play.google.com/store/apps/details?id=rikka.appops) or [AppOpsX](https://play.google.com/store/apps/details?id=com.zzzmode.appopsx). Neither *require* root, but that makes things more convenient.
+I'd say you can experiment with very light [shades of blue](https://material.io/guidelines/style/color.html#color-color-palette) as the background, and use a darker shade when it's empty (like Google Inbox). Text color should never be blue in settings.
+Feedback: 
+
+* Don't push a notification before playback 
+* Don't default to a blue icon, use an enlarged favicon or randomly colored first letter circle (like Contacts does for example) 
+* Remove the *v* from list items, holding down gives a better menu anyway  
+* More advanced, but some kind of extractor would be nice by entering an URL that hosts a link in embedded player form 
+
+Overall I like the idea and the unique settings, volume slider is an interesting addition.
+Probably App Settings to change the DPI just for one app.
+I don't think Apple wants to create a V10/V20...
+[If only they ran 8.1... ](https://www.androidpolice.com/2017/10/26/android-8-1-feature-spotlight-status-bar-icons-now-rounded-padding-left-right/)
+Advertising has a lot more problems than some payment model, mainly malvertising, tracking, data usage, distractions. 
+Though, of course, a generic content blocker like uBlock Origin would help even more.
+>Big screen (5.7"+ preferred, 6" best), small bezels as possible 
+
+Tip: phone screens aren't as easy to compare in 2018. 
+The OnePlus 5T has a screen of 6.01" with screen ratio 2:1, which would translate to a 5.48" phone's width if it was 16:9. 
+
+Similarly G6 has a screen of 5.7" which is about 5.2" if it was 16:9. 
+
+Samsung makes things even more complicated as they give the navigation bar extra screen space, therefore Note 8's 6.3" is more like 5.62".
+
+To better compare the screens, you can do some [visual calculations ](http://www.displaywars.com/) or just [compare the phones as they are](https://www.phonearena.com/phones/size).
+If you are looking for no slowdowns, don't look for a Samsung in the first place. There are better options like Pixel, OnePlus, Nokia, Sony, Razer.
+You are more likely to get a reply on their subreddit r/xiaomi.
+>That said, I hope your mom doesnt go for a flagship phone. Their all bad right now, both apple and android. Call me a conspiracy theorist and throw on ur tin foil hat but I wouldnt touch a smart phone released less than atleast a year and a half ago. The new phones collect and exponentially greater amount of data than phones just 2-3 years older right now. Wouldnt touch them but thats just my 2 cents.
+
+How is a phone being a flagship related to how new it is? And *what* exactly do *which* phones collect in your opinion? If anything, newer phones instead give users more privacy due to new features like [runtime permissions (6.0)](https://arstechnica.com/gadgets/2015/10/android-6-0-marshmallow-thoroughly-reviewed/5/#h1) and [less background processes (8.0)](https://arstechnica.com/gadgets/2017/09/android-8-0-oreo-thoroughly-reviewed/4/#h1), to name a few. Not to mention new versions of any software contain patches to fix any security or privacy issues.
+>People do not trust me in the browser choices I make :(
+
+I've used more than 15 browsers by now, with at least 4 being a primary browser for some time. Talk about trust, ha 😂
+Your first action should be removing the microphone permissions from the apps you suspect in the first place.
+Notch is a fad, until *Apple* figures out how to put the sensors below the screen. Headphone jack on the other end...
+I've given mine to a relative and it works well even without Go, assuming the user is not a power user 😛
+Perhaps share your cryptominer blocker filters with Disconnect so they will end up in Firefox's tracking protection?
+* [Smarter WiFi Manager](https://play.google.com/store/apps/details?id=net.kismetwireless.android.smarterwifimanager) should be built-in, it avoids unnecessary battery usage of searching for networks and leaking network access points while at it. 
+* Vibrate should be a DND mode, just like the three kinds of silent are. 
+* Location settings should be respected in the quick settings toggle - if I use device only, don't switch it to high accuracy when toggled. Also would be nice if it is only enabled for a minute unless an app actively uses it (like how Bluetooth works). 
+
+> There are settings you changed the second you setup your phone 
+
+Turned off location, NFC, auto-rotation. 
+
+* Location because I can never be sure *when* it's enabled otherwise, surely I can toggle which apps get access to it in the first place, but not when they use it. 
+* NFC because I don't have application for it now, and even when I will I don't need it 24/7. Would make sense to keep it enabled during the day only for example. 
+* Auto-rotation because like other commenters claim, it is more of a nuisanse than not. It would be useful if it either looked at my eyes before attempting, displayed a confirmation prompt like iPad or just worked with more rotations in general (reading in a vehicle stabilization for example).
+Settings > Browsing mode > Web heads
+If it has Treble, wouldn't matter as much.
+>Phones these days all are just plain black rectangular slabs. I'd kill for a modern flagship device with a proper QWERTY slider (like the HTC Desire Z had), but unfortunately these days it's all about removing features.
+
+[Planet Gemini? ](https://youtu.be/P6g-d328XaE)
+No. Here are some things to get excited about: 
+
+* 2:1 spread 
+* Bezelless craze 
+* Foldable displays 
+* Desktop(-style) OS running on external display 
+* Project Treble (updates and ROMs)
+* In-display fingerprint scanners
+Perhaps Chromer?
+[Mi Mix 2s (leak)](https://www1-lw.xda-cdn.com/files/2018/02/Xiaomi-Mi-Mix-2S.jpg)
+I'd say if you don't even know why you want it and have a better, cheaper option picked out already, go for it.
+
+>Size Preference: 5.5 inch if normal phone, 5.8 is okay if samsung (because of the lack of bezels)
+
+You've probably mixed up some numbers here.
+
+When you mean 5.5 inch, you likely mean a standard 16:9 ratio used for most non-movie video, the one used in many phones before 2017.
+
+However, when you mean 5.8 inch, I believe you are referring to Galaxy S8, which uses a 18.5:9 (37:18) ratio, which is even taller than most "full-screen" 18:9 (2:1) displays produced nowadays. 
+
+Therefore, the Galaxy S8's screen is pretty much 5.18" (if it was 16:9), just some mm taller.
+[Relevant](http://mrdoob.com/projects/chromeexperiments/ball-pool/)
+Perhaps take a look at your existing CSS to see what may affect it? Because this behavior is not normal.
+>I Stopped Making Stuff
+Have you considered not looking for them at all? I would suggest [MileWideBack](https://addons.mozilla.org/en-US/android/addon/milewideback-webext/) as a great replacement, assuming you maximise window most of the time.
+They probably mean the profiles, chat and stuff like that.
+[1263313](https://bugzilla.mozilla.org/show_bug.cgi?id=1263313) was the actual bug, but thanks!
+Here are the things I like: 
+
+* Complete Android 8.1 with Feb security patch 
+* AOSP look and feel, no changes for the sake of it 
+* Customizable slider, fingerprint and screen gestures 
+* Double tap to sleep on notification bar and lock screen 
+* Panel modes, including high brightness mode 
+* Different options to configure quick settings (columns, rows, toggle labels, etc)
+* Volume steps customization 
+* Weekly (or more often) OTAs 
+* Built-in screen recorder (activate like screenshot but with the other volume key)
+> they do not store your password (your email only)
+
+What does that mean? How would one sign into their account then?
+A count up timer seems to be the most suitable in this case.
+OmniROM - stable, fast and good battery so I haven't had a reason to try anything else. Was also one of the first ROMs to come to 5T, as an early buyer this mattered a lot 😛
+[Yes. ](https://doesmysiteneedhttps.com)
+You could say the same about bears.
+Maybe contact Wire support to resolve your issues? Because you have made a great choice in terms of privacy and features.
+It is true that HTTPS Everywhere is resource-intensive. As an alternative, you could try Smart HTTPS which actually (the irony) just adds a *s* to every site, redirecting back if it doesn't work.
+I did it after using a 3 with one. Got some visible scratches unfortunately, but the screen feels nicer to tap overall.
+The app was good, but the browser is pointless IMO.
+Reminders - Google Inbox, Keep or assistant itself (I think)
+
+Assistant - [Assistant Go](https://www.apkmirror.com/apk/google-inc/google-assistant-go/)
+Try !s aka Startpage.
+Not sure about fonts specifically, but if you'd like to avoid CDNs in general, check out [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/).
+Find an extension that can replicate that, you can't move items from address bar to the toolbar.
+Uncheck the search engines you don't want in settings.
+[I have collected some, too](https://gist.github.com/Madis0/a74876bb00721916211e054f77045d44)
+The default setup recommends using a face though, so it is a fair question for the unaware.
+Not sure how other browsers handle that, but Firefox has a special site and feature to detect and redirect such pages.
+Or close the tab, which works just as good.
+IMO consistency is good, we just need to get rid of any buttons and move to gestures.
+>I'm looking for a way to remove the "page actions" ellipsis on the new Firefox.
+
+[Try this ](https://github.com/Timvde/UserChrome-Tweaks/blob/master/navbar/no-page-action-button.css) [plus this](https://github.com/Timvde/UserChrome-Tweaks/blob/master/navbar/hide-pageaction-separator.css) to get rid of the separator. 
+
+>Also I was wondering if it's possible to move the bookmark-star out of the address line 
+
+I don't think so. Try finding an extension that can replicate it. 
+
+>move the reload-page button back in the address line.
+
+It is possible, but as with all CSS it has a chance of breaking in the future, so I recommend using an extension when possible. There are several, but I prefer [Reloader](https://addons.mozilla.org/en-US/firefox/addon/reloader/).
+I tried the Win10 edition recently and got very jealous. Can't find any screenshot atm, but basically it was about 20x8 grid with item groups and tabs, plus a [way of displaying it next to survival inventory like a recipe book.](https://community-content-assets.minecraft.net/upload/styles/small/s3/52b0508fa2d7e396fb53f9aa9d4e963e-1.2_Beta_Screenshot_0.jpg)
+[GMD gestures ](https://play.google.com/store/apps/details?id=com.goodmooddroid.gesturecontrol). I can't imagine using a navigation bar ever again.
+True, but in most cases only the most obvious ones are needed from the start, so everything less important (like seen on the screenshot) can be requested later, assuming the extension has any GUI at all.
+Why not just promote runtime permissions instead? [There is support for it already, ](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/permissions/request) [plus a page about it.](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Request_the_right_permissions)
+Nope, maybe you can find something by keywords "firefox tab automatic rename" (I didn't).
+It used to exist very long time ago, I doubt it has been ported to WE unfortunately.
+No, more like Google Play Services. If an app or feature depends on something to work, it is likely a framework.
+Well, there are cameras with Android and Internet connection 😁
+Business strategy. Buy a phone every year to sell older one for a still-good price. 
+Why get a new phone every two/three years for a full price when you can get a new phone every year for a margin of that price.
+Sounds funny, but is actually a valid reason. OEMs put their additions: 
+
+* in big closed frameworks 
+* at the expense (delay) of updates 
+* without considering the UX of AOSP, but rather their own experience 
+
+There is a reason why people love custom ROMs that add features, even if they somewhat duplicate OEM-provided ones.
+These guides might be helpful, even though the first is for 5. You can root it after first custom ROM launch. 
+
+https://youtu.be/wsjQkQKWMFg 
+
+https://youtu.be/wLrtcTsc1oY
+
+Relevant threads, read their guides too: 
+
+TWRP: https://forum.xda-developers.com/oneplus-5t/development/recovery-twrp-3-2-1-0-oreo-8-0-8-1-t3729673
+
+ROM: https://forum.xda-developers.com/oneplus-5t/development/rom-omnirom-8-x-t3713775
+
+Gapps: https://forum.xda-developers.com/redmi-note-3/development/gapps-opengapps-t3720449
+
+Root (optional, unsupported on the ROM though):
+https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445
+>I can root it/install custom rom if that would resolve privacy.
+
+As the other commenter said, it is rather blown out of proportion, but if you don't care about OxygenOS's features (like face unlock and portrait mode), you could install a ROM anyways to not depend on them for software at all. 
+
+I'm using OmniROM - smooth, stable and great battery 😉
+>(i don't like phones my girlfriend just makes me have one).
+
+Somewhat off-topic, but maybe you just need a good durable camera?
+You should be more specific with your needs to get that. 
+
+For example, if you prefer stockish Android (since you came from a 6P), the closest is the 5T.
+I prefer f.lux (root) because it has a great darkroom mode.
+How do you know it is a custom implementation? White mode is a public API and the paddings are a hidden setting in source.
+>No one reads from all the way top to bottom last lines 
+
+Think of books and why people don't prefer to use their devices on landscape at all times.
+>I'm in the opposite boat looking for 2:1 OLED TVs to become as popular. At least the higher end projectors support the wider aspect ratios.
+
+Interesting thought. I'm all for it when the TVs finally get bezelless, then they could have a Philips Ambilight-like effect on 16:9 content without having lights on the *back*.
+At that point, why not install any distro directly to the BIOS? 😁
+>“With access to technical information, criminals can more easily circumvent security protections, harming not only the product owner but also everyone who shares their network,” the letter, which was obtained by Motherboard, stated.
+
+Security by obscurity is never good.
+Now these are actually good reasons, I've always wanted mobile devices to be more interoperable with desktop OSes. 
+
+It is sad that every mobile app is inferior to it's desktop equivalent because "you don't need more on mobile".
+[GMD Gesture Control](https://play.google.com/store/apps/details?id=com.goodmooddroid.gesturecontrol) for infinite gestures that can use every action on your phone.
+[GMD Gesture Control](https://play.google.com/store/apps/details?id=com.goodmooddroid.gesturecontrol) is paid, requires root and optionally build.prop edit to remove navbar, but you will get infinite customizable gestures for lots of device actions, including launching apps. 
+
+Or if you can't have any of that, try [AIOG](https://play.google.com/store/apps/details?id=com.phoenixstudios.aiogestures) at least.
+Why do you prefer it over Android (AOSP)?
+That would still make sense only for DND and speech. 
+
+Blue light filter is not useful when set only when you go to sleep (by then, something darker like lowest brightness would make sense) and alarm still activates for predefined time, doesn't matter when you enable it (unless you explicitly say the time, or course).
+I meant automating with automatic triggers, which are built-in to the OS. 
+
+DND can be automated by time or events, blue light filter can use fixed time or sunset, alarm can be set for specific days/times anyway. The speech would only need a specific app like Bixby.
+Isn't it more convenient to automate all of this (except reading perhaps)?
+There are some communities on Google Plus, such as [this](https://plus.google.com/communities/116821616252548925340).
+The phones are different, but that doesn't mean the OS decryption method is.
+But it has been worked around on unofficial builds, at least for 5T.
+>The only other phone with as much community support is the Pixel, and that thing is out of my price range.
+
+That "community support" feels more like some small tweaks and mods. I saw two custom ROMs for 5T available before any on Pixels (even though Pixels were launched earlier) and that surely says something.
+No, I mean that when people install an app, they will very likely run it right away (even if they can't use it right away), that time could be used for showing ads.
+Settings > Theme > White
+They could place ads while the phone is *not* under 5% though.
+My gripe is that Firefox didn't dim the notification bar, aka make it grayish, so it looks like an iOS app.
+Wish there were some open-source dialers to choose from, so users wouldn't have to suffer this.
+That is true, but a closed-down phone is still more water resistant than an "open" one, especially because you don't need to keep it in a certain condition (port cover closed for example). 
+
+> Removable battery, so if it gets wet you can take it apart to dry.
+
+Pretty sure that's not how this works, if the battery is wet the water has probably reached places it shouldn't, causing internal damage.
+Don't have to buy from their site then.
+If you have the whole year to wait anyway, why consider only two phones? Pick a month, season or event (if you know them) to wait for and you'll get lots of options for new devices.
+
+I remember patiently waiting for a specific phone release but ending up buying something totally different 😉
+Don't forget that it uses a non-standard (or new standard?) screen ratio. That means if you know what a normal 16:9 5.5" phone feels like in hand, a 18:9 6" phone will just give you a taller screen with same width. 
+
+Whether you like that fact or not is obviously up to you though.
+Xiaomi Mi A1
+>How do you like it? Display and battery life are what I really care about.
+
+The display feels more vibrant compared to OP3, though that may also be caused by me removing the screen protector for the very first time (and got some microscratches, oh well). The added screen space of 2:1 is nice, but the device doesn't feel "bezelless" per se. 
+
+After a year of OP3 with OOS I got fed up with it, so I flashed 5T straight to OmniROM. One day I got to 35% with 7h SoT, so no complaints, could last for two days if needed 👌 
+
+>I have a rant in this thread about OnePlus and stolen credit card info, so I will still be a hard sell. 
+
+Yikes. Well, I bought OP3 from the site and 5T from a store, plus some accessories recently (from the site), and since my card was already stored there, it wasn't affected by the hack.
+It is just a matter of promotion in this case, just like the tracking protection in Firefox. The real usefulness comes when you enable them for all browsing, not just "private" browsing.
+Downgrading is almost always bad (security, drivers, performance), compared to upgrading to an official or unofficial ROM.
+Bootloader, recovery, ROM swap, root, systemless tweaks (Magisk), ADB commands for some stuff, system-deep tweaks (Xposed). What else are you looking for?
+Ooh, open-source is even better!
+[Telecine](https://github.com/JakeWharton/Telecine) is also a good option, albeit not available on F-droid.
+Developer edition gets new versions a few days earlier than beta 😛
+It is rather about S8 dropping to 5T price, which is already done I believe. Either way, I'd say they cater to a different audience anyway.
+What about Edge? Just for the lulz
+https://play.google.com/store/apps/details?id=mobi.meddle.wehe
+[Snapped Padlocks](https://addons.mozilla.org/en-US/android/addon/snap-http-padlocks/), for people who don't use FX59. [Breached](https://addons.mozilla.org/en-US/android/addon/breached/), because people loved the reaction when something similar was proposed to be built-in to Firefox.
+Just being E2EE to Lite and desktop, that would contribute significantly for making it a little less shittier.
+>mic/push notifications 
+
+Can you elaborate?
+Well, for icons you can use [this](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html) and for example wrap the flat share icon in a shape. For screenshots just take them again without device frames or with a newer device frame like Galaxy S8.
+https://en.m.wikipedia.org/wiki/Network_effect
+Judging by the Play Store listing, the app looks cool, but the icon and old device frames really ruin the impression.
+OmniROM
+A hoe in one of the snapshots behaved like that.
+It is just a front-end for the built-in ADB commands (unlike some old ones that tried to open a hidden activity instead), so yes, it works even on 8.1.
+Customizable world presets? Or make an old world, load it as much as you need, upgrade it to newest and modify it so it is the world type that doesn't generate land (forgot name).
+Why not just make a function file? I believe most old mechanics can be replicated using current commands.
+As someone who upgraded from 3 to 5T, I prefer the fact that I don't the front fps as a dust-collecting eyesore and can have some swipe gestures (Oreo custom ROM), but other than that I think that the screen would be still better because you will touch it afterwards anyway, why not start it by touching too.
+Sometimes it stretches well to 2:1 display, sometimes it shows a white bottom bar. Also, I don't see a reason for hiding the notification bar, make it an option at least.
+Any plans for publishing this in F-Droid itself? Would get a lot more exposure.
+Weird, seems like this row doesn't exist for you. Why are you not using 57.0.3 though?
+There is still a capitalized error code on the bottom of the error page, what does that say?
+Not all apps that are outdated are dead, it depends on their purpose too.
+Signal?
+Solved using https://www.reddit.com/r/FirefoxCSS/comments/7iivzf/iconsonly_overflow_menu/.
+One is prettier and the other is open source ¯\\\_(ツ)\_/¯
+From what it seems, you only lose the access to modify them, not the permissions themselves.
+App Ops - [this](https://play.google.com/store/apps/details?id=rikka.appops) and [this](https://play.google.com/store/apps/details?id=com.zzzmode.appopsx) one.
+`browser.tabs.tabMinWidth` is the minimum width, but IIRC it goes down only to 50 px, so try `.tabbrowser-tab {
+  min-width: 1em !important;
+  clip-width: 1em !important;
+}`
+Why not make the Chrome on Android as powerful as it is on the desktop OSes though?
+I used to use a self-cut Micro SIM in a phone where it was inserted sideways, like a SD card on some laptops. Didn't have any problems using the phone for 3 years. 
+
+When getting an OP3 though, I replaced it with a pre-cut one just in case so it wouldn't get stuck or bulge in the "drawer", didn't want to mess up a new phone.
+Substratum.
+Use an app like [andOTP](https://play.google.com/store/apps/details?id=org.shadowice.flocke.andotp) instead, which supports encrypted backups.
+You could try OOS with an unlocked bootloader. 
+
+I got fed up with it after a year with 3 though, seeing how it started to look and feel much less like AOSP when moving from Marshmallow to Oreo.
+A very easy workaround would be to use a legacy userStyle manager extension in the old version, so it will automatically not work in the newer one.
+Not seeing the option, so no.
+Looks great, especially since it seems to be associated with Qwant. 
+
+>association with spammers 
+
+That seems more like very bad experience or big stupidity by one person. Why not block `.com` too while you're at it, surely there must be some spammers using that.
+I may be missing something, but I simply installed the app from ApkMirror and it ran without crashing.
+Well, it lets you do the gesture on the top edge, so in that sense yes.
+[This is the closest](https://play.google.com/store/apps/details?id=com.clownface.volumeslider), but doesn't work as smoothly as it interferes with the top bar of the app.
+`visibility: hidden;` `display: none;` `opacity: 0;` `width: 0;`
+
+As long as you can target it (know the class/id), it should be doable.
+[5T already has a 8.1 ROM](https://forum.xda-developers.com/oneplus-5t/development/rom-omnirom-8-x-t3713775), though not *this one*, true.
+> The 5t is $600 USD from official sources.
+
+Even lower than that. $499 for 6/64 and $559 for 8/128 GB.
+Can you hide them somehow? You could [use these](https://addons.mozilla.org/en-US/firefox/user/%E9%87%91%E7%AB%8B%E9%BE%99/) as a replacement.
+[Containers on the go](https://addons.mozilla.org/en-US/android/addon/containers-on-the-go/), but it is not an exact copy, as it deletes everything *but* history for the tab.
+Cardboard/Daydream/Gear VR.
+Tablets have huge bezels though, a phone is more pocketable.
+Simply right click and hide them. They are available in the 3-dot menu.
+Axon M?
+Settings > Display > uncheck first option
+Firefox will only show tabs if your DPI or screen size is high enough, aka a tablet. IMO the best tabbed browser is [Peregrine](https://play.google.com/store/apps/details?id=com.marc.browse), but [Frost](https://play.google.com/store/apps/details?id=com.crowbar.beaverlite) is also worthy of a mention due to its unique way of managing tabs.
+[Better use the original. ](https://play.google.com/store/apps/details?id=acr.browser.barebones)
+I would much prefer sliding the status bar, but haven't found an app that lets me do that without interfering with that or the top area of the app.
+From recents (Overview) you can do that by holding down the title bar of the app preview and tapping the info icon on the right. 
+
+Might or might not work on LG UX, not too sure.
+Have you tried opening the app info page for that? It should tell you the name, permissions (draw over other apps) and let you uninstall, among other things.
+Maybe Samsung Dex? Though that is niche anyway...
+OxygenOS has rounded corners for no reason. Luckily, a custom ROM fixes that.
+Well, it has the width of a typical 5,5 screen, just is taller.
+Focus makes sense indeed, thought it was something more hacky.
+I wonder how does that differ from the second layer of skins, which do support transparency.
+No. Try opening [YouTube TV](https://youtube.com/tv), start a video and switch tabs.
+On the desktop browser?
+I pasted it to the console and it didn't fix the problem :( It is probably YouTube using some other JS hacks to detect this besides the API.
+By the description it seems to do exactly what I need, but it still does not work. I think it might be using some other JS hacks to determine this...
+[Here I have collected some.](https://addons.mozilla.org/en-US/firefox/collections/tulirebane/new-tab-dials/)
+Ah yeah, I remember that. It was promised to be released on 2020.
+Overall I like them, but now I have trouble finding a matching high-res resource pack :D
+>Someone might even make a screen with a small dimple where the reader is.
+
+Please no. I'd understand if someone wanted a screen protector or a flip case like that, but I would certainly not want a dynamic area to look different than the rest, that just breaks immersion.
+Linkme: Brain Focus
+I think the Gallery is the best app from OnePlus. It is simple, clean and functional. 
+
+Only problem is that the design has gone downhill from 1.7.0...
+I understand that there are many CSS approaches to this, but that popularity is exactly the reason why it should be built in. What do you think?
+IIRC: 
+
+* US carriers lock the bootloader completely 
+* OEMs besides Google and OnePlus make you download or sign up somewhere to get it unlocked, that option may not be available on day one 
+* Unknown chinese phones don't have option or support to do it 
+
+I might have confused the SoC relevance to custom ROM support though, so root/recovery may be supported regardless.
+I remember my support experience. 
+
+1. Through conversation, but rep left randomly 
+2. Rep didn't even start the conversation, left right away 
+3. Got a good rep who answered all my questions
+Selfies with back camera, always-on display are some ideas i can think of. 
+
+To me it would actually seem useful if the screens were split, aka the foldable phone.
+Nope, OEMs make it harder than it needs to be, and some OEMs/carriers don't let you do it at all.
+Disable subreddit style?
+I especially agree with the picture. In the old AMO, every extension had one, I don't understand why is that no longer a requirement.
+Why not just claim that you want an unlockable bootloader? Or what else do you have against a specific chipset?
+I see, that is certainly more compelling.
+>stupid question: can you deactivate the finger print sensor on the E4 for multi-person usage?
+
+Most phones support 10 fingerprints, which do not have to be from one person. Better register everyone's fingerprints than use no security at all.
+
+>btw. the PLUS is only 9 € more
+
+With that difference certainly get it.
+Essential is probably easier to get in the US, but I would consider OnePlus 5T to be better value for the price.
+LG V20 perhaps.
+It seems very weird Mozilla allows anonymous users to *publish* extensions. I'd understand if they just let everyone to *sign* them, but publish? Come on.
+Thanks, worked for me now too.
+To me it sounded like a network/JS error, but if so many people see it, it might just be "not lucky, try again".
+There are tons of immersive mode apps that don't require root or Xposed...
+I don't think the design is *that* bad, only three things bother me: 
+
+* No reason to use bottom tabs instead of top ones (even in those 5 new sections) 
+* While it is nice to see the "Near me" feature more exposed, I think that tab should be used for installed apps instead, which is in settings now 
+* The update mechanism seems buggy
+There [actually is one](https://developers.google.com/vision/android/barcodes-overview) nowadays, built into Google Play Services.
+[Here you go. ](https://www.thenophone.com)
+RIP Ara.
+Then again, many people don't even prefer software updates "because it already works". If only other phones adopted Pixel's dual partition system...
+Yeah, but maybe OP wants a confirmation for accidental activations where it isn't too obvious that its on (daylight). Hence I suggested a better alternative to a prompt.
+So why would the confirmation be necessary?
+For add-ons, you could check their settings or make feature requests. For everything else, there is r/firefoxcss.
+>Firefox on Android can use native app to scan urls directly to location bar anyway.
+
+I knew I had seen from somewhere that this feature should be there, but never saw it myself. [Apparently just needs an app to work. ](https://support.mozilla.org/en-US/kb/scan-qr-codes-firefox-android)
+Android Oreo has a proper fingerprint gesture API, on Nougat you will have to rely on hacks (misreads) unfortunately.
+
+[See this thread. ](https://www.reddit.com/r/oneplus/comments/7in769/_/)
+Have you considered making an extension for *scanning* them too? Would be useful for mobile.
+>I personally would like a confirmation pop up when I turn on the flashlight as well, if this is here to stay.
+
+Please no, flashlight is meant to be used *quickly*. If anything, it could use one of these to draw attention: 
+
+* animation 
+* toast 
+* notification
+Wow, even more bloat by Verizon. 
+
+Anyway, if you enabled ADB on the device and downloaded it to the computer, you can try this: 
+
+1. Open the folder where ADB is located, shift+right click > Open command prompt here 
+2. Type `adb devices` and wait
+3. You should get a prompt on your phone, check the checkbox and click OK 
+4. Check if you see a small combination (8 chars I believe) of letters and numbers on the device list 
+5. If not, retry connecting your phone with different modes (charging, MTP, etc.). You can change the modes in the permanent notification that appears when connected 
+6. If it worked, continue with my 2nd suggestion on original comment
+Who knows, follow this sub to see. 
+
+5th is possible with root or Oreo.
+There is one simple way to fix it, but is not implemented yet because legitimate sites still use HTTP. 
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=1310842
+Hence I linked to tutorial articles.
+If you have Andromeda and Substratum, you don't even need root.
+Sorry about that, don't have access to a computer at the moment and on Android it did appear on some about: pages, like addons. Shift doesn't work because WEs can't do something like that yet.
+Yes.
+By now there are at least 6 extensions that do this. The most feature-rich is probably Reloader.
+Why would you want a phone with 256 GB internal storage, especially when you're using a microSD card? Surely the more, the better, but I just don't think it is something worth waiting for while it is not widespread.
+Treble is not yet a guarantee for 3+ major updates, at least until an OEM actually proves us wrong. The 3T got Nougat and Oreo.
+Why do you think an older Pixel will get more updates than a newer OP?
+I agree, but *most*? I can only think of Ubuntu Touch.
+> Why would I ever need my back button to go anywhere other than backwards in the app I have open?
+
+So that you could easily go back where you came from.
+There is an [Xposed module](http://repo.xposed.info/module/de.theknut.xposedgelsettings) that used to do this, don't think it works anymore though. [Screenshot](https://img.xda-cdn.com/iD2e_Br-R9Mp4BFmfUZyu_XgZ2g=/http%3A%2F%2Fi.imgur.com%2FFhyekPr.png)
+Oh yeah, I forgot that the proper API was added in Oreo, which the 5T officially doesn't have yet. 
+
+So unless you want to use a custom ROM, you might have some luck with apps that rely on hacks (fingerprint misreads) in order to execute actions. 
+
+https://play.google.com/store/apps/details?id=com.ztc1997.fingerprint2sleep
+
+https://play.google.com/store/apps/details?id=vn.tb.th.finger 
+
+https://play.google.com/store/apps/details?id=com.nascentech.fingerprintgestures
+OEMs and custom ROMs have yet to prove that they can really release updates faster with Treble, while the 3T already has Oreo and a bunch of ROMs.
+Huawei Mate 10 seems to be what you're looking for.
+Not yet. Though I have heard rumors of [an S9 mini](http://www.techradar.com/news/tiny-samsung-galaxy-s9-mini-could-be-in-the-works).
+r/androidquestions 
+
+However, there suggestions I can think of: 
+
+* You could download a [keyboard APK](https://www.apkmirror.com/apk/google-inc/gboard/gboard-6-7-15-175732024-release/) to your computer and move it to the device with an USB cable, then install it from a file manager like Downloads. [Here's how.](https://www.cnet.com/how-to/how-to-install-apps-outside-of-google-play/) 
+* Like previous one, but [install it using ADB](https://stackoverflow.com/questions/7076240/install-an-apk-file-from-command-prompt). Here's [how to setup ADB.](https://www.howtogeek.com/125769/how-to-install-and-use-abd-the-android-debug-bridge-utility/) 
+* If you have an OTG cable, you could hook it up and use a physical keyboard. 
+
+As for the *why*, maybe you messed up a software update?
+Better software too.
+It would be much easier and more beneficial to 
+
+1. Buy a domain 
+2. Rent a host 
+3. Use some shopping service platform 
+4. Make sure the site is responsive (looks good on all devices) 
+5. Make an app that simply wraps your site in a WebView 
+6. Profit!
+You can try an [app like this one. ](https://play.google.com/store/apps/details?id=com.aecampos.android.fingerprintgestures)
+>I'm not sure what those are.
+
+Small colored rectangles in the corner of the extension icon, usually with a number inside to indicate something, such as amount of blocked ads. I can't remember if they work in the overflow menu, hence the question.
+Looks great, I've been trying to do the same but haven't got it to work so far. It is sad though that you need to define the exact rows and columns, so it isn't as flexible as Chrome's menu. 
+
+Some questions though: 
+
+* Do badges work? 
+* Why not use `em`s for better screen independence? 
+* Can I [republish this here](https://github.com/Timvde/UserChrome-Tweaks)?
+I like [the V30 ones](https://www.androidauthority.com/lg-v30-wallpapers-797287/).
+>also will my data still be in the phone after installing the ROM?
+
+No, you'll have to clear everything.
+As you can see from the album, no. However, you could use one of the options provided in Play Store.
+Pretty sure Opera's UI is not made with HTML though.
+[No. ](https://forum.xda-developers.com/oneplus-5t/development/rom-omnirom-8-x-t3713775/post74719229)
+You don't have to root to use any custom ROMs, just unlock the bootloader and swap a recovery to flash one.
+A pinned tab for [YouTube TV](youtube.com/tv) with [YouTubeAUDIO](https://addons.mozilla.org/en-GB/firefox/addon/youtubeaudio/).
+I guess then we can do what Vivaldi users do, aka just modify the browser HTML itself to make it accept injections from a file.
+>volume slider works well but no customization options 
+
+Fair enough. Stock DND tile and timers are present though? 
+
+>what use-cases are you referring to for special settings?· 
+
+I was thinking of [something like this](https://androidcentral.com/how-adjust-lg-g6-app-scaling-settings), though I don't know if it is even necessary to have. 
+
+>magisk works perfectly 
+
+Great! Latest or specific (14.0, I've heard)? 
+
+>there's a dark ui option 
+
+Eh, I don't want everything to be dark though. I was thinking about [this feature](http://www.androidpolice.com/2017/10/25/android-8-1-feature-spotlight-automatic-light-dark-themes-no-longer-exclusive-pixel-2/) being configurable. 
+
+>There's no OP5T specific customizations in general. 
+
+That's great, I won't really miss the OOS looks and bugs, features can be replicated somehow anyway. 
+
+>The main benefit of switching to this from OOS is oreo (obviously) and a proper navbar. 
+
+Oh yeah, that reminded me - is there a built-in toggle to disable navbar completely? I much prefer using gestures to navigate.
+Some things I am wondering: 
+
+* Are the volume slider ("mute switch") actions customizable? 
+* Do 16:9 apps fall back well? Any settings for that? 
+* Have you succeeded in using a root method? From the thread it seems neither SuperSU or Magisk work yet.
+* Is there an option to switch notification shade to black?
+Nice! While it is not completely stable yet, I like that it gets daily updates, even if the porter doesn't have the device. 
+
+https://forum.xda-developers.com/oneplus-5t/development/rom-omnirom-8-x-t3713775/
+For what it's worth, there seems to be an [Oreo custom ROM](https://forum.xda-developers.com/oneplus-5t/development/rom-omnirom-8-x-t3713775) available though, that gets more stable every day 
+
+Edit: [a reddit thread ](https://www.reddit.com/r/oneplus/comments/7iamhw/_/)
+I was considering the two, so I made a list of my pros for each device: 
+
+OP5
+
+* sharper corners
+* stockish, ROMs
+* available in physical shops (for my area)
+* lower initial price 
+* slimmer side bezels
+* 6/8 GB RAM
+* dual SIM guaranteed
+* no glass back
+* Dash Charge
+
+V30
+
+* QHD
+* good battery life 
+* should go on sale soon
+* slimmer top/bottom bezels 
+* SD-card
+* no silent slider, FPS is a button
+* looks rather like an S8 than an iPhone 7
+And how many people actually did it?
+I don't disagree, but my point was the misleading title.
+No and yes. Running a release version of WebView though. 
+
+WebView stacktrace from the Android crash report feature:
+ `android.content.res.Resources$NotFoundException: Array resource ID #0x7f030006
+	at android.content.res.Resources.obtainTypedArray(Resources.java:617)
+	at android.content.res.Resources.preloadFonts(Resources.java:379)
+	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:6058)
+	at android.app.ActivityThread.-wrap1(Unknown Source:0)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1756)
+	at android.os.Handler.dispatchMessage(Handler.java:105)
+	at android.os.Looper.loop(Looper.java:164)
+	at android.app.ActivityThread.main(ActivityThread.java:6809)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.Zygote$MethodAndArgsCaller.run(Zygote.java:240)
+	at com.android.internal.os.WebViewZygoteInit.main(WebViewZygoteInit.java:121)
+`
+Haven't gotten any sites to load, WebView crashed a few times too. (Android O)
+
+I do like the tab management, reminds me of the Frost browser. But unlike that one, the UI seems to take up so much space, even though it hides after scrolling. I just hate browsers with extra bottom toolbars ¯\\\_(ツ)\_/¯
+Now? They already announced that they will stop doing it.
+As it is still not mentioned in the issue: 
+
+On 59 Nightly, you can now mark all HTTP pages as insecure. For that, set the following on `about:config`:
+
+* `security.insecure_connection_icon.enabled = true` for all windows 
+* `security.insecure_connection_icon.pbmode.enabled = true` for private windows only 
+
+[Bug 1310447](https://bugzilla.mozilla.org/show_bug.cgi?id=1310447)
+How are any of these relevant to *this* app though? 
+
+* Checking for a license uses a different permission 
+* Pretty sure you can track user count from Play Developer Console
+Why make the tabs so small if they are centered anyway? 😀
+I had a look at some root videos where TWRP is shown and I can't really understand if it is rounded or the video is blurry. [Here's an example](https://youtu.be/dseDcaKOEt8?t=1m10s), perhaps someone with a bigger screen can confirm.
+The apps that provide rounded corners simply add an overlay to the screen, it is not related to a hidden setting or such.
+The interface looks interesting. 
+
+I like that the address bar is so compact, yet fits a lot of the URL. The bottom bar seems like a waste of space though, which could be replaced with a single FAB if anything.
+[One has leaked](https://www.gsmarena.com/sony_xperia_x_ultra_leaks_with_tall_219_display-news-24817.php). IMO it's way too tall though.
+>Sony Z5 premium 
+
+>flair 
+
+You seem to like 4K phones a lot. What do you watch on them? AFAIK, there isn't even much VR content on 4K...
+https://play.google.com/store/apps/details?id=com.wire
+Yes, but right now it is a marketing term for 2:1 screen ratios, that create a slightly smaller bezel as a result.
+It will make sense eventually, when phones lose all of the bezel. But yeah, for now it is just because every other OEM does it.
+128 GB Pixel 2 XL costs $949 on Google Store.
+Time and money. Why bother on supporting Treble on 5T now when you can do it on 6 later?
+It would probably be the easiest to compare it to how Windows compares to Linux-based OSes. 
+
+* With **nothing/Linux** you lose things that were implemented *using Play Services/for Windows*, even though they could just as well be implemented without it, which would need more work. For example, notifications in most apps. 
+
+* With **MicroG/Wine**, you get the features that were reimplemented using open-source code, therefore the newest, coolest stuff may not be implemented at the moment. For example, Play Games perhaps? (haven't used MicroG yet, cannot confirm) 
+
+* With **Google Play Services/Windows** you get the most and latest features that were implemented using closed-source code and work with proprietary environments *(Google/Microsoft servers)*. Therefore, apps that take advantage of the latest APIs.
+I agree. It is much better to use gestures that don't depend on absolute position (switching tabs, opening the drawer) than to be forced to find specific buttons to press.
+>Your hand is always shifting up and down because down is where all the buttons are anyways.
+
+That means we need even more gesture input, (ironically) like Apple. 
+
+>Next up: moving the Windows taskbar to the top of the screen, where virtually all the toolbars (most notably the browser stuff) are.
+
+What about Mac, Linux (Ubuntu, Debian, Fedora etc)? Not the task bars (docks), but navigational elements are on top.
+Wire doesn't, you can sign up from a computer too.
+Makes me wonder why the X-Window system does this, I can already see lots of miscopying due to accidental text selection. 
+
+Anyway, for address bar I can think of a workaround, which could be made to an extension: create a new tab and close the old one. For search bar, I'm not sure.
+Then you can use a keyboard that can detach and hover.
+>hiding the stupid "Bookmarks Toolbar/Menu/Other" folders in the bookmarks sidebar 
+
+Ask in r/firefoxcss
+Made me tweak its looks even more and suggest the browser to others. 
+
+>Does it now support that feature or automation you were eagerly waiting for?
+
+Yes, WebExtensions are great!
+Double click the fields and start typing.
+I would like to finally [hide https:// and show http:// on the address bar.](https://bugzilla.mozilla.org/show_bug.cgi?id=1379247). I'm glad the [broken lock preference has been implemented](https://bugzilla.mozilla.org/show_bug.cgi?id=1420752) to 59 though.
+[You could try this trick. ](https://www.reddit.com/r/firefox/comments/756gqf)
+There is a WE of the same name though. Also, [an alternative](https://addons.mozilla.org/en-US/firefox/addon/display-inline/).
+In that case install a messaging app of choice (would suggest something encrypted like Signal or Wire), add your contacts to it and turn the device to a kiosk mode with [App Pinning](https://support.google.com/nexus/answer/6118421?hl=en).
+I would suggest using uBlock Origin to block most bad stuff and [Breached](https://addons.mozilla.org/en-US/firefox/addon/breached/) to warn about previous account breaches on a domain.
+Why have a tablet for just one purpose when you can use the phone the kid is already familiar with?
+The biggest drawback IMO is the do not disturb mode not being accessible outside the slider, including no automation.
+With Fleksy, you can swipe for space anyway...
+    #page-action-buttons {
+      -moz-box-ordinal-group: 0 !important; /* Move the PageActions to the left */
+    }
+    
+    #pageActionButton {
+      -moz-box-ordinal-group: 2 !important; /* Move the three dots to the end (rightmost) of the PageActions
+    }
+
+[Preview](http://i.pi.gy/rjaaJ.png)
+Hide the dialer by any means and simply use the direct call shortcuts.
+It is only possible if you move the whole PageAction group (Reader etc.).
+Yes.
+So is Pixel 2, but at least OP tried.
+Not sure what you read, they are very active on G+. That, or file a new ticket.
+Extensions are not required to have a button on Firefox, like they do in Chrome. If one decides it doesn't need one, it doesn't use it.
+You could try posting in their Google+ group.
+Can be used with any or no VPN, no unnecessary background services, better integrated to system by direct access from app info.
+Well, I understand decoupling stuff like the bubble, WiFi rating system and Google's compression servers, but something as simple as a full mobile data disabling toggle should be built-in.
+Because it is an awful and illegal idea.
+Most of the features could be built-in to Android...
+You probably didn't do anything wrong, but you could explicitly request Firefox support by creating an issue in [its GitHub page](https://github.com/kaypoz/reddit-notifier).
+[I have a collection](https://addons.mozilla.org/en-US/firefox/collections/tulirebane/security-privacy/) of different add-ons that help you increase privacy and/or anonymity.
+DPI, as the OP said.
+As noted by other commenter, it's irrelevant, but do you have an example site that does it?
+App Settings with Xposed.
+I'd just make a ringtone from a song I like instead of relying on others. There are apps for this, but I prefer Audacity on a computer.
+That seems well handled! Thanks for not blocking manual entries like Chrome.
+Wireless is one thing, but why has any OEM not provided two USB-C ports is something I don't get.
+It does, because it was implemented under that same setting.
+
+Quoting [comment 124](https://bugzilla.mozilla.org/show_bug.cgi?id=967895#c124):
+>I think it's a bad idea to advertise this to the general public, because you have to enable the "privacy.resistFingerprinting" pref for this to work. A lot of people are unaware of the consequence of enabling this pref: the UA is spoofed to Firefox 50 (hence AMO thinks you can't use webextensions), timezones are spoofed to UTC (which can be annoying on Calendar websites), ...
+
+
+>If advertising this feature is something that's wanted, then the feature should probably have its own preference.
+From the screenshot it looks like just a blue background and old bookmark folder/search-thing icons. One could just use a lightweight theme for the background...
+So it will get a separate, default-on setting? Based on what info, [the bug doesn't state that](https://bugzilla.mozilla.org/show_bug.cgi?id=967895). 
+
+Right now it is available under `privacy.resistFingerprinting` which does (and breaks) a lot of things, so I doubt it will get enabled by default.
+>Well the 3T had quite minimal side bezels to start with. It was the upper and bottom "lips" that were massive.
+
+True, but 5(T) has a different shell, hence the question.
+I've also linked two alternative add-ons in the thread you might want to try out: 
+
+>There are a few more: https://addons.mozilla.org/en-GB/firefox/addon/download-shelf/ https://addons.mozilla.org/en-GB/firefox/addon/download-manager-for-firefox/
+https://www.reddit.com/r/firefox/comments/7fi3j0
+How do you feel about the side bezels on 5T vs 3T? Are they same or more/less noticable?
+Xperia XZ1 Compact? Through if you are in the US, you'll have to fiddle a bit to get the fingerprint scanner working.
+[You can use a bookmarklet.](https://tekctrl.wordpress.com/2013/06/01/showing-when-a-page-last-updated/)
+Why could you not though? IE supports "tracking protection" lists, which could just as well block ads.
+There are a few more: 
+https://addons.mozilla.org/en-GB/firefox/addon/download-shelf/
+https://addons.mozilla.org/en-GB/firefox/addon/download-manager-for-firefox/
+u/ljdawson
+Well, no, but you can dim the whole OS, including browser's and it's internal pages. For specific pages there are probably userstyles that turn them black anyway.
+VivaldiFox can set a dark theme at night.
+Why are you not using OS-specific solutions? [Here's one for Windows,](http://www.nelsonpires.com/software/dimmer/) for example.
+Probably just needs optimizing to your screen width. Try changing the variable values in the style.
+[This pull request.](https://github.com/Timvde/UserChrome-Tweaks/pull/26) Latest commit has some changes for 58, too.
+>The scrollbar in manage is now fast scroll enabled 
+
+Where is that "manage"? Any plans to add fast scroll to comments too?
+TOR, when 59 becomes ESR. Maybe Comodo's IceDragon.
+Not possible yet. [This is the closest you can have.](https://addons.mozilla.org/en-US/firefox/addon/wheeltab/)
+Yes, [it has been available for a while.](https://addons.mozilla.org/en-US/firefox/addon/math-in-address-bar/)
+It surprises me, because they are *not* Chrome. They are Chromium, which is open source. 
+
+So if Chromecast is there, I assume one can take a look at its implementation and attempt to port it over. Or search the web for an old version which used to be an extension by itself (though I'm not sure if an "independent" one).
+As of 8.0 it needs an app, I remember there being an option for 8.1 though. 
+
+Personally I just set the priority to low, because it is good to keep an eye on things that should not be there (for example, I found an accessibility service that I didn't actively use, but it kept running in the background anyways)
+Cleaning how? With a running tap water?!
+>- I am missing my Moto Actions, like saying my phrase to wake the phone up across the room, double twist for the camera, chopping twice the flashlight, Waving my hand to wake and check the screen. 
+
+You should try the screen gestures of OP. 
+
+>The could have left the calculator and clock app stock 
+
+[Here](https://play.google.com/store/apps/details?id=com.google.android.calculator) [you go.](https://play.google.com/store/apps/details?id=com.google.android.deskclock)
+I'm not too sure about those, you may find more dark theme enthusiasts in other threads :P
+Search bar is hidable from the cog menu, the Firefox icon is
+`#onboarding-overlay-button {
+    display: none;
+}`
+and scrollbar is `.activity-stream { overflow: hidden; }`. Don't forget that this is for user*Content*.css
+It is a must for every device that wants to ship with Oreo and get Play Store.
+Use the [Extension Source Viewer](https://addons.mozilla.org/en-US/firefox/addon/crxviewer/) to view that info before installing.
+* Launcher: [Smart Launcher](https://play.google.com/store/apps/details?id=ginlemon.flowerfree), because I prefer to keep apps organized in the drawer.
+* SMS: [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms), because it has a pretty stock-like interface while also supporting one of the most secure IM platforms.
+* Gallery: [OnePlus Gallery](https://www.apkmirror.com/apk/oneplus-ltd/oneplus-gallery/) - is a stock app for me anyway, but I like it because it does everything I need and looks pretty. I prefer [1.6.0](https://www.apkmirror.com/apk/oneplus-ltd/oneplus-gallery/oneplus-gallery-1-6-0-release/).
+* Music: [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722), because it lets me stream music from YouTube, while also supporting local files. 
+* Keyboard: [Fleksy](https://play.google.com/store/apps/details?id=com.syntellia.fleksy.keyboard), for a computer-like typing experience.
+* Calculator: [All-in-one calculator FREE](https://play.google.com/store/apps/details?id=all.in.one.calculator) - stock calculator with tons of extras. Ads removable by getting Pro.
+Is there any OEM at all that openly shares their camera optimization algorithms?
+Vote, subscribe, comment. 
+https://bugzilla.mozilla.org/show_bug.cgi?id=1285812
+No, because people will start to overuse it to make their builds more realistic and less blocky.
+I wonder if they will do a Christmas sale on accessories too. I want a 5T but not *today*.
+And that is why they won't add them.
+I feel like the opposite. The phone and it's animations feel much smoother.
+Well, with a referral you can basically get an extra charger+cable for free, so it is a pretty good deal.
+I can't seem to understand why does it use the same color for toolbar and status bar on Android though. Especially since the UI does not look the same on iOS anyway. 
+
+Luckily, [a theme like this](https://addons.mozilla.org/en-US/android/addon/transparent-only/) fixes that.
+Something not mentioned in the issue, but I think is notable: a preference that would mark all HTTP insecure, [is now in active development](https://bugzilla.mozilla.org/show_bug.cgi?id=1310447).
+A WE that does this [currently exists, too.](https://addons.mozilla.org/en-US/firefox/addon/breached/)
+uBlock's default settings block more than just ads though. Can't remember exact defaults, but I think it was social media buttons,  Bitcoin miners, malware and analytics collection.
+In that case, [try this](https://addons.mozilla.org/en-US/firefox/addon/popup-window/).
+So are their flip phones, but both are very restricted in availability.
+> Why was the battery tile removed from quick tiles
+
+That was also removed from AOSP though. I liked it too.
+Press F11?
+> enjoy your phone $20bucks off
+
+That is not correct, you only get 20 bucks off *accessories*.
+https://oneplus.net/invite#I17PNN7GGUALIOK
+
+International discount!
+Well, you could also consider it as an easier way to bypass the check.
+I don't recommend hiding all of them, they can be useful for security and accessing site features. Here's how to hide the less useful ones: 
+
+* To hide the certificate name, try [one of the solutions posted here. ](https://superuser.com/questions/751720/how-do-you-hide-the-extended-validation-text-in-firefox)
+* To hide Pocket and bookmark star, right click them and select "remove from address bar"
+[With this app. ](https://play.google.com/store/apps/details?id=com.iboalali.sysnotifsnooze) I just held the notification down and changed its priority to low though.
+"Screen calibration" under display settings.
+>You just have to swipe once, the api exposes 4 directions; up, down, left and right.
+
+I meant for continuous brightness change, like with volume keys you can hold down to keep changing the volume.
+>FingerPrint Gesture API
+
+TIL, looks promising!
+
+In terms of your app, I have a few questions too! (Don't have a compatible device yet) 
+
+* Just to confirm, does the user have to swipe repeatedly or can they just slide the finger?
+* Is that "docking" feature multi-window, [exposing a hidden feature](https://play.google.com/store/apps/details?id=com.xda.onehandedmode) or you are just talking about moving the on-screen slider around? 
+* From the app description I got an impression that one can map actions other than brightness to swipes. Is that true? I would like to see media volume controls, for example.
+It's irrelevant even if you don't. It is comparing the existence of feature to an absence of a feature.
+[I'm struck with the bug](https://askubuntu.com/questions/969762/black-screen-random-log-out) where the system logs out randomly, so not that big of a fan for 17.10.
+The top bar reminds me of Chrome when it had an option to combine tabs with apps... I would love to get that feature in Firefox! 
+
+The bottom bar seems unnecessary to me though.
+No, in AOSP you can click the title on some tiles to open a panel, like in Lollipop/Marshmallow. 
+
+http://www.androidpolice.com/2017/03/21/android-o-feature-spotlight-expandable-quick-settings-work-tapping-text-not-icon/
+Nice! Now that I saw the introduction text: 
+
+* "Read *carefully*"
+* You could adjust all input fields to not accept keyboard input and show a toast message as a warning.
+Well, it is worse in terms of features/speed becauze it is an old version. But compared to stable 56, ESR 52 will recieve security updates for several months.
+There are several apps in Play Store that add quick settings tiles, this is often one of them.
+Seems like it allows only specific apps to be parallel though 😞
+Crouching for blocking makes sense, but I don't really see a reason to nerf offhand. 
+
+From what I've seen, PE already has a "left click" and "right click" - left is a long tap and right is short. I assume a similar thing goes for other platforms, like console, too.
+By adjusting it's margins and width with CSS. 
+
+[This is what I use](https://github.com/Madis0/UserChrome-Tweaks/blob/c4095a881bd4958acba564fb40c8fb6f052b7c1b/navbar/merge-tabbar-navbar-linux.css) - it moves the whole navigation bar to the left of the tabbar.
+
+I'm not exactly sure how to get it on the right though, you could try swapping a few `margin-left`s with `margin-right`s.
+You can't move the urlbar by hand. You either move the buttons around it in the same toolbar or the toolbar section itself.
+Pretty sure it requires YouTube Red. Try it from a browser.
+>No sensible person should be looking for a new phone after only 7 months of ownership.
+
+I think of it as a good business deal. Sell it while it's worth a lot in order to get a new phone "cheaper".
+[Here you go.](https://www.reddit.com/r/firefoxcss/comments/7dclp7/_/)
+
+In any case, do NOT use Firefox 56 as it has security-critical bugs, better use ESR 52 if needed.
+I've liked Moto Camera in the past, as it's simple and can work without a shutter button. 
+
+Also, OnePlus Gallery 1.6.0 (later versions look less Material) is a minimalistic gallery app and its UI reminds me of Google Photos.
+Try Firefox. On slower devices it is definitely faster than Chrome.
+>slogan 
+
+>disclaimer_title 
+
+>disclaimer 
+
+>disclaimer_accept 
+
+Something's up with the default locale.
+
+Other than that, here's my feedback: 
+
+* Animations are a bit too slow in my opinion, gets annoying 
+* It doesn't bring enough nostalgia if half of the UI is old and half modern. IMO you could just do two themes: IE6 and mobile Chrome - so one looks old and bloated, another is convenient and simple 
+* Changing the date is harder than it needs to be. Bring a proper timeline for modern and maybe a Win95 slider for old. 
+* Add a way to disable sending user's bookmarks to you 
+* Add pan and zoom
+Optic AMOLED has been their marketing term for a long time now, "Full" is just the 2:1 screen ratio.
+It is located on https://start.mozilla.org/firefox/ but you might need some tweaking like using a cached version to get it to work.
+[Somebody has](https://addons.mozilla.org/en-US/android/addon/re-style/), but the problem is that this extension requires the Stylish format with proper declarations and barely any userChrome.css tweak has that so far (of Quantum, of course). 
+
+If you edit userChrome.css through [Browser Toolbox](https://developer.mozilla.org/en-US/docs/Tools/Browser_Toolbox), the changes will appear live.
+[There is a new page](https://developer.mozilla.org/en-US/docs/Mozilla/Preferences/Preference_reference), but that is also very partial.
+>If you're on Firefox Quantum, legacy add-ons aren't available for download and would have been ~~automatically uninstalled~~. If they're still ~~installed~~, they're compatible!
+
+automatically disabled and moved to a separate category called "Legacy extensions" 
+
+enabled 
+
+--- 
+
+Also worth adding: 
+
+"If they get updated in the future, they will automatically get enabled again."
+What about Galaxy Apps? LG World?
+> Does that mean you also don't use a case with your phone?
+
+That is correct. I feel like the OP3 is strong enough on its own due to materials used, so I don't need a case. 
+
+If you are wondering about any damages, then I only see a few small holes on the corners, no scratches on the back.
+Great! But what if the friend is in another country compared to what I will make a purchase from (ineligible one)? 
+
+Edit: confirmed from support that this is not a good idea, can cause delays and other problems.
+You will need an extension for one of them, as CSS can't duplicate elements (the application button of CustomCSSforFx is a reskinned and moved hamburger button). [Perhaps you'd like this? ](https://addons.mozilla.org/en-US/firefox/addon/application-menu/)
+A system-wide program that can apply it to any window.
+[This app can give you](https://play.google.com/store/apps/details?id=xyz.paphonb.systemuituner) some extra customization.
+Anyone know if they care for the name used? Aka, can I use a student friend for this? ☺
+Well, it would be good to have, but I expect it to have some good ROMs regardless.
+Now they could include it in OOS to make consumers be more aware of it.
+IMO the camera bump is fine if the rest of the phone is thin enough to be held with small hands. 
+
+Yes, I know you all would fill the space with battery, but if you can't hold the phone comfortably, you won't use it for long.
+That is what I read from the website, yes. 
+
+I got confused by your text: 
+
+>Damn... 70€ disc would be awesome. :(
+That's because the architecture for building extensions changed greatly (for the better) and it is a matter of new abilities, time and motivation for them to remake their entire extensions. 
+
+Good news though: 
+
+* NoScript will get ported very soon 
+* Tab Mix Plus and Tab Groups are planned (but individual features can be done by other extensions too)
+* Cookie Monster may be replaceable by other cookie-management extensions 
+* There is a proper sidebar API now, so All-In-One Sidebar panels could be made too, as individual extensions
+Wait, what? I thought referrals don't reduce the price but give you accessories of a specific value?
+>It does nothing for the Firefox's core browsing functionality 
+
+I agree, the only integration seems to be the adding button, it doesn't even display the items in the native UI. 
+
+Though it is planned for the Library menu, I feel like it should also be integrated to bookmarks bar in some way. Or a sidebar...
+Well, [there is this](https://github.com/Aris-t2/CustomCSSforFx) by the creator of CTR. It lacks a GUI though, all changes are done by enabling specific files.
+The screenshots show it is used for "audio output". Not sure why is that needed so much it needs a permanent location in the UI...
+Your `!important;` lacks a semicolon.
+You'll need an extension that replicates its feature.
+>Wouldn't it be cool if the "addons" system for quantum firefox
+included links to rough substitutes for stuff that's not
+supported?
+
+https://mozilla.github.io/extension-finder/
+Okay, I've got an example for you. 
+
+```#PanelUI-button {
+  position: fixed;
+  top: 0.1em; 
+}``` 
+
+Replace `#PanelUI-button` with the back and forward elements, if you don't know them, use Browser Toolbox to find out.
+Not sure if you understood, but I meant moving the individual buttons with CSS, using the spacer only as a place to move them onto. Can't test/make an example at the moment unfortunately.
+Hell yes. I am glad Apple executed the gestures well, can't wait for OEMs to copy that.
+GMD is good too, and doesn't require Xposed.
+Well, you might test this more to confirm, but in my experience every "delivered" message seemed to be also read by the recipient.
+>However, there's no read receipts with this client, making it difficult to know if my wife has received a message. There's also a weird loading screen when first loading the client. No other messaging client has to "load" before opening up my messages.
+
+The word "Delivered" next to the message is the read recipe you're looking for. The loading may be caused by decrypting messages cached to the device.
+That doesn't stop them from emulating a toolbar.
+What makes it so ugly then? The icons are similar, the animations are similar...
+>Download Status Bar 
+
+>FindBar Tweak 
+
+Pretty sure they can be ported, don't know if anyone has started to do so, though. 
+
+>Tab Wheel Scroll 
+
+Can't be ported yet, but [this is similar. ](https://addons.mozilla.org/en-US/firefox/addon/wheeltab/)
+
+>Tabs on Bottom 
+
+Search in r/firefoxcss
+Now is also a good time to ask the devs to port them.
+Stylish doesn't handle userscripts, rather try Tampermonkey or Violentmonkey. But now that Greasemonkey is WE by itself, you might not need any alternatives.
+>The address bar needs to move up, which it can't because like I said the address bar won't move into the bookmarks bar...
+
+Right, that's what I forgot. 
+
+One idea I came up with would be adding a dynamic spacer to the bookmarks bar and moving the back-forward buttons with paddings and fixed property.
+I meant moving the bookmark elements, not the toolbar.
+What if you just move bookmarks to the navigation bar?
+>firefox is no better addon wise 
+
+That is incorrect, even now Firefox has different APIs to take advantage of, such as sidebars, theme features, find in page. 
+
+But if you must, r/waterfox or ESR 52.
+>Don't install random .debs 
+
+>Don't install random ppa's 
+
+>Don't install random tar.gz, git repos 
+
+So don't install anything from outside Software? That suggestion won't satisfy most users.
+Perhaps you could just try some full-featured RSS reader?
+Oh I remember when it was the best browser on my Nokia E65. How times change...
+Chances are your extensions are easy to port, just ask the developer (assuming you switch from another browser).
+It is made by Xiaomi, so yes, seems likely. I know that the original Mi Mix got LineageOS too.
+Can't remember actually, the maintainer posted it here very long ago. Could try requesting permission for access though.
+
+>Technical program manager at Mozilla 
+
+Or better yet, make your suggestions built-in? 😁
+Yes, at least until the developers choose to port them to the new system (if at all). You can use [this spreadsheet](https://docs.google.com/spreadsheets/d/1TFcEXMcKrwoIAECIVyBU0GPoSmRqZ7A0VBvqeKYVSww/edit#gid=0) to find alternatives to at least some of your extensions.
+Depends on whether they have the Legacy tags.
+[This community spreadsheet](https://docs.google.com/spreadsheets/d/1TFcEXMcKrwoIAECIVyBU0GPoSmRqZ7A0VBvqeKYVSww/edit#gid=0) has lots of alternatives for popular extensions. It is unfortunately locked now though.
+What is up with EME-free builds? Aren't all builds EME-free until the user has accepted to download it (the notification infobar)?
+Simply adjust your toolbar so that every button fits to window? That's the only purpose of that button, showing buttons that don't fit.
+If you truly want Android's flexibility and custom ROMs, you should pick a device that supports them well. Samsung and LG surely aren't those. 
+
+You could search XDA forums and Lineage OS' list of supported devices, but just to give an idea of some good OEMs: Google (Nexus/Pixel), Lenovo (Moto), OnePlus, Sony, Xiaomi.
+>decentralized app sources 
+
+F-droid supports repositories.
+Why don't you just make profile shortcuts on your desktop? Go to `about:profiles` or run `firefox.exe -p` to do so.
+Xperia XZ1 Compact should tick most of the boxes, though you'll need to swap firmware to get the fingerprint scanner working in US.
+
+>  shitty bootloader unlock policy
+
+If it's unlocked, I don't think you'll have problems with that.
+LG V30
+Well, [ZDNet claimed](https://translate.google.com/translate?tl=en&js=y&prev=_t&hl=et&ie=UTF-8&u=http%3A%2F%2Fwww.zdnet.de%2F88317869%2Foneplus-5t-unboxing-und-inbetriebnahme%23image%3D1%3Finf_by%3D5a081a0b671db899398b49d8&edit-text=&act=url) they just got the reviewer's box without signing anything. Surely common sense would've been good, but that's about it.
+[Swipe Navigation](https://play.google.com/store/apps/details?id=com.suphi.swipenavigation) gets pretty close. Otherwise you could try [All-in-one gestures](https://play.google.com/store/apps/details?id=com.phoenixstudios.aiogestures) or [T Swipe Gestures](https://play.google.com/store/apps/details?id=com.tdev.tswipe).
+> Troubleshooting megathread
+
+For the launch? What for?
+Or use [reStyle](https://addons.mozilla.org/en-US/firefox/addon/re-style/) which supports these styles natively. Some setup required though, read the instructions in settings.
+You could [suggest it](https://github.com/nt1m/vivaldi-fox) to the author of [VivaldiFox](https://addons.mozilla.org/en-US/firefox/addon/vivaldifox/), he is also contributing to improve the theming API so could forward the requests to get the needed features in the API if needed.
+
+Fun fact: this feature is already available on [Yandex Browser](https://browser.yandex.com/) (when enabling the bottom tabs).
+Can I use your phone too when I get a Batman mask?
+You might want to try OPPO phones then.
+Patents?
+FYI, face detection has been on Android for years, it is just that Apple made it more advanced.
+A very small amount of people would need and use it though. You might be interested in [CAT S60](https://m.gsmarena.com/cat_s60-7928.php)
+If you like the stock calculator, [you might want to try this](https://play.google.com/store/apps/details?id=all.in.one.calculator). Beware, it has annoying ads though.
+[Try mine](https://github.com/Timvde/UserChrome-Tweaks/blob/973ee7dc6d764b311d201cd5f179389d4aef0607/navbar/merge-tabbar-navbar-linux.css) and change the numbers (because it is not optimized for Windows).
+I think it would be great to have an "anonymous mode" built into Firefox. 
+
+However, remember when Tor used to be an extension, but was removed because people misunderstood it? What would prevent that now?
+>The white background around favicon option (not possible with WE)
+
+It should be possible by reimplementing the favicon with the styles applied, at least I think that is [how this Chrome extension works. ](https://github.com/adamschwartz/chrome-desaturate-favicons)
+>gradient
+
+Odd color choices though, would be very weird to read Wikipedia with that 😁
+Couldn't you use a music player for that?
+Seems cool, too bad I'm not a student at the moment 😁
+Brave?
+I got the 3 some weeks before 3T was released, no regrets.
+Care to elaborate on the discount?
+Makes me even more confident about upgrading, hope they don't turn the screen this time 😅
+>highlighting different results at the same time.
+
+I've seen that happen [in my extension](https://addons.mozilla.org/en-US/firefox/addon/find-from-address-bar/?src=userprofile), though I never intended it.
+So where is the list of things **to** buy? Because (most of) the things listed surely don't respect your privacy.
+>Edit - oh and 16:9. Those borders on 18:9 for watching movies is horrible 
+
+Most movies are *not* 16:9 though, so with good software support you could actually see the movie in a larger area.
+I was considering a V30, but now I think the 5T has more pros for my usage. Unless they ruin the price, of course.
+It is resolved because [there is a Find API now](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/find).
+The most reasonable explanation would probably be that Firefox has the settings for toggling those as a legacy feature, but in reality, [you still couldn't enable them anyway. ](https://support.mozilla.org/en-US/kb/npapi-plugins)
+Chrome bundles Flash, true. But Firefox doesn't bundle any kind of plugins, even for EME it asks you if you want it before installing.
+
+Regardless, neither browser support QuickTime, Real Player or Microsoft Silverlight anymore so there is nothing to disable, the content won't play anyways.
+
+Maybe the sites you use have just moved to HTML5?
+It is currently the latest beta version, but soon it will be the latest stable version.
+>If you find what I've found, you will discover that Firefox continues to load plugins for profiles that you may have deleted years ago, and for software that you may have uninstalled for security or other reasons.
+
+That makes no sense though. If it is deleted, there is nothing to load.
+I think even the Samsung's fingerprint scanner position is well reachable.
+r/fossdroid
+Maybe it was an extension that you no longer have?
+Doubt it. If they truly wanted to help, they could become a contributor to help in the official channels, instead of setting up a shady phone line.
+>Motorola: no announcements but every phone theyve released including the last one days ago has a headphone jack
+
+Incorrect, look at the Moto Z series.
+> I can't know before the update if my extensions are getting updated
+
+Well, you can't know if they will be updated *eventually*. You can, however know if they work *right away,* and that is what you can work on if needed.
+Enable hardware buttons and install an overlay for launching apps? For example, [this one.](https://play.google.com/store/apps/details?id=com.farmerbb.taskbar)
+I truly hope this will include [mouse event support](https://bugzilla.mozilla.org/show_bug.cgi?id=1246706), that can cover a lot of use cases at once.
+[The Forget button. ](https://support.mozilla.org/ee/kb/forget-button-quickly-delete-your-browsing-history)
+If an extension does something that should not be done in private mode, it should implement measures to fix it.
+
+For example, Smart HTTPS logs HTTP domains but has an option to disable that on private mode.
+I have collections for [Material](https://addons.mozilla.org/en-US/firefox/collections/tulirebane/material-personas/), [Windows](https://addons.mozilla.org/en-US/firefox/collections/tulirebane/windows-personas/) and [transparent](https://addons.mozilla.org/en-US/firefox/collections/tulirebane/transparent-personas/) themes, perhaps you like one of those designs?
+What if every unreviewed addon was marked experimental until it has been reviewed? (+ those where the dev chooses to mark their extension experimental)
+This is my first Firefox extension and one of my first attempts to use Javascript. I wanted to share it because the idea is kind of unique and it is probably the first extension on AMO to use the [Find API](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/find). 
+
+[It is buggy](https://github.com/Madis0/find-from-addressbar/issues), though, so I would appreciate contributions or better forks. If you have any other questions, feel free to post them below. 
+
+Enjoy!
+[Notifications are collapsable on Android Oreo with persistent ones being collapsed by default](http://www.androidpolice.com/2017/04/04/hell-yeah-android-o-feature-spotlight-persistent-notifications-compact/), so your problem will be solved whenever LG decides to update. 
+
+That said, I don't see a need for either of those notifications, that's what quick settings tiles are for...
+Wire
+Wow, didn't expect it to look that good.
+Also available in App info > Data usage for every app, which is way easier to do if you just want to change it for one app.
+Screenshot?
+Fleksy
+>Actually it is Chromium. With custom GUI. Currently we are early Alpha and plan major rewrite with Miniature One.
+
+I see, but it will still take years to complete, especially for a small team. 
+
+>I think 5 tabs in a row is far from *information overload* but if you like call it *user interface overload* . Which it isn't. :) Practically, these context switchers appear very useful when you actively work with and organize information.
+
+Surely they are useful when the user needs and wants them, but feel like bloat when they are forced upon them. 
+
+>We will improve these recommedations drastically, also make it adaptable to user (age, e.t.c)
+
+My point was rather, why bother at all? Do you have any statistics for seeing that they actually help users? 
+
+>Apart from *original* Miniature GUI we will ship optional, [conform](https://i.imgur.com/miAHYYn.png) view.
+
+Hmm, okay. Could use more icons instead of text.
+Seems like [this exists](https://github.com/chintown/monocle). If you create an issue and ask the developer nicely, they may be able to port it to Firefox ;)
+
+Since Firefox has sidebars, I imagine it could work even better than on Chrome, as it doesn't have to inject anything to the page, just scroll it on click.
+One big problem I see is that the [official site](https://mozilla.github.io/extension-finder/) still has much less alternatives than the [community version](https://docs.google.com/spreadsheets/d/1TFcEXMcKrwoIAECIVyBU0GPoSmRqZ7A0VBvqeKYVSww/edit#gid=0) (now locked, apparently).
+> Miniature
+
+Reviewing your browser, I've come up with some feedback and questions.
+
+1. Why didn't you base your browser off a popular one, like Firefox or Chromium? It is pretty hard to compete in 2017 with a featureless browser, even if you use someone else's engine. Or you just want to make it as small as possible?
+Edit: just realized it is based on Min. Still, the question remains.
+2. Talking about *information overload*, your browser unfortunately has plenty. 
+  * At least 5 tabs and tab groups are forced, even if empty
+  * Tab groups itself is forced, it is still a niche feature that most users either don't need or don't care enough to use
+    * The Overview sidebar button-thing takes too much space - I see that you did it for visual consistency with the buttons above, but why not make the menu a menu and tuck a menu item for opening it inside? The menu could also be used for other things that are evident by keyboard shortcuts but have no visual clues (buttons) in other UI.
+    * A catalogue of your recommendations of pages to visit. It is 2017 and we, users know what to visit and know how to get things we don't know exactly (search engines). Better replace it with user's bookmarks.
+3. I found a bookmarking star, but not a way to show bookmarked pages.
+4. The icons appear grayed out at all times. Maybe add some saturation on hover?
+5. There seems to be a concept of "private tabs", but no way to view/clear history on normal tabs.
+6. The menu bar doesn't work on my Ubuntu and I'm not sure if the swipe navigation should work on non-touch devices, no description about it.d
+>User may want to see title instead. Like me :)
+
+I've been thinking about this for long, surely the title looks prettier than an URL (I know [some](https://minbrowser.github.io/min/) [more](https://play.google.com/store/apps/details?id=com.crowbar.beaverlite) browsers that use this approach), but it is much more important to see the URL because of phishing. And no, showing just the domain (Safari) won't suffice, because bad sites can host themselves on good or good-looking domains.
+I think that the browser UIs are still way too large. 
+
+Sure, we've gone a long way removing pointless buttons, menus, search bars while also adding tabs that are more powerful than ever. Tabs on top is a great thing, cheers to Chrome for popularizing that.
+
+However, why stop there? There are still lots of things to simplify and screen real estate to gain. 
+
+* First we could [merge the tabs and address bar like IE does](https://www.eightforums.com/attachments/tutorials/33126d1386579570-internet-explorer-11-synced-tabs-open-windows-8-1-a-desktop_ie11_new_tab.jpg), just without the pointless titlebar. 
+* Going a step further, why not merge the address bar with the active tab? You don't need to see the title when you see the page itself, like mobile browsers.
+* The extra toolbars. Bookmarks bar could be just an entry of the autocomplete popup, maybe even appearing before you type (just focus the address bar). The find bar could be an address bar search engine, for example accessible by *f (keyword)*. [It could even autocomplete!](https://chrome.google.com/webstore/detail/spot-better-find-in-page/bbpdiffmmobnnngmfigpgddgjpgjgbol)
+* The smaller stuff. Let's [get rid of the green locks and space-wasting "https" in URL, just mark http as insecure](https://bugzilla.mozilla.org/show_bug.cgi?id=1310842) and be done with it. A bit more advanced, but we could [remove back-forward and use the height of the monitor](https://addons.mozilla.org/en-US/firefox/addon/milewideback-webext/) for navigation. Page-related things could appear in the address bar (like modern browsers do already, but downloads too), user-added (extensions) will appear in the toolbar, moved to where the user wants to see them ([or even to the main menu, like Chrome conveniently lets you do](https://lh3.googleusercontent.com/UdrwjzoUgXDj2buee86jAdZs3FiMMsjwLx1m2Vc2fT5dre-QyxcHeADReI73GEEgYXl5aBZ-OY8v_2cywnK27XnY3NHWwJ4ewlkoZzE8LtGuat0QLfkZBGpbqHhJ3OnEioCDKlWH)).
+I don't think I need this, but I wonder - does it only work with YouTube?
+The Test Pilot form is locked to the organization 🙁
+Okay, thanks for sharing your experience though!
+[Promoting my collection](https://addons.mozilla.org/en-US/firefox/collections/tulirebane/security-privacy/) again 😉
+
+Edit: it has redundancies though, but that's why I commented on every one of them, so you could pick according to your needs.
+So it feels more like a thin case than a screen protector? (just using examples of related items)
+> I should have just waited :/
+
+Why so?
+Perhaps it is a script that can be blocked with uBlock Origin? As I haven't seen that so far.
+Search for "immersive mode" on the Play Store, there are tons of options for it.
+[Firefox comes close and even passes that ;\)](https://telemetry.mozilla.org/new-pipeline/dist.html#!cumulative=0&end_date=2017-10-19&keys=__none__!__none__!__none__&max_channel_version=release%252F56&measure=HTTP_PAGELOAD_IS_SSL&min_channel_version=null&processType=*&product=Fennec&sanitize=1&sort_keys=submissions&table=0&trim=1&use_submission_date=1)
+There are many alternatives, [such as this](https://addons.mozilla.org/en-US/firefox/addon/contextual-search/).
+>example.com is HTTP only 
+
+No it's not, HTTPS is just optional at the moment.
+[WheelTab](https://addons.mozilla.org/en-US/android/addon/wheeltab/) is the closest you can get, but you might also want to try [MileWideBack](https://addons.mozilla.org/en-US/android/addon/milewideback-webext/).
+I would rather ask you some questions back instead of making the decision for you.
+
+> Violentmonkey vs Greasemonkey (the beta version) 
+
+Oh cool, the beta version is already out! More mature as a WebExtension vs bigger name/dev team?
+
+> Decentraleyes vs Local CDN
+
+More popular and bigger development vs small fork with more CDNs (as you say)?
+
+> HTTPS Everywhere vs Smart HTTPS (revived)
+
+Crowd-sourced and tested rules vs trying HTTPS on literally every site (ironic name swap, haha)? [See](https://www.reddit.com/r/firefox/comments/766hs9/how_many_securityprivacyadblock_extensions/dobrnmf/) [also](https://www.reddit.com/r/privacytoolsIO/comments/5qnq6j/time_to_stop_recommending_https_everywhere/).
+
+> Link Cleaner vs Neat URL
+
+Primarily popular sites/parameters vs configurable and more global?
+
+> Stylus (beta) vs Website Theme Manager vs reStyle vs xStyle
+
+I would only consider the Stylish forks, as the other two are too barebones in my opinion (why not use userContent.css at that point?). Though reStyle seems to support UI styles, if you're into that sort of thing. In my opinion it comes down to more popular/more features (Stylus) vs subjectively prettier UI (xStyle)?
+
+> Unload Tab – Tab Suspender (Tab Unloader)
+
+Haven't used (needed) either, judging by what I see on the AMO page/code. More lightweight vs more popular?
+
+> Also: Is No Cookies For Old Men needed when using Cookie AutoDelete?
+
+No, because the first attempts to limit the cookies and their expiration while the latter just deletes everything from a site.
+Didn't have a 2:1 screen, so didn't see a reason to upgrade.
+> 1 VAB (virtual action button).
+
+[Floating Action Button](https://material.io/guidelines/components/buttons-floating-action-button.html).
+The lightweight themes Firefox promotes are certainly safe, they are just images with some displaying parameters. 
+
+The legacy full themes, however, can change the UI elements directly, therefore you may have security/privacy concerns when the HTTPS icon looks unknown or missing, for example. But these themes will be deprecated with Firefox 57 anyway (probably still work in Thunderbird).
+
+>For example, when I tried installing [TT Deep Dark theme](https://addons.mozilla.org/en-US/thunderbird/addon/tt-deepdark/) in Thunderbird, a prompt appeared saying that I should only [allow/install addons I trust](https://i.imgur.com/ZJ4RYg8.png).
+
+That is a standard warning for all Thunderbird extensions and previously Firefox's too. Good news is that with the newest Firefox extensions you can clearly see which permissions an extension uses.
+Firefox permissions are actually easy to access, and have been that for years. 
+
+**Right click > View page info > Permissions.**
+
+Can't remember if you can disable JavaScript from there though.
+>Click&Clean
+
+What about the [Forget button](https://support.mozilla.org/ee/kb/forget-button-quickly-delete-your-browsing-history)?
+[This can help you port the extension](https://www.extensiontest.com/), though you do need the extension file first.
+[I have a collection](https://addons.mozilla.org/en-US/firefox/collections/tulirebane/security-privacy/) for this purpose, check it out and choose what you think you might need.
+>fonts don't work with Andromeda 
+
+Yeah, that's what I was wondering, [because this exists](https://play.google.com/store/apps/details?id=com.thepsycraft.emojifontsub). Thanks for clarifying!
+Isn't Substratum enough for this? Especially since it's rootless now.
+Wonder why the reload button is still on the right...
+>Does anyone really granularly change their ringer volume on a regular basis? 
+
+Seems like that's how most activate the DND mode, despite there being a tile for it.
+[Try this tutorial](https://developer.mozilla.org/en-US/Firefox/Enterprise_deployment) or [the wiki](https://wiki.mozilla.org/Deployment:Deploying_Firefox).
+[Try ADB,](https://android.gadgethacks.com/how-to/change-your-androids-screen-resolution-without-root-access-0160439/) but be warned that you may mess things up with too high or low values.
+>Here's some [screens](https://imgur.com/a/w15Mn) for comparison.
+
+Ah yeah, I get your point now and agree with it.
+I suggest you to try gestures instead, recommending [AIOG](https://play.google.com/store/apps/details?id=com.phoenixstudios.aiogestures) for non-root and [GMD](https://play.google.com/store/apps/details?id=com.goodmooddroid.gesturecontroldemo) for root. Only question would then be how to get rid of the navigation keys, for root it is [just a build.prop edit](https://stackoverflow.com/a/19049898) away, but for non-root [maybe with this app](https://play.google.com/store/apps/details?id=xyz.paphonb.systemuituner).
+>no forced material design bullshit 
+
+I'm glad you like it, but don't you think Firefox's UI also resembles Material Design in a way?
+The accent color reminds me of Jelly Bean, but I prefer the dark background and 4 columns.
+In Oreo it should open the panel when you tap the text.
+>New Quick Settings design 
+
+Screenshot? I'm wondering if it has any customizations or looks stock now.
+Warning: potential battery drain because of a silent background sound. [Remapping the buttons](https://play.google.com/store/apps/details?id=com.irishin.buttonsremapper) may be a better idea.
+Maybe if [SearchThisSite](https://addons.mozilla.org/en-US/firefox/addon/searchthissite/) gets reimplemented as a [address bar search engine](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/omnibox)?
+FYI, Firebug is deprecated in favor of the built-in tools. [See this for migration. ](https://developer.mozilla.org/en-US/docs/Tools/Migrating_from_Firebug)
+Interesting. [What is your chance on this? ](https://www.reddit.com/r/privacytoolsIO/comments/5qnq6j/time_to_stop_recommending_https_everywhere/)
+>it doesn't protect from SSL striping 
+
+That depends on how fast can it redirect the user, which I'm not too sure of. 
+
+>content for the HTTP version differs from it 
+
+That is possible, yes, but a very stupid thing to do. Like the websites that exist today and don't work without *www*. 
+
+>some websites may require complex rules such as `https://www.example.com` may not actually work, but `https://secure.example.com` may work 
+
+Again, kind of stupid. But yeah, Smart HTTPS does what a user would do instead of searching for "secret" versions of the sites.
+You certainly don't need Disconnect with uBlock Origin, it's filters include the tracking domains anyway  
+You can check HTTPS Everywhere's effectiveness by clicking on it on different sites, however as it bases on a ruleset, it may not be effective on rare or regional sites, therefore you can try Smart HTTPS (revived) instead.
+
+As an answer to the title, it is not about *how many* but rather *for what* you need the extensions for. [I have made a collection](https://addons.mozilla.org/en-US/android/collections/tulirebane/security-privacy/) for different privacy and security needs, that should work well together, but it's up to you to pick what you need.
+Theory: change the assist app to something like [Swipeup Utility](https://play.google.com/store/apps/details?id=com.AdrianCampos.swipeuputility)?
+*about:config* is still there, feel free to tweak what you want.
+Depends on your definition of "configurable". 
+
+Surely, extensions can't change the UI too much anymore (like in Chrome), but they still can right now and soon do more than of Chrome's, such as having sidebars or changing themes dynamically. The themes are currently just background images, but should also get more "powerful" soon.
+They are available, there are more than 5000 of them. The only difference is that they will work like they do in Chrome now, like one button per extension, visible permissions, badges and so on.
+What is the issue though? Too drastic change?
+Wire, Signal
+The API is nice, could make the autocomplete entries even more useful.
+>I don't think an API to make the features in Add Bookmark Here has been created yet.
+
+I haven't read the thread nor used the extension, but I think it could theoretically be possible if extensions can manage any bookmarks in a folder. 
+
+* The extension makes sure a special bookmarklet is placed on top of every folder (can't be moved/removed - will be recreated at the same place) 
+* When user clicks the bookmarklet, the extension receives signal for which folder it was clicked on. 
+* Extension does the rest - creates a bookmark in the folder and opens the management popup.
+[Try this.](https://www.extensiontest.com/)
+But how does the normal tab bar look in Safari when filled?
+I haven't had a chance to test this, but I do like seeing that Mozilla is considering adding this back. 
+
+My personal preference is Chrome, but improved - make the tabs as small as they can be and if they become unclickable, add a scroll bar.
+FYI, these are just the [Firefox Quantum](https://www.mozilla.org/en-US/firefox/quantum/) (Quantum is a marketing name for the improvements) improvements you've seen, therefore version channels Beta, DevEd and Nightly are all as smooth, and Stable will become too on November 14.
+
+Simply put, your default will become like that soon.
+[Only if this gets implemented.](https://bugzilla.mozilla.org/show_bug.cgi?id=1246706)
+[This](https://addons.mozilla.org/en-GB/firefox/addon/undo-closed-tabs-revived/?src=search) seems to be more suited for the OP, since it provides a menu instead of just restoring the last one.
+Or it could just let us add our own filter lists...
+Unless they pull a Pixel and use a 18:9 screen with no size benefit (smaller bezels)...
+Do you notice the side bezels when using the device? Or any bezels, because of the rounded corners?
+Not really, they will be inaccessible but still take storage space.
+Moto X? 😁
+I want a V30 this year and it would be my first phone with a glass back, so I'm thinking of getting a skin to somewhat protect it. Not going to get a case or screen protector though.
+I wonder why CSS even has that property. `content` kind of makes sense, but replacing whole files?
+Perhaps it's an embedded WE?
+If you don't activate any of them, I don't think they can affect performance.
+1. Can't autofill apps help with that? 
+
+`3`. Switch keyboards?
+To get rid of hardware buttons without reducing screen space. Assuming you are talking about Galaxies, that is also probably why they chose 18.5:9 instead of 18:9.
+* Easy e10s disabling (which you won't need, hopefully) 
+* Works in a separate profile by default 
+* Some web dev tool button which I can't remember 
+
+I mostly use it just because it receives (or has received) early releases faster than Beta, but slower than Nightly.
+Isn't it easier to just print a new one? The only app I know that can use a random (but specific) QR-code for something is Morning Routine, an alarm app.
+For now, [this extension](https://addons.mozilla.org/en-US/firefox/addon/multiselect-tabs/) lets you do the same, although it is less intuitive.
+Could've looked better without the lighter shade and camera text on the back.
+You might be able to reuse the full screen mode for that, as in removing or keeping the tabs only in that mode.
+I do not recommend doing that, rather follow some Bugzilla bugs like [this](https://bugzilla.mozilla.org/show_bug.cgi?id=1379247) and [this](https://bugzilla.mozilla.org/show_bug.cgi?id=1310842) in order to make your address bar contents cleaner for secure connections. (latter can be done now with the combination of [an extension](https://addons.mozilla.org/en-US/firefox/addon/snap-http-padlocks/) and [some css](https://github.com/Timvde/UserChrome-Tweaks/blob/master/navbar/hide-ssl-lock.css))
+[Google also tried that](https://www.extremetech.com/computing/181657-google-moves-to-kill-off-the-url-entirely-in-new-version-of-chrome), but scrapped it for phishing purposes. Can't remember if it was *the* reason, but one of the reasons was using long domain/subdomain names that looked like some other site and if long enough, would disappear from the address bar entirely.
+https://forum.xda-developers.com/android/apps-games/app-google-dialer-t3557412
+Nope, I was [referring to this](https://addons.mozilla.org/en-US/firefox/addon/inlinedisposition-webexts/), there is [an alternative too](https://addons.mozilla.org/en-US/firefox/addon/display-inline/). The Findbar Tweak might be able to port soon, as Mozilla just announced the Find API.
+This help article explains it: https://support.mozilla.org/et/kb/firefox-add-technology-modernizing
+I don't really think you can expect the same size, from the Pixel 2 XL images top and bottom bezels are larger and side bezels are smaller.
+Is it possible to make the tabs close by double click too? Without a visible close button, that is.
+So they do donate to charities after all. Didn't seem so when they dug the hole.
+Seems so, yes. But I'd even be happy to just see the one-tab-find reimplemented in another way (address bar search engine, pretty please?).
+I didn't mean that to be a replacement to the review system, but rather to not be afraid of *every* "random" add-on, like the commenter said.
+> Now the only question that remains is how to inspect the individual things in Tree Style tabs. I guess the issue is that it's in the sidebar.
+
+*about:debugging* > Tree Style Tabs > Debug > open it's sidebar
+Find API seems interesting, can't wait to see extensions built upon it. Same goes for optional permissions, which I truly hope many developers take advantage of.
+If you know how addons work, you can inspect them with [Extension source viewer](https://addons.mozilla.org/en-US/firefox/addon/crxviewer/). For example, I've used it to compare extensions with a similar purpose to see which one is more efficient or smaller.
+Depends on how often you're using the device and its primary functions. 
+
+Examples: OnePlus' navigation keys, most phones' volume and power buttons, fact that notification tray exists despite no down-facing arrows on notification bar, etc.
+Tasker and Tasker App Builder can do this, but are probably not very efficient for this simple purpose.
+That's true, I've been "fixing" that by using a white-gray shade theme in order to get notification bar separated at least.
+>When folks complain that they are losing functionality they've relied on for a decade and the response is a lazy  referral to CSS, then the community has lost touch with users to a very worrisome extent.
+
+>It's just not a reasonable reply. Yes, *I* can navigate that kludge, *but it isn't about me.* It's about the much bigger chunk of Firefox users who just want the best browser experience they can get for the effort they can muster and not making things significantly worse for them.
+
+So it is better to say it cannot be done at all instead of suggesting something that may be a little harder than one click install? I don't get that logic.
+>terribly imperfect replacement attempt 
+
+doesn't really have to be an extension, especially when it cannot be anymore, hence I was guiding that person to what they were looking for.
+57 is not stable yet...
+>I'm dumbfounded to find not even a terribly imperfect replacement attempt for things like Classic Theme Restorer.
+
+r/firefoxcss
+You might want to repost this to r/firefox.
+I actually don't need the brightness that much, it would just be better than nothing (ahem, Bixby button). 
+
+I'm interested in that app though, would you say it is better than All-in-one Gestures?
+Maybe it's because I have power notification controls enabled on System Tuner, try that.
+Open the app info > On the lock screen > Hide sensitive notification content.
+Make all three options fully customizable (like the front buttons, plus a custom app/shortcut support would be nice) and place back my beloved DND tile. 
+
+Personally I would use the slider for setting screen brightness.
+Blame Lenovo, white status bar is an official Android API.
+Contact the dev of whichever app (system?) made a white icon. White statusbar is a feature of Android 6.0 IIRC and Firefox is not the only app to take advantage of it.
+You can't theme the notification bar unfortunately, but you can theme the top bar. Maybe Firefox mobile will regain the dark theme eventually...
+The latter is available as a WebExtension.
+Perhaps try this? https://addons.mozilla.org/en-US/firefox/addon/bookmarklets-context-menu/
+I think of it as broken because while it was nice and all to make your own menu, it didn't include *everything* so it couldn't fully replace the aging menu bar.
+Unless Mozilla handles it well in the UI. Right now it only redirects users to their collection, but I hope it will suggest specific extensions in the future.
+I understand this may not be your job, but you should pressure the organization to use HTTPS, [with this page for example](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https).
+You can emulate the old one though, by moving items to the overflow menu. [Or if you prefer the even older one... ](https://addons.mozilla.org/en-US/firefox/addon/application-menu/)
+> Note: Firefox 57+58 users should [Install from our latest GitHub Release](https://outgoing.prod.mozaws.net/v1/dc0c83a8fa9601d8fa71a4560a1055ad954f070fc607b05d7db2f36474856676/https%3A//github.com/mozilla/multi-account-containers/releases/latest)
+That's because these things never had official APIs. If there are developers and users who want them, they might very well add new APIs for them.
+>Private Tab 
+
+Not *private* per se (as in no history/cache), but a similar isolation idea is provided by Mozilla's [Containers](https://addons.mozilla.org/fi/firefox/addon/multi-account-containers/). Also try [Containers on the go](https://addons.mozilla.org/fi/firefox/addon/containers-on-the-go/) to easily create temporary containers. 
+
+> URL Fixer 
+
+If you're willing to add exceptions manually and know some RegEx, you could try [Redirector](https://addons.mozilla.org/fi/firefox/addon/redirector/).
+It is not as bad as people think, there are [many alternatives](https://docs.google.com/spreadsheets/d/1TFcEXMcKrwoIAECIVyBU0GPoSmRqZ7A0VBvqeKYVSww/edit#gid=0), Mozilla will likely also suggest them when 57 gets released. If you still struggle with some specific add-on, r/firefox can help you out.
+Pretty sure there is a setting for it to disable DRM for all sites, look for it under Privacy tab.
+In that case, a tall phone that can fit more pockets.
+A tablet in your pocket?
+[My Cloud Player](https://play.google.com/store/apps/details?id=com.mycloudplayers.mycloudplayer)
+[There is an extension that does this.](https://addons.mozilla.org/en-US/firefox/addon/australis-refresh-in-url-bar/)
+[Here's my collection. ](https://addons.mozilla.org/en-US/firefox/collections/tulirebane/security-privacy/)
+> This can be fixed by setting a greater -moz-box-ordinal-group for #page-action-buttons
+
+Oh yeah, weird why I didn't think of that.
+
+> Are you thinking of hard-coding this?
+
+Well yeah, previously this used to work, with 57 it needs some readjustments.
+    
+    #PopupAutoCompleteRichResult .ac-site-icon
+    {
+      margin-left: 10px !important;
+      margin-right: 10px !important;
+    }
+    
+    #PopupAutoCompleteRichResult .ac-type-icon
+    {
+      margin-left: 10px !important;
+    }
+Well, the websites can't access internal js files, but bookmarklets may (perhaps with some preference enabled).
+I'm aware of that, but thanks.
+I've found [this bookmarklet generator](https://mrcoles.com/bookmarklet/) and attempted to use the line and the file, but got some errors (see OP). Maybe someone more familiar with JS can do something to fix it?
+> Advanced URL Builder
+
+[This looks similar](https://addons.mozilla.org/en-US/firefox/addon/selection-context-search/).
+https://testpilot.firefox.com/experiments/min-vid/
+Ah, thought you meant right click and shift.
+ESR 52 or r/waterfox
+You don't need to hold shift for this extension, though I guess you could suggest it to the developer.
+[This is the closest you can get with WE.](https://addons.mozilla.org/en-US/firefox/addon/wheeltab/)
+Inside no, next to it yes. Inside could be done with an extension that replicates it.
+I would recommend getting Stylus instead and styling it's popup with CSS to match your preferences.
+Becuse those who want a classic look are a minority. I got rid of the menu bar even in 3.x 😁
+>If Kaspersky said you have to use Windows 7 until Windows 11 comes out, you'd rightfully seek an alternative and recommend others to do so too.
+
+Wrong analogue. Kaspersky would rather say that it does not support development builds, which are called Insider in Windows case.
+>I did something in about:config, not sure what.
+
+Check about:support for changed values ("important modified preferences").
+Recently installed extensions should be on the cog menu > Show recent updates (or similar), they are mixed with updated addons.
+That uses Bluetooth though, so is more battery intensive for both devices.
+You misunderstood.
+https://www.nngroup.com/articles/browser-and-gui-chrome/
+UI-wise (from screenshots), the attachment buttons look very close to each other, making it hard to click, the phone icon is rotated wrong.
+
+IM-wise, why reinvent the wheel by making yet another IM service? It would be much more useful to people if you just forked Signal (most similar to your idea), WhatsApp or Telegram and just built your own extras upon it.
+That is correct, edited my comment.
+Yes, because Stylish itself will stop working and your theme is based on Australis UI, which will be gone too. 
+
+However, the good news is that ~~full themes~~ skins like that will still be possible to create and apply to [userChrome.css](http://kb.mozillazine.org/index.php?title=UserChrome.css&printable=yes) (ask your theme developer!), and the upcoming [Photon UI](http://design.firefox.com/people/shorlander/photon/Mockups/windows-10.html) will look much more Edge-like anyway.
+I know it is a joke, but it could still be executed a bit better.
+
+* Make sound and animations opt-in
+* Round corners from the bottom too
+* If the user prefers Android, change the toggles too :P
+* On pre-Oreo, you could show the overlays on top of notification bar for better experience
+* Add cameras and stuff inside the notches
+> Noscript
+
+Wait for port or uMatrix, No-Script Suite
+
+> Random Agent Spoofer
+
+There aren't WE user agent *randomizers* yet, but I've heard from somewhere that they expose you more than not using one. There [exist on-demand UA switchers though](https://addons.mozilla.org/en-US/firefox/search/?q=user+agent&tag=firefox57).
+
+> CookieMonster
+
+[This claims to be a replacement](https://addons.mozilla.org/en-US/firefox/addon/cookierazor)
+
+> Smart Referer
+
+[Built-in setting](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referrer-Policy#Browser_compatibility) or [maybe this WE](https://addons.mozilla.org/en-US/firefox/addon/referercontrol/)
+
+> Stylish
+
+Stylus, xStyle
+> Something I thought would be unique would be to have the find bar integrated into the address bar, back/forward buttons, and the stop/reload button.
+
+This is what I would prefer too, it could be made with an extension that just implements an address bar keyword.
+
+But for now, [here's my style for a compact find bar](https://userstyles.org/styles/121537/compact-find-bar-fx-50).
+It still gets the betas earlier than Beta release itself, [Firefox 57 is an example for that](https://www.reddit.com/r/firefox/comments/6ynz2j/firefox_57_going_to_betadevedition_earlier/).
+
+> September 19th, we will push to the
+devedition population the first beta of 57. Later, we will be pushing a
+second beta to this channel.
+[...]
+The regular beta population will remain on 56 and will be provided
+updates to the RC builds. 
+Correction: Nightly > Developer Edition > Beta > Stable
+>What should be improved inside of the app's settings?
+
+It should look like other apps - simple Material design. No need to make your own custom design, it only makes navigation harder.
+[AppOpsX](https://play.google.com/store/apps/details?id=com.zzzmode.appopsx), [App Ops](https://play.google.com/store/apps/details?id=rikka.appops), [Advanced Permission Manager](https://play.google.com/store/apps/details?id=com.gmail.heagoo.pmaster) (repackages apps)
+Yes, it would be nice to see Apple finally do something with bezels. Would also want the touchscreen fingerprint scanner and gestures instead of buttons (at least home).
+>But wasn't available to O. 
+
+In O, overlays can't overlap the status bar, so it wouldn't be usable anyways.
+The notification shade looks nice, but the app's settings themselves look hideous...
+
+Also, flashlight shouldn't require camera permission since 6.0.
+I recommend [these extensions](https://addons.mozilla.org/en-US/firefox/collections/tulirebane/security-privacy/) (some of those overlap in features) and [these tweaks](https://gist.github.com/Madis0/a74876bb00721916211e054f77045d44).
+Is the first link even describing the new system? It looks as simple as the current lightweight themes, just with the addition of letting them be dynamic.
+Interesting approach to tabs, however they keep reloading when switched.
+I meant that Mozilla's XUL extensions will run after 57 anyways (as they are meant to be integrated and all that), so why not display the tag too.
+They could make an internal exception to show "Compatible with Firefox 57" on this add-on.
+You could move them to the right side of the tab bar though.
+https://addons.mozilla.org/en-US/firefox/addon/minimize-window-button/?src=search
+https://addons.mozilla.org/en-US/firefox/addon/close-window-button/?src=search
+>And are there any must have settings that need to be changed from default? 
+
+No, it uses more filters than ABP and therefore blocks more ads right away.
+Looks clever, but MileWideBack does more than just going back a page.
+Why not [post them here](https://github.com/Timvde/UserChrome-Tweaks)?
+Ah, I see. In that case, [this extension](https://addons.mozilla.org/en-US/firefox/addon/inlinedisposition-webexts/) helps achieve a similar idea (no prompt, just opening supported files instead of downloading them)
+>Open in browser 
+
+https://addons.mozilla.org/en-US/firefox/user/AndyPortmen/
+Or one could just search for individual tab features they need, and therefore fix their issues right away.
+https://addons.mozilla.org/en-US/firefox/addon/simple-close-tab-button/
+https://addons.mozilla.org/en-US/firefox/addon/close-current-tab/
+Yes, just pin and change the URL.
+Some features of the theme can probably be implemented with the new theming API, after that one could use userChrome.css to "fill the gaps".
+>switch the close tab button from right to left
+
+[Maybe this works in 57](https://userstyles.org/styles/116925/firefox-combined-favicon-and-close-button) 
+
+>move the blue selected tab highlight from top to bottom 
+
+`.tab-line {-moz-box-ordinal-group: 2;}`, though this does not change the Containers line as suggested below.
+>Please just do so! If everyone has that attitude, we won't get anywhere. So please, contribute! :)
+
+Mm, you have a point. I'll make an issue with some of my styles that work in 57+, so you could make files for them in this repo.
+>I am planning to also release a Python script to manage your `userChrome.css` using this repo. It'll automatically clone the repo and edit `userChrome.css` automatically :)
+
+Ooh, sounds cool! Have you considered making an extension too in order to get an easy management interface for the styles? [I have some ideas here.](https://github.com/openstyles/stylus/issues/92#issuecomment-311944577) 
+
+Edit: you already saw my ideas when I initially posted them 😁 
+
+>I'm also not very familiar with the in-browser devtools to change Firefox itself, so I'm probably not the right person to write that out. 
+
+Will do, though I can't access a computer for a few weeks to verify my tutorial. 
+
+Also some problems I thought about: 
+
+* How can users discuss a specific style? 
+* What if the style description is very long? (compared to others, when placed in the list) 
+* How to deal with FX version support? Will you test all styles over in every release? 
+* License problems. I'm fine with all my styles being public domain, but I'm not sure about others. 
+
+If the project succeeds, I'll contribute some of my own styles too when I get a chance, getting really tired of the userstyles.org mess.
+Some ideas for this: 
+
+* Add guides to what the repo is for, simplest way of using the css codes (open profile from about:support etc) in user's browser and simplest way of previewing the codes (dev tools > advanced settings...) 
+* Create a list in a wiki page with the mod title, link to file, purpose (description) and screenshot(s)
+* Encourage adding comments to files to help newbies adjust the styles to their liking
+It has rootless versions now.
+[iYTBP is similar, but still being updated](https://forum.xda-developers.com/android/apps-games/app-iytbp-injected-youtube-background-t3560900).
+[Optional permissions](https://wiki.mozilla.org/WebExtensions/Permissions) will come later and require devs to take advantage of.
+Yeah, but Reddit 
+
+* always prefers new posts 
+* doesn't support a native way of showing screenshots 
+* locks old posts after 6 months 
+* doesn't have a compact way of showing many lines of code 
+* isn't the place where current Stylish/userChrome.css users look for content 
+
+I'd say we need a new complete website to replace Us.o, and many [users of the site](https://forum.userstyles.org/discussion/55351/update-about-userstyles-new-design-release/p9) [and Stylus](https://github.com/openstyles/stylus/issues/32) agree.
+The point is rather: why not display both?
+userstyles.org is a better place for that, even if the site redesign broke a lot of features. I don't think Reddit is good for dynamically updatable content...
+> So it seems this is not a uBlock issue, but an issue with that filtering list?
+
+Probably. [You can report the issue here](https://forums.lanik.us/viewforum.php?f=64&sid=c1c6c5a7670b374c063536901282cce6).
+>Add an own 'Store' app to remove/install/update existent apps 
+
+F-Droid supports custom repositories, so this would not be needed. 
+
+>Allow two separate VPN tunnels to the same time in case you want to use a VPN + an adblocker/firewall which works over VPN Tunnel e.g. AdGuard/NetGuard.
+
+Seems like a waste of effort considering your next points.
+I prefer [New Tab Tools](https://addons.mozilla.org/en-US/firefox/addon/new-tab-tools/), WE is on development channel.
+https://docs.google.com/spreadsheets/d/1TFcEXMcKrwoIAECIVyBU0GPoSmRqZ7A0VBvqeKYVSww/edit#gid=0
+Yeah, but it isn't too obvious that you have to do that.
+>non-website pages (like blank or addons or newtab) ?
+
+New tab and blank pages may be compatible, if the extension implements integration somehow (by replacing the pages, probably), but if you want addons and internal pages, you're better off using a system program for gestures.
+At the same time, there are options in about:config that should be exposed instead. For example, *browser.urlbar.oneOffSearches*.
+[Country Flag +](https://addons.mozilla.org/en-US/firefox/addon/flag-plus/)
+[Smarter WiFi Manager](https://play.google.com/store/apps/details?id=net.kismetwireless.android.smarterwifimanager) does this.
+You could still play them outside the browser with [Flash projector](https://www.adobe.com/support/flashplayer/debug_downloads.html).
+Stay-open menu won't be needed as the new Library menu behaves this way, uBlock Origin will be a webextension soon (already available in dev channel).
+For things that can be (or already are) done with CSS, you can just take from [CTR's source folder](https://github.com/Aris-t2/ClassicThemeRestorer/tree/master/xpi/content/css).
+
+>Remove Close Button from Add-on Bar 
+
+No add-on bar, no close button to remove 😁 
+
+>merged Stop-Reload; New Tab cross 
+
+You can move these in customize view. 
+
+>Extra Buttons: spacers and separators.
+
+The dynamic spacer has been readded to Firefox in 57.
+
+>The ability to remove any and every icon/button from the URLbar 
+
+Somewhat possible natively - Firefox 57 lets you hide the right side icons that appear on three dot menu.
+>Add "Reload" button on the right side of "Home" button.
+
+You can do that by simply using the toolbar customizer in Firefox 57+.
+[Wachete](https://addons.mozilla.org/en-US/firefox/addon/wachete-monitor-web-changes/)
+The light themes can't base off the built-in compact themes, they still use the default theme as a base. You might be more happy when Photon lands, there you can make the default theme compact (without a special theme, it is just a setting).
+It looked promising, but after seeing how much the notification bar wastes space, I lost my interest. 
+
+I mean, it makes sense for videos, but for any other apps I'd much rather crop some pixels from the center.
+>narrow down which add-ons were specifically using too many resources 
+
+That should be in either about:support or about:performance.
+[Perhaps this one?](https://addons.mozilla.org/en-US/firefox/addon/worldtime/)
+Oh yeah, they made that. Guess people just used CTR instead of this so they didn't have stats and thought nobody wants this 😁
+`.tabbrowser-tab {min-width: 1em !important; clip-width: 1em !important;}` seems to be enough for this, when added to userChrome.css
+>So activating the preference for enabling legacy addons in Nightly wouldn't save them from breaking over time, right?
+
+Correct. 
+
+>Also, why would I use FF 52 ESR when I could just stick to the stable release until v56 then turn off the auto update instead?
+
+Because ESR still receives security updates.
+There has been a feature [Find as you type ](http://website-archive.mozilla.org/www.mozilla.org/access/access/type-ahead/), not sure if it still exists.
+Wow, this layout is more popular than I thought. Makes me wonder what is Mozilla's stance on this (for native support).
+Why not use the built-in reader mode? Just hit the Aa button to change colors.
+I'd like to see it in a page action, so it could hide itself when it is not needed (like it is planned for default one in Photon).
+This one feels less hacky than the other commenter's solution. Thanks!
+[This version is cleaner code-wise,](https://www.reddit.com/r/firefox/comments/6lb3m4/chrome_styled_tabs/djsmatf/) I'd even do just
+`.tabbrowser-tab {min-width: 1em !important; clip-width: 1em !important;}`
+
+Seems to work well.
+Other commenters seem to have missed the Android part of your question, though they are right in the sense that the Android version will also support only WebExtensions soon, so it wouldn't become (nor is it currently) possible to make it with an extension. 
+
+I would suggest searching [bugzilla](http://bugzilla.mozilla.org) or filing a bug yourself for this, I'm sure there are others who would want the same.
+[This might work](https://addons.mozilla.org/en-US/firefox/addon/external-application/), or you can just bookmark the file:/// path for a read-only folder view.
+>I don't know how to search it though...
+
+You search for the keyword you want and choose the tag from the left side.
+A feed reader is a nice idea, seems to work quite well, with the only problem being lack of thumbnails. 
+
+Tutorial for others: 
+
+1. [Go to your subscriptions](https://www.youtube.com/subscription_manager) 
+2. Scroll down, tap Export subscriptions 
+3. Download the RSS reader, tap menu > Import feeds from OPML 
+4. Redo the tutorial when subscribing to someone
+>Privacy settings 
+
+This is probably the only one you'd have to give up, others will be ported soon. You don't have to worry too much though, since there are online alternatives [like this](https://github.com/ghacksuserjs/ghacks-user.js) [and this](https://www.privacytools.io/#about_config). You can achieve the results in three ways: 
+
+* use the official settings page 
+* modify preferences in *about:config*
+* list the preferences to modify in [user.js](http://kb.mozillazine.org/User.js_file)
+
+>smart https 
+
+[Use the revived version. ](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/)
+>but you will have to do it externally on Nightly from now on.
+
+The mockups claim they will get movable (but not removable), so in theory you could just move them to a toolbar you don't use like menu bar.
+Don't the lightweight themes do this? Try something white.
+[Port to WE is planned. ](https://github.com/Noitidart/Chrome-Store-Foxified/issues/63)
+Looks promising, but crashes for me when clicking on a video (overlay permission given) and I'm not interested in a small popup anyway...
+Smart Launcher.
+Not sure, since I'm a member already. Open the Play Store listing and scroll down to see.
+[Try this thread/spreadsheet first. ](https://www.reddit.com/r/firefox/comments/6i1fu2)
+Currently using CTR, but in 57+ [this should work.](https://www.reddit.com/r/firefox/comments/6qbzz0/_/dkw78s1)
+Most of your extensions have good alternatives, [use this thread/spreadsheet](https://www.reddit.com/r/firefox/comments/6i1fu2) as a start.
+I do find it somewhat better looking, though my personal preference is address bar in front of the tab bar.
+The reason would probably be cooler-looking design that is equally spaced on both sides.
+Yes, it is. It has received about 3 minor updates lately.
+>I don't care about cookies (Thanks, EU u did good)
+
+There is a filter for it in uBlock, look for regional filters and EU.
+Looks much better than previous one! I prefer to have a separate notification bar color though, so [I use this theme](https://addons.mozilla.org/en-US/firefox/addon/white-to-gray-gradient/).
+I'd recommend searching for webextensions that solve the specific tab problems you have, you are more likely to find that than an all-in-one extension.
+[Check this thread first. ](https://www.reddit.com/r/firefox/comments/6i1fu2/_/)
+
+[Stylish to Stylus instructions are here. ](https://add0n.com/stylus.html#faq5)
+Most dominant isn't an accurate way to represent this, imagine all other languages that base on Latin that would show UK flag for seemingly no reason. 
+
+If anything, I would suggest showing two letters, like `Ab`, `Аб` and `あい`.
+Why would it not be? 
+
+* Full themes will get a new API, for now you can use the compact dark theme for a similar look 
+* [This extension](https://addons.mozilla.org/en-US/firefox/addon/application-menu/) will give you your old style menu back 
+* Work is ongoing on tab groups, I bet they will be made in some way, as there is a demand for it
+[Try this. ](https://www.reddit.com/r/firefox/comments/6qbzz0/_/dkw78s1?context=1000)
+But userstyles.org has a forum for that, you can lead people there.
+You can't settle for three flags though, that will only confuse the users more. Better show accurate countries a la Flagfox.
+I use developer edition because it's close to Nightly in updates, but more stable in terms of bugs and big changes. I test Nightly often though.
+It is an userstyle, though I can't exactly remember which.
+Perhaps bookmark/history manager will be redone?
+Perhaps you'd like to [make a collection](https://addons.mozilla.org/en-US/firefox/collections/) for it?
+I never use it, so I hide it completely with CSS.
+OP is not actually talking about customization, see the top comment.
+Hover on the address bar and an arrow appears on the right edge.
+>is there a way for me to tell if there is someone between 
+
+Not with HTTP, hence why the warning is shown on all HTTP sites that contain a password field.
+
+Edit: well, your VPN is in between, you can try disabling that if you believe it is the cause of problems.
+Google Allo 😁
+Because Google mostly considers the rest of the OS to balance the UX.
+> And who maintains it?
+
+The style author. 
+
+> What happens if the code happens to break something else? 
+
+Remove pieces of code with trial and error. 
+
+>even if it works now nothing guarantees you it will work next update.
+
+I don't think there was ever a guarantee for that. 
+
+My overall point is that while it is not a great solution, it is an option that continues to work in the future. I [have suggested a slightly better potential solution](https://www.reddit.com/r/firefox/comments/68gc8w/nightly_is_now_tagging_nonwebextensions_as_legacy/dgz9jzf/?context=3), though and [Stylus contributors also have discussed this](https://github.com/openstyles/stylus/issues/92).
+Unfortunately yes.
+The only difference is the install method and lack of automatic updates. Whether you understand CSS or not is irrelevant (when you previously clicked "Install", now you'd just copy the code manually from site to file).
+Yes, but it will get security updates with major updates postponed (next ESR is 58 I think). If you still want 56 for longer, you could try a Firefox fork r/waterfox.
+That is how ESR works.
+Yes, but Stylus and userChrome.css won't be.
+>Is there anything Nextcloud can do better than Dropbox or Google Drive? 
+
+Free storage as much as you can afford harddrives.
+That looks quite clean! Is it alright to fork and publish it?
+Then update Flash manually? 
+It wouldn't warn you if there wasn't a security reason behind this.
+Just to give an idea, I think it is possible to make with CSS by 
+
+* using flexible spaces in tab bar as placeholders 
+* moving address bar, menu and other unmovable buttons (if any) with negative margin 
+* setting navigation bar height to zero 
+
+Unfortunately I haven't had time to try making this - I love that layout too - and the toolbar customization options might change before Firefox 57 release anyway.
+Well, Firefox has a [content blocking feature](https://support.mozilla.org/ee/kb/tracking-protection-pbm) which could be an ad blocker if users could modify which filters to use.
+https://addons.mozilla.org/en-US/firefox/addon/i-m-not-robot-captcha-clicker/
+
+It doesn't skip images though, only clicks the checkbox.
+about:addons page perhaps? Try using the search box to see if any search results come up.
+It seems to be done by the same dev, so I assume not. Older versions of App Ops worked independently though.
+[SkyTube](http://skytube-app.com/) has trending/popular and even accountless subscription system. Not sure about playlists though.
+It just provides an interface to the ADB commands that can manage the app permissions.
+Typo in command? Device found in ADB list?
+KDE Connect
+Well, there is a difference between adding optional modules compared to default-enabled extra features. The extension system works pretty good so far.
+It can manage background usage and start on boot, so yes.
+[App Ops](https://play.google.com/store/apps/details?id=rikka.appops)
+[Bookmarks manager and viewer](https://addons.mozilla.org/en-US/firefox/addon/bookmarks-manager-and-viewer/), but FX57's Library menu should work like this too.
+The point is syncing, as the name says, from one device to another. Backups should be done manually. 
+
+Deleting the data when resetting the password seems like a great security measure to keep encrypted data safe.
+>The apps don't crash.
+
+Are you sure? Because to me it seems that is exactly how crashes behave on this phone, haven't seen a single crash pop-up since I've got it (but have crashed apps on purpose).
+That seems like your theme's problem. You could try using the built-in compact theme or contact your theme's creator.
+>In related news, is there a way to check if an add-on is legacy or WebExtension using only Firefox for Android?
+
+Using desktop mode.
+You can choose any color with themes though, consider that.
+[Tab Auto Refresh](https://addons.mozilla.org/en-US/firefox/addon/tab-auto-refresh/) is a WebExtension that should fill your need. I haven't used it, though.
+It redirects to https://material.io/icons/. What's the problem?
+Sound clips that help you know your phone is ringing and not someone else's that may have a phone by same manufacturer.
+>star, pound, star, pound 4636, pound, star, pound, star
+
+`*#*#4636#*#*`
+
+Backticks `` help.
+Link Cleaner and Clean URLs are slightly different - the first one focuses more on site-specific redirects and the second one removes more global tracking parameters.
+
+Read my comments of the extensions in collection and developer's descriptions if you have more questions.
+>In your collection there is "Clean URLs", but it's updated to 2016, and it's a fork of "Pure URL", so what should i use?
+
+Clean URLs is a WebExtension, so it will work in Firefox 57+, while Pure URL will stop working if not converted. 
+
+>And i've problems with "Open Link Directly (No Redirect)".
+
+Might be a case of wrong redirect skipping. You can try using Skip Redirect and setting an exception for Google (I think that one supported exceptions).
+I would suggest [my own collection](https://addons.mozilla.org/en-US/firefox/collections/tulirebane/security-privacy/) of future-proof and mostly simply set-up extensions.
+You might be interested in SwiftKey Symbols too.
+How about bigger circles with white Material icons inside? Also, there is a list of Material colors (with shades) in the guidelines.
+Not sure, I don't use it. 
+
+[Here is another alternative](https://addons.mozilla.org/en-US/firefox/addon/night-mode-pro-w/), if that doesn't work better either, try searching for relevant user styles/scripts.
+* Prefer app stores like XDA and F-droid, if needed - GitHub
+* Don't do any kind of piracy, then you are much less likely to get scammed at
+* Obviously look for permissions that appear on install or get prompted after
+An extension will be possible to make that can recreate this [as soon as Firefox implements chrome.downloads.*](http://arewewebextensionsyet.com/#downloads). For now, you're out of luck.
+> Owl
+
+[Dark Mode](https://addons.mozilla.org/en-US/firefox/addon/dark-mode-webextension/)
+It should work, if your extension is a WebExtension that modifies webpages. Then you just have to target the same pages and CSS classes in your style.
+They are using Google Safe Browsing too.
+If you just want to make a minor CSS modification, it is much easier to use Stylus to create and manage the modification, than to repackage the whole extension, resulting in resigning mess, no automatic updates etc.
+Multiling O
+No, buttons can be at the end of the address bar too. [Example](https://addons.mozilla.org/en-US/android/addon/home-button-for-ff-on-android/)
+I think [data URIs](https://dopiaza.org/tools/datauri/index.php) are much easier to use than actual files.
+Some arguments: 
+
+>Why use Easy Screenshot when you can do it with the dev tools?
+
+Emphasis on "easy". Better mention the Test Pilot one. 
+
+>There is a Chrome DownThemAll 
+
+Doubt its from the same author. 
+
+>OmniSidebar? How is it different from the Photon Sidebar?
+
+It's mostly for internal pages. But there are internal page replacement extensions for Chrome, so it can probably be ported as a FX WE eventually (just the creator doesn't want to).
+Try another extension. 
+
+The mobile extension system/AMO is a mess at the moment, you can install nearly all of them, but only 1/4 actually work on mobile.
+>Self-Destructing Cookies 
+
+is the one. You can check it [with this](https://addons.mozilla.org/firefox/addon/add-on-compatibility-reporter/).
+
+Compatible alternatives also exist, though, such as [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/).
+Well, it is logical when you consider touch is used the least.
+That is a place for malware and piracy...
+Think you mean [turtl.it](http://turtl.it)
+> BetterPrivacy
+
+Try disabling Flash completely on *about:addons* > Plugins. If you don't see any main sites you visit breaking because of this, you can be glad - you just got better performance and security :)
+
+> Disable WebRTC
+
+[Good tutorial here](https://whoer.net/blog/article/how-to-disable-webrtc-in-various-browsers/)
+
+> DownThemAll!
+
+[alt1](https://addons.mozilla.org/en-US/firefox/addon/bulk-media-downloader/) [alt2](https://addons.mozilla.org/en-US/firefox/addon/download-master2/) [alt3](https://addons.mozilla.org/en-US/firefox/addon/multiple-file-downloader/)
+
+> KeeFox
+
+[Some alternatives/helpers are here](https://addons.mozilla.org/en-US/firefox/search/?q=keepass&tag=firefox57)
+
+> Media Converter and Muxer
+
+[Someone seems to have ported it](https://addons.mozilla.org/en-US/firefox/addon/media-conversion-tool/)
+
+> YouTube Video and Audio Downloader
+
+Try [something from here](https://addons.mozilla.org/en-US/firefox/search/?q=youtube%20download&tag=firefox57)
+Don't worry, [it is being worked on.](https://github.com/Synzvato/decentraleyes/tree/experimental)
+No, they don't. There is a difference between removing parameters from an URL and skipping some pages entirely.
+
+Try [Link Cleaner](https://addons.mozilla.org/en-US/firefox/addon/link-cleaner/) or [Clean URLs](https://addons.mozilla.org/en-US/firefox/addon/clean-urls/).
+They actually are in most devices, just get a remapper app.
+Username does not check out.
+Signal supports a passphrase for locking itself. See settings > privacy > passphrase.
+https://userstyles.org/styles/57368/firefox-sliding-bookmarks-bar-windows 
+
+https://userstyles.org/styles/118127/autohide-bookmarks-toolbar-for-firefox 
+
+https://userstyles.org/styles/101008/bookmark-bookmarks-toolbar-autohide-with-hover
+
+(didn't test if they still work)
+Because Waterfox actually removes them, reducing the setup needed and maybe providing some other benefits (less storage?).
+S8 has a better feel IMO because it is a bit wider but thinner.
+If the data is important, the webpages should prompt by themselves when user tries to close the tab or click a link with form data unsent.
+
+However, browsers have built ways to fix this. Last year, Chrome [disabled the backspace key from going to previous page](https://www.engadget.com/2016/05/20/google-tests-killing-backspace-chrome/). Firefox [has had a hidden setting](https://www.laptopmag.com/articles/disable-backspace-chrome-ie-firefox) for a long time, not sure why it is not exposed in main settings page.
+For now, r/waterfox does what you want.
+> 
+    Disabled Encrypted Media Extensions (EME)
+    Disabled Web Runtime (deprecated as of 2015)
+    Removed Pocket
+    Removed Telemetry
+    Removed data collection
+    Removed startup profiling
+    Allow running of all 64-Bit NPAPI plugins
+    Allow running of unsigned extensions
+    Removal of Sponsored Tiles on New Tab Page
+    Addition of Duplicate Tab option
+    Locale selector in about:preferences > General
+
+But when Firefox 57 gets released, I would recommend using that instead, as it will get a lot of performance improvements and you can disable all those extras manually anyway (through about:config).
+It was very stockish on Aquos Crystal, but that's because it was available in US too. The Japanese UI is bloated as always.
+It was done few months ago and someone posted it here too. Can't find the post now though.
+[A transparent theme](https://addons.mozilla.org/en-US/firefox/addon/transparent-firefox/) works good for that. /u/jed_gaming 
+You ran Firefox 54 after 56 on the same profile? The [release notes of 55](https://www.mozilla.org/en-US/firefox/55.0beta/releasenotes/) specifically say not to do that.
+
+For the next time, don't run unstable software (Nightly) in the same place (profile) you run stable software.
+There is nothing wrong with a GUI approach and my question wasn't sarcastic (if it seemed so). 
+
+My point was just that lots of software provide PPAs instead of DEBs (or at least suggest them as a preferred way for Ubuntu) and even if they do, they stay insecure (no updates through PPA).
+
+And if you'd add a PPA through Software and Updates, how would you get the package from it? Will the PPA packages show up in the software manager?
+
+Maybe I'm misunderstanding something, correct me if that is the case.
+Maybe your VPN is intercepting the certificate? Try turning that off.
+> Also to add, we never touch the terminal, the book also doesn't. 
+
+So how did you install external software, if any?
+I know that. 
+
+It was a joke on the pronunciation "q want" ~ "you want" as most people don't know about it, compared to "Google".
+I want what?
+I believe it's because bottom bars should be used in places where swiping doesn't make sense/isn't possible, like maps. 
+
+But Google being Google, will probably replace all top tabs on their apps with it ¯\\\_(ツ)_/¯
+That means you will get even bigger screens for the same width. Think Mi Mix.
+Because there is still hardware inside that needs fitting.
+But IE is using the OS to push Edge and not getting the same results, so I don't think it's the biggest thing that contributed to it.
+>I might have to switch back to Chromium
+
+Why not simply ask the devs of the extensions you use to port to Firefox?
+[Search Anywhere](https://play.google.com/store/apps/details?id=com.applisto.search.anywhere)
+XUL.
+
+Waterfox plans to support it and extend it (and is based on Australis), Cyberfox is dead, SeaMonkey will support it as long as it is feasible for them.
+For desktop use, how about the desktop [GIMP or Inkscape](https://play.google.com/store/apps/details?id=org.gimp.inkscape)?
+> Kopec also suggests the possibility of a PC convergence platform, where the phone - which has an 8GB RAM variant, more than many laptops - could power a desktop computing experience.
+
+I really like this idea, and it certainly does make sense because of the RAM. 
+The first one seems to do more global parameter removal and the second one site-specific redirects.
+The very first thing they should do is featuring more WebExtensions.
+I wonder why are they not working with Waterfox for this.
+* `browser.urlbar.trimURLs = true` to show "http" in URL (I'd prefer only hiding "https" but oh well)
+* `security.mixed_content.block_display_content = true` to get rid of yellow triangle locks and block insecure media [\(use with this\)](https://addons.mozilla.org/en-US/firefox/addon/upgrademixedcontent/)
+* `network.http.referer.userControlPolicy = 1` to prevent cross-domain referers [\(suggested here in review,](https://addons.mozilla.org/en-US/firefox/addon/no-cross-domain-referer/) [other options here](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referrer-Policy#Browser_compatibility))
+* `network.IDN_show_punycode = true` to show all website addresses in latin letters [\(because of domain spoofing\)](https://www.wordfence.com/blog/2017/04/chrome-firefox-unicode-phishing/)
+* ~~`security.insecure_connection_icon.enabled = true`~~ [hopefully will get implemented soon](https://bugzilla.mozilla.org/show_bug.cgi?id=1310447) to mark http as insecure
+>TabMixPlus (I only need a few options)
+
+You should elaborate or rather search for extensions that do the specific features you want (instead of an all-in-one extension). 
+
+>I have a handful of other legacy add-ons like Fire Gestures but they still seem to be working in Nightly... for now.
+
+[Check this thread out](https://www.reddit.com/r/firefox/comments/6i1fu2) to know what you should replace.
+Oh, I thought you think Photon will bring extensions [to Firefox]. 
+
+I don't think Focus will support extensions, as it's meant to be really lightweight.
+**Clearer Photos**
+It already does, but unfortunately it is not obvious which ones do work on mobile and which not. uBlock Origin works certainly though, so you could use a filter list for cookie warnings.
+November 14 on desktop, probably similar time for mobile
+Wrong sub indeed, try r/design
+>As far as multiple alternatives, I believe that each alternative on its own separate line is much more legible
+
+Maybe, but that means everyone has to move the whole table in order to make room for an extension link. I have added plenty of alternatives now though, so you can check out how it looks. 
+
+I also added the color-coding.
+It should be possible with userChrome.css though, I remember seeing similar stuff on userstyles.org.
+I think you should place the status column before alternatives (so people know whether they even need to look for alternatives) and color-code them automatically - there is an easy option for that. 
+
+Also the alternatives should have at least 3 columns for people to actually have a choice.  
+
+I will contribute to this soon 😉
+>keep until browser exit, keep forever.
+
+Assuming you don't care about specific sites, these options are built-in to Firefox.
+In some sense, Mozilla seems to reiterate the concept with Containers. There is just no overview or session storing, but it would make sense to implement them when it gets enabled for all.
+Or use [Browserling](https://www.browserling.com) for more convenient (but very short) nostalgia sessions.
+I was a huge fan of Aero too, but nowadays I think Material Design is just as good if not better. Just need to emphasize color more (like Vivaldi) instead of going all white like Google seems to do (Android O).
+I liked [the mockups](https://wiki.mozilla.org/User:Tro/Firefox_4.0_Windows_Theme_Mockups) more than the real thing 😀
+>The main problem is that the functionality being lost are some of the most important aspects unique to Firefox, and the main reason some of us still use FF at all.
+
+Look at Opera. They did similar changes and handled transition worse (tons of built-in features lost that don't ever seem to come back) and they still have a huge number of users that follow them. 
+
+Sure, there is Vivaldi, but that doesn't have half as many users.
+>Cookie AutoDelete
+
+Pretty sure that goes to the last category too, it takes a lot of whitelisting to use the web properly.
+>Another consideration would be a UX where Mozilla blames the website instead ( like they do with passwords over plain HTTP).
+
+Remember when a site complained about it? [It was hilarious 😂](https://arstechnica.com/security/2017/03/firefox-gets-complaint-for-labeling-unencrypted-login-page-insecure/)
+There are news and chess websites that don't use Flash. Heck, does your news website not support mobile because of this?
+
+The bottom line is that you/your dad should be angry at the **website** for still using Flash, not Mozilla for disabling Flash by default.
+
+edit: typo
+What about LineageOS? May not be as hardened as some others, but is still open-source and free from proprietary services.
+chrome://flags/#mark-non-secure-as > Mark as actively dangerous
+Menus aren't tabs and Gnome's menu handling is better than a menu bar anyway.
+> Release notes for this Open Beta build:
+
+> * Updated OnePlus Community App to V 1.9
+> * Bug Fixes
+>  * Fixed occasional duplicate notifications
+>  * Fixed expanded screenshot duplicate stitches
+>  * Fixed app locker
+>  * Fixed inaccurate battery percentage
+>  * Fixed certain display issues with OnePlus Font
+>  * Fixed certain display issues in the weather app
+>  * Fixed camera occasionally unable to open
+>  * Fixed sending files with 3rd party apps via hotspot
+>  * Fixed inaccurate displayed network speed when activating hotspot
+
+edit: formatting
+Try [Swiftly Switch](https://play.google.com/store/apps/details?id=org.de_studio.recentappswitcher.trial).
+>You can't tell it without the release notes
+
+I agree with that, it can be confusing and/or offensive without any context. Still, not getting any kind of alerts is worse than a confusing one, the user should expect the permissions they agreed with on install. 
+
+I hope the optional permissions come soon (and developers implement it), to make this less of a problem.
+Linkme: All-in-one gestures
+You can't use the keyboard with immersive mode unfortunately.
+That doesn't exist since Firefox 27 IIRC. Check your extensions.
+I think it is possible to make a WE that does this, as there is a download management API (or should be, is in Chrome) and badges for icons.
+What button is that?
+It's the vice-versa actually. Developer Edition gets updates (slightly) earlier than Beta.
+Well, there are lots of alternatives in the Chrome Web Store though. [Try them out](https://addons.mozilla.org/en-US/android/addon/chrome-store-foxified/) and if you like, ask the developer to port them over 😉
+>Lazarus
+
+[See this discussion](https://www.reddit.com/r/firefox/comments/6goe66/_/)
+
+ >Tab Groups 
+
+Perhaps one of these. [alt1](https://addons.mozilla.org/en-US/firefox/addon/tabzen/) [alt2](https://addons.mozilla.org/en-US/firefox/addon/tab-sessions/) [alt3](https://addons.mozilla.org/en-US/firefox/addon/tab_wrangler/) [alt4](https://addons.mozilla.org/en-US/firefox/addon/at-your-command/)
+Yes, they are a fail way because it requires a complete rewrite to nearly all extensions. Some have planned the transition (wrapped webextension was it called I think), some already completed it (without tag) and some will not port it at all.
+>  I had mostly all compatible - addons, but now I have TWO that are not non-legacy. Where's the logic? 
+
+You're talking about e10s-compatibility.
+
+The logic is that they changed their mind later in order to let Firefox have the kind of extensions that are already supported in other major browsers - consistent API, easy ports, future-proofing.
+
+You might be interested in these [blog](https://blog.mozilla.org/addons/2015/08/21/the-future-of-developing-firefox-add-ons/) [posts](https://blog.mozilla.org/addons/2016/11/23/add-ons-in-2017/comment-page-1/).
+[Here are some good explanations](https://www.reddit.com/r/firefox/comments/6cw7ig/why_is_firefox_moving_to_web_extensions_and_why/) and [here is the official support article](https://support.mozilla.org/et/kb/firefox-add-technology-modernizing).
+
+TL;DR: 
+
+Bad news: Things will break and several features won't be possible to port.
+
+Good news: This will probably be the last big extension breaking Firefox will have, and the future is bright with better stability, security, speed for the browser itself. Also, easy ports from Chrome/Opera/Edge extensions, so less excuses not to support Firefox.
+I am using a bunch of conflicting CSS at the moment, but I can certainly confirm the new horizontal menu.
+What changes do you see? I don't see anything new on Nightly.
+
+Edit: well, besides the legacy tag, but I don't think that is in beta yet.
+
+Edit2: just got beta and the tag is indeed there, pretty cool in my opinion.
+> Privacy Badger
+
+Already a WE.
+
+> HTTPS Everywhere, NoScript, Reddit Enhancement Suite, uBlock Origin
+
+Will be ported.
+
+> AutoCopy 2
+
+[alt1](https://addons.mozilla.org/en-US/firefox/addon/copy-on-select/) [alt2](https://addons.mozilla.org/en-US/firefox/addon/autocopy-webextension/)
+
+> Flagfox
+
+[alt1](https://addons.mozilla.org/en-US/firefox/addon/flag-plus/) [alt2](https://addons.mozilla.org/en-US/firefox/addon/country-flags-ip-whois/) [alt3](https://addons.mozilla.org/en-US/firefox/addon/active-whois-flags-extension/)
+
+> FlashGot
+
+[alt1](https://addons.mozilla.org/en-US/firefox/addon/bulk-media-downloader/) [alt2](https://addons.mozilla.org/en-US/firefox/addon/download-master2/) [alt3](https://addons.mozilla.org/en-US/firefox/addon/multiple-file-downloader/)
+
+>goo.gl lite
+
+For now, there doesn't seem to be any WEs for creating goo.gl short urls, but I bet they will come later. There are some alternative sites and their extensions though: [alt1](https://addons.mozilla.org/en-US/firefox/addon/elbo-url-shortener/) [alt2](https://addons.mozilla.org/en-US/firefox/addon/arah-in-url-shortener/) [alt3](https://addons.mozilla.org/en-US/firefox/addon/nurl-ng/)
+
+> NoSquint Plus
+
+It is possible to set fonts and minimal font size within built-in settings (Settings > Content > Fonts and colors > Advanced), but they have an extension for other browsers so they will probably port. Some alternatives exist though: [alt1](https://addons.mozilla.org/en-US/firefox/addon/zoom-page-we/) [alt2](https://addons.mozilla.org/en-US/firefox/addon/custom-page-zoom/) [alt3](https://addons.mozilla.org/en-US/firefox/addon/zoom/)
+
+> Self-Destructing Cookies
+
+Don't know their plans, but there are alternatives already. [alt1](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) [alt2](https://addons.mozilla.org/en-US/firefox/addon/lowcarb/)
+
+> 
+
+> Classic Theme Restorer, Tab Mix Plus
+
+Some features can be ported, some can be redone with CSS ([userChrome.css](http://kb.mozillazine.org/index.php?title=UserChrome.css&printable=yes)) and some stuff will hopefully be built-in (more flexible toolbar customization).
+
+
+r/waterfox
+OnePlus 5.
+Nokia 5 seems to be the closest to what you want.
+u/BatDogOnBatMobile might want to help. [(source)](https://www.reddit.com/r/firefox/comments/6f3ap3/_/dif3dyh)
+http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/2128869-stevens-traditional-64x-a-traditional-styled
+What app is that on top of the nag notification?
+> that usually matters the most
+
+That is also a naive thing to say. Just because XUL extensions *can do* more, doesn't mean they (or their advanced features) *are needed* more.
+You should try downloading or finding the URL of the SWF and running it in the [Flash Player projector](https://www.adobe.com/support/flashplayer/debug_downloads.html)
+
+Benefits:
+
+* better performance as it's isolated
+* support does not rely on browsers (use potentially forever) 
+* better full screen and other controls
+* easy access to the last files you opened
+* can launch files directly if you make a shortcut like `flashplayer_26_sa.exe http://example.com/cool.swf`
+
+Downsides:
+
+* harder setup if you don't know how to get the file
+
+[More info](https://www.realmeye.com/wiki/using-the-adobe-flash-projector)
+What about [FormSave](https://addons.mozilla.org/en-US/android/addon/formsave/)?
+At least half of those already have WE equivalents, and some features are even built-in [to Firefox]. 
+
+Isn't ChatZilla a part of SeaMonkey anyway?
+In that case alpha sale I think, I've heard of people having gotten it with 4-5 dollars. 
+
+My point was that the sale has not occurred recently, but only in the beginning of the app, therefore I wouldn't expect any future sales for it (while it's popular at least).
+Eh, that sounds like the low price Java alpha used to have.
+>whereas I got the other version for 10c during an Android sale, for example.
+
+When?
+I've read [an article about canvas blockers](https://multiloginapp.com/how-canvas-fingerprint-blockers-make-you-easily-trackable/) and therefore used [Canvas Defender](https://addons.mozilla.org/en-US/firefox/addon/no-canvas-fingerprinting/), but while it is available on Chrome too, it isn't even e10s-compatible on Firefox, hence I removed it.
+
+This extension seems to fall to the second category of the article, so I'm not sure...
+
+> the readout API is forced to return a new random value each time it is called.
+
+>if you change your fingerprint during a session, that behavior is unusual, and it’s enough to categorize you into an irregular group.
+[These are what I would suggest using.](https://addons.mozilla.org/en-US/firefox/collections/tulirebane/security-privacy/) (some redundancies listed, I don't use all of them at once)
+[SwiftKey Symbols](https://play.google.com/store/apps/details?id=com.swiftkey.symbols) perhaps.
+Wire can, and it has otherwise a similar featureset compared to Skype.
+[For the first](https://addons.mozilla.org/en-US/android/addon/home-button-for-ff-on-android/)
+[Riot](http://riot.im), [Tox](http://tox.chat), [Ring](http://ring.cx)
+Right, seems like the override feature is paid. What you can do in the free version though, is to open your music and control the volume in this app (with volume keys or slider).
+[Precise Volume](https://play.google.com/store/apps/details?id=com.phascinate.precisevolume)
+[App Cloner](https://play.google.com/store/apps/details?id=com.applisto.appcloner) has this and similar functions if you get the upgrade.
+On the contrary, there are also hundreds of icon packs that to temporarily free every day.
+Users could check it out before adding an extension (for daily use). Also it would be an alternative way of access if they were worried about the permissions or just used mobile. 
+
+>you don't use Chrome
+
+That's also something to note: since all popular browsers support the same extension system nowadays, you should seriously consider porting it and uploading to other extension stores too. If not Opera and Edge, at least do it for Firefox.
+How about manual generation/access without the extension?
+Seems like 1.12 has a (stricter?) JSON check system, so if any resource packs suddenly disappear from the list, check their `pack.mcmeta` with [JSON lint](https://jsonlint.com/).
+
+Currently saw that issue with Ragecraft Faithful/Steven's Traditional pack, where they used `/n` for a newline in description.
+Chromium SWE ([F-Droid](https://f-droid.org/repository/browse/?fdfilter=chromium&fdid=chromiumupdater.bamless.com.chromiumsweupdater)/[XDA](https://forum.xda-developers.com/android/apps-games/app-code-aurora-s-chromium-swe-browser-t3603932/))
+FYI, there is a [similar test pilot experiment](https://testpilot.firefox.com/experiments/snooze-tabs), so if enough people use it/give feedback, it may get built to Firefox, too.
+It is more worth it to highlight things that actually get fixed and that's what "These weeks in Firefox" is made for.
+There are weird internal services and two stock launcher-only icon packs, these are what I would call unwanted.
+This actually exists, in the form of "one-handed mode" on some devices.
+Maybe it was a WE experiment?
+Is there even documentation yet?
+Wow, that looks really similar to the original, good job! 
+
+I wonder if Firefox 55 will have the Photon flag on beta... 🤔
+In the tutorial screens they are adding to Photon, I recall one of them being made for customizing the toolbar. There they could write something like that:
+
+> If you ever change your mind, simply click Reset defaults to make it look like new again.
+I don't think it has that good sandboxing yet, as the core redesign has only been going on for months. 
+
+What it does have though, is caring about privacy as a main principle (less invasive telemetry that is off by default in release channel, DRM first launch asks if you want to enable it, porting features back from the locked down TOR browser, built-in tracker blocker for private mode etc.)
+> especially not wanting to see functionality bloat like being able to move the 3-line-menu-button.
+
+Adding exceptions to *prevent* moving it would be bloat in my opinion. Just teach users how to reset the toolbar in case they do something stupid!
+Brave browser.
+Refreshing means creating a new profile (settings, extensions) and backing up the old one.
+>Reasons like this make me stick with Firefox Beta. I get new features early, but I rarely have to deal with frigging bugs like that.
+
+Completely makes sense, as Nightly was never meant to be the daily driver browser, even though some people here use it as such. 
+
+You might be interested in Developer Edition though, if you want to be on the bleeding edge. I learned from another thread here that while Aurora is gone, the Dev edition will still receive some kind of pre-betas, before the Beta channel itself.
+Well, you could find only the configs you modified from about:support.
+If it makes holding the phone even easier, I'm all for it :)
+If you are too lazy to switch the BIOS battery, just [use software to tune the clock](https://www.raymond.cc/blog/auto-sync-pc-clock-on-windows-startup/). **Definitely** don't add security exceptions to ignore laziness.
+That's the point of the indicator though...
+More agressive. 
+
+HTTPS Everywhere has a set of rules to redirect sites, Smart HTTPS tries HTTPS on every site (the name irony).
+Because Google made them swipable, no need to reach neither top or bottom.
+>Works very well without a Google account.
+
+Since when? I remember it always requiring you to create a fake account.
+What you must understand is that the reason they don't work in Nightly by default is because they may not work in Firefox in the future at all. Switch to Firefox 57-compatible alternatives whenever possible.
+
+>1password
+
+That's hard as you rely on the service to support the extension. You may try using the [Chrome extension](https://chrome.google.com/webstore/detail/1password-password-manage/aomjjhallfgjeglblehebfpbcfeobpgk) with [Chrome Store Foxified](https://addons.mozilla.org/en-US/firefox/addon/chrome-store-foxified/).
+
+>Self-destructing cookies
+
+[alt 1](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) [alt 2](https://addons.mozilla.org/en-US/firefox/addon/lowcarb/)
+
+>Pop up blocker ultimate
+
+I don't know why you even need it if it's built-in to Firefox, but okay. [alt 1](https://addons.mozilla.org/en-US/firefox/addon/popup-blocker/) [alt 2](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/) [alt 3](https://addons.mozilla.org/en-US/firefox/addon/popup-blocker-lite/) [alt 4](https://addons.mozilla.org/en-US/firefox/addon/popup_blocker/)
+Not exactly what you (and I) want, but [there is a similar WE](https://addons.mozilla.org/en-US/firefox/addon/wheeltab/) that lets you hold down right click on a page and scroll to switch tabs. It worked for me at the beginning, but right now I can't get it to work...
+
+I also hope that [EdgeWise](https://addons.mozilla.org/en-US/firefox/addon/edgewise/) will be ported to WE - that one lets you switch tabs by scrolling on the left edge of the page. (There are similar extensions on Chrome too, based on the good ol' MileWideBack)
+Seems like it, but this site doesn't link to it, nor does the AMO page link to the site...
+Why is it not in AMO?
+Probably because it was replaced with an encrypted alternative, Standard Notes
+>The point I am trying to make is add ons are meant to basically reformat the raw data the web request returns and I don't see why doing that should be obstructed by the engine developers which is why I mentioned Stylish for instance (which I assume may have an equally functional WE equivalent).
+
+That's how WebExtensions work, yes. 
+
+There are some Stylish WE alternatives in AMO (most notably Stylus) and the authors might port their Chrome version to Firefox, too. 
+
+> The addons should just read them and use them and if some browser behaviour is to be modified, such as intercepting download clicks such as cliget for instance, then it should be done with express user permissions.
+
+So you want XUL extensions with WE permissions. 
+
+Luckily Mozilla is considering some added APIs like toolbars, but providing an API for every XUL feature would get very hard to manage for the devs.
+The web has advanced too much for anyone to create a competing browser without forking one first. It's not just the engine, but also features, settings, extensions.
+🖕bottom tabs, there are very few applications where they actually make sense (maps/transit is one for example, as they can't be swiped there).
+
+When G+ got them, I switched to webapp, seems like that will be the case for YouTube too.
+I know it's a fairly old post, but you might [like this one](https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod).
+Seems like a cool idea. Some feedback:
+
+* On my OP3, it says aarch64, note the double a. 
+* The notification icon should be white only, like it has been for years in apps.
+* You might want to add an extra notification or text line for picking the correct Google Play Services app too.
+[HomeUX](https://play.google.com/store/apps/details?id=com.dravite.homeux) is a beautiful drawerless launcher that can do this, but unfortunately it is still buggy and memory-intensive.
+> disable it for sites where it causes problems.
+
+That's the point. Static blocklists usually update themselves to prevent any breakage, but with this the users would need to make their own exceptions (on every device/browser).
+
+Not to mention they need to know that *this* broke the site, and not any of the other factors that can break a site.
+I am aware of extensions like that, but that doesn't mean everyone is. Though Privacy Badger needs more user interaction than a static blocklist.
+Yes, but that's not necessarily a bad thing. Australis looks unique but the round tabs and button positions are not liked by many, hence CTR's existence.
+>  Our privacy is under attack, and Mozilla is one of the few companies that can (and would want to) help. [...] It's time for Mozilla to declare victory, high five the Chrome team, and move on to the next big challenge.
+
+As a start, they could copy Brave a bit and integrate a powerful content blocking and HTTPS-enforcing system to the browser. 
+
+Yes, there is a content blocker in Firefox, but
+
+* that's still only available in private mode only (at least visibly to user)
+* it has two (!) filter choices from one source, with no option to add more (come on, even old Opera had and current IE has options to add more)
+Oh okay. I do remember other browsers having it too though, seems to be present on Vivaldi for example.
+I see. Well, in that case you could retry when v57 arrives, as it will look more familiar.
+>A recent example I saw was switching tabs with the scroll wheel: on chrome, this feature can't be turned off but it would be an about:config switch in Firefox.
+
+So, is it an option? I would gladly remove an extension that does this if it's built-in.
+You mean autocomplete? What's better about that?
+> is much work to switch 
+
+Maybe debunk that then? Firefox literally asks to import everything when you switch.
+Enable and customize the menu bar? Unless you're on Mac. 
+
+The individual menus should be fairly easily removable with CSS.
+>I've been doing my best to make it look like Firefox 2 for Mac
+
+Themes will be able to swap icons.
+
+>Classic Toolbar Buttons, Tree Style Tabs
+
+Possible to recreate with WE APIs.
+Try [Minuum](https://play.google.com/store/apps/details?id=com.whirlscape.minuumfree), similar behaviour and somewhat updated.
+[userChrome.css](http://kb.mozillazine.org/index.php?title=UserChrome.css&printable=yes) still exists though, and will continue existing after FX57.
+Pinned tabs hide the close button and therefore could theoretically replace locked tabs, if that is your primary method of closing tabs.
+It might become possible to some extent (probably a full-page preview like Opera) when addons can [listen for tab mouse events](https://bugzilla.mozilla.org/show_bug.cgi?id=1246706). For now, no.
+>Separate profiles in Firefox sound interesting, but I'm assuming you can't have two profiles open and running simultaneously.
+
+Yes, you can. It's like having multiple versions of Firefox installed at the same time 😉 As said in the link, you can also easily launch them separately by making a shortcut to `firefox.exe -P ProfileName` or `firefox -P ProfileName` in non-Windows. 
+
+> If you don't think the level of individualization I described is likely to be present in containers right now 
+
+Well, I don't think they will be in future either because splitting the whole browser core (settings, history, bookmarks, all that) with just *tabs* would be much harder to do in my opinion than simply using separate windows and processes (as profiles do).
+
+Even if it was possible, I bet it would make tab switching very slow. Instead of just switching to a simultaneously opened window in a multitasking environment (that uses a separate process and RAM), you'd basically switch and reload all the internal files of the browser to match the opened tab. I hope that makes sense. 
+
+>Essentially, I want to have a container where website passwords will be remembered for me - which I assume will require enabling cookies, turning off cookie-destroying addons, and not using private browsing mode -, and then other containers where I can still have all of those things.
+
+By this quote, it seems like you only need two profiles anyway - one for passwords and one for other stuff, and within the other profile you can further split the web with Containers. The Containers profile will use one set of addons, bookmarks, history and the password profile uses another set - you could even use themes to easily differentiate the profiles.
+> These lines in the test pilot privacy statement did give me pause 
+
+There are some things you can try, ordered by difficulty: 
+
+* Disable telemetry, anonymize the user agent string (something common) in about:config 
+* Try removing Test Pilot without removing the Containers add-on. 
+* [You could theoretically build your own add-on from source](https://github.com/mozilla/testpilot-containers). 
+* You could block the network requests completely with hosts or something. 
+
+>Have you used containers before? If you have, can you answer me this - can you pick and choose which addons will apply to individual containers?
+
+Not much, but I doubt that this feature is there. While you could suggest it to them, you are probably better off [using full-featured separate profiles in Firefox](https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles) (old, built-in feature).
+Yes, they are official Mozilla's experiments in add-on form. If they get enough users and feedback, they may also build the features into future Firefox releases :)
+
+The experiments do respect your privacy, see the "Your privacy" link next on the left of enabling button on the details page to read more, or just [read this](https://testpilot.firefox.com/privacy) for a global statement.
+[Looks tasty](https://www.candywarehouse.com/assets/item/regular/sour-gummy-bubblegum-bottles-candy-133188-im1.jpg)
+If you want to delay the transition, use 52 ESR (instead of 56 normal). If you want XUL permanently without the old design of Pale Moon, try r/waterfox. 
+
+Otherwise, if you are just worried about the *exact* addons you have installed, have an open mind and search for alternatives (or ask us for ideas). Look at the Chrome Web Store to see how creative the developers can be even with a little amount of APIs! 
+
+Yes, you can't have an identical featureset, but there are several benefits to the new system in other ways (read ITT) and the main goals of a browser - stability, security and compatibility will be improved.
+> I follow Sony a lot 
+
+Username checks out.
+I like the way EmojiOne has applied gradients in their latest release, not too iOS-y but more visible than before. 
+
+Still prefer the latest Google blobs though.
+> Do you think most of the features that are only available in nightly builds will be made available when this happens? I've been pretty excited for some features (especially containers), but have always been too nervous to use nightly. 
+
+I can't tell, because containers are an experimental feature. What I know, though, is that [you can use them without having Nightly](https://testpilot.firefox.com/experiments/containers)! Make sure to give them feedback too.
+> How do you know the option to move the sidebar to the right will be built-in though?
+
+It was tested in Nightly and there is a [tracking bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1355331) for it. 
+
+>Is there any place to check which addons will be phased out?
+
+Unless the developer writes specifically whether they do plan to continue the development, you can't be certain whether an extension will be phased out or not. What you can do, however, is to make sure you are choosing extensions wisely on your end. 
+
+First, install [Add-on compatibility reporter](https://addons.mozilla.org/en-US/firefox/addon/add-on-compatibility-reporter/?src=ss) and make sure none of your extensions have a yellow triangle - that means they prevent you right now from having a better performing multiprocess Firefox. 
+
+Then, you can slowly start looking for extensions that are marked with the tag "Compatible with Firefox 57+". This is more important to do for less popular add-ons that might not get updated (in time), popular ones like uBlock Origin and HTTPS Everywhere will he fine.
+With Firefox 57, every extension will have to move over to a [new extension system](https://support.mozilla.org/en-US/kb/firefox-add-technology-modernizing). With that, the extensions can only modify a predefined set of actions in the browser, similar to other browser's extensions (including Chrome). 
+
+That means the extensions are less likely to break with FX updates and less likely to slow FX down. The users will have more control by seeing exactly what an extension can do, however some features like modifying the CSS of browser can no longer be done with an extension (Stylish).
+
+In terms of your extensions, you probably don't have to worry too much: 
+
+> I have an extension that adds a bookmarks sidebar button to the toolbar 
+
+There already is a built-in button for toggling the sidebar. 
+
+> another extension that moves the bookmarks sidebar to the right side of the browser. 
+
+The option will be built in.
+You could try metasearch [Searx](searx.me) then.
+https://www.startpage.com/eng/protect-privacy.html
+>although I did think it would be sort of cool to get the userChrome.css file working, since I've never modified my browser before. 
+
+It's good that you try, because you will need to use it instead of Stylish at the end of this year.
+[App Ops](https://play.google.com/store/apps/details?id=rikka.appops), if you trust it.
+There are other alternatives, like StartPage, which does take results from Google.
+Antenna bars?
+At the same time, [they are giving a better tile](https://www1-lw.xda-cdn.com/files/2017/05/Android-Go-Data-Management.png) for third world countries... [(source)](https://www.xda-developers.com/android-go-optimizes-android-o-to-run-on-low-end-devices/)

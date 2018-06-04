@@ -1,0 +1,672 @@
+Driving manual takes time to practice. It's not something you learn in a week. WRX is great car, I would personally go for it over BRZ.
+Yes, I should mention I'm in EMEA, so the announcement is valid probably only here.
+From my notes:
+
+* replaced WWAN module, couldn't connect to anything
+* replaced keyboard - twice, spacebar was getting stuck on one side, other time it was Ctrl key which was generating random keystrokes (about 1 yr between)
+* replaced touchpad - one key became completely loose
+* replaced hinge - became very stiff and squeaky
+* replaced WAN module due to shaky connection and slow speeds
+* replaced fan module, I was getting error on reboot
+* two weeks ago I replaced second battery, capacity was down to 40%, I had to pay for it, base warranty doesn't cover that.
+
+I have to say I'm rather heavy user, I travel a lot and work everywhere. I also always get 3 yrs/on site, so Lenovo (or rather service company) comes to the office, usually within a week.
+I don't think it affects you directly, you can buy 3yrs onsite upgrade until your base warranty is valid. I rather meant that since always, T and X models had 3 years warranty, what in my mind tells me they are fairly sure the laptops will work properly for at least 3 years. Now they are either less sure, or they want more money from customers - for already very expensive models.
+Thanks for the review.
+I'm also considering T480s, but being Thinkpad user from T40 model, reliability seems to be somewhat on decline. My current T460s has been serviced 8 times in last 2,5 years.
+
+You mentioned Surface Pro 4 - how can you compare it to T480s in terms typing experience, battery and speed?
+I don't see 480s  models with Nvidia at all: http://psref.lenovo.com/Product/ThinkPad/ThinkPad_T480s 
+Do you have a source for this? I had Audi Connect extended for free, I only had to pay for maps update.
+To make things clear, I'm not Italian and I do not live in Italy. 
+To be honest - I'm not sure. I have MMI 3G navigation with "traffic information online" service active, but what are the data sources - I don't know.
+
+BTW, this wasn't true, just slow traffic because of snow, which Italians were not able to clear in time.
+There are ultrasonic devices, powered from car battery, which scary them off very well. I can't recall exact names, but should be easily found. They use very little juice, so no worry there.
+A friend of mine tested those and they worked well. Side effect is, they also work on cats and most dogs, if you have a pet this might be an issue.
+What Caroline said to her manager at the end of ceremony? I couldn't get that, about bill or what?
+
+And apologies to Simona for winning were so cute ;)
+Yeah, thought so.
+
+"Future proof TVs" discussion ends here I suppose.
+Just out of curiosity, which TV sets currently available support Dolby Vision and HDR10+?
+
+One more yes for OLED.
+Samsung is bigger - but comparing to LG that's about the only advantage.
+
+Have some more read [here](https://www.rtings.com/tv/reviews/lg/b7-b7a-oled) and [here](https://www.rtings.com/tv/reviews/samsung/mu9000).
+I have 65 Sony right now and about the same viewing distance as you. I'm not saying it's too big, always could be bigger, but it is really OK for my taste.
+
+In either case, you'll need some decent speakers, watching any 4K content with built-in audio speakers should be punishable. 
+Which engine exactly do you have in your Q5?
+They make over 1500 kinds of sausages.
+
+And there is no speed limit on the motorways - or rather on about half of them.
+OP is connecting 4k tv (HDMI 2.0) device to BD player (HDMI 1.4). If there is some older cable in the middle, strange things might happen.
+When I bought 4k tv (Sony X93d), I had to replace HDMI cable between my sat receiver and tv, I had blinking screen, distorted colours, breaking ARC and so on.
+
+Re upscaling, I wasn't clear, I meant try to disable it in BD player - if it has one.
+Try another HDMI cable. If possible, disable upscaling to check the difference.
+You need AVR as a central point, with sensible audio installation. Watching any serious 4k content, especially from UHD BD player screams for good audio equipment. AVRs are relatively cheap now, even those with Atmos and DTSX, comparing to good 4k TV.
+Fiesta ST200 is hard to beat when it comes to fun. It's just so happy little car to drive.
+Another option, which nobody mentioned so far, is Fiat 500 Abarth, it's hard to find any smaller car and with 1.4 turbo engine producing 180KM - I can only imagine the thrill. 
+I can't say about other models, but for EU, current A6 and A3, new maps are released twice a year. Last update was in November and it was called Europe 2018. Next update should be sometimes in May or late April I believe.
+I meant tire size, but they should be the same if the wheels itself are the same.
+
+I have A6 quattro and after switching to winters, it takes a while for me to get use to them. Steering looses sharpness, braking feels woolly, suddenly car is rolling in the tight corners. But, they are much better in snow, so not much choice really.
+
+I had good experiences with Goodyear UltraGrip, Sotto Zero are not bad either, Contis are ok, a bit noisy though.
+I know for a fact that 2300 can't display OSD over 4k video, I have Nvidia Shield and this is quite annoying. 
+Not to mention that OSD itself is fairly ugly. If they've change that, this could be deciding factor for me.
+
+Other than that, differences seems to be rather minor, maybe apart from 6 vs 8 HDMI inputs.
+First question: what size you had before and what is it now?
+
+On the other hand, it does feel much different on winter tires, as they are much softer - especially when new.
+Probably [this](https://www.rtings.com/tv/learn/hdr10-vs-dolby-vision) article will explain it much better then I can.
+I see occasionally adverts about some pendants or bracelets, made from x and y alloys or stones or whatever, which "will increase positive energy" or something similar.
+
+I don't know if or who buys this crap, but this sounds really stupid.
+I don't know if I got your question right, since you said to connect HDMI ARC to surround system without HDMI.
+But generally, in case of e.g. Bluray plugged into HDMI-x, the sound should be routed back via HDMI-ARC to whatever it is connected. It might differ though, I'm speaking from Samsung/Sony experience.
+True, it has been a good while, but I'm following [this link](https://forums.plex.tv/discussion/comment/1573778#Comment_1573778) on the Plex forums and it doesn't look like all the the problems has been solved...
+I have Shield, but I don't use Plex, as it has several issues, especially with DTS sound. But yes, Shield can play heavy 4K/HDR/100Mbit/s HEVC without problems.
+It's a set of video files, with various resolution and bitrates, designed to test your I/O and player.
+Have a look [here](http://jell.yfish.us/).
+
+Normally you need to go to my.audi.com, download update - if there is one, and install it, via usb or sd card.
+Otherwise you need to talk to you Audi dealer - and don't expect it to be cheap, for my pre-lift A6 it was +/- 250€ last year.
+Interestingly, VSX-832 has something called Atmos 3.1.2, which will be available with software upgrade. Probably similar to those Atmos soundbars, but I wouldn't put any money into that.
+
+No, I would invest in normal 5.1 system. Lots of material available, either Dolby Digital or DTS.
+
+Atmos is very subtle comparing to 3.1 => 5.1 transition and you hear it all the time pretty much.
+
+
+It should be upside down.
+You mean, many people here in this sub.
+A lot of sweat went into this writing, mostly for nothing, since we all know why it was done.
+Nobody mentioned The Terminator yet?
+I don't know about other places, but in Europe chewing gum is fairly often seen as lack of respect and class. I mean, you can do it in the gym, but not if you meeting someone or in the office.
+Ironing. I just hate it and it can't be automated easily.
+I'm not saying trust completely, but polls are done by external entities, do you think TV stations would give completely falsified results?
+Biased - possible, but entirely made up? Poll was done by [those](https://en.wikipedia.org/wiki/Millward_Brown) guys, not some shady people.
+I think TVP is definitely more skewed then TVN, but yes, in principle I do agree with you.
+Thanks, it's nice. But please DON"T SHOUT here in the future.
+Lobbying. It's like bribing someone under the roof of law.
+Stupidity of some people will never fail to surprise.
+There are plenty of small but good cameras out there. To name a few, Sony RX100 V, Canon G9 Mark2, Panasonic LX10 and LX100, Oly PEN, Fuji X100F and so on.
+
+Trouble is, all of them are very expensive and have shitty batteries. 
+
+I'm also looking for something pocketable with preferably very good image quality, but honestly it's not easy.
+Yeaa... we all love this quattro/snow posts, but surely everybody realize that while accelerating works better with quattro, braking is exactly the same like in every other car out there?
+After 6.0 rollout flop, they'll probably will do a lot more testing now. On the other hand, I don't think it will make a big difference for older models.
+I can't say for sure about Q5, but in case of A6 and A3, the only thing you can update OTA is maps. Every hardware related updates are done only by the service guys.  For sure you should report this fault, sooner or later (rather later) there will be some update available for this. 
+I don't know mate. I can stream it in UHD/HDR from Nvidia Shield to Sony 4K TV using Amazon Video app and quality of the image is stunning.
+Quality wise is better, it's 4K now and HDR. Content wise, three old farts do what they do and I don't think they need or want to do anything else. They tried some odd things in S1, it didn't work.
+Worn-out pads and discs often do that. My previous A6 C7 also had squeaky brakes, there are two solutions up to my knowledge - temporary, which involves getting your breaks warm and then breaking several times hard, from high speed, but not to complete stop, to let breaks cool a bit. This often clears buildup and the issue is gone, at least for a while.
+
+The permanent solution, which I did eventually, is to replace pads and discs with new, proper ones, no upgrades or questionable spares. In case of S4 I'm sure they won't be cheap, but buying S4 you shouldn't expect it to be cheap to service.
+Not really, no.
+
+For lazy commuting and city traffic it's ok, but any slightly spirited driving is out of question. I mean, it's very quiet and refined engine, but you put your foot down, there is not much happening.
+It takes nearly 9 seconds to 0-100kph, which is acceptable in some crappy city cars, but not in middle size Audi, at least not in my book.
+
+Here in Europe there is 252bhp 2.0 tfsi (not ultra) version with quattro - and that combination is the only one I would have.
+Sorry, nothing like that on my PC. It's not very fast, but works.
+Interestingly, [Lufthansa](https://www.lufthansagroup.com/en/company/fleet/lufthansa-and-regional-partners.html) seems to have fairly stable number of 747s. Nice to see them, mostly in Frankfurt, such a majestic machines.
+Denon X2300 will do all of that and since newer model is out, you might be able to find it under $500. But, it will not do OSD in 4k, which I find annoying.
+I was with the same dilemma some months ago and finally I settled with Nvidia Shield. I don't use any gaming features, just as a player, both for online and offline content. Its very responsive, 4K with HDR, will pass any audio including Atmos and DTS:X, plays everything what I throw at it.
+
+Audi pre sense comes in all shapes and sizes, depending on the year and model, have a look [here](https://www.audi-mediacenter.com/en/technology-lexicon-7180/driver-assistance-systems-7184)
+
+I have A6 with pre sense plus and it is basically a collection of sensors, so I don't really know what salesman had in mind. It's not single item, it gets data from all over the car.
+
+During 18 months more or less I had an issue with assistance system twice, one time I was driving on a very bumpy road, so it could be a factor, but the other time it was on a smooth motorway. Both issues were cleared by turning the car off and on again.
+
+First time the car was checked be dealership and nothing specific was found.
+Thanks, my hot blond flight attendant :-P
+Oh man, that's a really crappy review.
+It is massive and very heavy, with only two 3.0 engines, which comes with the new ridiculous naming system. External styling is hardly anything new, they started it with A4 and will continue for several years now. Inside it does look very well, although I always liked the tactile feedback from buttons and knobs. So called Audi AI sounds impressive on paper, we'll see how it works in practice.
+
+As a top level model, they need a V8 with +/- 500bhp, otherwise it isn't really any competition with Mercedes.
+People who block left lane for no reason, driving well below speed limit.
+I don't know that either, NASA didn't say anything why they chose this model. 
+Now we all know what to do to beat Roger.
+That proves that Amazon people do have a sense of humour and even more, it's sort of compatible with Jeremy sense of humour. 
+Possibly quite stupid question: being the pilot on the left (captain), he/she HAS to use left hand on the joystick, right? What if the person is prominently right-handed and the left one is nearly useless? 
+I don't about other things, but clearly OP never been a smoker.
+This.
+Probably some entry-level DSLR could be an option for you, I think Nikon D3400 should be just around your budget. You'll be ok with basic 18-55 lens, don't get anything longer, for properties, rooms and furniture probably wider angle could be more useful. 
+If your prefer Canon for whatever reason, Canon 200D should be very similar.
+I'd suggest to go to the store and try them out - interior of any store should be good test subject, especially in your case. Download photos into your laptop/pc and choose the one which you like most. Don't judge photos by looking at camera display - it's way too small to be relevant.
+That's discussion older than dinosaurs. 
+
+From my perspective, Nikon cameras are slightly better built, possibly more compatibility with older lenses, much better flash system - especially wireless. Canon definitely has an edge for video.
+For me personally (I used both), Nikon controls feels somehow more intuitive. There is also a matter of kit lenses, Canon has habit of putting really crappy glass on their entry models, while Nikon lenses are somewhat more usable.
+
+
+Just my 2 cents.
+My wife had Giulietta for few years and let's just say, I knew pretty much everyone in the FCA local workshop. That wasn't reliable car, not even close. If Giulia is similar - which I hear around sort of is, I'm not surprised at all.
+Probably Justin Bieber
+They seems fine in my Steam.
+Klingons in DS9 were much funnier, drank lots of blood wine and felt very much alive, in comparison to Discovery. I can't shake the feeling they are acting nearly as religiously obsessed zombies.
+I miss the blood wine and Klingon jokes.
+The visuals are absolutely stunning, but I have to say I do feel like they are way too dark and too flashy. Maybe because in HDR it looks much brighter in spots, but anyway, the bright corridors of the Startrek ships were always like a signature for me.
+Get in, start the engine, push start/top deactivation button.
+If somebody would do the maths, I bet "amazing" and "ever before" would top the chart.
+
+And we still buy it.
+Some rather amazing images by Jim Winters.
+My friend did that on an A6.
+
+Cost was I believe around 1500€, partly for fixing everything before the coating, then the coating itself. It was professional workshop, as apparently doing it badly at home could ruin the whole car.
+
+Downsides - there is no noticeable difference in looks. Automatic car wash is prohibited, the surface is supposedly very hard, but also fairly fragile for any cracks, e.g. from the stones on the road, etc. Any paint fixes are impossible, you need to repaint whole element.
+
+I considered it and I think it's not worth it.
+Do you have any info who makes pads for Audi?
+Sorry guys, that's probably worst cars comparison I've seen in a good while.
+
+For various reasons I don't like E-class, but this article is a more a joke really.
+OK, I get this in general, someone could hide explosive device in larger laptop, but let's say I'd like to travel with hand luggage only, like many short business trips, than what? Not to mention putting expensive laptop/camera/whatever in checked luggage which sometimes is being thrown meters away? What if I "forget" to put my devices into checked bag, at security they will tell me to throw it to bin?
+Flying mostly over Europe, I've been asked several times to turn on my laptop, so security people could see it is really a laptop, but this ban seems a bit excessive. 
+
+
+For sure Dubai cheap laptops owners won't be happy. /S
+Sounds like 100% Clarkson.
+A6 was updated in 2015. I've heard rumours entirely new A6 will be revealed in 2018.
+You will look like a cock in the beemer. EOL.
+I don't think there is one answer to this, too many variables.
+
+I wouldn't be worried personally about the engine itself, possibly a bit about S-tronic gearbox, however 250k is near the mileage where various suspension parts might need replacement due to normal wear and those things are not cheap for A6. I'm not native English, I don't know all the names, but think shock absorbers, wishbone oil stabilizers, steering joints, etc.
+
+It depends a lot of the particular car, I would definitely suggest before buying solid diagnostics of engine, transmission and suspension. A lot of things depend on how the car was driven previously. 
+Yeah. I had my mirror stolen two years ago or so. Prices from dealership, you could probably find it cheaper, with second-hand mirrors, etc, but on the pic it is obviously a new car, would be a shame not to repair it properly.
+Might differ between countries and exact specs (heated, dimmable), but something along 650€ each side.
+Stock exhaust is rather damped and without any character, at typical motorway speeds you can't really hear it, wind and tyres noise are lauder, maybe except tunnels. It's not annoying or anything, but surely not sporty. I have no idea how tuned exhaust might sound, surely different.
+My 'good noise' idea is something like RS6, which I drove few times. In city tunnel the sound is unholy ;)
+
+Oil: I change it every 30k km or slightly sooner, except 2-3 times I never had to refill. I've been told by my service guys that prolonged driving at high speeds in high temperatures makes oil consumption go up a bit, my each refill was like 0,5l, nothing serious.
+You can also check this link: http://www.tyrereviews.co.uk/ - one of the best sources I found when looking for new tyres.
+Not sure if my experiences would be any good, as I have 2013 A6, 3.0 TDI (245 bhp version), with S-tronic gearbox.
+
+So far I've done ~210k km and I never had single issue with the engine itself.
+
+Pros:
+
+* massive amount of torque from 1500rpm
+* quiet at high speeds
+* very reasonable fuel economy
+
+Cons:
+
+* it's fairly big and heavy, it feels in tight corners
+* it takes 7 or 8l of oil, filters aren't exactly cheap
+* engine sound is, well, like diesel, although its way better 4 pots 2.0 tdi where it is awful when cold
+
+I'm looking for my next A6 right now and it surely will be A6 3.0 TDI.
+Stock Pirelli Cinturato are crap, unstable on high speed and slippery on wet.
+
+I have 19 inch 255/40 on my A6 and so far I tried Continental Contisport 5 or similar, I didn't like them, noisy, lasted just one season. After that I've got Goodyear Eagle F1 Asymmetric 2 and they are much better, good control and wear seems to be slower than on Contis. I do push them regularly on German Autobahns up to 180-200 km/h and car feels very stable.
+Probably silly question, but not many things seems to be displayed on the HUD? What actually can be displayed there?
+Audi RS6
+I found this: https://esupport.sony.com/US/p/swu-download.pl?mdl=KDL50W800C&upd_id=11019&os_group_id=18
+That could depend by country, but this model received Marshmallow update last year - at least in the USA it seems.
+Quite a few people had issues, including myself. Reboot loops or dreaded amber-green led, where tv was essentially bricked. That concerned especially some 43'' models.
+Many thanks for this. Shopping time will be next :)
+As many pointed out, make sure you distinguish between S-models (or RS) and S-Line package, which is basically just decoration, with some bits and pieces, no changes in the engines.
+I'm not from US, so my experiences my differ a bit, but I have own/driven several brands and from the BMW/Mercedes/Audi I would pick Audi as possibly most reliable. Running costs are similar, but they depend on your engine and gearbox type. E.g. S-tronic 7-speed is wet gearbox, fluid needs replacement every ~45k miles and it costs in here about 350€. Do it badly and you are facing massive costs of replacing gearbox or mechatronic unit. If you'd get a bigger engine, over 250bhp or so, be prepared for pretty big sums for good tyres, due to size (I have 19/255/40) and quick wear.
+In pre-2015 models satnav updates are also expensive.
+My last and current car is 2013 3.0 A6 C7, ~180k mileage. Never broke down, apart from running costs I had to replace right front wishbone shock absorber (not sure if its correct name) and recently rubber-oil engine mount. That's it.
+
+Last bit from me, if you thinking even slightly about sporty-style driving, forget anything with Q. Despite what Audi would say, height will kill any sporty feel. On a good windy/mountain road S4/S5 would be a joy to drive.
+
+BTW, English is not my first language, sorry if I messed up.
+I guess very few would be left.
+Good, but Sony promised so many times version 6 in 2016, I'll take it with a grain of salt.
+Some problems, had to start it twice to get it running, then audio went out of sync. There is no subtitles for this one, at least not in UHD version.
+Sony XD93/94 are active 3D, however I don't know how it works in practice.
+I don't know how about you, but for me there are some issues. Like, the sound has rather low volume (passed via HDMI back to AV amplifier) and it seems to be a bit out of sync, I mean video is ahead of sound - like 100-150ms.
+Do you have those symptoms as well?
+Actually, watching Jeremy face closeup in 4K and HDR is a bit scary.
+Thanks, good to know.
+Spanish is better then French which I'm getting. Something is fucked in the Ipad app.
+On the PC you just watch it through a web page. No offline viewing, max res is 1080, no surround sound. On the tablets you can download stuff for offline viewing, but still limited to 1080. I wouldn't bother with watching it on the phone.
+Is there 4k/HDR available for those outside US/UK?
+NSW Police Force... hmm.
+Just out of curiosity - is there a visible difference between normal and HDR version?
+Oh, definitely.
+But be careful, I don't think Audi will appreciate those notes to go public.
+It looks promising, but lite version basically tracks only MPG - in which I'm not interested anyway, car computer does it already, while service history in only available in full version - which costs 6,99€. For what? A differently styled journal?
+Ironing.
+In my mind, it is down to two factors - glass and type of photos. FF glass is way more expensive and usually much bigger. The FF all-arounder like 24-85 is not that very good, while 24-70 is massive and expensive. But, if you shoot a lot indoors or otherwise in low lighting, portraits, etc, FF might be tempting. Any tele work would be easier and cheaper with DX.
+There is also one more point which I discovered on myself, trying D810 - it is absolutely unforgiving with mediocre lens, but also with less then perfect technique. Any error on user side is much more visible than on lets say D7000. That's my experience anyway.
+Shooting indoors seminar/conference with D7000, 17-55 2.8 and SB800, in manual mode, my keeper ratio is possibly 80%, with D810 + 24-70, I got maybe half of that. I know it's my fault, not camera, but anyway, it's just harder.
+I was looking for FF upgrade, so I mentioned D610. I'm sure D500 is fine camera, no doubt about that.
+Its pretty same for me. I have D7000 and I'm looking to replace it with something newer, but frankly I don't know what to do.  D610 is a bit aged already.
+I have too much Nikon gear to switch, besides, I tried Canon 7D for few days and I didn't like it very much. I'm already disappointed with Nikon, the J-experiment which mostly failed and now DL-whatever, which seems to be failing before even taking off.
+Depends. With new HW, you get new apps and some of them can be pretty demanding, e.g. navigation apps or photo editing, etc.
+Most likely it will not happen, but I'd really appreciate better battery life. Especially when travelling it is problematic. 
+Actually it is more about how The Grand Tour started.
+He probably still have nightmares.
+Well, you have to turn off your laptop completely, then it will recognise the sim card. But design of the sim tray is horrible, you need to be really carefull when inserting the card.
+It might be, I just checked and HP sauce was bought by Heinz. What makes me wonder, is there anything what UK actually produces on its own?
+HP sauce. Best thing ever. And it's getting cheaper! Yayy Brexit.
+I have to say I like the last paragraph. A lot. 
+Full respect for his hairstyle.
+Can confirm. Extremely confusing if you don't know about it.
+52% is mostly because of Farage. Without him, this number could be much smaller and there would no problem at all. Apart from the usual EU problems with the UK.
+Good to see Jeremy is still Jeremy.
+Yes I know, officially it's up to every member state, but the ideas about immigrant quotas, or financial penalties for not accepting them for whatever reason, it does come from Brussels.
+[Something like this](https://youtu.be/SCcE0Ls-o3A)
+If UK could promise to send Farage to let's say, Antarctica for next 10 years to rethink his views, EU might decide to forget about Schengen.
+Looks to me that you need Quick Time player. No big deal to install this on PC.
+EU insane migration policy being forced by Merkel. If she could somehow see reality, things would be different. The idea of so-called Syrian refugees being able to integrate with society and boost German and Europe economy is just fucking tragic.
+Rooney followed the Prime Minister example, run away before everything will be ruined.
+Not a particularly good year for England. Or UK.
+That just show the extend of Brussels stupidity. Whatever is in the papers, is more important then reality.
+At least coffee in EU buildings could be better.
+I would say those options in case of Brexit were publicly known long time before referendum, yet none of 16 and something millions of people never believed it, because Farage and his mates said something else.
+Unbelievable. 
+It doesn't really matter. Several people, including Cameron, said there will be no second referendum, since the first one was valid.
+Sorry Brits, you voted and that's the end of it.
+Probably their hopes.
+UK was one of the first countries to allow free movement from the "new" EU countries. Nobody forced you to do it.
+
+But yes, it's easier to blame Poles.
+It is a but harsh, but it is damn well written and quite true actually. 
+Pretty much everyone who travels a lot across different countries pretty quickly appreciate the idea of common currency.
+
+Or anyone who regularly does any business across borders, since the amount of money being lost due to exchange rates is significant.
+No, they will not leave on Friday.
+
+But if they'll see they are loosing money due to market uncertainty and diving currency, you can start guessing what might happen.
+Hard to say, but I'm fairly sure that for every single person in the UK who likes Jeremy there is another one who hates him.
+Not that he offended anyone during last years, LOL.
+She is rather good looking. Lucky Italians.
+Something found on twitter, similar level of seriousness: https://pbs.twimg.com/media/ClY4ilqWEAQyRmk.jpg:large
+Well, a lot of that is personal, but I'm not big football fan as well, but having to choose between play and whatever recorded, I would watch the live thing and possibly record something else. Euro happens only once every 4 years.
+
+As for Chris Evans - but again, this is highly personal, I can't find *anything* good about him, acting as the TG presenter.
+
+I will not go into details because it will end in rant.
+I would think that it wasn't so difficult for BBC to spot that Euro2016 will collide with the current TG. So either they were/are idiots, or they were so sure about the show commercial success that they ignored Euro schedules. 
+I also liked the news a lot. In fact, sometimes I look over old TG news just to have a bit of fun. But, if the current presenters would try to do the news mimicking CHM, it would be embarrassing disaster.
+
+BTW: this is an example why I liked the news: https://youtu.be/A_9dzhGOe1E
+What would you expect? Kisses from Merkel?
+Yeah. I guess 'bad luck' in an understatement.
+I see on twitter a wave of love coming from the UK to France.
+Not many young people actually want to leave, according to this: http://www.telegraph.co.uk/news/2016/03/21/eu-referendum-who-in-britain-wants-to-leave-and-who-wants-to-rem/
+This is probably one of the best summaries on the Brexit' mess I've seen in a good while.
+Thanks to you I found this:
+https://giant.gfycat.com/SilkyBoringHorsechestnutleafminer.gif
+I have a feeling that nothing will convince you anyway, but here is quite incomplete list of directives. Feel free to check them in detail: https://en.wikipedia.org/wiki/List_of_European_Union_directives
+
+
+Quite a lot actually, but people are so used to it that nobody notices. For a start, there is free movement of people, crossing Schengen border is a joy comparing to "normal" ones. And massive number of directives in pretty much all the areas of life, some silly (aka bananas) but some pretty useful.
+In general I would agree with that, but if Evans has contract for 3 years, it will take extraordinary measures to get rid of him. And while many of us agree that he is dreadful in his new job, I'm not so sure BBC is keen to recognize that.  
+I don't think we will hear about them again.
+Seems like free evening for me. Unless, just maybe I can try to mute sound and use subtitles, that would kill Evans voice while I could still watch some nice cars.
+I'm afraid you might be right. Instead of old and smoking buses for example, delivery trucks, etc, let's ban meaningless number of few private cars and feel happy.
+I can't imagine that. I don't think BBC would approve that, I don't think any of them would want to. Hell, they could be bashing about the new TG failure all over the Internet, but they don't, either because of legal reasons or they just somehow still have respect for the current crew trying. I doubt the latter, but anyway I'm glad they are keeping quiet.
+I think pretty much everyone knew that filling JC&co shoes will be nearly damn impossible. Everyone except BBC, obviously. They insisted on trying and we have the result.
+I have to say, I like their style of working. In work.
+Well, it's not the same. The car from Autoblog website is available now, it's just current A6 with facelift and some tech added.
+I never quite understood why Americans name current cars versions one year ahead.
+Nice piece of writing!
+Seems that, after all, there are some good guys driving Peugeots. 
+Jeremy would not believe that ;)
+Thanks for all the comments. I'll be in Italy over next weekend, I'll try to talk to someone at Punto Blu, or possibly I'll stick to credit cards.
+C'mon, what would you expect him to say? "Sorry. we'll rethink and get back to you?"??
+Is it just me, or someone else also noticed that GT is the opposite of TG?
+Mine says:
+
+Sierra Wireless EM7455 Qualcom Snapdragon X7 LTE-A
+
+Quite elaborate name for WWAN module.
+>
+
+ Man you are a saver. After swapping so many cards on my tablet live, I forgot completely that for whatever reason, on laptops it's not working that way.
+My SIM doesn't need PIN I believe, it just never got detected.
+Maybe they invented something to replace Stig, call him New Guy and let him drive like crazy around the track.
+
+But probably not.
+Generally, for any smart DNS you need also to add static routes to your router to make it work.
+And no, I'm not giving up just yet.
+Basically like this:
+https://getflix.zendesk.com/hc/en-gb/articles/202281524-Block-Public-DNS-Overview
+
+For asus it's pretty easy and works well.
+I'd love to, but Amazon Prime is nowhere near me, not even close.
+AFAIK Roku has Google DNS hardcoded, so you need to add static routes to your router to redirect DNS traffic. I have no clue however if your router supports that, I never heard that brand name.
+I think a lot depends on how Amazon will handle the show distribution. I'm surely going to watch, the question rather is whether I'll have a chance to watch it legally or use alternate means.
+It was obligatory to love Soviet Union for about 60 years. Communist regime is fun only on the old photos.
+> Evans at the wheel is not a good thing  
+
+
+ I can agree with that. It's even worse to listen to him.
+Almost by accident, I found this photo in the browsers cache.
+[Imgur](http://i.imgur.com/vpq9OOs.jpg)
+Apparently he wasn't joking yesterday about 120mm shell. 
+Oh crap. Hang in there guys. Ljubjana is such a lovely city.
+Not really. In TV shows the producer is someone who makes sure all the logistic works and money are being used reasonably. It's more like an administrative job.
+Executive producers might be a bit like bosses, but field producers like Tymon should actually listen to stars like JC, not the other way around.
+I didn't see the newest version yet, but probably yes, it does in FL version.
+I think they are the same as current A6 FL. They look pretty good IMHO on the real cars.
+Anyone can please explain how this view is different from, say, previous views when filming TG?
+Or quite possibly I'm not getting British sense of humour there.
+have a look at this: http://www.asrock.com/support/qa/TSDQA-84.pdf
+You have either faulty RAM or faulty mobo.
+It's probably all the same for the UK viewers, but for me, as foreigner, I always admire how good Jeremy pronunciation is. Was. Hopefully will be.
+Chris Evans in comparison is mumbling constantly in his high irritating voice. 
+I believe that many users needs, first of all, be aware of what they are doing and read what applications are trying to tell them, aka read the fucking messages instead of blindly clicking OK or Close or whatever the application is trying to display.
+Thanks! That helped a lot, when both setting are set to max, it feels similar to my old t420.
+I have the latest version installed.
+In case of a router you can probably install the last one. But make note of any settings, like passwords, forwarded ports, etc.
+Because they are friends. Not those from Facebook, LinkedIn or similar, but old time friends, when if you are friends, you are friends for good and bad times. 
+I believe this might help: http://lifehacker.com/fix-blurry-fonts-in-windows-10-with-this-utility-1734246822
+It's a long shot, but maybe you disconnected the cable from the on/off switch to the motherboard?
+On the other hand, if the mobo is completely dead, maybe power supply needs to be checked.
+Random thoughts, don't expect them to work.
+Did you test your router/wifi device? Thunderstorm are much bigger threat for network devices than laptops.
+I bought recently 1440p LCD and scaling in Win10 is pretty bad. In random places I had badly scaled or oversized fonts. Older software (like Corel X3) goes nuts.
+Hungarians are well known for their sense of humour, LOL.
+Well, in this case you need to check on the router itself. Many routers have a feature allowing to check which IP consumes how much bandwidth. Or you can install dd-wrt. Or possibly borrow a router which will show that. 
+Depends on your OS. Try Resource Monitor, Network tab. It will show you processes using network connection.
+Clean install would be fine, but after that you need to find all the drivers which are suitable for your laptop, which is horribly boring job. Afterwards, reinstalling anything with activation is even more headache.
+I would start with removing from the system everything that is not-essential, otherwise called crapware. Usually it's pretty easy to spot those when browsing through installed software. 
+Acronis installer will not install OS for you, it needs to be done manually. You need to find an install media or create one, depends on your laptop manufacturer. 
+Make sure your PC has correct date/time set.
+Try this one: https://gallery.technet.microsoft.com/scriptcenter/reset-windows-update-agent-d824badc 
+Personally I would use Acronis to transfer your boot partition to new SSD, backup data and de-partition old hdd. It would be best to delete partitions from the old drive and format it.
+There is a lot of various tools, but bootable usb or cd created by acronis installer is my personal favourite.
+And BTW, partitioning any drive is generally rather bad idea, you gain pretty much nothing and in case of data recovery it will give you a headache.
+If you have a lot of time, clean install could be some idea, but I wouldn't bother. Windows 7 is stable enough to survive cleaning.
+From about two weeks I have similar problems on AppleTV 3. Sometimes 2 eps will play, but most of the time I have to press buttons several times before it will eventually do something.
+I asked Netflix support, they said it might be intermittent problem with routing. Very good explanation. At least for them.
+Damn, it's in French. You should warn everybody.
+Obviously, "BBC iPlayer TV programmes are available to play in the UK only.".
+I can't say I know those new guys well, but one of greatest features of Top Gear was the humour. Somehow I don't see that happening with the new set. Racing drivers reviewing the car will be a nightmare to watch.
+Oh my, I just hope Scotland is ok?
+Not that it's declaration of love, but occasionally he was known to say some nice things.
+I just wonder if anyone is surprised by that. It was obvious opportunity for ISIS to smuggle their operatives. 
+Pity that all those enthusiastic EU leaders couldn't see that. 
+I'm not a lawyer, but is there somebody who can explain where was/is racism in this whole situation?
+JC was under heavy stress, for various reasons, work wasn't going as planned, everything was falling apart, the deadlines, his cancer tests, etc. The last drop for the day was the dinner, or rather lack of it, so he went into mad mode. Surely he shouldn't, but again, where is this racism?
+Is it just my feeling or you can get sued for racism in the UK by looking at someone at the wrong angle?
+I'm on the same wagon.
+Do you have any ETA when Skylake T400 series might be available?
+I would say very similar, at least in west and central Europe.
+Damn. So all my old chargers will be useless.
+But thanks a lot for letting me know. 
+It's less about the show and more about the presenters. People take themselves way too serious. Nowadays you can't talk or (worse) joke about anything really, without somebody being offended.
+Lot's hope the pros will outweigh the cons. 
+This video is 1 year old, anyone knows if/what they did?
+Nothing problematic, Windows 10 is obviously fully supporting SSDs.
+Oh boy. Someone at BBC is seriously fucked up. Trying as hard as they can to make sure the new series will be total shit.
+Yeah. But this is the first iPhone addon that I might actually want to try.
+Oh boy. I feel there must be someone at BBC who absolutely hates Top Gear, so he/she is trying to make sure the new reincarnation will be doomed right from the start.
+I'm not saying there is no girls interested in cars, but let's face it - maybe about 95% couldn't care less about motoring show or cars, or racing, or how Porsche accelerates vs Lambo. 
+We can safely assume Jeremy will not be making any TV shows about computers.
+Not exactly. HTTPS is an encryption of the traffic, so you are safer because nobody can see what you are doing on specific website (but they still can see what website). Anything going back and forth through your browser is secure, i.e. what are you typing as comments, what specific page you are reading etc.
+Page title was retrieved automatically, maybe it got changed or something later.
+I believe it will be the material recorder before Jeremy was fired. It's edited and James with Richard are doing some commentary, but without the audience.
+It's either machine or living.
+"Transformers" is not documentary, you know.
+Be prepared to fail. Sometimes several times before you will succeed. There is an old saying, "if plan A fails, remember the alphabet has 23 more letters".
+Its Apple trying to get a piece of a cake called the music streaming.
+Apps wise you should be ok, pretty much everything for Android has it equivalent for iOS. Moreover, in many cases the same apps are running better, or at least smoother on the iOS. That was my experience anyway. Most of the time iphone is completey hassle free, it just works.
+But, be prepared to spend serious money on any Apple-branded accessories, like cables, chargers or whatever similar. Another thing is lack of customisation. With Android you can do pretty much everything, with iOS it is locked down. But than not many people actually needs that deep customisations, I guess it's up to you. I had few smartphones, including early Windows Mobile, Blackberry, few Androids like Samsung and Nexus and I have to say - in a long run, I find iPhone to be actually the best to live with every day.
+Anyway, [random news here].
+It will be nice to see the trio once again in the proper action, but somehow it feels a bit like post-mortem.   
+I'm not really sure. All apple devices yes, windows + itunes yes, android via app. But where "web" comes from - no idea.
+First of all, they are still not very profitable.
+What they charge for - premium accounts, selling ads for huge money (much more expensive than e.g. AdWords), all the sponsored updates, analytical data, etc.
+Well, I know fashion is a very subjective thing, but Stan's shorts just remind me how pajamas were in the 60's ;)
+I just hope Stan Wawrinka shorts from RG are not the indication of current tennis fashion trend.
+Most of the time yes they do, except some extreme cases.
+But kids will ignore them, it was always the case and always will be.
+It's not before you hit 25 or so to start acknowledging they were actually right in many - or rather most cases.
+Agreed. But they could say (hope not) - we only stream a fraction because of legal issues or whatever and it's 10% of what we have.
+Yes. Library unknown at the moment. Better iOS integration, Siri, etc. possibly better price, especially that family offering.
+I'm just wondering, how big music database will be? All iTunes or what?
+There are some factors which can be easily measured, typically breaking distance, maximum cornering speed - those especially in wet conditions. Then you have the noise levels and fuel consumption. 
+Usually those tests are done with the same car, on the same track. The difference can be really huge, between best and worst (usually Chinese) tires. For example (Autobild test), the best wet tire stopping distance was 44 meters, while the worst over the 70, braking from 100kph. That could be the difference between life and death.
+Which one to buy - you decide.
+It is well known fact how all the women of the world can't wait for the reinvented Top Gear. In fact, women are the prime viewers for any motoring shows, racing, rallying and especially motocross.   
+Gosh.  
+
+I don't know really. Maybe to have wifi sticker on the camera. Like I said, useless. 
+Novak hungry already?
+Worm-up in progress.
+I would find this really useful to be able to send all the pictures to predefined SMB/NFS share. Or to connect to camera working as SMB server.
+But if you have 5 gb or more of data, I bet it's still faster to take out the card and copy the old fashion way.
+Nikon J4. Small mirrorless camera I bought when I need to travel light. 
+I don't know how WiFi works in other cameras, but on J4 it allows you to connect **ONLY** to a smartphone. Useless. 
+GPS would be nice.
+As for the USB I don't really care, I always take the card out anyway.
+Maybe I wasn't clear, they are **separate**. You can't mix hot and cold to get just the right temperature. It's either smoking hot from one and freezing cold from the other. 
+I mean, [this!](http://ak-hdl.buzzfed.com/static/2014-10/8/12/enhanced/webdr09/enhanced-19103-1412786910-1.jpg)
+Actually several short business related visits. Maybe one when it wasn't raining. I've been in few places, probably London is my favourite. Mostly nice and friendly people, amazing history, loads of things to visit and see.  Odd electric sockets, but quite clever. I also never worked out why the hell you would have separate taps for hot and cold water?
+Ah, and you drive on the wrong side of the road. 
+That.
+And who is surprised by that?
+On some websites it almost impossible to find the bit you actually wanted to read.
+Few of the top of my head:  
+* driving in Naples, Italy is absolutely crazy. Nothing in Europe is even close. Traffic lights are purely for decoration.  
+* most motorways in the middle of Spain is completely empty, like one car every 10 mins  
+* Romania has absolutely beautiful countryside, especially in the mountains, but is has (or used to have) one of the worst roads in EU  
+* people in Bulgaria shake their heads as a confirmation  
+Many people were involved in the development of the radio, but Wikipedia says: "Around the turn of the 20th century Guglielmo Marconi, developed the first apparatus for long distance radio communication"
+First practical advice: we use 230V electricity system and Italian sockets are different than in any other country.
+All the places you mentioned are extremely touristic. Like in all those places, be careful with your wallet, mobile, etc. Avoid buying anything from people trying to sell you something on the streets, not even water. 
+To get some insight I'd go on some reading, history, culture, spots to visit. It's surely impossible to visit all important spots in Rome during one day, pretty much the same with Barcelona. Florence - maybe a bit.
+I would buy home cinema speakers. KEF Q-series. Seriously. An possibly some 4k UHD TV, at least 60 inch.
+First you film something with the green background. Let's say a model sitting on a chair. Then, in the post production, you electronically replace the green colour with different video, let's say a beach with waves, sand and everything. This is done usually with a filter called chromakey. At the end, you have a model sitting on a chair, with beach in the background.
+Green screens doesn't have to be green, it could be any colour, but what it important, the first-plane video can't have the same colour as the screen, otherwise it will get replaced as well.
+I don't understand how people can watch movies on their smartphones. Especially those huge productions, it seems like complete waste to watch them on 5-ish inch screen.
+Did you had a chance to try and compare D7000 with D7200? Especially size and handling? I'm thinking about upgrading to 7200, FX is tempting but I'd have to throw away quite a lot of good glass.
+Besides I'm getting old and I started to look for something smaller and lighter. I tried J4 and loved its portability, but J is nowhere close do DSLR when taking pictures.
+"Ferrer back from the dead" - good commentary.
+What a sad look. You must be horrible owner. LOL.
+The very last point was reaaaalllyyyy disappointing. Rafa disintegrated.
+As much as I like McEnroe, his mumbling can be annoying.
+It's a GOD mode I believe.
+Nadal is very nervous it would seem.
+It's called the "the job". You pretend to be working, they pretend they don't see you play. Than you get kicked out. 
+Seems to me that according to BBC 1m is the price of their friendship?
+So there is that. Interestingly, Mirka was looking very bored.
+Until the real thing is out, there is no way to tell how good or stable available drivers will be.  Nvidia should be allright, but if you have some more exotic audio processor or even gaming mouse with adjustable sensitivity, it could take a while to have proper software for that.
+I would wait at least a while, to make sure the drivers will work. Especially graphics/audio - MS ones are usually crap when it comes to any performance.
+That's a brilliant photo.
+LOL
+The big question is the content.
+I'm a Spotify user for quite a while and I'm not really sure what Apple could offer to make me switch.
+Very true, LOL.
+Somehow it's not building my confidence about Airbus engineers. 
+Most of [that](http://www.factslides.com/s-USA).
+Almost always this BSOD is related to kernel mode driver. You might check this article: https://msdn.microsoft.com/en-us/library/windows/hardware/jj569891%28v=vs.85%29.aspx
+but anyway you'll need to investigate and replace bad driver.
+
+I did. I still don't know what's your point.
+Because?
+Yes it was. But for BBC apparently it doesn't matter, Clarkson was the scapegoat, the end.
+I need to see finished product first before jumping into upgrade.
+I was one of the first to upgrade to Vista days back and it wasn't my best decision that day.
+Right, anyone surprised?
+Not something specific, but whatever software you are using in the office, learn the keyboard shortcuts and use them. Mouse is evil, slow and not very accurate, you will be able to do things much faster with the keyboard.
+They are not very good with those schedules. Should be updated sort of in the realtime, all it says it's "not before 11.00"
+Wohoo, I didn't know Prius can reach such tremendous speed.
+Scandinavian countries are on top of the list according to the Transparency International report for 2014.
+You can read more here:
+http://www.businessinsider.com/the-least-corrupt-countries-in-the-world-2014-12
+http://www.transparency.org/cpi2014/results
+
+It must be funny with everything being upside down.
+I'm pretty sure it's not that.
+I sort of understand economical reasoning, every German driver needs to pay - a lot, when in Italy, France, Switzerland, etc, yet autobahns are free of charge for the foreigners.
+But the implementation is somewhat mysterious and surely complicated. 
+Make it simple. You pay road tax, make a stickers called road tax, give them to Germans who paid and sell to foreigners. 
+Especially Murray. For whatever reason, he is just walking sadness. 
+Few months back I've seen a woman sitting across 2 rows and during descent she was clearly trying to call someone few times from her mobile.
+Not crazy, just silly.
+Depends for what. 
+To quote the classic:
+
+Heaven: Where cooks are French, mechanics are German, police are English, lovers are Italian and everything is organized by the Swiss.
+
+Hell: Where cooks are English, mechanics are French, police are Germans, lovers are Swiss and everything is organized by the Italians.
+Dunno if it qualifies as weird, two days ago I've seen Leopard 2 (I think) tank on a rolling platform. Damn impressive thing to look at.
+Try chkdsk /R on old drive. I never used clonezilla so I can't comment on that, but I've seen faulty SATA cable causing all sorts of problems.
+Apart from Acronis, which isn't free, you might have a look here for other tools:
+http://www.techsupportalert.com/best-free-drive-cloning-software.htm
+Looks to me like some very creative journalism without solid evidence, with the sole purpose of getting more readers. I would expect much more from Spiegel.
+I also have C7 A6 with standard Xenon fronts. I asked in few places if the swap into same model front LEDs would be possible. It is possible, but 1 complete LED headlamp costs around 2500€, but also after swap the LED "magic" - adaptive lights will not work, because it is controlled by several different computer units buried somewhere deep in the car itself. 
+As for the swap with facelifted lamps - I really doubt it. It would be horribly expensive, surely it will violate your warranty. But even if the money if not an issue, I don't think they will fit. 
+Thanks a lot, some useful stuff here :)
+Have a good flight!
+Somehow, Putin comes to my mind. Constantly talking about the peace and democracy but with the other hand sending troops to Ukraine and supporting the rebels. Not to mention all the ridiculous laws invented recently.
+I've heard that before and it's very good advice, but can you explain a bit more who FAs would consider nice?
+I'm flying quite often, but at least once a trip I stumble on some FA who seems to be on really bad mood and nothing seems to work to lighten it. 
+In Europe most of non low-cost airlines will offer free drinks and most of the time, food. Turkish Airlines is my favourite, even on 2 hrs flight you get like 2 course menu and all the alcohol you want. Lufthansa is not bad either, but on short hail flights they only have sandwiches and somehow I don't like em.
+It's all about hard drive. HDD is mechanical thingy, with rotating plates and moving heads. It's slow, especially in laptops, where hdd's needs to be smaller and rotate slowly. SSD consists of some memory chips and very clever controller. It can be very very fast, especially for random operations it's like 100 times hdd performance. It also uses less power and generates (almost) no heat.
+The drawback is the price, but it dropped very much over the years.
+When replacing hdd with ssd, performance gain is really amazing, since almost everything what your laptop does, it needs to work with the files.
+But, like I said, if your cpu is old and slow, SSD will not make your laptop fly when watching YouTube HD videos - that needs processing power.
+Clean all the crapware, toolbars, adware, etc. Consider getting more ram, up to 4 GB if you have 32bit OS. 
+But best option for older laptops is to replace hdd with ssd, unless you have really old and crappy CPU. 
+Probably Auschwitz, not far from Cracow, Poland.
+Quoting Wikipedia: "At least 1.1 million prisoners died at Auschwitz".
+And you can actually enter inside the gas chambers where they died.
+You should change your underwear more often. Maybe even take a shower once a week or so. 
+In which ep did you see green screen?
+Roger that. Surely one of the best in TV, if not the best.
+Romania is very pretty country with nice people in it. Hopefully you guys will build better roads in time. And yeah, gypsies can be damn annoying.
+Did you try to play some GPU-demanding game while swapped? Windows itself do not use much of graphic memory.
+Another thing what I would test is the RAM - but that's easy: http://windows.microsoft.com/en-us/windows7/diagnosing-memory-problems-on-your-computer 
+Let's just say the nexus didn't win ;)
+Send any text message to yourself, using 3rd party app. Like send photo, or a note or whatever, using sharing function. That should help, or at least it helped others. 
+I did than some time ago with Nexus 4, being long time iphone user. Just load the usual apps, configure you emails, social accounts, etc. Use them as much as you would normally. Maybe browse the web for some iOS tips and tricks, not everything translates well from Android. Few of them could be useful. Ask questions - I'm sure a lot of people here will be willing to help.
+Exactly. Apart from the tech side. I was peeking around it on the Frankfurt airport recently and the styling is worse than it was, it looks heavy and bulky. No subtle lines whatsoever. 
+I've been told that direct petrol injection and turbocharges are responsible.Higher compression ratios, higher temperatures are making plugs to wear very quickly. In fact, Alfa Romeo in Giulietta 1.4 recommends replacing plugs every 30k.
+Are they the same guys who says that average car stopping distance from 60mph is 240 feet?
+I've heard there were some problems with 6 speed S-tronic gearboxes, but I have wet 7 speed and it is fabulous. Gear changes are extremely quick and smooth, not very lazy on kick downs, good fuel economy. Performance also feels better. Basically dual speed gearbox is best of both worlds from manual and auto. It will take some time to get use to it, but just remember to use only right leg, keep the left one away and you'll be fine.
+Especially in traffic or lazy city movement auto mode is brilliant, much less work and more comfort with changes. If you like, you can always switch to manual sequential mode and play with that. 
+The only drawback I can think of is the oil change every 60kkm in the wet S-tronic and it is a bit expensive - 250€. I never had any problems so far and I've done maybe 300 kkm in two cars. 
+From the looks of it, I would say there is a good chance of faulty graphic memory. There are some video memory diag tools, but the best way probably is to borrow and swap your card for a week or so.
+Fair point, I didn't think of that.
+Apparently having a crash with crossed hands is more dangerous, especially with the airbag. But I can't really imagine having a serious crash in a bend so tight that your hands would be crossed.
+Imagine 2 fans, one in the exhaust, one in the intake manifolds, connected together by the shaft of some sort. Exhaust gases causes the whole thing to spin, pretty quickly, while the intake fan pushes the fresh air into the engine. More compressed air in the intake equals more power. However, for this to work, engine must the running on more than idle. The delay between turbocharger being idle and spinning is called turbo lag. 
+In the case of emergency landing, people needs their eyes already adjusted to the dark conditions, so they could evacuate the plane as fast as possible. Also emergency lighting would be much more visible.
+> generic cheap 400W PSU
+That could be an issue. Cheap 400W PSU doesn't always provide 400W. Could you borrow a bigger one for testing? 
+To make things easier - could you turn off automatic reboot after BSOD? In system properties, advanced. If BSOD will happen, you will see what's causing it. If there will be no BSOD, just reboot, my money is on PSU.
+Yet another thing - I guess this GTX 960 is not new. What could be a problem, is the power stabilisation. There are solid capacitors on the card, which - like most of capacitors, don't like to be overheated. If they are constantly, they will loose some capacity in time, resulting in much less refined power being delivered to the GPU and memory, what usually results in the unstable graphic card. Under the load, it might just crash.
+It could work for slow manoeuvres, but I can't imagine driving a bit more dynamically with that sort of steering. Worse even, in an emergency situation the shuffling move will pretty much cause some sort of crash. I have no idea if it's good or bad method, but "hand over hand" works much better for me, I feel I have better control and possibility to turn much quicker. Try opposite lock when on the track with the shuffling.
+Not to mention (sorry if that offends someone), but shuffling is more a pensionary driving style for me.
+Personally I don't think it has much to do with country being poor or not. More likely it's a cultural - and weather thing. For example, Italy (not poor country) is one the countries where horn/honk is used very much, to say "I'm coming" - very often by people on scooters (hence weather). But it is also cultural thing, Italians are often very expressive and pretty loud, not only while driving. 
+Northern Europe uses horns for different reasons, like "danger" - what often causes confusion when some Dutch or whatever are driving through Italy. 
+Mostly, two reasons I can think of right now. First, the lens rotate in most more advanced cameras, either to focus or to change zoom (usually both), so making them round allows you to take pictures at any point of rotation without cropping.
+Second - I guess it would be probably very impractical to create rectangular lenses in the production process. 
+I used to work in tech support for large non-IT company, over 2000 users. The biggest problem for IT support are the users themselves, not hardware or software. Especially the older generation, who are in many cases forced to work with computers, even if they don't like it and are barely trained to do so. For many of them, IT pros are like magicians, knowing things which are for them impossible to comprehend in many cases. I don't think I had this "hate" feeling very often, but it also depends on the support person, it's always better to smile or say a joke or something. Even dinosaur-old gremlins one. In many cases it helps to show them how to do this or that, but not blaming them - just showing or explaining how to get things done. At some point they actually could be grateful. 
+If that is your first (D)SLR, you need to learn a bit before about some basics about photography, like depth of field, shutter, aperture, ISO, etc. D200 is very capable camera, but it's not point-n-shoot type, you need to know how light works in DSLR, that will give you much more control over photos and possibly great results in time. There is lot's of books and courses, I always liked Thom Hogan books, so you might look into that. Original Nikon manuals are dreadful for most part.
+Wait till 10. Historically, every 2nd Windows was good. 
+Probably worst camera man of them all, but thanks anyway ;)
+Hold your breath as long as you can, sometimes on the exhale works better, sometimes on the inhale. Important thing is to do it as soon as hiccup starts.
+Jeremy Clarkson
+I'm not sure that qualifies as a question, but anyway, the simplest function of the DNS is to translate human-readable domain and website names into IP addresses. Those addresses are needed to make a connection. If type www.abcd.com in your browser, it gets resolved to 199.181.132.250 and than connection is made to this IP.
+If you want to know something more specific, you need to reformulate your question. 
+I'm trying to find it, but after changing default font size, only titles of the notes are bigger now. Whatever is inside, old notes, it's still as small as before.
+Can somebody please record it?
+It's quite a few failures in a row now I think?
+I wonder - is there a way to insure a payload or something similar?
+I don't care much about the name itself, I just want them back on my TV. But, one of the sayings throughout the show was "How hard can it be". Every TG fan would recognize that in an instant.
+Hmm. Why should I be interested?
+Oh man, I would have cramps for years after this.
+Sounds like ages ago. I was born on this year. 
+You might be right, but Z06 is not a car which only racing drivers can drive? Average buyer will be much less racing-type than Jeremy is I guess. And he is a pretty good driver.
+The fact is, that generalising, European cars feels and drive very differently that the US ones. Different markets, obviously, different habits, different roads. There is a good reason why most of US cars is almost impossible to make a good selling in Europe.
+My personal example: some time ago I used to have Ford Mondeo, and used it to drive 2-3 times a week through pretty twisty bit of road. The other day I had Toyota Camry from a friend and almost crashed, when trying to do the same road with my usual pace.
+At the very end of the clip.
+He plays drums and he is pretty good at it. So he might have heard about E note.
+True, but that is one very difficult thing do to.
+Many thanks!!!
+Excellent read, as usual from Jezza. He could write about boiling potatoes and it still would be brilliant. Hopefully he'll stick with tennis, good sport and he really needs some workout.
+It depends on how you classify "large". I've read somewhere that asteroid with the diameter of 1 mile would wipe out all life on Earth, not due to direct impact, but due to amount of dust and debris which would cause ice age for many years. But, it also depends on the speed of the asteroid and it's composition - whether it would explode during atmospheric entry, what would be the hitting point, etc.
+At the end, nobody really knows. But it would be a really bad day.
+Different materials which have different thermal conductivity. Metal and glass are good thermal conductors, your body has higher temperature than average room temperature, so the heat from your body is transferred into lamp and you feel it as cold.
+Materials like wood and most plastics are not good conductors so there is no heat transfer from your body to the object and they feel warmer.
+If you would measure the temperature with a thermometer all objects in the room will show almost the same temperature.
+It's either lack of oxygen in the air - causing engines to work less and less efficiently - or decreasing pressure of the air, which causes less and less lift from the wings. At high altitudes - both.
+It's very un-scientific explanation though.
+I tried some time ago watching "Speed with Guy Martin" and despite, well, speed, and some action etc it doesn't work for me. Feels boring. Than there is his way of talking which for me is more mumbling than anything else. If that will be the dream team, oh boy, BBC you are soooo screwed. 
+I'm not sure it is the same car. I was checking the other day specs of the Audi S4 and some pretty important details were different from USA and EU. Like breaks, interior trims, lights, satnav unit, etc. Could be the same with the BMW. Even suspension and gearbox was different - slightly. EU has now much more strict rules than USA when it comes to engine emissions and safety.
+Besides, you could pop to Germany anytime - base M3 over there is around 72k €, much less than $229k.
+Pretty easy really, traditional PC sales are smaller and smaller, most laptops and all-in-ones have webcams built-in, even if they are usually rubbish, apart from a few exceptions. 
+Polarised sunglasses are much better when you look at light reflections. You are blinded much less, comparing to normal sunglasses. I don't think its very bad for your eyes though. 
+It definitely is. I don't know who is responsible for the music, but in most scenes it matches absolutely perfectly.
+Security certificate is a way of proving who actually is running the website and who has access to its security configuration. That is especially true with the EV (Extended Validation) certs. EV means that the owner of the website is checked and validated. Now, if the name doesn't match, it well may be that someone is using a fake website, or fake certificate. Now imagine that could be your online banking interface.
+I guess it's down to two factors. First, webcams are dying and not many companies interesting in developing those. Second, S5 is rather pricey and incorporates a lot of cpu power, what is also a serious factor. Have a look at something like Logitech HD Pro Webcam C920 - you could be surprised with the video quality.
+If you are referring to a double-stage closing of the car doors, it is a security mechanism, which is meant to provide additional security during accidents. Even if the first - tight stage lock is broken or anything, the second-stage lock can still keep the doors closed, what could be pretty important during e.g. car roll.
+It depends, but:
+- olive oil burns much easier than other ones, and while burnt it could be seriously unhealthy
+- amount you use and amount which will stay in the pancakes. More oil of any type will mean more calories.
+In general, olive oil is best served cold, and it is considered as healthy comparing to other types. Frying on the olive oil can be tricky and should be rather avoided.
+In the early days, each game had to work directly with the graphics hardware, what was pretty difficult for developers, especially because the market was much fragmented than it is now.
+Directx sits between the game and the hardware, what makes all the games use just one, standard interface for graphic operations. From the other side, directx uses drivers specific to the HW for best possible performance.
+In fact now directx works as an interface for all game-related operations like graphics, music and gaming HW like joysticks, etc.
+Hammong can't find anything to say, good one!
+I wish them all the best, I mean Tesla, but GT car with ~200 miles range, after which you need to charge it for hours?
+In my mind they rather miss the point.
+I guess Jezza would like it, but again - range on the track will be very bad and he'd be upsetting Tesla again. Not to mention that car this heavy will be cornering like a pig.
+Yes I did. But I still have some 3 to come before it will actually expire.
+I think we established already, driving skills are not really relevant, otherwise Stig would run TG alone. 
+As for the humour thing, well, I have quite a few good friends in Germany and I don't want to offend them, so I shall remain silent :)
+I guess they do, sort of; http://www.reddit.com/r/Jokes/comments/2azb20/i_translated_a_german_joke_and_hope_its_still/ 
+I have nothing against Germans (most of the time) but, but, a TV presenter with this strong German accent will be difficult to live with. Also as someone pointed out, her sense of humour is quite German.
+I really don't know, if the BBC is so stupid to believe we will be happy with the Stig driving around in some rather silly car, without a word of comment? I mean, really?
+I think he found the focus ring on his cam. But well done anyway.
+James was from the second series. They never said why - or at least I know nothing about it. 
+I have no idea, but probably Jeremy will invent it and one thing is sure - BBC will not like it. Both the name and the show.
+Good man. I was worry a bit since he was so quiet, those three should stick together.
+Whoa... brilliant read. Many thanks man!
+Aaa... right... bloody Americans. JJR should be available and everything with the R at the end must be loud and fast.
+LOL
+I guess it doesn't matter. Could be ABC Show and knowing those three are in it, people will watch. Including myself, obviously.
+Slightly silly, but still a joke.
+As much as I'd like that, it will not happen. 
+It was in S12 ep 4 - economy race, 3 cylinder diesel blue motion. I don't think they did proper review.
+I had it once as a rental car, I didn't like it at all. 
+Believe me, it's bad.
+I've been in Istanbul 3 or 4 times and I always had problems finding any decent wine. I understand, it's a religious matter, but anyway the fact is the fact.
+Yes, pity they never included it in the show. BBC buffs would go crazy, LOL.
+Why the hell he would go to Istanbul?! Very difficult to get rose wine over there. Not much fun as well, everyone trying to sell you some crap. "Special price for you my friend". Granted, some nice people do live there, but they are in the minority. 
+I'm not sure if he's checking the twitter, but yes, good idea.
+I'm afraid not much can be done. It's a matter between their agents, TV stations, etc. Petitions and this sort of things will not make much difference I'm afraid.
+Good man.
+I'm not sure: http://www.mirror.co.uk/tv/tv-news/top-gear-enough-footage-two-5461682
+Which is plainly stupid.
+I'm not sure if you noticed, but those three are not exactly in love with the US.
+Opening fine in my browser. Clear the cookies if you get pay popup.
+Firefox + ABP makes the page pretty clean.
+Right... and Argentinians got even more angry.
+thanks!
+Yes, the same as bot network.
+Let me put it this way: for the current TG, I couldn't wait to see new ep. I was always Sunday evening ready with glass and everything. For the new one, I guess not. It will be some motoring show, I might watch sometimes, but I'm 101% sure that no matter what replacement they'll find, no one can duplicate the real thing. More worryingly, current BBC mood suggests it will be very correct show, bland and boring.
+As for the replacement, personally I don't think BBC will be able to find some well known presenters, Jeremy's shoes are just too big to fill, it might be spectacular fail.
+I also tried the Fifth Gear, but it doesn't work for me. Not to mention my wife. They talk too much about some tech details, which even I find boring (how to check fan on Rover 75. Goosh.) but their comments, dialogues, are so bland, without any emotions, humour, etc. It's just another car show.
+Clarkson has some unique way of making all those comparisons and hyperboles which just work brilliantly, even if (usually) they are exaggerated. Not to mention usual dose of jokes.
+If that will be the Top Gear in the future, it will end after one series. Or sooner.
+Too much likes per second or minute. Facebook thinks the links are automated.
+I think AC/DC Thunderstruck would make good intro.
+Yes, Bolivia is simply a masterpiece.
+I can't remember which one was the one when they tested some crap cars with egg basket above the head?
+That still makes me loose control.
+Oh my.
+BBC must be really desperate. 
+Speed has never killed anyone. Suddenly becoming stationary, that's what gets you.
+I can imagine most comments would be deleted anyway. A most comments regarding the situation on TG website.

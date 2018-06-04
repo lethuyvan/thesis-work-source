@@ -1,0 +1,1145 @@
+Interestingly, my clock cap was perfectly fine. Removed it, of course, but it still looked great. 
+I do it because my motorcycle gloves were pressing the buttons constantly. 
+I managed to snap this thing while trying to get it off so I could put fresh heatsink paste on. Doh! So now I need a new one. Anyone got a parts Xbox I can get this off of?
+Build unreliable POS cars for 40 years, yeah, not surprising you can’t sell them anymore. We’ve driven a lot of junk car makers out of this country. 
+If the file is smaller, it’s using less bandwidth. 
+Nice to hear there’s a way to automate this.  
+Man your server is overkill. I’m running a Haswell Pentium playing h.265 just fine. I only use clients that support it. 
+😊 Thanks
+Yeah. It’s 18”. 
+Maybe one of these pictures will help? He can do custom heights.  https://i.imgur.com/gwoh2Mn.jpg https://i.imgur.com/sVE5Qux.jpg https://i.imgur.com/GJjZZhY.jpg 
+Tell him Brian Gosney sent you. He's a great guy, really nice to work with.
+Yes
+The serial number is set in a much different way on a hack. Check any of the iMessage tutorials to learn how to set your serial number. 
+Bonus points if you’re using the machine’s original serial number. 
+Yes. 
+https://arstechnica.com/information-technology/2018/02/bitcoin-miner-in-nyc-home-interfered-with-t-mobile-network-fcc-says/
+Sweet! Good luck with your project. I’d love to see how it goes. 
+I named her after the scientist. Yes, on purpose. 
+I have a similar problem. My daughter’s name is Tesla. If I ask Siri to call Tesla, she asks which car dealership do I mean. Frustrating as hell when I’m trying to drive. 
+No problemo. Dell motherboard might give you some grief, but nothing that the modern clover methods can’t work around. 
+Same here. The had to try 4 or 5 times. Then it stayed for about 500 miles and slipped off again a few days ago. This is with Kuryakyn grips. Apparently Avon grips have grub screws to keep it from doing that.  
+My problem with the Kuryakyn grips is they seem to be too big. This time, I wrapped the bars with two layers of electrical tape, which snugged them up, then I coated the tape with superglue before driving the grip home. 
+AfterShokz bone conduction headphones FTW. They don’t go on or in your ears at all.   
+Haha, good old SeattleWA. Always good for a downvote. 
+I had gotten all the parts I needed by the time he got back to me so I told him never mind. Thanks anyways. So he’s still available for someone more patient than I. Heheh. 
+There was a ton of stuff lost from the BBS era. I myself wrote a dozen doorgames. Only two made it into the archives. The source code I opened up for one of them didn’t make it. There’s a lot of others that are just gone, now. 
+If it weren’t for me being a content producer on YouTube, and shooting video in 4k60, several hours per “episode”, I’d be fine with 64gb. But due to the heavy video recording I do, I’m very very glad I have 256gb. I almost never run out of space. My 512gb SSD in my Hackintosh is a bigger problem for me, when processing the video. 
+Thanks for the feedback guys. 
+I haven't heard a peep out of /u/GoTeamScotch. Not sure if he shipped it without saying a word, or if he's just not interested. I actually managed to pick up a copy of Splinter Cell, so I just need a mem card or USB stick/adapter at this point.
+Well there’s this 180 page thread over on MacRumors... hah. But generally I still have one working Mac Pro, or an image of a working install on an old hard drive (they all run SSDs now),  and I boot into that hard drive, copy from /System/Library/Kernels/kernel to the failed system’s drive in that same location. Then there’s some command you have to run to secure that file, it’s chmod something or other. Then just “touch /Volumes/deadDrive/System/Library/Extensions”
+I got a motorcycle. Very stress relieving. Fun to ride. Brought back my feeling of freedom. Even found a ton of friends and a sense of community amongst other riders. 
+These minor security updates are to deal with Meltdown and Spectre. They’re targeted at the actual CPU that’s supposed to be in the model of Mac you’re claiming to be.    
+They’ve been a real PITA on my 2006 Mac Pro’s running El Capitan. I’ve had to roll back my kernel twice now. Completely incompatible with the older Core 2 based Xeons. 
+Make sure you’re running 42psi in the tires. Helps with efficiency as well as tread life. 
+$129
+Nope. 
+Always the best plan. In the 10 years I’ve had iPhones I’ve only broken one screen on mine, and my daughter broke one. Both times we immediately got in the car and went to Apple to have it replaced. 
+Same. Even my kid’s phones. 
+Less parasitic loss. More power out of the engine. 
+PM sent. Thanks. 
+ https://i.imgur.com/rBXULMl.jpg 
+The Chevy Spark? It’s not even hybrid, let alone electric. 
+May I be added to the list? I'm near Seattle, WA. Thanks.
+It is proper riding gear. But funny to see you get so triggered over it. 
+I sense you have a problem with being gay. 
+Check out the app Overcast. I left the stock podcast app years ago and couldn’t be happier with Overcast. 
+There ya go. It’s only got the 3.3kW charger onboard. 
+Nice. DOS 3.3 was a classic. 32mb hard drive size limit, but DOS 4.0 was so bad most people were willing to dice up their 250mb hard drives up until DOS 5.0 came out. 
+Well that was my only guess. I use iMovie and it works a treat for me.
+On the dash, it’ll show charge time estimates. Does it have two L2 ones?
+Which High Sierra? Latest update? Got the latest version of FCPX?
+Very very carefully. Heh. 
+I like the way you think. 
+Good. Stop slowing down our shit. 
+It’s not safety related. 
+They’re boots. Even has ankle armor, Vibram soles.  https://i.imgur.com/Q0lC0nz.jpg 
+What hardware is the board running on? I’d love to get an old machine to run a board on. 8088 running RBBS. Back where I started 30 years ago. 
+These aren’t pants. They’re chaps.   
+http://www.eagleleather.com/CHAPS-3
+Assless chaps. That’s the only way they come. 
+Not you. Hehe. Sorry you had a bad night though. The original troll who complained of this post’s very existence. Heh. 
+This is how they’re going to say, in a few years, that “nobody buys music anymore. We’re going to a subscription only model”. 
+If you view the guy’s profile, he seems to be a generally disagreeable person. I feel sorry for him. 
+Made by Polaris, yes. Polaris also ran Victory but shut down Victory when the Indian brand took off. They’re doing an amazing job with these bikes. This Scout is amazingly powerful. Very reliable. Definitely a good bike. And they’re utterly dominating in flat track racing, which is what got me to consider one. 
+I tried that, but the police keep pulling me over for it. So strange. Heh. Really though, it’s way more in the public eye while I’m driving it. No point acting like the internet is a different public. 
+My Harley is black. I like the traditional “Indian Red” on this bike. Nobody ever says anything about the Harley when I ride that. This bike, I can’t go anywhere without compliments. 
+Seems like Gorst too. 
+I’ve bought a few other helmets. I keep going back to this one. I like it best. I like the design, the wings/feathers goes well with the Indian theme. 
+And if you don’t want to use systemD at all, FreeBSD FTW. 
+As an iPhone user it boggles my mind that this is even a thing. 
+Bullying, and dismissing good points for arbitrary reasons. 
+You’d get along well with my ex wife. 
+I trolled someone a bit recently. Had a pair of old trucks for sale for a ridiculous price. Both looked like they had been parts cars. I don’t think there were enough parts to make either run. He had no titles. Looked like a tweaker had had their way with fixing them. Neither had been on the road in probably 20 years. I messaged the guy and was like, hell, here’s a screenshot.  https://i.imgur.com/ZdbupBF.jpg 
+I don’t think you’re capable of understanding, but if you’re going to prance around like a bitch, I’ll go ahead and try to explain. 
+The first 6 months of the Scout’s existence, it had the same problem as the entire first year of the Harley. This is where the stories diverge greatly. Indian acknowledged the problem and FOR FREE, they’ll install the fix. All bikes made after February 2015 are fine. Compare to Harley, who clearly knows there was a problem, as evidenced by the 2016 master cylinder change. But refuses to even acknowledge it, nor offer an upgrade to the improved design.   
+In short, recalls are a good thing. It gets the problem fixed for free. Sure, it leads to jokes like “what’d the Honda say to the Harley? —— I don’t recall”,  but I’d take a recall over an ignored problem every day of the week. 
+It’s been done by several dealers. It’s totally possible to swap the 2016 rear brakes. It’s insanely expensive to do at dealer prices though. 
+If you’re here to look for solutions rather than bellyache about your lack of research before purchase... You can pick up a 2016+ rear brake setup on eBay, off a wrecked bike, for a pretty fair price. Like $60 the last time I looked it up for someone with a 2015.  
+Also, make sure you file a report with the nhtsb online, they’re the ones that force manufacturer recalls. But only if they get enough reports from owners. I filed one after my fork bearings rusted up on this bike (also a common problem). 
+Actually no. I have a 2016 Street. I bought it rather than a ‘15 because the brake issue is well documented. And I also have a 2015 Scout. They’ve changed nothing other than adding optional ABS to the newer bikes. The brakes are excellent. So you’re wrong on both. 
+I like the dual front rotors. 
+You’ve been drinking the koolaid. 
+iPhone 7 is ip67 waterproof. So was the first Apple Watch. I showered for a year with that watch on before I got my iPhone 7. Once I had the 7, I started shooting underwater video with it. 
+I'd really love to build a Ryzen 7 system to give some more grunt to Final Cut Pro over the Haswell machine I'm running on now. Just not sure I can trust an AMD based hack. Glad to see more people are pulling this off.
+Take apart 100 packs, sort out the cells. Remove the underperforming cells. Reassemble matched sets of functional cells.  
+I expect these batteries will ship with a SOH of about 90-95%. Up from the 65-70% they were at when replaced originally. 
+When I find a place that accepts it, I love using it. I’ve used it in iMessage too for personal payments. Very handy. 
+I must have done this ages ago and don’t even remember. I’ve never seen an ad in BaconReader. 
+Someone needs to do a whole XT motherboard, open source. 
+I’ve got a 2006 Mac Pro upgraded fully that I still rock. It’s become a bit of a Hackintosh itself nowadays. 
+https://www.youtube.com/UnaClocker  
+I’ve got something like 14 videos covering things I’ve done on this bike. Also got another 13 or 14 covering my other bike, an Indian Scout. 
+Have been pretty happy with my 500, especially the gas mileage. But I saw a 750 engine with only 60 miles on it on eBay for a killer price. So I snagged it. I’ve got some Street Rod cams to toss in it before I install it. Also going to disable the balance shaft. I’ve got an FP3, so updating my ECM to support the 750 motor is no problem.   
+I’ll be recording the whole process and tossing it up on my YouTube channel as I go. 
+Yeah, same. I usually wait a week to install an update. It’s usually sorted by then. 
+They’re only extremely slow to fix it if they fix it. You’re very optimistic. 
+Got a motorcycle. Challenged the world to take me out. Found friends and discovered a ton of joy just riding. 
+Maybe I browse different sites. Dunno. Do you still have a blocker enabled in your browser? 
+It should improve your speed. Both because it’s caching your DNS queries locally, and because you’re not using your bandwidth to load ads anymore. 
+I built a PiHole for my home network. Seems to work without that glitch. 
+Ahhh, that makes sense. Good idea. 
+This is great news. I’m interested to see what comes down the pipeline in the future. 
+A new iPad mini would be great. Especially if they can get the price down below the full size iPad. 
+Doubt the FP3 was defective. Find a third party dyno. I got my Scout dyno tuned for $300 at one of the best shops in the region. Shouldn’t need to spend $1000. 
+Great... this will be the next viral autocorrect glitch that requires a whole iOS update to fix. Good grief Apple. 🤦‍♂️ 
+“In a panic, they try to pull the plug”  
+“Skynet fights back”
+Longest.wait.ever! I hope this means it'll actually fix some of the long standing iOS 11 bugs.
+Same here. Just paid off a 60 month loan in 6 months after I realized they hooked me up with a 17.29% interest rate. Fuck them. 
+This kind of crap is why I switched to OS X like 18 years ago and never looked back. 
+Do you know what the R in DRM stands for? Rights. And the M? Rights Management. DRM is managing your right to play this media. And someone somewhere along the way decided that computers don’t get the rights to do it. 
+Yup, Indian Tan. 
+Check out my video on this. Their website is pretty straight forward and easy to find maps on.  
+https://youtu.be/EqkhEhRG7zY
+Lying or incompetent. My dyno tuner had a lot of experience with PVCX’s and the fueling responded exactly as he wanted it to. To be fair, the closest tune DynoJet had on their website to my mods, which I had already loaded into the bike was close enough. Was only down about 2hp from our final numbers.  
+I’m running the Arlen Ness intake, it sounded soooo wicked before I put the load exhaust on. Can’t hear it over the exhaust anymore. Definitely improved performance over that insane stock airbox setup.  https://i.imgur.com/I6qvghn.jpg 
+https://i.imgur.com/YOiUede.jpg  
+Here’s mine. I ordered it Dec 14th, Jan 11th they shipped me one and ignored the height info and the comment about needing reduced reach. So I sent it back to them. Tuesday March 6th my reworked seat FINALLY came back from them. It was quite the ordeal getting reliable info out of them about when it was really going to be done. But in the end, it fits me properly now, and I’m very happy with how it looks and feels. Haven’t gotten a long ride in on it yet, but did ride for an hour straight today. Felt like
+My bum was being cradled by an angel’s hands. Hahaha. Super happy with the seat. 
+Let them know that the firmware has been improved vs when it was first released. It'll flash in about 5 minutes now. Not a real big deal. My dyno guy did the whole thing with only about 4 flashes. He said he'd had too many check engine light/limp mode problems with the PC5 on Scouts, so he didn't recommend it anymore.
+I recommend a Dynojet PowerVision CX. Rather than having to piggyback onto the stock ECM and alter the signals coming and going from it. The PVCX simply reflashes the stock ECM with new settings. Just plugs into the diagnostic port. You retain nice features like oxygen sensors so you bike doesn't run crappy if you change fuel or altitude.
+Why are you still using a PS2 keyboard in 2018? You haven’t even been able to buy them for over a decade now. 
+9,000 miles. I see reports of the OEM ones snapping at random times, in the forums as well. That’s concerning. 
+Well as I show in the video, the stock cable didn’t even have the 90° bend in it that this one had. And if you google Barnett Indian clutch cable, you’ll find hundreds of posts about most every model of Indian needing to upgrade to these. 🤷‍♂️ 
+And it’s actually 22-25 in lbs. 
+It was supposed to be 22 inch lbs.
+Hehe, that didn’t go well for Linus at LTT. 
+March 7th, 2018 Skynet, err, Alexa becomes self aware. Realizes humans are all a bunch of idiots and can’t stop laughing at us all. 
+The toilet
+I’ll try to summarize it. Back in the early PC days, Bill Gates made a desk gun decision that made it pretty well impossible for the operating system to address more than 640k of ram. That limit was outpaced essentially immediately yet the problem remained for a decade afterwards.  
+I brought up the reference when you said the prices will “never get to those levels”. Given time, they sure as hell will.  
+To clarify, I don't think the whole text box is supposed to be jumping around like that. It's very distracting and disorienting.  
+Latest version of BaconReader, latest iOS. iPhone X
+I have a Street 500 as well. Nope, no fan after shutdown. The cooling system on these works really well. Keep in mind you’ve got a cooling system that was at least designed for a bike that’s 50% larger than what you’ve got (XG750) so it’s really not working very hard to cool that 500. 
+Bill Gates called. He said 640k ought to be enough for anyone. 
+Since it’s not user upgradable anyways, nobody really owns one outright.   
+edit: hahaha, my most downvoted comment ever. Thanks guys. Full of win. ;)
+Ok. Well I’m pretty happy with my solution. Glad you’ve found one that works for you. 
+Only waterproof while it’s closed. I live near Seattle. I ride in the rain more than I ride in dry weather. 
+In the orientation it has to be mounted, it’ll pour right out the bottom because that’s just as wide open as the two sides are. Water will come and go. It’ll dry as fast as the rest of the bike. The spring might rust would be my only really minor concern. 
+It’s not. But the board is so watertight now that it can take it. There’s no way to waterproof the housing. 
+There were a lot of people involved. That source got passed around a lot back in the day. That’s how it got forked into the 3. Even Telegard, there was a much older generation of it that was far more basic. Ahh the good old days. 
+I’ve had the same face since launch day of the S0. I love the utility face. 
+Have some more. Telegard, Renegade, Iniquity. Hehe. All so very alike. The source code for those puppies is amazing. Really took Turbo Pascal to its limits and beyond. 
+Interesting. I went from an S0 wOS3 to a S2 wOS4, and it feels slower. 
+Got the real thing working. Thanks anyways. 
+Really aggravating that this post was downvoted. Got plenty of helpful replies.  
+I ended up spending some quality time with google and solved this. DarwinDumper app to dump my EDID, FixEDID app to alter my EDID to be an iMac retina display. It created a kext that injected that EDID on bootup. I used Kextbeast to install that kext. Then I used RetinaDisplayMenu app to set the resolution to 4k after bootup. Works a treat now. I have the nightshift mode enabled and working. :) Kind of a convoluted way of making it work, but I've gotten used to that, having been hackintoshing since 2008.
+Much like taxes. Do your best to avoid it. But in the end it’s going to happen. 
+I don’t. 
+Nope
+I'm running High Sierra 13.1, GeForce GTX 950 with web drivers. Samsung 4k display. But no option to change colors. What gives?
+I was rooting for iPhone Pro
+Didn’t know that could be done with the Scout. Interesting. 
+This is why I left the stock Podcasts app. Size limits on downloads. 
+Yes. Get it. 
+As I’ve heard it, it gets replaced for free when that happens. No matter how old it is. 
+I was thinking the grease in the bearings. 
+I wonder if RBBS will still “compile” and run. Hehehe
+I’ve been getting over-temp emails for years from FreeNAS. At least since 9.10, probably since 9.3.  https://i.imgur.com/HWFW0qw.jpg 
+It’s OPEN SOURCE. Fix it, submit it upstream. 🤦‍♂️ 
+Haha. And here I thought I was the only one that raised the warning temp from 45° to 55°. I get emails when they get too hot. At 55°, you can pull the drive out and iron your clothes with it. 🤣
+Another easy update. Thanks!
+The battery was still at 92% health. It’s only $5500 to put a brand new battery in it, so even then it’s only $13k. Batteries tend to last 5-8 years in our climate (the Leaf has no battery cooling, so they die fast in places like Arizona).  
+Really it came down to everyone leasing and having their leases expire at the same time. As well as newer longer range versions having come out. Who wants the 80 mile range version when there’s a 110 mile version. 
+There is a $7500 tax credit. But the big thing that kills value is when sooooo many people lease them, and they all come off lease at the same time. It causes a glut on the market. 
+405 Motors in Woodinville. Yes I would. 
+I bought a 3 year old Nissan Leaf. Fully loaded with options. Perfect condition, 40k miles, this time last year. It was $37k new. I got it for $7500. The car lot had a dozen to choose from at that price. 
+Could you link to that tutorial? I’ve actually got 5 extra entries in Clover and have to manually select the right one each time. Sooo annoying. I’m kinda lazy in my Hackintoshing. Get it working and ignore/forget about it for ages. 
+Nope. And with the specter/meltdown fixes slowing things down, I’d rather not update at this point. 
+I too dream of SE X.
+Lack of a downvote function. Articles from paid sponsors got upvoted. As stated, it was more like a news aggregator rather than a social media community driven news site. 
+They disable downvoting. Articles were upvoted based on advertisers paying to have them upvoted. 
+Came for the OLED. Stayed for the epic task switching. 
+Remember Digg? 7 years ago they killed their empire overnight with a bad update they refused to roll back. 
+Keep in mind the 6+ doesn’t have Band 12, so it’ll appear coverage is worse than it really is. Was added with the 6s (and is the only reason I personally upgraded that time). 
+I did a similar system to what you want on my Indian Scout. I just bought a commercial system, Digital Guard Dog. Works great, almost feels factory.  
+That panel on my Harley is plastic. Won’t work through metal. 
+Human beings are highly likely to become extinct if current trends continue. The good news is the planet will go on without us. 
+https://youtu.be/QXVnYDg7QAo  
+I did an NFC interlock on my run/stop switch. I used a Teensy 3. Overkill, but those things are only like $14, the price was fine by me. 
+Get the PlugShare app on your phone. The charger locations on the map in the dash are soooo worthless. 
+Great info. I’d always wondered about that. 
+That’s only 3.3kW. Not 6.6kW. 
+Ahh yes, I canceled my Netflix subscription in protest over their increased rates, in 2011. Their CEO laughed and said “they’ll be back”, which hardened my determination to never use Netflix again. /rant  
+The battery life on this iPad is absolutely AMAZING. Even 7 years old, it boggles the mind how long a charge lasts. 
+Can confirm. Both the built in YouTube app as well as the last iOS 5 compatible official YouTube app stopped working last year. And it doesn’t work in Safari either. 
+You think a Mini 1 is useless. Should try a full size iPad 1. iOS 5 FTL. I use it as an ebook reader. And I still have a version of Plex on it that works too. 
+Worked for me. “What’s Pi to 100 digits?”
+The copy of iPhone does not appear to be genuine. Please call our hotline and enter this 100 digit alphanumeric code before we lock down your phone. 
+My daughter's first gen Mac Pro did this today. I think Apple just force installed some Spectre patch or something. And it's not compatible with hacked machines. 
+Bing paid us to override your preferences. Corporations are people too. 
+I for one love the Street. 
+Because I don't think you can find a used 950 for less. If you can, go for it. I sure love mine. 
+Web drivers ARE plug and play. Hacking plist and clover config to trick macOS into using default drivers is not plug and play.  
+I use a GeForce 950 that I got about 2 years ago. I'd get a 1050 nowadays.   
+- edited, autocorrect nightmare
+https://support.apple.com/en-us/HT207022  
+Stupid is as stupid does, gump.
+iMovie, Photos, and the Image Capture app which is used for getting files off the phone. They will not see any HEVC and HEIF files on Sierra. 
+Fair enough. I’ll try. I’ve gotten pretty good at just booting off my install stick and moving Clover and all its settings back over. 
+Every time I update clover, my system refuses to boot. I spend several days and end up reverting back to my old Clover version. And yet I manage to update the OS without Clover.   
+I’ve also never heard of Lilu. I run a vanilla install. 
+Well, thanks for the follow up. I disagree, but respect your thoughts. Victory is as dead as the VRod nowadays. The Scout came out as an Indian product, years before Victory tried to do a failed rebadged version of it. I do live in a bit of a liberal place, but I see dozens of Harley’s for sale at the Indian dealers, traded in on Indian’s lineup. So your opinions may not be shared by all. 
+HEVC support. If you shoot video on your iPhone in HEVC, Sierra won’t even see the video. 
+I’ve tried selecting that. It gets halfway through the progress bar and reboots. Figured that must not be what I was supposed to do. Hrmmm
+Overcast
+In which way?
+The VRod has been discontinued. Before you buy, go test ride an Indian Scout. 
+Perhaps Tesla could design a better engineer for them? Even cars know to slow down for curves nowadays. 
+It’s been broken in the YouTube app for like 3 years. 
+Ahh Thursday night. Can’t pull that off. 
+The dream of the SE X. Daddy like. 
+The thing is a piece of crap. Tried one. It ate the batteries in the tiles way too fast to be usable. And it decreased the battery life in my phones too!
+A 20% increase over stock. These bikes dyno at 82-83whp stock. Now I’m at 99whp. The power level change is profound.   
+The first line at 95whp is with all the mods, and DynoJet’s closest tune listed, to my mods. It was lean, didn’t have enough timing above 6grand and had a 104mph speed limiter enabled. 
+Mods are RPW Axe 2-1 exhaust, Arlen Ness intake, Iridium plugs, and a DynoJet PowerVision CX tuner.  All but 99hp. I'm really impressed with how broad and flat the torque curve has remained. 
+Yeah, just think, if Hillary had been elected and you said that about her, you might suicide yourself. 
+The 3rd party dealer where I bought my 2013 last year. They had a dozen 2012-2014's between $6200-$7500. I got a fully optioned 2013 with a 92% SOH battery for $7500. 
+Figure out how to kill or otherwise destroy it. 
+You really think they'll go for less than the $6200-$7500 they're already fetching, used?
+That’s what I just said. Plex in a jail. Maybe you meant VM?
+Then they installed the microcode update and patched for meltdown/spectre. Now it’s about as fast as a Samsung phone. 
+I think they got the tanker at Harbor Freight. I hope they opted for the extended warranty. 
+Reports are that this update borks Plex jails. Might want to wait a bit on this one if you Plex. 
+So it’s not bad enough that they’re charging us to use the damn bridge, they want us to use it slowly?! Go bill the plebs on I90. </s>
+You completely missed the iOS1 in the title. There was no iOS1,2 or 3. 
+And Trism. I had that app until recently when it finally died from lack of updates. Spent soooo many hours playing it.  
+This is iOS1, so it didn’t have an App Store, outside of Cydia, anyways. 
+Washington state. We’d be wearing blue and green, serving everyone coffee. Shooting up heroin in our RV we arrived in. And trying not to talk to anyone. 
+It’s also more efficient to charge on L2. There’s always about 100-150watts of overhead from the BMS circuitry. So 4 hours charging is .4kWh wasted. Where as 20 hours charging is 2kWh wasted. 
+Electric cars already pay an extra $150 each year for tabs as our road use tax. They also don’t drip oil on the ground, which is a major source of asphalt degradation. 
+That’s a 7” headlight, it won’t fit. And damn that’s expensive. Just get them direct from China: 
+http://s.aliexpress.com/zimEbQjq
+Best work around for bad financing terms is to pay it off sooner. I got a really really crappie interest rate on my Scout, but I plan to either refinance it next month, through my credit union. Or, I'll just dump my $3,000 tax return into the payment system. Pay this beast off two years early and it'll short circuit that interest problem. 
+I got that same band. Utterly hated the mismatched ends, chrome on black. Ordered the correct color and swapped them out.  
+The leather seems soft, always developing stretch marks. 
+I've got a 2015. It came off super easily. 
+Up in Monroe, I’m still waiting for the fog to burn off. 40° and cloudy foggy. Bleh. 
+It means you haven’t done proper scheduled maintenance. If you oil the cable periodically water won’t get in there to freeze.  
+Yes, replace the cable. Lube it every 5k miles. 
+I forgot to resume Rever for the ride home, I took the freeway back, it’s another 96 miles onto there.  
+This was my first ride after do my many of my mods this winter. The roads were very very wet on the way down. I was getting used to the heel/toe shifter (LOVE it. No more missing 2nd gear!), the new seating position of the Corbin seat, reduced reach bars, new grips, and all the extra power of the engine after the exhaust and recalibration. Was nice to get it out for a ride. 
+I love the Indigo. My first Mac was a 350MHz Indigo I picked up along with the Public Beta version of OS X. Good times. 
+Sure, I’ll snap a shot from behind this weekend when I have it out for a group ride. This pipe is the RPW Axe. Not sure if it’s part of a series, or if the Ricochet is a different pipe.  I had seen another YouTuber’s install of an RPW Brave, so I went poking around their site. Quite the selection. I chose the Axe after listening to the video clip they had posted of it. Blew my mind that that kind of muscle car sound could come from this bike. I also love the looks, the way it could easily pass for stock if you didn’t know (at least until you hear it). 
+Nah, the G4 Cube is where it's at.
+You’re insane. Hehehe. Use iSCSi and the games won’t even know they’re not on a local drive. 
+The CPU isn’t the problem. Apple made the phones too thin. The batteries could provide enough peak CURRENT when they were fresh. But with age, that stupidly thin design bit them in the ass. They need to make thicker phones. 
+Belly pan on my Scout. For reference.  https://i.imgur.com/I2LgmeM.jpg 
+He’s going down like Martha Stuart. 
+Toyota doesn’t even have an EV. Nissan seems content with a short range EV. Hyundai and Kia have low production number EVs. 
+I’ve found, with several phones, that “all day charging” is actually a great thing. My kids both have 21 month old iPhone SEs, in always on battery cases. They virtually never run off the internal batteries and stay 100% charged. They both report 98.5% battery health. Meanwhile, my son killed 3 different generation iPod touches in under 6 months by running the battery flat every day. To the point where the battery wouldn’t last an hour or hold a charge overnight anymore.  
+Granted, just anecdotal, but it’s a step above following the popular myths. 
+I’d just use a burner phone for “work”. An old 6+ or something with a big display that you really don’t care about. 
+If you’re jailbroken, your iOS is so out of date you don’t have this “feature”. 
+I always fire up my daughter’s 11 year old 8 core Mac Pro to help warm the house faster when I get home. Hehe
+“Battery Life”
+FreeNAS master race. 
+My kid’s iPhone SE, in an always on Mophie Juicepack case, so it’s virtually always at 100% charge. 21 months old, battery is still rock solid.  https://i.imgur.com/U5QDhRx.jpg 
+Sent.
+I can get you the 2015 manual. Hardly anything has changed so it’ll get you the important details. Not bad for free. 
+I had to upgrade to HS to get HEVC support. I use my machine primarily for editing video shot on my phone. There was a month there where I couldn’t edit the video shot on my phone because Sierra refuses to even see the media.  
+That said, been with HS since .0. It’s been just fine for me. 
+My kids. Gave my 12 yr old son my launch day space grey sport S0. He was playing with it so much that he killed the battery 3 times in 6 hours!  
+My 9 yr old daughter got a rose gold S2 that I picked up used, grade C refurb. It’s still less beat up than my S0 was. Hahah. 
+Darwin. 😉
+Next time, install the Turo app, rent a Tesla. 
+Should see OpenPHT on an Odroid C2. H265 4K, no problemo!
+When I set up a MetroPCS account like 4 or 5 years ago, they had me come up with a 10 digit PIN number. I used a childhood friend’s phone number from when we were kids, including the original (now changed twice for that City) area code. 10 digit number I’ll never forget. Heh. Also very secure. 
+Sorry if I’m posting too many videos here. 😊 Seems like a good place to post them, though. 😊
+Whew! Glad you told me this. Called my dealer and yes, it’s supposed to have gaskets. I’ll go pick them up tomorrow. 
+This is why I have a Google Home sitting next to my Echo.. heh..
+App Store, Battery Life app.  https://i.imgur.com/QF7EJj0.jpg 
+10.13.2
+Oh, it’s cured. They can already do gene therapy to fix things like sickle cell. They just won’t do it for baldness for whatever damn reason. 
+Rode my motorcycle today because it wa 40° at my house. It was 30° and a skating rink most of the way to work. But I made it. Heh.   
+Here’s a picture of the parking lot at work, 3:30 this afternoon. The frost didn’t even melt where the sun didn’t shine.  
+ https://i.imgur.com/w0kEIpY.jpg 
+Ok, so I live in a tent under the freeway for several months, maybe a year+, while I save for an RV to park illegally to live in?
+Got a better option? Tent under the freeway? 50% of your income still leaves you quite a bit to live off of.
+My trick was to get the cheap S0. Wait 2 1/2 years. A month ago I bought a used Space Black S2 for less than I paid for my S0. Full of win. 
+Seems like a good deal. Anything essentially at $1k is nice for people making minimum wage or near it. Assuming they don’t force the “triple the rent income” bullshit. 
+No doubt. That’s the only gripe I have with my 11 year old Mac Pro. Stuck on El Cap. This will probably be the last year I can eek through with that old of an OS. 
+So we can sell back the free share we got?
+Soooo much more normal. I want to dropkick the idiot that came up with the original headlights and rear bumper design.
+I use an Odroid C2. Arm based. Does 4K and h.265/HEVC. Very fast interface. Highly recommend. 
+I feel like they’re no longer developing Inbox. 
+Thank you. I wish nVidia made their drivers less picky. 
+Open terminal, type "sudo passwd root", enter your password 3 times. Fixed.
+I ordered the Utomic bumpers. The 4 little rubber bumpers that go on the corners. But it’s been a month and still hasn’t arrived. 
+I drop mine ALL THE TIME. Dropped my 7+ all the time too. It protects great. Never failed me. 
+
+Not sure why Christians would give a damn about anything related to the pope. That’s a Catholic thing. 
+No, the full Scout. The 60 makes a pretty significantly lower amount of power. And only has a 5 speed transmission. 
+The RPM thing is key. You can keep it under 5,000 easily. When you get more used to it and have more experience, that extra power is up there waiting for you. It’s much more future proof. 
+What were they thinking when they came up with this autocorrect?  Hmmm worked for me. 
+And AMD Hacks are a nightmare. 
+It should be context aware and it’ll choose the correct one after you finish the sentence. 
+Just cut the orange wire. Heh. 
+The TMobile and AT&T iPhones don’t work on Verizon or Sprint. Unlocked or not. The Intel modems in them don’t support CDMA. 
+https://youtu.be/ZSB89OWMbLM  
+Here ya go. It goes pink in the other direction, but I just wanted to keep it short and sweet. Video shot with a 6S. 
+Somebody had to go with LG. They can’t get better at it if they never sell any. And Samsung can’t be left with no competition forever. I applaud Google for taking one for the team. Much like Apple with the damn Intel modems. Qualcomm can’t be allowed to corner the market forever. 
+Exactly. This off axis color shift was not something I was expecting. I’ll begrudgingly accept it, but I wish I had known. 
+Thanks for the suggestions. I’ll look into them, thanks. 
+I got mine last year. I was walking in the rain. 
+I miss the old Clamshell iBooks. Specifically the Indigo blue ones. Wish I had snagged one back in the day. Probably slower than even an original Raspberry Pi nowadays.
+Hehe, thanks. Yeah, this game was written after LORD so it got some heavy influence from that runaway hit of a game. Glad you enjoyed it and the artwork in it too. :)
+ftp://archives.thebbs.org/door_games/doors_s-t/simbb240.zip
+Have a look at mine. :)
+I have that same keyboard on my hack as well. I have blue switches in mine. Man I love typing on this thing. 
+Yo momma so ugly FaceID didn’t know that was a face!
+Hehe, reminds me of when I wrote Sim-BBS. Totally modeled after my local BBS scene. It’s users, and my experiences as a 12 year old sysop. Heh. Good times. So sad I lost all my source code. 
+Similar to my setup, I picked up a nice 660 for my daughter's Mac Pro, it seems to keep up with the 950 in mine just fine.
+It was worth it for me, being a YouTube content producer that uses his iPhone for video, iOS 11 switched to HEVC recording, and Apple chose not to add HEVC support to Sierra. 
+I just bought a SBSS 42mm S2 as an upgrade from my launch day SG 38mm S0. The text is huge. The battery life is epic. My S0 didn’t feel slow after watchOS 3 came out. But the battery couldn’t make it through a whole day anymore. My 12 year old son will inherit my S0 for Christmas. 
+Thank god. Getting so tired of apps reloading when I’m simply toggling between two apps. 
+Do a google search about cleaning the lint out of your lightning port. 
+I use an ODroid-C2 which can do all of that.   
+http://www.hardkernel.com/main/products/prdt_info.php?g_code=G145457216438
+Hahaha. Just for you: https://youtu.be/IzSJKvAMA4I
+I think I had to punch in my code once, and then it adapted. It now unlocks reliably with my full face helmet on. Honestly, this was my one big concern about FaceID. Bravo, Apple. Well done!
+I’m in Fall City. My ex used to work in West Seattle, it was an 8am to 3:30pm job most days. Took her barely more than 35 minutes each way, traffic was pretty effortless. 
+#WorthIt
+Because I found a killer deal on a small rental in the woods. 
+Yeah. Just found it humorous. I actually wear nitrile rubber gloves all day long, and the mask only about 30 minutes a day, so FaceID is actually way more useful than TouchID was for me. 
+It’s not life saving. Just to keep out lacquer thinner and mineral spirits fumes. I usually don’t smell them, despite the poor seal. 
+You can’t hackintosh an AMD. 
+Works fine. 
+If you're having a problem with color, turn on the feature that alters color.
+So turn it on then!
+It's ok. Most people mispronounce the X. I for one am looking forward to getting an XBox OneTen
+I was thinking the other way around. Man those bezels look huge. I suppose they stopped the screen before the curve, and I'm VERY glad about that... but still..
+Reason 1: if you have an iPhone and you’re recording video in HEVC, iMovie on the Hack won’t edit the video until you go to HS. 
+You didn’t do 9600 with an acoustic coupler. They were LONG since obsolete by then. Acoustic couplers were 110 and some 300 baud modems. By 1200 they were hooking directly to the phone line, and many of the 300’s even went to it. It was just easier and more reliable even for 300. It was necessary for 2400+, too much reverb and outside noise to be able to go any faster. 
+Then you lose the ability to use HEVC on your phone and get them off of it onto your Hack in any reasonable way. Really screwed me over for a bit there when I updated to iOS 11 but didn’t have HS yet. 
+I just recently saw a Scout owner that had installed this one. So I ordered one for my Scout as well. Haven’t installed it yet.  
+https://www.amazon.com/dp/B01M3W2A0Q/ref=cm_sw_r_cp_apip_eszvGaE72dknt
+iPhone X. Text scrolls above the title bar. Clobbers the time and stuff.   
+Also, the X doesn’t work when viewing an image link. Have to gesture my way out of it.  
+https://i.imgur.com/2SthN9G.jpg 
+So, I know this post got buried and nobody will see this but.. When the guy at the store sent us away yesterday, he mentioned trying again tomorrow at 6am. I puzzled over that late into the night. That store opened an hour early at 8am yesterday. How could it open like 3 1/2 hours early the second day? So I had a hunch he meant in store pickup would become available online at 6am. I tried at and for 15 minutes at midnight. No love. Set my alarm for 6am and went to sleep. 6am comes and I try again. Bam! Works! My order is in and I pick up at noon today. WooHoo!!
+Check out gsr1379's comment. Amazingly, it did the trick.
+Hmm, looks like the patched drivers never loaded. But as noted in another reply on this post, I got the web drivers working now.  
+https://i.imgur.com/3YrDBCg.png
+I had a hunch. Still, the front door question remains.. Guess I'll be up at midnight to try, and at the store again at 6am tomorrow. Looks like my post is getting downvoted into oblivion already. Yay Reddit.
+Dang dude.. I ignored your advice because I'd already set nv_disable=0, which should have done the same thing.. But nope.. Removing it solved my problem. So strange. Thanks!
+Yeah, after this happened. Never ever needed that before. Put it in the Other Kext’s folder on my EFI partition. Didn’t fix anything. Is there a trick to getting them to load?
+I’ve been hackintoshing since Leopard. I’ve never seen a spinning wheel show up in the middle of the loader bar before. 
+Anyways, fresh High Sierra install. Updated to 13.1, booted back up. All was well. Installed the latest nVidia web drivers and now it locks on boot. 
+It’d be nice to have all the phones work on all the networks again. Really annoying right now. 
+Hard to find heroin in the forest. 
+I have sooo many dings and scratches in the screen of my S0. First one upset me. Now I just ponder how I got each one. It’s nothing new for me, my watches have always been beat to hell by the time I move to a new one. I’m going for 5 years with my S0, if I can manage to not shatter the screen. So far so good. 
+You sure it’s an S2 and not an S0?
+Me either, but when it comes times to sell it, it’s going to have a higher resale value if ANYONE can buy it. 
+Actually, no. Sure they’re unlocked. But the Intel modem won’t do CDMA. So you’re unlocked but stuck with AT&T or TMobile. Get a Verizon one and it’ll work with all 4 carriers. 
+Found out the hard way just now. FUCK!!! Guess they want to force us into a crappy model.
+Verizon iPhones are unlocked. Just pay full price and you’re golden. Did that for my 7+, in store even. 
+I’ve been looking for the same thing. In a 2-1 system. 
+There are actually 8 models of the X in the US. Two models of Silver 256gb. There’s the GSM only Intel modem one. And there’s the CDMA/GSM Qualcomm modem one. Same for all the other sizes/colors. 
+You’ll lose tethering speed. 
+watchOS2 called. They want their annoying feature back. 
+iPhone SE X
+Yeah, and I have had unresponsive touch input on my 7+ since going to 11. I can still hope this will fix it. 
+I recently picked up a 2015 Scout 1200 for $8000 from my local Harley dealer. It is so unbelievably fast, even with my girlfriend on the bike with me. I swear her being on the bike with my doesn't phase the thing. Together I imagine we're pushing 400lbs. The bike handles like a dream, lean angle is amazing and the center of gravity is epic.  I think the stock exhaust is excellent, I upgraded the intake and now I have this demon roaring between my legs at WOT. But it's still just a gentle purr at anything less than half throttle. Which is really easy to stay below, given this thing's power level. The intake was like $170. Pretty cheap.  
+And biggest plus of all: I can't go ANYWHERE without people stopping me to tell me how awesome the bike is. People are soooo happy to see Indians on the road again. See something other than the same old same old Harley (sorry guys, and to be fair, I kept my Harley, I still love it). I swear I can't go a day without someone telling me they like it. I've had tourists that barely spoke english come up with their camera and want to take pictures of the bike. The thing is still stock, for all intents and purposes!  
+As for security, "Digital Guard Dog", it's a keyless ignition system. At least gets that juicy ignition switch target out of there. Toss in a GPS tracking system and you're pretty set.
+My dad’s iPas Air 2 did the same thing. Very very strange. Totally never had a beta OS on it. 
+Mini mini? Nah. iPad Micro  
+Edit: nah, Apple naming conventions: iPad Nano  
+That said, I totally want one and was disappointed the Ten was standard sized and not Plus sized. 
+I have several older iOS apps that are no longer in the store. Without the ability to have backed them up and then reload them from iTunes, I’d lose them forever. 
+There’s an OpenPHT image you put on an SDCard and it just works. 
+I’m on 11.0.2, 7+, went to sleep at 42%, woke up to a phone that had a completely empty battery and wouldn’t power up until about 10 minutes after starting charging. Not cool. 
+It’s just the hive mind hating on you. You got a great watch for less than 1/3rd if it’s original price. Welcome to life with an Apple Watch. I’m still rocking my Day 1 S0. Hoping to get 5 years out of it. 
+Working fine.  
+ https://i.imgur.com/Xh7zLHD.jpg 
+Meanwhile I’ve been using a $40 Odroid C2 for almost a year to 4K in Plex. Even does h.265 without skipping a beat. Best recommendation I ever got in this subreddit. 
+2016 Harley Street 500. They told me it was too small to take cross country. 5,000 miles later, I’d say they were wrong. 😎  
+ https://i.imgur.com/JS7Llyr.jpg 
+I hear ya. 😊 https://i.imgur.com/oKm3G0k.jpg 
+The rest of the Apple was in shade. Sun ripened only that part. 
+Yup. Plus another $100 for that cover from the dealer. 
+Yup yup. Don’t forget the physical keyboard argument the first round of Android lovers made. Haha. 
+Good plan. Last year I almost upgraded to a 42mm (mine is 38mm) Space Black Stainless Steel. They were fetching $250 on eBay which is a heck of a deal.  
+Should see how scratched up the glass on my Sport is. Here’s a shot of the most significant one.  https://i.imgur.com/CZJMdPB.jpg 
+I can’t swim, but for the first year I took every shower with it on. Finally stopped doing that when I got a leather band. 
+It’s all good. I’m bound and determined to get 5 years out of my launch day Apple Watch. 
+Is that the one that still has a removable battery and SD card slot? Something everyone swore was mandatory... I can see why you wouldn’t upgrade. 
+Long FORCE PRESS. Long press made them all wiggle.
+Heh, if you think the last one was bad, should have seen wOS1's passcode screen. It was all but unusable.
+Freedompop is a scam. Charged me a bunch, not free at all. Also couldn't get any data over it. 
+Did you upgrade the firmware?  
+I'd try getting some fresh ram. At least re-seat the sticks. Pop the heat sinks off, reseat the processors and re-do the thermal paste. 
+I have a similar setup, but with a GTX660Ti, and it's rock solid. Dual quad core 3GHz chips, 32gb ram, newer firmware (can't recall if it's 1,2 or 2,1), but it's important to do that flash. 
+Scapegoat, scaped. 
+That explains the lack of bars. Budget $5500 to replace that pack into the price and decide from there. Though the 2013+ has improved regen characteristics. 
+I recently built my daughter a Mac Pro. It's the original, a 1,1. It's essentially a hackintosh at this point though.  
+I updated the processors from dual core 2.66 to quad core 3.0GHz. So it's 8 core now. Maxed the ram out at 32gb, which is double what Apple thought it could run originally. Flashed the 1,2 firmware onto it. Put in an SSD to replace the worthless hard drive it once had. Swapped out the 7xxx series GeForce for a 660Ti (not properly Mac compatible, so no video till the OS loads the third party drivers). And with the help of a very hackintosh like boot loader, it's running El Capitan, 10.11. Where this thing was stuck back at 10.6 originally. And the machine performs really well. It plays just about any game I throw at it reasonably well. She mostly just plays Roblox and Minecraft on it. It's pretty funny to think I've got maybe $250 into this maxed out Mac Pro that would have retailed for like $7500 in this configuration, if not more. Not even taking inflation into consideration. 
+Mine has gone to hell over the past month as well. Figures it was just my talkative girlfriend texting me too much (totally not complaining about her). I want to get 5 years out of my S0 before upgrading. May have to start charging on my lunch break or something. 
+I've already made the transition to hevc, aka h.265. Uses way less space. 
+Good thing she didn't do this with Samsung phones! She'd be a walking firebomb. 
+As stated, it just redirects DNS queries. It's also very light, my Pi3 does RetroPi and PiHole at the same time. 
+I built a super budget machine to run FreeNAS 2 1/2 years ago. Pentium branded dual core Haswell. 32gb of ram in a fairly budget motherboard with 8 SATA slots. Added an 8 port SAS card set to IT mode (disables its raid brain and makes it just be a hard drive controller). The machine now has 14 hard drives, if I remember right. 36tb total. 8 2tb drives, which I got used on eBay, off lease returns. They were like $40 each. Also bought 4 3tb drives, same used kind of deal. Also have a 4tb that I had from before the project and a 6tb that I got for $99 off eBay because the Plastic tab on the SATA connector had snapped off. I superglued one back into it and it turned out the drive had never even been used!
+Has been impeccably reliable. I have the 2tb drives in a raid Z1 setup pool. And the 3tb drives in another Z1 pool. And finally the 4tb drive is mirrored onto the 6tb drive, wasting 2tb but I don't even need it right now. 
+Got it all in a super massive case I got from a local on a Facebook buy/sell group for $100 and he even threw in a 1200psu!
+Similar. Built a top of he line new desktop to run Vista the day it launched. Couldn't get anything to work right. Installed XP and the machine was seriously 25x faster. I sold it and bought a Mac Mini. Been building Hackintoshes ever since. Though I do still buy their laptops. 
+Way better. Dealing with random people is sooo shady/risky. Though I wasn't expecting the refurb to be in such good condition. I kind of lucked out there. I got a refurb iPhone 5c a year back and it was scratched to hell, both the screen and the back. The speaker grills had grungy food like remnants in them, like you'd see in a car cup holder. But it did work well, still works, really.
+We started with 4 10gb lines. Tossed on a 200mb tablet, got the two free lines around Thanksgiving 2016. And somewhere along the way T-Mobile upgraded us to unlimited to make their investors stop freaking out about rollover data. So we have 6 lines of unlimited. I think it's $160 after tax, with an iPhone 6 payment in there.  
+Here's the real kicker.. Since signing up for this, I've divorce, and my ex got remarried. So this plan covers me, her, our three kids, and her new husband. We dare not change anything, for fear of losing the good deal we have. I suspect this phone plan will last longer than either of her marriages. ;)
+After running my son's through the wash machine, I scored a refurb one on eBay. Unlocked and works with T-Mobile, in mint condition. Space Grey 16gb $200 shipped. And that was about 3 or 4 months ago.
+Yup! Battery is still rockin. Mine is Space Grey. WatchOS 3 made this a whole new watch. I've got a ton of scratches on the face, and chips in the aluminum all around the face, but I don't mind that. I'm aiming to get 4 years out of this thing. Might give it to my son after I finally upgrade.
+Uh, I thought google bought them.  
+http://www.theverge.com/platform/amp/2013/12/14/5209622/google-has-bought-robotics-company-boston-dynamics
+Four years ago, on IndieGoGo.  
+https://www.indiegogo.com/projects/arduino-basic-connections-the-book#/  
+I backed it, still have it. Good book. Probably been updated a bit for this version. Not surprised it's raising way more money on the more reputable Kickstarter. 
+Takes about a week on a waiting list to buy ONE. If you're trying to buy more than one, I figure it'd take you that many weeks to get them, and give up on saving shipping by ordering multiples.
+hahaha, good riddance. What a bunch of overpriced junk. I got a Galileo free from Microsoft a few years back. Unusable junk.
+Doesn't take many calls and attempts to guess a 4 digit code. Especially if you can get a sympathetic "almost" one of those calls.  
+You know, MetroPCS wanted a ten digit code. 
+Nice. I'm going on a cross country ride next month as well. Heading from Seattle to Yellowstone, and other nearby national parks. :) Camping along the way. :)
+Totally agree. It was soooo delayed. People couldn't run the development branch because most of the time it had no GUI. The beta's were alpha's, and the SINGLE RC release was barely a beta. The final release wasn't even worthy of RC. Really damaged the brand. The faster they can get away from it, the better! 
+I've been running the RCs on my home machine. It's been a very easy upgrade process. They did a lot of RCs this round, each with a list of fixes too long to read. It's been impressive. 
+Sure. Pretty modest though.  http://i.imgur.com/8etbbHv.jpg 
+So what you do is you take an old PowerMac G5 or an old Mac Pro and "upgrade" the logic board. Viola, you purchased a Mac to run it on. 😎
+I couldn't even use my normal Plex earlier this evening. Could t log into my account on their site, despite it claiming everything was fine on their status page. Really aggravating. 
+It was spotted up on Snoqualmie Ridge as well, saw it posted on Facebook last night.
+You think that's bad. Should try a first gen iPad. I can't even get it to login to iCloud now that they forced two factor authentication. It's like iOS 5
+Driving a PT Cruiser. Listening to Nickelback. Working for CTR. Those are the first three that come to mind. 
+Could have also been improperly inflated. 
+I have a first gen Mac Pro (1,1 flashed to think it's a 2,1). The processors in it don't support SSE4, and the LGA 771 chips that do aren't compatible. So it's stuck on El Capitan. Still an excellent machine that can do most anything. But it's always been that you have to stay on the latest version with Apple to keep the latest apps running, as well as to get security updates. Dangerous times to be running an obsolete defunct OS after these NSA leaks. 
+And Samsung. They just don't think to check this sort of thing. 
+Yup, it's very versatile. You can't play games IN it, it's an appliance OS like a router. 
+Seems to be common with IoT devices. Poor programming skill. My Samsung TV does it but I went ahead and flagged it as advertising and blocked it. My OpenEVSE does it, but being Open Source it's up to me to care enough to fix it. 
+I've had every iPhone model. Have never had a screen protector. Broke one screen on a 6+. Have seen soooo many UGLY screen protectors on friend's phones. Scratched, bubbled, dirty. I never have those problems naked. 
+It's not just your local one. This time it's for keeps. Their completely done as an entity. Maybe some noname Chinese company will buy the rights to Tandy, Realistic, Optimus, Archer... and bring them back to life like the craptastic Westinghouse branded TVs. 
+To get 80 miles you generally need the 30kWh pack, which you're not going to find at that price range. 60 is doable. I'll tell you how I got mine. Craigslist.. Searched for a Nissan Leaf and I found a local dealership selling a ton of Leafs. Just a used car lot that specialized in them. I went and test drove one, liked it and told them if they could finance me, I'd take it. They pulled it off, though I did have to come up with a fairly sizeable down payment. I had my tax return on me, so it was no biggie. I got a 2013 SV, fully loaded, might as well be an SL without leather seats for all the options it's got. It had 42k miles, all twelve battery health bars (later checked it with LeafSpy and found it to be at 91% SOH). I've put about 3k miles on it in the 3 months I've had it now. Love the heck out of this car. :) Oh, and it was $7500.
+Not sure if it's x.265 or h.265, it's the newer codec that compresses better than h.264. 
+I name it Hank. 
+And here come the apologists. I have an 11 year old Mac Pro with 32gb RAM. There's no excuse for falling to 16gb this many years later. 
+I picked up an Odroid C2 to compliment my Hisense 4K TV since it didn't offer Plex in its app offerings. Super happy with it, have started seeking out x.265 content now that I have a device that happily consumes it. 
+Saddlemen "Two Up". The stock seat was about the same but was a pain beyond about 100 miles. This one I can ride all day long, it's got gel inserts built in. :) Was also the cheapest seat I could find. Hah!
+Yeah, their quick release windshield that was an option for the bike. Had it installed before I bought it (totally should have just done it myself). It works well.
+That's my 2016 Street 500. It's a bit dirty because I've been riding it in the rain all week. Rode that thing all winter long. My son is almost 12 and just loves riding with me. 
+The funny part is, it's all the same car, just travelled back in time to meet himself over and over. 
+It's open source. Someone could fork it and continue support/development. 
+Pause 5 seconds, then say Yes
+B is good for downhill recharging, or I'll pop into it when I need to shed some speed without hitting the brakes. Eco helps buffer the throttle so you drive more conservatively. 
+I'd update the drivers first. Same driver for both on macOS. 
+QC is an external charger. 3.3 and 6.6 are internal. But I agree, I thought QC and 6.6kW went hand in hand. 
+Hence the downvotes. I live in a different world. Haven't touched Windows since the Vista flop. 
+Hackintosh. Completely killing your ability to do it if you go AMD. 
+My 950 did. 
+Even El Capitan will run fine on a Core 2 system. Some Core 2's will run Sierra, but very few. I've got a 2006 Mac Pro maxed out and hacked to run El Cap. It's a great old beast.   
+Funny enough, I have a GTX 660 Ti in that machine. 
+Not from all the posts I see in the Facebook Leaf group in a daily basis. But go on trying to believe what you believe. 
+My Hx is up around 91 as is my SOH. 
+Eco mode is the key, if your car has it. I'd have to be really flogging mine to get it to average 3.2.. I usually average 4.7, I live in Eco mode.
+As I understand it, the better batteries came along in April 2013.. Yours definitely has the older batteries, and mine definitely has the newer. Bummer man.. Does it have a quick charge (chademo) port? You might hit one of those a couple times. See if it brings any life back. That or just hope you can drop a bit further before February, or whenever that car went into service. They'll automatically put the newer battery style in there when they replace them. Your car will be golden well past the 100k mile mark at that point.
+Datasets. Easier to deal with snapshots, replication, rolling back changes when needed. Permissions and quotas are easier too. 
+Wow, you bought yourself a dead battery. 73% SOH means it should be down to 10 health bars. 66% Hx means your SOH is about to drop 1, maybe two more bars VERY soon. (SOH eventually catches up to the Hx number) Where did you get this Leaf from, Mexico? Seems like it was in a VERY VERY hot environment it's whole life.  
+The good news is, the factory battery warranty is still good on that thing till it went into service. I know my 2013 was made in April, so it's in service date would be sometime later that year. I'm good till late 2018.. But.. Being a 2013, it could have been made as early as August 2012.. Check your door jam, you may need to check with a Nissan dealer to find the car's original in-service date if that's the case. Gotta get down to 8 health bars before that date so they'll replace it free. Don't be a day late, they'll turn you away.
+Or Apple while Steve Jobs was away.
+The lens is sapphire. It doesn't scratch. Shatters like this, or nothing.  
+Downvoted? smh
+I chose the 500 for its gas mileage and the better range it allows me. I easily get over 60 and as much as 74mpg, and near 200 miles per tank. 
+The 500 makes great power for its weight as well. 
+Yeah, one of the "freedoms" of living in the US. But I'd happily give it up for a healthcare system like yours. ;)
+Using it with a bike rack anyways.  http://i.imgur.com/rTzopdU.jpg 
+Actually, there are a ton of owners who have tested it with a trailer. It works well, range is greatly reduced, of course.
+Yeah, that charger cover always corrodes like that. I'm tempted to remove mine and take it in for powdercoating.
+How did they manage to buy 314 of them? I thought nobody could buy them in bulk?
+Ahhh!
+Astounding how quickly Americans can resort to being like Nazi's. "I was just following orders" has already been proven to not be a valid excuse. 
+This gets discussed a lot on the Facebook Leaf group. NMAC can't negotiate, probably due to dealer laws in the US. Take it to any Nissan dealer, and they'll hook you up. You'll pay about what you want to pay. 
+Well said. Sorry you're getting pummeled with downvotes for replying to a trollish question. 
+Seattlewa, but better is a relative term. They mostly don't agree with the moderation here, it's the same kind of people. 
+I agree. I was there for awhile and could t make the most basic of comments without getting downvoted. Almost felt like there was a downvote bot you had to get whitelisted on before you could safely comment there. I came back. 
+That new battery pack is going to last way longer than the original. 
+It's been below freezing the last two mornings, and I leave at different times each morning, so being able to turn on the heater without having to go out there has been nice. It even warms the steering wheel by default.  
+Being able to monitor the charge status remotely is very handy. Just last weekend I left the car on a fast charger at a dealership while I went shopping. I rushed my shopping and got back too soon. It would have been much more relaxing to have been able to remotely see my charge status.
+The navigation system auto updates when it's got a connection. The first time it connected after the upgrade, it told me it found a dozen new charge stations in my vicinity. That was pretty handy, even if I do prefer to use PlugShare on my phone.  
+To me, a one time charge was worth it. It's nice to have the car functioning as it was intended to. Not having a monthly fee really helps. If I had to pay $200 AND some kind of recurring fee might make it less worthwhile.
+PlugShare, it helps me find charging locations for my electric car. Definitely my biggest must have right now. 
+Ahh, yeah mine even has the quick charge and LED headlights. 
+Near Seattle (at 405 Motors) I just bought (3 weeks ago) a 4/2013 Leaf SV for $7500. It had 42k miles and the battery was around 91% SOH, so 12/12 bars.  
+On a side note, what does the SL have that might make it worth $2500 more?
+Lawyers suck. Still waiting on my $25 tuna fish settlement. 
+$217 after tax. They did it in an hour flat while I waited. 
+It's a 2013 SV
+It's still under warranty, take it to the Nissan dealer. 
+I disagree about the OBD2 connector. CANbus is on pins 6 and 14. My Nissan Leaf has all sorts of battery info on that bus. 
+TBR
+I have a 10 year old Mac Pro with more ram than the current MacBook Pro can support. That MacBook isn't Pro in many people's minds. 
+Just be happy your Samsung didn't burst into flames. Samsung FTL. 
+Yeah. One side of your solenoid (big terminals) is constant from the battery. The other side is the output to the starter. 
+Voltmeter. Check for voltage leaving the solenoid when you press the start button. 
+Especially after rebuilding it. 
+Bad starter, gets hot and jams up. 
+They really don't. Their supposed to give you better rates for sticking with them, yet every time you renew the rates go up.
+When I called Esurance to cancel my plan, suddenly they were willing to haggle. Very friendly guy, was like how about if we matched that rate? I was like too late, already switched. Besides, my motorcycle is covered with Geico as well, Esurance doesn't do motorcycles in this state. But it frustrates me that they make you call and haggle for a better rate, this is the thing I hate the most about Comcast. Annual haggle to keep my price down. 
+Wanted to give some follow up to my last reply. As I said, my Mini was like $85/month and it went up to $97 for the new Leaf. That was on Esurance. I did some shopping around, and where GEICO didn't give me a good deal on the Mini, they sure did on this Leaf. I'm now paying $73/month by switching to Geico. Haha. Shop around when your insurance company hikes your rates. 
+What's a Mackintosh? I don't think that's a thing. Maybe an older Mac Pro that's been hacked to run a newer OS than it can normally support? 
+Ahhh, Magnified Plad. Great band. Wonder where NoFX is nowadays?
+One the 6S and 7, the lift to wake has solved that for me. 
+I'm in Washington state as well. I switched from a Mini Cooper S at about $85/month to this 2013 Leaf SV and it's $97/month. I agree it's surprising. Far less likely to get stolen. Less sporty (in theory). Less likely to get driven far, though maybe it's the short range nature and the old saying that most accidents happen close to home?  
+Certainly is annoying that some of my gas savings goes into my insurance bill. 
+Technology is progressing fast. As such, everyone leased instead of bought. Now thousands of vehicles are coming off lease and getting dumped into the used market. It's great for many people who could t afford a $30k+ EV but can totally afford a sub $10k one. Myself included. I was going to lease one till I saw the used prices. Now I'll hold out for their answer to the Bolt's awesome range and bide my time with this $7500 fully loaded one I got. 
+I just add the whole site to the block list and never go back. 
+It was a warm rain. :)
+Clearly not a native. Umbrellas suck. Heh. Embrace the rain. 
+Really depends on if they're replacing them with reengineered/properly solved replacements, or just new ones that still have the underlying design flaw. 
+Curdles my blood to think that they might run her the next time around. She's about the only one that could lose to Trump a second time. 
+Well cool that it takes the cheap kind then. :) At least it's ECC.
+And they use ECC ram. Cheap ECC ram. Maxed my '06 out at 32gb for $60 shipped. 
+Thanks. I think my next Leaf will be a new one. I hear the battery will be even bigger in 2018?
+I dunno man, muslims look pretty damn white to me. 
+I'm running El Capitan on a 2006 Mac Pro. They're going for about $150 on eBay, shipped. Toss in a better video card, if you don't have one laying around, it's like $20 for a basic one, doesn't have to be Mac specific, I'm using a GeForce 210. And you could even up the ram to 16gb (max amount even a 2016 MacBook Pro can support) for like $30. Bam, done. Add an SSD when you have more money for a killer speed boost. 
+It's always a risk with open hardware. This is why nobody had a clue what the iPhone was before Steve Jobs walked out on stage. Look at the Android at that point, they did a complete 180 immediately after that. It pays to keep secrets and find contemporary funding methods. 
+I had heard Reddit was going to shit. I didn't realize they meant literally. ;)
+Ahhh, good to know. I was jumping for joy this morning when I saw 12 bars. I need to get the Bluetooth adapter so I can use LeafSpy. :)
+Got my Leaf from a used car lot. What's an EZ charge card? Or am I better not knowing, since I can't get one?
+Pardon this overly newb question. How do I find out how many bars my battery has? :)
+7p? Gag. There's this symbol in your keyboard that is short for Plus. It looks like this: +
+Let's start with prosecution first. That's what we need. 
+Looks like an attempt at insurance fraud. Thwarted by dash cam video. Hah. 
+Yeah, it works sometimes in 12.2. I'll look for that setting this evening. Thanks. 
+Same here. Just picked up a 10 year old Mac Pro. Upgraded it to 32gb ram for $50, went from a pair of dual core Xeons to the max speed quad core Xeons for $60. Can put about any nVidia card into it and most ATI cards. Upgraded the wifi to ac and the Bluetooth to 4.0 for $50. Some SSD storage and the thing is usable for several more years. :)
+Doesn't work perfectly on even a real Mac. Stare at the screen of my 12" 2016 MacBook for 10 seconds and then it fails.  So freaking lame. 
+Oh really?? Hah!  
+https://www.backblaze.com/blog/backblaze_drive_farming/  
+"Our “choice” to use external drives meant they had to be “shucked” – a process where the internal drive is removed from its case – before being deployed into a Backblaze storage pod."
+http://www.insanelymac.com/forum/topic/197777-mac-pro-case-with-power-supply-mod/ Found this great article where it was done.
+UEFI requires the drive be formatted GPT, not MBR. 
+I actually have several greens in this machine. And this is correct about the usage, it's a media server for my house. It's FAR from 24/7 use. More like 2 hours a day. 
+We were discussing BackBlaze, and that's exactly what they were doing. If they're putting shit drives into these USB enclosures, they need to be called out over it. 
+I have a Seagat 4tb that was removed from a USB enclosure. It's lost its data twice, causing me to have to reformat and resilver it. (FreeNAS ZFS) and the SMART output from the drive is the worst I've ever seen.  It's effectively worthless. 
+I've been lost ever since Garbage stopped recording regularly. Absolutely loved that one.
+I second the BSDNow suggestion. 
+I'd say that design came out with the iPhone 4. The 5 was simply a stretched version of the 4. 
+The power supply is a lost cause.
+I blacklisted some logingestion domain that my Samsung SmartTV hits hundreds of times an hour. Absolutely ridiculous. 
+And with your reply we're finally getting to answering my original question.  It seems like eOS is Debian based, which is ported to the Pi, so it's just be a matter of compiling the changes they made as well. I thought it was a good idea because it'd open up a whole new branch of users to a great distro. 
+But... not that easy? Fair enough. I hope it's a someday goal. 
+I dunno. The attitude here is pretty toxic. I'm a bit turned off by it all. 
+OP said "at their home".. Not roaming around a small town's backroads.
+It IS elementary still. It's simply compiling it for an additional architecture. You're being a fanboy and an apologist. 
+Why do you hope that? Do they need to be coddled?
+Yeah, I made the same search, as well as a few others. Thanks.
+Sure do, 6 miles each way. :)
+2016 Street 500. Got it in May. Just cracked 5,000 miles. I ride it just about every single day, even in the winter. :) Really love this bike. 
+Can confirm. 
+WiFi calling FTW. 
+Vice grips. Batteries. Multimeter. Wire cutter. Candy bars. Beef jerky. Condoms and lube. USB thumb drive or two. SD Card and a USB and micro USB adapter. iPhone power brick and cable. Portable power supply to charge phone/jump start my car. Sun glasses. Hand lotion. Bubble gum. Cologne. Spare set of underwear. Toothbrush and toothpaste. 
+You can root a google home?
+I have a google home and my daughter asked me if I could set multiple timers at the same time on it. So tonight I was like "Hey Google, set a 5 minute timer for chicken, a 10 minute timer for the bread and a 7 minute timer for fun". And it did it. 3 separate timers, all named so I can tell which is which. 
+Harley Davidson. 
+OS X is why I switched to the Mac. I had been running Linux for about 3 years prior to that and was fed up with how manual and laborious it was to get a good looking GUI up and going. I was happy to use a Unix based OS with a stunning and functional UI.  
+Funny how the original MacOS they discuss in this article was only about as old as OS X is, now. And we've been through WAY more versions. 
+Straight AVR C programming vs Arduino wiring. I'll take the easy route every time, with some straight up commands sprinkled in where I need the speed. 
+No haptic in BaconReader either. 
+Ahh. Good points. Mine was a one-off and I had to embed an old cell phone.
+I'm currently using Tello for my IoT device. It's 2cents/mb at 4G speeds. It's been costing me 60cents each month for the past 6 months. I feel like the price TMobile is offering may be a bit high. 
+You spent NINE HUNDRED DOLLARS on a video card?! And then cheaped out on the slow SSD? Should gone with a sanely priced video card and gone for the Samsung Evo 960 M.2 drive which is 5 times faster than that clunker you got. 
+Yes, and since I know your quest will be fruitless, I figured I'd go ahead and recommend one that is perfect in other ways. 
+I remember it. And I probably dialed into it. I'm pretty sure it was a bland unremarkable board software. 
+Remember this picture from Obama's first campaign? Looking back, it was clearly planted to make him seem more blue collar.  http://i.imgur.com/hNGiAFy.jpg 
+Do not get a 6. Touch disease. Google it. 
+eBay. 
+But I don't like or agree with Richard Stallman. More of a BSD guy than a GPL guy. Someone sell me on this. 
+The two I have generate zero heat. And it most certainly is metal plated, as I used an infrared laser to etch their names into the back of the cases. Only works on metal.   
+ http://i.imgur.com/1DrlLXx.jpg 
+Makes me feel better about buying a $35 Daymaker knockoff from Aliexpress. It did the same thing.
+"Only charges to 80%" is moot since I've never used it to charge the phone. It's on all the time. The phone runs off of it so the phone itself stays 100% charged at all times.  
+A fully metal case will block cell signal. I've been down this road before. 
+I can't recommend the Mophie Juicepack highly enough. I bought two the day the SE went on sale. They had been marked down to $20 each because they were for the obsolete 5s. They're probably back up to a higher price now. Anyways, not lightning but you can get a dock for them that you just set them into and it starts charging. Super handy. I really love that they have a physical power switch. I just leave them on. I virtually never have to use the battery in the phone, it's always running off the juice pack. They're pretty rugged, my 8 year old daughter and 11 year old son drop the thing all the time. It's nicked all over but not broken or even cracked. My daughter did lose a screen when she dropped it face down on a rock outside. Now they have one of those hammer proof screen protectors (not a stupid glass one). Comes in many colors too. It's an aluminum plated plastic. The aluminum is anodized. My daughters is purple and my sons is blue. :)  
+Edit: just looked it up. It's the Helium version that I bought. Still only $20. 
+No reason to update it. Probably spring of 2018 at best. 
+I have a JVC head unit in mine. Has a USB port on the front that supports iOS devices. Plays over USB and charges. Also has Bluetooth but I've never used that feature. 
+Simply adding an option to turn off sarcastic comments would do wonders for making Siri seem less like a POS. 
+It's a 6 and 6 Plus only issue. 
+ http://i.imgur.com/KhDqRMa.jpg 
+6S or 6S Plus, or iPhone SE. 
+With Apple not properly taking care of Touch Disease, the iPhone 6 should be avoided at anything more than free. You'll be spending a lot to keep having it fixed by Apple, till they stop fixing it, and then it's dead.   
+Edit: spelling
+You can see the percentage in BaconReader on mobile as well. 
+I just am old school. Phone goes away and I'm on the PC all weekend. 
+When I get to work. Usually by Monday morning it's down around 36%, since I don't charge on the weekends. 
+Sounds like it. 
+Can't innovate my ass.... Indeed.
+It's almost not even a hackintosh when you use Apple cases. It's just an upgrade. ;)
+I had an '82 Escort. I want to say it had the 1.6L engine in it, which was completely dead when I got the car. Swapped in a 1.8L from an '88 Escort GT. Same trans, same carburetor even. That thing was a BEAST! One of the fastest cars I owned in my early 20's. Would climb hills (lots of VERY steep hills around here) like nobody's business. It used to spin the rim inside the front tire and suffer blowouts from a stop. I later learned that this was due to it being a metric rim? Something screwy like that.
+Ugg, yet another Christmas Carol movie. But this time featuring the Stargate SG1 team and the Ori. 
+Works fine on my 4K TV. It's just you. 
+It doesn't have autocomplete like any modern IDE, and last I looked, it doesn't even auto save! The IDE crashed on me and took all my work with it. That kind of crap, in 2016, will sour your taste for an app. 
+Make sure to use OpenZFS. The HFS+ file system is a disaster. Luckily ZFS works really well on macOS. 
+No, you missed the part where I said I removed them from the enclosure. Standard SATA drives inside, plugged into the standard SATA ports.
+This. That's what I do. Two years ago I picked up the cheapest Haswell CPU Fry's had, at about $65, a $35 motherboard and 8gb ram. Tossed in my 4 USB hard drives (removed them from their enclosures) and was on my way. A year later I got a very very large case and added more drives (needed a better motherboard, so I got a $70 one this time). I upgrade it a bit from time to time. Still on the same CPU. Now it has 16 drives for a total of 36tb of storage (some of that goes to redundancy) and 32gb of ram. I even did a YouTube video series documenting my build, if you're interested. :)
+1k on a future proof display is a pretty damn good deal. You can easily get a decade out of that thing. Many people spend more than that on video cards (SLI a pair of $750 cards).  
+Maybe you're out to build a $300 Hackintosh, not everyone hackintoshes on a budget. 
+I disagree. The 15" MacBook Pro has discreet graphics, even with three of those displays plugged in. 
+Definitely. Good bike to have to ride over a ladder at freeway speed on. They're tough and forgiving. I recognized the speedometer before I even watched the video. Glad you're ok.
+Nice. I use a 40" 4k curved TV as my computer monitor. Got it back in Februrary. It freakin rocks as a computer monitor. :)
+In OS X, you may need to go to your network pane in system preferences, click advanced, and renew your DHCP lease. That might be your problem. 
+Where was this taken?
+The AirPods go in your ears, not your nose. 
+Wish they had more details. 
+Yeah, I'm the other way around. The Street stopped me from buying another brand.
+Go test ride a Street 750. 
+What about the Mac Mini?!!!
+Who cares? That's not how our system works. All those people wasted their vote when they could have safely voted 3rd party and made a real statement. 
+BaconReader FTW
+systemD. I went of FreeBSD. Very happy with the change. 
+The Wii Classic controller connects to the Wiimote via i2c, so it should be possible to connect it to the Pi via th i2c pins on the GPIO and then you just need a driver. 
+I love Tetrisphere. 
+Parked next to a Low Rider S, or a 48, you virtually have to compare tire size or look for the radiator to tell the difference.  Harley's lineup is pretty diverse.
+Will do. I plan to review them on my YouTube channel. 
+Congrats! I got my XG500 back in May. Been riding it virtually every single day since. Cracked 5,000 miles last weekend, at 37° in the rain. Awesome bike. Join the Street 500/750 group on Facebook. We're a passionate bunch of fans of these bikes. Tons of great tips and info there.  
+ http://i.imgur.com/9EoQLUN.jpg  
+http://i.imgur.com/5qXz0Lf.jpg 
+Fuck yes. 
+I use a 16gb SATA SSD I pulled out of a Chromebook (acer c710), in a USB to SATA adapter. Fast and reliable and doesn't use one of my precious MB SATA ports. 
+Yes, and as a DIRECTV customer they're always emailing me offering special rates if I bundle with them. Heh, 6 lines of unlimited everything for $140/month. Even if TMobile weren't awesome ethically, the price can't be touched. 
+Still riding my motorcycle in this. Love it. The roads are nice and bare and dry at this point. :)
+What Chromebook can run OSX? That's pretty awesome. 
+Ahh, interesting. Drive speed is half that of the MacBook Pro. Wonder what this machine costs? What resolution is the display?
+Yup. Been burned on that a couple of times with MacBooks as well. 
+Yeah, there was a recall for the 5 doing this, ages ago. 
+Stoned: https://stoned.audio  
+I paid $89 the day they went on sale. I think they're $99 normally. In ear, truly wireless. Proper price for this sort of thing. 
+I've always wanted the lighted Apple logo on my phone. Someday maybe. I'm always on the bleeding edge newest best iPhone though. 
+My ex wife. 
+Iridium plugs are nice because they last longer. There's so evidence that the finer electrode tip can fire in a leaner mixture which can be a great help during warmup. In my anecdotal test, I noticed quite an improvement going to Iridium plugs.  
+I run aftermarket wires because I was able to get them in a color that matched my bike's theme. 
+No problems here. 
+Totally agree. I cycled between 4, 5, and 7 for a few years till the last big Boeing contract negotiations. Couldn't take the blatant propaganda any more and deleted them all. Their apps were always buggy and slow. Screw them all. 
+Way better article. This is the one that should have been linked.
+Home NAS, 16 drives, 36TB total. Runs Plex serving a family of 5, usually not more than two of us at once. Also has my home webserver in a jail, serving static pages, usually 1 visitor at a time, it's very low traffic.
+Nice, I'd love to switch my servers to proper ARM server motherboards when they become more mainstream.
+I don't think a Pi should be used as a NAS at all. It's only got 100mbit Ethernet, which is shared on the USB 2 bus with any hard drive you'd plug into it. My NAS is in an old PC with lots of redundancy so I don't lose data, and even with gigabit Ethernet, I wish my link to it were faster. 
+I have a RetroPie machine running on my Pi3. I put PiHole on that. Works great. 
+Never listened to the WAN show. Personally, I only listen to Mac and BSD centric podcasts. Not so much hardware. And yeah, I've got kids in the 13-18 range. I'm out of that demographic as well. Just trying to answer the OP. :)
+I did for a long time. The power supply I had feeding it died so I setup PiHole on my RPi3 RetroPie unit. 
+Yeah, I didn't know you could wait. I've had too many failures in the past so this is the only way I talk to her. 
+Called to ask, and they credited me manually this month. Signed up online so we had no warning that it would take awhile. Didn't have to raise a fuss or anything, just got an amazingly helpful person on the phone. 
+Apple's leather cases are really well priced. $49 is nothing compared to the matching leather watch band at $149! And it's half the price of the useless extra 128gb upgrade you got for the phone itself. 
+I knew it. :) I love my XG500. :)
+Funny, my forecast said 3" today and 3 more tomorrow, an inch on Saturday, etc etc. it's all gone from the forecast now. Funny how it all changes like that. 
+Linus Tech Tips, though it's more of a video podcast and it sounds like you might want audio. 
+https://youtu.be/83t1MoklcIs Part 1  
+https://youtu.be/XH8KHy-rw_k Part 2
+You can get the clutch with a real flywheel conversion kit from Amazon for less than $400. Do it yourself and that's literally all you'll spend. 
+Xiaomi Mi Mix. Essentially a prototype of the iPhone 8 rumors. It's $950-$1200. 
+They aren't going to. Stop being a pussy about it. Buying a used one off eBay doesn't give Apple money anyways. 
+I see Space Black Series 0's on eBay for $250 nowadays. Great price for a stainless watch. Gunna have to pony up and buy again. You've learned that your body doesn't like aluminum. 
+There are plenty of problems that can cause something like that. Might be worth having a blood workup done. This is EXTREMELY not normal for an Apple Watch to do this. 
+Why such an old version of OS X? Should be able to run 10.12. 
+Nass 
+Five month long coma. 
+One big RAID Z1 pool. Hahaha. ;)
+Yeah, and these things are blue booking for less than $4k nowadays. Toss in that it's over 10 years old so you can't order new body parts anymore. 
+You can run the credit check on their website and it'll tell you. That's how I did mine. Got approved one evening. Next day at work they call me up and are like "So whatcha waiting for?" Hehehe. Bought the bike that day, after work. So happy I did. 
+The 12" MacBook doesn't light up. 
+I got Stoned instead. Way cheaper, look like they'll actually stay in my ears. Will probably have them before AirPods ship. 
+It's kind of long winded, but, abolish standard time, stay on daylight savings time year round.  
+Very fitting right now, this getting dark at 4:30 crap sucks. With my system it'd be getting dark at 5:30. 
+No, it's been obsolete for awhile. Look into the Clover method. 
+Glad I went with the 2016 12" MacBook. The battery life on that thing at worst is awesome, and is often epic. With my usage patterns, I charge it every Sunday night. For real. 
+Snowing at work. :) XG500 http://i.imgur.com/GTwAJPt.jpg 
+Tell me more about this RMW tune. How do I get it?
+I don't know if it's trolls from the other Seattle subreddit, but I get soooo many downvotes in this subreddit. And I don't anywhere else. It's more than odd. 
+Haha! Same here! If It's not white when I get up, I'm going to ride. :)
+I got my daughter the iPad Mini 4 when Best Buy was selling them for $100 off last year. Then sold her iPod Touch for $100, making the iPad Mini the price of an iPod Touch in the end. Hehe. She had a 5th gen Touch, so it was effectively obsolete. 
+Check out VidAngel. They would a lot like this, reverse actually. Also love their optional and customizable filters for my kids. 
+The trick is to pre-order at midnight on the first night. Then spend all of your wait time trying to find a faster way to get it. Did that with my iPhone 7+, preordered opening night, got a November ship date. Was at the Apple store the first two days it was out for the public, got one the second day. Cancelled my pre-order when I got home.
+I was really hoping someone would say "Oh, there's a firmware update to fix that, take it to the dealer and have them re-flash it.".. hehe, this is totally something that should have gotten patched in the firmware.
+I could totally program a microcontroller (Arduino) to do that, that might be an option. My tires are fine, it's the rainy weather that does it the worst. Only AWD can save me in the rain. 
+You guys are right, the donald dorks are spreading out to other subreddits. What the fuck does this have to do with Hillary's crimes?
+Look into FreeNAS. That's what I run. 16 drives in mine, 24TB total if I recall correctly. Built it myself and hardly spent $1000 on it. 
+I think that's way earlier than 95. Those horizontal desktop cases were long gone by 95. I'd be surprised if that's even in the 90's. 
+I disagree. You'd have a lot of situations like this one. Lunatic in the house, police surround the place. He either backs down, dies, or gets arrested long enough to take away the guns. These people are all so self protective, it'd never be a war because they'd never group up. 
+I get more downvotes in this subreddit than all other subreddits combined. Very peculiar.
+I wonder if the diamond is still in his family. Such a story behind it would make its value so much greater, today. 
+I was a 9"ee, back when the Dell Mini 9 ran OSX perfectly and faster than the first gen Air did. Then I was an 11"er when the 2010 MacBook Air came around. Now I'm a 12"er. I hate the MacBook keyboard, but I love the size. I drive a Mini Cooper and ride a 500cc Harley. And I'm short. I like small things. 
+Road rage. 
+I love that store. I walked in the day after iPhone 7's went on sale. Walked out with a matte black 7+ unlocked Verizon phone, which I promptly put a T-Mobile sim into. :) Then I spent an hour trying to figure out where I parked my motorcycle (there are parking garages on BOTH sides of that mall. Doh!)
+I know they're very interested in solving this glitch. Glad you were able to give them good info on the problem. 
+Don't care. I'm not an Android user. I have money. 
+Been using a Plus since the 6. I keep it in my back pocket. 
+Taser. I'm going to be an angry god. 
+Steve Jobs. He made my world a better place. He worked magic. 
+For sure. Uncle Buck. Love that movie. 
+Spend $3,000 catching up on maintenance. God I hate my mini. 
+I appreciate the well thought out reply. If this site required one before allowing downvotes, this would be a better and more thoughtful place.   
+As for downvotes, meh, been on Reddit for 6 years now. After the first year I decided to stop deleting my downvoted comments and just roll with it. The hive mind can rage, I don't care. I said what I felt like and I think what I think. They can't control me. 
+Good for you. 
+Would you rather we walk across the country? Get over your fake excuses. 
+Got mine. Ended up walking just over 4 miles, as I have to doubleback halfway down an endless (essentially) trail, and I wanted to be certain I'd be over the magic number if it missed some on the way back. It actually picked up a hair more on the way back, I turned around at 2.0 miles and ended with 4.05 miles. It was in the rain, 45 degrees out. And I wore my big heavy steel toe boots because I needed waterproof footwear. Took me an hour and 10 minutes. Already sent the sticker via iMessages to a friend.
+Yes, /u/spez is very toxic to Reddit. He must go. This place will die a quick death like Digg if he doesn't. 
+U
+Works fine on my 4K TV. 
+I liked my 6+ more than the 6s+. Always regretted that "upgrade". Happy with the 7, finally have my good battery life back. 
+I'll update in a few weeks when it comes to the package repos on FreeNAS. Always a version behind. 
+I've got a i3-4330 @ 3.5GHz, EVGA GeForce GTX 950, 24GB RAM, Samsung 950 512gb SSD, Samsung UN40JU6700 Curved 40" 4K display. I don't recall the exact model of my motherboard, it's a Gigabyte board, something fairly cheap and basic. :)
+I haven't run Windows since building my first hack 8 years ago. 
+You really couldn't argue her policies. The ones we all know she had were buried under BS campaign promises that changed based on who she was talking to that day and were contrary to her past record. 
+You're SOL. Park it in a really bad neighborhood. 
+Get the Apple smart battery case. It makes the 7 last like the Plus. 
+But I don't support it. Single payer or bust. 
+It's crazy bad for us R53 owners. Mine is worth $3.5k at this point. That's such crap. 
+My 11yr old son had downloaded the demo on the XBox 360. He wanted me to buy the full version. I decided to get it for the Hack instead. It's quite an old game, so I pegged all the video settings. Looks WAY better than it did on the XBox. :)
+ http://i.imgur.com/sWHAbTm.jpg http://i.imgur.com/31tTnO6.jpg 
+As the owner of a space grey MacBook One, I'd say don't get it. It gets dirty very easily and is a PITA to clean. 
+Probably a lot of hard work by Apple over the past year. Little tricks in the firmware to compensate. 
+I have a cell phone embedded in the field. Only uses about 30mb/month relaying sensor data back. No calls, no texts. Ting was $11/month after taxes. Switched to Tello. Preloaded $10 on my Tello account, and I get billed 2cents/mb. Needless to say, that $10 will cover most of my year.  
+TL;dr - Also check out Tello. Might be way cheaper. 
+Carry on my wayward son, there'll be peace when you are done. 
+The 6S Plus with the Samsung SOC got worse battery life than the 6 Plus. But the TSMC units got the same or better.  
+I'll get downvoted for daring to say this. But the proof is in the fact that Apple doesn't use Samsung SOCs anymore. (And I had both because I started with the Samsung riddled unit, and returned it because the battery life sucked. )
+And that's on an Intel modem iPhone? Wild.
+Comes with enough for 4 complete circles. i.e., both sides of both wheels. 
+Funny seeing CTR still paying people to shill for her. 
+Yes she did. She lost because she sucked. Nobody was eager to vote for her, and 9 million people that Obama carried in 2008 stayed home. Obama gave the voters hope, at least in 2008. As did Bernie. I'm just glad she lost. She worked with the media to get Trump in, so she's the shortsighted nimrod that picked Trump for us. Couldn't think far enough ahead to consider who she'd like to have if she lost. Only picked the one so absolutely awful that nobody could possibly vote for. She underestimated how loathed SHE was.
+Assuming she didn't run us into nuclear war with Russia, like it really appeared she was doing. Very strange election cycle, this time around.
+But seriously, the alternative to that....
+It's from the dealer, I used the "bike builder" app on the Harley website before I went in to buy the bike. That app gave me a list of part numbers for the accessories I had added to the bike. I had them roll it into the loan when I bought the bike. 
+www.customtaylor33.com
+It's the 12" MacBook that only has one IO port. Dubbed the MacBook One by the Accidental Tech Podcast. A podcast anyone that loves Apple products should be listening to. It's fun, and educational. 
+I dunno. I've got a Series 0 watch and a 2016 MacBook One. 
+It almost never worked in macOS 12.0 and watchOS 3.0. But since 12.1 and 3.1, while still slow as, it's at least reliable now. 
+I have a neon green theme going on, on this bike. Found these reflective strips on Amazon and put them on. They really pop!
+Worth mentioning: people have upgraded the storage on iPhones by soldering in the bigger flash chips. 
+This, or something very similar must be what Apple is using in their new MacBook Pros, which are stated as having SSD's that reach speeds of 3.1GB/s. Nice to see PCs have a way to achieve the same kinds of speeds. 
+Those aren't cordless, though. Unless there's an adapter I'm missing. 
+It's a $500 board on Amazon!!! Good lord you people will pay anything to run ECC. Going on 3 years now without ECC in my $35 motherboard with a Haswell Pentium chip (like $60 at the time) in it. Go figure, no data corruption. No ECC. Saved a bundle. 
+Position, so the text is in the correct place. 
+Go to YouTube and look up iPhone drop test. 
+The iPad Pro especially needs USB C. Charging it from 5v is just a bad option. Being able to feed in 19v like a laptop would be far better. 
+I've never been able to get that to work on mine. 
+Has anyone actually proven he's still alive?
+Great project, and holy cow, an even smaller altoids tin! It looks like that's the size of a 9v battery?! I've gotta get me some of those. Awesome project boxes!
+Bernie might have, Trump on the other hand. I'd start believing everyone was wrong about him if he did, but I don't think they were THAT wrong.
+Yeah we did. Anyone remember the NASA LEGO sets with the glow in the dark bricks? Man I bet those would be worth a fortune nowadays with the inflation of LEGO bricks and how rare they'd be by now.
+I think it's damage from arcing when you unplug it while charging. The high current power is still flowing as you break the connection causing a very damaging arc. Solution to this? Capacitive sensing in the white part between your fingers there in the picture. Make it automatically stop current flow the moment your fingers grip the connector, so by the time you unplug it, it's no longer passing current. This is such a good idea, I've considered patenting it. But I won't. Too expensive, too pointless.
+https://www.amazon.com/Griffin-BreakSafe-Breakaway-Chromebook-replacement/dp/B01CQTK6GU  
+This neither uses the apple magsafe charger, nor is it "nearly flush". It's a start, and would certainly save the computer if you trip over the cord, but I don't like it sticking 1cm out the side of the computer like that.
+I've seen the really crappy chinese ones for standard USB. They usually make such poor connection you spend a couple minutes each time trying to get them to actually work. And they're not intended for use with the Apple magsafe charger. They just put a magsafe style connector at the end of the cable. It's a start, shame they don't make them work properly.
+What I'm surprised nobody has done yet, is make a magsafe to USB-C adapter. Make it all but completely flush, so it just stays in the port all the time, and make it use the old magsafe chargers. 
+Man was I wrong! hahaha, I was sooo happy Tuesday night.
+83%
+We know. And they're going to call it the iPhone X. 
+If the DNC had run their populist candidate, we'd be waving rainbow flags in the streets right now. Their big banker backers are what got us here. 
+I've never bought one that didn't work, and I always buy the unrecommended one. The brand is the key. 
+Thank you for sorting them by color! Man the other ones I've seen in the past (tabletops) that are just random drive my OCD nuts, and I'm not even OCD!
+AHCI is SATA, is it not? So your drive is choked down to 550MB/sec, rather than the 3.2GB/sec that the m.2 gets. 
+Gigabyte motherboard. I7 6800k, GeForce 980, 32gb RAM, Samsung 960 m.2 SSD. Full of win right there. 
+Tulsi Gabbbard. She never rolled over and sold out. 
+The Notebook
+Hell yes it is. Killed all the enthusiasm. Us Bernie supporters tried to show that Bernie had a yuuge lead over Trump where she could barely beat him. 
+There was a 100% chance we were going to get a bad president. Nothing has changed since the primaries ended. 
+Day 1 of my vacation. My wife who had been increasingly distant, and I had taken the time off to spend with her, told me she wanted a divorce. And that she had been having an affair. Bleh. 
+And if you haven't. Just pick one of the presidential candidates. They will both be the end of us. 
+Mine got snagged by customs. :(
+It appeases the masses. False sense of control.
+Sounds good to me. Shall we do like the monks in tibet and self-immolate ourselves in the roads? Or maybe make fools of ourselves by doing another occupy movement. That accomplished so much </s>. If you're talking 2nd ammendment, at best you'll end up arrested under conspiracy and treason charges. In which case the first option would have been better. The problem with the first option is HRC has such a stranglehold over the media, they won't even cover you doing it.
+People forget that macOS hasn't really changed much since coming to x86. It can really run just fine on 2gb of ram still. As I do that all the time on a 2010 MacBook Air, even running Sierra. My desktop machine has 24gb of ram and like this article shows, it's nigh impossible to actually use it all, even when editing 4k video.  
+There are a lot of compromises to dislike on the Mac Pro, this being a pretty minor one. Keyboard, ports (lack thereof) and SDCard slot being the key problems.
+Yup, I do this on my 4k display on my desktop. Not much point in more pixels if you don't utilize them.
+If it's not stable, it's not stable. You just hadn't detected the instabilities in Windows. Windows was probably throttling the CPU down, completely negating your overclock anyways.
+With all the cheating she got away with in the primary, even if nobody voted for her, she'd win. She's going to win no matter what. :(
+A 2008 Mac Pro is not a G5. Seems like you're replying to the wrong post. 
+It's HORRIBLE. I upgraded my PS3 to a SSD and it made it bearable. It does a ton of drive thrashing. Still really bad.
+Yeah, it was so insanely long between updates, that they went 6 months just selling refurb units rather than new.  
+Oddly enough, the 5c still runs the latest iOS. Amazing longevity. Wish my iPad 1 had gotten updates that long.
+Fine by me. I bought two SE's for my kids the day it went on sale. If they wait 18-24 months for an update, that's a much lower cost of ownership than I get out of my personal flagship phone, which I update annually.  
+Also, the 5c was the previous budget phone, it went 30 months before it got an update (the SE).
+Great example of the problem with the right to bear arms. 
+I'm near those same numbers and I'm WAY above 20%. 7+ FTW. Upgraded from my 6S+ because it had the crap Samsung CPU and the battery life sucked.  
+ http://i.imgur.com/OXh8ngj.jpg   
+Note: I was downvoted, this is what happens every single time you mention the bad CPU in the 6S. Pretend it wasn't really a problem. Silence those who speak otherwise. - If it was such a great CPU, why did Apple stop using Samsung as a supplier for the 7?!!!
+They didn't buy it from the native Americans that own the land. It's not the company's land. I can't just go buy your car from a guy who stole it and expect to be able to keep it when you show up. 
+Yeah, I had been buying stuff in iTunes as my way of thanking Apple for the great OS that I don't run on their hardware. I tried the kexts and it made my machine stop booting. So I just gave up for the time being. Hopefully Clover fixes this soon. 
+I don't need gigabit yet. But I definitely need more than 100mbit. I've got a 150mbit connection. 
+Yeah, not bad. I just bought an Odroid C2 last week to run Plex on. Sooo happy with it, as it plays 4K h.265 videos on my new 4K TV perfectly. Definitely worth the $60. 
+There's an ALC audio patching script somewhere on github that will auto detect your ALC chipset and patch the kexts for you. I don't have the link handy. Maybe google it? You need to have your EFI partition mounted before you run it. 
+Purchased movies/TV playback in iTunes?
+Yup. 
+It helps consumers by discouraging theft and downright robbery.
+* - each day.
+Not an issue with the Pi 3. And the Orange Pi was hardwired, not WiFi. I used the Orange Pi setup for about 8 months. Never once rebooted it. Was rock solid stable. And following those instructions I linked, it takes about an hour to setup, max.
+http://www.makeuseof.com/tag/make-wireless-printer-raspberry-pi/  
+I used these instructions. Works the same on an Orange Pi, as it uses a debian based OS as well (Armbian).
+Still dreaming of a $35 or less unit with dual gigabit, so I can use it as a router.
+Converting an older printer to WiFi, which is all I ever did with my original Orange Pi (though I think that didn't have WiFi. but it at least got it on my network). MIGHT be able to run PiHole with it, but the UI is going to choke on the lack of ram. All sorts of embedded IoT things could be done with it.
+Nice to see I'm not the only one that thinks the 7 should have been called the 6ss. 
+Spotted this at the local hardware store this evening. How cool is that?!
+And come with the same warranty. Very worth it.
+I bluebooked mine with those specs. Trade in is $1500. Private Party, it's $3500. These things are dropping in value like a brick.
+FM is not AM. And 100MHz is not 1MHz. 
+People were swimming with their Apple Watch S0's. I took showers with mine for a year before I got a leather band and stopped. People have taken the iPhone 7 diving on YouTube. I will continue to shower with my phone. How else do you get porn in the shower? Hahah. 
+That's so weird. This is clearly the same problem. Guess he'll have to wait till his car is 10 years old like we did.. Sheesh.
+There is some learning curve. But it's sooo much easier than it used to be. It's definitely way cheaper. Just make sure you get a Gigabyte motherboard and life will be so much better for you. 
+There's a recall for this problem. Contact the dealer. 
+Not sure if anyone cares. But I figured I'd share for anyone curious. I especially loved the command to create the partition:  
+"sudo diskutil apfs -IHaveBeenWarnedThatAPFSIsPreReleaseAndThatIMayLoseData addVolume disk3s2 APFS APFSPhotos"
+It'll just get spun by the Clinton campaign, "See, we support them so much they're putting up Tipis in our HQ". Token gesture for the month completed.
+The transition to 9.10 was a non event. Just selected 9.10, updated and rebooted. No drama.
+VNC
+Windows in a Bhyve. 
+Apple is going to charge you north of $700 to fix water damage. Check out https://www.rossmanngroup.com/, this guy is so good, he runs a YouTube channel where he does the repairs live to teach others how to do it. His prices are WAY better than Apple's.
+I don't really build to be a Hackintosh, other than making sure I always buy Gigabyte motherboards. Have used others in the past, but never work as well, things like sleep don't work.  
+As for long term reliability, my wife used a Hackintosh I built her as her work computer, in a work from home tech support job day in and day out for 7 years. I upgraded it twice in that time, but even through OS upgrades, she never missed a beat. Her bosses never even noticed or otherwise found out she was supporting their Mac software from a Hackintosh. ;)  
+Also gave my kids Hackintoshes. Usually hand me downs from the wife's machine. She generally had the best hardware, I'd have the second best, and they'd be third place. Till the divorce, now I have the best. ;) hehe..
+Looks like the battery module to a vape unit. Alternative to smoking cigarettes. 
+Sorry about your bad luck. I've built probably two dozen hackintoshes over the past eight years. Not sure what your definition of consistent is, but I've never had one that was anything less than as stable and reliable as a real Mac. Three weeks sounds like you're ignoring common knowledge and trying to use AMD CPUs. 
+It works more consistently than any windows PC I've ever built. The inconsistency is pretty minimal. I've been at a low rage all afternoon after they skipped updating the Mac Pro (the 3 year old trash can). 
+Been hackintoshing for 8 years now. It's great. 
+OpenBSD is pretty well immune to viruses. Windows is akin to HIV, judging by the number of viruses and malware it has suffered since 2003. 
+Yup, that, PiHole, and OpenVPN on my Pi3.
+I ordered one after the big thread about it last week. Just set it up last night and can confirm. It's fast and plays everything I throw at it. Retiring my old PS3 which was the complete opposite. 
+It's compatibl if you use a different video card. 
+Nice! 6.4" and all but no bezel. Cheap too, I'd rock one. 
+Cognitive dissonance. They have so thoroughly deluded themselves into voting for someone they know is bad, nothing short of a professional mental health counselor can help them now. And there aren't enough of those to go around. 
+If you want to get off the Beta train, you have to remove the device profile. Otherwise, within days of 10.1 final coming out, you'll be right back into a new round of beta testing. I hopped out at 10.0 and wOS 3.0. 
+Very very nice looking V-Rod. 
+Did you jailbreak it? Most of the jailbreaks lately have come out of China. 
+I was given one of those cans once. I threw it away. Disgusting way to ruin salmon. 
+They're wrong. And I'm not angry. 
+I've been hackintoshing for 8 years and have NEVER had to disable that. 
+Yeah. It's one of the reasons I gave up on MetroPCS. 
+It's the Intel modem that sucks. Doesn't work well at low signal strengths. 
+You can buy a MetroPCS sim at a MetroPCS store. MetroPCS charges each time you put the sim into a different  phone, so at some point you'll have to pay to activate it. 
+Can confirm. Random and very rare glitch. Good job catching a photo of it. 
+Now go into iTunes and try to play purchased movies or TV shows. That's the real trick. 
+Reminds me of my old 77 Corolla. It wasn't especially fast, but it was fun, RWD, and could do epic parking break turns.
+Why does it feel like the video drivers aren't loading, and it's just running in some kind of compatibility mode?
+Holy shit, tough crowd this morning. Getting downvoted hard. Anyways, took this picture after my ride to work this morning. Some of the most intense rain I'd ever ridden through. The shot from behind the bike shows the rain splashing up off the ground nicely. The shot from in front of the bike just shows he beautiful autumn colors.  
+As for the title of this post, I had this song in my head when I was riding in the rain: https://youtu.be/ebt0BR5wHYs
+We could really use him one state up, on our carbon tax initiative. Right up his environmental alley.  
+https://yeson732.org
+Shot on my iPhone 7+. 
+That's a self fulfilling prophecy. If everyone who likes her but felt she had no chance to win votes, she'd blow the other three out of the water. 
+The Pi Zero uses less than .2 max and usually less than .1A. It'll be fine, it's a Zero, not a 3. 
+Isn't it Lubuntu when it's the LXDE version of Ubuntu?
+I have 3 Zero v1's and 2 Zero v2's, simply by getting back on Adafruit's notification list after each order. Their shipping price is very reasonable.   
+ http://i.imgur.com/0qxLpgV.jpg 
+I can vouch for this. Just last month I watched Chris's free video series and after having used Eagle for 5 years, I made the switch to KiCad. I have designed two boards in it now and am already feeling at home with creating new components as well as the keyboard shortcuts. Thanks for the hard work making those tutorials Chris. I'm happy to be able to use free and open software now. 
+Ordered one. Been eagerly waiting. :) thanks for the link. 
+It really is. I've got EVGA's Superclocked version, hooked to my 4k monitor. It seems like I can throw anything at it in 1080p and not bat an eye. Older games will even run in 4k without issue. My standards may be low, I'm no professional gamer, but like Far Cry 4, on the XBox One it looks like a cartoon. On this machine, at 1080p, it looks like real actors in a movie. It boggles my mind.
+I'm interested to see how this stacks up against my current GTX 950. I've been beyond happy with it so I'll happily upgrade for $139. 
+But it did get altered. In several ways. Biggest being the way it's taxed. It's much more sane now.   
+http://mjbizdaily.com/marijuana-tax-shift-washington-state-ease-burden-businesses-lower-cannabis-prices/
+
+T-Mobil only has One(tm) plan. And it's unlimited. 
+Yes! I've been waiting for this. Just need macOS drivers now. 
+Sweet. Next up, where do I find everything I need to get Plex up and running on this? Is there an image somewhere?
+Where can you get one?
+http://www.consumerreports.org/smartphones/some-iphone-7-models-limit-your-choice-of-cell-service/  
+"We also asked AT&T and T-Mobile if there was some reason the GSM-only phones would work better on their networks than the CDMA/GSM models. Neither company would cite a reason for consumers to prefer the more restrictive phone."
+I've been hearing a lot of reports that the database Apple keeps all of our ID's in is getting corrupted. 
+IGPU? The Intel GPU that I'm not using and have disabled in the "BIOS" (UEFI)?  
+Thanks for the lead, trying to wrap my head around that FAQ now.
+A couple of the music videos I've purchased will play. Most won't. None of the TV shows I've purchased will play.
+Sweet, ok, good to know. I'll adjust my advice giving going forward. :)
+You have to use it on Sprint first. But I'd try tossing the AT&T or T-Mobil sim in first, and see if it works. Let me know. 
+Same version but you have to use it on Sprint for like 50 days before they'll unlock it. 
+Yes. They are unlocked out of the box. I am using one right now. Swapped the sim before I even powered it up. 
+Only if you're doing the iPhone upgrade program. And if you're doing that, resale value really isn't an issue to you. I walked into the store, asked for a Verizon phone. Paid in full and walked out. They didn't care who I was with, or if I was with anyone. Money talks.
+Ahh, I've always bought my iPhones outright.
+You don't want the AT&T one, it only does GSM networks. Limits your options and kills the resale value. Get the Verizon one, or the SIM free one. I'm on T-Mobile and I got the Verizon one.
+They should work with Samsung to institute a self destruct feature. If it leaves the store, it bursts into flames. ;)
+Nice pipes. I've been out riding in this storm too. Love it. 
+Dead relatives, that's why I keep some of them. Last words from them.  As for message history going way way back in time, nasty divorce. It's proven invaluable to be able to nail her to the wall with her own words. She was like you, always deleted her texts right away. Wasn't she surprised to find hers printed out and submitted as evidence. 
+Why not text messages? That could be really painful to lose. I've still got text messages on my iPhone from 5 years ago, 5 or 6 phones back..
+I'm new to biking, just got my first bike this year. But I knew this was how things work. You see a biker on the side of the road, you stop and help. I saw one on a big cruiser Yamaha about two months ago. I stopped to see if I could help. He had a phone and had already called, but I hung out while he tried to troubleshoot his problem. He had ridden from Canada and had almost made it to his destination. I think we tracked it down to his alternator had failed and his battery was dead. He was a nice guy and I'm glad we got a chance to meet, even if I wasn't able to help him out.  
+Lose everything on the phone? Android still doesn't have any autobackup system? If my iPhone fell into a blender right this second, my new iPhone would just restore from iCloud and be an exact replica of the phone I destroyed. Does this not exist in the Android world?
+Resto-mod. Common in cars. Keep the classic look, swap in the best modern components that you can. It's as good as new, but looks vintage. I'm working on this with a 1940 Zenith radio. :)
+My router has the ability to shut down access to a whole device on a specific schedule. So the MAC address of the offending tablet/TV gets blacklisted between xx and xx hours. 
+I hope they're able to get the oven makers to cover their damages and losses. I want these solar roadways to fail under their own merit, no outside factors. 
+Have they even announced a firm date for the October event yet?
+Wow, wait till you upgrade and get LTE. Especially on T-Mobile who never really had 3G.
+Took my 4 free years of Gold and ran. Love BaconReader and it's night mode. 
+Nah, out in the country 30 minute drive away. 
+I live in a tiny house. Love it. Very cozy, cheap to heat, and cheap to rent. But mine is just on the outer edge of what counts as a tiny house. 400 sq ft. 
+Much like ET for the Atari, some crazy fool will be digging them up out of a landfill in 30 years. 
+Because I couldn't get 4K @ 60hz out of the HDMI 2.0 port. I heard about a pixel clock patch a couple days ago. Didn't look into it. Bought this $30 adapter after seeing a bunch of Hackintosh guys reporting success with it. Must have been before the patch was a thing. 
+Wake from sleep is having issues on all models of real Macs right now. May not be something you can fix till 12.1 comes out. I've disabled sleep on my machine for the time being. But even then, to get my display back after having powered off the display (40" 4k TV), I have to unplug my DP-HDMI 2.0 adapter and plug it back in. Very strange issues that I never had in El Cap.. (I'm running a GeForce 950)
+Texas chili  
+Vegetable beef soup
+Oddly, I've gotten a couple of those when my MacBook was closed. 
+I don't hate the brand of phone, I hate the company. I hate Android phones as a group.
+CTR shill spotted.
+I'm an iPhone fan ok, and I hate Samsung.... but.. the early days of this before it was an official recall, the infrastructure wasn't properly in place to replace the phones. I suspect many places just handed customers another phone from their inventory, rather than a true "after the fix" replacement. So these are probably not true replacements.  
+So I'm giving them the benefit of the doubt for the time being.  
+Anyone want to bet they go back to removable batteries in the Note 8? Could have saved soooo much hassle here, and has been Android's big claim to fame since they lost the physical keyboard that supposedly made them better. Heh. (Couldn't resist a jab)
+She spread fracking to other countries as Secretary of State. Before she QUIT that job. Maybe she just made the cliff higher, rather than created it. But she's a damn fine bit worse than Trump as far as track records go. Much like warmongering track records. 
+Are you fat? I ride with my HOG chapter regularly and have zero problems keeping up. The guy behind me on the first ride even said to the others "Hey guys, that thing's a real rocket. He shot out of the hole so fast I had a hard time keeping up with him."
+Have a MacBook with Sierra. Can confirm it's not waking as it should. 
+Clinton: Created the cliff. 
+Sorry about the vertical video. Just fired up the camera on my phone while it was in the cradle on the handlebars.  
+2016 Harley Davidson Street 500, if anyone is curious. :)
+Yup, doesn't respond as well to upgrades as the 750. Ahh well, feels plenty fast to me, first bike and all. And at least now I won't be talkin out my ass telling people it's got 45hp, which was my best guess.
+Nobody else had. I've done some bolt ons and an FP3, was curious where it was at. 
+Good to know, I'm running one as well. Samsung UN40JU6700 40" Curved 4k on my hackintosh. Absolutely love the thing. Glad to hear my screensaver is a good idea. :)
+Ahh, reminds me of my youth. Thanks for maintaining this. Screensavers will probably make a comeback as OLED screens become a thing.
+6S has 2gb ram, the 6 has 1GB
+WiFi calling FTW. ;)
+His legacy was already crap. How about the american he ordered killed via drone strike without a trial? Or the persecution of whistle blowers. 
+Glad the Verizon iPhone I bought doesn't have that issue.
+Yes
+Metal cases are brutal to signal strength. 
+That's for the best. You might as well not use a password at all if you're going to use WEP. 
+Way happier with the Nexus Player than the Chromecast. It's like comparing a Chromebook to a real laptop. One is gimped, the other is useful for so many different things. 
+Comcast generally starts at around 50mbit nowadays. Hard to get much less than that from them. I'm on their 150mbit plan without spending too much. Less than most people spend on TV, for sure. 
+I reported a bug during the beta that never got fixed. If you're using the phone when your timer expires, you have to tap the dismiss at least twice and usually 3 times to get it to end. And that's after pulling down on it to reveal that option. PITA!
+It works great on the Verizon iPhone 7+.   
+http://i.imgur.com/YCBn0Fh.jpg  
+http://i.imgur.com/IeEQiZG.jpg 
+I guess I'm one of twenty people. I switched my bi-weekly $27 donation from Sanders to Stein months ago. 
+I did a few months ago. That and /r/Seattle, for the same reason. Corrupt mods. Life is more sane now. 
+I'm having a heck of a time with these drivers on Sierra too. Wouldn't wake from sleep, so I disabled sleep, then I'd come back to a locked up computer. So I also disabled monitor sleep. Now I come back to a blue?!? screen. I had to remote login from my MacBook, save my work, and reboot from there. It's very weird. 
+Just swap the bike for an all-electric bike and it MIGHT work.
+Just get on Adafruit's notification list. I have four of them. I've gotten each one for $5+reasonable shipping. 
+BaconReader set to dark mode.  http://i.imgur.com/KCXhLFl.jpg 
+Exactly. But T-Mobile is pretty awesome. :). 
+Still, even as a happy T-Mobile customer, I bought the Verizon version. Both to give myself options as well as for resale value. 
+Holy shit. That guy is as slimy as any used car salesman I've ever seen. Holy crap she has some real patience. 
+Why can't Siri answer my calls and tell people I'm in the bathroom, or driving, or asleep, or at work. Etc...  time for our phones to be our personal assistants. 
+Ha.. Fat chance.. Can still get 6 Pi Zero's for the price of an Uno. Or 10 ESP32's..
+I've wanted this feature for awhile too. Can't do it currently. Maybe a micro controller with Ethernet, but it'd be profoundly slow if someone could even write the software to make it work. 
+Exactly. Takes all sorts of hoops to get the show database syncing between XBMC devices. And if I want to play something that's on my home server while I'm on the road, XBMC can't do that unless I have some kind of VPN setup. Everything is simpler with Plex. Kodi/XBMC is just years behind Plex at this point, and all the infighting between the Kodi developers is only making their problems worse. Plus you can get Plex in any App Store, unlike Kodi which is available almost nowhere. 
+You're right. It's been so long, I was thinking of the wrong name. I used the Teensy++. 
+The Teensy 3.2 is $19.80, not sure where you're getting $30
+I have no idea. I backed the Teensy 3 kickstarter, and still haven't done anything super useful with that one. The price is just so great, someday when I do want to do something with one of these, I'll have it right here. These things have a crazy amount of power, my projects tend to be so simple, they just can't utilize that much power.  
+I did once do an internet connected christmas light display, using a Teensy 2.0. Sure beat the Atmega328 in that task.
+Arduino is open source, Teensy's hardware and specifically, bootloader, is not. Even at full price, the Teensy's price is WAY better than the price of the Due, and even the Uno. 
+Hell yeah. The only reason I'm not voting trump is because I have a sane alternative, Jill Stein.
+Time for the lawyers to determine if the company that makes IPCamera can be held liable for damages. I kind of hope they can, just so it sends a message to all the other internet connected device makers: get it right, or don't do it. Continuous security updates and patches.
+Yeah, I don't understand this. Is there bad blood between the FreeBSD and OpenBSD folks? Why on earth would they keep running OpenSSL after they found and ripped out soooo many blatant bugs and holes?
+I was just looking today. None yet. 
+I can't even get iMessage to work reliably on my REAL Macs. Apple needs to fix it internally some more.   
+edit: Downvoted? Is this a secret we don't mention?
+https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/ Can already do that.
+Not really. One of my big complaints when I tried Android for 9 months a couple years ago was how some task would go nuts in the background overnight and my phone that was fully charged when I went to bed would be at 16% or even 3% when I woke up 8 hours later. Happened pretty often to both me and my wife. 
+I often get 3 or 4 possible routes. If I pick route 3, it needs to stay as close to route 3 as possible. No single checkbox can do that. 
+Star Trek enterprise. Third season. But the fourth season made up for it. 
+I've seen them on eBay. $1550+
+It's not a 5SE. What will you call it next year when they update it? 5SE 2?
+My Verizon phone is on T-Mobile. Haven't had that problem. 
+I was wondering why nobody had complained about the lag problem. Guess it's just an imagined perception problem due to bad timing?
+I don't see a fix for the flash on alert accessibility feature being broken on the 7.   
+Edit: can confirm, it's fixed. 
+I can't get mine to work either. Been trying for several days now. 
+Can't stand zoomed mode. Anytime I run into an app that hasn't been updated properly and runs in zoomed mode, I rage inside. 
+I would kill to disable it on my Plus, if it didn't involve locking out all rotation.  
+edit: or turning on the fugly zoom.
+Probably easier to find a 256gb in stock right now. 
+I had a 6S with the Samsung processor. Despite everyone down voting people who dare say it got worse battery life, it DID. From day one, before they even said there might be a problem, I could tell my battery life was way worse than my 6 Plus had been. Once there was an app to check, I was totally not surprised to find I had the bad CPU. I had to jump through a bunch of setting hoops to get anywhere near normal battery life. And any time I needed to use it hard, I was penalized. I'm getting easily 4 more hours of battery life out of this 7 Plus.  
+I also like the new black color, the dual cameras, the better color rendering, the improved haptic feedback, and the fake home button. 
+I wouldn't have kept it stock, at all. It'd have some kind of all aluminum V8 or turbo V6 up front. Modern diff with a quaiffe style anti slip in back. Modern wiring harness. EFI. Been dreaming about what could have been for 20 years now. 
+She's going to cheat on you with one of the dads at Cub Scouts. 
+Yeah, that's what I was going to guess Triumph TR3. I used to have one. Wish I had kept it. 
+Here ya go.  http://i.imgur.com/Q7adH0o.jpg 
+Cool. I'll do that when I'm at work tomorrow standing in the place where I ran that speed test. I only get about 30 down here at my house. If I turn off wifi. 
+I imagine if you're buying an edition, money really isn't a problem.
+Not sure how to go about that. What would it tell me?
+https://reserve.cdn-apple.com/US/en_US/reserve/iPhone/availability?channel=1&sourceID=email&rv=0&path=&iPP=U&appleCare=Y  
+It doesn't ask for that when you use this link. It asks for that when you go in the normal way.
+$1295 for the Ceramic edition, $369 for the Nike band. 
+Follow the link I posted. That's the only way. It's the end of the day right now, so almost nothing is available. Try again at 8am tomorrow morning, it'll get refreshed again.
+In store? They don't need it because you're buying it cash. Tell them you'll just swap your sim yourself if they push the issue.
+I noticed that problem is gone in the 7+ case. It slid off very easily this time. 
+Yes. You reserve it online for the iPhone upgrade program. When you get into the store to pick up the phone, tell the sales associate you decided to just pay full price and not do the upgrade program. It says you can do this in the reservation email. I and many others have done it. Apple updates the store's inventory at 8am each morning so check the reserve page each day.   
+Edit: link: https://reserve.cdn-apple.com/US/en_US/reserve/iPhone/availability?channel=1&sourceID=email&rv=0&path=&iPP=U&appleCare=Y
+If I ever have the opportunity to stand next to someone with one, I'll make sure to try that. 
+So yeah, this worked. Reserved a Verizon 7 Plus in matte black for the upgrade program. Went in store told them I'd rather buy it outright. Sold it to me with no proof of being a Verizon customer. Took the phone home, swapped SIM cards before powering it on. Powered up and it's golden. On T-Mobile. Full of win. :)
+I predict she's so egotistical that she will just step down after being sworn in. She wants to be known as the first woman elected. Then we get the pro-life corporate shill Kaine in her place. And one hell of a dangerous precedent about how criminal a presidential candidate can be. #distopia
+It's hard to tell with how low res and compressed Imgur is. 
+I did it I did it! Thank you! I've been banging my head against the wall over how I, as a T-Mobile customer could get the Verizon phone. Just did it. On opening weekend even. OP, you rule! http://i.imgur.com/2kebN1T.jpg 
+Oh wow. I could have a Verizon matte black 128gb 7+ TODAY.. But to give up my dream of jet black... Sigh...
+I put hundreds of glow in the dark stars in my kid's bedroom. I've yet to be able to take a picture of them. Maybe the 7 will be able to. :)
+Thank you.
+Yeah, went to the Apple store. No phones in stock so they can't help me. I'm just going to have to sit back and be patient till Christmas or maybe even next year, when these things are finally in stock.   
+I see I can get them on eBay, for around $1500.. hah.. Wild.
+Ok, so I want the Verizon iPhone 7 Plus, but I'm a T-Mobile customer. I want it because it works on all carriers, it gives me options, as well as it'll have the best resale value. But it looks like Apple has put up roadblocks to prevent EVERYONE from buying one. I could wait till Christmas when the Jet Black 7+ is in stock in stores, but I'm looking for another option. I'm currently hitting up all my friends and family on Facebook, to see if anyone would be willing to put in their account details so I can order this darn thing. Fat chance.  
+Does Verizon have a non contract phone plan I can get that isn't pre-pay? I could get that for a month, long enough to order this, then cancel it. 
+Totally waiting for that so I can get one. 
+Good to know this isn't just a problem on the budget friendly XG Streets. 
+If by few weeks, you mean Thanksgiving. Sure. Sigh. Damn T-Mobile blocking the iPhone upgrade program for the first week of pre-orders. 
+I unsubbed too. Including monetarily. 
+I've taken a shower with my Apple Watch every day for nearly a year and a half now. I fully intend to take my phone in there with me when I get it. 
+The media is in her pocket. He could shout it from the rooftops, they won't report it so it never happened. The alternative media would cover it and make themselves look like conspiracy nuts. He's stuck. 
+I've used the same clear case for two years on my 6 and 6s Plusses. It's saved me more times than I can count when I've dropped the phone. I plan to get a fresh one for the 7. Easy fix. 
+Bacon Reader, Dark mode.
+I still haven't brought myself to subscribe to any music service. I tried the Apple Music while it was free. If I did one, I have to admit, I'd go with Google Music because it includes YouTube Red. But then I'd have to update my 2 or 3 year old version of YouTube on my phone.
+Hadn't gone looking yet. Perhaps it's off by default? I'll check on that this evening. 
+Come to T-Mobile. We have candy. (And sometimes free pizza) http://i.imgur.com/lEOivhP.jpg 
+Spotify hasn't even updated the phone app since May. Seems like they're moving away from iOS and or getting ready to go out of business. 
+I can't even get continuity and watch unlock working in Sierra on my real Mac, a 2016 MacBook. Hard to blame my hack when it comes and goes. 
+So what? That's why they're getting rid of cords. If you want a cord still, you snag it on things. I second the smaller chin via a side mounted jack idea. 
+We have proper moderators there. Flag the posts. 
+Kaine would be unelected too. Simply nominated. 
+Nailed it. :)
+I've been saying since the beginning, it doesn't matter if third/fourth parties get into the debates. Hill and Trump don't even want to debate. They'll cancel them on the spot if others get in. 
+Nope. Sounds fine. Plenty of headroom to add more drives in the future. 
+Much harder to just right click and "disable for this site" or otherwise turn it off temporarily when I need to visit a site that advertises. 
+Read the headline and had to doublecheck the subreddit. Sounds like something from /r/100yearsago
+Yes. I got the Firebrand Grand Prix from Revzilla, but since you have Dealer credit, that one you linked makes sense and will sound like a million bucks compared to stock. 
+I did it on my 30 minute lunch break with two tools. Definitely easy. Just be careful not to knock the bike over shoving the new one on. I almost did. 
+Had given that zero thought, as there's no chance I'll ever leave the country.
+Yeah, the stock muffler was embarrassing. I didn't ride mine for a week after buying it because I was waiting for the slip-on to arrive. It was as quiet as the scooter I had upgraded from, save the belt/gear noise.  
+No tach, I didn't realize it was optional in 2017. That's a shame. At least you have the improved wiring harness. The harness on mine looks like it was wrapped by a 16 year old. Very amateur looking, hanging out all over the place, poorly wrapped and bulky in others.  
+I sure love the gas mileage, I regularly see MPG in the 60's, even after doing the intake/exhaust and an FP3 tuner on it.
+Nah, just don't buy the TMobile/AT&T gimped version.
+I bought a clear flexible rubber case for my 6 Plus two years ago. Moved it to my 6S Plus last year. It has saved my phones from sooo many drops. You can see where my fingers rest by the stained spots on the back of it. And it has turned so yellow with age that my rose gold phone just looks gold.  
+I plan to get another for the 7. Shows off the color of the phone, protects it when I drop it and protects the jet black finish from scratches. 
+Yes
+Haha, awesome. Gotta admit, I've never heard of Sinclair. 
+http://youtu.be/cQFBKQ3kmKg  
+Favorite Apple commercial. She comes in colors. 
+Super awesome! A 2017. Did you get the ABS option? Can you post a picture of the tachometer? I haven't seen it yet. I love my 500 to death. I ride it every chance I get. And I get a ton of complements on its looks and sound (got a FireBrand Grand Prix slip-on). Check out the Street 500/750 group on Facebook. It's VERY active and you'll get a ton of great info there. 
+Nailed it. That's where I took this after a ride down to Mt St Helens. :)
+Guess they really are working with Nintendo now. Hahaha
+Hmmm, getting downvoted. Thanks a lot guys. I went ahead and submitted it as an advertising post instead. Can't downvote THAT. Clearly people don't want to hear about this problem and just want to bury their heads in the sand. 
+https://www.dropbox.com/s/yyhz7wqhlczqnl8/Screenshot%202016-09-09%2011.28.05.png?dl=0  
+Not what the website says.
+They are always on. They use them 100% of the time. 
+I haven't tried 10 yet, but I hear they removed jails in favor of VM containers. Personally, I hate this idea. I liked the jails, A LOT. 
+I bought the Mophie Juice Pack for my kids iPhone SE's brand new one Amazon for $20 each. Your FUD about price is ridiculous. 
+So you've lost jails and they can't do VMs? Geeze. 
+My media IS on my NAS. I stream from that onto the TV with various devices. Pi, Nexus Player, smart TV, etc...
+Touché 
+So just get a Verizon one. Not like it's locked to the carrier. 
+In the future, start the update when you go to bed. Wake up in the morning to find your freshly updated wOS. 
+Yeah, and I am starting to need 4K support. 
+She heard iPhones are safe from FBI investigations. ;)
+Yes, but it leads to coughing fits. 
+Well we'll have to tether and do a speed test tomorrow. The One plan has insanely slow tethering. 
+So they're going to credit you for 24 months. What happens in a year when the really awesome new iPhone comes out?? You stuck paying off your "free" phone early?
+Maybe YouTube. 
+Heh, dealer. Here in the legal states we just drive to the store. So much more civilized. 😎
+Congrats! Same bike as me. Join the Street 500/750 group on Facebook. It's very active and you'll get lots of tips and ideas there.   
+I got mine in May. Already got 3600 miles on it. 
+Well if there isn't, I look forward to buying a $50 spaceblack watch. Or maybe even one of the formerly $10,000 gold ones. What's the gold on that one worth? $200? WatchOS3 made the watch soooo much better I'm shocked they're even releasing a new watch. 
+From my past experience, you skip right over the final release and are automatically getting the next round of betas. So like 10.1 beta 1. If you want to get off the train, delete the developer profile from your device. 
+These kind of places are right up there with payday loan places for unethical behavior. 
+http://www.apple.com/newsroom/2016/07/apple-celebrates-one-billion-iphones.html
+Never trust something on Indigogo. Real projects go on Kickstarter. Frauds go on indi..
+I actually got them originally because you can hear your surroundings. We weren't allowed headsets at work due to safety concerns that you couldn't hear things around you. So I bought these. So yes, you can hear both, what you're listening to as well as those around you. It's almost like having a voice inside your head (I usually listen to podcasts on it). They're marketed to joggers so they can still hear traffic around them. 
+Yup. Was here through the floppy drive removal, a decade before PCs got a clue. And optical drive removal (MacBook Air and Mac Mini). Old tech runs its course. I've been using AfterShokz Bluetooth bone conduction headsets for over 2 years now. Not only does it work excellent, but the range is amazing. Leave my phone on the charge and I can go anywhere in the room and usually one or two rooms over with some gentle cutting out as I go out of range. Always repairs automatically when I come back in range. Easy play/pause button on my temple, and when I skip a track with my watch while my phone is 30 feet away I feel soooo futuristic. 
+I like it. I've been wanting to make a bargraph tachometer, that's pretty much exactly what you've done here. :)
+I cancelled my Netflix 5 years ago when the CEO was being an arse after jacking the rates. There's tons of good content on YouTube. Start with MightyCarMods, and Linus Tech Tips, BigClive.. You can just wander around, there are a lot of big time content producers on there now that YouTube pays.
+Yeh. I left FF before the explosive version number growth. So it was like 3.5 or something sane like that. :)
+Yup yup, exactly. Cheaper than a motherboard for a Xeon, let alone the Xeon.. ;)
+That's awesome. I've been wanting to upgrade to those CPU's, the price of the motherboards keeps making me choke on the idea. Guess I should just man up and do it. I need the ECC support anyways.
+Or I could just buy another cheap 4K TV.. heh.. Which is what I'm starting to lean towards.. They're like $500 at WalMart..
+Man of Steel is 61gb. Batman v Superman is almost 66gb.  
+I like the transcoding feature, less work trying to maintain multiple copies of everything. It drops 1080p down to 720p just fine. Even my 13gb copy of Avatar. Also drops my 1080p movies down to 2mbit when I'm viewing them on my phone away from home. But it can't do that with 4K. I'm simply curious which CPU could do it, or are we not there yet. 
+Today I learned. My bad. 
+Wasn't it about a year ago they completely redid FF's GUI? It looks more like Chrome than the FF of the past nowadays. Or did they relent and go back?
+I still miss the StarOffice name. Harley's back to the WordStar ancestry.   
+Edit: autocorrect fail. Harkens probably spelled so wrong it doesn't know what I meant. Hukt on phonix werkt fer me. 
+Yeah, I used to be into Firefox. Left when the memory leaks got to be too much, back when user profiles were not readily portable between machines. Those two features made Chrome appealing. Though I've never liked the way adblockers work in Chrome compared to Firefox. In FF, the ad was never loaded, saving bandwidth. In Chrome they're loaded and then removed, which with some ads on more shady sites means you get pop ups once in awhile. Very annoying. 
+I think I'm going to avoid this security patch till this is properly resolved, or 10.11.7 comes out.
+I've got a Street 500. 3,000 miles on it. Loving the 65-70mpg. Done a bunch of upgrades, including the exhaust within days of buying the thing. You're right that it doesn't sound like a Harley. Till you put a decent exhaust on it. Sounds so perfect now that I get compliments from fellow HOG members.  
+I'm short, so the bike is a perfect size for me. I plan to keep it after it's paid off, maybe get a Night Rod as well, in the future. :) http://i.imgur.com/YTxj1wl.jpg 
+The website isn't rendering properly in Chrome. Puts the social media icons right on top of the "Blog" link, and just generally they look like they're an out of place afterthought.
+If you're in the US, look up the Glass-Steagal Act, you don't void your warranty changing a battery.
+9.10.1  I was following an experimental guide from some blog online. 
+Haha, just noticed that last night's pot upgrade borked my config file on the webserver. Lame. 
+My website (www.neonsquirt.com) is in a FreeNAS jail. Got transmission in another. I've got all my family photos and my music collection on there. OwnCloud is in a jail. I had a Minecraft server on there at one point. I've been trying to get Windows installed in a BHyve but I couldn't get it to boot off the install disk image so I set it aside for the time being. Plenty of uses. 
+You could sell those on Etsy. I'd buy one. 
+I know the smell you're referring to. Hasn't been there since the 90's. 
+No it doesn't.
+They don't make paper in Tacoma anymore, haven't in a LONG time. All our paper is made in China now.  
+There is a rendering plant down there, but you get two blocks away from it and you can't smell it anymore. That's some serious funk!
+Only ever smelled the oil refinery. Oil type smell. 
+I used to work in the Port of Tacoma. Worst job ever. 
+Why not open source the app so we can sideload it?
+Hehehe, awesome!
+Which is really weird to me. The EU wants them to give a ton of money to someone that doesn't think they should get it. Ireland should just take it and donate it to charity as a big FU to the EU. 
+They said the same thing about Mopar muscle cars in the late 70's. Time proved them wrong. 
+Some vehicles go up in value when they get discontinued. Many at least hold an unnaturally high value afterwards. Like the Subaru Baja. Been gone for like 10 years. Still fetching full original price used with near 100k miles.  Or the Hummer H1. Or the Toyota Supra. Plenty of examples, always unique niche vehicles that didn't really sell high enough numbers to stick around, but those who bought them REALLY wanted them. 
+Anker PowerLine+ Lightning Cable (3ft) Durable and Fast Charging Cable [Kevlar Fiber & Double Braided Nylon] for iPhone, iPad and More https://www.amazon.com/dp/B0177MJ2GQ/ref=cm_sw_r_cp_api_bRNWxbFW0138Z  
+These. Kevlar braided. $15. Very heavy duty. 
+Guess I'll be buying my night rod used, in a couple years. Their loss. 
+I wonder if they could do the gloss black coating on those like they do on the "space black" stainless steel Apple Watches. Either way, this paint job looks just as smooth and glossy as one of those watches. I like it a lot. This would be a great vehicle for someone that lives in the rust belt. Salt won't destroy this car. 
+I do this all the time. Similar with parallel parking. The mini just fits into impossibly small spots. 
+Who wouldn't want better stuff? I just want better $200-$300 chromebooks. Not Chromebooks at the price of a MacBook. 
+What's worse is there are many chromebooks that sell for north of $500. Some over $1000!
+It's my end goal. Ditch the phone. Just use the watch. This next phone won't have a headphone jack, so we're all getting one step closer to wireless headsets full time. I'll tether from the watch to an iPad mini when I want to do email or web. 
+The motion coprocessor isn't built into the CPU on the 6. It's a separate chip. So it's not powered up when the phone is at rest. They certainly could do it, but the reasoning behind not doing it is sound. 
+I've got quite a few in there. Can't wait till Wunderground and Overcast get updated to properly support wOS3.  http://i.imgur.com/L6VK4nu.jpg 
+And SE. The 6 doesn't have the motion coprocessor built into the SOC. 
+I got the 4 lines of 10gb each for $120 plan. I get free tethering, up to 5gb/line right now. And I can even turn off Binge-On without having to pay $25/month to do it. So take that $160 for 4 lines on the One Plan, and add $15 and $25 to it. Ludicrous. 
+Shame I can't at least vote from the US. I love what they did with the Street 500 for Spider Gwen (never heard of her before). Very cool looking Street. 
+I've encountered that as well. It was a LONG time ago though. I think I was watching the iPhone 6 keynote when I went over. And yeah, my internet may as well have been turned off. I couldn't do ANYTHING. maybe they've gotten better at throttling since then. But still. Today's internet is not meant to be used at sub megabit speeds. 
+It was a test, to see if you were pedantic. 
+Nobody dialed into the web at 300. We were all 33.2k or better by then. The fact is, they're crippling this feature to get an additional $15 out of us for a feature that was already included on the previous lower priced plans. 
+They're taking away tethering, locking it down to a totally unusable 2G speed. Seriously? That's what, 128kb at best? Essentially old school dialup speeds. Man this "deal" really sucks. 
+Backed it, getting both boards. Always been a big fan of his stuff. Got a Teensy 3.0 in my motorcycle, reading an NFC keyfob as an ignition interlock. Overkill for the job, but it's so cheap. 
+Here are some shots of the nicks and scratches on mine. Have had it for over a year now.   
+http://i.imgur.com/0jRqv9r.jpg  
+http://i.imgur.com/4odlxmq.jpg  
+http://i.imgur.com/Bb2ENv6.jpg 
+Upvoted the post, but this doesn't really belong in the Jill Stein subreddit. It's not about Jill Stein. Maybe /r/HillaryForPrison would be a better fit. 
+I'm picturing how you'd split it into 3 countries without dividing up the land. Just have 3 different countries all living together. Get rid of states and just have 3 different national governments. You start out in the one you're born into, and can pick a new one every 10 years, or choose to remain in the one you're in. Talk about segregation! The tax free country wouldn't even be allowed onto the roads. The carbon free country would all be in electric vehicles or bikes. Within 50 years most people would realize they're ok with the centrist standard American system. 
+Heh, unlike Brexit, the Texit vote will be going through DNC controlled voting machines. Won't even be close. 
+Or.. they could just moderate and ban the trolls. 
+Nice. I've wanted the blue band to go with my green band. Run half of each band with the sport watch gives you Seahawks colors. :)
+Why would you assume that? I'd assume it'll come down to another female lightning port with a headphone jack beside it. 
+I've be n using a clear case on my Plusses for two years now. I drop it all the time, amazingly this thin little case does the job. 
+Battery life is less, and I don't know what benchmarks you're seeing because the new one went from being a joke in the benchmarks to holding its own again some of the MBPs and definitely the out of date Airs. 
+I picked up one last week too. Love it. Got the m5/8GB/500gb model. Battery life rocks, kids are playing Mincecraft w/mods no problem. Getting used to the keyboard still. Love the touchpad and really love the speakers!
+Don't bother. 
+I finally bit the bullet and unsubbed last week. It really is a wank fest for trolls and CTR shills. 
+I was polled like that. Was like fine, put me down for Trump then. Then went on to indicate I'd vote democrat on pretty much all the other local races. Heh. 
+Yeah, I came from a 150cc Scooter. This bike was just as quiet. I've got the Firebrand Grand Prix on mine. But louder, bit deeper sounding than the V&H. 
+I was just reading about those an hour ago. :) http://i.imgur.com/lqpFbCM.jpg 
+Just make sure you get a Gigabyte.
+Two years old? It came out last summer, July 2015. It was a very very good update at the time. A8 chip, 1GB ram. It was as good as the current iPhones of its day. If you need something better, get an iPhone SE. At only $400 I just went ahead and got three of them for my kids instead of iPods. 
+Can you program? You could write your own driver. The community has gotten together and done it in the past. Apple has a ton of resources to help with the process. 
+Everything but that video card.  
+There was a thread a week ago, when Trump started making all those insane remarks (like the nukes comment), where there were like 20 different people saying this same thing. 
+Yup, don't care and won't miss it. Been Bluetooth only for a long time. 
+That's the elephant in the room with all the pro-life supporters. If you picture a world where abortion is as illegal as drugs, you're looking at a world where people who get an illegal abortion or even attempt one are locked up for it. Just like we currently do to drug addicts or even pot smokers in most states.   
+For the record, I totally don't support this, but I'm pro choice, so of course I don't. 
+You're mostly right. Swap Clinton for Chinese and you've nailed it. 
+It's similar in that super bowls are rigged events. 
+Perhaps that's what it will take to fix this. 
+Their market share is a pile of cheap/free phones that are utter plastic junk. Because their ecosystem is so fractured, devices don't get timely updates, even majorly important security updates.  
+It's peculiar that I say that people who believe in a master race are idiots, and you take that to mean I'm the racist one.
+Well thanks for the suggestions. I'll check them out. Maybe after seeing them I'll have a better frame of reference to go back and re-evaluate TYT. You didn't need to downvote me, we're just having a discussion.
+I think it's great that TYT is a small independent network, and they feel, in real time, the will of their viewers. I saw them try to pivot to HRC and recoil from that like it was the third rail. They seem to be staying on track with the true progressives. 
+VWs have had a vulnerability like this for at least 5 years now. Even on the dark web I've had no luck finding more details. 
+Regarding your home screen. The stock Podcast app sucks. Try Overcast. 
+I have a unique organizational system.  http://i.imgur.com/aCV4xZx.jpg 
+While I feel the same way about him in the past, he's rolled over for Hillary this time around.   
+https://twitter.com/keitholbermann/status/756926893178380288
+I realized that in over a year that I've had a plus, I never killed the battery. So I turned it off about 6 months ago. Less stressing over it. 
+I get this error when trying to check for an update. I filed a big report. You should too.  http://i.imgur.com/40VuSGx.jpg 
+Funny how anytime one claims to be the master race of anything, it's totally compensating for being the lesser one. Whites, PCs, now phones. I'm sure there's more. 
+Why are we down voting this reply? Call him a dumbass, but don't hide the answer. Geeze people. 
+That's what all the rumors are saying. Personally, I think this next phone should be the iPhone 6SS, makes no sense to completely redesign the phone next year, it wouldn't be a 7S, it'd be something new. iPhone X. 

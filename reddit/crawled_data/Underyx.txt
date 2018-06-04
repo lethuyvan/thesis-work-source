@@ -1,0 +1,2369 @@
+It's a bit iffy even when humans are making the decisions in real life.
+Dude...
+Hey, johhnytexas, just a quick heads-up:  
+**alot** is actually spelled **a lot**. You can remember it by **it is one lot, 'a lot'**.  
+Have a nice day!
+Based on the title, I was thinking this could mean a feature where a stronger team or player, specifically in Hearthstone, could decide to 'gift' some sort of advantage to the enemy, such as giving them a card. Now that would be quite interesting.
+Wait what? LMP against marriage equality? Was this always the case?
+Meg raadasul gyakran ismetelt gyik kerdes is.
+😊
+Ah, köszi ¯\_(ツ)_/¯\
+Oh, you replied in the wrong place, I think others might've downvoted you because of that, it's just really confusing when a response like yours appears without context.
+Awesome, thank you so much! (Except for evil snoo.)
+
+As for your question, I'm a Hungarian expat living in Czechia.
+What do you mean? :D
+Alrighty, noted! I joined a meetup.com event that's held at 16-bit, hopefully it won't be as bad with this group, I guess I'll be an insider myself there :D
+Wow, what a comprehensive answer, thank you! I'll be referring to your comment during my entire stay, most likely :D
+
+Cruel of you to mention all the awesome I'm missing out on though, especially the May 19th ones :(
+
+And FYI, it seems that VR Rage is now closed, permanently.
+Nice! That's probably the first suggestion regarding my music question, thank you!
+Oh, no, I meant that for /u/remindmebot :D
+
+No need to worry about it, that not will message me automatically and I'll get back to you here.
+>whenever they place higher than each other
+
+So… every single race?
+!remindme may 12th
+Gotcha. Guess I'll have to root for your team then :D
+Alrighty, good to know! Seems I'll be staying in Ohio City in the first week of my trip to save a couple of bucks, and then move to downtown once the conference starts.
+Great help, thank you! I actually found an Airbnb right next to TableTop, guess I'll just go ahead and book it then (:
+Oh, cool! Seems I'll be going to the Friday one then.
+Huh, that's pretty interesting, to be honest with y'all, don't think I ever saw anything like this in sports leagues. Really appreciate the info on where to get tickets, too, thanks! :D
+Cool, definitely gonna check that one out!
+> cavs will be playing playoff games. schedule not yet released
+
+Oh! So I'm just looking too early, then. Thanks so much for the answers!
+> go see an Indians game
+
+Oh, right, MLB is actually on right now, huh? I should totally do this! I'm checking the schedule on the [MLB website](https://www.mlb.com/indians/schedule/2018-05). How come the same game seems to be dated for three separate days though? Is baseball played with day-long breaks mid-game or something? Should I prefer to go to one specific day of the three?
+Semmi gond. Gyertek akkor ti is külföldre, egész jó így az élet! ¯\\\_(ツ)\_/¯
+So it should be faster is what you're saying?
+Ow, they hurt.
+Négy évente egyszer nézek rá a magyar internetre; ez komoly? Ugye csak viccből van minden lefordítva :D
+Ctrl-F 'suggested sort'
+
+**Edit:** Itt egy screenshot http://i.imgur.com/7c81DJj.png
+Well, thanks for asking! I'm just thinking… if I were crashing a bus like that, surely I'd be panicking too much to try to make funny comments! Don't you think you'd behave in a similar manner?
+It didn't make a square though, which was my second point.
+Huh! Quite ballsy of them to be trying to act funny in such a dangerous situation.
+That's how JPEG compression works, it has much more artifacts near edges (since they're areas with more detail.) Just compare with any other edge on the picture, such as the balloon's.
+
+Also if it really were a rectangular image superimposed on the blown up balloon, why would OP bother to cut out a small square on the bottom left corner of the rectangle?
+Who was the driver saying that to?
+
+**Edit:** Well, to educate later generations and let them learn from my mistakes: I wrote this comment after misreading parent as 
+
+>Guy outside the bus: "Okay... now give it a little gas."
+
+>Driver: "Floors it and forgets the brake pedal exists."
+
+My bad.
+Can you help me out maybe? I have a weird name I have no idea how to spell for English speakers. It's 'Nagy' (which is in Hungarian) and the characters 'gy' refer to something like one softened D letter. You have the same sound in Vladimir, or Djokovic, for instance, but English speakers seem to say these with a hard D so it doesn't help with the explanation. Sometimes the word *during* is said with this soft D but this doesn't really help either, since some say this with a hard D as well, and for these people I really have no idea how to describe the Hungarian *gy*.
+
+So, how do I explain how to say Nagy?
+Just to sink more money in it.
+I've got bad news about your A10nso.
+Yep, in qualifying they didn't use those angles even once, so I'm pretty sure I was right.
+Just theoretically thinking about it or even looking at the preview screens still doesn't give them enough info on how these cams work in an actual broadcast composition.
+I dunno, isn't this the first time the production crew got a chance to control the feeds from the cameras in action? Asking since they probably didn't have a everything set up for broadcast during winter testing. It makes sense that during practice they'd use a more diverse set of angles to properly wrap their head around how they all work and look by the time quali and the actual race starts.
+I knew it as soon as I saw the watermark.
+Oh no! I'm not the author, /u/ku3o is, please direct your appreciation towards him (:
+
+(Find him in this thread a few comments above.)
+I think your assumption that saying just "here's a link to donate" in a press release would cause lots of others to donate is completely baseless. Such press releases end up with miniscule reach compared to stunts like the one they're doing right now. There's a reason you've never seen a "YSK this company donated $1M to this cause, and you should donate too."
+
+Most likely this one Reddit post alone has done more to raise awareness and get people to donate than your suggestion would have.
+So you want to buy a bunch of instances to donate ten cents per instance?
+your crazy 12 letter name
+You're ignoring the fact that the reason they have such a high maximum budget is because they could get it approved by attaching some sort of positive PR benefit.
+
+Since these clicks create value for the company, they actually did raise the maximum budget from what it would've been if whoever came up with the idea was looking to get a simple grant for the cause.
+I don't think letting people have personal preferences is too useful in a programming language. Just imagine if you were allowed to use synonyms of `if` to write the same code. Some people would prefer `when x < 3:`, some would prefer `if x < 3:`, some `is x < 3?:`, and in other code you'd see `in case x < 3:`.
+
+Your argument of the language not making choices on how you write code still applies. But would this add any value while adding tons of confusion and mental effort? I don't think so. My example sounds ridiculous, but I think if historically languages all approached syntax like Python does, a language letting people use arbitrary indentation would sound just as ridiculous.
+What else do you want to base the syntax on? It's literally just a way to let humans understand the instructions for the computer.
+Ah, right, sorry, mine is localized into a currency that I'm not so familiar with, so I just checked how many points I had and it seemed like roughly a point per 5% of dollars spent in the past year.
+But isn't it 5% of dollars spent converted to points, and then 100 points converted into one dollar? Or does that apply only to previous (last year's) purchases?
+
+Cause that would make it a 0.05% loyalty discount.
+There's several seconds of lead up so it's easy to look away (as I did.)
+Well they do say that trusted voice is not 100% accurate, and technically 10% accurate is not 100% ¯\\\_(ツ)\_/¯
+I agree.
+Voice match does reject them 10% of the time, it should work. I'll try your suggestion, thank you! I think it'll take a while to set it for all possible ways to word it, but I guess it should work!
+We have a small room with just a few people. It's sometimes useful for setting alarms (for stuff affecting the whole team,) asking questions relevant to whatever we're talking about, and stuff like that. I guess mostly we just play around with it though. I definitely don't do anything personal with it. I got this Home Mini bundled with my phone, and had no better place to put it since I already had a Home in the only room at my place.
+Glad to hear you're finding Crane useful (:
+Nope, doggo's tongue looks like a ball, confused me too.
+'Tony Hawk', like that skateboarder! I wonder what he's up to these days.
+Since 2.0 is not stable yet, we haven't actually tried Crane with it yet. Not sure if the upgrades API was changed, but I wouldn't be surprised if Crane was actually incompatible.
+We already have a cuckoo internally though :D
+Ah, I see, I understand how that can be confusing; the two features described there are:
+
+- 'start the new image before stopping the old one': this means running the old and new versions parallelly instead of first stopping the old one and after it's stopped, starting the new one (the default behavior of Rancher)
+- 'wait 10 seconds after launching each new container': this is just a really simple way of slowing down the rollout of one service, when upgrading its containers one-by-one
+
+Actually, I did mention rancher-gitlab-deploy in the article, and while I believe it happens to also support these two features, it still lacks plenty of Crane's magic (:
+I don't entirely understand what you mean. the default gitlab runner image is configured per server, and how do you even mean combining it with cattle?
+
+I also don't think I know what you're referring to by 'more control on which container starts first'; Crane doesn't really do anything like that.
+
+GitLab's pipeline success messages are way less rich, not even comparable I'd say:
+
+>foo/bar: Commit 4a41b71d of some-random branch by john.doe succeeded in 210 seconds
+
+I don't even think there's a way to tell if what succeeded was a deployment our just a test run.
+Yeah, somebody mentioned this once, yup :(
+
+We have this theme of naming stuff after birds, and it felt very appropriate to use *crane* for our tool that moves containers around. I guess we should've checked for a name clash first.
+Thanks! I'll go get myself some rain ᕕ( ᐛ )ᕗ
+It's not cancelled, they're making a fifth season.
+To be honest I think this just made it look less horrible.
+As for context, see 
+[Graphics corruption with external monitor on 2017 MBP on 10.13.3](https://www.reddit.com/r/MacOS/comments/7yoowd/graphics_corruption_with_external_monitor_on_2017/) in /r/MacOS.
+Or *the dress*.
+Why did you put emphasis on 'AND'? Wouldn't it sound way better with emphasis on 'THIS'?
+!redditsilver
+!RedditSilver
+Which is something completely different, so the comment really makes no sense.
+> Nippostrongylus brasiliensis from nanopore reads is now out
+
+[Is it region locked or something?](https://i.imgur.com/SPBY1C7.png)
+Also they signed the comic with their name.
+Huh, how do you make a waterfall flow into a plaque?
+It's not just that, the referral code is saved in cookies so even if you go back to buy something days later the affiliate gets several percent of the turnover.
+
+Source: I shilled like a thousand bucks out of reddit like this around 2012.
+It looks like an aspen to me.
+Yeah I understand complaining about the track but why bring sake into this?
+It's way better than minutes of awkward silence. And it's not like they're drawing extra attention to the long wait, everyone's already been watching the stage.
+Agreed wholeheartedly, I just moved to 1password after two years with LastPass.
+Hey, that's exactly 0b1000000001!
+
+Edit: No unexpected factorial pls.
+Never use a pie chart if you're comparing more than two numbers. It becomes impossible to compare the relative size of any two slices.
+/r/notgoodthings
+I've read his biography and while I have no one excerpt to support this, I was left with the impression that he's an amazingly gifted engineer himself, and no one based purely on leadership ability would have been able to achieve what he has with Tesla and SpaceX.
+Hogy őszinte legyek, nagyon magas IQ-d kell hogy legyen, hogy megértsd a másolótésztát.
+És nem nagybetűvel írjuk.
+I'm pretty sure you're the one making the claim that Google is complying with NSA requests, so the burden of proof should lie with you; I was just mentioning why I'm having a hard time believing you.
+
+Either way, I have no cold hard evidence for that readily available, I just heard anecdotes over drinks from Google engineers.
+Okay, what you call 'manipulating me into clicking ads' I call offering me relevant ads instead of annoying disinteresting ones. If I hear you listening to Tycho, and I say, hey, you might like Caribou's music as well, would you consider that to be me 'manipulating you into listening to Caribou'?
+
+And again, do you have any evidence of all this? Or you're basing everything you've said so far on just the possibility that it could be happening?
+Source on that statement? Last I checked they weren't selling any of the data, and were only using it themselves to optimize ads.
+
+And how is this related to the NSA again?
+To the best of my knowledge none of that was happening with Google's consent and they've been actively fighting back ever since that came to light.
+How do you know they send it to the NSA?
+So, I'm quite happy with [how they turned out](https://i.imgur.com/koUwOGC.jpg). Thanks again!
+No wonder, Discord pretty much copied everything from Slack.
+It's Slack.
+Cause I don't care for stupid, low quality content that makes this sub look like Facebook?
+Why are you yelling at me to WATCH this?
+You can check what age Google thinks you are at https://adssettings.google.com/
+What's the point of putting a time comparison video in slow motion.
+Honestly, you're the best, thank you!
+*Way off* or *little different* then? Make up your mind!
+That's my backup plan, but would be vastly less impactful I'd say.
+I wasn't watching last season but I thought people were complaining about too much overtaking in 2016? As if it was impossible to defend, taking the suspense out from fights.
+So are you suggesting that people move to another service? How could any competitor possibly make enough money in the online video market to employ human staff to make these decisions?
+Gotcha, thanks! These two sites look quite useful. And yeah, I'll tone down my hype a bit :D
+>Firstly I don’t think you need your wardrobe to reflect your work
+
+Right. Fair point. I feel like what I described does sound like me as a person, but I definitely should be more open to exploring fashion related to other aspects of myself, too. Real helpful, thank you!
+Oh, don't get me wrong, I wasn't planning on blowing the full budget right away, I was mentioning it in case it would be relevant in how I can experiment and get started. And mostly cause the submission seemed to call for it to be included.
+
+...anyhow, helpful advice! Thanks, sounds good for a start, I'll try to draw some inspiration as per your advice.
+I was thinking I should finally start paying attention to what I'm wearing instead of just randomly putting on T-shirts and hoodies I got from software conferences. I'm 23.
+
+So I'm pretty into futurology, technology, and the like. I was thinking I'd really like futuristic, subtle, minimalistic, geometric stuff. Any pointers where I should start figuring out what style it really is that I'm going for? My budget is I guess a couple thousand bucks for the whole wardrobe.
+I bought one in Czechia with a German package forwarding service. Costed like 4 EUR extra for the shipping.
+!RedditSilver
+/u/rageuk why did you write BCC? Using an obscure, ambiguous ticker, especially when praising Bitcoin Cash, sounds pretty counter-productive :/
+Oh, okay. What's the point of using two separate tickers? I see pretty much every exchange using BCH.
+That sounds cool, but what's Bcc?
+How exactly do you get to that performance chart?
+
+Edit: Ah. Gotta unblock Flash.
+Looking at the scoring pylon, I can see Settel starting P1, Habilton P2, Ticciardo P5, and Aronso in P6, but I don't recognize any of the other drivers. Help?
+You're making it sound like they have an incentive to make others take you seriously.
+Was the Wikipedia article not one of the first results for you?
+
+>Genius (formerly Rap Genius) is a North American digital media company. Originally founded in August 2009 by Tom Lehman, Ilan Zechory, and Mahbod Moghadam, the site allows users to provide annotations and interpretation of song lyrics, news stories, sources, poetry, and documents.
+How about Google at least?
+I'd say crane is a bit smarter, it supports stuff like
+
+- upgrading multiple services simultaneously
+- telling Sentry about releases
+- posting release announcements to Slack
+- and even editing these announcements with the status of the release (released on staging successfully, release in progress on canary, etc.)
+Actually OP got to know about this from NPR.
+I loved this moment. They were leading up to this after minutes of talking about the Retail Credit Company, and i was just like, oh my god, it cannot be, no, don't say they're Equifax... *whaaaat*
+Oh cool, didn't realize making money on referral links is allowed here.
+Have you found anything out? I have the same issue.
+Maybe Czechia though.
+If you add Japanese as a secondary/tertiary language in system preferences, it should default to Japanese kanji.
+No, you're alone.
+He protec, he attac, he knack, but most importantly…
+
+What? *Most importantly what?*
+Care to share the recipe?
+In Czechia, I went to a gaming store to buy my Switch on release day, right when they opened. I ended up being the only person there, for the entire 10 minutes I spent.
+Didn't you ditch yourself? Or am I misremembering?
+Hey, [I've got one from TI5!](https://i.imgur.com/nUuwhdA.jpg) Right on the second line.
+OMG it's Cool Lady!
+Wow, Race the Sun is this old? Anyway, no, this couldn't have been it.
+And that came out recently, and as far as I know isn't downloadable.
+Nope, sorry. I guessed that as well, but apparently, you couldn't shoot in his game.
+For your cake day, I'll tell you: you're right! I actually didn't agree with just saying Un either, but I'm sure it's better than writing Kim.
+That will be way less helpful for people reading this comment in the future when Un might also have died.
+Do you have any research that supports your statement? Because I do have scientific evidence of the opposite, and I already linked the essay which links to my sources.
+> Limit blue light exposure after sunset. This is extremely important to regulate your melatonin levels. If your melatonin is imbalanced you will not get a good night's sleep and forcefully waking up will only harm your health.
+
+You can also take melatonin pills. See https://www.gwern.net/Melatonin
+What are you trying to say with this?
+>doubtful. valve doesnt need to make money from their own games
+
+That's not how a business works.
+
+>cs had been their most successful game/franchise until dota2 by far, and they still gave zero fucks.
+
+**That's not how a business works.**
+
+>its like they're butthurt their most iconic success wasn't made by them
+
+**THAT'S NOT H**
+Vox's video [CNN treats politics like sports — and it’s making us all dumber](https://www.youtube.com/watch?v=4pS4x8hXQ5c) is super relevant here.
+Maybe he lays enigmas.
+Dumbass. Cool, I can call you that from now.
+Pretty dishonest to compare at the end that zcash went for $4000 while Bitcoin was at $1400.
+
+1. It peaked for just a tiny bit and dropped almost immediately to below $100.
+2. The value of one arbitrarily chosen unit doesn't tell you anything about the value anyway. There's ten times less zcash than Bitcoin in circulation, so if they were even just of equal value, zcash would have had to been priced at $14000.
+You're going to see ads anyway. Might as well let them make them relevant ones so they can be useful to you.
+...which is also good for the users.
+Cause they're making a point of coming up with these tricks to demonstrate how they use your data for nice things. Other than that they're not too different from Google, Facebook, et cetera, they're just more... theatrical about it, so you don't need to exercise your imagination to understand how it's good for you when they have your data. Sadly, almost no one actually does that.
+And lo, you still don't feel the urge to provide the unit of measurement to make your comment anything other than 100% pointless.
+3 years? That's probably too much.
+And do you by any chance have a guess at what makes their ad system so valuable?
+Yes, I'm obviously a Google employee begging the five reddit users here who would care to hide their data to give us their search history.
+Is that any different from "Yeah, I took the donut without paying full price, but I did leave a few cents there."?
+I don't know about the first part, but I don't think I'd ever consider "It's ethical if only a few of us are doing it." a valid argument.
+Don't you think it's immoral to use Google without giving them any data in return, if that's their whole business model?
+You should've made mention of mimes to have a whole `mi[klmn]e` collection in your comment.
+*you're
+Yeah, me too. That crush really is something.
+I thought so too, until I checked his comment history.
+I guess people are just not used to this sort of design, so they're calling it bad instead of stopping to think about it. It makes it difficult to select an answer with only your keyboard, but that's not such a big deal, and I doubt most upvoters even made this connection.
+I mean, this isn't the place to argue about this, but I find it unfathomable that you'd be so into this idea that you'd just bring it up as a comment on *this* post based solely on the connection of 'two options.'
+That's not how it works. You can hear that it didn't break yet.
+He was jokingly suggesting that your writing doesn't look like that of a beginner's, so you must have had someone with better English skills type that if
+
+>Although a beginner at English
+
+really is true.
+>A röszkei, tiszasziget határátkelőknél a kilépő olfalon dugó van, erre az index jó szokásához híven annyimagyardolgozikkülföldönözésbe kezd, nem zavartatva magát olyan apróságoktól mint mondjuk pl. földrajz. Ide a Pulitzer díjjal!
+
+>Flair request for [u/polymute](https://www.reddit.com/u/polymute): alternative facts
+
+Elfelejtettél alt accountra váltani?
+
+
+Other people enjoy things different from what you do. There's no rational reason for it. Don't try to understand why, just accept it.
+But she speaks several other languages as well.
+:D
+Do you have proof of that? Do you think you have better data about OnePlus's customers than OnePlus?
+Actually they have [a blog post detailing exactly this](https://labs.spotify.com/2014/02/28/how-to-shuffle-songs/), and how they ended up implementing that fake randomness.
+Yep
+
+**Device information:**
+
+    Relay Version: 8.2.55
+
+    Phone: OnePlus A0001 (OnePlus One)
+    Android Version: 7.1.2 (25)
+    Device (product): A0001 (bacon)
+    Rom: bacon-userdebug 7.1.2 N2G47O efaef1ca37
+
+
+"We're deeply concerned about this."
+>hella expensive
+
+Oh man, are they cereal?
+https://soundcloud.com/m0irai/pepper-grinder-alpha-trailer
+/r/tipofmytongue
+Uh, it is less than half baked in terms of design and usability. I switched to using Plex and am ridiculously happy about it.
+
+cc /u/ThirstyTimmy
+So how do you imagine data stored in the pagefile is addressed?
+Nice, you're getting upvoted and don't even need to argue with people who don't believe this, [unlike me at release](https://www.reddit.com/r/NintendoSwitch/comments/5xbe5a/slug/deh6353). This has been bothering me ever since.
+Other than the publicly cited reasons, I wouldn't be surprised if they wanted to use a different engine that is easier to work with to cost them less man-hours.
+But this time the IP is way more valuable than when the first game came out. And there's also justification for including that in the price; the developers most likely had to pay a hefty licensing fee to be able to release the game.
+I think you're not really making an effort to try and imagine how Sessions would've felt if that really was a casual encounter. Or vastly overestimating the human mind. Can you list the last three times you had oatmeal?
+>You'd expect if you were buying the ROM and emulator from Nintendo you'd be getting the game they originally sold on their hardware not some randomly dumped ROM.
+
+In actuality though, I, along with I bet at least 99% of players, would not care _at all_ if all bits in memory were matching the original. I'd be much more focused on the game.
+Well, maybe this one was less memorable? Is that somehow out of the question?
+There were only 22 seconds of content at the end that he couldn't have recorded before the announcement. It's not *that* impressive.
+Because they showed the copyright notices for the entire 25 minute segment after the Mario trailer. The Unreal notice was probably there cause of Rocket League.
+While everyone is distracted, they also sneakily uploaded a [Sonic Forces](https://www.youtube.com/watch?v=9tDMLXn99P4) trailer.
+While everyone is distracted, they also sneakily uploaded a [Sonic Forces](https://www.youtube.com/watch?v=9tDMLXn99P4) trailer.
+Well that's a pretty groundbreaking innovation for microtransactions.
+Okay!
+I wouldn't normally feed you, but a comparison of the Wii U's and the Switch's reception is evidence that pretty directly contradicts your premise.
+MapleHamwich doesn't have all day for this crap, Microsoft should've went for the quick pitch.
+Nope, they only said 'World Premiere' before that one.
+lol, closed captioning just did this http://i.imgur.com/1UnrvMH.jpg
+Phrasing it like a law of physics sounds cute, but it doesn't make this true.
+Except that it's fun to get excited.
+I mean the switch that has fun games instead of cinematic ones.
+Yesss, finally something that made this worth watching.
+Kiveve a Nintendo.
+The longest development is labeled that the answer is 'below' and 'deep down' but I scrolled to the very bottom and the answer wasn't in the sheet?
+
+^^/s
+Hey, that was useful :(
+It's not about lying. They were probably just less likely to stop and respond to pollsters.
+>there
+
+Where?
+Seems like most people actually don't understand why they themselves hate it.
+
+It's because they added a blogging platform on forbes.com. They let practically anyone publish their own blog there. When you do that, you end up with crap blog posts — these posts get shared cause of their low quality or polarized views, and people on reddit think that Forbes wrote them, so they hate on Forbes, which is sorta like saying reddit is stupid because of a post of one user.
+The wording sounds silly, but I guess the above commenter's point was that the incentive is to make one good game that sells well, instead of a hundred crap titles that net $200 each.
+[Clueyness](http://waitbutwhy.com/2016/05/clueyness-a-weird-kind-of-sad.html) is a word that describes something like this pain.
+POCHINKI
+I said 'they' since I didn't know the dev's gender.
+
+Either way, lack of resources doesn't give someone immunity from criticism of the product they're selling.
+Yeah, they added some shadows and pretty colors. Everything else is as bad as before.
+You were just drawing that line of what's useful enough at an arbitrary point with no explanation. I'd consider both arguments just as bad as the other.
+>Android works just fine without them so why not?
+
+That argument is like saying 'the screen works fine without Android, so why not keep only the bootloader?'
+Ooh, I see, thanks!
+I don't think there really are much better options (we all use PyCharm or a regular text editor at my company) but the following exist:
+
+- [Wing](http://wingware.com/) — They're Python specific, but I never even saw a reason to try it out
+- [Visual Studio](https://www.visualstudio.com/vs/) — Microsoft's huuuuge IDE, designed mainly for other, more enterprise-y languages, but seems to be catching up on Python as well recently. Not too impressed though.
+- [Visual Studio Code](https://code.visualstudio.com/) — A lightweight text editor that has powerful tools (including an integrated debugger) regardless, and is under very swift development. I'm actually seeing myself use it fairly often even on large projects.
+- With the proper configuration/plugins, you can be pretty productive with any other reasonable text editor: Atom and Sublime Text, or if you're more adventurous, vim and emacs.
+> e.g. k = 0.98 for 95 % confidence
+
+Typo, right?
+I had that until I realized I was holding the controllers totally wrong. Make sure to refer to the illustrations in-game. You need to rotate them 90° from the natural position where you would use your thumbs to press buttons, to be able to make a fist.
+I'd accept allsides.com as the authority on bias.
+http://emoji.octopus.holdings
+
+http://emoji.octopus.holdings/%F0%9F%8D%B4
+[Less so than you'd expect.](https://mjg59.dreamwidth.org/47803.html)
+Good to hear I'm not the only one with this sentiment. Them knowing more about me only ever makes my life better.
+No Game No Life (anime)
+
+Danganronpa (primarily game, secondarily anime)
+Actually, it seems like you're wrong. Reddit post vote progression is surprisingly linear. See this chart of an absolutely non-political (i.e. non-manipulated) post's vote history: https://i.redd.it/f32n42qf2lpy.gif
+
+It also showcases the same sudden drop that you are assuming to be the bot being turned off.
+
+Sourced from [this comment](https://www.reddit.com/r/dataisbeautiful/comments/637yhl/comment/dfs9ysz) which was the first one I found after Googling (I remembered the phenomenon from earlier.)
+And for these minor annoyances, the upside is... nothing.
+>And in fact when i decided to just do it (fire Comey), I said to myself, I said you know, this whole Russia thing with Trump and Russia is a made up story.
+
+I think this is not an admission of what you're positing at all, quite the opposite. To me, it sounds like he was trying to say something like:
+
+>I was always planning to fire Comey, but was hesitant cause of the Russia story and how bad it would've looked. But then I thought, whatever, it's all made up anyway so I don't care.
+Hey, I work at Kiwi.com, and just thought I'd mention that our site might show you some combinations you won't find elsewhere since we offer tickets with non-allied airlines' segments combined. That's usually helps a lot with intercontinental travel.
+And DotA wasn't a dota-like yet, either.
+Most likely they just misread that comment. It's funny, sure, but definitely not worthy of being condescending about.
+Alright, sure, me too.
+But is a typical line of code written or read more times?
+Hi, /u/Googler10!
+
+Here's a friendly request that you stop using all caps in your post titles. Other users of the subreddit find this behavior rather annoying.
+
+Thanks!
+Or private (named something like `<name>/<feature>`) branches
+But those are no more error messages of C than any first party error message would be.
+C doesn't really have error messages. Your code either doesn't even compile or it just crashes at runtime. Also, banks wouldn't use C anyway.
+There is strength in polyglotism for just the sake of it. A whole industry not focused on one kind of programming will be more resilient to changes, just like a species with a diverse gene pool will be more likely to survive a virus.
+No they're geraffes.
+Actually /u/AKA_Wildcard is also active, handling most mod mail, and often clearing up the moderation queue. /u/ZeroShift also handles a considerable part of the mod queue.
+>What is wrong with asking why the charity sets rules for the hats people wear?
+
+That's not what you asked, you asked *why they can* set these rules instead of *why they do*.
+Their comment wasn't about you.
+This is definitely the most hostile comment I've ever upvoted.
+Why, people? This feels so pointless. No one will even remember in two days.
+Actually OP made this post to spam their website.
+Well, I don't think it's working. To me, it just looks mean-spirited and stupid.
+My comment was more about the eloquence with which t_d users typically argue this point. The point itself is pretty obvious and not very debateable.
+Ah, t_d's classic argument.
+And 'digital exploration of interior design' is not referring to the pillow/blanket fort, but to the other subplot of the episode, with 'digital' meant to be read as its 'with fingers' definition.
+I don't like the other answers. Basically it's all about just having demand for it. If you make origami swans and people pay you for them, you basically have the equivalent of a currency already. They could theoretically go to each other and hand over 10 swans for a slice of pizza, or similar.
+
+So, about the question of how people start viewing these things as something with real value: in most cases, with national currencies, it stems from the government backing it. It's very convenient for citizens of a nation to use their national currency, so you can be fairly certain the currency will be used and is a reasonable investment right from the moment a government announces it.
+
+In the case of Bitcoin, interest was driven by the technological innovation. For some people it was more convenient to use Bitcoin than cash, some found it to be a nice way to safeguard money, and others predicted that more people will want to use it later. If people will want to use it later, and you know about this now, you can purchase some Bitcoin and then sell it later at a higher price to those who want to use it. These speculators then just swarm the market, until the currency is mostly just them trading it at varying prices, trying to predict how many other speculators and users will want to get in on Bitcoin in the future.
+Huh, last time I checked they only had ~~5~~ 7!
+
+Edit: Fuck me, I don't know how I ended up writing five.
+Though I do have a slight hunch they intentionally acted naive just to have more/better content for the video. If I remember correctly they dug out some pretty old post to highlight, and they can't get that far without realizing it's a bunch of college kids making fun of people.
+Honestly, probably not, there were thousands of names there, and I wasn't saying the most memorable things anyway. I did stick around for basically the whole stream though.
+Whoaaa, I recognize that username, you're the guy from that New Year's Mario marathon stream by MonotoneTim like 5 years ago :O
+Okay.
+No, it's simply just a satire page.
+I can't believe they didn't realize that the Christian Moms Facebook page is satire.
+Yes, people use Gnome.
+It's just three people. Other than the trolls, no one really has anything to add to this post. Don't worry.
+How about after 5 months?
+A whole mug's worth of alcohol sticking on a cat when they step into a puddle is a bug.
+Which makes theirs the correct approach.
+Thanks for the in-depth response, /u/sun_wolf!
+
+To be perfectly honest, I can't justify spending this time to research the topic in much more detail. I, however, know very well the state of mind when you're skeptical about everything in relation to someone/something based on their history, and I understand your viewpoint a lot better now.
+
+Thankfully, my opinion on the matter is absolutely inconsequential, so I'm comfortable with just leaving it at that and not leaning either way.
+
+On that note, I'm still very much against discrediting Politifact based on OP's blurb, taken out of context, which well over a hundred people seem to be taking part in in this thread.
+Well, it's still a big misrepresentation of Politifact's analysis.
+
+Anyway, if you have any further information about this $400MM dispute I'm willing to go off topic and go over it.
+Sure thing! '1 in 4 is' just sounded weird and incorrect to me so I went and checked. Turns out actually we both were wrong ¯\\\_(ツ)\_/¯
+In reality though, their argument's basis is not this, but what's described in the next sentence, cropped off from OP's screenshot:
+
+>Iran had a legitimate claim to the money, as the United States owed it to Iran as part of a resolution to a decades-long financial dispute.
+
+So it was the repayment of some sort of debt that was going to be due either way. Just delaying that really sounds somewhat different from ransom, especially since the resolution was already agreed upon. So the claim is somewhere between true and false.
+Isn't the point of this to just point out there's more homeless women that one would assume? I would've assumed like 1 in 10 or something.
+[You're wrong.](http://english.stackexchange.com/a/64581)
+Can you link me to any flexible ticket program that doesn't require you to announce what flight you're taking 24 hours in advance and that allows you to select full flights?
+This is not the full story. Checking in is a thing because of the no-shows who don't tell the airline that they're not going after all. This is why they bump passengers at the gate and not earlier - they need to close check-in to know how many passengers they actually have ready to board.
+Yes, that's correct.
+But then look at the [actual chart](https://i.underyx.me/2017-04-12T13-14-18.qipwn.png)
+>Their stock is down by a good margin.
+
+No it isn't. Google 'UAL stock' and check the 1mo tab.
+I think there was a lot of misunderstanding here, I work in the industry and have already known about these shenanigans. In that comment I was trying to refute the suggestion that involuntary deplaning is profitable, not that overbooking is profitable.
+
+Thanks, anyway.
+There is indeed no refund for no-shows. So if you have 100 seats and expect one person to miss their flight on average, you can just sell 101 tickets to have 1% more revenue. This translates to an even larger increase in profits, since this last, no-show passenger has virtually no expenses associated with them (you don't pay for extra fuel, staff time, per-passenger fees, etc.)
+How would they make more money like this? They don't just refuse to take the passenger, ever. They give them a seat of the same value and some extra money, too.
+It it really causes more problems than the profit it brings, why do you think airlines are doing it?
+No, the reason they overbook is all the no-shows. Their goal with overbooking is not exactly to pay for someone to be removed from the plane. They don't like to do that either.
+Be wary of drawing any actual conclusions off of this. Not only is your sample size really small here, but there also are probably tons of other things that could be causing the change after noon.
+Also 4,650 vehicles in transit.
+
+Their goal for the first two quarters has been set to 47,000-50,000 deliveries. Looking pretty good.
+Jonathan Blow, too.
+So to clarify, your only problem with this discussion is the wording?
+I've seen some double taxation protection agreement between Hungary and Czechia, I hope that covers this case. Otherwise: crap.
+
+Thanks for the answer, I guess I'll call NAV for advice then. I was hoping I could skip that :(
+The article says
+
+>The claims of Russian kompromat on Trump were “credible,” the CIA believed.
+
+Your title says
+
+>The CIA confirmed to BBC foreign correspondent that there are MULTIPLE sex tapes of Trump
+
+…
+
+Do you think this is acceptable /u/username3? Get out of here.
+I might've been unclear. You can absolutely have better design, but it won't be 'out-designing', i.e. you won't beat Google on the basis of your better design.
+
+Glympse didn't really have anything unique that would've justified an acquisition. It's not like they had a unique product (especially not a hardware product) like Nest, they had no valuable data like Waze, all they had was something no one else really bothered to implement at the time, really.
+>Sorry Ted, looks like our improvements budget has been cut. You're going to have to write less code this quarter.
+I work at a Czech tech company. I've heard several people at least say it before. Most say just 'Czech,' though.
+You don't just out-design Google with a competing app. They had it coming either way, which makes it smart that they didn't put more effort into their app.
+Except you were saying 'fuck pycharm,' which is not something a normal person says if their only problem is that they do something differently than 99% of users and their way isn't the default.
+
+So I guess everyone wrongly assumed you *must* have something more interesting to say if we ask you to elaborate.
+But it's dropping way slower than the chart makes it seem like. You're just being dishonest here, regardless of your point.
+Start the axis at 0% and end it at 100% to make this chart actually useful instead of just unnecessarily scary.
+I'm pretty new myself, and can't really accept the responsibility of introducing someone to a way to lose their fortune. If you're interested, have a look around /r/stocks, or /r/wallstreetbets.
+Let's assume for a second that we believe your conspiracy theory. What then makes you think that these are the last few bugs in the client and it will be 'rock solid' soon?
+This is good for Bitcoin!
+In case anyone is interested in the details, origin, and resolution of the bug, it's discussed over here: https://github.com/BitcoinUnlimited/BitcoinUnlimited/issues/386
+Tim Hortons, dark roast, they admit it's shitty, yadda yadda
+Changing the dimensions would probably not be very good for the accessory ecosystem, especially the joy-cons, which I think they want to reach iconic status (like all their other home console controllers.)
+I haven't seen any evidence of brigading. Have you?
+You see, it's easy for you to say you can separate the content from the political views if you agree with them, but what we're doing is no different than /r/therightboycott on the other side, where they have a mile long list of people to boycott for saying liberal things.
+Are you suggesting that Jon's statements during that 2 hour stream were jokes?
+That... does sound a bit familiar. Maybe I misremembered him saying he doesn't want to get political on the JonTron channel?
+No, he didn't get into politics until very recently, and only on Twitter. In his latest video he even said he doesn't want to deal with politics at all.
+Naw, that would be cheating.
+>IAL 
+
+I a lawyer? Or I am lawyer?
+Well, that didn't work. +1 for the gold though.
+Yes.
+No.
+Except maybe if you can get bigger, brighter, crisper picture in some way 🤔
+Just like the VR ship had sailed when the Virtual Boy didn't turn out to be that great?
+There's a chance it will be a weird thing to say in the future as well.
+>Don't forget DL-6!
+What DD did you have?
+So maybe if you buy all Switch games, and play them for just the right amounts of hours, maybe you'll end up being able to hack your save files off of the Switch?
+> Nintendo may be in trouble and that this is their last breath to try and regain a grasp on the market 
+
+They have $2.3 billion in cash.
+>The individual will primarily always be concerned with themselves, it's up to the government to prioritise the collective good.
+
+I've asked this elsewhere in this thread but I feel like the question is actually more appropriate re: the quoted part.
+
+I take your statement to mean that we agree that Trump is also someone who is mainly concerned with themselves and will take advantage of tax loopholes if given the chance.
+
+Having agreed on this, do you think Trump can be trusted to close loopholes that he and his associates can make money off of? And if you do, why?
+Do you trust Trump to work towards closing the loopholes he himself takes advantage of?
+It shouldn't be this controversial to denounce those who mindlessly argue these bullshit arguments.
+>>That's not a feature you'd factor into the hardware's price.
+
+>why not? thats literally a feature
+
+I'm saying it's not a feature **you factor into the hardware's price**.
+
+>battery life still well over 60+ hours
+
+One comes with a battery, the other doesn't. That's a hardware difference that explains some of the cost.
+
+> still much cheaper than joycons
+
+I thought all this time we were arguing about the pro controller. The joycons are actually two controllers, so it's not really fair to compare it to one Steam Controller.
+>steam controller does in fact have HD haptic feedback
+
+I dunno, when I turn on rumble on mine, it's just the two touchpads that do some screeching noise instead of actually vibrating.
+
+>its also full rebindable, is able to load and unload contoller profiles via cloud
+
+That's not a feature you'd factor into the hardware's price.
+
+>battery life has also been reported to last 60+ hours.
+
+But it doesn't even have a battery. You supply your own.
+
+>who the fuck cares about NFC readers?
+
+Mostly people who use Amiibos.
+
+Also, from your comment above:
+
+>its like 40 bucks
+
+If you consider 50 bucks to be 'like 40', then yes. But I vote we just keep calling it 50 bucks.
+I don't really see myself playing them often.  There's basketball, hockey, and a fighting game where you have to fully cut the other player out to win.
+You can try parental controls, it should have playtime reports.
+Yeah, it's so difficult to remove I thought mine was broken or that I had broken it when I first tried to take it off.
+In the main 'story' mode it has 3 worlds with 15 levels each. Then it has some (maybe half as many) bonus levels with 4 characters to control, and three 1v1/2v2 minigames.
+Yeah, I know.
+
+I feel a bit like this was a deliberate strategy from Trump and co. since right after the elections there was a lot of talk about these 'blatant lies' websites and how their effect favored the Republican party. These were commonly referred to as 'fake news', but then Trump started calling everything else fake news. This totally murkied up the definition, made the word sound meaningless to most (that's the power of semantic satiation), and made people sick of hearing the term over and over again, thus totally nullifying the opposition's arguments.
+
+It's scary that manipulating culture like this seems to be more effective than providing real arguments.
+I think he meant 'fake news' in the sense of 'publication that makes factual claims they know to be false to get ad views and/or sway political opinion', like the ones we saw before the election.
+If they copy-paste something from the FreeBSD kernel's source, then they need to state they took something from the FreeBSD kernel, simple as that.
+That's not what the screenshot says at all. This is just a copyright notice that some part of the FreeBSD kernel is present in one way or another in the Switch. Not necessarily used by the operating system itself.
+
+They'd have to put up this notice even if they just copy-pasted ten lines of code from FreeBSD for use in their own software.
+We don't know which country you're from though.
+Yep, I felt the same way. Also, cause of Usami magically summoning a cow right at the start.
+I bought the Switch today. Saw the hero announcement video multiple times on reddit, never even cared enough to take precious time from Zelda to watch it.
+Novelty?
+Your article's second screenshot's text says 'enter the 12 digits'.
+A PSA that the Switch falls over if you push it in tabletop mode?
+Alright, fair enough.
+But it seemed like it should take just one second to put it back, and you're already holding the switch anyway when it comes off.
+How would they? I'd imagine that when it comes off it makes a huge \*SNAP* sound, the kind that makes your heart skip a beat.
+How much is the 3DS battery life?
+Because they weren't in any particular order.
+But the actual proper way to format/markup this list of games is neither having five paragraphs, nor one paragraph with line breaks—instead, it's using list syntax:
+
+- Zelda (duh)
+- Fast Racing RMX
+- Snipperclips
+- Bomberman R
+- 1, 2 Switch
+>supper fantastic
+
+That's a weird phrase but I guess dinner is pretty great so I get where you're coming from.
+And according to a vague memory of mine of some podcast I listened to, lost luggage is also auctioned off in Atlanta.
+The key difference, I think, is that:
+
+1. The Nintendo Switch can't be considered unfinished by any means. It ships without some unimplemented extra features (browser, virtual console) which aren't an integral part of it at all. I've never used either on the Wii, for instance.
+2. Nintendo is a reputable, and mature company, unlike indies with early access titles. They have billions of dollars in cash reserves. There's zero risk of them not being able to deliver something they promise to (and I can't remember a precedent for this from them, either.)
+If that's true, no one will buy it until the software is there, right? So who cares? How is that bad?
+Even if we ignore all the launch titles, what would be bad about releasing a lump of silicon? Who cares, then?
+> The entire online system is unfinished
+
+That's not hardware.
+
+> third parties seem to only have had three months or so to develop games 
+
+That's not hardware either.
+
+Unless there actually is a problem with the hardware, I see no reason to delay its release.
+Good news! A [press release today](http://kotaku.com/nintendo-switch-will-not-have-virtual-console-at-launch-1792668183) confirmed Fast RMX (along with Shovel Knight) to be a launch title.
+Accidental ad clicks however are way less profitable.
+Sorry, I wasn't that interested in the game so I never actually tracked down the source before parroting this rumor. Now after a bit of searching around, all I could find is a few mentions of this on Reddit and NeoGAF.
+>But Nintendo is very conservative when it comes to loss leading. They've apparently never sold a system at a loss.
+
+I believe when they dropped the price of the 3DS they said it'd take a year or so of manufacturing pipeline optimizations until they could be selling at a profit.
+The Fast RMX developers said they were ready to launch as soon as the eShop opens. Since there are games in your list above that are digital only, Fast RMX might very well launch on March 3.
+Huh, I had a complete Berenstæin bears moment here. Sorry about that.
+But no one's interested in it. ~~Also, you spelled Saturo wrong.~~
+I just found this post after searching for mentions of Kiwi.com, the company I work at. Just FYI, we do protect connection flights we sell, see here: https://www.kiwi.com/en/pages/guarantee
+Nope, just no tests.
+http://i.imgur.com/5kwREMk.gifv
+Disgusting! For God's sake, you're such a sick human being. It's spelled 'wasting'!
+Especially since these codes are all Nintendo's, so then it would be a Nintendo NNX-001, or 'Nintendo Nintendo Nintendo X'.
+Hey, /u/GoogleAndroidWearCM, just one note for later: reddit automatically marks comments and posts that use URL shorteners as spam, so all four of your comments which linked through goo.gl were invisible to everyone else until now (I've manually approved them.)
+Yep, we will do that, once the first OTAs are released.
+We will once OTAs actually start rolling out (:
+Sure, but they had no reason to.
+Thanks for doing this <3
+But they're still the best in the market, right?
+> Denuvo can't even secure their own website ?
+
+Huh? Are they known for not being able to secure things?
+*bourbon
+What PR disaster? I only ever saw /r/games complaining.
+And now you broke my joke :(
+Does that mean they are obsessed with faces? I thought that was /r/pareidolia.
+Well, that's not really new at all. I'm pretty sure anti-tamper refers to the way they're trying to prevent people from patching all of this logic out, bypassing the check for an auth ticket.
+1. Most players around that level are not Miracle or anyone you'd recognize.
+2. You might think that but I assure you you'd get bored of it quick.
+
+And even then, this would just split the matchmaking queues into half again, causing even higher queue times.
+Yeah, so spoiled, taking the refund they were offered for not receiving the game. So typical of Nintendo players, they always take the refunds.
+Also, Android won't autoopen the login pages of public wifi networks.
+There was a pretty funny comment by an 'oblivious' commenter who had thought Trump had been promising a muslim *band* all along.
+
+Edit: Oh, and it was followed up by band names puns, most of which could've been considered offensive.
+Well that's not what I was looking for though. I played through Human Resource Machine but it just felt a bit boring and shallow to me.
+
+TIS-100 on the other hand had amazing puzzles that really made me think, and the whole backstory with the fictitious assembly language was just awesome.
+
+Anyway, I'm not saying that TIS-100 is absolutely, objectively better, or anything. It's just that Human Resource Machine is not 'far preferable'.
+Well, I had fun with it. It's an assembly language that's specifically designed to be fun to work with.
+>far preferable to TIS-100 for a variety of reasons. 
+
+Unless you're a software engineer.
+These pages are just their blogging platform. It's not journalism.
+I bought a 240 GB OCZ Vector 150 back in 2014 for my gaming PC, and it died a month ago. I've RMA'd it and was given a 240 GB Toshiba OCZ TL100 as a replacement.
+
+As far as I can tell from online benchmarks this is a huge downgrade. (I haven't had a chance to actually try it out yet.) Is my assumption correct? Can I do anything about it? (If that's relevant, the retailer is in Hungary.)
+Game developers seem to be patching Denuvo out around 6-12 months after release, though.
+Where do you think the money you 'save' comes from when you help people buy an erroneously priced ticket? Is this not reflected in the airlines' later pricing, making other tickets more expensive?
+How do you recommend getting into the series for those without a 3DS?
+See? It only matters
+
+>if you want a new console that can be portable with great exclusives
+Does that actually make them worse than the Switch?
+You'll still have to pay your home country's VAT on it which is what's bumping it over 300 euros in the first place.
+Well, I don't see it like that. Must be my colorblindness. I guess I'll have keep subreddit styling disabled :(
+Hm, unlikely, but is there something wrong specifically with my setup then?
+
+I have [blue for visited and dark purple for unvisited](https://i.underyx.me/2017-01-15T10-59-47.ascxr.png). Compare the same posts with styling off [which has the opposite color scheme](https://i.underyx.me/2017-01-15T11-01-19.qei7x.png).
+¯\\\_(ツ)_/¯
+Oh. Well that's not bias, that's just your opinion then.
+> Okay, this might be biased
+
+Why are you biased? When people are, they usually share the reason for context.
+But the mechanics themselves are not really new though.
+Confirmed!
+You can't edit post titles on reddit.
+By now, I'm used to redditors not reading the article and jumping straight to the comments, but people not even reading the title is new to me.
+>Consistent? It's not as if people have iPhones and Androids at the same time.
+
+Those are not the whole world you know. I use play.spotify.com, a Windows PC, a MacBook, and an Android phone. Spotify's design is consistent across all four and I couldn't be happier about that.
+I think [Airbitz](https://play.google.com/store/apps/details?id=com.airbitz&hl=en) is pretty good.
+Shouldn't this resistance you're speaking of be visible in the order book? I don't really see anything at $1163 [on GDAX](https://i.underyx.me/2017-01-04T18-55-36.bkqth.png).
+No, it's all the Internet's fault.
+That's not marketing talk. It's closer to how someone with a good understanding of the economy talks, which I don't think is true for most in marketing.
+If I diagnosed every single person with cancer I wouldn't call myself 'too good of a doctor'.
+How is that 'being good at pattern recognition'?
+Well that was totally unfair cause this year I finally really was the better underyx :(
+Ah, there it is, I didn't notice that.
+Yeah, I don't have an issue with taking the award seriously. But the category? Come on, it's completely random.
+Are we really taking 'best use of a farm animal' this seriously?
+But that's completely different, so I guess /u/AudioRejectz was full of shit up there with this quote.
+
+Paraphrasing would be acceptable but they made it sound worse, and then complained specifically about the phrasing with '[this] dosnt sound like […]'.
+That seems to me exactly the same as on the archive.is link.
+Thanks. That quote doesn't appear though anywhere here so I'll just assume it's fake. The actual announcement really is phrased in a way that could sort of be taken the wrong way, but there's no telling whether it's due to maliciously cautious wording, or just a plain old poor choice of words.
+Can you link a source for that quote?
+Traded with /u/KBragg87
+
+My Jackbox Party Pack 2 + Rust + Stardew Valley  
+for their Hyper Light Drifter + D4  
+I went first
+
+See https://www.reddit.com/r/indiegameswap/comments/5kkcg3/h_stardew_valley_jackbox_party_pack_2_skullgirls/dbopips/
+That's alright. I'm also interested in Hyper Light Drifter. In the meantime I've also wrote up a full list here: https://barter.vg/u/1e99/t/
+
+Would you mind picking whatever would make Hyper Light Drifter and/or Witcher 3 work for you?
+Alright, how about jackbox 2 + stardew for witcher 3?
+The only one I'm interested in is Remember Me but it seems less valuable than either of my three, so I'll hold out for something better :(
+No worries, alright.
+Sure, if I count with the all-time low prices according to ITAD:
+
+ - Stardew: 9.37 EUR
+ - Jackbox: 8.04 EUR
+ - Rust: 6.45 EUR
+ - CoH 2: 3.24 EUR
+
+So around 27 EUR. How about [Stephen's Sausage Roll](http://store.steampowered.com/app/353540) + [Card City Nights](http://store.steampowered.com/app/271820) as gifts which are ~26 EUR?
+Nope, sorry.
+No worries, I have everything interesting from that list though already.
+
+Thanks anyway!
+Hm, Company of Heroes 2 for mini metro sounds okay, but that's the only trade I see working out. Deal?
+Sorry, I bought the Square Enix Christmas bundle as well :D
+Just me for now. I'm part of the coala.io maintainer team, we have a friend at GL and we're planning to move there from GH. That friend brought it up in our gitter.im chatroom when discussing/planning the move. I have no patience to find the specific lines of discussion, it was at least a month ago.
+They don't have usage limits right now for CI but they're going to introduce them soon, for everyone. LineageOS would almost certainly be nicely asked to stop building all those nightlies, and the introduction of the limits might be expedited. 
+Oh, I thought you linked that because of the fact that GitHub didn't shut them down. My bad.
+1. Source code hosting and building images are very different and the benefit for providing it for free to OSS is not the same.
+2. The case you linked was about an issue about how GitHub *wasn't able to keep providing the service for free*. See the resolution of this issue, [CocoaPods ended up having to largely reduce their usage of GitHub](http://blog.cocoapods.org/Master-Spec-Repo-Rate-Limiting-Post-Mortem/).
+3. In this case GitHub is saying that 5 CPUs were in full use for this project, which had to be changed. At >540 hours per day, LineageOS would need to use at least 22 CPUs concurrently.
+https://help.github.com/articles/what-is-github-pages/
+I'm very skeptical that any provider would just give away 540 CPU hours per day (that's 80 minutes per 403 devices) to them.
+
+'Get hosting and running for free' works for open source projects when they're a few thousand line long Python libraries, built every few weeks when someone commits, but there's always a disclaimer with usage limits.
+Well of course the problem is not as much _having_ that build system as it is _running_ it.
+>Just have an automated build system
+
+Those are exactly the resources they lack. That, and hosting the images.
+How do you decide what the time limit should be?
+Yay, so that probably means the end of that awkward mascot, Cid, as well!
+No, they were just that nice to each other.
+This model has no front edge though if I recall correctly.
+It was Google, they had a daily challenge I think.
+None of this gives you, commenters, the right to just misrepresent Zuckerberg's/Facebook's statements.
+Come on.
+
+1. *'Facebook is a HUGE influencer'* can be a valid statement even if Facebook is not able to convert Democrats to Republicans or vice versa.
+2. *'Same thing. Either the content on Facebook impacts people or it doesn't.'* Such a false dichotomy. How about neither of those absolutes? It's possible that fake news does not affect the elections while their 'get out the vote' messages demonstrably do. [(source)]( http://www.nature.com/news/facebook-experiment-boosts-us-voter-turnout-1.11401)
+>Mark Zuckerberg: Facebook had literally no effect on the election.
+
+I think he only said that fake news on Facebook had no effect.
+Make sure to pay for two separate VM software licenses as well so that you have further proof that it's actually two people.
+It actually requires two friends to *pay*. 
+Cool, so it's already 95% complete?
+I understand that it seems like a waste of money and resources, but you're being just really unnecessarily hostile to me :(
+Why do people enjoy things that I don't?
+It's down, must have been a mistake. It was a historical low: https://isthereanydeal.com/#/page:game/info?plain=dirtrally
+The podcast 99% Invisible ran a great episode on this called [Unpleasant Design & Hostile Urban Architecture](http://99percentinvisible.org/episode/unpleasant-design-hostile-urban-architecture/). An excerpt:
+
+>Some businesses play classical music as a deterrent, on the theory that kids don’t want to hang out or talk over it. Other sound-based strategies include the use of high-frequency sonic buzz generatorsmeant to be audible only to young people. Housing estates in the UK have also put up pink lighting, aimed to highlight teenage blemishes. In many cases, there is little data to show how well these more unconventional strategies actually work.
+>1) Why aren't user data and user-created content separated? If they are, why did they delete both, and not only the former?
+
+It takes effort to separate them.
+As /u/mynsfwacctlol beautifully put it in /r/trackers:
+
+>I can't really begin to explain how much of a loss this is.
+
+>This was the biggest digital repository of music the world has ever seen. Spotify, iTunes, even Oink in its prime were kittens to what what.cd built.
+
+>I made this analogy in another thread, but it was the digital library of Alexandria for music.
+
+>It inspired me to learn about audio engineering, learn how to program, and most importantly, introduced me to music that changed me in ways I can't even begin to put into one tiny little box.
+
+
+[(source)](https://www.reddit.com/r/trackers/comments/5did4f/its_official_whatcd_is_dead_memorial_thread/da4r2by/)
+How about 'Basics'?
+Yes yes yes! That's it, thanks <3
+Nope, doesn't sound like it :(
+
+Thanks for the guess anyway :D
+Elections are not statistical evidence of how 'good' any one person is.
+It doesn't sound too undemocratic to not give a group more voting power even if they voted to get it.
+Seriously, a 28.6% chance for a Trump win is the closest I've seen said.
+Your country is fucked, y'all.
+Wow, I was very skeptical when opening the comments here, wondering what someone could possibly add to this, but this is actually something that I'm glad was said.
+I do, which is why contrary to you, I didn't actually make generalizations that 'the entire software industry' is doing something. The cross section of companies where Docker is not being adopted and that aren't so enterprise that they're  locked in to Microsoft technology already anyway must be smaller than you make it sound like.
+It's 2016, use Docker.
+*feets per second
+Finally! I always wanted to have a different race for each of my matchmaking ratings!
+I don't get that criticism at all. A mishmash of syntaxes? Let's ignore that this is not actually called a syntax, but even then, how is this any different from any other package manager?
+To them I would respond that the free market is supposed to balance itself out (as it already is sort of doing with Linux being a viable alternative as an OS) and to keep society afloat we need to abide by the rules even when it feels unfair. I feel like for most people going with Linux instead would only be a minor inconvenience and that they do not deserve to ignore the rules for such a marginal gain in quality of life/comfort.
+
+For context, I use macOS on my work laptop, use Linux as my main OS on my PC at home, and I own a Windows 10 license.
+>I can never get the uninstall command right the first time.
+
+How do you manage to do that? I'm fairly sure that you can run just either `brew remove package` or `brew uninstall package` :/
+I disagree. That's not what the original purchaser agrees to when buying the key.
+Ok.
+Even if from an economic standpoint it could make sense, you could also take morality into account.
+Yeah, but the question was _why_?
+You actually have more than one already. Just switch to the discover tab and you'll see [all these different sections](https://i.underyx.me/2016-09-20T20-32-28Z.2LtUY.png), each based on a genre/group of artists. This is the exact same thing as Discover Weekly, just presented in a different format.
+You mean something like
+
+>How could they possibly launder money selling digital goods online?
+
+perhaps?
+I decided to reply to convey that contrary to how you might have been thinking I was 'arguing' just to point out your error, I was actually seeking to be proven wrong to learn more about the topic.
+deleted comment by /u/APeacefulWarrior:
+
+>"For awhile, I thought..." Why are we arguing about this?
+
+---
+
+Because I was wondering if there was something I didn't know about that would make it a reasonable assumption that it's a money laundering operation.
+But as far as I can tell they were only distributing via itch.io and Steam, which should result in just a few regular lump payments.
+> I thought DH was some sort of money laundering operation
+
+How could they possibly launder money selling digital goods online?
+I'm at the final boss of **Paper Mario: TTYD** right now and I can already feel that empty feeling coming up that will settle in once I'm finished with it and am saying goodbye to the charming world and loveable characters of the game.
+
+What should I move on to? I feel like the sort of quirky and sometimes meta humour is a huge part of why I enjoyed **TTYD**, which is the same reason I loved **Undertale**. Related to this, I loved the part where [Premise of Chapter 3](#s "I got to work my way up the rankings in the fighting ring") cause it introduced totally new rules and a different frame to the game. I might be looking for something like this. Other, optional qualities in the game I'm looking for are:
+
+- long main storyline
+- upbeat atmosphere
+- couch-playable
+- not too difficult
+
+Also, probably way too much information for this thread, but I'm tracking games I'm interested in/have finished/etc. here: http://trello.com/b/62mKUE3X/games
+Name one manufacturer who doesn't already provide updates 'up to 24 months' as the OP says.
+If he was anything like me, it went more like
+
+Getting nervous.
+
+Oh God, there are so many people!
+
+...
+
+Wait, it's over?
+I think you got downvoted here because you were arguing against your strawman, not the comment you replied to.
+But also, a lone dude voting for the better candidate, or the lone family that recycles doesn't make a difference either.
+Applause to the Chrome team! This seems like the best possible solution. Got rid of an annoying feature, managed to resist making Chrome more complex, and still provided a way for the few people who want to keep using the feature to turn it back on.
+
+I don't know of a lot of product teams who would check all three boxes.
+>99% appear to be up and running on our servers
+
+This means that 99% of players are connected to the servers, it doesn't say anything about whether the game is actually working for them. This also doesn't include the players who are getting crashes.
+
+Also, there's 190k players in-game now. Sure this number should be growing if issues were that rare.
+>something like 98% of the player can play the game perfectly
+
+Where the hell did you get this number from?
+Tried this just now, GTX 1080, did not help at all.
+18 MB patch just released. Will report back about whether it changes anything.
+
+Edit: Nope, game still practically unplayable, with a GTX 1080. Tried different V-sync and FPS limit values, nothing helps.
+I disagree. I can be done with a newsletter with just having a glance at the sender.
+Goddamn reposts.
+I live in Czechia and love the fact that I don't have deal with the awkwardness of using a multi-word formal name anymore whenever I tell people this.
+I can do this for you, with no need for the extra 200 CZK. Email me the details at bence@underyx.me - my whole life is linked to and from the https://underyx.me domain, so that should be enough to give you peace of mind that I won't just run off with the money.
+
+And by the way, the title makes it sound like you're asking for 200 CZK :D
+
+Edit: Oh, and if you could pay me in bitcoin, it'd be way more convenient for me, but don't worry about it too much.
+Now who in their right mind would do that?
+Your comment is relevant for companies that have trouble taking off. I doubt OP's article included non-established companies in the data.
+Founders probably also make better CEOs than CEOs brought in to fix a company.
+Also, CEOs of successful companies tend to not take too much money out of their company in the form of salary. Stock options and other alternative forms of compensation can amount to a way higher income, and having a reasonable, low salary can help with popularity. Some CEOs actually made a sort of a publicity stunt out of having an annual salary in the $1-$10 range (not a typo). I would assume this is also helps lower taxes a bit.
+[Coala](https://github.com/coala-analyzer/coala) has a very active and welcoming developer community. The project is really easy to work with due to it having very good test coverage - you don't need to worry about breaking anything, because you can just run the tests yourself and have the computer check if everything is still working correctly. Also, the team members are very strict about coding style and standards, which is a good thing, since thorough code reviews are one of the best ways to learn.
+
+And if that wasn't enough, they're specifically keeping a list of tasks that they are saving for newcomers, which should make it really easy to get into contributing.
+Oh no, at this rate you might end up having to pay if you want the full game!
+I was about to invest on Wefunder, but decided to first search Reddit for any discussion about the company. I ended up finding your two comments. The fact that you registered new accounts only to chime in in Legion M threads with obviously fake comments makes me wonder if the company really has an idea about how to work with a community.
+
+Needless to say, I decided against investing.
+Or perhaps they were inspired by Stan's jacket in Monkey Island.
+>a zsűrinek van egy bizonyos ideálja, azt pont nem érdekli őket, hogy másnak mi a szép
+
+Milyen alternativat tudsz elkepzelni? Egy zsuri ami masok velemenye alapjan dont? Egy szavazas ami a botnet berlok velemenye alapjan dont? Egy kiirt nepszavazas?
+Do you have any reason to believe Grindr does not actually delete deleted user accounts? The fact that some (or even if you believe most) services don't does not prove anything.
+What's the point of this comment? I'm genuinely curious.
+No.
+Actually, he's a rather accomplished software engineer and I'm sure his day job and place in the community nets him more than enough attention for him to be desparate for more.
+Exactly, they're trying to keep this group open only for people who are actively buying removed games, which makes perfect sense.
+That's absolutely your fault.
+> So difficult to meet the requirements for that group (85 removed games)...
+
+Well, are you actually collecting removed games? I have 22 apparently and I didn't even know any of them were removed. It would make sense for a collectors' group to only accept people who... collect.
+I bought an SC instead, that worked, FYI.
+SC up as well now! http://eu.evga.com/Products/Product.aspx?pn=08G-P4-6183-KR
+It keeps dropping me back to the shopping cart page after entering my billing address :(
+It keeps dropping me back to the shopping cart page after entering my billing address :(
+For some reason I get dropped back to the shopping cart page though after entering my billing address :(
+Delighted to hear that, you're very welcome! :D
+Damn right! He also had two regular talks — at one of them he was presenting his work on a certain thing [(pretty technical description here)](https://lwn.net/Articles/689548/) that basically no one dared to even try to do since the last substantial (and failed) attempt around 10-15 years ago. It ended up becoming one of the... eh, _the_ main talking point amongst the audience for the rest of the conference, and I think (keynotes excluded) that was the talk with the highest attendance. He gathered quite a following afterwards as well, with a bunch of developers joining him to work on this thing.
+>Why didn't they take the time left to decide winners
+
+Cause that would heavily incentivize players to favor rush strats in the main rounds, and Blizzard doesn't want the meta to be like that.
+…what? How would you even get to that conclusion?
+>level of discourse
+
+Funny, now that you mention this, almost all retorts against OP contained the cheap joke of repeating something from OP's comment. Like the '(gasp!)' and the 'Haha XD' thing.
+Why the hell would you get upvoted, and why is the reply from OP downvoted? You're just bullying OP for no reason whatsoever. Have you never had an urge to correct people who are incorrect about something you like? Even if not, can you really not imagine that there is a person on Earth who is willing to spend their time doing just that?
+
+Why does everyone have to be so hostile in this thread?
+Man, I'm really sorry about these jerks, I totally understand what you're doing and am dumbfounded at how they cannot fathom it. As if none of them ever got into an Android vs. iOS type discussion.
+Alright, close enough I guess.
+
+I've recently moved to Cincinnati, and everyone keeps expressing their astonishment at the Czech 'comming' story. I've never had this reaction anywhere else before.
+Huh, if you don't mind me asking: are you from Cincinnati?
+Alright, close enough I guess.
+
+I've recently moved to the Czech Republic, and everyone keeps misspelling the word 'coming' as 'comming'. I've never seen this mistake anywhere else before.
+Huh, if you don't mind me asking: are you from the Czech Republic?
+You're obviously not Croatian.
+> Added McCree as an AI hero in Practice vs. AI, Play vs. AI, and Custom Game modes
+
+Bot guy is back! 🎉
+Out of the few million games played, right.
+Nope, it was Telia. Non-Cloudflare sites were affected as well and even your link says
+
+>We have identified an issue with an **upstream transit provider**
+
+cc /u/sukosevato
+*Kiwi.com
+The fact that they modify the OS means that it's not what Canonical originally called Ubuntu anymore. It would be akin to a restaurant adding their own flavoring to the coke they sell (say, to make it mesh better with their cuisine) while still calling it Coca Cola on the menu.
+And that's exactly what we're talking about.
+Darn. I don't like these mods.
+>Submissions that are mostly about some other cryptocurrency belong elsewhere. For example, /r/CryptoCurrency is a good place to discuss all cryptocurrencies.
+
+Why is this post allowed?
+>they kinda sucked
+
+I dunno, I found it [pretty entertaining](https://i.imgur.com/wwFFiFk.jpg),
+Wasn't that already possible for a year or maybe even multiple years with Pushbullet, with the added bonus of supporting Windows and Android devices as well?
+I was looking at the different exchanges, and different currency pairs, and it seemed like there's quite an arbitrage potential when huge transactions happen on one and the others take sometimes even minutes to keep up. I was thinking it might be easy to make money by just writing some software that aggregates exchange data, figures out the true value of each currency, and trades automatically trying to exploit these differences.
+
+Now, tell me: why won't this work?
+But... the market cap means two totally separate things for a currency and for a company.
+
+A slightly more meaningful comparison would be the transaction volume of WU and BTC. According to blockchain.info this has been around **$170M/day for BTC** for the past 30 days, while Western Union has had $81.6 billion in consumer-to-consumer transfers[0], which made up 79.21% of their revenue[1], so I guess we can estimate an annual turnover of $103 billion, which comes out to **$282M/day for WU** over the year of 2015. And this isn't a very fair comparison either, since all of WU's transactions are actual transfers, while probably lots of Bitcoin transactions are just currency exchange.
+
+[0]: http://s1.q4cdn.com/568883301/files/doc_financials/2015Annual/2015-Annual-Report.pdf - page 66
+
+[1]: http://s1.q4cdn.com/568883301/files/doc_financials/2015Annual/2015-Annual-Report.pdf - pages 59 & 64
+Thanks! 😇
+I was told [ulovdomov.cz](http://www.ulovdomov.cz/) is the best site for this, if it's still relevant.
+Source? I couldn't find any mention of the quote in the linked article.
+I had my Google account locked when I moved to a new country and the option I needed to use to recover it only showed up in Edge, not Chrome.
+Also, as of Python 3.6, the underscore can be used as a separator in numeric values, to make them more readable:
+
+    >>> 100_000_000 == 100000000
+    True
+
+>transcription system
+
+Not as much of a system as a good stenographer. There was a person typing everything out in real time.
+Oh, the lightning talks are not going to be uploaded?
+That's probably our event: http://www.meetup.com/linode/events/231242495/
+I think it's really sad that you had to preface that with "I'm sorry." to not get dismissed and downvoted immediately.
+Who you replied to wasn't the one asking for advice.
+Gee, thanks! I was really close to buying this bundle, you just saved me from quite a hassle.
+Wait, I thought we were talking about both text and voice comms here. Does HotS have chat then?
+Are there bans and punishments for comms abuse in StarCraft II, Diablo III, and Overwatch?
+Actually, the pattern with Blizzard seems to be that free to play games have communication limited. They have probably found (or just thought) that free users are either more likely to be abusive, or are more sensitive.
+
+Maybe they are afraid that communication would decrease user retention, which is probably one of their most important metrics, since that's how they can make money off of microtransactions. It totally makes sense too, when vou think of it this way, I can imagine people abandoning a game after a really bad experience with abuse, but I can't really imagine someone deciding not to play again just because they can't write whatever they want in chat.
+Aw yeah, thanks for reminding me of Fuel! That's an awesome game.
+It does indeed! I just checked a video and I love
+
+ - How good the copilot is
+ - That it's nearly impossible to win your first races
+ - How wary you need to be of crashing — just spent a while playing GRID 2 and the stuff I can get away with is ridiculous.
+ - The repair game mechanic between stages seems lovely
+ - That the stages are relatively long
+ - That the AI seems to participate in the same reparation metagame as the player, I just saw 'Clutch slipping' as a note next to an AI in the scoreboard.
+ - That there's a whole team management aspect too, where you hire & train staff
+Alright I guess. I normally try to stay away from making such claims if I have no access to any data.
+Reposting this from last week, since I got to the party a bit late:
+
+This probably won't exist, but I'm looking for a racing simulator on the PC with an emphasis on career mode and role playing aspects, preferably with good graphics.
+
+I have no idea why, but the one time I have vague memories of playing one of the Gran Turismo games at a friend's house and being required to get licenses with driving challenges, and having brand choices (even of specific car parts) affect more than just the performance or look of the car, but I'm not so sure about this part. I seem to also recall some really old racing game called N.I.C.E. that I can't even find with Google now, but I also have vague memories of even the clothing you choose somehow being important to your career. Alright, now that I've written this down, it sounds a bit stupid, and my memory might be playing tricks on me, but still.
+
+I also really enjoyed the Need for Speed series from Underground 1 until Carbon, for similar reasons (though being a bit older my preference has shifted away from arcade racing a bit I guess).
+
+Oh, I think I've got what my main issue (and main request) is:
+
+I just want as much of the game to be not racing as possible.
+
+So, anybody got anything like that?
+Most likely they've found or are thinking that people who disable adblock after seeing the dialog bring in more revenue than the people who just leave would have had they not been locked out. Did you have any alternative explanations in mind? I don't really understand your confusion.
+Wearing the same pair right now .-.
+Phew, that's a relief. I've sent it in already so I guess I'm in the clear. Thanks!
+I think Burnout Paradise for instance was pretty novel all around. I don't see any reason why a racing game couldn't be done now which is a bit 'different' in a similar way :(
+What's up with PC racing games? The whole genre feels really barren.
+Why would you post this here instead of just googling it? PayPal charges 3%, Transferwise charges 1% in fees. I can vouch for transferwise, it's really fast and I've saved ~~like 200 USD~~ 403 USD vs banks in fees with them already.
+
+Now you need to pay me back for taking the time to google this for you by using [my referral link](https://transferwise.com/a/188f3f) 😡
+
+Edit: Oh, also, Paypal has crappy currency exchange rates.
+Are they the ones with the old google logo on the bottom?
+Oh, I think I've got what my main issue (and main request) is:
+
+I just want as much of the game to be not racing as possible.
+I actually own it but there's something I can't quite put my finger on that makes the career feel really bland. It might be just that it feels exactly like the DIRT games; all these games sharing the same system for progressing, the same sorts of characters, and tons of other stuff as well might be breaking the illusion of role playing as a driver.
+
+Still, nice suggestion, GRID 2 might be the closest there is to what I've described.
+Oh. It says so right in the first sentence of the article. I didn't even click the link before asking this question. Shame on me, sorry! :(
+This probably won't exist, but I'm looking for a racing simulator on the PC with an emphasis on career mode and role playing aspects, preferably with good graphics.
+
+I have no idea why, but the one time I have vague memories of playing one of the Gran Turismo games at a friend's house and being required to get licenses with driving challenges, and having brand choices (even of specific car parts) affect more than just the performance or look of the car, but I'm not so sure about this part. I seem to also recall some really old racing game called N.I.C.E. that I can't even find with Google now, but I also have vague memories of even the clothing you choose somehow being important to your career. Alright, now that I've written this down, it sounds a bit stupid, and my memory is playing tricks on me, but still.
+
+I also really enjoyed the Need for Speed series from Underground 1 until Carbon, for similar reasons (though being a bit older my preference has shifted away from arcade racing a bit I guess).
+
+So, anybody got anything like that?
+Can I claim a name without owning an Xbox console (i.e. for use with Windows' Xbox Live service?)
+Seems like it's better now. It had some sort of delayed snapping to the slides on the site, but it looks like they disabled that.
+It's near impossible to use with a touchpad on Mac.
+
+/u/wirecats same reply to you.
+Consider it an early cake day present!
+Wow, I don't think I've ever seen website scrolling as broken as the one on the [product site](http://get.google.com/spaces/).
+Fun fact, Discover Weekly is actually exactly the same as Discover, except for the presentation. It's using the same data and algorithms.
+Hey there,
+
+I'm one of the engineers working at Skypicker; just thought I'd mention that I really don't think there's a reason to include us in the 'scummy/scammy third party booking sites' category :)
+
+We don't sell any of those shady hidden city combinations (the ones that go against airline rules, as you described.) Our specialty instead is combining flights of airlines that aren't allied with each other, and are therefore officially 'unsupported' combinations. Now, if you were to book these directly on the airlines' websites, you'd be risking losing the ticket of your second/third flight segments and getting stranded at your transfer airport if you miss the connection because your first flight is delayed. When you book through us instead, we have a sort of an insurance to protect against this; you can just call us from the airport and we'll do everything we can to get you to your destination as soon as possible (for no extra cost, of course).
+
+Oh, and not having to go through booking 3-6 flights yourself on broken airline websites that try to trick you into paying for extra stuff you don't need can be pretty useful as well :D
+Just my experience with buying stuff from outside the EU in mainland Europe. Not 100% sure that this is the case, so I'd suggest you just look into it.
+I'm fairly sure by the way that she will have to declare that upon reentering the UK, and pay UK VAT + possibly import tariffs.
+I don't see how that's that much different from paying $2k a month for access to a bunch of homes around the world.
+This exists: https://www.roam.co/
+He knew it as well.
+That's pretty needlessly offensive phrasing.
+Well, the main goal of the program is to conduct a long term study that will hopefully yield some data about the effect of basic income, being the first study to do so to such an extent. Thereby it will inevitably affect decisions of policymakers around the world, shaping the future of humanity.
+
+I feel like this fits rule #2 which says
+>Submissions must be future focused
+[Moderat - The Fool](https://open.spotify.com/track/3U4KuguRkeLuhsZAl24ik3)
+They are sometimes [hilariously wrong](https://i.imgur.com/wwFFiFk.jpg), too.
+You mean
+
+>Good with your luck book!
+What answer are you expecting? Something like
+>Definitely, everyone working in pharma needs to play this game.
+
+or
+>No, the differences from the real life industry will absolutely ruin it for you.
+
+?
+Czechia, man, get with the times.
+Regardless of cause, vandalizing Wikipedia is never okay. You're just giving the volunteer editors more work.
+Do you guys really don't see why it could be potentially less favorable for a business to be associated with pornography than gambling and violence?
+Hey, Skypicker engineer here.
+
+Just would like to point out that avoiding us would mean missing out on our [guarantee](https://us.skypicker.com/content/guarantee), so if your trip is made up of connecting Ryanair flights, and the first one is delayed causing you to miss your connection, you couldn't hold Ryanair accountable at all and you'd be left stranded at the airport. When booking through Skypicker you can just give us a call and we'll do everything we can to get you to your destination with no extra cost for you.
+
+And about the extras; I'm confident that our CS team can handle requests for extra baggage without any problems :)
+Are you serious?
+
+>The increase in economic activity attributable to the 1984 Games, as represented by job growth, an estimated 5,043 full-time and part-time jobs using our model, appears to have been entirely transitory, however. There is no economic residue that can be identified once the Games left town.
+
+&nbsp;
+
+>the best-case scenario for the Atlanta Games of 1996 is consistent with what we could reasonably expect to find for public investments in general [...] Atlanta spent approximately $63,000 to create a permanent full- or part-time job. To create a permanent full-time job equivalent, past public works programs have spent approximately the same amount of money
+
+&nbsp;
+
+>It is estimated that the overall impact [of the London 2012 Olympics] on the price of properties in host boroughs amounts to £1.4 billion
+
+&nbsp;
+
+>We show that hosting a mega-event increases exports. This effect is statistically robust, permanent and large; trade is over 20% higher for host countries.
+
+&nbsp;
+
+>we find strong evidence [the 2002 Salt Lake City Olympics] increased leisure related industries in the short run and potentially in the long run. However, the results indicate it had no long term impact on trade or total employment.
+
+&nbsp;
+
+>Using a small aggregate macroeconometric model we find evidence to support the view that the Olympics is an event that could successfully boost the economy of the host city by generating benefits that outweigh the preparation cost [...] the impact effects are quite strong during the preparation phase and the year the Games took place, the long-term economic legacy effects appear to be quite modest.
+
+&nbsp;
+
+>there were economic benefits and a more subtle impact on South Korean society, national pride, collective memory and sporting culture
+
+&nbsp;
+
+>[2000 Sydney] Olympics expenditure not funded by Games revenues is modelled as being met by an increase in New South Wales state tax revenues (via a larger revenue base and slightly higher tax rates than would otherwise be the case) and a substantial diversion of government expenditure from non-Olympic to Olympic items. Simulation results indicate that NSW activity is 0.3% higher over the 12-year period due to the Games, but there is little effect on the other states.
+
+None of these suggest that there ever was a negative impact on the economy. We also established that based on the data I linked in my comment, the more developed a country is the lesser the effect is, which is definitely corroborated by these studies.
+If you read the document I linked, it says that actually developing countries were routinely seeing a higher net positive effect than developed ones. Hungary is kind of on the edge of developed status so I'm assuming it'd be somewhere between the no economic effect observed in developed countries and the positive economic effect for developing ones, i.e. a slight increase in economic activity. (And of course the economy is only part of the big picture here, let's stop kidding ourselves.)
+
+By the way, I actually started looking into this because I wanted to find some research that disproves this comment:
+
+>the enormous boost it would be you mean? lol
+
+But I couldn't find anything that would do so. Can you link me to one of these 'infinity amount of reports'?
+Huh? I'm assuming you didn't read what I linked? It's a retrospective report on the economical effect of Olympic Games between 1964-2004, not just some random forecast on 2024.
+
+The data there actually shows the exact opposite of what you're stating.
+I did some digging and according to [this report](http://nccur.lib.nccu.edu.tw/bitstream/140.119/37406/8/803008.pdf) it might actually have a very positive effect on the economy.
+This comment of yours really is worded in quite an infuriating way.
+
+Furthermore, I think it's wrong of you to assume that "But there's tags!" would be read as a joke by everyone, I didn't realize that either.
+Alright, fair enough.
+
+I'd assume the justification for using this example is that it would be difficult to showcase all the different types of file system modifications it can detect with just one command.
+That's like saying that the problem with `rm` is that people are going to delete the wrong files with it accidentally.
+Oooh, I think I have the perfect thing for you: [maybe](https://github.com/p-e-w/maybe)!
+
+This nifty little tool intercepts most of the system calls that affect the file system made by whatever command you try to run with it, and instead of executing these calls it just logs them.
+You can use `REGISTER-10-OFF` for another -10% if this is your first purchase on the site.
+Ah, thanks!
+I don't speak Czech but I feel like there's a pun hidden in this. Anybody mind to explain?
+clickclickclick.com does, and that's what really counts.
+Yep, I didn't want to ruin the magic, but he was actually down 6-1, around halftime.
+Yep, I couldn't just ignore the existence of this video.
+The keen-eyed will notice that this is actually true for any good phone.
+I've been offered a new phone of my choice at work but even that couldn't get me to upgrade. I love my (close to 2 year old) OPO.
+Actually the first thing I did was point that out, it was one of the first comments on the submission. It's currently standing at -4 points.
+Indeed, I am being intentionally dense, in an attempt to point out how bad this article is, and to express my disappointment that /r/android eats this crap right up just because it has a negative sentiment about ads.
+Oh so 3.6 MB of 8.1 MB is ads and 1.0 MB of 3.8 MB is also ads, now I *really* feel educated.
+So for all we know they could've cherry picked the news sites that have the worst ad to content ratio. I mean, I get it, we don't like ads, but come on guys, raise your standards a bit.
+Ah yes, 3.6 of 8.1 is ads and 1.0 of 3.8 is also ads, that's helpful, thanks.
+I'm still not happy about them talking about themselves in third person and acting as if all this stuff was posted by some random guy.
+Also, ads on news sites gobble up as little as 18% of users' mobile data. Way to give the article a useless title.
+
+And if anybody figures out what the X axis of that chart is supposed to represent, please let me know.
+Wow, never knew these guys worked on a game as well, this got me really interested. Been listening to them sometimes ever since Endless Fantasy was featured in an episode of NPR's All Songs Considered.
+
+Edit: This stunt is kinda lame though, what with the band shilling to spread it on 4chan and everything.
+I think it's more about when she started to get aggressive with the bets.
+How many different reasons do you ignore people for?
+Yay, I win! 🎉
+This appears to be really similar to the [Facebook at Work color scheme](https://i.imgur.com/ziHMkeq.png). I'd say there's a higher possibility that the alpha build is just using this other scheme accidentally than that Facebook is rebranding.
+But then I wouldn't have scored a goal.
+Okay!
+They are not removing support for custom launchers.
+So replace the verb develop with design in my comment and my argument still stands.
+~~There's a different team working on both products~~, and the products happen to be entirely different in structure. Feature parity would require the same thing to be developed twice, instead of just being a matter of copy-pasting code.
+That's almost entirely because of the software. Spotify's code and stack will not change by moving them to different servers, so you shouldn't really expect any speedup caused by that.
+Right, but why would Google's infrastructure be faster than Spotify's current datacenters?
+Why would it perform better?
+I got a Kickstarter update email yesterday that said keys will unlock when it's around noon in the USA.
+http://www.bash.academy/
+Yes, fuck them for not randomly giving out free stuff to 20 million people. Companies these days…
+> You are aware that it was released in 1988 as a plain text protocol, aren't you?
+
+And HTML was standardized in 1993, but we still have pretty nice browsers, don't we?
+> Not sure if I'm too crazy about storing all of this on their servers.
+
+Their servers only ever see encrypted data. They can't read any of it without your decryption key. What are you worried about?
+Nope :(
+Sorry man, not really interested in any of those. Thanks anyway!
+That's alright.
+Sorry, no deal then. Look like I could just sell RUST at 7 EUR and outright buy those two :(
+I'm pretty interested in Pony Island + HuniePop. I can give you RUST + one of the below:
+
+- AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome
+- Dustforce DX
+- Osmos
+- Super Hexagon
+- Zenbound 2
+- Greed Corp
+- The Showdown Effect
+- McPixel
+- Thomas Was Alone
+- Magicka + 2 DLC
+- F.E.A.R.
+- Gratuitous Space Battles
+- Nightsky
+- Awesomenauts
+
+We could also do Pony Island + HuniePop + Necrodancer for RUST + three from the list.
+Sorry, I don't fancy any of these that much :(
+[Origin](https://www.reddit.com/r/indiegameswap/comments/44fuxy/h_the_talos_principle_company_of_heroes_2_rust/czpwfz7)
+
+(Made a new comment to not have an edit indicator on the above confirmed one.)
+Confirmed!
+I just traded Valkyria Chronicles away, sorry :(
+Traded with /u/sabo_tabby.
+
+My Valkyria Chronicles + The Talos Principle for their FTL + Ittle Dew.
+Yeah, let's do it! [Add me on Steam](http://steamcommunity.com/id/underyx) maybe to carry this out?
+Sorry, I'm still subscribed so I have that as well :(
+What if I just set the recommended comment sorting to 'new'?
+>If it was true you don't want to embarrass them
+
+1. I never said I didn't want to. (I didn't, granted, but why are you attacking a point I never made?)
+2. I don't think people really get embarrassed over an anonymous comment on reddit, contrary to the 'turning in a paper' scenario I mentioned above.
+
+>why don't you send a PM instead of broadcasting your correction to the entire thread
+
+1. As in my above comment: 'Seems like a few other people learned something from this thread as well.'
+2. It would also have taken more effort.
+
+>Maybe it's because you are insecure in other ways and correct others publicly to feel a sliver of mental dominance.
+
+When did my personality become relevant to a discussion of whether there was any value in me pointing out the error?
+>Everyone understood that.
+
+Oh, I wasn't entirely sure of it. I thought there was a possibility that there's a release time or something similar and he's planning to be ready 20 minutes before that with his node.
+
+Also, [this commenter](https://www.reddit.com/r/btc/comments/4442vk/bitcoin_classic_beta_2_released/cznd4ir) seems to have considered this possibility to be more likely. Hope that's enough for you to disprove that everyone understood it.
+Oh, and I forgot to point out that you're still wrong here. T is supposed to be substituted with the time of the event in question. This is why 'T-1 minute' is 1 minute before liftoff in the case of a rocket launch. If liftoff is at 16:11:24, then T-00:01:00 reads as '16:11:24-00:01:00', so it's 16:10:24.
+
+I find it pretty funny how you say 'Correcting people on symantics on the internet when the meaning is obvious is some next level Aspergers' while actually misunderstanding the meaning.
+Well, I don't know, I myself prefer that people tell me when I'm wrong so I don't have to embarrass myself later with the same mistake. Seems like a few other people learned something from this thread as well.
+
+I mean, you probably wouldn't want to turn in a paper writing 'symantics' instead of 'semantics' as you did above, either, right?
+What, no.
+
+>In the context of a rocket launch, the "T minus Time" is the time before launch, e.g. "T minus 3 minutes and 40 seconds". [...] After a launch, most countdown clocks begin to show Mission Elapsed Time, which is typically shown as "T plus."
+
+https://en.wikipedia.org/wiki/Countdown#Rocketry
+
+And even if what you say was true, the comment would still be syntactically incorrect, which was what I pointed out. What is wrong with everyone here?
+Good God, Lemon!
+>My node will be operational 20 minutes before the node starts.
+
+Ehhh…
+Right, but in this case, what did the commenter refer to by T?
+I guess, but what does T refer to then?
+'In 20 minutes' also refers to a point in time, that's not what the issue was, see:
+
+- 20 minutes: interval
+- in 20 minutes: point in time
+
+So far so good, everything is correct.
+
+- T-20 minutes (20 minutes before T): point in time
+- in T-20 minutes (in 20 minutes before T): ???
+You mean 'in 20 minutes'.
+
+T-20 minutes refers to a point in time, not an interval.
+I don't know what to do about this 🐈
+hOI!
+https://twitter.com/underyx/status/688798317770354695
+>So apparently I was receiving a notification today
+
+Oh my!
+Glad to see you're using 3.4 for this as opposed to Python 2, you made a really good call with that :)
+Wasn't it only available on Chrome OS though? I vaguely remember something like that.
+Sorry, but there a million ways to see those, ranging from inspecting the memory of the LastPass process, to simply just looking at the login request sent to the website.
+
+If a computer knows something there isn't really any way it can hide it from its user.
+> does it share it in a way that they can use it but not know it?
+
+This would be impossible; the password is revealed. Though I can't think of any reason why that would matter.
+Well not really, ~~he~~ *you might've previously done something with the computer that you really weren't supposed to do, and that would also count as human error if it ended up breaking the automatic upgrade.
+[Relevant XKCD](http://xkcd.com/1623/)
+
+Knew it wouldn't take too long until I get to link this one.
+Be realistic though. What I'm (and I guarantee, most people are) worried about is friends messing with me when I'm not looking. They can see me punch in my code/pattern every five minutes and remember it, but they are not going to lift and replicate my fingerprint.
+
+I'm immensely curious about why all these commenters are so wary of people trying to break into their phones.
+I hope it does, having the bottom of cards cut off seems to give the UI a pretty nice aesthetic.
+But as I understand it what's happening in this case is that as you start being slightly off zero, you will begin to get confused and steer in that direction.
+It's right there in your post:
+
+>A data breach is a *security incident*
+
+This isn't really a security incident.
+I think it's nice to inform these people. As you said, some are sending insulting messages with no explanation. I wouldn't want to be on the receiving end of that without any idea of what's actually going on.
+We've always played with O going first. I grew up in Hungary, for what it's worth.
+But that would mean you have different data, a 200 jump to 1000. This is exactly what we were talking about, how that is way more definitive than 2 to 10.
+I use OMG for spamming when overtime starts.
+Thank you! We obviously don't really know how to play.
+
+^^^BTW ^^^I've ^^^never ^^^in ^^^my ^^^life ^^^heard ^^^anyone ^^^say ^^^X ^^^goes ^^^first.
+And dictionaries also often have fake words in them for this very reason.
+How is it weakening 2fa's strength?
+¯\\\_(ツ)_/¯
+There's a relevant article that I love, here, [have a look](http://www.scottaaronson.com/blog/?p=40). Especially the opening quote:
+
+>If you’ve never missed a flight, you’re spending too much time in airports.
+
+It doesn't take too much effort to rewrite this to fit our scenario.
+
+But even then, in our case, there's no real reason to outright go for the less risky option: if you miss that connecting flight that you had only two hours of layover for, we will just book you the next one for free as a replacement. You'll end up exactly the same as if you just booked that in the first place.
+4 hours sounds a bit too cautious. In our experience 2 hours of layover time is already safe even if the first flight is delayed a bit.
+Thank you for letting us know! We've fixed that, the change might take a few hours to appear for everyone though.
+Hey there, I'm one of the developers at Skypicker, and, well, it's totally legit :D
+
+The reason we have cheap flights like that is that other sites normally only find flight combinations that are supplied by the airlines (or parties close to them), and when the airlines are in charge of connecting flights, they only use the flights of airlines they are allied with. Since we check all possible combinations, including those that the airlines don't offer themselves, it isn't rare that we end up with cheaper flights. We often see 90% cheaper alternatives on quite a few routes.
+
+The issue that all this poses is that by taking these 'unofficial' connection flights, if the first flight is delayed, you can't hold the airlines liable for you missing your connection. But for this very reason we have a thing called the Skypicker Guarantee — so in such a case you can just call us, we will find you an alternative, and we'll book it for you free of charge.
+I'm not against it, just would like to mention that any time a site sets my status bar orange, I get nervous cause I think my battery is dying and battery saver just got turned on.
+Yeah, seriously, I was offered any phone of my choice at my new job, but I just said I don't need a new one. Had the OPO for 16 months now.
+Wow, that's pretty crappy.
+The only variable that makes a difference here is the fault rate. I used 20% which is completely unheard of and way more than any reasonable person would guess. And even with this number, it's better to buy the cheaper phone. Come on.
+What values would you use instead? Maybe you think that every fifth OnePlus device is defective? (Which would make it hundreds of thousands of defective ones.) Perhaps you think that having to talk to OnePlus support would just utterly destroy your life so much that your life would be in ruins for two months, resulting in a -1 value/month? Well, even with these ridiculous numbers, You get 11.32 value per year for $329 against 12 per year for $349, so 29.06 $/value/year against 29.08 $/value/year.
+
+Since the results are such a landslide, I didn't think the exact numbers would even matter.
+So instead of breaking the problem down into manageable pieces and guessing about those, you prefer making one large guess? Why would that be better?
+
+Which parameters seem off? What values would you use instead?
+Your first point, I refute. I'm not defending any company, I'm stating that given these circumstances the right decision is to buy the cheaper phone.
+
+I am however willing to concede that my math is shitty, but you will first have to explain why.
+And on the topic of calling this a 'weird mathematical argument':
+
+If we just tweak the numbers a bit, we can have similar hypothetical offers:
+
+ - A OnePlus Two equivalent with a $50 price tag and 10% fault rate.
+ - A OnePlus Two equivalent with a $10 price tag and 20% fault rate.
+ - A OnePlus Two equivalent with a $0.5 price tag and 80% fault rate.
+
+You probably would say yes to buying at least one of these. Once we have that, start changing the numbers, gradually making them worse, and try to decide if you'd still get it. At some point you'd stop seeing it as a good offer. But the question is, at which point? This thread shows us that if we go with our gut feelings, we make terribly biased decisions.
+
+It's way more lucrative to use economics and maths to find the answer to questions like this than to just take a wild guess. If you apply this sort of decision making to your life in general — let's say you buy 10 items a year based on such calculations — you will almost certainly be better off than with making guesses. 
+That's why I went with a value of 0 in the end. Having touch screen issues for instance won't make my life worse than it would be without a phone.
+
+But anyway, considering cumulative value would make more sense. Consider the following, with replacing the last arbitrary unit with an even more arbitrary 'value/month':
+
+ - I start out at zero value/month, with no phone.
+ - I get a OnePlus with touch screen issues, so my phone has 0.3 value/mo, and I need to subtract the time I have to spend with customer service. This will hardly amount to more than $200's worth of my time, so let's place it at around that, -0.5 value/mo.
+ - Let's say this keeps up for two months until I finally get a replacement. This means that after two months I'm at -0.4 cumulatively
+ - I'll use the normal replacement phone for the rest of the year, bringing me up to 9.6 value after 12 months.
+
+So that's:
+ - With OnePlus, 99% of the time 12.0 value per year, and 1% of the time 9.6 value per year for $329. This makes my expected value here 11.976.
+ - With the other phone 12.0 value per year for $349.
+
+11.976 value/year for $329 versus 12.0 value/year for $349. I didn't really change my opinion.
+Which makes it sound like Neerja Bhanot is a flight.
+Dude, if I write a comment detailing and explaining why I would take the risk, please don't reply to it with the question 'why would you take the risk?'
+Then I'd like to rewrite my quote as
+
+>So all you're saying is, you would rather approve a payment and wait an unknown amount of time until your phone is ready, than wait an unknown amount of time until your phone is ready and then buy it?
+
+Preferring the invite system on the customers' side still sounds like a no-brainer to me. And even OnePlus should prefer this, since no commitment means that the customers feel less entitled and therefore will be less angry if OnePlus slips up with production and can't deliver for a long time. Not to mention that it would have been a lot harder to raise the price if deemed necessary.
+Oh man, [this again](https://www.reddit.com/r/Android/comments/2xwxcd/oneplus_is_expanding_to_all_eu_countries/cp4afqv?context=2)?
+
+>So all you're saying is, you would rather pay and wait an unknown amount of time until your phone is ready, than wait an unknown amount of time until your phone is ready and then buy it?
+> Or you could buy a phone from a reputable seller like amazon and have no downtime if it's defective.
+
+My entire comment was about comparing this choice to buying a OnePlus. I have no idea how you missed that, but either way, what I wrote up there still stands.
+
+And also:
+
+> an invite system that is only in place to drive interest
+
+You can't prove that and logic points toward this statement being false.
+What's the chance of getting a faulty device? My guess would be around 0.1%, but let's count with 1%.
+
+In this case, let's assume you could buy a OnePlus Two for $329 or an equally good phone for $349, which has a 0% chance for being defective (ha-ha). Let's say both of these phones have a value of 1 (in Phone Value Units or whatever).
+
+So then: if one thousand people buy the $349 phones, they will end up with 1000 value for $349,000, which is 349 $/value, and if one thousand buy the OnePlus Two, they will end up with 10 faulty devices, which have a value of zero (that actually isn't true but whatever), and for $329,000 they will have a total of 990 value, which is 332.33 $/value.
+
+The rational decision would be to buy a OnePlus Two in this case.
+The bootloop I'm stuck in.
+
+Edit: It was because I didn't realize that this nightly is already rooted and I flashed SuperSU. Move along!
+You got it, Mr. Relevant!
+
+Edit: [Post now up](https://www.reddit.com/r/AndroidWear/comments/3sx9u5/android_wear_marshmallow_update_megathread/). Come on over!
+
+While we are at it, can we just take this discussion to /r/ampart?
+The example given in the survey was 'look what my wife just bought'. The rule will cover posts about people being 'so excited' that they post photos of just their new watch, and the equivalent. As written in the post above:
+
+>we will start actively removing the following posts **once we've written up clear rules**
+
+Naturally, it will be possible to start a discussion if you feel like the exact rules are too strict.
+LastPass stores passwords after they are encrypted on your local machine, and you decrypt them locally when you retrieve one, so even when using LastPass, you don't have 'one password that some random company holds'.
+RemindMe! 2 days Donation for /r/millionairemakers
+Did OP just write a title that had a title of its own?
+Well, that's weird, I actually went to Seattle in August…
+You know you can't really assume that they are a resident just by them posting a photo of the airport, right?
+We will get on that right away?
+I don't think they are bad (especially in a one off query), and I don't really feel bad either. And I would like to see anyone accomplish selecting based on a predicate involving a window function's result with one query.
+Okay, here's another, which gets us the names of the users who posted the most
+popular messages the most times (count is how many times that user posted the
+message from the first column):
+
+    SELECT
+        msg,
+        username,
+        "count"
+    FROM (
+        SELECT
+            msg,
+            username,
+            count(*),
+            rank() OVER (PARTITION BY msg ORDER BY count(username) DESC)
+        FROM
+            message
+        WHERE
+            username NOT LIKE '%bot%'
+        GROUP BY
+            username, msg
+    ) AS rankings
+    WHERE
+        rank = 1
+    ORDER BY
+        count DESC
+    LIMIT 100
+
+| msg | username | count |
+| --- | -------- | ----- |
+| 4Head | gotvet | 274 |
+| ROFL | mugendoto2 | 126 |
+| VOTE FOR ALLIANCE IN THE SUMMIT 3 COMPENDIUM! | commissar_wrex | 119 |
+| WutFace | niceguywutface | 114 |
+| EleGiggle | yefrison123 | 107 |
+| Kappa | camphund | 105 |
+| LMFAO | mugendoto2 | 91 |
+| lol | hardlifeboy | 82 |
+| Kreygasm | xyrter | 73 |
+| Kappa. | loosegoose12 | 72 |
+|  Kappa | camphund | 64 |
+| ~BibleThump~ | nrootn | 61 |
+| MingLee | quake11 | 47 |
+| LOL | steve_mal | 44 |
+| 4Head 4Head 4Head | gotvet | 43 |
+| DansGame | khorne69 | 43 |
+| Keepo | s1r_t | 38 |
+| SourPls | theazzatom | 36 |
+| MingLee M MingLee I MingLee N MingLee G MingLee L MingLee E MingLee E MingLee | trizzlfizzl | 35 |
+| ~4Head~ LEPO 4Head LEPO ~4Head~ | barcon92 | 31 |
+| NICEEE  LA  deExcite deExcite deExcite deExcite deExcite | d3holic | 28 |
+| Kappa 12 | heisenberg_999 | 27 |
+| lmao | terra2 | 27 |
+| Kappa  | chubby_bird | 26 |
+| PogChamp | khorne69 | 26 |
+| DansGame HE IS FASTER✔️ DansGame HE IS STRONGER✔️ DansGame WHO IS HE?✔️ DansGame THE MIGHTY DONGER✔️ | hubristichomie | 26 |
+| Kappa 2 | morest1 | 25 |
+| VOTE FOR ALLIANCE IN THE SUMMIT 3 COMPENDIUM | commissar_wrex | 25 |
+| Kappa / | chubby_bird | 25 |
+| Kappa 7 | byzov754 | 25 |
+| LMAO | namarot | 24 |
+| Kappa 13 | heisenberg_999 | 24 |
+| VOTE FOR ALLIANCE IN THE SUMMIT 3 COMPENDIUM!! | commissar_wrex | 23 |
+| Invite Reverzeharry1437 OR RIOT SwiftRage | barcon92 | 23 |
+| Kappa BUY Kappa RADIANCE Kappa YOU Kappa FOOL Kappa | prophgrz | 23 |
+| MingLee RTC? MingLee TI5? MingLee ESL? MingLee 1on1? MingLee MLG? MingLee | l1qqq | 23 |
+| Kappa 1 | morest1 | 23 |
+| Kappa 14 | heisenberg_999 | 22 |
+| BibleThump | landeriwis | 22 |
+| Kappa 19 | heisenberg_999 | 22 |
+| Kappa 11 | heisenberg_999 | 22 |
+| !multi | ullasmanju | 21 |
+| HeyGuys | vaniur | 21 |
+| rofl | aplauzz | 21 |
+| don't MingLee copy MingLee the MingLee name MingLee when MingLee you MingLee copy MingLee the MingLee Minglee MingLee FailFish | dan2309 | 21 |
+| Kappa 15 | heisenberg_999 | 20 |
+| admiralS4 | alicexz | 20 |
+| Kappa 16 | heisenberg_999 | 20 |
+| Kappa 17 | heisenberg_999 | 20 |
+| q | commissar_wrex | 20 |
+| wow | reverzeharry1437 | 20 |
+| MingLee HALF MingLee A MingLee WEEK MingLee ON MingLee TWITCH MingLee ALREADY MingLee A MingLee DANK MingLee MEME MingLee | l1qqq | 20 |
+| PJSalt PJSalt | mitchuation_ | 20 |
+| Kappa 18 | heisenberg_999 | 20 |
+| ~4Head~ LEPO ~4Head~ | barcon92 | 19 |
+| Kappa// | newborn605 | 19 |
+| Kappa sdf | krtek007 | 19 |
+| (▀̿Ĺ̯▀̿ ̿) The name is Dong, James Dong (▀̿Ĺ̯▀̿ ̿) | christopherln | 18 |
+| \ MingLee / RAISE YOUR MINGLEE'S \ MingLee / | ironnis | 18 |
+|  !math Vot + eforalliance | commissar_wrex | 18 |
+| !song | jczhang1 | 18 |
+| DansGame HE IS FASTER✔️ DansGame HE IS STRONGER✔️ DansGame WHO IS HE?✔️ DansGame THE MIGHTY DONGER✔️ a | hubristichomie | 17 |
+| !love chat | chaosmango | 17 |
+| 322 | terra2 | 17 |
+| MingLee WHAT MingLee NOW MingLee 4HEAD MingLee FANGAYS MingLee | dexter8489 | 17 |
+| !myemotes | commissar_wrex | 16 |
+| Guys, if someONE COULD HELP ME WITH AN EXTRA KEY for CS:GO, i ll PROCLAIM U IN MY BOOK! BibleThump | solleonee | 16 |
+| deIlluminati | bondila11 | 16 |
+| MingLee MingLee | killzor77 | 16 |
+| !zai | reverzeharry1437 | 16 |
+| Kappa _89 | yefrison123 | 15 |
+| CLASSIC JAMES 4Head | nordic_hero | 15 |
+| BibleThump BibleThump BibleThump BibleThump BibleThump | landeriwis | 15 |
+| REKT | hyoku3399 | 15 |
+| FailFish | vaniur | 15 |
+| BCWarrior LEPO BCWarrior LEPO BCWarrior | vaniur | 15 |
+| !contest | vaniur | 15 |
+|  Kappa  | abhinav1408 | 15 |
+| admiralHYPE admiralHYPE admiralHYPE | moeaut | 15 |
+| JACKAYYY SoBayed LMAO | jrh_101 | 14 |
+| 4Head EleGiggle MingLee THE TRIFECTA IS COMPLETE deIlluminati | derp1608 | 14 |
+| SoBayed | watanabe_mayu | 14 |
+| ~4Head~ ~4Head~ ~4Head~ | barcon92 | 14 |
+| A | atulrana | 14 |
+| ᕙ MingLee ╱ He is faster ᕙ MingLee ╱ He is stronger ᕙ MingLee ╱ Who is he? ᕙ MingLee ╱ The mighty MINGLEE ᕙ MingLee ╱ | knight_rouge | 14 |
+| !time | aplauzz | 14 |
+| KKona | 360nokappa | 13 |
+| Kappa ? | yefrison123 | 13 |
+| hahaha | castiel_x69 | 13 |
+| dpit322 | reverzeharry1437 | 13 |
+| BunnyEars admiralGasm | reverzeharry1437 | 13 |
+| naraGasm | phosphenes_ | 13 |
+| ~4Head~ ~4Head~ | barcon92 | 13 |
+| Kappa/ | grayjew | 13 |
+| rekt | disxon | 13 |
+| shazamicon \ PogChamp / shazamicon | krozden | 13 |
+| Kappa . | bakedas | 12 |
+| DAMN MingLee IT MingLee FEELS MingLee GOOD MingLee TO MingLee BE MingLee MING MingLee LEE MingLee | shouldersofgiants222 | 12 |
+| 4Head 4Head | gotvet | 12 |
+| BabyRage | barcon92 | 12 |
+Well, you're an amazing person.
+Nice dataset! Here's one I ran to get each user's copypasta ratio (number of messages posted by them that were copypasta, defined here as messages that were posted at least 5 times, and are at least 12 characters long):
+
+    SELECT
+    	copypasta_counts.username,
+    	round(((copypasta_counts.count::numeric / total_counts.count::numeric) * 100), 2) AS copypasta_ratio
+    FROM
+    	(
+    		WITH copypasta AS (
+    			SELECT msg
+    			FROM message
+    			WHERE length(msg) > 12
+    			GROUP BY msg
+    			HAVING count(msg) > 5
+    		)
+    		SELECT username, count(username)
+    		FROM message, copypasta
+    		WHERE message.msg = copypasta.msg
+    		GROUP BY username
+    	) AS copypasta_counts,
+    	(
+    		SELECT username, count(username)
+    		FROM message
+    		GROUP BY username
+    	) AS total_counts
+    WHERE
+    	copypasta_counts.username = total_counts.username
+    	AND total_counts.count > 100
+    	AND copypasta_counts.username != 'moobot'
+    ORDER BY
+    	copypasta_ratio DESC
+
+
+And the results, excluding people with less than 100 messages (the results wouldn't fit in a reddit comment otherwise):
+
+| username | copypasta_ratio |
+| -------- | --------------- |
+| yummpi | 51.33 |
+| commissar_wrex | 42.53 |
+| l1qqq | 38.94 |
+| christopherln | 33.90 |
+| mitchuation_ | 28.03 |
+| getbacktowor | 27.59 |
+| kappacabana_ | 26.62 |
+| reecery | 25.13 |
+| darkm4a111 | 24.11 |
+| i_love_downunder | 23.62 |
+| 4head_is_a_funny_face | 18.49 |
+| ironnis | 17.65 |
+| justsomedudebro | 16.67 |
+| dziugas14 | 16.58 |
+| barcon92 | 15.95 |
+| theeixnorigin | 15.48 |
+| keintudor | 14.79 |
+| archrofl | 14.42 |
+| mehdimahhou6 | 13.82 |
+| honzyyyk | 13.70 |
+| chalarden | 13.19 |
+| 322cykapower | 12.85 |
+| wonderdota16 | 12.21 |
+| mrsn99 | 11.72 |
+| phosphenes_ | 11.21 |
+| deetch05 | 10.95 |
+| cicaults | 10.81 |
+| kiyoshi2 | 10.76 |
+| nootaubestmagena | 10.68 |
+| liocelot | 10.53 |
+| madqory | 10.45 |
+| gotvet | 10.36 |
+| kappastorm1 | 10.34 |
+| andoranto | 9.90 |
+| vaniur | 9.78 |
+| dan2309 | 9.74 |
+| jarle_aarbakke | 9.68 |
+| p4ranoid_ | 9.57 |
+| theazzatom | 9.47 |
+| bradbyr | 9.42 |
+| dotolol | 9.33 |
+| dakarai007 | 9.30 |
+| beanoh | 9.25 |
+| blitztf2 | 9.25 |
+| victoryoflife | 9.15 |
+| teflon77 | 8.98 |
+| vitaminpills | 8.94 |
+| moeaut | 8.90 |
+| strawheart | 8.85 |
+| 303814 | 8.82 |
+| bryceftww | 8.62 |
+| riou7 | 8.61 |
+| dank__doge | 8.41 |
+| namarot | 8.17 |
+| landeriwis | 8.00 |
+| itsggreen | 7.84 |
+| shirane987 | 7.81 |
+| dyslexicat | 7.78 |
+| askari010203 | 7.62 |
+| debatherockstar | 7.33 |
+| kappaofdalight | 7.25 |
+| faabi8 | 7.21 |
+| xolic | 7.18 |
+| r_b_d | 7.14 |
+| snam1210 | 7.08 |
+| kappbot | 6.98 |
+| huffer_ | 6.95 |
+| polskomleko | 6.93 |
+| alefe01 | 6.90 |
+| buggezzz | 6.82 |
+| dangerawar | 6.74 |
+| doubtgin | 6.73 |
+| bannedbybts | 6.70 |
+| ergenekontr | 6.67 |
+| kinkyw1zard | 6.59 |
+| bagelcreamcheese | 6.53 |
+| abek | 6.50 |
+| wortho27 | 6.45 |
+| opinion2stronk | 6.43 |
+| chaosmango | 6.41 |
+| eredenn | 6.41 |
+| usfe | 6.40 |
+| burayy | 6.36 |
+| kohlingen | 6.36 |
+| niceguywutface | 6.32 |
+| petivoker | 6.28 |
+| wravee | 6.25 |
+| sam_poke | 6.22 |
+| venseres | 6.19 |
+| silverfist1995 | 6.19 |
+| beyondempathy | 6.19 |
+| yefrison123 | 6.15 |
+| chandps | 6.12 |
+| kreygan | 6.06 |
+| warpersclub | 5.96 |
+| blackhawk_ | 5.88 |
+| mugendoto2 | 5.84 |
+| bellendlad | 5.83 |
+| we322lost | 5.75 |
+| okienko1234 | 5.74 |
+| admiralbulldog | 5.74 |
+| edwinight | 5.74 |
+| rjx_97 | 5.70 |
+| bloer | 5.65 |
+| pertine | 5.64 |
+| 360nokappa | 5.63 |
+| codgeronimo | 5.56 |
+| serac185 | 5.51 |
+| lhyena | 5.44 |
+| hazzrodota | 5.41 |
+| pr0totype | 5.30 |
+| anshlagg | 5.30 |
+| shishiomakoto86 | 5.30 |
+| dovydas3100 | 5.29 |
+| nadeemeldin | 5.08 |
+| par5ec | 4.92 |
+| jamaas | 4.90 |
+| bulldongerino | 4.90 |
+| quake11 | 4.87 |
+| terra2 | 4.85 |
+| destiatv | 4.84 |
+| flying_bone | 4.81 |
+| feavers | 4.81 |
+| sheff0 | 4.72 |
+| vishmahelaha | 4.69 |
+| icy_exort | 4.65 |
+| kapparineo | 4.63 |
+| vuccappella | 4.58 |
+| vognor7 | 4.55 |
+| w0rkspace | 4.55 |
+| khorne69 | 4.49 |
+| doctorspectrum | 4.48 |
+| thegladiator00 | 4.46 |
+| aurinova | 4.42 |
+| kantus1988 | 4.42 |
+| shadowbane7 | 4.40 |
+| dominik1993 | 4.32 |
+| lordianed | 4.29 |
+| onessa_alex | 4.29 |
+| thearchdong420 | 4.27 |
+| hellotofu | 4.26 |
+| dadmiralbulldog | 4.24 |
+| damienbord | 4.23 |
+| klubeht | 4.20 |
+| godo_t | 4.17 |
+| sparkyydota | 4.17 |
+| turaro | 4.16 |
+| shibango | 4.13 |
+| pnthk | 4.10 |
+| schab1337 | 4.06 |
+| maxibombastic | 4.03 |
+| honnybee | 3.95 |
+| sea_mouse | 3.93 |
+| mrruby | 3.92 |
+| trinitropentane | 3.92 |
+| grayjew | 3.91 |
+| chaoslike | 3.90 |
+| 322ret4rd | 3.85 |
+| romanpeirs | 3.81 |
+| imorteus | 3.78 |
+| ovrdvr | 3.77 |
+| f0lgers | 3.72 |
+| saideedota123 | 3.70 |
+| sprizzi_2 | 3.70 |
+| seezl | 3.68 |
+| skinny_b0nes | 3.68 |
+| sunshinewalker | 3.67 |
+| wonderdota15 | 3.64 |
+| watanabe_mayu | 3.62 |
+| califord | 3.61 |
+| morferino | 3.60 |
+| aderya | 3.59 |
+| nicozzy | 3.57 |
+| ripkanyewest | 3.57 |
+| xyrter | 3.56 |
+| eskimolej | 3.55 |
+| punjabhii | 3.49 |
+| regardsdolan | 3.47 |
+| darkstaaar | 3.46 |
+| thekappatalizer | 3.45 |
+| kalvinmc | 3.45 |
+| kappakeepozz | 3.42 |
+| bondila11 | 3.36 |
+| gydr0n | 3.36 |
+| edi234 | 3.33 |
+| leyeos | 3.33 |
+| toilethunter | 3.33 |
+| borgg | 3.31 |
+| spachib | 3.21 |
+| chubby_bird | 3.21 |
+| robbertss | 3.17 |
+| mastah85 | 3.17 |
+| flygandejake | 3.12 |
+| kohakuken | 3.09 |
+| josen2977 | 3.09 |
+| painhole | 3.03 |
+| mushifangay | 3.02 |
+| kittybot_ | 2.99 |
+| dungeondex | 2.99 |
+| lightdust | 2.94 |
+| karndota | 2.90 |
+| bakedas | 2.90 |
+| chewbalol | 2.83 |
+| intercroissant | 2.81 |
+| prkz | 2.80 |
+| mone03 | 2.80 |
+| newborn605 | 2.69 |
+| tempura_eater | 2.69 |
+| thempesth | 2.65 |
+| edgejob | 2.65 |
+| revenzxz | 2.63 |
+| kinomasterrace | 2.59 |
+| nasuuuuuu | 2.59 |
+| mrbagum | 2.57 |
+| toys0ldier | 2.54 |
+| captainkitkat | 2.53 |
+| the_ricket | 2.49 |
+| dranzer75 | 2.47 |
+| xxx_knocks_xxx | 2.46 |
+| guineasquid | 2.44 |
+| meltchoco | 2.40 |
+| schlechtwetterfront | 2.38 |
+| ggscv321 | 2.33 |
+| duplosion | 2.27 |
+| infernal070 | 2.26 |
+| infinitysk | 2.26 |
+| dupokrata | 2.22 |
+| ribellino7 | 2.21 |
+| twilar127 | 2.17 |
+| bostonnn_27 | 2.11 |
+| tuckfrumpkapa | 2.11 |
+| dexzzter | 2.08 |
+| badonkadonk55 | 2.08 |
+| kappaboyfriend | 2.04 |
+| katashi90 | 2.03 |
+| neoo21 | 2.00 |
+| arkhalipso | 1.98 |
+| jupiterdoto | 1.96 |
+| lordfraction | 1.94 |
+| unionbg | 1.94 |
+| tyskot | 1.92 |
+| ibelieveinnavi | 1.90 |
+| fonzo_ | 1.90 |
+| reverzeharry1437 | 1.85 |
+| kulvas27 | 1.83 |
+| hun7urass | 1.83 |
+| dylzen | 1.83 |
+| jemshking | 1.82 |
+| kssyy | 1.80 |
+| ropolism | 1.79 |
+| nejc1990 | 1.77 |
+| bloodseekerofdota | 1.75 |
+| no_one_man | 1.72 |
+| saintziggy | 1.69 |
+| pialojo | 1.69 |
+| kefsauce | 1.68 |
+| megabrotherx | 1.67 |
+| mjkirito | 1.65 |
+| henrique2511 | 1.64 |
+| kappatain_kirk | 1.64 |
+| avituser | 1.61 |
+| perfectmeido | 1.49 |
+| exclusive711 | 1.45 |
+| florren1 | 1.43 |
+| aplauzz | 1.37 |
+| flying_spoon_ | 1.33 |
+| onemagikarp | 1.32 |
+| itsniggles | 1.31 |
+| dotagasm | 1.28 |
+| igiffmana | 1.28 |
+| misterpippo23 | 1.22 |
+| soupault | 1.18 |
+| flame_arrow12 | 1.17 |
+| sazandralisk | 1.16 |
+| dototrollmaster | 1.14 |
+| slayerschris | 1.12 |
+| youngdynamite | 1.11 |
+| hyoku3399 | 1.10 |
+| rudeeamin | 1.08 |
+| hardlifeboy | 1.08 |
+| m0rd | 1.08 |
+| gutdoge | 0.99 |
+| sillux | 0.99 |
+| dreamweaver17 | 0.99 |
+| gumayi | 0.99 |
+| core_69 | 0.99 |
+| lompe12 | 0.98 |
+| slyn69 | 0.97 |
+| dracoliberator | 0.96 |
+| fishqu | 0.96 |
+| pporingdysrexn | 0.96 |
+| proudlolplayer | 0.95 |
+| xaz42 | 0.94 |
+| warl0ck93 | 0.93 |
+| drako21ro | 0.93 |
+| darkyofreak | 0.92 |
+| norrie13 | 0.91 |
+| no_ok_322 | 0.90 |
+| groom141 | 0.88 |
+| lvq486 | 0.88 |
+| faangs | 0.88 |
+| bituzza | 0.86 |
+| owlkinhoot | 0.86 |
+| theturkadam | 0.82 |
+| rabbite28 | 0.81 |
+| techiesdemolition | 0.81 |
+| yourwhale | 0.79 |
+| uber_pro | 0.78 |
+| jczhang1 | 0.74 |
+| frankie9929 | 0.72 |
+| alonzi_ | 0.72 |
+| lordloss344 | 0.70 |
+| ijustwannafly | 0.70 |
+| nyctodota | 0.69 |
+| andrejdelaney | 0.68 |
+| thevietnamesedong | 0.68 |
+| samskor | 0.68 |
+| sibinx2 | 0.68 |
+| dachshundddd | 0.67 |
+| jsalari | 0.62 |
+| lolwtfdota | 0.60 |
+| spbx | 0.58 |
+| sightfulprod | 0.57 |
+| steve_mal | 0.55 |
+| octavus808 | 0.52 |
+| evis1337 | 0.46 |
+| camphund | 0.25 |
+
+**Edit:** As an added bonus, here's a list of the messages posted multiple times from yummpi, the top user based on copypasta ratio:
+
+| msg | count |
+| --- | ----- |
+| MingLee DAMN MingLee IT MingLee FEELS MingLee SO MingLee GOOD MingLee TO MingLee BE MingLee A MingLee FAT MingLee ASIAN MingLee | 12 |
+| I MingLee AM MingLee SINGLEE MingLee AND MingLee READY MingLee TO MingLee MINGLEE MingLee | 12 |
+| MingLee does MingLee it MingLee look MingLee like MingLee I MingLee care MingLee about MingLee your MingLee chat MingLee experience? MingLee | 5 |
+| DAMN MingLee IT MingLee FEELS MingLee GOOD MingLee TO MingLee BE MingLee SEXY MingLee | 5 |
+| MingLee HALF MingLee A MingLee WEEK MingLee ON MingLee TWITCH MingLee ALREADY MingLee A MingLee DANK MingLee MEME MingLee | 4 |
+| Kreygasm | 4 |
+| MingLee | 3 |
+| MingLee MingLee MingLee MingLee | 3 |
+| MingLee NOW MingLee THATS MingLee SOME MingLee GOOD MingLee MING MingLee LEE MingLee | 3 |
+| MingLee MingLee | 2 |
+| MingLee NOW MingLee THATS MingLee SOME MingLee GOOD MingLee MING MingLee LEE MingLee . | 2 |
+| MingLee FEELS MingLee GOOD MingLee TO MingLee BE MingLee A MingLee NEW META MingLee EMOTE MingLee rip Kappa BibleThump | 2 |
+| \ MingLee / RAISE YOUR MINGLEE'S \ MingLee / | 2 |
+| GG | 2 |
+| !love MingLee | 2 |
+| 4Head + tbChickenBiscuit + tbSausageBiscuit = MingLee | 2 |
+| Hombrefelipe: 12:53 TwoNuts: 12:52 Dan2309: don't MingLee copy MingLee the MingLee name MingLee when MingLee you MingLee copy MingLee the MingLee Minglee MingLee FailFish | 2 |
+
+Yup, we're aware! It's just that it didn't seem like there would be enough new content flying around each week to warrant regular stickied threads, but the manually submitted weekly discussion that was posted by a user last week changed my mind.
+I really wasn't trying to say anything deep with this. I just replaced Soylent with Bitcoin in [this comment](https://www.reddit.com/r/soylent/comments/3ow16y/their_reactions_boggle_me/cw12usc) and thought it was funny, plus I was curious what responses it would get.
+It must be because of all the soylent. You should've ordered a pizza every once in a while.
+Why the 'food with money' part? This seems way better:
+
+>I don't eat Bitcoin so that other people will approve of my diet. I eat Bitcoin because I want to be healthier and I think that Bitcoin is a good tool to help me accomplish that.
+That, on the contrary...
+That seems pretty decisive, thanks!
+I never saw any source that would confirm that OPPO is the parent company of OnePlus. Do you have happen to have any?
+Aww, I pre-ordered a while ago, and am using a Mac, but my controller is nowhere to be found, not even shipped yet. Pretty sad to see that I could've been this lucky here :(
+We had this in Hungary for last year's elections: http://www.voks14.hu/
+
+The in-app results were off from the real ones by a lot: for the largest two parties they had [41.6% and 23.8%](https://www.facebook.com/voks14/photos/pb.467501020025812.-2207520000.1444485044./555786264530620/?type=3&theater) on record, while the actual results were [25.99% and 44.54%](https://en.wikipedia.org/wiki/Hungarian_parliamentary_election,_2014#/Results) (yes, the other way around.)
+
+To this day [they are posting some pretty cool stats](https://www.facebook.com/voks14/photos_stream) though, they have a new poll each day about a variety of topics, and they post the correlations they find between the answers and demographic data/political preference of users.
+Fun fact: PNR is actually short for Passenger Name Record and therefore refers to the thing where all the data the airfolks have on file about you is kept. The 6 character code is technically a 'PNR locator'.
+[You can actually do that in $200 even with buying just 20 days in advance](https://us.skypicker.com/cheap-flights-from-chicago-united-states-to-missoula-united-states/departure-27-10-2015-27-10-2015/return-2-10), it's just that most search engines don't combine low cost carriers' flights like the Spirit-Frontier connection here.
+It's like a PSA that only tells plumbers that there's a new standard for pipes that have a better flow rate.
+
+The people would want plumbers to know, granted, since they want a higher flow rate and therefore want them to know how to work with the new standard, but the announcement itself cannot be acted upon by 99.99% of the viewers, which makes it a waste of time for them, and all the plumbers knew already anyway.
+That's just ridiculous.
+That's what PSA means, indeed.
+
+But why would this have 'public service announcement' in the title?
+Why is this a PSA?
+Being nowhere near launch probably helped, too.
+Nexopodes.
+> [If you haven't seen anything about fixing the leader issues people have] then you haven't been paying much attention
+
+That's a totally objective (and correct) observation, not sure why you took it as a personal attack.
+Try the cached version http://webcache.googleusercontent.com/search?q=cache:fWioolgEHhIJ:upfone.hu/hir/huawei-es-google-bemutatta-nexus-6p-premium-okostelefont+&cd=1&hl=en&ct=clnk&gl=us
+Yep, I myself used a glove.
+/u/croatianpride you could learn something from this man.
+> a YouTube video on how to open a can with a spoon
+
+WHERE IS IT? Girlfriend and I moved out, got 4 cans to open, and no can opener.\
+
+Edit: By the way, don't bother answering, a search for 'how to open a can with a spoon' had it as result #1, just wanted to put this out there.
+
+Edit 2: It worked! Was not even that difficult.
+How would that even work? 'Okay, radio, insert tape'?
+Thank you!
+I just wrote a note on a post-it, turned on my radio and played a tape without an Internet connection. All of it worked. What exactly is the issue?
+Here's a Stack Exchange UX answer about this: http://ux.stackexchange.com/a/50266
+Hey, I paid for a year accidentally!
+
+...it's totally fine though, I love you guys <3
+Oh right, I guess I didn't even read that far. Edited to add a highlight on that too.
+And yet the first line gives it away:
+
+>Glyph cooldown is shortened **by by** 2.5 min whenever you **loose** a Tier 2 Tower
+Why so cold, man? :/
+Why would they? Also, wouldn't it be reasonable to assume that an average citizen has only one or maybe two crimes they could be charged with? I mean seriously, this gun charge was the best they had in this case.
+I'm sure there's a finite number of things any one person can be charged with.
+A more fitting analogy would be locking your front door and then using some magic power that only you have to shatter reality and scramble that fraction of space so that anyone entering your house's area will be unable to comprehend or interact with anything inside.
+Right, so could that have been used in court in the FBI trial, or prevent the entire trial from happening based on the [Double Jeopardy Clause](https://en.wikipedia.org/wiki/Double_Jeopardy_Clause)?
+
+Cause if so, this might save people in similar situations — hiring a lawyer/private investigator to dig up anything they might be prosecuted for, and getting a (much more forgiving) verdict before the FBI starts to feel the need to have them arrested.
+Right, but here's what my question was:
+
+>What would likely have happened if he turned himself in for illegal gun possession right after he discovered the FBI agents?
+I think you replied to the wrong comment?
+Just wondering: what would likely have happened if he turned himself in for illegal gun possession right after he discovered the FBI agents?
+This subreddit went way downhill since the good old days.
+If you really need me to do this: 
+
+    ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+Here's a `RuntimeError` too:
+
+    eval('()' * 2998)
+
+Edit: actually my Python froze upon running `eval('()' * 9999999999999)` and made my computer awfully sluggish.
+
+Edit 2: actually that must've been just the string multiplication. `eval('-' * 1500)` causes this though:
+
+    s_push: parser stack overflow
+    Traceback (most recent call last):
+      File "<stdin>", line 1, in <module>
+    MemoryError
+In fact, this can sometimes be used to make your patterns more readable:
+
+    reddit[.]com[?]?
+
+is arguably easier to understand than
+
+    reddit\.com\??
+
+especially in more complicated regexes.
+Sorry, but we're not entire comfortable with having pirate-y content on this subreddit, so I've removed this comment. For archival purposes, here's what the comment said, with the link removed:
+
+> Here is the older version before they threw in the in-app purchase. If you want any of the newer features, after they started charging, then buy it. Also, if you really do like it, support the devs. [link] Dont hate, just helping a brother out. Besides, they DID release this version for free so by paying youre being charged for features and supporting devs.
+
+\- /u/leefrank651
+
+Hi /u/dstolbov!
+
+We're sorry, but your post has been removed as spam. Please refer to the [reddit self-promotion guidelines](https://www.reddit.com/wiki/selfpromotion) to find out how to avoid this. The most relevant section of the guidelines is most likely this:
+
+>You should submit from a variety of sources (a general rule of thumb is that 10% or less of your posting and conversation should link to your own content), talk to people in the comments (and not just on your own links), and generally be a good member of the community.
+
+Any further posts that are not compliant with these guidelines may result in a ban from /r/AndroidWear.
+No, you're thinking of [Fallout 3](https://www.reddit.com/r/Fallout/comments/3e0svq/this_was_how_the_train_in_broken_steel_was/).
+My bad, I think that line was off-screen when I opened the image with RES and thought you cropped just the first bullet point.
+'Now usable?' Come on, it already played MP3s, which covers most people's libraries.
+Looking down at a watch on your wrist is actually kind of comparable to looking at a tablet from the other side of your room. Interaction would be a bit wonky, sure, but it's a pretty good idea still.
+>Crime is at an all time low
+
+Just like health issues!
+/u/playlist-this
+/u/playlist-this
+[Caribou](https://www.youtube.com/watch?v=BI2Et19vDCM&list=PL4lEESSgxM_7_AtmGWlkrBI5_s1EpsI2f)
+Hi /u/usb-socket!
+
+We're sorry, but your post has been removed as spam. Please refer to the [reddit self-promotion guidelines](https://www.reddit.com/wiki/selfpromotion) to find out how to avoid this. The most relevant section of the guidelines is most likely this:
+
+>You should submit from a variety of sources (a general rule of thumb is that 10% or less of your posting and conversation should link to your own content), talk to people in the comments (and not just on your own links), and generally be a good member of the community.
+
+Any further posts that are not compliant with these guidelines may result in a ban from /r/AndroidWear.
+A year or so ago Microsoft did this for me with an Office 365 subscription. Had a nice chat with the support rep, too, pretty much my best experience with any kind of support ever.
+I'm just really bad at all this, aren't I :(
+Sorry about that. I'm not a native English speaker and I just can't seem to be able to shake thinking of 'guy' as a gender neutral word.
+If you [search for 'which' in this subreddit](https://www.reddit.com/r/AndroidWear/search?q=which&restrict_sr=on&sort=relevance&t=all), every second result is exactly what you're looking for.
+Editorializing is different from editing. The point is that you're supposed to stay entirely objective in the wording of your title, so it shouldn't reflect your own opinion, just the facts.
+It's like a game of chess!
+Go back to weighing the pros and cons of wine selection.
+But the deadline was reached 16 hours ago?
+But I have the correct flair and title :(
+The only non-issue you have here is the interference with other sensors. (Decay is like 1% per decade, so we'd be left with 29.7 N of force instead of 30 N after ten years. Oh dear.)
+
+>Nobody can argue anything about the new design so why even mention it?
+
+That's exactly the reason I mentioned it. You come in here blurting on about your moronic bumper frame idea like it's an obvious answer and you effectively call the Ara engineers idiots for thinking any further about the problem than your clearly broken and limiting solution ("Jesus guys, just use a locking clear back cover design").
+
+Dude, no. They had a better way to solve this than yours for the past three years. They came up with something even better now. Just shut up with that bumper already, alright?
+But I couldn't find a single reason he said about why the bumper would be preferable to magnets, and I couldn't find one about why it would be better than the new design, either, since that hasn't even been announced yet.
+How about side buttons or sensors? Just the first thing that popped into my mind, there probably are tons of issues that neither of us considered.
+
+The magnets they had were already an upgrade from a bumper based solution, and what they just now announced is that they have something that's even better than those magnets. I don't even know what you're arguing against at this point.
+Great! Now, please read the rest of my comment.
+Please realize that some of the world's best engineers are working on this. I find it aggravating that you feel like you can dismiss the hundredth iteration design that these people have come up with as their best solution yet, after having spent tens of thousands of hours thinking about this problem cumulatively, while, as I'm guessing, you just read a few articles about Ara.
+
+Anyway, have you never had a cover fall off when dropping your phone? How are audio sensors going to work if you cover them? How about practically any other kind of sensor other than a camera? How would this affect heat dissipation? Can you not think of any modules that would need to actually touch something else to use?
+
+And worst of all, why are people agreeing with you?
+Hi /u/rundeboy4one!
+
+We're sorry, but your post has been removed as spam. Please refer to the [reddit self-promotion guidelines](https://www.reddit.com/wiki/selfpromotion) to find out how to avoid this. The most relevant section of the guidelines is most likely this:
+
+>You should submit from a variety of sources (a general rule of thumb is that 10% or less of your posting and conversation should link to your own content), talk to people in the comments (and not just on your own links), and generally be a good member of the community.
+
+Any further posts that are not compliant with these guidelines may result in a ban from /r/AndroidWear.
+> A word of caution I have for everyone is to disable it and never use it. 
+
+Now why would I do that?
+Deep-doop, me too!
+Hi /u/androidoplususa!
+
+We're sorry, but your post has been removed as spam. Please refer to the [reddit self-promotion guidelines](https://www.reddit.com/wiki/selfpromotion) to find out how to avoid this. The most relevant section of the guidelines is most likely this:
+
+>You should submit from a variety of sources (a general rule of thumb is that 10% or less of your posting and conversation should link to your own content), talk to people in the comments (and not just on your own links), and generally be a good member of the community.
+
+Any further posts that are not compliant with these guidelines may result in a ban from /r/AndroidWear.
+At least you read enough to realize that. The two other commenters not even noticing broke my heart for real :(
+[Way ahead of you.](https://www.reddit.com/r/titlegore/comments/3h71uq/samsung_asks_what_will_be_android_m_hints/)
+Hi /u/jjudk001!
+
+We're sorry, but your post has been removed as spam. Please refer to the [reddit self-promotion guidelines](https://www.reddit.com/wiki/selfpromotion) to find out how to avoid this. The most relevant section of the guidelines is most likely this:
+
+>You should submit from a variety of sources (a general rule of thumb is that 10% or less of your posting and conversation should link to your own content), talk to people in the comments (and not just on your own links), and generally be a good member of the community.
+
+Any further posts that are not compliant with these guidelines may result in a ban from /r/AndroidWear.
+I like how it looks.
+> design ques 
+
+http://i.imgur.com/JZ85Pgu.gif
+It certainly does! I think it's safe to say that that is around 500 times more than we could've made if you turned adblock off. Thanks a lot! :D
+All that sounds good, but I don't see an easy way of actually storing over a TB of replays with them.
+
+Google's Nearline however would be perfect for us, but then there's a problem of the team lacking any motivation to migrate over.
+Did we? That's just the TI4 surge in traffic dropping off. We've only grown since then.
+Welp.
+
+/u/RJacksonm1 do something!
+That's weird, there's supposed to be [two ad units right on the homepage](http://i.imgur.com/nzCFuMu.png). You probably are inadverently blocking them with some privacy guard/script blocking extension? I don't know. Not that it matters that much, anyway :D
+We have ads but you're blocking them :(
+
+Edit: To provide some extra information, when we started asking for donations almost a year ago, [we published data about our income and expenses here](http://dotabank.com/donate/). As you can see there we make around 10 bucks a month from ads while it costs 150 USD to run the site. Not much has changed since then, and we've received four donations for a total of 44 USD over these 10 months.
+> price gauging
+
+That's right, those goddamn companies need to stop measuring prices!
+Oh god no, more publicity. You know, we actually regretted doing this, since having more visitors only makes us lose even more money on operating the site :D
+http://www.bloomberg.com/404
+
+http://www.bloomberg.com/500
+
+You know all batteries are replaceable, right? It does not really make sense to plan your obsolence by omitting a battery replacement mechanism, when anyone can just walk into a store and have their battery replaced for thirty bucks or something anyway.
+Okay, let's walk through it then, step by step. What are the incentives driving a company when designing a new phone? Here's all of them:
+
+* We want to sell as many as possible so we can make a large profit
+
+So then, how do you make a phone that lots of people will buy? The answer is not ask /r/android, but instead to go with what people actually want, which is a nice, thin phone.
+
+Hope that helped you understand.
+They also make the chassis design way more complicated, and as a result, the phone more bulky.
+\
+
+Wait up, you dropped this!
+No, it depends on how much you are willing to cooperate with the community by using the same name that everyone does.
+OP made no mention of Hex.
+There's so much wrong with this comment, I don't even know where to begin.
+
+1. I know people from the USA who are well versed in European affairs.
+2. Most Europeans don't know a lot about other European countries' governments.
+3. Lots of Europeans don't know who the president of the USA is.
+4. It would make sense for people all over the world to know about the POTUS as he's leading the #1 economy of our planet, contrary to the leadership of any European country.
+
+Most of this is just anecdotal evidence against your anecdotal evidence, but that even that should be enough to demonstrate how silly your reply was.
+So did everyone forget TI4 being the cover story of the New York Times?
+Do you actually have any evidence that this is more prevalent in the USA than any other country? Each nation obviously discusses news more if they are involved. Just imagine the Huffleville, WA local news station reporting on Phorson, FL's interstate baseball victory in the other corner of the country over their own.
+Media is already the plural form of medium if I recall correctly, no need to tack on an s at the end.
+Hi /u/Zavigor!
+
+We're sorry, but your post has been removed as spam. Please refer to the [reddit self-promotion guidelines](https://www.reddit.com/wiki/selfpromotion) to find out how to avoid this. The most relevant section of the guidelines is most likely this:
+
+>You should submit from a variety of sources (a general rule of thumb is that 10% or less of your posting and conversation should link to your own content), talk to people in the comments (and not just on your own links), and generally be a good member of the community.
+
+Any further posts that are not compliant with these guidelines may result in a ban from /r/AndroidWear.
+http://i.imgur.com/UHqlSgJ.png
+That's what my comment was about, yes.
+All of them?
+Edited [OP](https://www.reddit.com/r/DotA2/comments/3gi0nn/deadmau5_trying_to_play_dota_perfectly/ctyasbm) to reply to this.
+Edited [OP](https://www.reddit.com/r/DotA2/comments/3gi0nn/deadmau5_trying_to_play_dota_perfectly/ctyasbm) to reply to this.
+She started with tons of bot games. This was after she played a whole bunch of those.
+I think this is the first actual useful reply I got, thank you! I completely forgot that limited heroes mode existed.
+She did play alone. New account, queued solo.
+Actually, she played lots of bot matches before this one.
+Edited [OP](https://www.reddit.com/r/DotA2/comments/3gi0nn/deadmau5_trying_to_play_dota_perfectly/ctyasbm) to reply to this.
+She did actually play lots of bot games and had a good grasp of the basics.
+Edited [OP](https://www.reddit.com/r/DotA2/comments/3gi0nn/deadmau5_trying_to_play_dota_perfectly/ctyasbm) to reply to this.
+>If you're going to be learning skills, getting used to movespeed, reading items, why play against people?
+
+She wasn't doing any of those. She had a pretty good grasp on the basics as she played lots of bot games before this one.
+I was not in that game, and she queued solo.
+She was using her own account, obviously.
+Hell, I don't even know how to deal with brood myself.
+The dialog actually didn't show for her.
+What's even more scary is that she won the game. The game might now think she actually belongs in high skill.
+What do you think I meant by '20 hours preparing'?
+
+My girlfriend spent over 20 hours preparing and was really excited about her first game, but she was placed into [this high skill game](http://www.dotabuff.com/matches/1645835449) for her first match, got killed 21 times, got flamed a lot, and decided never to play Dota again.
+
+**Edit**: For the record, I'm mentioning this as an example as how bad it can be even if you are really committed.
+
+**Edit 2**: I'm seeing two things mentioned in replies so much that I will just answer them right here.
+
+>Why would you give her Luna and not a support?
+
+While it may seem obvious to all of you saying this that a new player in a high skill game should pick safer heroes, you are neglecting to consider that we totally did not expect the game to be high skill. Luna's one of the heroes who has guided hero bot matches in Reborn, and my girlfriend did pretty well with her, and I felt like the high move speed was good enough for escaping in <1k MMR. And most importantly, for all we knew in the hero pick stage, my girlfriend was the best player out of all 10, since we expected everyone to be having one of their first matches, and she had the advantage of having read and watched tons of guides, and also having played lots of bot games.
+
+>Why didn't she play bot matches instead?
+
+She did play a lot of those, just not co-op ones. I didn't think a co-op match would have been very useful at that point, as again, 'for all we knew in the hero pick stage, my girlfriend was the best player out of all 10'.
+I got one for fifty.
+Dude, go to EMP and buy a pass from someone who's leaving.
+I liked it.
+Of the the international?
+Yep, happened to us too. We asked the guys at Juggernaut Plaza and they said that they will replace the wrong autograph runes with rOtK ones after the event based on timestamps.
+>Mistake?
+
+Yep.
+It's surprisingly refreshing to see news blips about just plain adoption instead of kind of sensationalized headlines about newish tech that's sorta accurate and sorta new and sorta real.
+Software development.
+M'Ah.
++/u/User_Simulator /u/underyx
+Should've invested in cross-platform thesis tech!
+They would be silly not to consider it, that's like six bucks of revenue promised in a reddit comment!
+Do you honestly lack empathy for content creators (who live off of ad money) so much that you think anyone defending them must be getting paid by Google?
+
+> why do you have to get so defensive about a simple statement of truth unless you are
+
+Can you please quote this statement, just to make sure we're on the same page?
+I can't think of a single reason why this discussion should be made private. So then, can you explain why you think making money is a bad thing?
+You said monetization is not a nice thing, which I find just plain outlandish.
+Oh, so you do have income? You must be kicking yourself for that, re 'Neither is monetization'.
+Now tell me /u/aaa12585, what do you do for a living?
+Well that's not very nice.
+Here's a guide for [prepaid SIM cards in the US](http://prepaid-data-sim-card.wikia.com/wiki/United_States).
+Worthy of a [post in /r/titlegore](https://np.reddit.com/r/titlegore/comments/3e6ijk/here_are_the_oneplus_two_you_will_get/).
+Cool, let me help out with $1! /u/changetip
+Oh so you were just boasting about your ignorance then, I see, thanks for clearing that up with that edit.
+That's not much of an improvement over the original 360 then.
+This post has been removed as spam. Please refer to the [reddit self-promotion guidelines](https://www.reddit.com/wiki/selfpromotion) to find out how to avoid this. The most relevant section of the guidelines is most likely this:
+
+>You should submit from a variety of sources (a general rule of thumb is that 10% or less of your posting and conversation should link to your own content), talk to people in the comments (and not just on your own links), and generally be a good member of the community.
+
+Any further posts that are not compliant with these guidelines may result in a ban from the subreddit.
+Please note that this being the Android Wear subreddit has nothing to do with the issue — you tripped reddit's site wide automatic spam filter, which analyzes aggregate data about your activity, across all subreddits, and tries to identify suspicious activity based on that.
+*;
+No it isn't.
+
+Why would it be?
+> W;h;o; t;h;e; f;u;c;k;;; u;s;e;s; s;e;m;i;c;o;l;o;n;s; c;o;r;r;e;c;t;l;y;?;
+> Who the fuck; uses semicolons correctly?
+
+FTFY
+Programmers?
+Who the fuck uses semicolons correctly?
+
+Edit: Cool, no one realized that I replied to myself three times here, copying another thread's conversation in reply to a '*;' comment from the same guy.
+Whoa, someone climbed up (?) to the camera and held up sunglasses in front of it. Anyone got a screenshot of that?
+This post has been removed as spam. Please refer to the [reddit self-promotion guidelines](https://www.reddit.com/wiki/selfpromotion) to find out how to avoid this. The most relevant section of the guidelines is most likely this:
+
+>You should submit from a variety of sources (a general rule of thumb is that 10% or less of your posting and conversation should link to your own content), talk to people in the comments (and not just on your own links), and generally be a good member of the community.
+
+Any further posts that are not compliant with these guidelines may result in a ban from the subreddit.
+
+So by that argument, private islands are not worth their price either cause the vast majority wouldn't pay millions for one as they're lacking the money?
+You know you don't buy visas, right?
+Ha-ha.
+What's your source for that?
+Do we actually know the reason why his applications are declined? Cause if not, you can't really call this bullshit — they might have a legitimate reason.
+Yep,
+
+> Cycling through different color profiles only really changed the lighter colors.
+
+I don't think that would be worth the time investment. Why do you think they should do that?
+www.dotabank.com might have been confusing them.
+> improper hotkeys removed
+
+Going the family-friendly route, huh, Valve?
+    <@SteamDB> » Changelist 1159680 (1 apps and 0 packages) - https://steamdb.info/changelist/1159680
+    <@SteamDB> App: 570 - Dota 2 (needs token)
+
+Fixing that formatting for you.
+Oh, right, haven't actually checked the link :3
+Awww, don't do this to #SteamDB :(
+I've been bugging Cyborgmatt for months to change it, making this modification myself to demonstrate my point, and even helped him a little on IRC to change it, so this has kind of been my cause to fight for in the past two months.
+
+I did it because… I don't know. I guess the small differences are more easily identifiable and analyzable. But it does make the big picture less apparent, such as the difference between the peaks along the X axis. Actually /u/Cyborgmatt can you change it back? :l
+Explanation by an IAmA moderator here: https://np.reddit.com/r/Blackout2015/comments/3cebd5/5_sockpuppets_have_just_been_added_as_riama_mods/csuv3lp
+With no knowledge of how exactly this works, I think allowing sites to vibrate the phone is entirely reasonable, and I'm also pretty sure that Chrome can't really differentiate if the request to vibrate came from the actual site, or an embedded ad.
+
+I feel like the solution is the same as for sites with ads that have sound. Just don't use them.
+> It's rare that the original is outdone by the copy cats
+
+Like Google for search and Facebook for social networks, right?
+Seriously, it looks like just a regular 13 MP photo blown up to twice the size. I can't believe so many people are falling for it.
+Mine burned down after 3-4 months. Got credit for it at the store and bought an HD 5850 whose price went down to how much the HD 5770 was.
+Sounds great! I backed Sportsfriends on Kickstarter actually, but never got Move controllers to be able to play JSJ. Really glad you made this game!
+Inspired by [Johann Sebastian Joust](https://www.youtube.com/watch?v=zAItyrx4Pp0)?
+Cause OP is a goddamn mess. If you're actually picking up this fight, you might want to take a look at [his comment history](http://i.imgur.com/uZJdrQF.png).
+They just released the reborn client beta and are deploying 30 item long changesets to it every two days. Come on. 
+>expenditure consists of taking workshop stuff and selling it 
+
+You surely don't actually believe that.
+Why was 'obtained' and 'their' not capitalized, then?
+A visa is not a proper noun, you don't have to capitalize it.
+This entire thread is about a person whose request was denied twice, for your information.
+I'd prefer if the all-star match didn't have a monetary incentive for victory, I liked how the players didn't take the match that seriously in the previous years.
+YOGA
+Well what do you have to say to this, then? http://i.imgur.com/wI83oZu.png
+Come on guys, let's get him down to -16!
+To be fair, the less paternosters there are, the more business he gets.
+Hold on a sec, who is gold?
+So it's a good idea to fill my bags with rocks just in case?
+But you need to be awake!
+So *that's* the train we were supposed to get on!
+Of all the reasons there are to be mad at Steam's support, you just didn't hit any.
+
+How did you get scammed out of items in the first place? Valve is making so much effort to make sure no one with half a brain gets scammed. Also, if someone scammed you out of $1K, would you be mad at the treasury for not printing you a thousand dollars to reimburse you?
+> they are focusing on VR
+
+Do we even know anything about how large a part of the company is working on VR?
+A friend of mine wrote up some pretty lengthy criticism, [it might be useful](https://www.reddit.com/r/DotA2/comments/3aougk/esl_one_frankfurt_2015_feedback/).
+Okay but counting you is cheating, you laughed for an hour at a simple neigh.
+> Everything started on time
+
+Right, except when C9 were 40 minutes late to their premium area signing session, and even then they didn't have EE and N0tail there.
+Actually that's the sole reason I posted this photo. It's /u/dyslexicat's head on /u/RJacksonM1's body, stitched together by the panorama photo algorithm. We cumulatively spent at least an hour laughing at that.
+Indeed, I think it's better if we just pass on this one.
+You must have missed the other 95% of the announcements, then.
+https://en.wikipedia.org/wiki/Principle_of_bivalence
+Now that's just entirely false.
+Why would that be a good thing?
+I don't think anyone here was criticizing his commentary to hurt his feelings.
+It's not even speedrunning, just getting as far on the level as possible.
+B O Y S
+>I don't know about that. The company is new and their cash flow is limited, so the chance of that happening is almost 0%.
+
+You really couldn't take that extra second to type out your comment like this?
+What's wrong with it? It was initially random, but due to users thinking it wasn't with all their cognitive biases, they had to implement a specific (pretty smart) algorithm for it, [as described here](https://labs.spotify.com/2014/02/28/how-to-shuffle-songs/). I have no idea how it could possibly be made better than that.
+Neat, thanks, man! This amount is actually enough for five beers here in Hungary, so you just made two whole nights of mine.
+
+Magic, whee!
+Fair enough, that doesn't sound that bad anymore. Actually, I guess my real issue with sentiment like yours, which I unfairly projected onto this conversation as well, is that people are getting mad at companies for making decisions they don't like. They are getting mad without even trying to find out the reasoning behind the decision, and that bothers me a great deal. And even when such decisions turn out to be bad, why is everyone ignoring the fact that no one can predict the future? If there's a $1M investment a company can make to launch a product that has a 90% chance to fail, but will bring a profit of $100M if it succeeds, they definitely are in the right to go for it, and I can't stand the sad reality that companies are hated on after such a project turns out to be a failure, and that people feel superior to them for having predicted the failure.
+
+I know this isn't entirely applicable to you, so I apologize for basing my previous comment on this mindset.
+Okay, with all due respect for RES, I think you're the one not thinking it out here. From what I've seen you write and do, I'm actually rather surprised that I see your name above this comment.
+
+Do you honestly think that without having any access to Spotify's data, without any experience (supposedly) with leading a corporation in the music industry, without any information about what kind of people Spotify's user base consists of, without any knowledge of the specifics of the deals Spotify made with the manufacturers, based only on your own experiences… do you think that with all this on the table, you can just state as a fact, that Spotify made a bad decision here? Do you really believe that a company the size of Spotify just "doesn't think it out" when it comes to defining business decisions such as this one?
+Stars off their rating? Sure. Users leaving? Yeah, they deserve that. But users getting emotional over this and yelling at them? What's up with that?
+Hmm, indeed, I wouldn't know of this myself since I've never downloaded tracks. I'm assuming that so few people use downloading, let alone to a custom location, that Spotify didn't think the feature was worth the time investment? Both for the cost of initial development, and the time that the added complexity wastes later on.
+
+Now that I think of it though, couldn't you just reinstall an older version of the client until your subscription expires? I'm sure there's another music service you could subscribe to instead that has this feature.
+That kind of makes sense from a business perspective, though, doesn't it? Especially if we assume that from the tons of partners, at least a few insisted on including an exclusivity clause for the platform in their contract. I don't see how it's fair for someone to be mad at a business for wanting to make more money and/or uphold their old contracts. It's not really unethical to not work on a specific new feature.
+Weird, I never had any problems with performance, and I like the design, too. What devices are people having performance issues on?
+What's wrong with it?
+What did you hate about it so much? I liked the update.
+What did they do so wrong that you're this hostile towards them?
+Nope!
+Én úgy érzem, hogy azzal csak magunkat szórakoztatnánk. Az emberek 80%-ának szerintem el kéne magyarázni a kontextust.
+Dude, no. Not this one. This one has horribly broken scrolling, it's near unusable with a touchpad. I imagine the experience is just as frustrating with a scroll wheel until you learn how to use it.
+
+However, I suggest that you look through the thingies listed here, check out their demos, and if you see one that you like, pray that it's easy enough to set up (some of them only need you to drop in a script tag in your HTML file): https://github.com/moklick/frontend-stuff
+Wow, they just updated [the funding log](https://docs.google.com/spreadsheets/d/1Faqcki4Woh85wOQdl0P9rDKWaCvlG5r4woth0dkCMew/htmlview?usp=sharing&sle=true) and they're already at 1&nbsp;634&nbsp;027&nbsp;HUF!
+Alright, I wrote the details down again. Really sorry about the vague, low quality post I had up there earlier.
+So it turns our my post was missing 90% of the text body I wrote, so sorry about that! I've edited it now to re-add the details.
+Huh? UberX is the main product of Uber.
+Oh dear, I'm sorry, I posted this from a phone and it cut off 90% of my submission, with the details. I'll see if I can recover it from somewhere or I'll write it up again soon.
+I don't think it matters? How are they different from an organizer's perspective?
+Én igen, de bemásolom ezt az emailből amit a szervezőknek küldtem, mert érdekel a véleményetek:
+
+>Viszont fontosnak érzem megemlíteni, hogy én sokkal szívesebben látnék a most a bejegyzésetekben lévő frappáns/kormányt támadó gyerekesebb plakátok helyett inkább olyat, ami minden irónia nélkül azt hangsúlyozza, hogy mennyire szégyelljük a kormányunk álláspontját és viselkedését a témában.
+
+>Gondolok olyasmire, hogy "Hungarian citizens contributed millions just to tell you we're sorry" — nem vagyok a legjobb copywriter, úgyhogy nem is gondolom, hogy ez így tényleg egy jó szöveg volna, de szerintem legalább nagyjából szemlélteti, hogy milyen mondanivaló mögé tudnék én teljes mértékben beállni.
+>Is there someone we can blame for this […] let them fear the gaming community for next year
+
+Jesus, business doesn't work like that, don't be jerks to them for this. 'We weren't able to work something out' means that ESL didn't want to or couldn't pay them enough to get us free public transport. No one is at fault here and whining is not going to just magically create more wealth to support the extra transit usage.
+
+Edit: /u/Fluffz86 had the following comments, each one deleted:
+
+>Is there someone we can blame for this, e.g. facebook page with the guy you negotiated with? Also I would be interested how much money they wanted for 10k people using public transport? Isn't this something the stadium "owners" should be dealing with, since I guess it is pretty standard for football matches or concerts.
+
+----
+
+>since I am downvoted a lot, this was mostly aiming at the aspect whether it was not manageable at all (e.g. then we should raise awareness) or the organizers were just not willing to pay enough. calm your tits guys...
+
+----
+
+>that was what my second question was aiming at, one can easily calculate how much the 4 rides per person would cost and see how much discout the people at rmv were willing to give(if any, normally these companys do not deal with small amount of people individually, thats why I thought the stadium would have a default agreement).
+With a international audience it should be something the organizers should be willing to give a few extra bucks just to make everything smoother and not let the people start the day with confusion how to get to the event and pay way too much by being unable to read the instructions on the maschines.
+Comparing to the amount the VIP tickets cost, this is something I cannot agree with and if the fault is on the rmv side I guess putting a bit bad publicity on them would be the way to improve this for next year.
+permalink
+Oh well. I think I'm going to opt to use Uber for getting around, then.  Especially since they have a referral program, and for everyone who signs up [here](https://www.uber.com/invite/uberunderyx), I get a free trip of up to 10 EUR. Oh right, and whoever signs up with it also gets a free trip.
+
+I dunno, you could even link your own referral codes to start a referral chain and give the entirety of reddit free car rides. But, like, whatever.
+You can't start off a post with an excited title and then just make a nonchalant 'tho' remark in your post body.
+To no avail, you mean.
+
+Also, I'm pretty sure I had this on 5.0 as well. Or to be more precise, ever since I had Ambient Display.
+>Video Game Tournament Raises Only $50 Million, Competitive Gaming Considered Dead
+Bad redditor, go read the article.
+Oh, thought you were posting these just to piss me off after how I overanalyzed the refresher one.
+
+1. You don't eat tangoes, you use them to eat trees.
+2. "I've not seen you until now" is not really enchanting.
+:(
+> I found your hair to be gorgeous.
+Fine, actually I did get that, but I wanted to point out that while the intended meaning is clear, the comment makes no sense at all, which, for some reason, pisses me off a great deal — especially when not only does everyone glance over this fact, but he actually gets outright praised for being so witty.
+
+You see
+
+> Are you a refresher? Because I can ravage you twice in a row
+
+can be modified to be written as
+
+> I think you're a refresher, because I can ravage you twice in a row
+
+while retaining the same meaning. This sentence is based on the following implication:
+
+> If someone can be affected by Ravage twice, they are *(at least likely to be)* a Refresher Orb.
+
+Now, in my plenty of hours of playing Dota 2 I have never seen a Refresher Orb affected by any skill other than Doom. Not only that, but I also have seen quite a lot of things being actually ravaged twice, none one which/whom were a Refresher Orb.
+But… what? How does he ravage a refresher? Let alone *twice*?
+My point still stands even if it's a hundred articles.
+I don't see how that's relevant.
+You can't just make such claims based on "I guess that's something she would do".
+That sounds like a horrible idea. You can't just ban an entire domain for incompetence displayed in one of their articles. The idea behind reddit is that votes are the way to sift through content to get rid of the low quality ones.
+You do realize you get more stuff at level 5 this year than with a level 25 one last year?

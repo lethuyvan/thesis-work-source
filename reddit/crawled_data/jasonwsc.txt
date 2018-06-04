@@ -1,0 +1,1645 @@
+I have a Samsung SSD, so I use Samsung Magician.
+Yeah but the article does not say defrag your SSD, if anything fragmentation occurs because of the newer and less reliable file system F2FS. Hence the OnePlus 3 example.  
+
+Trimming your SSD is more than enough for the vast majority of cases.
+Only thing was that SSDs need to be trimmed and not defragmented, since defrag puts extra wear on the SSD.  
+
+Though I don't think it matters much. I had my SSD for a year and only wrote about 5tb, considering most drives are rated for at least 250tb, that shouldn't be a problem.
+Honestly if the OP6 launches at $600 I would just get the S9. Probably cheaper that way.
+Probably by plugging it into a charger  
+
+I would definitely change phones if the power button breaks though.
+The newest one is the XZ2, but it doesn't have a headphone jack. So yeah, not an option. XZ1 is the last year model with the Snapdragon 835 and also a lot cheaper.  
+
+Sony's pretty good with updates, especially the monthly security updates.
+I think the Xperia XZ1 is pretty good for the price and meets all your requirements. 
+Blaming the state of local football on the price of world cup seems a bit far fetched tbh. FYI La Liga/Bundesliga and Champions League are available for a perfectly reasonable price of about $20 a month. If anything, blame the FAS for not nurturing young players.  
+
+Kids who want to play, are going to play, with or without the $100 world cup.
+They launched a phone with nougat in 2018...
+I just press the title when dealing with embedded videos. Works every time.
+[Unlock it officially](https://www.att.com/deviceunlock/) Choose I'm not an AT&T customer.
+
+Might need to wait a few days though. There were a few reports of Samsung not sending the IMEI to AT&T. Think they will probably fix it soon.
+Why not get the S9 instead? The AT&T S9 from the Samsung website is about $580? Then get it unlocked for free.  
+
+The OnePlus 6 isn't getting any cheaper that's for sure.   
+
+That being said I will probably get the OP6 over the Essential. Sure the Essential is cheap, but it comes with way too many compromises.
+That is just cherry picking at its finest. Read and reread Mod S's reply and tell me with a straight face that he doesn't have an agenda. Good enough to fool someone who has never lived in Singapore at least, or someone who really hates the country and doesn't think rationally.   
+
+> When Singapore broke off from Malaysia, the **then President's remark was to build closer relations with China**, among others.  
+
+LOL.  
+
+> It was clearly the **British who built the city, which you can clearly see where there's a statue of Raffles,** ...  
+
+By this logic, Australia too is built by the British and the US built by Columbus. Also the good old PAP didn't do anything argument. Last time I checked, the British didn't build the house I'm living in now.  
+
+> **Racial harmony day is bad!** Singapore has seen **many race riots!** 
+
+If anything, the day forces people to reflect on the mistakes instead of sweeping it under the carpet proclaiming all is well like in some other countries. And does the guy have any idea what an actual racial riot looks like?  
+
+If you actually believe Mod S's comments, you really need to **stop being so damn gullible and start thinking for yourself.**
+
+
+
+
+
+
+No.  
+
+It's a problem with the RAW output, so all third-party apps have this issue.
+I want a dot free RAW output on third-party camera apps, is that too much to ask?  
+
+Not just GCam mind you. Have you tried other camera apps on the play store?  
+
+Try harder next time edgelord.
+
+
+Judging by the Lazada homepage, yeah.
+Might want to wait for a Lazada sale in a week. I got mine for around $90 with some coupons a few months back.
+Those dots are definitely visible on my OP5, especially when using GCam.  
+
+They don't show up in the stock camera or the OP3 though, which makes it even weirder.
+I have no idea what happened, but now I have 2 Google Pay apps installed on my phone after installing the newest OnePlus 5 Oreo 8.1 update on my phone.  
+
+Just disabled one and all seems to be working fine. Might try buying something later.
+iOS doesn't show notification icons, period. But the Network Signal, WiFi, clock etc are [pretty similar](http://media.idownloadblog.com/wp-content/uploads/2017/06/iOS_11_move_multiple_home_screen_app_icons_iPhone_screenshot_001.jpg).   
+
+The network speed is usually an option on Chinese phones, and if you turn it off, it's pretty much [the same as iOS](https://2.bp.blogspot.com/-HTY-FOALGZA/V2K0aA41RlI/AAAAAAAABHw/Phj-m2JHTwUFjYDeM5upSXH7fyhvnxXhwCLcB/s1600/c1.jpg).  
+
+Chinese phones sometimes only show a single 3 dot icon for all your notifications. Seriously just go full Apple and remove the 3 dots if they love Apple so much. And remove the notifications when screen is unlocked.
+Because Apple.
+But [Epson](http://www.manutd.com/en/Partners/Global-Partners.aspx?sponsorid=%7B6501BEC2-2BCD-41EC-8B23-592A1B4B5A04%7D) is already the Official Office Equipment Partner. Those guys probably also supplied the fax machine.   
+
+Seriously though what partner does United not have.
+Well it's a phishing attack, so at least the school systems weren't breached...  
+
+I'm just glad my password is hunter2 and shows up everywhere else as *******.
+Probably yes, but with a few conditions.  
+
+1. AMOLED screen. Individual pixels have to be off.  
+2. Hide it while the phone is in landscape. Can you imagine losing part of your web page in the browser? Do it like the iPhone X, but with black bars, NOT white. Or just leave it off-center to the right.  
+3. The icons are only visible on a black background when in portrait mode. Turn it off at any other time.
+This sub has really grown on me :(  
+
+I have embraced the dark side.
+Geez so much fucking negativity in this sub, but really what did I expect anyway.  
+
+Blah blah other countries have better public transport.  
+
+Blah blah we exploit foreign workers.  
+
+Blah blah Singapore sucks so much I am sooo glad to be out of this shithole, but too bad I'm poor because the government took all my money with a 2% increase in GST.  
+
+Blah blah foreigners took er jerbs, can't compete with Indians/Chinese/Filipinos/White people/fellow Singaporeans/anyone who is remotely competitive.
+
+This sub has gone to shit, just fk off back to EDMW already. 
+[Use the search bar](https://www.reddit.com/r/oneplus/comments/7vd5ol/should_i_buy_the_oneplus_5t_sandstone_white/)  
+
+Yes just order what you want.
+Ringke fusion seems to have them.
+Guys I think I found the lost uncle from ST Facebook comments.  
+Not even in Singapore lah...  
+
+We just reposting ST now is it?
+Well the WiFi speeds are significantly more stable. Easily 100Mbps on 5Ghz band, most of the time 180-220Mbps in the same room, 80-120Mbps everywhere else.  
+
+You really should be using wired if you want a consistent speed over 100Mbps though.
+I use SingTel, though I changed my router to a Netgear Nighthawk.  
+
+Most of the time, it has more to do with your router than your ISP, so just get the ISP that gives you the best router for free. 
+If you are young (not retired yet), cashless is definitely the way to go in the future.  
+
+But we really should spare a thought for the older folks. How are they supposed to get their credit cards now? Is it a bit too late for that?  
+
+I can get my ezlink topped up with a machine for free in less than 30s, but poor Grandma is gonna end up paying extra at 7 eleven because she doesn't have a credit card on her. And don't get me started on how stupid it would be to not be able to board a bus even if you have money, just not the card. Even China doesn't do that.    
+
+There's nothing wrong with a cashless society, and encourage people to do so using discounts. 3% discount at NTUC Fairprice etc. But always have a fallback in mind so as not to punish the old folks (and possibly the absent minded and tourists). 
+
+TLDR: Don't be Apple and remove the headphone jack. Bluetooth still works either way.
+I still have the bumblebee somewhere. The exact same one in this photo.  
+
+But I was born in the 90s.
+I have no idea why CNA wants to write about this but well, good to know.
+At least it [comes in the box](https://www.gsmarena.com/sony_xperia_xz2_xz2_compact-review-1731p2.php)  
+
+A solution to a problem that shouldn't have existed in the first place.
+We always call them Tottenham or Spurs, don't really know their full name.
+Assistant has been telling me when to leave my house now since the start of the year. Well I guess there are some benefits to turning on GPS on the time...  
+I have no idea how they end up with enough money to sponsor [Tottenham Hotspurs](http://www.leagoo.com/wp-content/uploads/2017/09/0-1024x640.jpg). I'm sure Harry Kane loves his phone...  
+
+Though to be fair seeing [Steph Curry with a Vivo](http://gaia.adage.com/images/bin/image/jumbo/vivo3X2.jpg) phone is also pretty amazing.
+I found the app Adapticons to be super useful for this. Just export the icons as png and use Nova to change the icons.  
+
+Also the Pixel icon pack and adaptive icons in Nova. Every single one of my icons are round now and they look great.
+
+Link me: Adapticons
+Go on to ns.sg and book a dental appointment. I think they will show the closest one to your unit?  
+
+Or just ask your ASA and see if they can get the number for the closest camp with dental near your house. 
+Citation needed.  
+
+Many subway systems over 50 years are falling apart, eg. NYC, London, Paris Metro. Well I guess Tokyo is running fine.
+TBH the OnePlus 5 speakers aren't super impressive. It's very loud, but the frequency sounded kind of, off...
+
+Pretty sure my Xperia Z5 sounded better.
+Just rinse with water and throw in extra plastic bag lah.  
+
+If not how to cook maggi.
+I am of the opinion that there is much more to the story than what is being portrayed right now. [And it seems that I may be right.](https://www.reddit.com/r/singapore/comments/826e5t/turtle_museum_owner_makes_plea_to_pm_lee_to_save/dv90u8v/)   
+
+Anyone who comments first gets to set the narrative, especially on Reddit, and I for one am getting tired of all these knee jerk reactions.
+I don't see why NParks has to compromise on this matter TBH. If you do read the article, many of the species of turtles are not native to the country. Granted not all introduced species might end up being invasive ones, but you can't really fault them for playing it safe and not wanting it in the national parks.  
+
+Everyone is just getting all emotional without thinking rationally. And of course, it's **always** the government's fault.
+Yeah US carriers [raise the price too anyway](https://www.reddit.com/r/Android/comments/80wqx4/us_carriers_marking_up_cost_of_the_samsung_s9_and/) and their phones are sim locked. Meaning you can only use their carrier's sim card on that phone. You can only unlock when you finish your plan.  
+
+Also bootloader lock etc. But most people don't care about that.
+
+Imagine if SingTel does that...
+You don't need to root to install OxygenOS, thought that was pretty clear. 
+
+Placing it in the root of the internal memory just means putting the file on your phone, NOT rooting it. Yes you will get OTA updates since it is an official OnePlus file updated the official way.  
+
+If your phone is not rooted, SafetyNet should not be tripped. 
+And the list is pretty much wrong on every single level.  
+
+LG G7 nowhere to be found.  
+XiaoMi Mi Mix 2S has been released instead of 3.  
+Sony Xperia XZ2 is already out, and not the premium/pro version.
+I bought mine from arrow.com when they had a sale.  
+
+They often go down to around $25 USD. And free shipping to Singapore too.  
+
+If you want a third party case, there are plenty on AliExpress for cheap.
+[Too bad I have your comment history here](https://www.reddit.com/user/tancredi88)  
+
+Someone who posts to both r/The_Donald and r/europe. Hmmmm
+
+Feel **F**ree to go back to your motherland. We're **S**orry our intelligence services don't pay as well. Oh **B**oy this has been fun.
+No offence, but I feel slightly suspicious of OP's intentions here.  
+
+Just look at his username and comment history. It's very weird...  
+
+
+If that's true ITE and Polys won't be the ones with better facilities.  
+
+Just saying.
+> If schools and universities continue to source talent by looking only at results, they will be stuck with the same non-Malay crowd.
+
+So instead of looking at results, you suggest that schools accept students based on ... race?  
+
+Do you want Bumiputra policies? Because that's how you get one. And we all know how well that turned out. (Hint: not very well)
+Yeah beds are overrated, just sleep on the floor.  
+
+Gotta embrace the minimalist lifestyle.
+~~I think that's his point?~~  
+
+~~He's saying most of the opposition are not exactly LGBT-friendly as well.~~ 
+
+~~EDIT: What happen sia. My English wrong meh?~~   
+ 
+EDIT 2: I wish to apologize to all my English teachers.
+If anyone is wondering, the guy wants to know how the Global Times (communist mouthpiece) will report this.  
+> Using his smartphone as a torch, Rohana allegedly entered the exhibition at about 9.15pm on 21 December, embraced one of the ancient sculptures, and took a selfie before appearing to snap off a chunk of its left hand and pocket it.  
+
+It's like an episode of It's Always Sunny...
+Nah it's just filled with the blood sweat and tears of NSFs.
+Just be careful with your headphones and don't stretch them too much.  
+
+I've never had a pair crack on me, and I've owned some pretty "fragile" ones (eg. Beats and the MDR-1000x I have now)
+Which are surprisingly popular. I saw more 1000x series than Beats and Bose combined recently, so they must be doing something right.
+I really wanted the Xperia Play but ended up with the Xperia Arc S.  
+
+Both of them are excellent looking phones, and could really work with a newer chipsets/internals and maybe less bezels.
+You are not going to use your phone much in BMT anyway. The signal sucks and you don't really have much time. Just turn it off. 
+
+They will probably lend you a tablet with charger to surf the internet so bring along some earphones if you want. So much for e-learning lol.
+[Video](https://www.youtube.com/watch?v=aLUoiN2_IO8) also available.
+OK sure. I have written a [guide](https://forum.xda-developers.com/oneplus-5/how-to/guide-installing-oxygenos-chinese-t3647409) for the OnePlus 5 a few months back.  
+
+Obviously the files are different for the 5T but it's pretty much the same procedure. It's actually as easy as updating an official update from OnePlus. No wiping or ROM flashing.
+I did that to my OnePlus 5 with no side effects, so no.
+The hardware is completely the same. No differences whatsoever.
+
+Chinese version comes with HydrogenOS, you need to flash OxygenOS yourself. Not too hard to do, plenty of guides online.
+Just FYI, you can get both keys + a few more games on the [Rockstar Humble Bundle](https://www.humblebundle.com/games/rockstar-games-bundle) going on right now.
+No way it's worth that price. Get the older flagships.
+That's the thing, I too have fallen for this before.  
+
+Just want people to take a step back and realise that they too are part of the problem. Hence the shame on us.
+Buy it from Lazada if you want the warranty, but apparently we only get 1 year local warranty instead of the 2 years in US.  
+
+I don't think many keycaps will be compatible with the K70, but it shouldn't be too much of an issue for a first time buyer like you. I have the Corsair Strafe with MX Browns and they work pretty well.
+Noted with thanks, will revert ASAP.
+To be fair the stores can sometimes get you a lower price. I managed to get them to price match their online site + get extra free gifts or warranty.  
+
+There are still some benefits to going to physical stores.
+73% upvoted, dis gonna be gd.  
+
+In all honesty though, r/Android thinks of itself as a bunch of tech enthusiasts who know it all and think they are representative of the general population, while being manipulated by a some random self-professed "hacker" on Twitter.  
+
+And then we have the "bloggers", who are only in it for those sweet sweet clicks that will give them more ad revenue. This lends the original rumor credibility and redditors give themselves a pat on the back for giving the big bad company the finger. Especially OnePlus, but also Samsung back when their batteries were exploding. And the circlejerk continues. It almost seems like people love drama, and will go out of their way to make more. They don't really care about the issue at hand, do they? 🤔 Too bad anyone who calls them out on their BS gets downvoted to oblivion...  
+
+Now to be fair this happens on every subreddit, but r/Android is particularly susceptible to this since many tech blogs/"news sites" take their content directly off Reddit. Shame on them, but shame on us as well.  
+
+So maybe think before you post the next time? 😎
+Gotta try my hands on writing a generic primary school Chinese composition.
+
+在一个风和日丽的早晨，小明、小华和小丽正走在上学的路上。他们突然看到一个老婆婆跌倒了。小明立刻把老婆婆扶起，小华捡起掉下的苹果，而小丽用手机叫救护车。   
+
+...
+
+老婆婆说：“你们都是好孩子！” 他们听到后，感到非常开心。虽然上课迟到了，但是他们做了一件很有意义的事，所以老师、全班和校长称赞了他们。经过这件事后，他们了解助人为快乐之本。
+
+Translation: 3 kids, John, Michael and Jane (generic names) see an old lady fall down on their way to school. Our heroes pick up both the old lady and her apples/oranges while calling an ambulance (probably totally unnecessary).  
+
+[write something here depending on how long the compo needs to be]
+
+They then get praised by literally everyone for their good deed. [Insert moral of story here]
+Oxlade-Chamberlain would like to have a word with you.
+Pretty sure it feels like the iPhone X.
+I read it from left to right though...  
+
+1 new MRT station built every 2 months so we will all be closer to a station by 2030.  
+
+Read on the same board. Cannot count is it? /s
+[Yep](https://www.youtube.com/watch?v=i5ZM0-f5_CU)
+[For those who want the video with commentary](https://youtu.be/rQ2i_UZOeT8?t=65)
+Probably just a [dud](https://www.gsmarena.com/sony_xperia_xa2-review-1714p3.php). Headphones aren't affected, only issue is with an external amplifier.
+Some thoughts after the scathing threads such as [this](https://www.reddit.com/r/singapore/comments/7nt8ad/singapore_airlines_move_to_charge_credit_card/) and [this](https://www.reddit.com/r/singapore/comments/7o7ab8/singapore_airlines_flipflop_risks_hurting_its/).  
+
+Are we too harsh on them due to misplaced anger or is it justified?
+Only way is to call them out...  
+
+u/DingleberryHandpump-, u/IamSachin and u/RE4PER_, please explain yourselves?
+Oh hor, Xiao Ming never read article properly and try to comment while missing the point completely. I tell mod.
+How did you do it? Can't update mine to 2.5.21, just won't install.  
+Try [SG BusLeh](https://play.google.com/store/apps/details?id=originally.us.buses&hl=en). It's also on the iOS.
+What's a computer?
+Caning for littering.  
+
+> However, the harm caused by malignant words does not diminish when they are delivered via the Internet. The rising tide of vitriol online, such as those found in the comments section on websites and social media, can also have a demoralising impact.  
+
+You don't have to scroll far, just go down to the Facebook comments on ST.
+Just did a quick search for Shanghai Dragons (上海龙之队) on Baidu and I can't find a single report of corruption and player discontent. And that's just weird...  
+
+Heck the first article was about players [asking for fans to stick by them](http://wangyou.pcgames.com.cn/697/6976634.html) Maybe they are just really good at covering up whatever the hell is going on in the team.
+Man it feels weird when you read about something [on the news](https://www.channelnewsasia.com/news/asiapacific/26-chinese-tourists-cheat-death-in-speedboat-explosion-in-9860534) about a scenario you could have been in a few days ago.  
+
+While our boat obviously didn't blow up, the engine died in the middle of the sea after the fuel line was blocked. They have to manually pour fuel into the engine and god knows what would have happened if there was a spark...  
+
+Sadly, with the [number of boats they have](https://i.imgur.com/PfoN33L.jpg) it's going to be difficult to enforce safety measures. Still the [beaches are great](https://i.imgur.com/8pO68OZ.jpg) and I learnt [something new](https://i.imgur.com/EbEC41s.jpg). Not exactly worth losing your life over though.
+smort
+You really don't want to check in your guitar. I hope the baggage handlers in Changi are a lot better than Chicago O'Hare, but [you get the idea.](https://www.youtube.com/watch?v=5YGc4zOqozo)
+Hmm an app to try on my TV, fingers crossed it will work better. Thanks BTW.
+Judging by my experience with my Sony Android TV, not so much.  
+
+Google managed to completely break 60fps playback on Youtube for 3 months after releasing their HTML5 app. Frame drops everywhere and it became a stuttery mess.  
+
+Also, my Android TV has never been able to stream 4K 60fps smoothly. That was not a problem in the past since the YouTube app maxes out at 1440p 60fps, but now I don't get to change resolution and it defaults to 4K 60fps.  
+
+Just a total clusterfuck.  
+
+EDIT: Apparently Smart YouTube TV is an improved YouTube app for Android TV made by Russians? Well at least the source code is up.
+Obviously LDAC since my headphones (MDR-1000x) supports it, but can't really tell the difference between the two TBH.
+[Happy New Year](https://www.youtube.com/watch?v=LjNhW2mR1lM) for the optimist in you!  
+
+I really should be watching something else.
+Yeah it has always done that. Nothing special, moving on.  
+
+On the other hand, LDAC in Android O is a good addition.
+[Check this out.](http://osxdaily.com/2017/09/27/download-complete-macos-high-sierra-installer/) This tool allows you to download the full installer.
+The North Spine is basically a shopping mall compared to whatever is in the South Spine. The North Spine has  
+
+1. An air-con foodcourt that uses cards for some reason  
+2. McDonalds + Subway + Starbucks + Long John Silvers + KFC + Pizza Hut  
+3. Supermarket (Prime)  
+4. Bookshop  
+5. Library  
+6. Bank (OCBC)  
+7. Minitoons  
+8. More food (Korean, Italian etc.)  
+
+And the South Spine has  
+
+1. Foodcourt with anti-bird system that screams every few minutes (Koufu)  
+2. A computer shop that nobody goes to  
+3. Some cafe in the Hive  
+
+So yeah, pretty jealous of you guys. :/
+I wish I won't go blind staring into the sun, but sure I will try looking up once in a while.
+Went down to the store at Orchard Central last week. The food is priced pretty competitively, but many products aren't actually that cheap TBH. 
+No one died during my 6 years there(I think), so that's a good sign...
+I don't know, take the bus?
+Really meh, near Bukit Panjang/Upper Bukit Timah and have MRT also.
+We try to mitigate this problem with NS though!/s
+I chose the Pixel 2 XL almost every time. I seem to be very particular about details and clarity, especially for night shots since it doesn't seem to overexpose like the iPhone.
+Well if your car is 14 years old Alabama will welcome you with open arms.
+I used their Ship-For-Me service when buying from TaoBao on 11/11 this year and got it within a week.  
+
+Tried the Buy-For-Me service last year and it was unbelievably slow. Honestly if you can read Chinese you should try buying it yourself anyway.
+[Whataboutism](https://youtu.be/1ZAPwfrtAFY?t=431)
+The HD600 and MDR-1000x are very different headphones aimed at different people. The HD600 are meant to be used with DACs/amps and will not sound good powered by a phone (unless you get an LG or something).  
+
+I believe the Momentum is a better comparison, because it is a **consumer-oriented set**, like the MDR-1000x.  
+
+Unfortunately you have also completely missed my point about the Airpods, I was making a comment about the **price premium of wireless sets**. The Airpods and the MDR-1000x are examples of how much **more** you can expect to pay for a good quality Bluetooth set as compared to a normal wired one.  
+
+So it is probably more reasonable to claim that the Sony MDR-1000x have the same quality as any **$200** pair of analog headphones you've heard.
+I tried lossless audio with APT-x and wired with my MDR-1000x, can't tell a difference.
+Well APT-x can't make a pair of $20 earphones sound like they are worth 5 times more. You get what you pay for.
+Well the MDR-1000x costs quite a bit more than the wired Sennheiser Momentum so you are definitely paying a lot for convenience here. That and noise cancelling. I have both and sound quality is pretty similar.  
+
+However, when comparing <$100 earphones, the difference is obvious. A Jaybird X3(approx $99) definitely doesn't sound any better than wired earphones at half the price(Soundmagic E10), and most people don't spend more that on earphones. For them, going wireless is significantly more expensive for less sound quality.  
+
+And of course there's the wired Apple Earbuds and wireless Airpods...
+[Way too relevant](https://www.youtube.com/watch?v=bGYkNuZCnpY)  
+
+Also glad my finals are not held at the School of **Biological Science**. Just perfect.
+Dude you threw the cigarette butt on the the plant, that isn't entrapment at all. That's just littering.  
+
+Entrapment would be something like the NEA officer encouraging you to smoke in a non-smoking area.
+It has a very retro feel to it...  
+
+Like a postcard from the 80s
+1. Be unhappy with your life.  
+2. Blame PAP.
+3. ????
+4. Nothing changes, because your opinion doesn't matter as much as you think.  
+
+I don't understand how people can feel so comfortable posting comments on Facebook. With name, current location and job title on your profile no less.  
+
+Maybe they just stay in their little echo chamber, and nobody ever calls them out on their BS.
+I'm on Singtel and never had any disconnections, except for the island-wide one which affected everyone.  
+
+Latency for overseas servers are not that good. Though most of my online games have servers in SG so isn't that much of an issue.  
+
+I did switch out the router with a Netgear R7000, mostly because I need one with support for Mio TV and don't really want to spend extra on Asus. Still working good after 2 years.  
+
+Apparently TP-Link also works now so getting a good router for less than $100 is possible.
+Not too surprising since the 5T is launched with Nougat, but at least no one will get their hopes up now.  
+
+Always good to have official confirmation, however disappointing it might be.
+Not too surprising since the 5T is launched with Nougat, but at least no one will get their hopes up now.  
+
+Always good to have official confirmation, however disappointing it might be.
+Captured during a gameplay with AI, feels good to not be on the receiving end of FIFA's infamous RNG.
+Well if you can trust DxOMark, then it's [not really that good anymore](https://www.dxomark.com/nokia-808-retested-new-dxomark-mobile-protocol/).
+As pronounced by actress Saoirse Ronan, an [actual Irish person](https://youtu.be/Hwstj9FJHGg?t=118).
+Why not use Whatsapp? The U.S. for some reason is fixated on iMessage and whines about cross-platform compatibilty, while the rest of the world just uses Whatsapp without an issue...
+"If you can’t think because you can’t chew, try a banana."  
+
+Singapore's first Prime Minister Lee Kuan Yew when asked about the country's infamous chewing gum ban by a BBC reporter
+It's that time of the year when SCMP and ST/CNA go passive aggressive against each other... 
+
+Articles like:  
+[In Hong Kong, shortage of land for housing remains a thorny issue](http://www.channelnewsasia.com/news/asiapacific/in-hong-kong-shortage-of-land-for-housing-remains-a-thorny-issue-9223650)  
+[Hong Kong schools in 'brainwashing' row over China speech](http://www.channelnewsasia.com/news/asiapacific/hong-kong-schools-in--brainwashing--row-over-china-speech-9346138)  
+
+So yeah, take that as you will.
+That's like my WiFi speed, and I'm also using Singtel.  
+
+LTE is 80Mbps max for me. 
+I too remember being on that island. It's not that bad actually. You get food in return for STFU and doing what you are told to do.    
+
+Some tried to swim for their freedom, only to get caught and sent back to the island. Nobody knew what happened to them.    
+
+I was sentenced to 24 months for being a man, and spent 3 months there before being moved to a lower security facility. This is my story.  
+
+*Cue opening credits for brand new Netflix original* **Life of Guy**
+Hey don't mind me, just a salty OP5 owner but the video does seem slightly suspicious...  
+
+Check out the [cactus shot](https://youtu.be/NPo6aK0iKAo?t=161) and take a close look at the thorns. It's almost as if the picture on the OP5 is purposely compressed to make it less detailed. This happens in every single shot such as this one in [normal daylight](https://www.youtube.com/watch?v=NPo6aK0iKAo) and look at the grass.  
+
+Or maybe OnePlus improved their algorithms. In which case they really should port it over to the OP5.  
+[Link](https://www.removeddit.com/r/IllegalLifeProTips/comments/775fje/ilpt_shoplifting_small_items_buy_some_tampons_and/) since OP deleted his posts.
+> His movies are aimed at the blue-collar class of the population, with the appropriate dialogue and humour to match. For the rest of us who are more exposed to foreign culture, there are much better forms of entertainment to be had.
+
+So get out of my elite uncaring face?
+And that we cane people on the street, or that the police will give you a ticket for chewing gum, or actually check the toilets to make sure you flush.
+
+Nobody gives a shit.
+[Whoosh](https://i.imgur.com/axJmn.gif)  
+
+
+Download the [app](https://play.google.com/store/apps/details?id=com.nanoequipment.idawirelesssg). Enter login details and the phone will auto login when there's a hotspot around.  
+
+But it always connects when I'm on the MRT and the train stops at the station, interrupting my connection. Probably the only time I wish the WiFi won't connect so quickly.
+Well more chicken for our Michelin starred chicken rice.
+8mm / 2 = 4mm > 3.5mm  
+
+We might still have a few years left.
+Pretty sure I've heard this a million times.  
+
+If the main guy in Fifty Shades of Grey is some poor backwards redneck it would be an episode of Law and Order SVU.
+It's half the price of the Pixel 2 XL...  
+
+And probably cheaper than the R11S
+Noted with thanks  
+
+Please revert ASAP.
+r/superbowl
+**Machine Learning^TM**
+Honestly I think unless the management at SBS are totally retarded they will probably learn a thing or two from SMRT.  
+
+But then again higher-ups aren't exactly known for thinking long term.
+Oh yeah? I will prove you wrong.  
+
+OnePlus 5 is a shitty phone with jelly screen, horrendous camera and looks like a poor man's iPhone. I will rather spend twice the price on the Pixel 2 XL than this POS. Google is always better and can do no wrong. Only phones made last year need headphone jacks, hence OnePlus design is outdated.
+
+OnePlus did nothing wrong to spy on us. And serves them right for buying a OnePlus 5 when the 5T is coming out. People should stop whining like a little bitch and just suck it up.  
+
+Done.
+So both [NTU](http://www.straitstimes.com/singapore/education/part-of-ntu-lecture-theatre-ceiling-collapses-school-checking-other-lecture) and SMU have their ceilings collapsed this year.    
+
+No prizes on guessing where it will happen next.
+Former Prime Minister **Yew**.
+anything
+So this is what a peak repost looks like.
+It's not actually made by Intel, but rather HP.  
+
+[LINK 👀](https://www.youtube.com/watch?v=cfzbQtS0RiY)
+And also the WhoLostToPalaceFirst trophy.  
+
+Damn, Chelsea has won the treble!
+I don't know about the author's personal experience, but I never felt ostracised among my friends because I'm not religious, in fact it's something we try to avoid discussing due to its potential to cause conflict.  
+
+Going around writing articles proclaiming atheists/humanists are better than the religious folks is bound to cause hurt feelings, just like why the majority of reddit isn't a big fan of r/atheism. Being smug about it just isn't going to win anyone over.  
+
+That being said, the author does bring up a few good points. I agree that Singapore should stay secular and actively prevent policies from being influenced by religious groups over national interest. Eg. LGBT, single parents etc. But it is not fair to blame these exclusively on religion, when the issue might just be plain old conservatism. You don't have to be religious to be conservative.
+
+Oh and the number of people who are non-religious is actually [rising.](http://news.nationalgeographic.com/2016/04/160422-atheism-agnostic-secular-nones-rising-religion/)
+Someone should send him off in the electric golf cart.
+10 of his special **needs** friends
+Check the link, the thread was created last Saturday.  
+
+Old news.
+r/leagueoflegends?
+The link is dead, [this one](http://www.changiairport.com/en/airport-experience/attractions-and-services/the-slide---t3.html) works I think.
+> I'm saying this as someone who pre ordered the pixel 2, sorry!
+
+It's treason then :(
+*Checks profile*
+
+No dear, you don't win arguments by screaming louder than the others.  
+
+And all my phones have 3.5mm jack, so try harder. Probably better to be prepared than get caught with your pants down huh.
+Send it in for repair if it's still in warranty, many Sony units seem to have this issue. I remember having touchscreen problems with the Xperia SP, apparently it is caused by the touchscreen being too sensitive.  
+
+I can hover my finger over the screen and it will register...
+Seriously r/Android is just acting like a circlejerk now. Every single day the top thread is about companies removing the headphone jack. Alright, I get it, but seriously can we move on now?  
+
+I don't like the removal of the 3.5mm jack either and I say this as someone who owns multiple pairs of rather expensive wired headphones, but at some point we will have to give up and look for alternatives. Bluetooth adapter? Or an accessory kind of like an iPhone battery case connected via USB to give us additional battery life and ports? Or just get a midrange phone?
+
+I would love to see Motorola come up with something. But anything is preferable to whining with no solution. The tide is turning, and we are powerless to stop it.
+2 words.
+
+Note 7
+Unfortunately, they sometimes do [during emergencies.](https://www.fastcompany.com/3008458/why-your-phone-doesnt-work-during-disasters-and-how-fix-it) Sure it's not Singapore but it's not like Boston is some small city with terrible network infrastructure.  
+
+We never know if we are prepared until it happens, and that's the problem we have right now. Complacency.
+I just fail to see how useful the app is. The app probably requires mobile data to function, and the reporting function is crippled on many Android phones due to "compatibility issues".  
+
+Chances are, in an **actual terrorist attack**, data and cellular networks will probably be overloaded and the **app will simply not work** (assuming the server didn't **crash** like it did last month on Civil Defence Day). Neither do we need the app to receive emergency messages, the government knows that everyone has **SMS** right? After all as previous incidents around the world have shown, SMS is [significantly more reliable](https://blogs.scientificamerican.com/observations/why-its-better-to-text-than-call-in-a-mass-emergency/) compared to voice calls and data during emergencies.
+
+SGSecure is also totally useless for normal emergencies, such as a guy having a heart attack in the middle of the street. Too bad the app doesn't show where the nearest AED is, or teach you basic CPR. You will have to download the SCDF app for that. ¯\\\_(ツ)_/¯  
+
+Seriously stop splitting up functions so that you can have more apps for us to download.
+
+**TLDR**: App is useless in terrorist attack and normal emergencies.
+The WiFi chip works fine on mine though, it is definitely an AC chip and gets better speed than my iPad Air (with the N chip) at the same distance from my router. Maybe upgrade your router?
+
+Never once had it reboot in my 2 years of use. My dad is still using the phone with no issues. Sounds like you got a dud :(  
+
+The camera sucks though, just a blurry mess. People are criticising the OP5 for its poor camera and here I am thinking what an upgrade it is compared to the Z5.  
+
+And of course the SD810.
+Why you all use British English but sound like Singaporeans ~~leh~~?  
+
+Just a question from a curious ~~Navajo~~ troll Sinkie.
+The guy types like a Singaporean, linguistics and all. Seems oddly fascinated about social issues for a supposed "foreigner" and many of the interactions seem to be made up.  
+
+Eg. The guy met multiple instances of people who shows no respect for NSFs. 
+
+And of course it's a brand new account which only posted in this subreddit. We got trolled people, might end up on EDMW or something :/
+YouTube. Go into settings and uninstall all updates.
+Later get caught by MP kenna 2 weeks SOL :/
+Clear cache? Uninstall updates and try again? Worst case factory reset.  
+
+Sometimes Singtel throttles my data if I use it too much, maybe your telco does the same thing. Maybe try again tomorrow?
+I expect people to send their condolences, followed by absolutely nothing being done by the good old USA.  
+
+You know, because too many people are either misguided or have vested interests in keeping the status quo. 🤷
+
+
+Letting in goals and not scoring?
+Honestly though services such as 67 should probably not be running anymore, at least not at the current frequency.  
+
+The bus can be really empty sometimes.
+I think Singapore is doing quite well no?  
+
+*Looks at your post history* OK I'm out of here.
+Phrases like "my mother said to him" are definitely written by a Singaporean.
+Well the HD 598 is an open headphone while the MA750 is an IEM. Soundstage is probably going to be affected. That being said the MA750 is generally considered to have a wide soundstage as far as IEMs go.  
+
+Not sure about the other terms, but IEMs and headphones are difficult to compare since they are so different. 
+Probably as effective as the [Simpsons tiger rock.](https://youtu.be/fm2W0sq9ddU).   
+
+
+But I Google search got no results leh...  
+
+https://www.google.com.sg/search?ei=_TbJWaydDYWMvQSHlI3gAw&q="vivian+tan"+straits+times&oq="vivian+tan"+straits+times. 
+
+Maybe 1 or 2 but nothing like the Ashley Wu reports.
+It seems to work fine on my OnePlus 5, should I be worried and switch back to the default one?
+I was right in the middle of North and South spine (admin building) so kind of lazy to walk to the bus stop.  
+
+And also because I'm a cheapskate. :/
+Waited 20 mins for NTU shuttle bus and now another 15 mins for MRT.  
+
+Could be worse I guess ¯\\\_(ツ)_/¯
+If anyone needs help flashing, I wrote a [simple guide on XDA.](https://forum.xda-developers.com/oneplus-5/how-to/guide-installing-oxygenos-chinese-t3647409/page2)
+Pretty sure they do, I've went through multiple CPR courses while in school, though I was taught AED only in the army.  
+Ah the Phil Jones moment.
+[They start to scratch from 6.](https://youtu.be/oUdYRw6DV38?t=36)
+No OnePlus 5 is OP5. And don't spam Reddit for traffic to your site.
+Accuracy, being able to be used in the dark thanks to infrared cameras, 3D model of your face.    
+
+You know, stuff that makes it useful rather than a gimmick. But hey, I'm no Google engineer :/
+Yeah not really true in Singapore though. Culturally Singapore is not really like Southeast Asia...
+Maybe dig up your Xbox 360 controller then?  
+
+PS controllers don't work well with Android, period. Unless you want to get a Sony phone.
+I can't believe I spent [insert amount here] for this POS. Fix this issue immediately or this will be my last OnePlus phone! Very disappointing from a large company like this!
+It's actually very hard to accidentally discharge a revolver with the trigger as heavy as it is.  
+My personal experience is that if you contact them via the support page on their website, it will be answered by the local distributor, and not the main office in UK.  
+
+Maybe try contacting their Facebook page or via HeadFi PM.  
+
+Their support is amazing though, paid for UPS shipping for my MA750i RMA, while my local distributor took 2 months.
+Pretty sure Sony covers the cracked headband issue now, the staff specifically told me to scan my receipt if anything goes wrong, although they specified that my unit was produced in July/17 and not in the affected range.
+
+Not sure what country you live in but I've used plenty of Sony products and never once had a product denied warranty. Actually, I don't think I've ever had a bad experience when claiming warranty with major brands. I guess it's harder to shirk responsibility with the customer right in front of you...    
+
+Probably has more to do with your country's laws than the company itself.
+Virtual tekan sessions with loud alarms/screaming enciks that will wake you up in the middle of the night and force you to run down your HDB block to do pushups, ala Pokemon GO style for extra points.
+
+The app will also vibrate and make "pew pew" sounds after you shake it violently in landscape mode so that you can pretend to be a soldier. You will also have to stand in the same spot for 3 hours so as to get the authentic guard duty experience.  
+
+Also you will be graded with respect to the other users according to your points, be promoted to 3SG or 2LT and gain "power" over others. I haven't thought about this yet but I promise to update the app soon, in time for SmartNation^TM 2.0.
+
+DSTA hire me pls.  
+
+By downloading this app, you agree to give the app the following permissions:  
+- Location and GPS data: so that the Government will always find you in case you go AWOL   
+- Camera and Network settings: Your selfies may be uploaded onto Stomp and criticised by boliao Netizens  
+- Control over your screen: Where we are going, we don't need smartphones.  
+
+Edit: Thank you kind stranger for gold!
+[Seriously those pictures...](http://www.boredpanda.com/french-firemen-calendar-2016-pompiers-sans-frontieres-fred-goudon/)  
+
+
+Sometimes I turn off the noise-cancelling off when the wind is too strong. The passive noise cancelling isn't the best by any means, but it's way better than having a loud noises amplified with the mic.
+Photos are noticeably better on Google camera. But daylight shots almost always have some weird dots on the brighter surfaces.  
+
+So Daylight shots + video recording = OnePlus Camera  
+Night time shots: Google Camera
+Judging by the fact that we are still having this discussion about the lack of seats, not really :(  
+I think they tried it before. [Guess how it turned out](http://www.straitstimes.com/singapore/students-complaint-over-starbucks-staff-backfires-with-netizens-criticising-her-for).
+You can try the one by Nilkin, but it doesn't cover the screen fully.  
+
+I basically decided to just get a film protector and a decent case.
+Another story of an entitled elderly cutting queue, only this time it ends in a fight.
+> "The passengers involved in the incident were permitted to board only after it was assessed that the safety of the flight would not be compromised. Our flight crew were also informed so that they could monitor the situation on board the flight, which proceeded to Singapore without further incident."
+
+So no, your wish is not granted. :(
+
+And the worst part is that they look and sound Singaporean, so for any trolls trying to blame it on the PRCs, look elsewhere.
+Pretty sure stop at 2 was covered as a scheme that was "overly successful" in reducing our birthrate to the dismal one we have today. At least that's what I remembered.
+Seems to cause issues with the stock OnePlus camera though. Slowmo doesn't work and I think videos too.
+For borrowing eBooks from NLB, use the [Overdrive app](https://eresources.nlb.gov.sg/Main/Help/Overdrive) instead.  
+
+Have to agree on the cashless thing though. They clearly have not thought this one through and it ends up being more complicated instead. Eg. topping up ez-link  
+
+On a slightly unrelated note, just tried Android Pay today and it's great. A simple tap gets everything done and I don't even have to reach for my wallet. At the rate it's going on now, I will soon never have to speak to another person again to get my fast food, though losing my phone will probably really suck...
+Not anymore. Can't imagine the people using their MacBooks in Starbucks being very happy about that.
+Most don't know enough about Asia to disprove your claims.  
+
+Except I do, and you really don't know what you are talking about. If anything, teachers are more likely to step in and stop the abuse. Probably works better since asian kids are usually significantly more respectful of their teachers.  
+
+The only issue is that classmates will usually not step in to stop the fight, but that might be asking a bit too much of these kids.
+You should probably just avoid trouble overseas in the first place. Getting MFA to bail you out requires resources and possibly even political capital, who knows if we will go easy on another Saudi guy because of this incident.
+I will rather take my chances with PAP than CSJ, and I suspect I'm not the only one...
+Smart nation is real guys.
+Back in the "good old days" with only one platform on Jurong East for NSL.  
+
+Except now with more people and a less reliable MRT system, but hey, we're working on it. ¯\\\_(ツ)_/¯
+I honestly couldn't really tell the difference with my MDR-1000x and Xperia Z5 vs OnePlus 5. It sounds *a bit* better but nothing life-changing. The jump from SBC to Apt-X was more significant, but LDAC promises higher bitrates, so it will get even closer to wired quality.  
+
+Always great to have a better standard, but you aren't missing out *that* much
+> In iOS, you see them in the lock screen, but where do they go?
+
+You can swipe right to open it in app, I think. But otherwise yes I do agree with you. iOS seems to be designed with simplicity in mind, where there is only one or two ways to do any action.  
+
+Want to change the volume? Well you can only change the media volume (in media apps) or ringer volume on home page. No other way around it, sorry. It doesn't seem to fit in with how us Android owners use our phones.
+This [video](https://www.youtube.com/watch?v=CMij9AKLvog) sums it up well.
+Can lah, not too bad. Most of us get 2 days on, 2 days off on average. 
+
+Source: was brain dead ST 
+I think being a DB MP probably really sucks. I mean, sure you are in a position of authority but it's still pretty stressful and depressing.
+> Now there's a unified payment terminal so as to mitigate issue of fragmentation in payment methods  
+
+Yeah tell that to OCBC, with their Android "Pay Anyone" app [only working for Samsung phones](https://play.google.com/store/apps/details?id=com.ocbc.pay).
+^s/ ʇǝɯ ^ɹǝʌǝ ǝʌɐɥ ı ^ǝldoǝd ɟo ^ɥɔunq ʇsǝɔıu ^ǝɥʇ sı ^pıoɹpuɐ/ɹ
+I ^love Jelly ^scrolling. It ^doesn't bother ^me at ^all.
+So can we start hating Motorola now? Please?  
+
+ϛ snlԀǝuO ʎɯ ɯoɹɟ ʇuǝS - 
+Careful man, you are getting deep into the r/iamverysmart territory. The road ahead is dangerous.
+Yes and no. The first part (explosions and chao ta) is pretty much "common knowledge" back when we were in primary school, but I made up the rest.  
+
+Don't know why I'm so proud of this. ¯\\\_(ツ)_/¯
+我的家爆炸  
+弟弟妹妹chao ta  
+爸爸妈妈自杀  
+没有CPF没有家  
+
+我的家给我  
+无限多的悲伤  
+没有钱只好卖Otah  
+世世代代没有家  
+
+Pls dun kill me.
+On the box
+Maybe because Amazon has so far been a real disappointment? Not bitter at all that I missed out on the Visa promo, not at all...  
+
+But honestly though for all the hype about a great warehouse the selection is pretty poor. They really should have launched when they are ready, but now it just feels like they rushed it as a more expensive online supermarket.
+I guess so, but then again it doesn't really cover the phone. A case will probably help against drops.
+Another SCDF officer (see the white helmet) managed to pull her back before the one rappelling down had to kick her.
+The normal ones don't cover the whole screen, but they stick to the phone much better.  
+
+Many full coverage/3d ones only have adhesive on the side, so sometimes air bubbles get trapped in the middle and you end up with [rainbow effects](https://youtu.be/T2BydTBgDaE?t=290). Others use dot matrix style glue on the glass but you end up with tiny reflections on the screen.   
+
+TLDR: All current tempered glass suck, you have to make compromises somewhere.
+Download the full zip and place in internal memory. Do not put it in any folder. Use local update.
+Just download the full 4.5.8 zip, boot into recovery and flash both OxygenOS and Magisk in one go.  
+
+Clear cache and reboot. You won't lose root or TWRP this way.
+Maybe the gaming stutter, but I didn't have any in the first place.
+Downloads  
+
+Full zip: [Official](http://otafsg.h2os.com/patch/amazone2/GLO/OnePlus5Oxygen/OnePlus5Oxygen_23.O.13_GLO_013_1708032241/OnePlus5Oxygen_23_OTA_013_all_1708032241_9a87b4.zip), [Google Drive](https://drive.google.com/file/d/0Bz4g0xbW9naNUzdXYTlfNWg1c0E/view)
+!redditSilver
+Yeah it is very easy to do. Check out my [full guide on XDA.](https://forum.xda-developers.com/oneplus-5/how-to/guide-installing-oxygenos-chinese-t3647409)
+[GSMArena states otherwise](http://gsmarena.com/oneplus_5-review-1623p9.php)
+Yeah I tried the set-up using Google Now/Assistant on an Android TV. The idea was that your TV will use the settings on your phone and do a quick set-up with all your info.
+
+Didn't work at all, my phone can't even find my fking TV. Bluetooth was on but NOTHING worked.  
+
+So yeah, don't get your hopes up.
+Did they implement EIS for 1080p60 recording too?  
+
+Edit: doesn't seem like it
+The Hero that we don't really need but certainly deserve.
+Yeah I don't think people actually remember what a full-sized SIM looks like. So maybe I will give him a pass on that...  
+
+Hint: It's about the size of a credit card.
+Qoo10 with the $100 coupon last week. I think it was around $550.
+It's okay as long as the number of times he gets struck is an odd number.  
+
+You know what, I think 7 is a great number.
+But it runs Android!  
+
+^^on ^^a ^^terrible ^^Mediatek ^^processor  
+
+^^^^may ^^^^reboot ^^^^by ^^^^itself ^^^^frequently
+Looked like the kind of stuff you see in a [mobile game](http://veedif.com/files/thumbs/bad-piggies-2.jpg)
+Erm no, that's not even remotely true.  
+
+Everyone here has a basic nationalised healthcare savings plan called Medisave, so basically the government forces you to save money and place it in healthcare. Then there's also Medishield, a cheaper insurance plan for those who cannot afford private insurance. And finally there's Medifund, somewhat like a safetynet which you can only qualify if you are really poor and unable to pay for the above.
+
+Also Singapore healthcare is not a total free market by any means. There are public and private hospitals, and prices can differ by a lot. That being said, public hospitals are actually run by government-owned corporations which supposedly helps to reduce inefficiency. So free-marketish?
+
+The standard of healthcare is surprisingly high in public hospitals, and gets pretty close to private hospitals. Private hospitals  of course do provide a better experience but facilities-wise they are pretty equal.  
+
+Do check out [videos](https://www.youtube.com/watch?v=WtuXrrEZsAg) about our healthcare.
+
+Source: I actually live here.
+It should update automatically.
+Check out my reply for an easier way to update. Cheers!
+Come on people it's actually not that hard. You don't have to unlock bootloader, install TWRP or use ADB. It's an official update by OnePlus.  
+
+To the OP, here's how to do it.  
+
+Download the latest OxygenOS from [here](https://forum.xda-developers.com/showpost.php?p=72799046&postcount=2). Place it in the root of your internal memory. Basically don't put the file in any folder. Download the full zip and NOT the OTA.  
+
+Go to Settings > System updates, press the gear icon and select Local upgrade. Choose the file, the phone will boot into recovery and everything is done. 
+
+Source: I bought mine in China and am currently running OxygenOS with root.
+Not SOCs, but rather phones. Many phones will be affected, I'm guessing a lot of those with MediaTek and Exynos SOCs.
+
+According to the researcher who found it, Nitay Artenstein, "The Broadcom BCM43xx family of Wi-Fi chips is found in an extraordinarily wide range of mobile devices – from various iPhone models to HTC, LG, Nexus and practically the full range of Samsung flagship devices."  
+
+There are only 3 major manufacturers for these chips, Qualcomm, Broadcom and Intel, so not looking good. Some devices use Atheros though, so maybe you are safer if you use a Snapdragon chip.  
+Cool, thanks for the great job!  
+
+Any plans on publicising this effort? You might want to [send the XDA folks a tip here.](https://www.xda-developers.com/tip-us/)
+Just a quick suggestion. Is it possible to have both the name of the device and the codename side by side?  
+
+Nobody is going to know what Sony Honami (Z1) or OnePlus cheeseburger (OP5) is without the names.
+[Because it ended up looking like this.](https://assets.pcmag.com/media/images/268558-sony-tablet-p.jpg)
+And it's free because I'm rich. Anyone who disagrees with me is a 胖子, aka fatass.
+We need a bot that delays the MRT for 15 mins everytime SMRT is mentioned, kind of like the Half Life 3 release date bot.    
+
+EDIT: Sorry mods I think I might have triggered something...  
+
+Edit 2: Aaaaaand the whole EWL is down. Totally not my fault! I promise to fix this with a small loan of a few billion dollars from LTA.
+Not sure what deficiencies on the OP5 you are talking about though. The display can probably never be fixed by OnePlus or the community and I don't see any major issues otherwise.
+NOTE: Unlocking the bootloader is NOT the same as pressing OEM unlock in Developer options! Unlocking bootloader will WIPE ALL DATA on your phone!
+
+Turn on your phone and check if USB debugging is turned on. Try to reinstall the [ADB drivers](https://adb.clockworkmod.com/).  
+
+I personally use a tool to get things done, because it's easier that way. I prefer [this one](https://forum.xda-developers.com/oneplus-5/development/tool-tool-one-driversunlocktwrpfactory-t3626191).  
+
+Basically to root, you need to:  
+1. Turn on USB debugging and OEM unlock in developer settings.  
+2. Install ADB drivers on your PC.  
+3. Unlock bootloader.  
+4. Flash TWRP.  
+5. Flash Magisk to get root.   
+6. Maybe wipe dalvik cache.
+Just checked my OnePlus 5 and it used only [504 mAh](https://drive.google.com/open?id=0B8JGULVmlAKOa3ZEZGYtYXNxNU0) over 5 hours, so not quite sure if it's an accurate measure anyway. And it's not like I kept it on minimum brightness or anything.  
+
+Most likely it's the Snapdragon 835. Really impressed with how battery efficient and cool it is, especially compared to the 810.
+Yeah they are perfectly fine. Sounds better than my previous phone, the Xperia Z5. Bass does seem to be lesser on the OnePlus compared to the Sony though.
+All I have to say is, keep up the good work and thanks for leaving the 3.5mm headphone jack in! Works great with my Sennheiser Momentums and every other pair of earphones I threw at it.  
+
+That being said, I wish more can be done regarding the Bluetooth implementation on future devices. Things like Sony LDAC support, which should be implemented in Android O and most importantly, wireless audio latency. Nobody likes an out-of-sync YouTube video right?  
+
+I love wired headphones like anyone else, but at the rate this is going, I might have to transition to wireless soon. Hope OnePlus can look into this.  
+
+Oh and a pair of wireless Bullets V2 with active noise-cancelling would be nice. :)  
+
+P.S. Not sure why there are 2 posts about the same thing.
+
+All I have to say is, keep up the good work and thanks for leaving the 3.5mm headphone jack in! Works great with my Sennheiser Momentums and every other pair of earphones I threw at it.  
+
+That being said, I wish more can be done regarding the Bluetooth implementation on future devices. Things like Sony LDAC support, which should be implemented in Android O and most importantly, wireless audio latency. Nobody likes an out-of-sync YouTube video right?  
+
+I love wired headphones like anyone else, but at the rate this is going, I might have to transition to wireless soon. Hope OnePlus can look into this.  
+
+Oh and a pair of wireless Bullets V2 with active noise-cancelling would be nice. :)
+Hey, what are you talking about. The phone is perfectly fine. 
+
+Just dialled 911, and the phone di
+Help, there's a man on fire! We are at
+
+
+
+
+
+
+Works fine on my OnePlus 5, so yes.
+Try [Lux Auto Brightness](https://play.google.com/store/apps/details?id=com.vitocassisi.luxlite), works fine for me.
+Maybe try changing the Bluetooth audio codec in settings > advanced ?
+Well if he had grabbed the cliff maybe he would have broken both of his arms.
+I mean to be fair it is noticeable but not that obvious like in the video.  
+
+But hey what do I know, it's not like a have a OnePlus 5 in my hands right now. *ahem*
+Does YouTube on Android TV have HDR playback? Have a Sony TV and can't really tell...
+Still available [here](https://world.taobao.com/item/550943624455.htm?spm=a312a.7700714.0.0.6419a3bcygyfV2)  
+
+Or you can just buy a OnePlus charger like a normal person and be safe. It's about the same price anyway. Your call.
+Hi, just bought the OnePlus 5 too and you might have seen [my thread](https://www.reddit.com/r/Android/comments/6kxtx8/my_experience_using_oneplus_5_coming_from_a/) on r/android.   
+
+I think the OP5 is a good fit but maybe also consider the LG G6? It's about $700 on Lazada but it comes with warranty and waterproofing which is pretty useful in Singapore. And given your usage scenario I think the SD821 should be enough for you.
+If only the touch is dead and not the screen, maybe try using a mouse and a USB OTG cable?
+Forgive me senpai, for I have sinned. I'm going to commit sudoku now.
+Currently in China so I just bought it online.  
+
+I think qoo10 had a $100 off $600 coupon during Hari Raya. The phone was about $639 after coupon for the 64GB model which is around the normal price for the phone.  
+
+I won't wait for the official launch on Lazada though. Probably too expensive.
+True. I'm not sure if I want to keep the OP5. See first then decide later.
+Sold his arms to get the phone. Sorry (ツ)
+Downvote me all you want for speaking the truth! You will never sil- ERGHHHHHHH
+Look at that rich guy over here.  ¯\\\_(ツ)
+Story of pretty much every flagship ever...
+
+Come on it can't be **that** hard to put a bezeless 5.5' 4K AMOLED, 4000mAh battery, Snapdragon 835 in an unbreakable glass/metal alloy hybrid body while costing only $400. It must also have OIS and EIS with Steadicam like video recording and pictures that look like they are taken with DSLRs. Oh and stereo speakers/s  
+Why would you want to switch from the iPhone 7+ anyway? It is a better phone in pretty much every way except it runs iOS.
+
+I will probably wait for the Samsung Note 8 or whatever Sony names their next flagship.
+I had it on my Chinese purchased OnePlus 5. It's not really that different from OxygenOS, the same app drawer and everything. Only thing missing is the Google Apps.  
+
+I replaced it immediately with OxygenOS though.
+Not sure if anyone watched the Chinese launch but they did say they offered minimal water protection for everyday use. No official ratings because they don't want to deal with warranty claims.
+
+[Video link](http://www.iqiyi.com/w_19rtrybxa1.html) Should be at the 01:17:35 mark. The words “生活防水” are present which means minimal water protection for everyday use, along with "高动态MIC" which is high dynamic range mic and "全新视频防抖算法” which I believe is EIS for video recording.
+Didn't know Codemasters used to make cheating devices and all those shady stuff back in the day, but I guess that's pretty cool.
+I don't get it. Chinese trains are safer than the ones in the US, and somehow you don't like it?  
+
+But I guess you like flying on United or AA, because I sure as hell don't. I've been on budget carriers in Asia with better service standards than most US domestic carriers.  
+
+Have to say, I'm pretty impressed by the Chinese high speed rail.
+I think AutoMod might have fked up here...  
+
+Why is there two pinned threads about weekly questions?
+Sure let's blame Qualcomm for missing drivers, while every other flagship running the SD810 has Nougat.  
+
+Yep definitely Qualcomm's fault.
+Alright guys I found a leaked song that OnePlus staff sing during their lunch breaks. Turns out they are huge fans of rick roll.  
+
+We make the cheap phones that you love.  
+But no we won't release the (camera) API.  
+What's this update you're speaking of.   
+Just get another phone, the brand new OnePlus 5.    
+
+We don't really care about your feelings.    
+Never gonna give a damn.    
+
+[Chorus:].   
+Never gonna update you, fuck you and your OnePlus 2.     
+Always gonna run around and desert you.     
+Always gonna make you cry, always gonna say goodbye.     
+Always gonna tell a lie and hurt you.      
+
+We've known each other for so long.    
+Your phone's been lagging but we're too lazy so fuck it.    
+Inside we both know what's been going on    
+We change our minds and you're gonna suck it.    
+
+And if you ask me how you got into this   
+Don't tell me you're too blind to see.   
+
+[Chorus x2].   
+Never gonna update you, fuck you and your OnePlus 2.    
+Always gonna run around and desert you.    
+Always gonna make you cry, always gonna say goodbye.     
+Always gonna tell a lie and hurt you.       
+
+(Ooh give you up)    
+(Ooh give you up)    
+(Ooh) Always gonna give, always gonna  give (give you up)    
+(Ooh) Always gonna give, always gonna give (give you up)     
+
+We've known each other for so long.    
+We prefer marketing but you're too dumb to see it.     
+As for the design what's been going on.     
+We see the new iPhone and we just copy it.      
+  
+We don't really care about your feelings.     
+Never gonna give a damn.        
+
+[Chorus x3].    
+Never gonna update you, fuck you and your OnePlus 2.     
+Always gonna run around and desert you.     
+Always gonna make you cry, always gonna say goodbye.    
+Always gonna tell a lie and hurt you.
+Moral of story: Don't sign on **if you're smart**.  
+
+**FTFY**  
+
+Can't imagine the SAF being very happy about this 🤷
+Yeah because it is so hard for them to not use phone in class that they have to lock up their phone **for the whole day**. Yes they **cannot use during recess and lunch**. At some point we have to learn to stop babysitting students and let them take responsibility for their own actions. Confiscate only if they use in class and not because it's inside their pockets the whole time.
+
+I don't remember even my primary school forcing us to put phones inside lockers(I'm not even that old), so why is it necessary for ACS to have these kind of rules?
+The lawsuit is obviously pretty ridiculous, but the school rules seems way too strict IMO.   
+
+>I would like to draw your attention to our requirement for a student to **lock his handphone or any other electronic devices in his locker from the beginning of the school day till after school** (which includes Academic Coaching or detention classes). **CCTVs have been placed to monitor the locker areas for security purposes.**    
+
+Locking up your phone for the whole day does seem pretty excessive. I mean sure, confiscate phones after warnings but I don't really see the point in this. They are secondary school students and should have some levels of self-control. Such school rules might cause students to be over-reliant on rules to do the right thing.  
+
+I'm just glad my school never resorted to these type of measures. 
+You want to get [banned by tan kin lian]( https://www.reddit.com/r/singapore/comments/6a33ut/unreal_tan_kin_lian_strikes_again_i_find_the_word/) is it?
+Reddit referencing Asiaone referencing Mothership referencing Reddit.  
+
+We have truly come full circle. 
+Sounds similar to a Subway meal TBH
+In order to protect traditional family values, the government plans to introduce rainy days for everyone.  
+
+Also rainy days = stay home = make more babies. Take that gay ppl! I truly have thought of everything, time to shitpost on Today!
+Miracast if your TV supports it, otherwise chromecast. 
+Should I upgrade my Xperia Z5 to a OnePlus 3T? The OnePlus is really cheap now in my country, around $320, with all the retailers clearing stock and promos everywhere.
+
+I have a love-hate relationship with my Z5. Not even a year old but the Snapdragon 810 is driving me nuts. It gets warm pretty easily and the fingerprint sensor kind of sucks. The battery life isn't the best and the screen is flickering so I have to send it back for repair soon. But I will miss the ip68 rating and stereo speakers... And I think it looks better than the OnePlus.
+>How Can Our Eyes Be Real If The Lights Aren't Real  
+
+Jaden Smith
+So I guess Yishun is paying for the wall...
+Yeah the old PES C1 is now called B2, so maybe that's causing the confusion.  
+
+PES B2 guys still have IPPT but can be excused from certain stations and also route march, longer field camp etc. It's more similar to PES B than PES C.
+As someone who just ORDed last month, I will try my best to answer this as a C2L9 in a mixed batch with C9 guys.
+
+BMT itself will be around 9 weeks. 4 weeks in Tekong and 5 weeks in whichever camp you have to go for vocation training. 
+
+BMT in Tekong will NOT be very tough. There will be no training for IPPT, so there won't be too many physical activities. Your PT will consist of mostly (very) slow jogging around the parade square and maybe some frisbee (no joke).  
+
+You are almost certainly not be allowed to go to the gym since SAF wouldn't want to held liable for your injuries. Maybe if you ask VERY nicely, the sergeant will let you go to the pull-up bar but given your medical situation I highly doubt so. You will be excused from running, marching and jumping (RMJ) given your ACL injury and possibly upper body.  
+
+Depending on how many people in your company have these excuses, you may or may not have to participate in all activities. If half the coy has excuse RMJ or what not, you will still go for PT, but it might as well not be called PT since it's really easy. You can request to fall out if you don't feel well but don't do it too often unless you want to get marked. 
+
+You might want to clarify whether or not you are excused firearms given your thumb issue. Excuse firearms is usually a straight out-of-course (OOC) which means you will be wasting one months in Tekong for nothing as you will not POP/POC. 
+
+The 4 weeks in Tekong include live-firing, throwing grenades and a 2D1N stay at one of Tekong's finest forests. No shellscrape so you basically lay a ground sheet and sleep on it for the night. Our whole coy hid in the urban ops building when it rained so maybe you won't even get wet...  
+
+Can't say much about the vocation training part since it can be pretty different for everyone. Some end up as drivers and get posted to Sembawang, others become mechanics etc. A few will become Air-force Specs (sergeant) and it seems pretty random to me.
+
+So yeah, I won't be too worried if I were you. The shittiest part was the confinement period. I only had one bookout during the 4 weeks in Tekong. Bring along a big powerbank. Thankfully they give you tablets with internet so admin time was great.
+
+Also see [previous threads](https://www.reddit.com/r/singapore/comments/3zq4yt/ns_hows_pes_c_bmt_tekong/)
+Apparently you can see through these things, I have no idea how.
+Professor Tambyah is also a member of SDP, so yeah I guess such a response is probably expected. 
+
+Not sure if politics or genuine concern for doctors, and the same can be said for the PAP minister as well.
+Still $4 on [PSN](https://store.playstation.com/#!/en-us/games/the-order-1886/cid=UP9000-CUSA00785_00-TO1886GAME000000)  
+
+The store isn't really loading for me though.
+Wow never had someone been that generous before...  
+
+Would love to get one.
+Don't use the PS Vita one though, I just checked and the fuse is different.
+You really don't want to [cheap out on wedding photography](http://www.straitstimes.com/singapore/newlyweds-share-wedding-photos-gone-awry-post-goes-viral-on-facebook)...
+The Apple Syonan Gallery 
+Never bothered to study for “听写”. As long as exam and test results were good, my Chinese teacher didn't really seem to care.
+Cos we cheapskate mah, expect first-class redditing experience while not being paid at all.  
+
+But TBH nothing in r/Singapore really interests me...
+Probably better off with Integrated graphics in that case... The Nvidia card isn't any better than the HD 620.
+Picture of said [suspicious substance](http://www.channelnewsasia.com/blob/3686378/1492497046000/woodleigh-substance-data.jpg)  
+
+White powder.
+MediaTek is known for not releasing kernel source code making them a pain to develop for, and most of their chips power low-end phones so manufacturers don't bother updating them. And then there's the whole philosophy of pushing as many cores as possible making them more power hungry than most Qualcomn/Samsung chips.
+
+That being said MediaTek is slowly improving, and with the Android One program some low-end phones might actually get an update or two.
+Camelcamelcamel is a pretty good one. You can set alerts for price drops to your desired price.
+So r/photoshopbattles?  :O
+Could be worse, they might be Valve.  
+
+
+I think 2014 is The Crew and not Grid Autosport.
+I guess you can say, **well done** reporters? They got **roasted** so bad. Get it?  
+
+I will see myself out.
+I use MX Player, but you might have to install some of the codecs yourself [here](https://forum.xda-developers.com/apps/mx-player/mx-player-custom-codec-dts-support-t2156254).  
+
+Sony TVs use NEON I think, pretty sure they aren't NVIDIA Tegra or x86.
+Well most Sony TVs do run Android...  
+First time I've seen a ST local video that is not 360p, so good job guys, keep up the good work?
+Let's get this out of the way.  
+
+Yishun would be the really weird psycho, doing all kinds of shady things like killing cats and dismembering them.
+Maybe try the [Sennheiser HD 4.50 BTNC](https://en-us.sennheiser.com/wireless-headphones-bluetooth-noise-cancelling-hd-4-50-btnc)? They are supposedly rather bass heavy, though I haven't heard them myself.  
+
+The Momentums are actually rather bassy already, don't think the Sony is much bassier, if at all.
+Mostly pop and a bit of classical. I really like the soundstage of the MA750i, although they do have a peak around the mid-highs which can take some getting used to. The SE215 on the other hand seems to lack highs. A slight roll-off is fine by me actually, as I also own the Sennheiser Momentums.  
+
+The MA750i just sounds clearer, making the SE215 sound slightly boomy in comparison.
+I preferred the SE215 to the M6 Pro, but ultimately went for the MA750i. Just my opinion though. Not too sure about the Tenmak Pro.
+Why not try the Sony MDR100ABN? They aren't exactly super balanced, but considerably more compared to the Sennheiser and V-Moda. They go on sale pretty often too. You can always turn off noise cancelling.
+
+It's about $180 now on [Buydig](http://www.buydig.com/shop/product/SNMDR100K/Sony-MDR100-hEar-on-Wireless-Noise-Canceling-Bluetooth-Headphones-Charcoal-Black).
+Just checked and it seems that the notice has been removed. Oh well.
+They will give you a store code to redeem. As long as it's an Asian account it will work. So you get to keep it even if your PS Plus expires as long as you redeem it before the deadline.  
+
+Source: bought the infamous bundle last month and feeling slight regrets right now. Not sure if I need another year of PS Plus...
+Pretty sure it's [still around](https://store.playstation.com/#!/en-us/apps/hbo-now/cid=UP2084-CUSA05223_00-HBONOWPS40000000)
+So your friend voted for another party just to be different? Instead of being informed about her choices?  
+
+I don't get how this is a good thing...
+Your controller has a 3.5mm audio jack and a built in speaker, so it night cause that issue?  
+
+Anyway just set your speaker as the default sound output in the control panel.  
+
+
+I have the Slim, and the lack of optical port hasn't affected me at all, since my home theater is connected to my TV anyway.  
+
+The Slim is much quieter and has wireless AC on 5GHz, so the WiFi is significantly faster. $200 is way too much for a used PS4 IMO.
+Nope, should come soon though.  
+
+For anyone that's wondering, it's a PS Asia R3 offer for subscribing to one year of PS Plus. Sorry if you live somewhere else.
+I remembered it as  
+
+Many Very Evil Monsters Just Surrounded United Nations
+On SingTel and not working for me either.
+If sold by authorised distributors, sure.  
+
+Don't buy from random sellers, too many fakes out there.
+>  So Mr. bespectacled Chinese man, if you don't like treating people from a hundred different countries as your equals, then take **your racist ass back to China**. Where you can enjoy the life-shortening pollution that **Chinese superiority** has caused there. In the meantime, **leave Singaporean oxygen for someone who deserves it.**  
+
+Your words, not mine. Sounds suspiciously like someone telling immigrants to **go back to their "own country".**
+Complains about racists.  
+
+Assumes Chinese man is PRC and tells him to go back to China.  
+
+Totally sound logic 
+No. No one was ever whipped for that. Don't believe the bullshit.
+
+Source: I actually live there.
+Might want to check these threads out.  
+
+[RHA doesn't honor purchases from Amazon Warehouse](https://www.reddit.com/r/headphones/comments/342srd/rha_ma750_durability/cqrawj8/)  
+
+[Sennheiser does under certain circumstances](https://www.reddit.com/r/headphones/comments/2vfyut/sennheiser_is_apparently_recognizing_amazon/)
+To give you an idea how lepak PES C is, I nor a significant percentage of the enlistees did a single push up during the tekong phase.    
+
+Kind of hard to do PT when pretty much everyone has some sort of excuse. RMJ (running marching jumping), upper/lower limb etc...  
+
+Honestly PES C is probably the best PES,  live firing, grenade throwing and a 2D1N field camp, without the IPPT? Nothing beats that really.
+Pretty sure it's 4 weeks in tekong and 5 in STC.
+Seems like we need a checklist for articles about Singapore. I for one will gladly donate my template.
+
+☐ Bubblegum ban.  
+☐ Caning.   
+☐ Freedom of speech or lack thereof.   
+☐ Part of China.   
+☐ Death penalty.   
+☐ Boring, sterile etc
+Used to run a laptop with hackintosh, pretty great experience.  
+
+Just wondering, what guide did you follow to get this working?
+Not sure about the desktop site, but it clearly shows save $150 off the normal retail $450 on mobile, so I assume it's $300.  
+
+Still not buying on Newegg though. CS isn't the best compared to Amazon and the slight savings just aren't worth it...
+The irony would be real though...
+Tried it on my Xperia Z5 and don't notice much difference in sound quality. However, the background hiss when no music is playing improves tremendously. It is more noticeable when using IEMs.
+
+I usually leave it on since I don't use the equaliser at all.
+'Murican views on Singapore
+
+☑ Bubblegum ban  
+☐ Caning  
+☐ Freedom of speech or lack thereof  
+☐ Part of China  
+
+/s
+You can try having different sizes or using the double flanges for the right side. It might look weird, but it works pretty well.  
+
+I use different sizes for each ear, fits me much better that way.
+I prefer the Cloud Revolver, apparently it sounds better than the previous ones according to PCGamer.
+Yep the 1st Gen Momentum Over/Around-ears. I think it's a real solid buy. I've always preferred warmer headphones, and these fit the bill exactly.
+
+Paid about **$130** for these at the IT Show in my country (Singapore) yesterday. Excellent value considering the 2nd Gen cost about twice the price at the same booth. Sure it's nice to get a foldable design but no way am I paying that much extra for that.  
+
+Comfort is great, I have rather small ears and they fit perfectly inside the earcups. I can listen for hours without pain, although eventually I have to take them off since it's getting a bit warm. Probably due to the humid weather in my country rather than the headphones themselves.   
+
+Sound is your typical consumer headphones. I would have preferred a little less bass but I love the mids. They are slightly recessed, but still retain great clarity. Being the slightly treble-sensitive person that I am, there is no hint of sibilance whatsoever. I can see some complaining about the slight treble roll-off but not an issue for me at least.   
+
+The headphones do have this slightly echoey sound though, not sure if this is considered soundstage, since I never owned a full-size headphone before.  
+
+All in all really happy with my purchase.
+356 
+
+Thanks.
+[Original](https://www.youtube.com/watch?v=-Qih5K4UVz8)
+I would say yes if you fly pretty often. Bose headphones don't really sound that good, but their ANC is second to none.  
+
+Maybe consider the QC25 if they are cheaper?
+I meant the Studio 2013.
+Posted this yesterday but didn't get a response...  
+
+Budget - About $100. 
+
+Source - Xperia Z5(weak DAC) or PC. 
+
+Requirements for Isolation - Yes, closed back since I don't really want people hearing my music. 
+
+Preferred Type of Headphone - Full sized. 
+
+Preferred tonal balance - Probably slightly warm but balanced sound. Not overly V-shaped. Would love to have good sub-bass not not too much mid bass. Good soundstage.  
+
+Past headphones - Really like my MA750i, probably my ideal sound signature. Beats Solo 2 have slightly recessed mids and they sound a bit congested??  
+
+Preferred Music - Pop and classical. Maybe gaming.  
+
+What would you like to improve on from your set-up - Basically looking for a full-sized equivalent of my MA750i. Would be great if there is a 3.5mm jack to plug my V-moda Boompro mic in but not a necessity.  
+
+Currently eyeing the HD598Cs, seems like they will be perfect(besides the mic issue). Or should I get the M40x?
+At half price, the Solo 2s aren't really that bad. Won't pay more than that though.  
+
+The issue with beats is that they can sound pretty good with some music, while being totally horrible for others. Sometimes the bass is just enough, other tines it just drowns out the mids.  
+
+Oh and the beats before the Studios are pure trash. So they have this stigma around.
+Hi there, my post is just below yours lol and we seem to be looking for the same headphone :/  
+
+I really like the Boompro mic, and it works perfectly fine with my Beats Solo 2. The mic is excellent and turns pretty much any headphone with 3.5mm jack into a gaming headset.  
+
+The only issue is that Sennheiser uses their proprietary 2.5mm with some locking mechanism on their headphones so I don't think the Boompro will work. Sure some folks at Headfi have tried [DIY measures](http://www.head-fi.org/t/601873/sennheiser-hd558-cable) but not everyone dares to risk having $150 going down the drain...  
+
+I will probably go for the closed back HD598s, sure that little bit of extra soundstage would be nice but noise leak might be unacceptable for your family. And closed back headphones generally have that extra bit of bass so games will probably sound better. 
+Budget - About $100 
+ 
+Source - Xperia Z5(weak DAC) or PC  
+
+Requirements for Isolation - Yes, closed back since I don't really want people hearing my music  
+
+Preferred Type of Headphone - Full sized  
+
+Preferred tonal balance - Probably slightly warm but balanced sound. Not overly V-shaped. Would love to have good sub-bass not not too much mid bass. Good soundstage.
+
+Past headphones - Really like my MA750i, probably my ideal sound signature. Beats Solo 2 have slightly recessed mids and they sound a bit congested?? 
+
+Preferred Music - Pop and classical. Maybe gaming. 
+
+What would you like to improve on from your set-up - Basically looking for a full-sized equivalent of my MA750i. Would be great if there is a 3.5mm jack to plug my V-moda Boompro mic in but not a necessity. 
+
+Currently eyeing the HD598Cs, seems like they will be perfect(besides the mic issue). Or should I get the M40x?
+I still the Shures a bit muffled in the mids though, though not to the extent of the in-ear momentums.  
+
+It's weird how everyone else's opinion of the MA750i seems to be different from mine. Maybe it's the fit?  
+
+Am I expecting too much from a $100 earphone?
+Budget - around $100  
+
+Source - Xperia Z5 mostly  
+
+Requirements for Isolation - somewhat important  
+
+Will you be using these Headphones in Public? Yes  
+
+Preferred Type of Headphone - IEMs  
+
+Preferred tonal balance - Slight boost in bass and clear mids, good soundstage and vocals. Maybe slightly warm and no sibilance.  
+
+Past headphones - IM-50s lacked bass and are pretty uncomfortable and made my ears hurt no matter what tips I tried, but I loved the clarity. Klipsch R6 are way too bassy with sibilance but super comfortable for me. Beats Solo 2 sounds a bit muffled in the mids but has just the right amount of bass.  
+
+Preferred Music - General pop and classical. Weird combo I know. :)  
+
+What would you like to improve on from your set-up - Good fit and comfortable earphones. 
+
+Edit: So I went down to the Headphone shop to test out the earphones. Momentum are definitely out, too bassy for me, the SE215s are much better. Loved the clarity of the MA750i but once again lacking bass and sounding a touch sibilant. Not sure if it's the fit since I didn't get to try the other tips.
+
+Need to choose between the Shure and the Marshall mode/eq now. Or maybe the MA750i. This is not getting any easier...
+**Budget** - around $100  
+**Source** - Xperia Z5 mostly  
+**Requirements for Isolation** - somewhat important  
+**Will you be using these Headphones in Public?** Yes  
+**Preferred Type of Headphone** - IEMs  
+**Preferred tonal balance** - Slight boost in bass and clear mids, good soundstage and vocals. Maybe slightly warm and no sibilance.
+**Past headphones** - IM-50s lacked bass and are pretty uncomfortable and made my ears hurt no matter what tips I tried, but I loved the clarity. Klipsch R6 are way too bassy with sibilance but super comfortable for me. Beats Solo 2 sounds a bit muffled in the mids but has just the right amount of bass.  
+**Preferred Music** - General pop and classical. Weird combo I know. :)  
+**What would you like to improve on from your set-up** - Good fit and comfortable earphones. Currently interested in the Shure SE215, RHA MA750 and the Sennheiser Momentum In-Ears, slightly leaning towards the RHAs. Just not sure if there is enough bass in the RHAs.
+If this doesn't sound like an internal power struggle, I don't know what is...  
+
+First football, now table tennis. I hope swimming won't be next, but who knows really.
+I don't know, pay them $1? Pay more for better service from dedicated shitposters.  
+
+Nobody cares about Facebook comments. Get over it.
+
+It is not any old i5 though. It is a freaking skylake CPU.  
+
+OP should check if he has any background process or virus taking up CPU.
+You're one of the good ones. /s
+Might want to make sure it's plugged into the GPU and not the integrated graphics.
+Beep Boop Boop
+
+I am a human disguised as a robot and I am here to help you.  
+
+Enter ¯\\\\\\\_(ツ)_/¯ for your "Shrug" emoticon to work properly. 
+
+¯\\\_(ツ)_/¯   
+
+The more you know
+I have a 970 and have no issues? 
+Can't you just get a new modem?
+i7 with a GTX 760 Ti (Do they even make those for OEMs?)  
+
+Yep definitely an Alienware  
+
+Might want to think about adding an SSD, really helps with the speed in general.  
+
+An extra 8GBs of RAM won't hurt, and the GPU isn't exactly super powerful, but it will do.   
+Some guy in my platoon fucked up so many times on the first day of field camp in BMT, it's almost amazing.
+
+First, he poured half a canteen full of water out after water parade when the canteen is supposed to be empty.  
+
+He then proceeded to take out sweet drinks during lunch time and drink it in front of the sergeant. 
+
+To put the cherry on top, he shit directly on top of the cardboard that was meant to cover the shithole. And it just so happened that one of the sergeants walked past. Chaos ensued.
+Hehe fellow Singaporean here. Go down to [AsView](http://asview.com.sg/contact-us) and ask for a replacement. They are in charge of RMA for Asrock motherboards here. Chances are they will give you a new one on the spot.
+
+If they don't have stock then maybe they will ask you to go down another day.
+Definitely sounds like the motherboard issue. If it's the GPU the PC should have booted up when it is removed. Probably not a power supply issue since the keyboard is receiving power.  
+
+My motherboard (also an Asrock) died and I just received a new one from RMA. Difference was that my Strafe only lit up for a sec.   
+
+I think that the motherboard might not be fully dead, might be a BIOS issue or something. ~~Have you tried clearing the CMOS?~~    
+
+EDIT: You cleared the CMOS, my bad. Time to send the motherboard in for RMA then.
+No reaction whatsoever.
+I will probably go for an exchange for my PSU soon but it would be great if it's something else.
+Xperia Z5, because the battery life is great and it has stereo speakers. Pretty much the only two features that make it stand out from other flagships.
+
+Don't really care for the waterproofing but I guess it's good to have.
+[Link for reference](https://www.youtube.com/watch?gl=SG&v=ab8GtuPdrUQ)
+[Full list](http://www.dailymotion.com/video/xa2efl_top-gear-making-fake-vw-scirocco-ad_auto)
+Found the salty Malaysian. /S
+It's okay I fixed it for now using Speedfan.  
+
+EDIT: Seems like ASROCK issued a BIOS update for my board(H170M Pro 4). Installed it and noticed a new option for NIDEC retail unit in Fan Speed options. Works perfectly now.
+https://www.youtube.com/watch?v=f3tWqZ0pNC8
+
+But Terry slipped too.
+I may or may not have tripped KNOX while rooting my phone, so no go for me?
+The thing is, many people still have a negative view on activists, justified or not. Certainly doesn't help that many activists seem to be the SJW with an agenda. And not trusting the police is an extremely poor advice to give, since it seems that the officers are just following SOP.  
+
+Could things be done better, in hindsight probably. But it's not like they made any mistakes either.
+So to get USD you multiply by 0.7
+Well Paul Rhodes is a JTF engineer. at least it says so on the loading screen.
+About 2 weeks, same time as forwarders. 4PX is more expensive but they can put parcels in POPStation so it's also more convenient.
+It isn't even wireless AC...
+I think the [AYL Bluetooth headphones](http://www.amazon.com/AYL-Bluetooth-Headphones-Cancelling-Sweatproof/dp/B014EGE9G) and the [Mpow Wolverine](http://www.amazon.com/Mpow-Wolverine-Bluetooth-Wireless-Headphones/dp/B018LX3MSO) should be good.  
+
+I will recommend the Mpow ones as they seem to be more widely known, but both are the [top-sellers on Amazon](http://www.amazon.com/gp/bestsellers/electronics/2407776011/) so it should be fine either way.
+I'm never used them but I heard Samsung Level U is one of the better ones out there in this price range. 
+
+[Amazon link](http://www.amazon.com/Samsung-Bluetooth-Wireless-Headphones-Microphone/dp/B00YA8L3YA)  
+
+Obviously you can get some pretty good wired earphones for this price. Newegg's ebay store is running a promo for Klipsch R6, basically an improved version of the S4, for $30. [Link here](http://www.ebay.com/itm/Klipsch-R6-In-Ear-Headphones-/381602256575). These will sound a lot better than the Samsung ones but they are not Bluetooth. 
+You get what you pay, really. ViewQwest is the most expensive but possibly the best.   
+
+MyRepublic is a slightly cheaper version of ViewQwest.  
+
+Singtel and Starhub, average price with average performance. Singtel slightly better in Internet, Starhub for TV. I didn't have any issues with Singtel, but pray you don't run into issues, cause CS kind of sucks for both.
+
+M1, cheapest and slowest I think. Great value for average consumer. Also lacking in CS.
+
+
+Manchild with anger issues? /s
+Yeah it was post 1.1. Didn't really matter though, I just farmed the dark zone with randoms.
+I got nothing but purples from the bosses, both the free-roam and side mission ones.
+From Wikipedia. 
+
+>There were multiple cases in 2011 and 2012 throughout China where police officers were attacked by groups of chengguan agents when responding to incidents of chengguan's use of violence and abuse.  
+
+ Beating up cops? WTF that's a whole new level of corruption.
+But it's a Razer keyboard... 
+Not safe for Master Race, mostly hardware being abused by idiots.
+It is a H1 subject so it carries the same weight as GP and your other H1 subject. So 10 points out of the total 90 for UAP, or 100 if you take Chinese.  
+
+It is definitely important and one the easier subjects to get an A in, so do your best. And it is the only A level subject(besides SPA for science stream) which is tested in J1.
+
+That being said, if you do get a B, you can still do well enough in A levels to make it a non-issue. I wouldn't recommend it though, especially if you are thinking of being a doctor/lawyer or any other course that requires a near perfect score.
+I was looking through my room and found physical games only for my consoles (PS3 and Vita). Steam has really changed the way I buy games significantly.  
+
+Not really sure why I'm still keeping the consoles. The PS3 is a great Blu-ray player and the Vita, well, I don't really know. I guess it has pretty graphics so I will keep it for now...  
+
+Now if only people in my country use the PC for more than Dota. Console gamers are treated like the real gamers(OMG Call of Duty/Battlefield??!!) and PC guys peasants. What a weird world :/
+
+
+Jokes on you, I can charge my Vita with my phone charger.
+Stock cooler should be good enough. The store did give you a cooler right? The Intel one?  
+
+Probably a good idea to get a decent cooler though. A CoolerMaster 212 Evo is a good start. Don't let Z170 and a unlocked K processor go to waste. :)  
+
+It might be a bit too late now but try not to get the Corsair CX series PSU for such a high end build. You can get more efficient and higher quality PSUs for around the same price. Seasonic, EVGA etc...  
+
+And before the fanboys come out bashing me, I have nothing against Corsair, they make great stuff and I have their Strafe keyboard. The CX series just isn't the best in the price range.
+The gigabyte is pretty good. It comes with the Intel AC8260 chip which is very common on laptops. Should work pretty well, I have one on my desktop and it's really fast and reliable.  
+
+If the WiFi on your router is weak, then maybe you should consider powerline adapter.
+Yes I PC, and I hope you realise that I was talking about laptops... Using Macbooks and Razer laptops (gasp) have seriously screwed with my brain.
+Maybe I'm mistaken then, but I believe he should be getting the i7 instead of the i5.
+1. I would say that the 2GB GTX 960M should be more than enough for gaming. It performs similarly to the GTX 750Ti so 2 GB should be sufficient.  
+
+~~2. Get more RAM if possible. They are usually soldered onto the motherboard so they are harder to switch. However there is also a trend of soldering SSDs to the motherboard now so do your research before buying.~~  
+
+Edit: forget that. Misinformed.
+
+Your ideal laptop should have around the following specs.  
+
+Quad core i7, since you are doing graphic design.  
+
+16GB ram, doesn't really matter if it's ddr3 or ddr4. Graphic design requires as much ram as possible.  
+
+2GB GTX 960M, anything more is a waste IMO.  
+
+And if possible, get a SSD. You can always store your stuff on a portable harddisk. Those stuff are relatively cheap.  
+Have you tried disabling the onboard sound card?  
+
+If it works then I'm going to assume it's a sound card issue. BF3 used to crash my integrated Realtek sound drivers on my old PC all the time, I had to buy a cheap USB one for it to work.  
+
+Then it fixed itself after half a year. Weird.
+Should have gotten a R9 390, and I own the GTX 970. I hate when Nvidia gimp their old cards while AMD cards seem to get faster with better drivers long after release...   
+
+That or wait for the next gen of cards, but whatever.   
+
+OP you should enjoy whatever you have.
+The new display drivers actually fixed the crashes for me, am I the only one who has less crashes with this new driver? :/  
+You don't need to install Origin for this. It is linked to your account.
+[The Aladeen news?](https://www.youtube.com/watch?v=V9NFyvaO1_k)
+Let's have a quick poll then. :)  
+
+Q: Is u/Valkrins a psychopath?    
+
+Option A: Aladeen  
+Option B: Aladeen
+[I love helmets](https://www.youtube.com/watch?v=b9yL5usLFgY)
+What CPU are you using?
+Same here. It's really something the OP should think about. I run the division on high and still get a few frame drops below 60fps with vsync enabled. That being said I heard the engine is extremely scalable so there might still be hope.
+You made my [PCMR mousepad](http://imgur.com/wThQa1G) look pitiful in comparison.  
+
+Anyway below are some glorious designs I made for our brothers.  
+
+[One linked in picture](http://www.artscow.com/gallery/mousepad/-veu8kewpls3d)  
+
+[Classic PCMR and peasant](http://www.artscow.com/gallery/mousepad/-4wlyx6w9oim6)  
+
+You need to use a code to get this offer. Here's mine: Z099MOUSEPAD8KWMA  
+Do note that it is a ref link so... I don't think there are any non-ref links TBH.  
+
+Hope you guys aren't too mad about this ref link.
+As you all have probably guessed, yes it is the Artscow mousepad.  
+You need to use a code to get this offer. Here's mine: Z099MOUSEPAD8KWMA  
+Do note that it is a ref link so... I don't think there are any non-ref links TBH.  
+
+Below are some glorious designs I made for our brothers.  
+
+[One linked in picture](http://www.artscow.com/gallery/mousepad/-veu8kewpls3d)  
+
+[Classic PCMR and peasant](http://www.artscow.com/gallery/mousepad/-4wlyx6w9oim6)  
+
+Or [make your own mousepad](http://www.artscow.com/photo-gifts/large-mousepad-160)
+Yeah no. Please don't do it. Hackintoshes have all sorts of driver issues.
+Have to agree. My previous computer with a core 2 quad and GTX 660 couldn't run 1080P 60fps on Youtube sometimes. Other times it just works fine. Go figure.
+Tell that to my Thinkpad. IBM or lenovo, those hinges on the T series still suck.
+1800
+Pictures loaded in about 15 secs, took me longer to scroll through on Chrome...
+I never got the usb to work during installation to work so I just installed Windows 10 instead...
+You must [go online](http://imgur.com/OCASCTa) to play a Windows Store game. 
+
+I have a pretty stable internet connection so I never noticed it until today, when I turned off my internet on purpose. This is ridiculous and a real dealbreaker.
+Wireless Combos usually aren't the best, I had nothing but problems with my Microsoft wireless set.
+
+Logitech isn't too bad, but I will stick to USB.
+So you can't just open the archive and double click the item? I would rather it extract to a temp folder automatically.
+I am guessing it has something to do with the TEMP directory. I'm using Windows 10 BTW.
+I would take Underworld. Thanks!
+My skylake mobo, an Asrock H170M does have that option. I can choose between UEFI boot or bios boot.
+
+Never installed windows 7 though, my USB can't even be detected during installation.
+I love a chicken and mayo sandwich. I want one, but since I'm in front of a computer I might as well just draw one and stare at it all day long. 
+
+Grrr. Wow that was so random.
+I wonder why we still need the yellow line when there is a whole glass barrier. TBH I don't remember hearing PA about standing behind the yellow line anymore.
+I own one too(Xperia Z2), but you won't find anyone using that in the US.
+Not sure about ping, but download and upload speed is pretty dependent on your router. 
+
+Of course you need to subscribe to a fast internet plan to take full advantage of a good router. ISP routers are usually crap IMO.
+Found the Razer Firefly owner.
+[Also Relevant](http://www.tomshardware.com/forum/id-2547993/psu-tier-list.html) It's the PSU tier list.
+
+Corsair CX series is a tier 4 psu, meant for only basic builds... Get AT LEAST a tier 3 if you value your pc.
+Or set fire to the rain.
+They had the new engine since FIFA 15.
+RT-N66U is a wireless N router, better to go for the new AC ones such as the RT-AC88U.
+**Happy new year, and happy birthday to me.**  :)
+
+Just received a pair of Beats Solo 2 for my birthday, but I'm looking to sell it and get myself a better pair of headphones.
+
+**Budget** - About $80-120 preferably less  
+**Source** - Xperia Z2 and iPad, no amp for now  
+**Requirements for Isolation** - Not particularly important, mostly used at home.   
+**Preferred Type of Headphone** - On-ear/full size preferably. Comfort is pretty important.  
+**Preferred tonal balance** - Looking for clarity and a good soundstage. Some bass but not overpowering.  
+**Past headphones** - Audio-technica IM-70 and the pair of Beats Solo 2 I'm planning to sell.  
+**Preferred Music** - Mostly pop but also classical since I play the piano.
+
+Never used a full-sized headphone before, looking forward to your opinions. Thanks!
+Even the Filipinos themselves [get it wrong](http://www.straitstimes.com/sport/sea-games-filipino-sprinters-wear-national-flag-upside-down-sparking-minor-outcry-back-home) once in a while.
+Is it just me or is it just pure coincidence that it so happens that the MP is the guy from ACRES? 
+
+Come join us at r/conspiracy!
+[There is always hope](https://www.youtube.com/watch?v=dGEd6ZmwZ7Q)
+How slow the gif loaded for me?
+
+[Gifv link](http://i.imgur.com/eNsNOds.gifv)
+[Original YouTube link](https://www.youtube.com/watch?v=PRpiwa3so8U) and the [Reddit thread](https://www.reddit.com/r/videos/comments/3y1t99/woman_goes_crazy/)
+
+Thought I watched it already? Heck it isn't even 12 hours :/
+Low birth rate, less immigration etc.
+I love how they even have old TVs with the PS1 and PS2 to give the same feeling you had playing it when you were younger.
+Nothing crowdfunding (of idiots) can't fix.
+I actually thought he looks a bit like the human version of Chewbacca...
+Pics or it didn't happen.
+[No seriously...](http://kotaku.com/cops-called-for-underboob-cosplay-controversy-1464257715)
+That's weird. I have the asrock h170m and i5-6500 and GTA IV works, though enb gave me graphical glitches...
+
+Maybe the bios was updated automatically. 
+> better hide the condoms and lube too
+
+It will also have the positive side effect of a higher birth rate.
+
+**GF**: Walao you no more condom is it? How come you never buy at NTUC?  
+**BF**: Dunno lah, cannot find. You can take pills tomorrow what...
+Complains of other people judging, then claims that other person is an expat and judges them.
+
+Ah the irony. And I am probably part of the problem.
+Or the Russians.
+Can't tell if joking or gone full retard... 
+
+Can add a */s* for people like us?
+Leicester City on top WTF.
+Just grab a cheap white collared shirt and iron your school pants. It works surprisingly well.
+
+And try to get a decent pair of shoes, shouldn't be too expensive.
+[Found the original](https://www.youtube.com/watch?v=_QFbI5BO5es)
+[Close Enough?](http://imgur.com/jZj29PU)
+Upgrading Medishield. +1000 HP.
+I just do the experiment 2-3 tines and "extrapolate" the results.
+Thought I was the only one to notice the differences between the new Circle line trains. The C830C feels a bit more jerky in my opinion. Not sure why. And what's the point of the information boards when they aren't lit up?
+Wow that was dark...
+What goes around comes around.
+More like a 50-50 split.
+I don't think there are any flagship phones with screen size smaller than 5 inch nowadays. Except maybe the Xperia Z3/Z5 compact.
+http://www.nea.gov.sg/anti-pollution-radiation-protection/air-pollution-control/psi/pollutant-concentrations/type/PM25-1Hr
+
+It's 442 in the west. Wtf.
+All is well until you lose your year end bonus. Though I doubt there will be much this year in the first place because reasons.
+I really hope our medicine prices don't go up, and erm, go easy on the pirates please?
+
+IP protection can be a big issue if it ends up in the wrong hands, ala copyright trolls.
+I really hope our medicine prices don't go up, and erm, go easy on the pirates please?
+
+IP protection can be a big issue if it ends up in the wrong hands, ala copyright trolls.
+Shameless self plagiarism from my own comments below.
+
+Why does your education system not encourage creativity and focus mostly on exams?
+
+There has always been this focus on meritocracy to the point where it starts get a little out of hand. Simply put, standardised testing is the easiest and most cost effective way of judging a person's ability. Sure we might miss out a few Einsteins here and there but it helps to raise the national education level quickly. Like it or not, we are a small country with a limited talent pool, and quite frankly we don't have much of a choice.
+Currently have a Xperia Z2 and just received an invite to get the OnePlus 2. Any opinions on whether I should get the phone?
+I think he missed a zero behind.
+It was on the YouTube front page quite a while back, as an [ad for NTUC Income education bursary](https://www.youtube.com/watch?v=IpYJo1WTb8k).
+\#RihannaFaceMatters
+I felt like a dumbass for buying the physical version...
+
+Could have gotten the PS3 version on PSN for $5 and it comes with the Vita version. Great game though, a good substitute for Smash Bros for PS.
+Seriously though, ASEAN is even more useless than UN when it comes to negotiations, and that's an achievement by itself.
+I end up with HSPA+ pretty often and it is fast enough for me. No complains about the speeds, just wish I had more data.
+
+But then again everyone would just be streaming their Korean drama and complain about speed when there is unlimited data. Can't have your cake and eat it I guess.
+I don't even have a Vita memory card... damn those cards are expensive.
+Need For Speed Most Wanted, absolutely. Nice graphics and runs really well. One of the best (and sadly few) racing games on the vita.
+If I'm not wrong it's because of the dimensions of the packaging. Try buying 2 Blackwidow tournaments and they will ship for free. But not a single K70 or any other full size keyboard even if they cost more than $125.
+Willing to trade for a copy, so pm me I guess?
+
+Thanks a lot!
+[Obligatory John Oliver Video](https://www.youtube.com/watch?v=7y1xJAVZxXg)
+Someone deleted their comment just now. Might as well do a FAQ.
+
+**1\. Why do you guys love to speak Singlish? [Insert disapproving tone here]**
+ 
+We get it, but speaking Singlish is sometimes seen as a big FU to the government which has a reputation for controlling pretty much everything, for better or for worse. Our mini revolt I guess. It is sometimes spoken for Singaporeans to identify each other overseas so get off your high horse about our "non-standard" English.
+
+**2\. What's with all this campaign nonsense? Can't Singaporeans think for themselves?**
+
+As stated earlier, our government likes social order, and we even fine people for not flushing toilets! Stay away from our third world dictatorship!
+
+In all seriousness though, our country is part of a giant social engineering experiment, since it is small enough to be micromanaged. When you have rapid economic progress, your social values might not catch up. No offence but China is a prime example of what not to do.
+
+**3\. What's up with shopping?**
+
+Aircon and cheap/free things. What's not to love? And there are way too many of them around.
+
+**4\. Why does your education system not encourage creativity and focus mostly on exams?**
+
+There has always been this focus on meritocracy to the point where it starts get a little out of hand. Simply put, standardised testing is the easiest and most cost effective way of judging a person's ability. Sure we might miss out a few Einsteins here and there but it helps to raise the national education level quickly. On the flipside our students might lack creativity. And no MOE, I DON'T MEAN TEACHING THEM CREATIVITY! 
+Trust me there are plenty of crazy parents around
+[It's so fluffy I'm gonna die](http://youtube.com/watch?v=1SI6rhotAkE)
+Today I shall be spending National Day in camp, pulling a 24 hour shift until tomorrow...
+
+Well at least there's a TV and a PS3.
+PC gamer mostly, but finding cheap games for the Vita is a real pain.
+Everything [here](http://qisahn.com/bundle_discounts/5-bundle-discount-29-29-50). Pretty much any game that is $29.
+Waiting for someone to buy some games with me at qisahn to take advantage of the 2 for $50 offer. So anyone?
+You can send her an Amazon gift card. They offer free shipping to Singapore for purchases more than $125 with certain items
+As seen in the article, firms from the following countries are listed as customers. They may or may not be government related but it's still kind of surprising to see some EU countries on the list.
+
+Egypt, Ethiopia, Morocco, Nigeria, Sudan
+
+Chile, Colombia, Ecuador, Honduras, Mexico, Panama, United States
+
+Azerbaijan, Kazakhstan, Malaysia, Mongolia, Singapore, South Korea, Thailand
+
+Uzbekistan, Vietnam, Australia, Cyprus, Czech Republic, Germany, Hungary
+
+Italy, Luxemburg, Poland, Russia, Spain, Switzerland, Bahrain, Oman
+
+Saudi Arabia, UAE
+Note to self, never argue about politics online, especially not on [Reddit](https://m.reddit.com/r/worldnews/comments/3ca6o0/16yearold_amos_yee_sentenced_to_4_weeks_jail_for/)
+> Malays wash floor and work as police and firemen. Indians are very lucky if they get some government job. Chinese hold all sweet stuff there, all big companies and sweet contracts, all good jobs are distributed among Chinese friends.
+
+I really don't know who's the racist one around here. FYI Indians have a [higher median household income](https://en.wikipedia.org/wiki/Demographics_of_Singapore#Average_household_monthly_income) compared to Chinese, although Malays do end up on the losing end. But downright discrimination is still relatively rare.  
+
+> You can be murdered/hanged by police if drug traffickers put drugs under your car.
+
+Seriously? Are you really going to use this as an example?
+
+> you can be caned and jailed for overstaying the visa
+
+Maybe it's the reason why we don't that many illegal immigrants around?
+
+> you can be caned and jailed for smuggling chewing gum
+
+I don't know how much gum you have to smuggle for this to happen. Cartons?
+
+> you can be jailed for 6 months if you have marijuana in your urine when you enter Singapore.
+
+One of the lowest drug consumption in the world. Your point? And we don't usually do urine tests.
+
+> A GD (general doctor) is a 60$ idiot who can only prescribe antibiotics and in a hospital you will cash out thousands for a check up. If you are not insured and you get hospitalized you are fucked.
+
+You can go to a private clinic and get your antibiotics for ~$20. Or half the price if you are willing to wait. And guess what? Everyone's insured in some way or another. And like it or not, our healthcare is [one of the best in the world.](https://www.youtube.com/watch?v=WtuXrrEZsAg)
+
+> Yes tell me why we expats come to Singapore only if you pay us tons of money otherwise anything is better than your boring country where people can only talk about food
+
+Food is love, food is life.
+I walk down the street without fear of being discriminated by the police because of my skin color.
+
+I walk down the street without fear of being mugged/raped/murdered.
+
+I walk down the street to a hospital that provides affordable healthcare.
+
+I walk down the street to a university that actually has affordable tuition fees.
+
+Need I go on?
+
+The expats can live in their mansions for all I care as long as my life is relatively comfortable. We might not be perfect, but at least we are actually making progress. And we do that without your "freedom". You can have your freedom while I have my life.
+It would be a good example if protests actually work. But as the students from Hong Kong have showed us and the rest of the world, they don't.
+ 
+We are not oppressed, contrary to "popular belief". 
+I like how ALL the media outlets from other countries mysteriously forgot to report on this. Must be pretty embarrassing if your "freedom fighter" is just some mentally unstable kid...
+Worked on my Android phone out of the box. Didn't even realise I connected to it but the slow speeds (2 mbps?) gave it away... Even 3G is much faster.
+
+It's pretty useless to be honest and you're not missing out much.
+Anyone wants be a construction worker? I mean, the pay isn't great, but you are literally building our country!
+
+*silence...*
+
+Easy to criticise, but solutions are harder to come by.
+Fans who only support the team when they win are called glory hunters. And sadly that includes many in the stadium.
+http://web.archive.org/web/20150528143146/https://carousell.com/p/19750813/
+
+Cached page
+Artscow and some voucher codes I guess.
+Plot twist: OP **is** Amos and he's taking advantage of all of us...
+
+He does kind of write like Amos though, with all the *powderful england* we cannot understand.
+I hate to be that guy but they didn't actually "totally" ban the music video, it's still available [on YouTube](https://www.youtube.com/watch?v=C7hHofDW2ts). It's only banned on radio and TV I think, which does seem kind of weird...
+
+Still the amount of people who claim to be "pro-family" but actively shun those who have different sexual orientations make me sick. Do they not realise that those people have families too? Or are they just ignorant and believe they are somehow "morally" superior by being an a-hole?
+Thanks, will try HijackThis! Already tried removing programs via control panel but nothing really stood out.
+As if I can change the password. The pass for advanced settings is locked to default.
+I just don't think this is a good idea. Amos might see this as a sign of weakness. I mean, why pick on the bailor of all people? 
+Well there are "rumours" that only childs are given less dangerous tasks/vocations in the military. We will never know whether or not they are true... You can still be Commando and NDU though.
+
+NS cannot escape one. Try to run and you end up in DB. 
+Anyone going to play GTA V on PC? Need some heist mates.  
+
+P.S. Pre-ordered on Steam
+I use Carousell for everything. 
+Cannot lah. He too busy working out after being inspired by LKY.
+To be honest, I'm not sure if I can actually trust BBC on this...
+Also the phones sold by telcos on contract are not sim-locked at all. They are exactly the same as the ones you get at retail shops so there's really no reason not to get one.
+It might have been interpreted wrongly so thanks for the feedback.
+
+Edited.
+I think it's 青菜 but I'm not so sure. jk 
+
+It should be 进才 but I based it of Toh Chin Chye, one of the Old Guards. 
+
+To respect the law? And take responsibility for your actions? You can't possibly let the kid go with TWENTY police reports lodged against him.
+
+Making a petition for a lesser sentence would be more appropriate. Releasing him will set a bad precedent. 
+
+
+Mostly Christianity. Unfortunately our police officers do not [protect people who promote hate speech](http://2.bp.blogspot.com/-U1SxeZa7S0E/U62zTFdXLeI/AAAAAAAAJgc/h9m4xReYi3w/s1600/A+KKK+child+and+a+black+State+Trooper+meet+each+other,+1992.jpg). I guess that's probably a good thing, but my idea of freedom is obviously very different from yours.
+BBCD sounds like my A level results...  
+
+Referring to the facebook page.
+Here I am, sitting comfortably in front of a computer in Communist Singapore laughing my ass off.  
+
+Thank you Malaysia for kicking us out. We will forever be grateful.
+I desperately need the freedom to punch that guy, and I wonder why...  
+
+And to anyone thinking Hong Kong is a beacon of democracy, you either enjoy sucking up to China or living as second-class citizens under the Brits.
+
+I do apologize to anyone who feels offended over my post but I just had to get it out of my system.
+All thanks to [John Oliver](https://www.youtube.com/watch?v=c3IaKVmkXuk). 
+Forgive my pessimism, but this is probably not going to end well with the amount of trolls around...
+CIA did kind of asked for it. Negotiating with a lawyer usually doesn't end very well...
+By pointing the guns the wrong way obviously... The forts are still there for us and the tourists to laugh at.
+There is nothing wrong being a benevolent dictator. Look at all the people he managed to pull out of poverty.  
+
+See what I did there? Matter of perspective.
+S
+Uganda’s politicians have been inundated with complaints that many condoms on sale in the east African nation are too small, and warn that the problem is affecting the fight against Aids.
+
+Insisting that one size doesn’t fit all, MP Tom Aza said Uganda’s parliamentary committee for HIV/Aids said a recent tour of areas worst hit by the virus revealed that some men “have bigger sexual organs and therefore should be considered for bigger condoms”.
+Needs more Michael Bay explosions. 
+The poll might still be alive I guess. And please vote for the IM-50 if possible. I don't have much to spend on these things.
+Great deal considering the discounts they have.

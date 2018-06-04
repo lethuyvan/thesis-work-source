@@ -1,0 +1,1805 @@
+Pokemon Sapphire... I poured hundreds of hours into it as a kid. I know Hoenn by heart. 
+Dude, not cool. 
+Mistake #1! Never expect people to have done their homework online, haha. Almost everyone is talking right out of their ass... They see one post where the guy associated to with the update because it happened to happen during it for him, and everyone else just said "well it happened after the update so it was probably that!"
+Heh, easy to tell. If you followed /r/NintendoSwitch at the time you would have :)
+But it's not as easy to type. :(
+
+Also, might as well switch to one of the protected TLDs like .local or .test. Then you won't ever get overlap problems. 
+Lol no. Consoles were being bricked left and right before 5.0 too. 5.0 only became notorious because a few users (possibly coincidentally, no one knows) got their consoles bricked after updating while using the dock.
+
+I see that you commented further down that every case you found referenced the update. How is that evidence of the update even being at fault? Those users have no idea what changes were being made in it. 
+Uh... They're already there. They're a fun addition. They help your profile be easier to identify on a big friends list. What's the problem?
+It's an issue because Google is enforcing HTTPS on all their TLDs. While that's a good thing, I'm sure as shit not running HTTPS on my sandbox. But my browser doesn't accept connecting to .dev (for example) over HTTP. 
+Recently switched to Firefox. Plugins on mobile browsers is glorious. 
+I'm afraid my save is long gone, haha. But thanks!
+Literally never got further than that, even as a teen. 
+Yea, as far as I'm aware, as long as you have a plan for getting that 90's database upgraded and you can say that you know it's bad, they won't fine you
+Yes! I mostly listen to hard rock and metal, but I find playing psychedelic rock, blues rock or 90s rock/grunge is much more fun. 
+I think they meant listen to how to slide from 13 -> 15 sounds, and try to replicate it with a bend. 
+Yep. I literally just got all gold parts yesterday. 
+I use SourceTree for Git, has gotten me along well this far. I personally don't use anything Eclipse based anymore, but I do remember SVN working way better in it than Git back when I did. I feel like it's the other way around with JetBrains IDEs though. I frequently have issues with SVN repos in that. 
+I think I just prefer Git's decentralized style of everyone having their own copy of the repo instead of depending on the SVN server. That just works better for our workflow. 
+
+Manual merging in Git has never been a problem for me, and has only been bearable for me in SVN with TortoiseSVN's conflict resolution tool. I'll have to admit that is really nice though. 
+We have an SVN repository at work from the old days and all new stuff is in Git... For me personally SVN would be fine for a one man project, but I find it a nightmare in a collaborative codebase, and especially its branching and merging are stupid to me in comparison to git
+What do you mean? I'm fairly sure that with the games where it's been removed because it was cracked they got a good performance boost out of it. 
+And that has lead to creation of shitty DRM like Denuvo that literally ruins a game's performance to protect it from getting pirated, at least for the first month or two. 
+Probably the same person who thought up the idea of a system that could be docked....
+It probably completes a circuit in the console. 
+Huawei still has them!
+I should probably take a look at learning the whole thing then, huh?
+First solo in So Far Away by Avenged Sevenfold is pretty good 
+You can still do anything after beating him, but there's no post-game content
+Yes, definitely. Look up the danish band Dizzy Mizz Lizzy. Most of their hits were recorded with a Strat + a Marshall amp
+I'd definitely love a 2DS to give to my nephew.. so commenting!
+I played with Rocksmith exclusively for about a month - until I felt like I had the very basics down. Then as someone else mentioned I started practicing what I learned in RS through an amp so I could really hear my playing. About a month after that I started taking "real" lessons. I've been playing for 6 months total, and did lessons for 4 of them. Lessons definitely gave me a huge boost and I think it was a great way to start for me. 
+
+I still use Rocksmith because they have nice tabs for a hell of a lot of songs, but once I've nailed most sections of a song so I can play it without tabs I practice through an amp and look up a video of the Rocksmith tab if needed. 
+No, that feature is reserved for 6.0.0
+Good point. Also since WhatsApp is proprietary you can't verify if they snatch encryption keys during the initial exchange, making the encryption ultimately useless...
+I just switched. How do you do that?
+I hadn't heard of Wickr before. I'll check it out.
+People like looking at expensive stuff. I'd wager that the majority is like you. I'm not an expert tho, I'm rocking my first guitar and amp still lol. 
+>So they already data mine from WhatsApp.
+
+Taking off my devil glasses for a bit, even if they don't snatch messages they can still see who you're talking to and when... Just not what you're talking about. 
+
+>Signal or Telegram is what you want if you care for privacy, not anything owned by Facebook.
+
+I agree. The Signal vs Telegram debate is all about how much (if at all) you value convenience and (in my experience) stability over security.  
+Wire is also worth keeping an eye on, though the UI isn't the best. 
+I get in games instantly. Mario Kart always has a playerbase throughout a console's life. It'd probably still be easy to get a game in Mario Kart 7 honestly.
+>At some point, trust comes into play.
+
+At one point did I claim otherwise? But hey, if you find Facebook to be any sort of trustworthy, you do you...
+Well, with Signal every part of it is open, so everyone can check out what's going on. Not possible with Facebook.
+
+Also:
+
+> There's no way to be 100% sure all CPUs in existence don't contain back doors.
+
+No, but it's known that most major ones do. :p
+It confirms they're using the protocol, but you have no clue if they snatch encryption keys and store them with Messenger or WhatsApp. Sure, Signal Inc. may have verified when they implemented it but you don't know if they've changed it since.
+
+>and they are actually secure since they use the Signal protocol
+
+How do you know they're actually secure? It's all closed source, you don't know if they store a copy of the encryption keys on their end during exchange...
+Something like this: https://www.amazon.com/Ckitze-Europe-Travel-Power-Adapter/dp/B001EB26MO
+Do you guys use European plugs in India? These: https://images-na.ssl-images-amazon.com/images/I/81SpHmOsrqL._SX355_.jpg
+What country are you going to specifically?
+No. Nyko is a garbage brand that makes minimum quality products. Anything of theirs, especially involving electronics, should never be considered safe.
+If you want to be 100% safe stick to Nintendo official stuff. However I haven't heard of anything plugged straight into the switch bricking it. Problems rise when you plug something unofficial into a dock, or use an unofficial dock.
+Adapters exist. The Switch AC adapter can support both 240v and 120v.
+Ja, klart, dem der kender dem allerede køber dem. Men de går glip af en helvedes masse nye fans ved ikke at være i Spotify-genererede playlister for eksempel. 
+**EVERYTHING HAS COME TO LIFE**
+How is it rude? He invited her out with one word, a one word reply isn't unreasonable. 
+Og lur mig om de ikke efterhånden bliver tabt på grund af det. Har hørt meget godt om dem, men har aldrig fået sat mig og hørt deres musik ordentligt igennem fordi jeg ikke magter at finde det på YouTube eller piratkopiere. De skærer sig selv af for mange nye lyttere. Fremtiden er streaming. Kan meget bedre lide bands som Avenged Sevenfolds indstilling til streaming. :)
+Lego City Undercover definitely has performance problems. But it was also very rushed to come out close to the console's release... I heard some stuff about newer titles being much better, but I don't have any personal experience as I was just as burned by them as you feel.
+The included PSU is universal.
+Det er så pointless nu. Husker stadig at bruge evigheder på at administrere MP3-metadata med kustner, album osv for at organisere mit bibliotek haha. Nu er det bare på Spotify, søg, føj til playlist, videre!
+Jeg ville argumentere for, at god brugerflade er en del af tilgængelighed. :)
+Fuldstændig enig. Tilgængelighed er det absolut vigtigste. Hvis den eneste måde jeg kan se en serie er at vente på at nyeste sæson bliver vist på en fast dag på et bestemt tidspunkt hver uge på DR3 (og de får den typisk længe efter den kom ud...), så lover jeg dig for jeg hellere vil piratkopiere den og se den på dag et.
+> Hvis nu at det var sværere at gøre det ulovligt, ville jeg ikke orket at gøre det. Eller hvis det var nemmere at streame lovligt, ville jeg også gøre det.
+
+Man kan vel bare bruge Spotify o.lign. som case for at bevise dette? Piratkopiering af musik er faldet massivt efter det blev muligt at have nærmest alt musik nogensinde tilgængeligt for 100kr/md.
+Piratkopiering sker som resultat af mangel på en eller flere af følgende:
+
+1. Tilgængelighed  
+2. Fair pris  
+3. Kvalitet af indholdet.
+
+Hvis man kan finde ud af de tre, så vil ens ting langt fra blive piratkopieret så meget...
+Do you work out? Your "gut" may just be your stomach muscles being "loose" (lacking a better word, English isn't my first language, sorry!) rather than fat.
+Men det er jo lige netop ikke ulovligt at videresælge billetter... Så den holder ikke. 
+Men hvad nytter det så at tjekke ID? De ved jo ikke om den er videresolgt. 
+Amerikanere har jo også en seriøs fetish for uregulerede markeder. :P
+Det er jo ikke forbudt at videresælge sine billetter...
+This sub's anti-Snapchat circlejerk is stronger than the #deletefacebook jerk, apparently.
+Yep... Messenger Lite is still okay, but it's insane how bloated Facebook apps are.
+> But that changes user to user imo.
+
+Exactly - another reason why benchmarks can't tell you shit. No one can simulate YOUR usage. There's not really any way to know but listening to other people's experiences. The important part of that is knowing where they're coming from - this is why it's important to listen to one reviewer's review of multiple phones. That way, you can get a sense of what they like and don't like compared to you, and they can help you form an impression much better.
+Real-life device usage. No benchmarks can simulate that.
+As I mentioned in another comment, I did it in an attempt to set a laid-back, casual mood for the video which was the attitude I approached it with generally. That doesn't work out if you're constantly screaming into the mic, of course. 
+I tried that back then but it felt incredibly awkward for me when I watched it back. Do note that I didn't have any sort of intro graphic or the like. If you have one of those, I do agree that introducing the video further should be unnecessary. 
+My thoughts exactly... Is sets a laid-back casual tone rather than a formal one, which I was always going for in my videos... But of course, you can't be trying to set a relaxed, casual tone if you're screaming it into the mic.
+How do you prefer 'tubers to start their videos then? I used to do YouTube for fun and always opened with "Hey there guys, how's it goin', my name is XxCLEMENTxX and today/welcome back to..." because it was just what felt natural.
+
+Note that I wasn't screaming it into the mic like a jet engine, but I'm genuinely curious as to what else one should open their videos with in case I decide to get back into the game, lol.
+That goes for Celeste too, lol. 
+Celeste gets plenty of love... But you can't keep circlejerking the same game forever on a sub related to a console. 
+Well, that's just like your opinion, man. 
+I'd say it's "neat". Definitely worth playing it another time to see what they did. 
+> The trick for any camera is take multiple pictures.....
+
+FTFY
+I was wrong, it's in 8.1. https://www.androidpolice.com/2017/10/25/android-8-1-feature-spotlight-bluetooth-battery-level-comes-devices-now-shows-battery-bar-quick-settings/
+I don't think "everyone" sees more features in stock as a bad thing, it's just this dude.
+That's already in 8.0 for devices that support it.
+I have a phone that can do it. I've used it twice, and that was only because I could.
+XB1X and PS4 Pro are the same generation as the X1 and PS4, as well as PS4 Slim. Technically they're just a hardware revision.
+Just a protip, you can get your partner to drive in _most_ situations. Just hold the X button instead of pressing it once.
+They're far from though... Look at the sales numbers for each system. Switch is not a third of the total console sales this generation. 
+It's HD+ because it's 18.whatever:9. Samsung are still keeping their tall OLED displays in >1080p to themselves (or charging absurd amounts for them). That's a pretty valid excuse.
+There's an unbelievable amount of changes you have to account for with a large app, especially when targeting Oreo. They've fallen so far behind that it's probably a lot safer to bump it one step at a time and adjust things. 
+Yes. It's an alternative client for the exact same service. 
+> Also "they can raid offices and read your messages" is a complete bullshit and happens only with some politics related stuff.
+
+That, and, you know, Telegram is HQ'd in Dubai.
+Pencil icon in the bottom right -> new secret chat.
+X has a much sexier UI, but also tends to be a bit more buggy in my experience. No major bugs have occured yet for me, though. It's just an alternative client for the same service.
+Yeah, who the fuck gets tattoos for other people's sake? 
+No, the microwave broke, obviously. 
+[This is the one I use.](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)
+
+[And here's the Windows client.](https://keepass.info/)
+
+I've had zero problems with heat on this phone, so my answer would be a solid no. 
+Isn't Matrix more of an IRC replacement focused on rooms rather than one-to-one chats?
+I use KeePass for my passwords. On Oreo it supports autofill, so you just tap "fill with KeePass2Android" and choose the entry you'd like to put in the fields. 
+
+Alternatively you can switch to their keyboard which has convenient User/Password buttons when an entry is opened in the app, so you just press those and then switch back to your regular keyboard. 
+https://www.reddit.com/r/Android/comments/88lwlb/telegram_x_march_update/dwmx12n/
+Well, apparently me watching the service almost literally fall apart in front of my very eyes is bullshit then. Out of nowhere, the app claimed to my friends that I was not a Signal user **even though I was sitting with the desktop client open and connected to my phone when they told me**. I couldn't message anyone who didn't see me as a contact on it, even after a reinstall and the contact-sync-reset-trick-thing.
+
+Once I showed up for them again, any messages I received simply stated that they were *Encrypted for a non-existent session*. I want to like Signal, but when that happens within the first hours of us using it, we're out of there.
+
+You can't just call the exact thing I personally experienced with the app along with my friend group bullshit, that's not how it works, lol.
+You do realize that just because someone is from Russia, they don't necessarily have close ties with Putin, right? How close are you to Trump? Should I be scared that you tell him that I dislike his opinions?
+I don't use any personally, sorry.
+I see, thanks! English isn't my first language, so I was honestly just wondering if I had my understanding wrong. Clearly I did!
+I have a few friends who deleted Facebook to go to Signal. The only contacts I had there was them. When we realized it forgets which of your contacts are on Signal within hours of you starting to use it, they switched to Telegram where I had plenty of friends already using it. I'm in Denmark. 
+I see, thanks for the explaination. English isn't my first language :)
+Well clearly Facebook has proven that their metadata can and will easily end up in those very same hands anyways. Also Telegram is headquartered in Dubai. 
+Isn't it blackmail when there's money involved?
+What is "the good ending"? I did a "make everyone hate me" playthrough the second time so I doubt I got it. 
+
+Edit: is it [everybody alive, Nona and Ren dating, Michael alive with Clarissa](/spoiler)?
+I don't think my taste in indies quite lines up with this sub's general view (I can't get into Shovel Knight, for example), but here's my list:
+
+Celeste
+
+Mr. Shifty
+
+Oxenfree
+Other brands don't use the same adhesive as dbrand. So there are quite a few out there that won't damage your system in any way, but they're more like stickers in feel. 
+Too bad Signal has no users, along with not working properly half the time. WhatsApp is owned by Facebook so I would never in my life use that for any "secure needs". 
+Correct!
+USB-A to C is always safe as that can't use the USB-PD protocol. I can't speak for using your specific powerbank with C -> C since no one has done scientific testing, but it should *probably* be fine as long as you're not plugging the powerbank into the dock.
+If you just want to listen to a few highlights, check out Who Shot Ya and Glass Teeth definitely.
+Kiss (or whoever arranges their supports) have a great eye for spotting unknown talent. They also had Rival Sons support a few shows, and I truly believe they'll become huge within a few years too. 
+Check out their latest album, Shade, if you haven't. There's some seriously great stuff on there all the way through. 
+Until I see proof, I'll see it as Cisco protectionism. 
+Same. Aren't they committed to at least bi-monthly security updates? If so it's about time to get the March one out.
+Can't you just leave it out of the dock? 
+Maybe.
+As long as you don't  plug it in through the dock you should be okay using the charger from your phone for example.
+/r/antimeme
+Or just too busy. :(
+Still playing Kirby. Yes I'm slow lol
+Most chargers are fine as long as you plug them straight into the Switch. It's through the dock it becomes a problem. 
+>* They've been found to have spyware installed on their devices straight from the factory.
+
+Source?
+
+>* Multiple Huawei employees have been kicked out of nations due to the use of their job at Huawei as a front for industrial espionage against the host nation.
+
+Not wrong, but not uncommon for Chinese companies. 
+
+>* Huawei's networking gear has repeatedly been found with backdoors installed
+
+I thought the exact opposite was found when a UK lab was handed the source code?
+
+The US dislikes them because they can potentially bankrupt Cisco. That's the biggest reason. 
+>When your brand is synonymous with spying and stealing information from your users' devices
+
+You're literally describing Facebook. And Google, for that matter. Christ, this sub can be blind. 
+Excuse me, we're the European Union's bitch, thank you. 
+It's insane how people are eating the American government's anti-Huawei slander for breakfast. 
+
+"Nooo, I'm not a sheep, we're better than that now"...
+Mate 10 Pro should be a nice reference point for everything but camera. 
+
+Also those things are things Huawei are known for here in the European land, even outside of tech communities. I very much doubt they won't continue that trend. 
+> It's best to think of soulsborne games as rhythm games.
+
+I watched that episode of Game Theory too. :P
+Keep at it, you'll git gud! You unlock a cool ability after. 
+> Mutant Mudds Collection, 50% off : £5.49
+
+Welp, good thing I didin't get this a week ago then.
+> good damned, are they on the extinguish part so soon?
+
+I was literally replying to you claiming the opposite :(
+Yeah, no matter your stance on whether Obama, Trump, or anyone else are good presidents or lead good governments, there's no denying that internet surveillance was amplified by Obama's administration to the level it's at today. I like a lot of the things he did, but that stuff is not part of it.
+I can't say I kept enjoying DS3... I just don't have the persistence in me for Dark Souls. I can normally deal with difficult games - I finished Celeste with more than 1500 deaths. But I hate having to re-do sections or levels, and I felt like so much damage I took in Dark Souls was just cheap as shit - and the other way around, sometimes my own evasions were cheap as hell. It lacked the consistency a solid 2D platformer has, for example. Hope that makes sense.
+They toured Europe with Disturbed with Chevelle as support. Disturbed and A7X were on for about an hour and a half each.
+If I owned zero gaming systems today and was starting from scratch I'd definitely get a PS4 (Pro, possibly) and a Switch. But I've owned a gaming PC since before the PS4 and Switch even came out, so I can't justify getting a PS4 as well.
+Definitely one of the games I'd get if I owned a PS4. I own Dark Sould 3 but I feel like I'd enjoy the aggressive playstyle of Bloodborne way more. 
+Yep, that's how I've been getting on as well. Chapter 5 is a bitch btw, huge difficulty spike with the last boss, but it'll get better after.
+Avoid third-party docks. They're not worth the risk of frying your system.
+For your GF, try Kirby!
+
+Anyways, must-haves are BOTW, Mario Odyssey and Mario Kart 8D. Great picks with those include - in my opinion - Celeste, Mario + Rabbids, Splatoon 2 and Rayman Legends.
+It's not like they've made Linux obsolete or replaced it. They added a convenient way to use common Linux tools within Windows. 
+.NET Core is a pretty big deal. 
+> Lige den med om de aflytter os via telefonernes mikrofon har mange tænkt over. Teknisk er det helt klart muligt, men om de gør det er nok tvivlsomt.
+
+Det er i hvert fald ikke bevist at nogen gør det.
+
+Jeg mener endda at have læst at en gut fra Facebook - eller var det en analyst af en art - der direkte har sagt "Hvorfor sku' vi dog gøre det, vi har allerede al den data en almindelig samtale kunne give os andet steds fra, hvor vi ikke behøver at behandle dårlig kvalitets lydfiler".
+Jeg tror at placeringsdata og advarslerne om Facebooks syndssyge dataindsamling simpelthen er for "abstrakt" til gennemsnitlige brugere. Plus, det bliver sjældent dækket i nyhedskilder som de følger med i (f.eks. TV-avisen, osv).
+
+Direkte at få optaget private samtaler i eget hjem, tror jeg er noget de kan forstå og *vil* være pissed over.
+I'm kind of feeling the same thing I did about the Wii U about the PS4. Yes, it has a good amount of exclusives I do want to try/play, but I just can't justify the full price of buying a system for those games because I have my Switch and a beefy gaming PC.
+That is a real BHJ. It's a post where the base image is misunderstood, so the meme is used incorrectly with a text that does fit the original, but it's "wrong" use of the meme. From the sidebar:
+
+> Imagine you're making a meme in an alternate universe where the template has a different established meaning based on your observation. The result of this process is often reminiscent the sort of meme that tends to be made by a young child who found a meme generator online without understanding the origin of the images on it
+
+Also, have a look at the original BHJ: http://i2.kym-cdn.com/photos/images/newsfeed/001/243/634/963.jpg
+Please note there's currently a bug in the Switch firmware causing it to get fairly hot in standby mode if you leave it in a dock with an ethernet adapter plugged in. :)
+Honestly, if you have an electronics store with a service desk-esque thing closeby, pay them to apply it. It's honestly worth not dealing with the hassle.
+No matter how you spin it, the Switch'es screen is plastic. Means it won't shatter, but it does mean it's much easier to scratch, that's just how plastic works. I also find plastic touch-screens much worse to use. Though in my opinion a plastic screen with a premium glass protector is the best setup. Screen protector will be harder to scratch, and will take a lot of the beating for the screen if you happen to drop your console. It'll shatter, sure, but it's also much cheaper to replace.
+It's a guideline, not a rule.
+D-pad lovers praise the 8bitdo SN30 Pro a lot. I have one and it's pretty good. Don't know how authentic it is to a SNES d-pad as I never had one.
+No. It's very easy to learn and you'll get the hang of it quickly, but it's also hard to master so there's always new moves and tricks for you to learn to pull off!
+Yeah, BOTW's interactive systems are freaking impressive with how seamless they are. But you've gotta hand it to Guerrilla, Horizon is purrrrrrdy, especially considering the hardware it's running on.
+The Overwatch team has openly said that they're not really interested in supporting another console version.
+NOA will give you a one-off as far as I've heard, but that's the only refund they'll do on your account.
+Honestly - if you're seeing them - just try to enjoy. Tom & Co. have a great energy live and it's worth experiencing.
+He probably wasn't - I won't pretend I know enough to talk about that. But honestly, Trump doesn't seem like a much better dude to me, he just has a system holding him back more than Castro...
+To be fair, Tom has a degree in political science - I'm sure he knows about and has considered other viewpoints. It's important to know that much of it - at least for RATM - was/is just to be controversial. It's not like they don't know that communism totally fails in reality like it did in the Soviet Union. They're probably more capitalists with Marxist ideals than anything else. 
+Alright - the way you worded it just sounded like the others had kicked him out rather than him leaving to me. Just wanted to be sure I had the right story. :p
+What? What I read was that Zach left, and Tom & Co. has his blessing to perform as POH with RATM music but Zach isn't interested in reviving RATM at this time.
+Because RATM definitely weren't singing about politics in the songs that POH covers back in the 90s.
+Yep. Guy's great and POH honestly has a great energy live despite what people say about them being a cashgrab.
+Because it's called Touch-disable mode. 
+Because it's the full OTA variant, meaning it's the entire firmware in the payload instead of just a payload that'll upgrade one specific version to that one. 
+Pixels aren't available in my country and cost absurd amounts to import. I don't want to flash unstable ROMs that don't work with half of my phone's hardware.
+You'd not just need hardware a tad more powerful for emulation. Emulation takes a LOT more raw horsepower than the console itself has.
+The "Switch" branded ones are just normal SanDisk cards with a Switch logo slapped on and the price marked up. Don't buy them. Get a class 10 UHS-1 MicroSD card from SanDisk or Samsung and you're good to go.
+Well yeah, Edge doesn't use WebKit IIRC. Developing your own browser from scratch is a huge task that - let's be blunt - won't make Nintendo anything when it comes to the bottom line. WebKit is vulnerable as shit (proven time and time again with how many times it's been the entry-point to hacking consoles), which leaves them with no good way to implement a browser. 
+PSP was also hacked to piracy heaven (or hell if you're Sony) very quickly. 
+Yeah, definitely seems like it was a quick "dump it while there's not much to choose from so it gets exposure" type of deal with City. Totally turned me off lego games on Switch though...
+I can't say I personally give two shits about esports, so I'd probably not understand why it isn't ready or good for it (since I don't enjoy watching any esports at all). All I'm saying is of the games nominated in a given category, you can be almost sure that the most popular one of them is gonna be the winner.
+That doesn't drop their ability though.
+Whoops. That's what I get for redditing late at night. Thanks!
+It's still low-effort upvote begging. 
+You realize that every award show is a popularity contest and nothing more, right?
+Because SXSW takes place in March? Should they reward 2018 games instead? But the year isn't even over!
+Or "upvote so this image appears when people Google Comcast XDDD"
+\# consists of for plusses. C# = C++++. 
+I mean, I'm far from calling it a perfect game, but something about the demo just turned me off. That something isn't present in the full game.
+I had my Switch since launch. I archived every screenshot/video on Twitter except a few and apparently I only have 66. Could've sworn I've taken way more.
+> and media influences the children who play the game
+
+Can you explain to me how a lack of women and/or non-white characters in a videgame mascot all-stars fighting game is hurting children?
+Agreed! Relay was always great, but it's only gotten sexier and sexier. 
+There's also no reason that <insert PS4 or Xbox One exclusive> couldn't run on the other or on PC but here we are. 
+I haven't had the problem at all.
+I keep mine in the dock and connected to WiFi and haven't had the problem personally. 
+I've read a couple of other threads. Seems like the common denominator is that you guys use USB to ethernet adapters with your docks. I haven't had problems personally, but this might be a bug in 5.0.0.
+
+Could you try unplugging the ethernet adapter and see if the issue still occurs?
+> they need to meet some sort of ridiculous internal requirement that goes against standard
+
+Who's to say that internal requirement isn't in place to lock out third parties? ;p  
+They may use a standard connector, but not implement it the standard way to keep the "weird connector tradition".
+
+
+Just FYI about difficulty: "Hard" in 2 is equal to "Normal" in the first game, so if you find that you're just breezing through you may want to jump up to hard. 
+Chapter 5 was definitely a bitch for me, but I'm up to 10 now and haven't had too much trouble since. So I'd say keep going instead of putting the game down for 2 and a half weeks like I did lmao
+Interesting, wasn't able to find this myself. I wonder if this was done intentionally to proprietize (is that a word?) or not. 
+I wouldn't get my hopes up. 5.0 supposedly shut off a lot of entrances for the hacking scene (and Nintendo has proven that their absolute #1 priority is fighting hackers), and I suppose the system now sees third party docks as hacking devices, or they changed how the console communicates with the dock in some way that breaks compatibility with those existing docks.
+
+You'll be running a big risk to plug anything non-Nintendo-licensed into your Switch's USB-C port.
+I'd say if he likes Kirby it's a great game.
+
+Mario + Rabbids is also a hell of a lot of fun!
+Ah, didn't know it had to be in the main menu. :)
+Don't use anything not approved by Nintendo. Especially after the 5.0 update, it seems that unofficial docks are killing systems.
+How old is he? If he's a kid co-op Kirby Star Allies could probably be a lot of fun.
+Got the game despite feeling "meh" about the demo. Feeling a lot better about the full game than the demo! But it's definitely Kirby - not much in terms of challenge etc, but such a nice atmosphere.
+Where/how? Control settings just opens the change grip/order screen for me
+I haven't had issues downloading games, but I'll admit I haven't played any online games.
+> Do please point me in the direction of a EU Law that say that it's not OK to use third party devices for your products? 
+
+There's no law saying it's not okay to use unlicensed accessories with your electronics, but manufacturers are not forced to cover damage that might caused by unofficial accessories with warranty.
+
+> Pretty much you imply you meant they will break your product if you use a third party accessory.
+
+Nope, didn't say that. I said there's a risk (as there is with any accessory, official or not), but manufacturers don't have to cover damage that may be caused by use of unofficial accessories. Sure, some might, but they're not required to.
+
+> Yet again, loads of Switches would be bricked way before 5.0 and just magically happened with 5.0?
+
+As I said in another comment:
+
+> Nintendo probably changed something in regards to how the console communicates with the dock which they have tested and confirmed to work with every **officially supported** dock (read: their own, since they haven't licensed any docks). That change not working with **unlicensed** docks is NOT Nintendo's fault.
+
+Of course, that's all speculation.
+
+Also,
+
+> Scroll up for more info about the USB-C standards and Nintendo's own rather botched job.
+
+When I read the thread earlier there was nothing concrete on how Nintendo failed to implement USB-C spec properly, just accusations with nothing to back them up. I'll skim the comments, but would you mind linking me the one(s) you're thinking of?
+> Sorry but that's not how a warranty works, atleast not in the EU
+
+That is exactly how warranty works in the EU, lol. If they find signs that you've used a third-party unofficial dock (or you tell them yourself), they'll tell you that the repair is on you and not covered by warranty.
+
+> do you seriously think Nintendo made a "bomb" if you used third party devices?
+
+Please point me to where I said this.
+
+> because Nintendo can't learn to implement a proper standard.
+
+Do you have evidence that Nintendo are the ones not following USB-C spec, and it's not the cheapo Chinese accessories that aren't following spec? Because I know which I'm more inclined to believe...
+Well, Nintendo probably changed something in regards to how the console communicates with the dock which they have tested and confirmed to work with every **officially supported** dock (read: their own, since they haven't licensed any docks). That change not working with **unlicensed** docks is NOT Nintendo's fault.
+I remember HTC did it with the Desire HD... The last Android version it ever saw could only be flashed manually because it required new partitioning. So it was never sent out as an OTA and it was not very user-friendly to flash it - situation not improved by user data being wiped.
+Or the third party dock's fault for not implementing USB-C and USB-PD properly to spec. It's nothing new that bad USB-C cables and chargers can brick electronic equipment. 
+>Warranty means it should repaired/replaced without a fee IF the problem is not due to user error
+
+FTFY. Very important difference. Warranty doesn't mean you can abuse your product however you please, and if you used unlicensed accessories that is on you, not Nintendo. 
+
+
+Damn, that sucks. :/
+I definitely agree. BSC feels very much like just a group of friends having a hell of a lot of fun more than any other band I can think of. 
+Yep, I can imagine people here having very split opinions on Shinedown as I think the A7X fanbase has people in both on the border to "trve kvlt or fuck off" and the mainstream radio rock fans. But BSC plain just rocks, there's not much else to say.
+I mean I've seen him screw up lyrics to songs live two times. That would be hard to do with playback.
+Go for BOTW! You've played Skyrim before so I wouldn't say it's worth full price at this point, even as a portable game
+That's right. Of course it can't do something a normal CPU can't; it can just do it faster and more effeciently.
+The order of your queue. Not the playlist itself
+Alright, cool. :)
+Would probably be nice.
+> It's unrealistic to expect anybody to go through this on their own, at least not in a timely manner.
+
+But not unreasonable to expect of someone who says:
+
+> Something is open source, not necessarily the app he posted.
+
+If you aren't willing to trust the person providing the binary release, you either don't install it or you inspect the code and compile it yourself.
+
+Open source means that anyone can audit the code for security flaws - whether or not they will is only something time can tell.
+Yeah, of course it is, but if you are tinfoil-hat about it you should build the source yourself rather than trust binaries from others.
+I don't personally care for game achievements, but I don't see why they shouldn't be implemented.
+Doesn't fill the viewfinder on 18:9 Android devices :(
+>Lazy devs gonna lazy.
+
+Almost every app you probably use regularly will not have this kind of decision made by a developer lol. Will implementing it make us more money? No? Bottom of the queue. 
+My complaint is that you don't need to do anything other than walk along and let the AI handle everything for you. And the price. 
+
+Also couldn't get used to the controls while playing the demo, but I got to a point where I felt like I could if I did play it more. 
+Then build it yourself and install it.
+> It was really important for me to give those everything I had and fuel all my emotion into them so that they would be as real and heartfelt as possible.
+
+And holy crap, I think everyone who heard that could tell. I don't think I've ever heard anything that emotional, ever!!
+Welp, I guess the mods took my side. :P
+It's /r/google, nothing else. Has absolutely nothing to do with Android.
+I'm unlocked in Denmark on Telenor as well. Guessing they're still rolling it out then. 
+No lol, I personally prefer linear games and platformers over open world. But overall, judging the games by their qualities, BOTW and Horizon are better games in my opinion.
+Sure, best in its genre, but I still find that BOTW and Horizon were better games.
+When I tried Horizon it felt very clunky to me. Might just have been the stuff I tried out.
+The bass boost one was also community created.
+Then I don't see what issues you could have, other than sending it in for repairs might become a bigger hassle.
+Should be, as the Switch is region-free. You can set your Nintendo account to match the region you purchased your system and games in and I don't think you'll have any major problems. I don't think you'll be able to play online though.
+Wouldn't it easier to import it from a european country?
+Scandinavia as well... Odd.
+In the awards I followed BOTW and Odyssey had the #1 and #2 spots swapped between them consistently.
+Region? I'm on 129 and have been for a while now. 
+$20 per DLC? Eh? It's $20 for them all. 
+I disagree with Horizon being better in combat. Graphics are almost like apples and oranges because the art style is so different. 
+
+In my opinion Zelda is better for its exploration feel and in world building. But as you said, both are amazing fresh takes on the open world genre. 
+Especially because they're usually not even handled by the same development teams that would otherwise be bringing Smash or Animal Crossing. They're not even by the B-team in Nintendo's case, probably more like the C-team. 
+This applies to every platform - most indies are available everywhere. Switch is getting more at the moment because everyone is busy creating a Switch port along with new games releasing. 
+I agree with everything here. SMO was great, and probably the best 3D platformer I've played, but absolutely no way it deserved to be higher in GOTY lists than BOTW or Horizon. 
+Depends on whether you would buy the bag for $10, I suppose!
+I have played it, and I felt just like I did with the 3DS demos. Gonna take the chance on this one.
+I've pre-ordered Kirby, though I'm still super unsure if it'll be worth it. I've never owned a Kirby game before and I want to change that now since I've always been interested in them. So here goes!
+Fire Emblem Warriors and Hyrule Warriors which is coming out soonish are definitely easy to zone out to while playing. 
+Not even that. He CREATED the blade!
+That, too. Absolutely not a failure for a first entry in a new franchise.
+Might very well be one dedicated to Detective Pikachu though, not necessarily Pokemon Switch. Who knows?
+I've had to reboot my Switch after updating my 8bitdo controller to get it to connect, pesonally.
+While I haven't been in the console market since the PS2 (except for Switch) isn't this a very typical for a console launch? The first stuff to hit is always ports. Also, every single one of your points about the Switch'es exclusives is extremely subjective, lol.
+
+> ARMS (which failed and everyone forgot about and nintendo had to cut short support)
+
+As far as I'm aware they supported it exactly as long as they had promised to.
+
+> Splatoon 2 (basically the first game but with marginally better graphics)
+
+So? Doesn't make it not a new game or bad.
+
+> Mario Tennis Aces (no one cares)
+
+I've seen plenty of excitement on this sub, and I'm personally excited for more Wii-esque casual games to hit the system. Absolutely just your opinion.
+
+Also, please come up with a more original title.
+Then why are you on the A7X sub? :\^)
+I mean they did say they were updating some games with online play, but yeah, it's probably more business holding it back than tech. 
+Can't say I've ever worked at a fast food place, so no. 
+> Treble is the new SMS fallback support
+
+FTFY
+Yep, they might as well have given us fuckall for the first year since there wasn't an actual policy in place. Instead they gave a small amount that could be used towards rewards on other Nintendo platforms. As I stated in a different comment, I guess the amount of people here who know even a little about business is lower than I thought.
+Absolutely not saying that. I guess the number of people who have here actually been employed at a business where they knew even a little thing or two about what was happening with the higher-ups is lower than I expected. Because I am absolutely not surprised by the fact that they're not crediting people retroactively; I'd be WAY more surprised if they were.
+How so? Policy changed as of yesterday. Games you bought before that date was under a different policy.
+One can hope that it's the reason for the last delay. 
+> We're just annoyed that they didnt have their shit together until now and early adopters have less of a benefit than current users.
+
+I'm absolutely not saying it'll affect me negatively, I just think statements like this sound entitled as fuck.
+Okay, so if your provider had instead made your subscription $5 cheaper, would you expect them to give you $5 for every month you'd had the subscription?
+
+No?
+
+Nobody is entitled to any kind of reward for purchasing games other than the game. The reward system is a nice bonus, and it's being changed with the changes taking effect *today*. Not last month. Not Match 3rd 2017. **Today**.
+But you bought the games knowing the reward system in-place at the time. It's **very** unreasonable to expect to be retroactively credited by a policy change.
+
+What if your cellphone carrier ups the price of your subscription by $5 a month? Would you then expect them to retroactively bill you $5 for every month you'd had that package?
+I'm sorry, but how is it a slap in the face? You redeemed the points under the terms that existed at that point. This new system didn't exist yet. You knew what terms you were redeeming them under...
+Life Is Strange. I had been playing a few Telltale games and figured "oh hey, another choice game that I might kind of enjoy, let's see what this is all about"
+
+Game still affects my feels.
+Jeg er kunde (og ansat, så nævner ikke navn) ved et selskab der bruger Telenors netværk og jeg har aldrig haft problemer med det. 
+
+Jeg ville eventuelt se om du kan få Greenspeak til at tjekke med Telenor om dit nummer er blokeret for opkald/SMS fra udlandske numre (mange sender fra engelske eller tyske numre) samt overtakseret SMS for god ordens skyld, selvom jeg ikke skulle mene det har effekt. 
+
+Ellers må de oprette en sag hos Telenor om det. Det er i hvert fald sådan jeg ville gå frem hvis du havde ringet til mig med den sag. :)
+Definitely agree there. I'm really hyped for Tropical Freeze, but pricing it like a brand new game is a tough sell. I honestly think they could profit even more by selling them at $30-$40. I imagine now a new Switch owner is gonna see the current pricing and think "well, I'll just pick up the new game then" (the new game could possibly mean Kirby or Mario Odyssey). If the port had been $30-40, the same person might be more likely to pick up both. 
+I can understand people thinking they're overpriced. As hyped as I am for Tropical Freeze, it's priced as if it's a brand new game. Same goes for other ports. 
+Hand oils all over the place. Expected as I have extremely sweaty hands. Otherwise in great condition with no problems since launch. Probably 60% docked 40% handheld/tabletop usage. 
+This does not work well on 18:9 devices. Top/bottom transparent. :(
+I like the current pace of Nintendo releasing about one game a month. Definitely wouldn't mind seeing either of those games on Switch while they don't have new installments in those franchises ready, though (that is, _if_ they're planning on making sequels). Can't see it hurting anyone.
+Yeah... I mean, I definitely understand why Nintendo is bringing on the port flood. They don't want Wii U-esque droughts, and there's no way those games ever made their development costs back. Porting them to Switch might make them profitable though.
+Guess it's disappointing for Wii U owners still with this massive amount of ports. As someone who didn't own one though, I'm not complaining. And it's sure as hell better than a drought.  
+> Imagine if one of those was designed to spy on you.
+
+Not hard to imagine since it's the reality. Play Services regularly sends your location to Google along with who knows how much metadata. I doubt AOSP contains spying though since it's open source. 
+Yep, modems are a fantastic place to hide things you don't want users knowing about. 
+Eeeeh. I can understand them not being interested in manufacturing a device designed by another company, especially when it's barely stated anywhere that they manufactured it. I think you're underestimating how big they are in Europe/Asia. It's not like they need the Pixel money to survive unlike HTC. 
+Yep, agreed. They're some of the only "Let's Play" people I find consistently genuinely entertaining. 
+I agree with this, as a big-forehead guy myself. 
+Attend more metal/punk shows. Not a single soul will judge you for headbanging \m/
+Depends from cable to cable. There is a greater risk with no-name cables as they might not follow the USB-C standards completely. 
+Why is the US model on such an outdated software version? My European model *shipped* with .115, and is now on .129.
+Literally the top options under multis by default. 
+Whatever crap your mother says, does, or has said or done in the past to you is not reasonable. You should never have to feel guilty about "not loving a parent enough" -- after all, you didn't choose your blood. 
+
+Some people don't understand that, and I honestly envy them, because it much better really great getting along with your parents that well. That just isn't the case for everyone. 
+
+Stay strong. If you need a stranger to talk or vent to, PM me anytime. :)
+>>You could spend five minutes talking to your mother, but you didn't. That's fine. You're busy.
+
+Yeah well, problem is when a conversation with her takes at least 45 minutes every time and is emotionally draining as shit for you. 
+
+Not everyone has a great relationship with their parents. 
+St. James is real great indeed. 4AM is also a great contender.
+That's how mine was in the beginning. I guess their stuff about EMUI optimizing itself to how you use the phone really is true, because this began somewhere around last month. Had the phone since launch in late November.
+
+It can vary wildly though, especially if Snapchat gets itself stuck in some kind of loop in the background where it just sucks power.
+Oh. As far as I was aware in the States if you purchase a product, you go to the manufacturer, not the retailer. My bad then.
+Slip et dyr født i fangenskab løs? Lol han havde ikke overlevet en dag. 
+Guessing you're European? Our dirty socialist consumer protection laws make it Amazon's problem in our case yeah. Not the case in the states. 
+It's a separate mode from battle called Bob-omb Blast. You can choose it the same way you'd cycle to Renegade Roundup, etc.
+Yep I'm getting 7-8 hours SOT myself, translates to roughly a day and a half for my usage. 
+Damn, reading that they're broken up makes me sad. This is good stuff!
+I still don't get how they're gonna do a summer tour when they're headlining almost every major European festival.
+Ah, well, that wasn't the case in Denmark.
+I mean, I was in awe even before I had the paraglider if that counts, haha
+Yep... I know since I was following all the festival announcements closely to see what might appear around here, haha. Seeing A7X for the second time this summer!
+Switch is designed to just be put in sleep mode. No need to power it off unless you're having some sort of issue that a reboot might help.
+> Yes, I'm too old for that sort of thing.
+
+No such thing!
+
+In response to your question, I haven't seen many sales on physical copies either. A 128GB MicroSD card can be acquired for (relatively) cheap and should keep you going for a while.
+
+I personally buy major games phycsially myself, because I like the thought of actually owning my games rather than a digital license.
+Aren't they going to be all over European festivals during the summer?
+You may see the Switch as a handheld, but according to Nintendo it's a home console first, and will be treated as such for award shows. 
+That was a thing waaaaay before the redesign. 
+Yep, I have very few friends who use IG stories over Snapchat. The only exceptions are the ones who aren't active on Snapchat, or they post everything on both platforms.
+While yes, remaster should mean more than re-release, what you're describing is more of a remake than a remaster. 
+I wouldn't doubt it - as a band (especially one that's evolved as much as Sevenfold), would you rather be playing things 10-years-ago-you thought were the best they'd ever made, or the stuff that current-you digs the most? I know what my answer would be. 
+Or it's the setlist that sells... They tried doing a "vote for the setlist" thing and it was all the hits - their usual setlist, basically.
+Jeg har været på Copenhell de sidste 2 år, og jeg synes i års lineup er et af de mest solide - tror kun der er 4-5 bands på listen pt jeg ikke vil se - resten synes jeg har noget godt at byde på.
+
+De er skiftet over til den lidt yngre generation af bands (udover Ozzy) i forhold til 2016, men det synes jeg sgu også er fedt.
+I've finished chapter 6 and only had one major drop with a crazy amount of stuff going on in handheld mode this far.
+Gotta reap the karma while no one else has posted.
+> I see the weapons have 2 numbers on them (left/right) but not sure what im looking at.
+
+That's their "power". The higher the number, the stronger the weapon.
+
+> can I a damaged/used weapon be used again or should you just discard it?
+
+Weapons cannot be repaired. There is one weapon in the game that has a cooldown instead of breaking permanently.
+
+> the snowy part tells me its too cold to be around there, I waiting till morning but is there any other tips to not get killed.
+
+The old man hints towards a meal that you can cook that gives cold resistance for a time. You can either give it to him or use it yourself. Giving it to him will get you a reward. :)
+
+> I keep picking up allot of materials but not sure how important they are
+
+Many can be used to create elixirs, as well as upgrade your armor later in the game.
+
+> I only have 3 hearts, I believe I can increase this but not sure how
+
+Keep playing. :)
+
+> the 4th orb (ive got 3) seems to be on top of a mountain but not sure how I get up there.
+
+Climb it!
+
+> im basically using every weapon I have to kill enemys, should I be saving them?
+
+Nah, but you can kill enemies in more creative ways (with magnesis + a metal box, or bombs, for example)
+
+> I seem to have about 9/10 "bows" - why do I need so many?
+
+You don't *need* that many, but they break just like weapons, so why not have a stash?
+I overheard a cashier say that pairing Bluetooth headphones would go easier if the customer used the app that the manufacturer had created... What? Bluetooth pairing is Bluetooth pairing...
+When you swipe left? What? That only has your friends and their stories (with an occasional ad between them) while the right side has celeb/sponsored content. What you're describing sounds like the old right panel...
+Well... Now it's swipe left for everything related to your friends, or right for brands? I really don't understand the big deal.
+Kan da godt forstå at du jævnligt står med "inkompetent" (måske nærmere umotiveret) arbejdskraft, så ulidelig som du får dig selv til at lyde. 
+Yep, that was also the one that made me stop for the day lmao. Needed a break. Feels kinda like a cool boss rush tho, and restarting it and much more effortlessly killing all of them was super satisfying
+Switch and games are replacable... Time invested in said games is not.
+Every time you get the stats screen you've completed a verse... That's a checkpoint AFAIK
+God... I think I spent an hour and a half fighting her in chapter 5, restarted the chapter just cause I felt a need to do something I could actually beat because of frustration. Then took 2 attempts to beat Jeanne lmao
+Username contains 98. Guessing 19-20. 
+There was a patch that has improved them significantly, but even so, they were 13-15 seconds max.
+I'm the type of guy who will listen to most music that involves distorted guitars. So yes. 
+Mate 10 Pro might be right up your alley then. 
++1. I only know 2 scales without looking at tabs myself and practicing those plus a couple of riffs with lots of technique (the Purple Haze intro) pushed me a hell of a lot ahead from what I was.
+> This wasn’t nintended
+
+Sick pun
+This goes for a lot of things! Exhaustion is a bitch, and there's no point in trying to keep going when you're at that point. Get some rest and try again the day after. 
+I'm sorry, but he's catered to "normal" people for as long as he's been MrMobile. He's not trying to target geeks. 
+Digital cameras and smartphones do use rolling shutters for stills. This picture could've been taken with a digital camera rotated 90 degrees (also makes sense with the portrait format), and then rotated 90 degrees back after exporting the picture to a computer or something like that. 
+Huh. Neat. Works on EMUI as well.
+I wouldn't think another model is on the way for another 2-3 years.
+Yeah, I hear it's terrible. I didn't buy my phone through a carrier either, but it's not that bad here - other than their schemes to get you to sign up for a 2-year contract.
+True, who needs privacy when you have lego?
+I'm in the EU where carrier bloatware is a foreign word. I don't recall what was there from the factory. Facebook and Amazon Prime Video are two that I recall. Both uninstallable. There's also GoPro's video editor, which is uninstallable as well.
+
+Things you can't uninstall or disable (that aren't on a Pixel phone):
+
+- Email  
+- Files (file manager)  
+- Flashlight  
+- HiCare (support)  
+- Notepad  
+- Phone Manager (a security/optimization suite that you can totally ignore)  
+- Voice Recorder  
+- SwiftKey Keyboard  
+
+That's it other than Google's bloat (or apps, if you will), I believe. Mostly worthy utilities in my book.
+It's definitely solid for the price. It's my first Huawei phone, but as far as I'm aware many of EMUI's kinks have been there for years. That said, every version moves a little closer to stock Android and as far as I can tell they're great at listening to user feedback. Just a couple of years ago EMUI didn't have an app drawer.
+
+Oh, and almost every third-party bloatware app can be uninstalled!
+
+I've gotten updates every month since launch except December, I believe. Dunno if they add anything other than the Android security patch as I didn't bother to read changelogs. I'm consistently a month behind on security patches (so I'm on the January one right now).
+Really liking it. Battery life is insane and easily gets through a day and a half of my heavy usage if I forget to charge it. It's as smooth as a Pixel despite being a heavily skinned Android version. Software has its quirks (lock screen only shows notifications that came in since you last turned off the screen, no colored music notifications etc) but it works and it's very customizable. Camera is killer. Anything specific you want to know?
+Not sure if serious...
+Without evidence I do just see it as slander as well... It's basically "commies, reeeee"
+Problem is they're just throwing out baseless accusations... Present some evidence if it's more than just slander.
+
+Google has ties with American intelligence agencies, and I don't trust the American government... Do I not trust Google because of that? No.
+
+(Yes, I know Huawei's ties with the Chinese gov't go quite a bit deeper, but you get my point) 
+Denmark as well, though not in effect anytime soon. Just after we got rid of laws allowing that, the government struck back with a proposal for even worse laws :/
+Ah! Thanks for the explaination. That is very cool.
+Corporate espionage is so common for Chinese companies, you have no idea. They'll sneak cameras anywhere to get photos that can be used for reverse engineering. Very classic early stage capitalism. 
+Cool. How does this work with accessing machines on an internal network though?
+Interesting! Do you have any resources about doing this? I know nothing about TXT records and the like. 
+There usually isn't much resistance when the lock is disengaged, that's the point... I don't see what's wrong?
+Playing Spla2n with Joy Cons and Pro controller is certainly super different. Someone used to the Pro controller will swear by it and tell you that anything else is terrible, while I'm sure people who are used to playing with Joy Cons will tell you it's just fine. I personally prefer the Pro.
+I don't know if I agree with Samsung has the same cult-esque following as Apple, but people are certainly eager to defend them when criticized on here - it's almost as if people see them as an underdog, which they're not.
+My 24" monitors are 1080p, I sure don't feel a need for my 6" phone to be higher resolution than that. :p
+
+I was fine with 32GB and no MicroSD on my Nexus 5X, 128GB is more than I'll ever use. 
+Because /r/Android is big part stock purists that can't handle the truth about a heavy skin not being sluggish as hell. :p
+
+Also my wording could've been better. I was pissed at something unrelated at the time and that came through in the way I expressed myself. 
+True, some B team people get a hell of a lot undeserved hate. But I recall when Jeremy and Matt were introduced for example. They were kind of eased in. Same with Trevor.
+
+People didn't like Caleb, but he was a very annoying dude imo, and then there's Mica... No idea why people hate her so much.
+There usually is. That's why I'm not sure if it actually did go down like that, or if my mind is playing tricks. Either way, it was fucking horrible.
+
+Also, I know for a fact that she never pressed charges, which makes it definitely just look like slander to me.
+I'm not sure if that actually happened or my mind is playing tricks, so bear with me! Either way, I know for a fact that she never pressed charges, which makes it definitely just look like slander to me.
+Yep, I definitely think Cow Chop has done this very well. Achievement Hunter as well, as I recall. (or at least after Trevor took over management)
+Seconding this, I haven't noticed any drama. Then again, I don't follow them much outside of YouTube. 
+Yep, Mind Field is fantastic.
+Yep, far as I recall the girl admitted to them being fake at last because she was pissed and wanted to ruin his career. It worked.
+Really couldn't wait until March 3rd to farm the karma? :P
+> I mean, I get that your defending your phone brand
+
+LOL, brand loyalty. Nah, fuck that. I'm not defending shit other than my personal opinion. Every Samsung phone until the Note 8 has had cases of severe lag and slowdowns after 2-6 months (that I've been lucky enough to experience on the Note 2, and witness on my friend's Galaxy S5 as well as my colleague's S7E).
+
+EMUI 8.0 is a decent skin - sure, if your quality points for a skin go out by how close it is to stock, I definitely see why you'd rank it low but fact is it's as smooth as a Pixel. I didn't mind TouchWiz as an interface on the Note 2 either - but I *did* mind the slowdowns.
+Very fine with my Mate 10 Pro and its lack of Samsung lag, thanks.
+Eh. 18:9 and water resistance > headphone jack for me.
+My first game ever was Pokemon Sapphire. I don't recall ever owning any games prior to that at least. 
+Yep... Definitely feels like 2D platformers could be making a major comeback in the form of indies. I love it. I really dislikes the whole "brown realistic warfare" trend of the last console gen
+> Even 128kbps songs sound great. It's key strength is in clarity.
+
+B&W P7 Wireless owner checking in. This is not exclusive to their wired models. B&W have a black magic-esque ability to make compressed music sound glorious.
+
+Why is this even relevant...? Bluetooth runs in the 2.4GHz spectrum as well.
+Like Mario games haven't shoved 1-ups down your throat for years. Lives are an archaic leftover from the arcade days, and it's a good riddance.
+In Chrome 64, that full warning only appears when the site has a password input form or a credit card form I believe. In Chrome 68, it'll literally be on every non-HTTPS site.
+DVI can't carry audio.
+I got a new dock too, and mine felt tighter around the bottom as well. It only took a couple of days of inserting/removing the dock when getting home and leaving for school, and now it feels just like my first dock. I'm guessing it might just be the spring mechanism that's a bit tighter from the factory?
+Nintendo Network ID and Nintendo Account are two entirely different things, independent of each other. Your son will need a new account on the Switch.
+Celeste is a super solid 2D platformer imo, and I'm not usually into die-a-lot-games. Haven't played the others.
+So do I, but being on the latest Android version shouldn't be a criteria for you keeping your phone long-term unless you're buying a Pixel. It's not like a phone running 7.1 or even 7.0 is useless today.
+I am just fine with not having Daily Mail articles about some Kardashian shoved down my throat when trying to view friends' snaps personally. 
+My go-to songs are:
+
+- Seether - Rise Above This
+
+- Alter Bridge - I Know It Hurts
+
+- Alter Bridge - My Champion
+
+- Sixx:A.M - Miracle
+
+- Motley Crue - Same Old Situation
+
+- Creedence Clearwater Revival - Proud Mary
+
+- Stone Sour - Song #3
+Snapchat's UI has always been trash UX-wise. You just lost familiarity with this one. 
+Lots of folks were also banned for playing Pokemon Sun & Moon and attempting to go online pre-release since it leaked.
+You realize it's not just in the Switch community that it's highly praised, right?
+Security updates definitely do matter, and OEMs need to get on top with those -- especially with Project Treble supposedly making it a trivial task as of Android O. We'll see how Huawei handles those going forward. *So far* my Mate 10 Pro has received them bi-monthly.
+Nope, at least not when used by itself. Can't speak for other scenarios.
+That's what I don't get either... People bitch and moan about Snapchat quality, but for crying out loud it's a platform for disposable pics. Why care?
+I dunno. It's not like Amazon would be in trouble as long as they don't throw the lock screen on the play store. 
+
+My bet is it has more to do with the lockscreen bypasses the ads enabled
+Okay, serious question: I see Huawei cathing a lot of heat for not updating their phones long term. I know they *should*, but do you seriously buy phones for what they will potentially be with updates, and not what they are the day you buy them? That seems super backwards to me. 
+Ah yes, the advertising people sent to MWC are definitely anything close to developers who could be working on updates >_>
+I have the SF30 Pro and it's fine. The Pro is absolutely amazing comfort-wise, and I'd much rather be using that for long gaming sessions.
+If you like platformers you can get Celeste! If you want something like Hotline Miami, Mr. Shifty is also a solid choice.
+Actually, unless there's been news that I missed, only NES are confirmed.
+Exactly what happened for me as well! ORAS captured my nostalgia so well. 
+Folk skal helt klart lære ikke at sammenligne sig selv med andre, men faktum er at takket være sociale medier, så er livet - især blandt mange unge i netop gymnasiealderen - blevet til en konkurrence om hvem der har det mest "perfekte" liv. Denne konkurrencementalitet ser jeg i hvert fald selv gå igen i uddannelsessystemet. 
+Og måske kommer noget af det også af at vores uddannelsessystem presser hårdere og hårdere på eleverne? Der er en slem 12-eller-du-er-ikke-god-nok mentalitet, især blandt gymnasieelever. Kombiner det med, at du allerede fra 1.g skal planlægge dine fag så de passer på den uddannelse du da 100% ved du vil tage på det tidspunkt, og du har en mega sund cocktail...
+The article is just filler for the headline.
+They removed that in version 1.3 (I believe) so it's great now! I was in the same boat 
+As the other dude said, they are *very* different kinds of racing. MK8D is "casual" kart racing while Fast RMX is super fast, purely skill based racing. 
+Yep, but it seems they'd rather have that...
+Electric guitar. I started playing in October last year, and I'm digging it. 
+Why are you suggesting this to me instead of Spotify?
+I never said that it's not. 
+>What, you think it's not possible to pick some songs ahead of time?
+
+Absolutely not, anything is possible technically. But their implementation doesn't allow it. They don't generate the station until you choose to open it. 
+Yep. Spotify and Netflix work out because of convenience. 
+Because they don't?
+Yep... Netflix, Spotify and the like get paid because of the relatively low price - but even more importantly: **they're convenient**
+Well, it wouldn't be the first time that Spotify removed a feature... >_>
+Sure, it's possible if they do it the way Google does it, but that's not how Spotify does it. 
+It wouldn't make sense to have the ability since they're generated on the fly. It's not like radio just has fixed music. 
+>return to all that profit they were getting from me before.
+
+For me, that'd be zero instead of whatever Spotify pays. I used to pirate everything until I got Spotify 
+Really? It does for me. I was pleasantly surprised when getting online after an offline flight that all data was sync'd to last.fm by Spotify. Was around 2 years ago. 
+I absolutely don't think so, but with an annual franchise I feel like it should _at least_ last 5-6 months, especially considering EA's business model based on microtransactions.
+Heh, remote troubleshooting sucks anyways. Better to see the symptoms in person.
+That's when you install an SSH server on the machines. :P
+I find Gnome to be annoying mostly due to the amount of plugins needed to make it usable [in my opinion]. I like the idea of a basic desktop you can extend yourself, but it's not like Gnome 3 feels particularly light, and I feel like they remove features with each update that just comes back as a plugin that doesn't work as well.
+
+I'm generally not a Linux-on-desktop guy, but I did have a laptop that was unbearable to run Windows on, so.
+> What a terrible generic review.
+
+Major tech YouTubers (including Marques) in a nutshell. They say nothing at all because they don't want to piss anyone off, basically. They put minimal effort into reviewing a phone, because why should they do any more? People will jerk off to _DAT CRISP_ from his expensive-ass camera and that's it.
+Maybe they bought each other Switches? :D
+Would you say bug riddled updates are invasive? Because IIRC both N and O were full of bugs when they launched. 
+
+Also, Gnome... If you want truly out of your way, you don't use a DE, just a WM ;)
+Yep, I've been consistently impressed with my Mate 10 Pro and its speed. It's heavily skinned, but just as snappy as stock. 
+I think stock got too "clumsy" or clunky with O, if that makes sense? I liked it in N. I can't say I mind EMUI, but then again, I didn't mind TouchWiz on my Note 2. 
+I don't, but I'd say a game that's - let's be honest - exclusively multiplayer with half a campaign slapped on top should last longer than a few weeks for 60 dollars. The Witcher is a single player game, that's not comparable at all. 
+So an online focused AAA game didn't entertain you for more than 2-3 weeks... That doesn't sound like a solid game to me. 
+Try leaving your Switch face down for 12-24 hours and see if it gets better.
+Yeah... I've had a Pi running 24/7 for 2-3 years at this point with no issues. 
+I doubt it could. Maybe wired.
+On WiFi? I've never had it go over 30-40 down.
+That, and you know, mobile gaming is limited by design by being touch screen input by default. But yeah, the point of this isn't to release full blown games in mobile, it's to let an audience that may not have been following traditional gaming since the Wii or before know that Nintendo is still going strong with the Switch. 
+... I think they were referring to amiibo...
+>ported ones (switch) 
+
+No, that's not Nintendo doing it, that's the publisher of that game. 
+Yep, I think he's being sarcastic which doesn't come across well across text. :P
+Generally a 3.5mm headphone jack can't hurt your device. It's a "passive" connector. It doesn't transfer power. :)
+~~Look for USB-PD support. If it doesn't have that, the Switch will drain battery faster than it charges while gaming.~~
+
+I stand corrected.
+Kind of. I work at a very small Telco that has all development in-house. The dev team consists of 4 people. My main responsibility used to be web - still is - but as I was the only one in the office who'd dipped their feet in Android dev when we needed an Android app that job fell on me. Mind you, I'd never learned Android "properly" - which I am in the process of now, starting with RxJava, Retrofit and MVVM (Dagger coming later) - but I like Android dev a lot. 
+
+We all have a lot of areas of responsibility at the company, and Android is slowly becoming my main thing, I guess. So yeah, I switched within the same company, so no interviews. Can't help you much on that part. :(
+To me, Mr. Shifty also belongs on that list!
+Yep. OEMs seriously dropped the ball with this release. I don't recall N even being this bad. Phones are still launching with 7.1 for crying out loud.
+The first developer preview of the next version of Android. 
+> updates quickly
+
+I mean... 8.0 has only been out for half a year, 8.1 is officially out, and P DP1 is close to finished...
+The fuck? Where's your elitism? Get this kindness outta here. 
+Well, that's just like... Your opinion, man. 
+The older songs are amazing though. Now they're just a pointless prog rock band. 
+I always find it hilarious when people on here freak out over Chinese phones "being backdoored" (usually with no concrete evidence available). Think Android isn't?
+I'm guessing they mean something like Samsung DeX or Huawei's desktop mode baked into the stock Android launcher.
+Are their apps also excluded from the Android battery optimizations? Settings > Apps > Apps > cogwheel at the bottom > Special Access > Ignore Battery Optimization
+I did that once. Luckily it worked with a joke higher up in the thread so I just went along. 
+Man, this is insane. Lots of love for you!
+
+I'd like to enter on behalf of my friend who doesn't have a Reddit account. I would give him the Switch. I'm sure he'd love to play Super Mario Odyssey on it as well.
+Most reviews I've read/seen have put it right behind the Pixel 2, and I agree that it's great.
+I can't speak for the P10 but the Mate is absolutely brillant camera-wise
+I love this feature on my Mate 10 Pro, along with the fact that their gallery app has the ability to draw shapes like arrows in the built-in editor.
+Wouldn't imagine so. I haven't heard of any pro controllers having issues.
+Thanks! I'll check it out. I could not find that myself for the life of me. 
+So I'm attempting to learn to use Realm with a syncronized remote database. I have login working but I'm left wondering: What if a new user comes along?
+
+As far as I understand, the intention with Realm is that every user gets a user on the ROS, and each user has their own database there. Is this correct?
+
+If so, when a user registers, I should somehow be able to create SyncCredentials for the new user with the Realm API. Correct?
+
+If so, how do I do it? I can't find any code examples showing it at all.
+I am literally throwing wads of cash at my monitors.
+Oh man, my first!
+>Blockchain
+
+Oh man, how can I throw my money at you?
+8bitdo: Amazing d-pad for 2D platformers.
+
+Official pro controller: Better at everything else, and the d-pad is trash.
+Saaaaame. I check a ridiculous amount of times. When I'm leaving? Check. At the bus stop? Check. In the bus? Check. And I haven't even taken it out to play at any point. 
+Splatoon 2 if you're into shooters?
+
+Vs Super Mario Bros if you're into unreasonably hard 2D platformers. (Assuming you don't abuse save states)
+
+Celeste (which is also on other platforms though) if you're into hard 2D platformers. 
+Humans tend not to like when people disagree with them and take it very personally. 
+>> Yes, that's absolutely what I said.
+> 
+> OH! OKAY! :D
+> 
+> So let's just toss Splatoon 2 in the trash since half of the game is online VS. Arms too. Mario Kart loses most of it's playability since you're for gutting all online features.
+
+Okay, calm down, Mario Kart is at its best with couch play!
+> AAAAH! I see. So we should turn off all online features of the Switch since you can't use them outside of your home, 
+
+Yes, that's absolutely what I said.
+
+> Like...Do you really not see why people would want it? 
+
+Literally answered that earlier:
+
+> I mean yeah I see the convenience but I don't understand why it's a big deal. It's a nice to have.
+
+And as I said to someone else earlier:
+
+> To some it seems to be a literal dealbreaker [about the system]
+
+Which is what I don't understand. 
+
+I'm not against the idea, I just don't understand why people make it such a big deal, or bought the system literally expecting it...
+>>my phone
+
+>smaller screen
+
+True. But it can also control my Chromecast. 
+
+>>desktop
+
+>Not portable
+
+So? The Switch can't be used online outside of your home anyways. 
+
+>It's just a convenience. That's literally it.
+
+That's not how a lot of people are making it sound. To some it seems to be a literal dealbreaker. 
+
+>offers no downsides
+
+A more bloated OS is a downside, and in the case of a browser, a hacking entry-point which is a big downside to Nintendo. 
+>>my phone
+
+>smaller screen
+
+True. But it can also control my Chromecast. 
+
+>>desktop
+
+>Not portable
+
+So? The Switch can't be used online outside of your home anyways. 
+Any developer is gonna need more info than that. What kind of app? Do you have a backend ready to go? What's your budget?
+Yeah well... My phone, tablet, laptop, and desktop do all these tasks better than the Switch... I mean yeah I see the convenience but I don't understand why it's a big deal. It's a nice to have. 
+Jump rope is all about getting a sense of the rhythm... It took me a few tries but I believe there are videos on YouTube that explain the ques you need to listen for.
+
+As for volleyball, activate 2 player and do it as player 2. Way easier.
+The only dock I haven't heard bad stories about is Best Buy's Insignia dock. Personally too chicken to use my own Coov SH350.
+Probably at some point. Though I'm with /u/Skeeter1020. I don't see why people want it so bad when the Switch can't use a SIM card to go online.
+Before I got my 8bitdo I'd play 2D platformers with the Joy Cons. They're pretty decent at the job imo.
+Almost all cases have slots like that. They're fine.
+Contact Nintendo and set up a repair
+>Instead Nintendo makes weak PC imitation with exclusive titles AND gimmicks. 
+
+Dunno, wouldn't say being able to take the exact game I was playing at home on my TV with my on public transport is very gimmicky. That's a big fat limitation of my PC, and a big reason it doesn't get much of my gaming time anymore. 
+Ah, guessing you also signed up for a 12-24 month contract then? :p
+Damn son, where'd you get that deal? 
+> This appears in the permission list when you install an app.
+> 
+> 
+
+Not the case at all if the app targets 6.0+.
+Hell yeah. They were gorgeous.
+Du ved jo nok, at han har den største knap.
+I'm not the networking guy at all (I'm more software dev, db admin and Linux admin) but even I can perform basic tasks on the firewall's interface, which I'd call a huge credit to it. PA also offered us courses in using them that our network guy took and they lent us a demo unit that we could use in production for a few months.
+
+We had a Cisco ASA for a while because an advisor (poorly) advised us to get one. We never got it working properly.
+
+We were moving from giant ACLs in the router, so. :P
+Seconding PA - we recently had a need for a new dedicated firewall and man they were a big help to us the entire way through. 
+But with the target carrier? They don't have the SIM card number with the carrier you're porting the number from. 
+You can transfer the profile from your roommate's Switch, but you can't transfer the individual saves to an existing profile on yours.
+You'd rather need a man in NP than tech support. Support usually has no influence on number porting. 
+I know the Mate 10 Pro has EIS along with OIS, so the possibillity is there.
+For the record, on my European model I have had 0 GPS issues. 
+In Denmark all carriers require your SIM card number from the carrier you're moving from to port numbers. That's also pretty hard to get. 
+> Wii 2: Electric Boogaloo
+
+That name would probably have sold more units than the Wii U. But yeah, I agree with pretty much everything you said.
+Yeah, I get that. I guess I was just trying to tell you why this sub is so excited over them, as a lot of the regulars are ex-Wii U owners
+I think there's a general consensus that Doom's multiplayer is incredibly mediocre. All its praises are for the single player. 
+>* There was a indie gaming gold rush that carried the Switch for months and Nintendo is really lucky for it. 
+
+There still is an indie game gold rush. Super Meat Boy sold better on Switch than on many other platforms. I still think Zelda is what carried the Switch, with indies backing it up for the people constantly looking for something new to play. I personally haven't bought many indies on Switch. 
+
+>* I am pure neutral on labo. I saw it was "oh that's cool.
+
+I agree here, but then again, you and I probably aren't the target audience. Of course this sub will fanboy hard over whatever Nintendo does but it's targeted at children. 
+You clearly didn't have a Wii U... Its lack of third party titles is what made it such a disaster and be killed "only" 5 years into its lifespan. It had so many game droughts. 
+I've experienced it making my code not do as intended when optimizing beyond level 2. Makes debugging harder. Also makes compiling take longer. 
+Same with colored music notifications!
+Nope, I can switch to themes with their own lock screen. But it seems like the ones I've tried don't display notifications for example, making them quite useless. Also no album cover art in the ones I tried.
+Ah, shit, I don't actually have it disabled, I just don't have it cycling wallpapers. No idea then. :(
+I've disabled magazine unlock on my Mate 10 Pro and I don't get album art on the lock screen either...
+You sound like you have some serious "battery anxiety". You should try to go a week or two without the percentage indicator - seriously, it works wonders. Try your best to not give in to the desire of checking battery remaining, because it'll be fine. Don't worry. 
+Jeg tror sgu ikke den gennemsnitlige Candy Crush-afhængige 30-50 årige har nogen bedre idé om det end børnene. 
+There's definitely something psychological about beating him that feels like the end. I go in to explore Hyrule way less than before I beat him. 
+I've heard very good things about the Mate 9 and staying snappy after over a year 
+This is why I very much prefer festivals. I attend a rock and metal festival here every year and the crowds are always the best. Alter Bridge wasn't even a headline, but they set a festival record for amount of crowdsurfers over the fence in front. I think the number was something like 460.
+Far as I'm aware MKBHD likes recommending things he's a fanboy of. JayBird is one of those companies
+I'll do it tomorrow, I need to sleep now. Thanks a ton though :)
+Perfect, dude. Thanks a ton! Do you have a PayPal or something of the like so I can pay you a cop of coffee or a beer, whatever you're into?
+And you even used the exact guitar. Looks sick. Thanks man! My only request would be if you could make a version with the guitar angled like it is in the picture I posted, as well as place it a little higher up in the picture (so it appears between the clock and the icons on my home screen). :)
+
+Edit: Here it is in action though! https://i.imgur.com/2N2gvEQ.png
+Yep, I have to admit I was pleasantly surprised by EMUI 8, coming from Sony's near-stock and a Nexus 5X before that.
+> Is there supposed to be a direct today?
+
+Nothing announced officially.
+
+> Is Labo what that ubisoft employee was talking about as far as something thats going to make the internet explode?
+
+Only he knows that.
+Sounds logical.
+> Routine maintenance is a myth
+
+Especially with shit like Spectre and Meltdown needing patching.
+Because this sub likes to jerk Google's dick ;P
+
+In all seriousness, unless you care about RCS, the built in one is fine. 
+Interesting. Huawei is known not to give a shit about anything other than .0 updates. We'll see then!
+Yep, C432 doesn't have .128 publicly available yet.
+Android tends to hide the fingerprint settings when it can't detect a scanner. You likely need to RMA. 
+C432 is your device variant, not software version. 
+No idea, haven't looked for it. On my laptop it's in the graphics driver settings
+Works well on monitors. As someone else said it's like a Chromebook in your pocket. TVs tend to cut off the corners but they do that with my laptop too, but on the phone I can't find an option to adjust them
+I ended up solving the problem by creating an event bus. Made my code cleaner in the process so that's good, haha. Followed this: https://android.jlelse.eu/super-simple-event-bus-with-rxjava-and-kotlin-f1f969b21003
+The Lite version exists for third-world countries that don't have high-end phones and fast internet connections. They get a no-bullshit version with the basic features, whereas developed countries can get the "convenience" features like GIFs and calls.
+Sounds more like their codebase is a mess and upgrading simply isn't feasible, given the fact that they're rewriting it from scratch. 
+I posted this in a thread and had it removed and I was directed here, so here goes:
+
+Hey y'all.
+
+I've looked into learning about RxJava/RxAndroid and Retrofit the past few days to further my skills in Android dev. I've run into an issue that it seems I don't know how to word well enough for a Google search.
+
+In my app I get and send data to a REST API of my own. Bear in mind that I'm not using any kind of MVP, MVVM, MVI, or any architecture of the like as I'm not anywhere near familiar with them at all.
+
+In my `MainActivity.kt` I fetch a list of objects from the API using Rx, Retrofit and Gson:
+
+    private val scoresApi by lazy {
+        ScoresApi.create()
+    }
+    private var disposable: Disposable? = null
+    ...
+    override fun onCreate(savedInstanceState: Bundle?) {
+    ...
+        // Get list with Rx and Retrofit
+        disposable = scoresApi.getTopScores(100)
+            .observeOn(AndroidSchedulers.mainThread())
+            .subscribeOn(Schedulers.io())
+            .subscribe(
+                    { result -> handleScoresReceived(result.scores) },
+                    { error -> error.printStackTrace() }
+            )
+    ...
+    }
+    
+    private fun handleScoresReceived(scores: List<Score>) {
+        // Create and bind adapter to the recycler view
+        adapter = TopScoresAdapter(scores)
+        scoresRecyclerView.adapter = adapter
+    }
+
+Now, I also have a menu item for adding a new item, which opens a dialog that I have in `ui/CreateScoreDialog.kt` (which contains its own class that extends `Dialog`) which works like this:
+
+    confirmAddScoreButton.setOnClickListener {
+            
+            val name = addScoreNameField.text.toString().toUpperCase()
+            val points = addScorePointsField.text.toString().toLong()
+
+            // Create score
+            val scoresApi = ScoresApi.create()
+            // Create publishprocessor to update the list
+
+            scoresApi.addScore(CreateScoreModel(name, points))
+                .observeOn(AndroidSchedulers.mainThread())
+                .subscribeOn(Schedulers.io())
+                .subscribe(
+                        { result -> run {
+                            Log.i(LOG_TAG, "Successfully created score #{${result.score.id}")
+                        } },
+                        { error ->
+                            run {
+                                Log.e(LOG_TAG, "Failed to create score")
+                                error.printStackTrace()
+                            }
+                        }
+                )
+            Log.d(LOG_TAG, "Creating score with name $name and points $points")
+            dismiss()
+        }
+
+This also works as it's supposed to.
+
+**Now here comes the part I can't figure out:** How do I make it so when I create a new `score` here, the list in `MainActivity` is notified and updates itself?
+
+From what I've found I should be looking at either `PublishProcessor` or `PublishSubject` (I'm not sure on the difference?) and doing something like:
+
+    val scoresChangedProcessor = PublishProcessor.create<Unit>()
+    disposable = scoresChangedProcessor
+        .flatMap { scoresApi.getTopScores(100) }
+        .observeOn(AndroidSchedulers.mainThread())
+        .subscribeOn(Schedulers.io())
+        .subscribe(
+                { result -> handleScoresReceived(result.scores) },
+                { error -> error.printStackTrace() }
+        )
+
+And then where I create a new score, make it fire `scoresChangedProcessor.onNext(Unit)` or something along those lines.
+
+My problem is that since this is happening in two different classes I can't share the PublishProcessor between them, and I'm not sure I'm doing the right thing in the first place.
+
+I hope this kind of question is allowed here and that I've explained myself clearly enough - I'm very much a noob on the subject of Rx and Retrofit, heck, I'm probably a noob in Android Dev generally to most of you. :)
+Allegations from a dude associated with the US government. They're very eager to badmouth Huawei and ZTE... Tinfoil hats would say they're trying to protect Cisco from competition, but there might be something to it, but again, they're not willing to disclose their evidence.
+
+[Huawei went as far as to offering Australia source code to their equipment to prove they were, in fact, not spying.](http://www.bbc.com/news/business-20053511) I recall reading an update to that story somewhere saying they found absolutely nothing indicating spying, but I can't find it currently, so that might be my mind playing tricks.  
+Meanwhile, [the NSA has been busy spying on Huawei since 2009 according to leaked documents.](https://gizmodo.com/huawei-once-accused-of-spying-has-been-hacked-by-nsa-1549497722)
+Well, maybe it was a joke but there's a good amount of truth to it. Once the storage of the cameras (usually SD cards) is worn out, that starts to become a problem. :P
+Literally nothing to do with having backdoors, and not proven. "Jury finds" does not mean there's any hard evidence.
+Storage is, as usual, a huge bottleneck. :(
+At the office we build REST APIs in PHP with PhalconPHP. For personal progress I just use some homebrewed PHP that shouldn't really be used in production but it was something I was able to whip up in a day and I can deploy it fairly quickly with minimal setup. We use MySQL for the database but if we could get a do-over we would probably have used Postgres. 
+Latency would be a huge issue though. 
+>Huawei is known to put backdoors in its products.
+
+Ironic coming from an Android user... Anyways, I'd actually like a source for that, since I haven't been able to find anything myself. 
+What does DJI have to do with Huawei?
+I'm fairly certain that was a joke...
+Why not ninja? I love using it. 
+Spotify for the discovery features. "Just works" for me and my needs. If I was in the US I'd use GPM for the included YouTube Red. 
+Let's make Splatfests 48 hours so you can get king without taking 2-4 hours out of one day to do it?
+Did I say that? Nope. Simply saying that a 2-4 hour grind is a lot to ask for people who have responsibilities other than playing video games.
+2-4 hours is a lot to ask for a lot of people. 
+> I even try to booyah when we meet the end of the match and we’ve definitely won.
+
+I try to do this, but I'm always way too focused on getting that last bit of turf *just in case* that I don't get to booyah until it's too late :(
+
+I always open with a booyah though!
+Absolutely feels that way... There's something wrong when I'm consistently on the losing team, but also consistently the #1 on said teams. That said, I haven't had *as* much bs this Splatfest, but definitely one of the reasons I stopped playing for a while.
+That's a great deal. Mario Kart is a great party game and I also enjoy playing it singleplayer while commuting myself.
+
+Splatoon is a multiplayer shooter - one of the funnest ones I've played personally. Easy to sink quite a bit of time into.
+
+Skyrim is a huge scale RPG that you can also easily put many hours into.
+On my Pro model it works wonders... So I guess there's a bug specific to the regular Mate 10
+Believe it or not, packages are actually tested before going into the Arch repos. Arch is more equal to Debian Testing than Unstable. 
+Indeed. Playing a game like LA Noire or Doom, BOTW (albeit not at 1080) or Mario on it is unreal what you realize it's a tablet powering it all. 
+The non pro isn't very widely available, that's probably why. 
+Switch can output 1080p when docked. Its own screen is 720p. You're probably thinking of BOTW which runs at 900p when docked?
+PHP is very easy to get started with because the LAMP server is so bog-standard that most Linux distributions have packages named something along the lines of `lamp-server` that take care of installing everything you need. PHP is a pretty messy language in itself, but for creating simple stuff it's _fine_. Slap some proper frameworks on it like PhalconPHP and hating it claiming JavaScript is a better server-side language is just circlejerking at that point. JavaScript also needs various frameworks to be remotely useful for anything other than simple DOM manipulation. 
+Nobody is forcing them... People are saying what they want
+Rather: Politics is bullshit.
+Who's forcing them...? As far as I'm aware AT&T was very interested in partnering up with Huawei but were pressured out of it by the US government?
+It's probably all political bullshit... The US government makes vague allegations because someone somewhere isn't getting paid, or Huawei refused to spy for the US government... Who knows. I don't believe for a second that they're any worse than Google, Amazon, or Facebook.
+Yeah, I can see when you follow celebs it sucks. I only have friends on Snapchat so I didn't consider that.
+I haven't seen any sponsored accounts, but I can see it sucking with the celeb thing. I only have my friends on Snapchat, so.
+I see. I've never found it confusing and find it better than the old one - I'm not getting shitty Daily Mail articles shoved down my throat when I want to view stories anymore, so. :P
+Again... Nothing about backdoors in their smartphones. That article is about their telecom network equipment, and even then, I'm not seeing any hard proof in that article. Just analysts saying stuff.
+**FunkyHuawei** charges for updates. Huawei themselves **do not.**
+I would prefer those being `-H` instead but yeah. You can only reply on `man` or usually `--help`
+Funky Huawei is a service that (as far as I understand) will let you rebrand your phone (so you can flash EU firmware on a US model for example). They charge money for this. It doesn't cost money to install official updates provided by Huawei. 
+I got the Mate 10 Pro personally because it's the best all round phone for my needs out atm. It was also a boatload cheaper than the Note 8, and previous experiences with Samsung have made me not want to get their phones. 
+What do you dislike about it? I honestly like it more
+Yep. Early stage capitalism at its finest. 
+Yep, that's definitely the Chinese way of doing things.
+Source?
+Nah, as far as I remember the Z3 was developer heaven. Sounds like OP is buying phones through carriers though. 
+Did you even read the article yourself? A JURY said that they think it was corporate espeionage. The case had no hard evidence. Even then, that doesn't mean they're spying on people through phones their phones lol. That's Google you're thinking of.
+> any bloat put there by Huawei (that's not necessary for the system to function) can be removed, **whereas Google's can't.**
+
+Duo and Google+ weren't put there by Huawei. They were put in because otherwise they can't bundle the Play Store. I'm agreeing with you. :)
+True, but I read that both models have O rolling out?
+That's odd. My friend (who has a Mate 9 Pro) got O on his recently. 
+>  it's just a part of business
+
+Especially for China. Seriously, I've heard stories of Chinese business people straight up barging in in places they're not supposed to be and taking as many photos as they can before being escorted out.
+That's a straight up lie. But any bloat put there by Huawei (that's not necessary for the system to function) can be removed, whereas Google's can't.
+Doubt they would since T-Mo has beef with Huawei over (alleged) corporate spionage.
+No, _fear_ of that is the reason. Nothing has ever been proven.
+I'd love to hear those reasons if you're willing to PM them to me. I personally could easily see them doing it, and giving the Chinese gov't access? Sure, just as much as I see any american smartphone manufacturer or telco giving the US gov't access to whatever they snoop up... But I don't think they're any worse than so many others.
+Jeps, der betaler man helt klart overpris - men så igen, man betaler jo både for garanti og mandetimer.
+The adapter style ones that are rebranded Coov SH350s. 
+Kompletts kundeservice er top notch I min erfaring. Køber personligt alle computerdele hos dem af samme årsag. 
+>Hvad hedder et hegn med strøm på spansk? El-hegn.
+
+Fuck, den fik mig. Elsker den. 
+It uses the bottom speaker as the main speaker, but it supplies stereo and additional treble with the earpiece. Quality is surprisingly good on the speakers actually (and that's coming from a kind-of-audiophile).
+
+Doesn't have OnePlus/iPhone-esque facial recognition, but the fingerprint scanner is definitely the fastest I've ever used, so it doesn't bother me personally.
+Ding ding ding. Will it make us money? No. Therefore we should spend time working on this other thing that will make us money. 
+Saw Avenged Sevenfold with Disturbed opening in March last year. Disturbed had a way better energy. A7X seemed to be doing a routine show. 
+It's usually a few months. They probably create it for the latest gen, then backport the new stuff to the older devices.
+I'd guess it was a stylistic choice made during mixing. I doubt they didn't have access to proper recording equipment.
+No need to invent something new for learning. Feel free to reinvent the wheel! Create a number-guessing game and slap on features that wouldn't ever realistically be needed in real life. Create a to-do list app with wicked database interaction, or slap up a REST API to learn network communication for your app. While you're at it you can put authentication on that API so the to-do list app has cloud sync. 
+
+You'll do a billion things wrong in your first attempts, but you'll also learn a billion things. 
+I've never played FE, nor Warriors types games. I enjoy FE:W
+It's already doing work in the translator app for offline translation. It's also used in the camera to identify scenes. It's also used in battery optimization, and - supposedly - in keeping the phone speedy. 
+Yeup. Climbing a ladder? Better wake your family. 
+What do you mean? The Pixel Visual Core and Huawei's NPU are far from the same thing...
+I have to Pro as well. Should've clarified. :)
+
+I never had performance issues, but it's only gotten better and better.
+What do you want to know? Phone is smooth as butter to use, camera is excellent and especially shines in low light. Fingerprint scanner is lightning fast. As long as you don't mind non stock Android I don't see any reason you'd dislike the phone. Oh and don't get me started on the battery life
+Technically it wasn't free, it was just bundled with every console. That's why it counts in stats like this. 
+I'm not a very good cook, but I think my spaghetti carbonara would do.
+Call me cynical, but one phone being fine after 2 months isn't going to restore my faith in Samsung...
+But for how long? Samsung lag after 4-6 months is very real, and no one has had the Note 8 for that long yet...
+I sadly don't think it'll help all that much. I'm a "pecker" (as you call it) and I just find the d-pad way too stiff for any prolonged gameplay in stuff like 2D platformers.
+
+I think the best solution for d-pad intensive games is still either joycons or the 8bit SF30/SN30 Pro
+No, you're using Kickstarter wrong. It's not a store. It's a platform for you to help fund projects you want to happen or that you believe in. 
+Fanboys gotta fanboy. 
+>Er man kvinde, skal man åbenbart ønske sig børn, ellers er der noget galt med opdragelsen/hormonerne/traumer/psyken osv
+
+Vidste du ikke det? Dit eneste formål som voksen kvinde er at sætte børn i verdenen. 
+
+#/s
+
+Vil lige nævne /r/childfree hvis du ikke kender den. 
+From my experience with the XZ... Don't worry, you're not missing out. The sensor was so unrealiable for me that I never used it.
+I'm well aware. The Mate 10 Pro is 1080 as well. It was just that your response:
+
+> Got it on the OP5 and OP5T. Lovely screens.
+
+In response to:
+
+> Them 1440p OLEDs have low supply and high demand, especially the 18:9 ones.
+
+Made it seem like you were implying the OP5/T are 1440p.
+Yep, it sometimes gets stuck, sliding to refresh fixes it. 
+
+**Device information:**
+
+    Relay Version: 9.0.9 Pro
+
+    Phone: HUAWEI BLA-L29 (BLA-L29)
+    Android Version: 8.0.0 (26)
+    Device (product): HWBLA (BLA-L29)
+    Rom: BLA-L29 8.0.0.127(C432)
+
+
+Aren't they 1080p? But yeah they have pretty nice screens regardless. I don't personally have a need for 1440p. 
+I think the problem is that the blue tint starts appearing at much less extreme angles than the viewing angle problems on other displays. I haven't witnessed it in person though, so I can't say for sure.
+And every Note 7 was definitely exploding... 🙄
+Them 1440p OLEDs have low supply and high demand, especially the 18:9 ones. Samsung were probably saving them for themselves. Meanwhile, they can easily spare 1080p 16:9 ones.
+I'm aware of that. But that doesn't change the fact that I think Mario looks fine (even better) without the blurry filter.
+Making software takes time, yo.
+It was really great to have the keyboard... I wish I still had it in a drawer, but it was passed on to someone else and idk where it is now :(
+A Pixel feature. As far as I'm aware, the Nexus 5X/6P never got it. 
+It was a great phone indeed.. my first Android!
+To further that, if something comes up some day that does infringe and Nintendo wants to take it to court, they can point to a case where they didn't and say "you only care when there's a lot of money involved" which hurts their case. They need a solid record of protecting their trademarks if they want them enforced. 
+Lugter jeg Urinsoup cover?
+> What on earth does Thriller have to do with this?
+
+The fact that you said that the black album is the best selling album of all time in any genre when it's not...
+Det er sandt... Der er også meget at hente ved at sætte sin UA til googlebottens.
+You're replying to a month-old comment. :P
+
+The connection was his suggestion to disassemble an official dock, which I had gotten 3 or 4 comments about. So rather than typing the same thing 3 or 4 times, I linked the same comment.
+Tja. De har nok undersøgt deres marked bedre end du og jeg. :P
+If you open the app lock settings (where you can choose what apps to lock), don't you see a cog you can tap in the top right that shows the options to change password? If that's what you mean 
+Maybe that means it's time to sleep. 
+Jeps... De vil gerne have folk der kommer ind fra Google til at føle sig velkomne, og så betale for den anden artikel der står som relateret. 
+While that's true, Nintendo was competing for NAND memory with Apple. That reduced their capacity significantly. They were also coming out of the Wii U which had the exact opposite problem -- too many units not moving from store shelves. 
+Probably. Options are the best! I've never owned any consoles pre-PS2 on the home side and GBA on the handheld side, and I never played much Mario as a kid, so it's all a lot less nostalgic to me. 
+I think they removed the bullshit in Nougat. But on Marshmallow they did it IIRC.
+Cool! I've never experienced it, but that just meant I was excited for a new SMB experience - I've never played lost levels either, so it was brand new to me. 
+Huawei is rolling it out to the Mate 9 as well AFAIK
+It does not. I've left mine with a game open for days and it didn't count. 
+What do you mean it "doesn't work"?
+It should load after you return to the title screen or exit and re-launch. 
+But some with modifications... I noticed in either 7-4 or 8-4 (I forget) which is a "maze" level from SMB. There's a floating pipe you need to bump into a hidden block go get to. That block is moved up by one square in this version. Tons of little tweaks all over the place to make it harder, so people cough up more quarters. :p
+Do you have an arcade version you're comparing with side by side or what? You seem strikingly confident. 
+I beat it all yesterday (using plenty of save states, boo me) and it's definitely worth it if you're even slightly into old school challenging games, imo
+Hm. I still think Mario looks great even when crystal clear on the Switch screen. 
+>Huawei are also the only Android OEM that makes lockscreen notifications disappear upon unlock
+
+I'm fairly sure it was standard on Sony phones not that long ago too? But yeah, some of their changes to Android flat out don't make sense. 
+>Known can just mean they hide it better, or maybe they don't spy, you can't say for sure.
+
+Definitely. There's no way to tell what goes on behind closed doors. 
+
+>But what makes you think a VPN can help you protect your privacy? The VPN itself could sell your data and you can't easily find that out.
+
+You're completely right. It's a matter of trust between you and the provider. However, if a major provider is ever discovered to be doing that, I'm sure they'll lose quite a bit of their customer base.  
+I personally am not a privacy freak, but having a VPN for those times when you'd rather not have your ISP listening in is very comforting, and it provides (if nothing else, a sense of) security. 
+Tunnelbear is a decent service, but you're paying for all that marketing money they're spending to appear in places like LTT - they have worse service than PIA, but for a higher price. 
+There are countries that are known to be worse than others. Look up five eyes countries. 
+Absolutely. They provide standard setups for use with OpenVPN and even Windows' built-in VPN manager. 
+>LTT promotes them like they are gods
+
+How is that a mark of quality? That just means they pay up. They don't allow torrenting, they're expensive, they're based in Canada which is a country that's known to spy on its citizens. Private Internet Access is a much better alternative. 
+
+Edit: While PIA is based in another Five Eyes country, they provide a much better service for much less than TunnelBear. There are alternatives based in countries that aren't known to monitor anywhere near as much, but I don't have any personal experience with them. 
+Try most of the world. I'm in Denmark personally. Can't even buy em officially
+>I think my next phone may just be a pixel.
+
+Mine would be... If I could purchase it in the country I live in without ridiculous import markup!
+Well, I don't think you can go wrong with either of those phones. 
+Huawei Mate 10 series. Most reviewers are putting it right behind the Pixel 2. I also heard very good things about the Mate 9. 
+Definitely... There's less and less incentive to tinker as we progress. I haven't modified a single thing on my Mate 10 Pro other than the keyboard, because I'm a creature of habit.
+[The Sound Of Silence by Disturbed, featuring Myles Kennedy.](https://youtu.be/H3By4DZyTNM)
+
+The cover is already brilliant in my opinion, however, throwing Myles in there and making it a duet makes it even better. 
+Tak!
+Helt klart - igen, vi snakker prosumer, kontra consumer :)
+
+Min anbefaling af TP-Link var mest til consumer typen.
+Definitely. "Cinematic gaming" changed video games a lot. I'm glad Nintendo didn't jump on that bandwagon. 
+Move the router closer to your Switch. Use 5GHz WiFi. 
+Huh. Man lærer noget nyt hver dag. Kendte godt til switches og AP'erne. Jeg vil dog sige de er lidt for "prosumer" prismæssigt til jeg ville anbefale dem til alle og en hver. 
+It's pretty great in my opinion. Known battery drainer? Have the phone not allow it to do its thing. Don't worry about it any more than that. 
+Klart - featuresættet kan være meget forskelligt. :)
+Yep, I just wanted to verify it wasn't just me or some weird setting on my device before I reported it. 
+> but saying it exists is a stretch
+
+Is it really though, when you can _literally_ measure it (lack of serotonin in a person's brain, for example) in a lot of instances? 
+Dude has an eating disorder and quite a few mental problems from a shitty childhood. He's stuck to it longer than ever before this time afaik. Also, the surgery he's had literally makes him unable to abuse food for a year or two, which is hopefully enough time for him to get his mind to a better place with food. 
+While I don't have measurements, it gets plenty loud for my tastes. Quality is actually surprisingly good for what it is. 
+Kid in the audience asked them to play it. They did. That's just about what happened.
+Sælger de ikke kun access points?
+> You might as well just set up a botnet for the MSS.
+
+This is all rumors with no solid evidence, as far as I can tell.
+
+And heck, by using Android, you're setting yourself up to be a part of a botnet for Google, and by extension, the US gov't.
+Dem har jeg på en eller anden måde aldrig hørt om. Er de lort, eller?
+Hvis du har høj ping til routeren, så kunne det godt være. Alt derfra er ude af dine hænder. Men som udgangspunkt fungerer næsten alt man kan købe fint kablet. Det er mest WiFi de sparer på. :)
+How common is it for OEMs to put that in HALs? I would assume they want to protect their precious as much as possible, so leaving it exposed there doesn't seem like a logical move. 
+Det YouSee deler ud er vidst ikke helt skod. Min farmor har Fullrate ude på landet, og det er præcis det samme udstyr som hun havde fra YouSee før. Fungerer ganske udmærket, med størrelsen på hendes hus taget i betragtning.
+Mange af dem er bare billigt lort. Typisk med elendigt WiFi. Ellers er de ikke testet ordentligt. Se bare på alle antenneforeninger i landet der bruger Cisco modems. Ingen af dem havde testet de nye EPC3949'ere igennem, og det havde Technicolor (som nu ejer Ciscos modemafdeling) godt nok heller ikke, før de sendte dem ud til kunder. De har senere erfaret sig, at det var en rigtig dårlig beslutning. :P
+It's weird. I keep reading this. But I went the first weeks with my Mate 10 Pro with FB Lite and have had Facebook since. I'm noticing absolutely zero difference.
+
+Might be because it has an option to basically never allow an app to automatically launch and not allow running in the  background, ever, which I enabled to Facebook through.
+Kan varmt anbefale TP-Link's Archer C5 router. Rigtig god i forhold til prisen. Kan snildt trække gbit. :)
+ISP-routere stinker generelt. :P
+Det var også min tanke. Siden hvornår rækker Hipers del af aftalen længere end stikket? Med mindre du kan leje routeren af dem, som ikke kan trække Gbit, selvfølgelig. 
+Your device is already encrypted. Google has been requiring it since Android 6.0. 
+Well yeah, but those electronics and failing units wouldn't pass proper QC ;)
+I read a Danish study where they did test Counter Strike in comparison, which didn't really have any effect IIRC. The thing about 3D platformers that help is the fact that you have to figure out how to navigate something on the fly. With games like COD and CS, you very quickly learn the maps and so those parts of the brain are no longer stimulated.
+Nope. I don't feel like I need any features it bring to the table anymore, and haven't since about Marshmallow.
+> Fucked how?
+
+Literally making it stop working. Consoles can't charge, nor be detected by the dock.
+
+> How is it acceptable to have any usb C device that can damage each other when plugged in?
+
+Cheap Chinese electronics with limited QC.
+OnePlus, best cameras... Pick one
+Mate 10 Pro as well.
+>because it isn't so generic.
+
+To me, it did feel generic as hell... Felt like "Guardians Of The Galaxy but it's Star Wars" to me. 
+Definitely won't be losing out on anything. I use the Switch docked 80% of the time probably. But then, when you _are_ going somewhere, you have the option of bringing the exact same games you play at home with you wherever, which is pretty neat!
+> No hint of him disagreeing with the changes.
+
+The sign of a professional, I suppose.
+Yep. Could as well have been called Jedis Of The Galaxy. Except instead of the humor generally being organic, it's forced as hell.
+I guess if your Reddit browsing is mostly on your front page, that makes sense. I personally browse subreddits individually, so. 
+I'd say video content should at least go in the game specific sub rather than /r/NintendoSwitch if not /r/SwitchTV then. I'd rather not have games spoiled in the sub about the console itself. 
+>`$cal` is set to 31, and $return is set to 0. This might make sense, but I hope you can see why I find it hard to remember.
+
+That one makes sense. C# also has functions that output to a variable. Can't say I'm smart enough to know why languages do this though. 
+
+`$output` is the output of the executed program. `$return` is the program's exit code. So if `cal` had failed, it would've not been 0. 
+Why not? It's not like it costs you money per subscription. I'd rather have /r/NintendoSwitch be related to discussion about the system and games releasing on it than "Vine for Switch games" (you know what I mean). If you want video content, why not just subscribe to both /r/NintendoSwitch and /r/SwitchTV? You can even make a multi containing both, so you get the content mixed.
+The battery is freaking amazing. Still having >50% when going to sleep after a full day is awesome. 
+Shit... Making me regret I didn't pick one of those up today. :(
+And yet, when people post /r/SwitchTV on those threads, their argument against it is that it has very few subscribers. Well maybe that's because that's how few people actually want that content...
+Har desværre ingen Rema i nærområdet. :(
+
+Har dog gode erfaringer med Aldis produkter også!
+Tja. Alternativet er, at dine billetter nok havde kostet 292,78, hvis ikke mere, da de alternativt skulle skjule beløbet i billetprisen. Det er en meget mere ærlig og transparent måde at vise prisen på, og det gør, at du ikke evt. skal betale 12 kr for at nogen KAN bruge udlandske American Express kort. Det er jo et gebyr til deres betalingsudbyder.
+Basically what I do. I have playlists with songs from artists I like, with the songs I dislike removed. Then I have playlists around certain themes (a certain genre, for example).
+De råber højt, fordi de tror de har samme magt som f.eks. olieindustrien. Jeg spiser selv kød, og har gjort det hele mit liv, ganske enkelt fordi det er nemt. Synes det giver fin mening, at det her ligger ved siden af. Hvis prisen er den samme som for almindeligt kød, så hopper jeg over til at spise det i stedet for.
+
+Min eneste indvending imod at det ligger ved siden af er, som /u/Ramongsh siger, hvis det ikke er nødvendigt at det er på køl.
+Jep, min første tanke var også bare at det er første trin imod Minority Report...
+Tja. Who watches the watchmen?
+Haven't used it personally.
+Jeps. Med et produkt som dette, er det pludselig LANGT lettere at have 2-3 kødfri dage om ugen (hvilket jeg egentlig gerne vil, men jeg må indrømme jeg ikke synes det er fedt at madlavningen skal tage meget længere fordi det forarbejdede er for dyrt). Såfremt det smager godt, selvfølgelig.
+>Again, I'd argue Skype is a good if not better alternative to facetime
+
+Or Google Duo, which comes bundled with Android phones now!
+And FB Messenger does exactly the same. Neither actually call the camera APIs, as far as I'm aware, since their behaviour would _literally_ be impossible if they did. (Having the image instantly ready in the viewfinder).
+Yep, COOV SH350 (and all rebrands of it) are very much on the shitlist.
+Yes!
+Alternativ til lortepæl kunne være PostNord. Det er også shit-post.
+I haven't had any trouble personally, but I've jumped between skins since 2011, lol.
+Yep, same goes for Facebook Messenger. Sometimes the pictures come out absolute garbage. No idea if anything can be done about it.
+>shit-poster på reddit
+
+Laver lortepæle på Reddit*?
+Great effort mate. I hope you won't be DMCA'd, and it's great to hear you had fun creating this. Best of luck going forward!
+I'm 20. I don't think I can name a single song that got me into metal because it was Guitar Hero 3 overall that did that. Though Paranoid by Black Sabbath, One by Metallica, Bulls On Parade by RATM and Through The Fire And Flames definitely played a major role.
+
+First song I heard by A7X was HTTK. About two years ago I think? Song that got me "into" them was ALPOH, IIRC.
+They did with Hangouts.
+Nope, probably a case of shoddy Chinese electronics.
+
+Honestly, I'm probably just going to get an extra Nintendo dock and leave it in [a case like this](https://content.ebgames.com.au/website/images/detail/225188_detail.jpg).
+Heyo. In case you still want to know, I ended up only using it 3-4 times until reading more reports on it frying Switch USB-C ports. I'm not risking that on my own system honestly, so it's just sitting in a drawer, never to be used again. I didn't have any problems with it those 3-4 times though.
+Yep, I think only the Mate 10 officially has 8 for now
+What version of EMUI are you on?
+<3
+Nope, 8
+I haven't used any wired ones with mine so I'm afraid I can't help :)
+Yes, fik øjnene op for Dream Theater (og prog) i år. :D
+No idea why you're being downvoted; you're not wrong...
+This doesn't happen on mine. Are you using wired or wireless?
+As far as I'm aware, Gorilla Glass is more *scratch proof* than regular glass, but shatters just as easily, if not easier. 
+I didn't have a problem with them merging to Hangouts personally. 
+You mean the sanitizer functions in the MySQL API that PHP has implemented? The PHP team is to blame for many things, but let's not blame them for something they didn't do. 
+>or relying on other dev's experiences.
+
+I would happily help debug Relay if it was open source and somewhat documented personally. But when the dev keeps it to himself, it is hard to help. 
+Nice, vil tjekke dem ud!
+Plini... Nice! Opdagede ham alt for sent i år, til han kom med på min desværre. :(
+[Jamen jeg kan da også lige kime ind.](https://i.imgur.com/JUFrQmY.png) Fordi why not?
+
+Synes dog selv jeg er noget bredere på rock/metal-spektrummet end mine top 5 kunstnere lige antyder... Sangene repræsenterer det bedre. :P
+Do you mean the new Hangouts Music sticker pack for Allo?
+Because it went so well last time they merged a service they had fragmented to hell...
+I guess it might slow down now that they're out of Warner's claws. We will see. 
+> They were asked to weigh in on whether lootboxes should be considered gaming, they said no, because they aren't.
+
+And then EA went too far, and people that are not the ESRB (mainly the media) disagree. So they did fuck up.
+[This is mine!](https://i.imgur.com/5F4bkb2.png)
+> Pixel 2 and 2 XL will get updates from Oreo to P,Q and R in 2020
+
+Wasn't this wrong? Last I read was that they said 3 years of software updates, with 2 major Android versions... Just like what they were doing with Nexus for years.
+Nah, they changed some partitioning stuff back in the ICS days as well. I remember quite a few HTC phones not getting ICS officially because it'd require a factory reset to account for the new partioning scheme. Though I think they made it available as a manual download to some phones if I don't remember wrong.
+Yep, seems /r/Android thinks Treble will make OEMs support their phones for longer and with faster updates. That is certainly Google's intention (I even think they're trying to move towards a world where they can push out Android core OS updates behind the OEM's back), but it's not where the world is now.
+Yep. It was a good idea but definitely didn't pull it off in practice.
+With the Mate 10 Pro, I read somewhere that Huawei has committed to monthly security updates. We'll see how true that is. Generally Huawei doesn't push out .1 releases, but they'll probably push out 9.0 once that arrives.
+ENT? And no, I'm not paying $1k+ for IEMs.
+Yep, trust me, I've tried almost everything. 
+Don't count on being able to pick stuff to keep. It's either or. 
+I think for me, it comes down to the bezel size combined with the rounded corners. I don't mind rounded corners on the GS8 for example. 
+Well, they indirectly do. If they see something they don't like, they slap an AO rating on it and almost every store will refuse to sell it. Rockstar had to make a new version GTA: San Andreas back in the day because it was slapped with an AO rating after mods came out to unlock a sex minigame hidden in the game.
+Not saying it's a not bad. But fact is the ESRB has fucked up. Government regulation is the consequence.
+
+Though I'd say regulating (currently) legal underage gambling (yes, I see lootboxes with no option to straight up purchase what you want as gambling) is not the same as regulating gaming in general.
+I mean, I'm no American, I'm just observing this from the outside. ESRB fucked up. If they don't change their stance, they will be dissolved and the gov't will take over.
+Busy taking money from Comcast. EA didn't spend enough of their budget bribing lawmakers, it seems.
+On the other hand, that just shows how fucked the industry is now. The ESRB was founded to make the games industry regulate itself. It's failed to do that. That means it's government step-in time.
+Yep! We have a ~10 year old SVN repository running here (though the oldest code I've seen is "only" 6 or 7 years old) and due to some fuckery with some early commits in the repo we can't painlessly migrate it to git and the boss doesn't think it's worth allocating time to. So here we are.
+My 5X was black. But might be region dependent, as you said.
+I've never experienced more than a minute of queue time at max, and it's usually much less. Biggest issue is that you can't really party up with friends for normal games 
+Mine do that too.. Haven't had any problems this far, had it since launch. 
+Wouldn't say Pro Controller is essential. Give it a shot with the joycons and if you don't like that you can go for the pro.
+
+Highly consider a tempered glass screen protector to avoid scratches. 
+Google didn't even ban it completely. They banned it _unless your app's sole purpose is being a lockscreen._ So it's not against the rules to create a lockscreen that displays ads, but you can't hijack the one a user has already.
+I've given up on IEMs completely, haha. My left ear is weirdly shaped, I think, so anything that enters my ear canal will have the eartip somehow shut completely inside my ear, so no sound enters my ear at all.
+
+Ear/AirPods are too big to comfortably sit in my ear. Over-ears for me only, even if it means no music while at the gym, haha.
+> Apple’s success is rooted in that concept
+
+Not only that, that is literally what Apple has _always been doing_. The Macintosh was a much more user friendly evolution of terminal-based computers. The iPod was a convenient (at the time, anyways) evolution of portable MP3 players. The iPhone was an extremely improved version of the smartphones of last decade. Etc.
+>  as opposed to the black, "streamlined" looking cables from my Nexus 5X
+
+???  
+I got white cables with mine.
+I know Dark Souls 3 does it with one of the fairly early bosses... Or at least he drops down halfway through the fight IIRC?
+Hell yeah. I've had 0 issues with mine. 
+You'd need a multi ROM kernel for that and it's already possible with those. A few exist, though I've never looked into them myself. Haven't been in the ROM game for a long while. 
+But not her damaging ability, ironically. 
+Nah. Har en kæreste, som kommer hjem kl. 18. :)
+Min dag bliver nok noget i stil med:
+
+7:00 Morgenmad og smertestillende. Et æble, og en ryg der driller.
+
+7:30 Få et lift af bossen på job.
+
+7:45 Ankommet til kontoret. Læst nyheder fra gårsdagen.
+
+12:00 Frokostpause. Det sædvanelige (rugbrød med diverse pålæg).
+
+15:00 Mentalt død. Spilder tid på Reddit da jeg ikke har kapacitet til at være produktiv mere i dag.
+
+16:00 Hjem fra arbejde.
+
+16:15 Handle det der mangler ind til dagens aftensmad.
+
+16:25 Stene YouTube. Måske spille et eller andet på Switchen.
+
+18:30 Aftensmad og stene ved TV'et. Tømmer køleskabet for rester, så det bliver noget blandet grønt med nogle bøffer af hakket oksekød.
+
+Resten af aftenen: Enten YouTube eller spil, alt efter hvad humøret er til.
+
+23:00 I seng.
+I personally dislike the look of the front of the Pixel 2 XL, and also the whole rounded corners thing.
+
+I think it comes down to whether you prefer the fingerprint scanner on the back, and how much the camera matters to you - I'm pretty sure the Mate 10 Pro has a better camera. Also your stance on AMOLED vs LCD.
+Because screen space isn't measured in inches internally. It's measured in pixels, or scalable units such as dp (density-independent pixels) or sp (scale-independent pixels).
+> don't get why it isn't called 2:1
+
+18:9 is easier for humans to relate to 16:9. 
+Yep. Otherwise it couldn't be certified by Google.
+Nope, but it makes it a lot less work for them to do so. [It could also be a potential revolution in custom ROMs.]
+(https://www.xda-developers.com/stock-android-oreo-huawei-mate-9-project-treble/) 
+Wolfenstein 2? We don't have much announced for 2018 yet. I personally think Nintendo is saving it.
+> I keep seeing complaints about the device for being underpowered, maybe it's something that can be fixed a few years down the line?
+
+As long as the Switch is a portable hybrid console, it will always be less powerful than something like an Xbox or PlayStation that are a lot bigger than the Switch. That's just how it works.
+That's interesting. What made you switch?
+
+Well, I wouldn't judge them by the November update - Google didn't even push that out and most manufacturers backported the most important fixes from it into the October update, including Huawei. I read somewhere they've committed to monthly security updates though, IIRC. 
+Can't say I was a fan of it. Battery was mediocre for my use, it stuttered a lot with the "heavier" apps like Messenger and Snapchat. The Mate 10 Pro runs them flawlessly. Had plenty of Bluetooth issues too, they were solved with updates though.
+
+I have no idea how they are with updates, and frankly I don't care much anymore. I was fine on Android 7.1, and I feel like Android is finally at a point where I'm not eager for the latest update anymore.
+Works fine for me. What phone and Relay version are you using?
+
+**Device information:**
+
+    Relay Version: 8.2.78 Pro
+
+    Phone: HUAWEI BLA-L29 (BLA-L29)
+    Android Version: 8.0.0 (26)
+    Device (product): HWBLA (BLA-L29)
+    Rom: BLA-L29 8.0.0.115(C432)
+
+
+[What?](https://ec.europa.eu/digital-single-market/en/policies/open-internet-net-neutrality)
+Imo, that's because COE was very musically focused whereas Nightmare was quite a bit more technically focused. That's all down to personal taste. 
+
+But I do agree that Nightmare suffers from "Dream Theater syndrome" at some points. I don't personally dislike that though.
+In Europe carriers don't touch updates at all. For us, the manufacturer pushes a version with the modem part customized for whatever region/carrier. For example, for Sony, the "customized Telenor NO" firmware covers every carrier in the Scandinavia region. 
+Yep. Should be pretty hard to break into.
+
+Hell yeah, same here. I got an Xperia XZ when my Nexus 5X died back in March and I couldn't stand it. Had so many problems with it. This phone flies in comparison! And yeah, I could definitely gush about the camera too.
+Hope you're enjoying yours as much as I'm enjoying mine!
+> apparently your carrier finalizes the updates?
+
+True for the US, and maybe AUS. I haven't heard of that practice being in place any other places in the world.
+I have jerky scrolling when I scroll slowly as well.
+Stock Android can use your PIN to secure as well, it seems dumb that Huawei has limited it to just password.
+Can also confirm. It only lights one for me as well.
+No particular order.
+
+1. Myles Kennedy (Alter Bridge, Slash)
+
+2. Corey Taylor (Slipknot, Stone Sour)
+
+3. Shaun Morgan (Seether)
+
+4. David Draiman (Disturbed)
+
+5. _Probably_ Mikael Åkerfeldt (Opeth) back when they still did growling.
+I believe there are other Chinese OEMs doing it too, but most are parroting Apple as always with the zoom lens that doesn't work outside of optimal lighting conditions anyway. Huawei claims that due to higher resolution on their monochrome lens they can do lossless 2x zoom with that as well.
+
+I don't know if it's actually due to the monochrome lens, but I can at least confirm that my Mate 10 Pro is an absolute _beast_ in low light.
+You don't have to take B&W shots to get the benefits. The Mate 10 Pro in particular combines image detail with color information from the main sensor to create a sharper image, or to boost low-light performance depending on your scenario.
+I can't see why Authy isn't fine. Yeah, it's backed up to their servers, but even in case they're compromised they only have my 2FA codes, not my passwords. So reset the 2FA and we're good.
+Ah, okay. It probably has a Nintendo server as a middle-man to prevent hacking.
+I don't think there's a way without a computer then. Apple are still pretty tight about iTunes being the only way to put media on an iPhone. 
+I don't think the process needs wifi. It creates an ad-hoc network between the Switches, like MK8's multi-switch local multiplayer
+Do you have an iPhone, or an Android phone?
+Yep. I work at a mobile carrier, and having my testing # on a secondary SIM is convenient as heck.
+They're also great if you want a separate work number in your personal phone. 
+They did. That was Hangouts. Then they created 3 or 4? new messaging apps. 
+I feel like it's more fair to compare Sidewinder and The Wicked End to Buried Alive, Victim, or Tonight The Worle Dies
+Tja, de har vel hvad TDC tilbyder - sidst jeg hørte noget var de stadig primær teleudbyder for det offentlige...
+
+Eller måske det TDC tilbød for 5-6 år siden. :P
+Tja. De kunne jo også købe sig en kompetent telefoniløsning med mulighed for visning af et hovednummer når man ringer ud af lokalnummer-regi. 
+Now that's a bot I can get behind.
+While I personally _love_ every album, Nightmare's more mature sound just beats out COE for me. Sure, COE is a blast and a bigass party in itself, but I personally prefer Nightmare/TS.
+Give the joy cons a chance, the Pro Controller is far from necessary for everyone. I'd say a tempered glass screen protector is mandatory, and a carrying case if you plan on taking the Switch with you.
+Your photos will be used by Google, probably for training their machine learning as well as knowing more about you. That's how it is with everything Google. I personally kind of have the opinion that honestly, whatever they're gonna learn from me using a new Google service, they probably already know.
+I immediately thought it was that when I saw it
+I've had this exact experience with someone over multiple games. It was wonderful. Some of the best games I've had in Splatoon 2.
+
+I absolutely love S/T, but in this lineup I still find it to be the weakest. It has some great songs, but the cohesion thing IS a problem when we're talking about an album. But it has a lot of my favorite Avenged songs.
+Lol what? Sure, when you can play Overwatch on your Android phone it's relevant. You can use Snapchat right on your device running Android, and it has a lot of users on Android. Therefore it's relevant.
+There's a market outside the US too, where Samsung phones run in their full Exynos glory.
+Because there are Android users who use Snapchat?
+Because I carry those devices on my head. The conversation was obviously about headphones. Not general electronics.
+
+You're also replying to a week-old thread... 
+Dear god, that triggered something in me. When working with Java in that style, I've gotten to the point multiple times where I'd typed a word so many times it didn't make sense anymore. 
+There's also the other camp though. The more you work with a language, the more you despise it. So a popular language has more legitimate people who dislike it (even if it's just because they're sick of it or the grass is greener on the other side), and so it becomes cool to hate on it, and you get the people who are very inexperienced with it joining. 
+Sounds like standard practice for demos to me. Done it countless times for presentations. You're demoing how it'll work to users, not developers
+Didn't you know? Blizzard is just a small indie company. That's why they have to launch card packs for Hearthstone outside of the region's peak hours. They can't afford to keep servers up for that many players!
+On iOS, there is only one camera module to optimize for per phone. This means Apple can do all post processing at the firmware level. On Android, since there can be so many different cameras on smartphones, manufacturers have to implement the Camera2 API, which developers can then use to "talk" to the camera. Though software processing still has to be done by the individual app in Android land. 
+Nintendo themselves say you're good at 60+
+>Gboard has also gotten *worse* over the past year in terms of multi-language writing
+
+That's actually about the only part that's improved for me, personally. 
+Yeah well, I don't think it's even out for my region yet so. 
+What region?
+Spent around 80 bucks on a used copy of Pokemon SoulSilver. Shit's expensive. 
+Oh really? What additional features does the Pixel 2 have in Assistant?
+What services other than the free Google Photos backup is special to the Pixel? It's not like no one has used Android or Google here. They know what they're getting into. 
+Then why can't Google sell the Pixel 2 to all of the EU? They're already selling them in Germany, UK, and more. 
+I can imagine that QC is generally a lot tighter with smartphones compared to standard monitors. 
+Virkelig et bevis på recruiting er bullshit. :)
+Nå ja, det var den jeg manglede!
+If you're in the Note 8 budget, look at the Huawei Mate 10/Pro or the Razer phone. Can't go wrong with a phone with a 4000 mAh battery.
+Kommer an på branchen, gør det ikke?
+
+Jeg blev ansat som lærling for 3 år siden (datatekniker med speciale i programmering), og ja, de første 2 år var jeg helt klart ikke de penge værd jeg fik færdighedsmæssigt. Men jeg kan love dig at jeg i løbet af det sidste år har været meget dygtigere end min løn, og det fortsætter et år endnu, indtil jeg er færdigudlært i December 2018. På kort sigt, ja, så er en lærling dyr, men på længere sigt, så ved jeg, at min chef kommer til at have sparet en del moneter på ikke at hyre en færdiguddannet fra starten.
+Heh. Vi søger en med 10 års erfaring, på alder med en nyuddannet, som vi kan betale som en førsteårslærling. Er det ikke sådan den går?
+Kan bekræfte dit indtryk af lærlingeløn.
+
+Kilde: er lærling.
+Sidst jeg tjekkede, så var Morty en forkortet udgave af Mortimer, som også er et gyldigt dansk navn.
+As far as I've heard, Huawei puts solid antennas in their phones. They should have something for every budget range.
+Oreo isn't available in my region yet, sadly. I'm getting a Huawei Mate 10 Pro tomorrow though, so it's no matter, for long... And it's not like Sony has left a bad taste in my mouth, only a "meh" after coming from the Nexus 5X which was literally my perfect phone. Sad that it had to bootloop.
+Mener du Rikard og Mortimer?
+I had a hell of a lot of Bluetooth problems that were luckily resolved in one of the recent-ish monthly updates where the phone couldn't properly identify which device was connected (or at least wasn't relaying it properly to apps), so apps like their own "Headphones connect" app literally didn't work.
+
+Fingerprint scanner is finnicky at best, coming from a Nexus 5X. If my finger is even slightly damp (which they often are; I have very sweaty hands for some reason) it straight up refuses to work. Even if everything is in optimal conditions, it only works right about 40% of the time.
+
+The phone is as stuttery as my Nexus 5X was on its last days when using multiple apps, and it handles like a 2GB RAM phone when it comes to keeping apps in the background. (For example, if I'm browsing Reddit with Relay and using Facebook Messenger, the apps will consistently reload after switching between them a few times).
+
+The phone generally feels stuttery at times, though that might be due to me not using the stock launcher or having Snapchat and FB Messenger installed.
+
+Those are what bother me the most off the top of my head, but there are other more occassional things.
+Don't blame the developers, they're more than likely just doing what they're told. None of the business people at Nintendo have experience with other online systems, so they literally have no idea how their competition works.
+> Or if you want to refund your new Switch because it has a couple dead pixels that are "normal".
+
+To be fair, it's not like anyone is any better in the laptop and monitor market. I got an ASUS monitor that had 2 dead pixels from the factory. ASUS warranty only covers 5+, anything less than 5 dead pixels is considered normal to them.
+
+No idea about the smartphone/tablet market though, as I've never had dead pixels there.
+For me, I stopped caring at 7.1. Yes, O has some great features too but they're not important to me. 7.1 was when I felt like I could comfortably ditch Nexus (never got a Pixel).
+What are you for turkeys then?
+Absolutely!
+lmfao. That's the beauty of it though, isn't it? If I enjoy exploring a lot, I can do that. If you don't you don't have to!
+> Tear down those walls
+
+FTFY
+You're absolutely not. I beat Bowser with about 350-400 I think? 
+Darn. Best of luck!!
+Are you _sure_ that it doesn't turn on? The Switch has had a bug since version 3.0.0 that'll cause the screen to stay black but with backlighting when undocking, as if it never initializes the OS UI. Have you tried hard rebooting it by holding the power button for 10-15 seconds, and then turning it on by holding it for a couple of seconds again?
+Did you take it out of the dock when trying to turn it on from sleep mode?
+Case, tempered glass screen protector should be standard for any Switch purchase... Sonic Mania for the youngest one maybe, if she's into 2D Sonic? Otherwise Sonic Forces, even though it's as mediocre as most other 3D Sonic games.
+
+Mario + Rabbids might also be an option? It has fun co-op, and despite being a strategy game it's simple enough that I think your girls could have some fun with it.
+I think /u/MidgetInAPhoneBooth meant to reply to /u/CovetedOffsprey 
+Still means that the Camera2 API isn't properly implemented.
+Wow, se lige den her optimist. 
+Mon ikke ét af dem kommer frem, hvis der er rigtig mange der sender?
+No bloat? So it doesn't come bundled with Spotify, Facebook, PlayStation, AVG and way more that I disabled day 1 on the Japanese and US models?
+>if they are in bad debt they want money
+
+Technical debt refers to being behind on software or having written something bad that you need to optimize or fix. 
+
+For example, if a company is running a 6 year old version of the Apache webserver on their webserver, that's technical debt. Or if they're running Windows Server 2008 still. 
+Man, I feel like I'm alone in having had way too many problems with my XZ... Granted, they're all very minor, but they add up to piss me off daily. 
+Additionally be sure to read their documentation for contributers... Usually in the repository under the file name "CONTRIBUTING"
+I'd love to know this as well, so calling the reminder bot. 
+
+RemindMe! 12 hours
+I don't know U-Fig or Boom by name so I might agree with you that they're at least nothing special. Though I'll listen to them when I have the time. I love Lonely Day though. But I'll agree that it doesn't fit in as a SOAD song, but the song is great nonetheless. 
+Yeah, last thing I want is to damage my hearing haha. I've temporarily lost hearing in one ear due to an infection once and it drove me insane. 
+That is Notepad++.  
+Out of curiosity: which ones?
+Install and immediately uninstall. Install again when it's needed, then uninstall
+Playing guitar. I started playing about a month ago and it gets seriously addictive when you can tell you're getting better day by day. Though the progress has already started to slow down - as expected - but damn if it isn't still fun. 
+Uhh... Not necessarily. Back when I listened to EDM music I'd listen to it a lot louder than I do with metal now. And I always wear earplugs at gigs. 
+Yep. I've definitely written stupid pointless comments on simple things when I was starting out. Because it was all complex to me, and it helped me remember and understand. 
+Not saying it's good for them, but I wouldn't say they're dying just yet. 
+f has to be last. 
+Yep, writing to stdout is a huge bottleneck with lots of small files. I once timed extracting about 2GB of source code, one with `-v` and one without. Difference was huge. 
+I don't know. Snapchat isn't losing users, they're just not growing. I think that's because they're a niche service. The people who want to use Snapchat are already using it.
+I would say it depends on what you're making. C# is a great application development language, while C++ is a fantastic systems development language. 
+Mate 10 DOES support treble. It's launching with Oreo, so it has to.
+Are there any other Huawei devices currently running Android O? Other than the Mate 10/Pro which are launching with O, so they support Treble.
+I haven't played too many indies. Shovel Knight was never my thing, I've really tried to like it but I just don't. Best thing I've played was Mr. Shifty
+Not saying dedicated servers aren't better. But archaic is the wrong word. Sadly. Dedicated servers used to be the standard. But now the average consumer internet connection is "good enough" to just make it P2P and move on with it. :(
+
+I can tell you that far from all PS/Xbox games have dedicated servers either, and their service is 2x the cost of Nintendo's.
+Isn't this straight up against Google's own rules, or at least guidelines? No advertisements in notifications?
+> I am fully aware of the archaic peer-to-peer system that Nintendo is implementing
+
+While I don't have an answer to your question, I just want to point out that is sadly not "arhaic". It's pretty much industry standard these days. :(
+Sounds like a defect to me. 
+Min fejl. Jeg synes dog bestemt stadig at Overwatches system er dårligt for slutbrugeren. Klart bedre end noget som SWBF2, men det er stadig gambling. Det er helt okay at de tager penge for cosmetics, men så vil jeg også gerne have muligheden for at smide nogle kroner efter de skins jeg konkret gerne vil have i stedet for at håbe jeg får det blandt de 24 boxes der koster det halve af spillets originale pris. Folk med ludpmaniske tendenser kan desværre også nemt fanges af et system som Overwatches. :(
+I'll be here all night!
+>Lootboxes kan ikke give dig nogen fordel overfor andre
+ 
+Battlefront 2?
+
+> du kan ikke sælge de skins du får. 
+
+CSGO? 
+Bands I've been listening to for a while would include Alter Bridge, Seether, Dream Theater, Disturbed, Beartooth, Opeth (early-mid 00's albums), Sixx:A.M., FFDP. Many more that I can't be bothered to type.
+
+More recent additions to my artist list are Alice Cooper, Stone Sour, Draconian & Trivium.
+
+Yes, my taste is all over the place. 
+While of course, there will never be another Jimmy and he's dearly missed by the band and fans alike, I can't think of a better fit to take his seat. Inspired by the same people, taught at the same place as far as I heard. 
+Fair enough. I'm still convinced more people listen to radio than our generation generally thinks, and that's the only reason labels are still relevant. 
+**C'MERE YOU FUCKIN' BITCH**
+Who makes the charts?
+Sure it is! But it's a fact that if you'd spent the same amount on a wired pair of cans, you would've gotten much better audio quality for your dollar. That's why audiophiles consider wireless bad value.
+Yeah well. Guess it also depends on how much you value sound over convenience. While sound matters a lot to me, I simply can't stand wires getting caught on door handles and the like. I also love being able to walk around the office without taking my headphones off. :)
+I bet the comfort is miles better in whatever pair of Sony headphones you have though. ;)
+
+Sony headphones are generally overpriced though... I haven't had a single good experience with them. I loved the sound and comfort in their XB950 models (owned both the BTs and the N1s) but both broke within a year of use. They're built so poorly.
+(Super late, I know.)
+
+I swear, the PX'es I tried in a store back when I chose between them and the P7W must have been defective. They sounded so bad to me compared to the P7W. Makes me wish I could try a different pair.
+I honestly think that depends. Of course, if you're looking at $200 wired vs $200 wireless, you're gonna get better quality out of the $200 wired pair. I recently bought a pair of Bowers & Wilkins P7 Wireless, and it's some of the best audio I've heard in my life, even without AptX. Of course audio is a very subjective thing, but the P7W really have an ability to bring compressed music to life.
+
+I'll have to note as well that my primary music source is Spotify. I won't bother with FLACs, etc, just as I won't bother with wires. :P
+Yep, same here. I went fully wireless a year or so ago. Absolutely haven't looked back. Though I don't use earbuds period, because my ears are screwy with them. Wires are just too inconvenient.
+I've also heard good things about Lovers In A Dangerous Spacetime, but I haven't played it personally. :)
+Mate 10 Pro is launching on Monday (at least here in Denmark) with Android O. The non-pro is launching with O as well in other markets.
+> They are all(save for Sony)
+
+And Huawei!
+It's very accessible, while still being a fairly challenging puzzle game. :)
+
+I've played it quite a bit with my GF, she loves it.
+Snipperclips?
+You think they actually still have fax machines? I'm willing to bet they arrive by email. 
+The story is scary close to my own, haha. You're doing the right thing. Let him come to you if he feels the need.
+What a constructive comment. Great contribution to the discussion in this thread!
+Thank you for taking the talk with your son. I was in that exact situation from when my parents split (I was 10) until I was around 17 or 18 (20 now.)
+
+Yes, the "rules" say never speak ill of the other parent. But sometimes, you have to talk some talks with your kid if you notice the other parent doing the things to them that caused you to leave in the first place. I'm extremely grateful that my dad decided to talk to me about it, and I only wish he'd done it earlier. 
+
+You are doing what's best for your son. Keep supporting him and everything will be okay. :)
+You would be surprised. Phone reviewers spew a lot of shit that simply doesn't make sense because marketing says things are as such.
+It's a whole different beast. 5GHz (or 5G in this sense) means that the radio waves of your WiFi are at a 5GHz frequency, as opposed to the standard 2.4GHz (which older equipment uses, as well as general consumer radio stuff like baby alarms, microwave ovens, you name it)
+
+Mobile phone 2G/3G/4G are just marketing names for GPRS/EDGE, HSPA and LTE mobile networking technologies. 
+5G means 5 GHz. Better speeds, and less interference, but shorter range. The Switch generally works better with 5 GHz
+Nah, I didn't follow it very closely beyond reading a few articles on this sub. 
+He was in Islander for a while, but the lead singer threw a tantrum at some point and fired everyone including him. No idea if he's in a band now or just doing session work.
+If you see yourself playing with a group of friends you should have a look at Jackbox
+If only they had implemented the Camera2 API properly...
+General opinion is that this should be a thing, AFAIK.
+That's not a US/UM complaint though, that's a gen 7 complaint in general.
+Have you ever played a 3rd version before? They're usually small story tweaks, gameplay fixes and expansion on the post game.
+Yep, it's a whole new game!
+Pause menu has a QR scanner. It'll trigger an in-game event.
+They removed the AI rubberbanding in the last patch...
+Rocket League. When you use 3 or 4 in game chat commands it'll say "Chat disabled for 3 seconds".
+I've heard mixed reports on the Mate 10 Pro but that last thing I heard was that they were using a Samsung AMOLED panel. 
+Completely fair. I like the games being portable, which is why I'd rather get them on Switch. 
+Why stick to first party? There are some great indies and third party games.
+I don't disagree that the battery issue on the 6P is big. But you can't tell me that you think it's worse than Note 7s *literally exploding*.
+I also just don't see the point in 1440p on such tiny screens... Heck, I barely want my desktop screen to be >1080p if it's 24" or less. 
+And anyone who puts LG on theirs is laughable because their older phones bootlooped. Anyone who put Samsung are idiots because the Note 7 exploded. Oh and HTC? Remember the purple tint on the M7's camera? Google? Lol Pixel 2 XL display. OnePlus? Jelly display. 
+
+You know what? Fuck smartphones! Liking any phone at all makes you laughable!
+I counted 180 per run, but yeah, seems to be the most efficient to me. 
+So you're suggesting Nintendo should just release more maps at a time then? Still not a valid reason to charge money for them and split the playerbase.
+Fairly sure Splatoon 2 isn't getting DLC other than what's already there. The original didn't on Wii U either.
+
+But it has gotten new free maps. I don't understand why you'd want that content to be paid when it's already free.
+Yep, probably why Huawei could get them as well. 
+Bosses are meh throughout the main story. I haven't played much post game yet but the couple of bosses I've rematched seem to have the challenge upped a good bit. Some worlds feel very uninspired in comparison to others (wooded kingdom vs seaside for example) but overall I can't say there has been a single moment I didn't enjoy in the game. 
+I read somewhere that you can reload in LA Noire by tapping it? I don't know as I don't have the game yet though. 
+
+Also, it's useful for a potential expansion port. 3DS did the same thing. 
+I don't think artificial scarcity means what you think it means
+They've evolved into a let's play channel. I'm not sure their old format would be doing as well in the current landscape of YouTube
+🙃
+Point still stands.
+Gotta keep in mind the pricing he used was probably converted from EU or UK including 25% VAT. 
+I don't know if Alter Bridge are obscure. I guess they aren't to people who are into hard rock/metal. But their album "Blackbird" is god damn amazing, especially the title track. 
+Rocket League is designed to be a multiplayer game. It's not a lot of fun against AI.
+BOTW for a long term experience. 
+
+BOTW is a long term game with quite a bit of downtime. Not in a bad way though! You'll usually be on your way from one objective to another and spot somewhere you wanna go explore, which you then do. It's an awesome experience. 
+
+Odyssey is a much shorter experience but with every second of it being packed to the brim with _fun_. Minimal downtime. 
+I thoroughly enjoyed Mr. Shifty. Sonic Mania hits that price too right?
+I've been burned by HTC 3 times too many to ever consider them again. :(
+>The effect comes from how your eyes percieve the screen refreshing.
+
+That doesn't make it a non-issue? No other phone has the problem as badly as the OP5. 
+
+>No, it's not. You clearly have zero idea what the hell you're talking about.
+
+Oh, guess I haven't witnessed 3 separate units act in 3 different ways in that regard then. Carry on. 
+
+>
+What makes it different?
+Samsung still needs to fix their atrocious update schedule last I heard. Also, the infamous "Samsung lag" is still present on the S8, though it's supposedly fixed in their latest beta? (or what the Note 8 is currently running)
+>(which isn't even negative, just strange)
+
+I would be very bothered personally if my phone did that and the company who made it refused to treat it as a defect, even though it's very different from unit to unit how bad it is. You're kind of sounding like a blind fanboy. 
+Guess that depends on how much you value the camera. My friend's unit has the jelly scrolling problem as well.
+Essential is good post-price drop. OnePlus 5 had its share of issues.
+The Mate 10 Pro should be available in the US? I think AT&T is even gonna carry it.
+STST: Haven't really listened to it a lot, so can't say.
+
+WtF: Remenissions
+
+CoE: Beast And The Harlot
+
+Self-Titled: Critical Acclaim/Brompton Cocktail. Not sure I can choose.
+
+DitR: Crossroads
+
+Nightmare: Honestly can't choose between Buried Alive, NBK, Victim and Tonight The World Dies.
+
+HTTK: This Means War
+
+TS: The Stage or Higher.
+I was really hoping this would be the phone to redeem the garbage year that's been 2017 (phone-wise). Guess there's still Huawei's Mate 10/Pro, but they probably won't do well in the US as usual. 
+>Meanwhile, Samsung and Huawei stick to themselves. That's an error if you ask me. They should sell their mid range and tablet SoC's to competitors.
+
+Last I heard Qualcomm was actually stopping them from doing this. But I may be wrong. I think I read it in some Reddit comment. 
+Næh, bare ekstra besvær for dem der ikke er problemet. Jeg tvivler i hvert fald personligt på at størstedelen der laver fupbutikker er danskere. :)
+Det gør han ikke. Derfor skal han ikke verificere, hvis han ikke har en dansk adresse. 
+Virker umiddelbart som noget der kun kommer til at "straffe" legitime kunder. Folk med fup butikker registrerer sig jo ikke med egen adresse, så de kan jo bare bruge en adresse i udlandet. 
+Eeeeh. Making fun of ridiculous news online isn't exactly a foreign concept.
+Great fun if you enjoy strategy games. Not as "hardcore" as XCOM gameplay wise, but has a lot of fun mechanics.
+Ah. I guess the only downside to that would be if you had cash on your eShop account? IIRC you can't migrate that between regions.
+Interesting. How does that work? 
+Preach!
+Absolutely, me too. I'm not taking chances. 
+Yes, every account on a console has access to everything on it as far as I'm aware. 
+Mario is a huge amount of fun condensed into a relatively short (compared to BOTW) experience. It has low amounts of downtime. BOTW has a lot more downtime where you're just sitting back and admiring the world that you can seemingly spend forever exploring. 
+Because coming out of the closet was his response to allegations about having acted sexually with a 14 year old boy some years ago. Tried to change the focus of the story to him being gay instead. People are meme'ing that. 
+You have to create a separate account with another country. Games you buy on it will be tied to that account
+Samsung has DeX with their Galaxy S8 and Note 8 phones, but it requires a proprietary dock.
+Here in Denmark it's selling for about $930. That's with 25% VAT so the price here without VAT is about $700.
+I didn't own a Wii U, and I usually love them. But the breakfast theme was just too stupid for me to care enough to not play Mario instead.
+Thanks, dude.
+The downvotes could as well be for stupid attitude, a comment that doesn't add anything to the discussion, or his lack of reasoning behind the rating. 
+No idea why you're being downvoted. The Switch literally proves that with its graphics horsepower being inbetween last and current gen.
+Latest patch said they improved them. I haven't fired the game up yet to see by how much. I can check later if you're interested. Though pre-patch it was still only 10-14 seconds of loading per level, which I honestly don't mind at all personally.
+Just joining the pleasantly surprised team here. I honestly think that you and Huawei with the Mate 10 Pro created the best phones of 2017 that sadly won't reach the audience that they deserve. Great props to you guys!
+I honestly couldn't bring myself to care enough about this Splatfest to take out Mario, lol
+[Check out this thread.](https://www.reddit.com/r/Android/comments/1il9qc/instagram_for_androids_processing_of_images_is/) As far as I'm aware the problem still stands to this day, though I might be wrong.
+_Instagram's_ processing is worse on Android than iOS. Has been proven time and time again.
+I went to GameStop to get an amiibo the other day. Guy behind the counter stopped to talk about Odyssey with me for 30ish seconds (crowded store, no need to create a line). Super nice dude.
+
+When I got my 3DS with Pokemon Alpha Sapphire I also talked to the employee about how amazing it was to see our childhood Pokemon games in fully blown 3D (he was about my age). Generally nice people there for me.
+Yeah... Why care? They like one thing, you like another. Who cares?
+Yep, mine has been in the Switch since release, until yesterday when I decided to play a couple of matches in Splatoon 2.
+But sure, we won't hate them for photo quality being worse due to worse processing on Android by Instagram.
+
+E: Cliarification that I meant _Instagram's_ photo processing.
+Sure, but it was very clearly rushed out the door to replace the dead Wii U. The OS is very barebones, and was even more so at release. And Nintendo's experience in online clearly doesn't measure up to their competitors'. 
+Yes, but when it's an update it's not optional. It would've been 100% optional if they made it free DLC on the eShop. I would never play the multiplayer but the singleplayer is great. So I'd rather save that space. 
+> Truly chilling pieces of art.
+
+Though *very* heavily inspired by Pantera's Suicide Note. ;P
+That's stupid.. they should've made the multiplayer download a free DLC on the EShop. 
+
+E: Okay, so apparently people don't want the multiplayer to be an optional download, but rather a forced one? 
+> I fricking love how they are well aware of the issue and are doing absolute fuck all
+
+How do you know? Setting up infrastructure takes time, you know. It's not like they can just snap their fingers and suddenly there are cloud saves.
+That's in less than 2 months anyway. We've gone over half a year without. Stay strong!
+And Switches even have user profile transfer now...
+Once I got to about 40, I switched my focus to the girl's "HEY" yell. That helped me go >100. :)
+I doubt the console will go on sale since it's flying off the shelves at full price
+HORI Play Stand works great
+AFAIK Doom doesn't have any co-op. It's a mediocre arena style shooter online. 
+Definitely. It being a service tied to the 3DS is super backwards. It should be completely external, and you should be able to pay for it without a console handy. With automatic renewal. 
+Yeah. I'd also much rather store my collection on a cart...
+Definitely. I'd get it at $20-30.
+I like his vocal work in Angels and Simulation on TS, but AFAIK the vocals he did on HTTK were super hard to do, so he switched his technique to be able to do longer shows. 
+>His voice post-surgery has had an incredibly annoying thinness and whininess to it that I simply cannot bear. 
+
+Have you listened to HTTK (I know, I know) or The Stage? There's honestly none of that on either of those. He stopped doing the nasal whiny singing. Far from saying he's the best singer out there - he's not - but I think he's been improving a lot. 
+Yeah, Disturbed had a massive comeback in 2015/16 after being kind of irrelevant (at least here) except for Down With The Sickness. 
+Ah. Makes sense. Thank you!
+Eh. Glass back phones became a 2017 thing before the iPhone was announced.
+ELI5: Why would a black navbar create burn-in, if the black pixels are literally turned off?
+While I don't personally see how it's a problem, my friend has the same issue. He absolutely hates every Cappy mechanic because it "doesn't make sense". 
+\*autistisk skrigeri\*
+I'm joining the train. I barely played any video games for 4-6 months leading up to the Switch release. And I used to game 4-5 hours a day when I could get away with it when I was 15-17ish. 20 now. Gaming just felt like a chore. With BOTW, the Switch and countless games on it the spark has really been reignited for me.
+Depends on what you like. If you like the seemingly giant scale of exploration with what seems like hundreds, if not thousands of hours of gameplay BOTW provides, then sure, it's the best. But if you want a hell of a lot of fun condensed into a much shorter time where every single moment is absolutely brilliant, SMO is better. 
+
+I'm on team Zelda for this one, but SMO is a lot of fun with minimum downtime in comparison. 
+That's just until the next first-party release. It was the same with Zelda, MK8D, ARMS and Splatoon.
+I've played a hell of a lot of Splatoon 2, but I think Mario + Rabbids takes the crown when it comes to my personal favorite. 
+Well it's about to be my Xperia XZ. I only got it because my Nexus 5X died and it was what I could reasonably get at the time. Software has been buggy as hell, though they've mostly ironed it out now it seems. But still, I have a Huawei Mate 10 Pro coming in.
+Yep, that's the one! The remakes are downright amazing. Didn't quite pour the 400 hours I apparently put in Sapphire as a kid according to my GBA, but I think I hit 70-80ish.
+I'm not talking about whether it's usable, I'm talking about whether Google names the release stable. What you're running is named "Developer Preview" -- so 8.1 is not out in a stable version yet. 
+Man, Alpha Sapphire was big for me. I played Sapphire as a kid and didn't play any Pokemon games beyond that. Then got a 3DS + AS in August last year. It was amazing. 
+Isn't it on 7.1? I wouldn't call it two versions behind until 8.1 is released as stable. 
+Uh? I was simply saying the service isn't free. 
+Basically everyone who plays FIFA in Europe already bought a PS4 for it. They're not the same type of gamers as everyone else. 
+Which is sad, because plenty of us are interested in their games for Switch. But if they're using LA Noire - which didn't sell well in the first place - to measure interest, we can kiss R* games goodbye. 
+I started playing the co-op in Mario + Rabbids on the Switch with my girlfriend recently. She adores it. 
+> Google offers what 15gbs? Of storage on drive for free.
+
+Nah, for the price of using whatever data you put in those 15GB, whether that be email, documents, photos...
+He probably doesn't even know if or when they're working on a save backup solution.
+Seems to be there more recent headphones. My old MDR-XB950BT's literally cracked after a year so the left earcup is only attached by the wire. Then one of the parts holding the earup to the headphone on the XB950N1's I got to replace them also broke. They've literally had their own room in a hard case in my backpack when they've been transported with me. I've also heard of a lot of people having the same problem with the 1000X'es as I had with my XB950BT's (albeit less extreme than mine, but mine started with the same kind of crack the 1000X gets)
+Cool! I have work that gets in the way of mine as well. I started something like 3 weeks ago. 
+Wonder why they haven't made the web browser easily accessible? :P
+I don't think I'd call trying to prevent hacking a stupid decision. The last thing you want as a dev is your game being pirated on a console.
+Yep. They're usually people's first "proper" headphone and so people think it's the best thing they'll ever hear when in reality they've just been listening to garbage until that point. I've been there. 
+>Sony
+
+Worth noting that Sony doesn't seem to be able to build headphones that last more than a year. 
+I don't disagree. Sadly, I think Nintendo does. 
+>Even just moving a backup save to the sd card would be something.
+
+Sadly opens up hacking possibilities, which Nintendo wants to avoid with a passion. 
+Yep. No way in hell I'm porting our app to Kotlin, especially since I have no knowledge of the language in comparison to Java. But hell yeah I'll use it in side projects and new projects. 
+How long have you been playing guitar for, out of curiosity? I recently started myself :)
+He sings a lot of backing while playing fairly challenging riffs, and he doesn't like not being able to move around while playing (because he has to stay by the mic)
+Well, I'm in no rush to buy EA games. Sucks for those who like sports games though. 
+This matches with Myriann bundling instructions with their portable dock to always plug in HDMI, then power, then Switch and always remove the Switch before removing other cables. 
+Are you sure he's not a cake named "May Be Baked"?
+USB 3.1 gen 1 is just USB 3.0 rebranded though...
+I'll see what I can get done in my spare time. No promises though!
+Uh.. I think the friend's costume is a neckbeard... Not the friend himself. 
+I only have 50+ on BOTW at 75. Splatoon and Mario kart 8 at 30-40ish IIRC. 
+If it doesn't already exist, I might look into making a Bluetooth connection info app thing.. I've been wanting this as well, as well as an excuse to dive into Kotlin. 
+> from the message it seems quite a bit of consideration has been put into not impacting the user too much
+
+Or into the user not noticing so they don't remove it, depending on your point of view.
+
+Plenty of "mineware" on Windows limit the resources it uses in the system so the user doesn't notice it running unless they're doing heavy tasks. I've even seen some that outright disable themselves if the computer is under heavy load so they won't be noticed.
+>Pas-jokes var jeg all-aboard (til en vis grænse)
+
+Heh. 
+Yep... With most of them I prefer the unprocessed versions.
+It has some great tracks, but it also has just as much garbage imo. I don't have a problem with radio rock but unbound, lost and scream are not my thing.
+To be fair, that isn't the "intended route". :)

@@ -1,0 +1,1443 @@
+Still. Microsoft cannot touch the mod "Eldewrito" as it contains nothing that Microsoft owns. It simply just patches halo online files.
+
+All of Eldewrito code is open-source, it would've been taken down by now if anything in the mod belonged to Microsoft. That DCMA was because someone uploaded a file from halo online files by accident.
+The mod is perfectly fine, nothing is wrong with it. It's the distribution of Halo Online files that Microsoft isn't happy about.
+Didn't state it was perfect. A lot of people use the QWERTY layout.
+It's the standard in many countries?
+I think with bigger battery, it's sorta-needed.
+6P also had an issue with the eMMC dying quicker than it was supposed to, iirc.
+I'll probably say competitors
+Makes sense as SwiftKey is owned by Microsoft iirc.
+I have no clue why people might think it's a finished design. I don't think it's even A/B testing either, just 9to5google somehow managed to trigger the change.
+Still looks WIP, so that's probably why it's not rolling out yet
+I'm presuming this is aimed at the downvoters and not my comment entirely.
+
+(I didn't downvote you by the way)
+It's called a Note for a reason
+Do you have a custom recovery installed? (e.g twrp)
+I think he meant the 2nd of April build because the terrible April fools joke.
+I think they mean in terms of software support, not the actual company
+You must be confusing emulation and piracy. Just because you are able to emulate a console doesn't mean it's piracy. Obtaining a copy of the game without purchasing it, is piracy (unless there's a legal reason why)
+And in EE stores.
+We can get them in the UK fine iirc, but never purchased a Pixel so I cannot say.
+Nah, everyone's has to do an April fools. It's the law, didn't you know? /s
+It's for Ambient Display 
+Which TWRP are you flashing?
+You do realize that the developers have lives to attend to, right?
+
+Of course, you don't see that...
+Well, it's called an estimate for a reason...
+I somehow managed to get the number "99". I don't think it was thought out well :/ 
+It's a shame indeed. They seem to have good devices but it's hard to judge without trying the device before buying it.
+*cries*
+HD is 720p and you have FHD (Full HD) which is 1080p 
+Wonder if they are planning a Plus model or just an increase in screen size...
+If you updated an OP3 to the latest OOS version and did a whole reset, then it would be formatted into F2FS. It didn't matter when you got the 3, early or late.
+Keep forgetting Sony sell a lot of their range in CW
+Would be nice to see them in the UK. Great to see more companies other than Samsung, Apple or Huawei in stores like Carphone Warehouse.
+What's fake?
+You're right. There's a page dedicated to tracking location and the user is given the option to disable it.
+Lockdown is for security if the police are allowed to unlock your phone via your fingerprint, race, etc. But not from password 
+That was fixed. Latest update parched it, but some experience still experience more battery drain by V2. But shouldn't be noticeable if you charge your watch at night 
+Lockdown is forcing the phone to require password. Smartlock/fingerprint/etc. cannot be used.
+Nope. That isn't lock down.
+Glad it worked for you :D enjoy ;)
+Hopefully OP fixes it in the next beta! 
+
+Enjoy your photos :D
+Try setting your GPU Render to OpenGL Skia for the time being.
+
+It's in Settings > Developer Options, around the area at the bottom. (For others as well, if they don't know where to change it)
+Should be.
+
+Someone didn't proof read the title, whoopsie.
+Return it if you're still in the return window (if you want to, of course)
+The Gear S3 only has heart monitoring sadly 
+If you're in need of a phone soon or dislike the notch, Go for the 5T. 
+
+But it depends on what you like really, so if you don't mind the notch go for 6.
+That sounds like OnePlus and their software decisions...hmm...
+
+Edit: twas sarcasm people... i'm personally not a fan of the direction that OOS is heading into, but I won't hate people who choose to use it on their OnePlus phone.
+You forgot a piece of your arm, here you go \
+I heard the Pixel 9 was going to be amazing. Just wait for that instead!
+That doesn't make any sense in my opinion.
+
+I'm presuming the Photos app is stuck on something and keeps looping in it, causing it to keep the CPU at higher clock and draining battery.
+Screen off gestures are available on most custom ROMs, being able to fully customise them as well.
+
+Dark mode, OMS or built in colour manager.
+
+Custom hardware key is also available on custom ROMs with some allowing you to completely change single tap, double tap and long press to anything you want.
+Nope. Essential doesn't exist in the UK, sadly.
+Not with that logo being placed on the front.
+Nope, that's just the usual 8.0 I've heard.
+*Inb4 OnePlus 3/3T 8.1 when*
+Aside from the security side which I've heard isn't good.
+[Stolen from OnePlus Forums](https://i.imgur.com/QKudgSz.jpg)
+Along side this, they've screwed with the quick settings even more now.
+I'm thinking that this battery manager with only apply to apps that don't use the new jobscheduler. 
+Bang on! It's because they don't have tight restrictions on what apps can/can't do, right?
+We aren't talking about ads so wat.
+I'm thinking of it like how Chinese OEMs might do it but not as aggressive.
+Why is this even a thing?
+
+We don't know what the whole of MD2 is, except for P DP1 and a chrome screenshot. That's all we got.
+
+Let them tweak the design and then see if it's liked by the community or not.
+I'll try to remember this for tomorrow! :D Thank you!
+Seems like the first one is being the more liked one, but too early to say.
+
+I hope Google makes to changes for DP2, like moving the system icons so that they aren't crammed with the QS.
+That's a valid reason! Didn't think of that. 
+
+
+Sadly, I use a 3T so I don't have access to a Pixel to see what P might look like on an actual device, not an emulator. 
+
+If anyone wants to hook me up with some images, sure.
+
+/u/InFlames03 has some concepts that he made, shared with a TG group. I'm sure he will share them :D
+I'm planning on doing that tomorrow, as it's currently late here. 
+Enabling Demo mode shows 10:10.
+
+So it's either going to be Android 9 or Android 10, for 10 year anniversary.
+That doesn't look like a bug, more intentional. It says "metered WiFi connection" not anything related to mobile data. 
+What's the error?
+You mean Resurrection Remix OS?
+
+I find that to have way too much customisation for my own liking. Something like Nitrogen/Omni just has the right amount. 
+There's no definitive answer to that. Some report that their battery life has tanked since using Dash. Some have flashed a custom ROM which improved their battery life by a lot (was on stock before now flashed custom ROM)
+Emulating ≠ piracy.
+
+Not everyone uses the circle.
+
+Depends on the device. Some might have an un-used partition which could be used for unofficial treble.
+TL;DW whole display just went pop, might be the weak point in the display because of the under the screen fingerprint scanner.
+Nothing new of the BBC...
+Omni, Nitrogen, Lineage.
+
+All good ROMs.
+Being in the UK, I've been the multiple malls and they have indoor navigation with Google Maps so it's not a US-only thing!
+*@s you*
+It's not the blob we need, it's the source code.
+Inb4 comments saying another messaging service by Google.
+It's most likely a codename, nothing to be taken serious.
+
+It's happen before and will continue to happen. Like with KitKat, it was codenamed Key Lime Pie.
+I'm sure banks would be happy with that.
+What's right with them?
+It's mostly the phone telling it self to not charge from that power supply as it's not supported.
+It has a locked bootloader that is hard to unlock, afaik. (Snapdragon models only) 
+That because you're using a 5T. No hardware navigation buttons.
+I said "alright" for that reason.
+What?
+O2 UK (Owned by Telefonica)
+Ah, I misunderstood your comment. My apologies. 
+
+My only dislike is the physics engine crapping it self (making me rage at it and never touching it again, hope to play to fan remake soon)
+
+
+Yeah, I do agree with the Sonic fans. It was a huge middle finger to their fans and probably is one of the worst 3D Sonic games sadly. Retconning never solves all the issues and can cause some issues, but oh well. Sonic Team aren't doing good at all recently. I understand the hatred for recent 343 Halo games as well (fan of Halo myself) and it doesn't seem 343 want to improve on what made Halo great, but instead try to appeal more to the people (CoD players, younger player, not sure?) And that's hurting the image of Halo. Halo 4 MP was just  not right at all for a halo game and Halo 5 story was such a mess, how did Microsoft even allow it out of the door. (They had to redo the whole story because of something, cannot remember. But can't remember if that's true or not)
+
+Sonic games have amazing music, hats off to the SEGA SOUND TEAM for that. I don't think I've ever been disappointed with 3D Sonic games OSTs.
+They both aren't that bad.
+
+H4 Story was alright, but the MP was not great.
+
+Sonic 06 was just a glitchy mess, aside from that, it's an alright game. (It's not the best game ever made, but there are far worse games than S06)
+
+
+If you meant that Iumped H4 with S06, I was only quoting what the commenter put, not trying to make an insult.
+Sonic 06/ Halo 4 ain't bad games as some people think :P
+
+To the people who are downvoting me, read the comments.
+He didn't want to do that (not sure why) 
+If anyone wanted to know. The author is running Nougat and said that their unit hasn't received Oreo as an OTA. They plan to revisit this once they have received Oreo.
+You can unlock the bootloader without rooting :P 
+You don't need to root to install another ROM. All you need is a Custom Recovery.
+That's the data partition where all your storage is location. That's what most people tend that and say "we dont mind loosing some internal storage space"
+
+What Dian is telling us is that there is an unused partition (completely unused) that is about 1.5GB in size, which should be enough for Treble.
+That's the only source that we were able to find. I presume Dian (developer for official LOS 3/3T) has communication with OnePlus to gather this information.
+
+That's all folks :P
+It's because between 90-100% is consider not accurate to what how much the battery has charged up, that's why. It's been like this since the dawn of Android afaik (to the other commenters)
+There's a e-fuse that gets tripped as soon as Knox has been tripped. Once it's been tripped, there's no going back sadly.
+
+You might want to disable phone call access to your watch via your phone settings, Bluetooth. That's if you don't plan to use your watch for any phone calls.
+
+I haven't had this issues with my Gear S3 at all, OOS or Custom ROM.
+Substratum will be staying as its own app. Andromeda will be a companion for it for Oreo+ Devices
+It isn't required, just recommended.
+
+Both LG and Microsoft had phones with LCD displays and had AoD functionality.
+Correct.
+It means that an app is running in the background while your not using it.
+Tizen V3.0.0.1, with the battery update patch that apparently fixed it.
+Just disabled pretty much all of the workout detection stuff.
+
+[This is my battery stats now](https://i.imgur.com/3JBnet0.png)
+They could patch it out, but only on newly made Switches.
+How is your S-Health battery usage so low?
+It's not truely the same.
+
+OOS is missing the down arrow which brings up the small quick setting.
+You're welcome. Most people take things a grain of salt, but at this point.
+
+Anything is news, so have to hope somewhere.
+Well, I won't be harsh nor mean on you :)
+
+It would be nice to see it happen, so I'll have belief :)
+Could you link to some of those rumours? :P
+Google literally still honours your warranty, even if you've messed with it. Read into it so you can back yourself up before spreading such false claims.
+Don't understand where you're getting at? Personally, I've never used an iOS device and may not consider one as long it's my own personal device (there's is a possibility, but who knows). I have no hate towards the iOS crowd, well actually, I'll let them be happy and help them out with their new device.
+
+And yes, I actually use a OnePlus device. If you want proof, I can show you.
+
+Edit: Too clear up, why should we factor in iOS updates? Apple does their own chips and provide their own drivers, giving themself control over how many updates they can give to a device... Here on the Android side, Qualcomm is the main player, yet their stubbornness only manages to give OEMs two years worth of official driver support.
+You pay for what you get.
+
+Does OnePlus offer 3 years of updates, smooth and consistent updates that include monthly security patches.
+
+A big thing for /r/android is day one updates, I don't see OnePlus getting that anytime soon.
+
+And no, I'm not a fanboy of sorts. OnePlus offers great prices for their hardware, but software is a bit of a meh side.
+Only the 100cm cable is round, 150cm is flat. In terms of official cables.
+Have any proof to back yourself up on that one?
+
+or are you simply stirring rubbish news?
+You mean Google, not Android. :p
+Yeah, it is EU laws. But not everyone knows about it so it's not harming anyone to mention it, is it? ;p
+The post isn't really suitable here, more for the average user who might not use their smartphone like we do.
+Like he said, in the phone app settings...
+It's normal, it's just low light shots that phones struggle with unfortunately
+CyanogenMod (now called LineageOS) is a custom ROM.
+You shouldn't mention that, they will know they they have been now.
+Correct. That's OnePlus end, not GCam mod issues.
+The pixel arrangements doesn't matter in VR content...
+It might be good for Always on Display peeps, but maybe not for ambient display...haven't messed with it enough.
+
+Also, why no CRT screen off effect ;)
+I struggle to get this, even with the new update.
+
+I suppose I should do a completely wipe?
+Has a filter that artificially darkens the screen, I guess.
+I don't understand where you got those numbers from.
+That's an interesting view on it! Made me giggle :P Not judging though! 
+It also depends on the person.
+
+I noticed the jelly effect on my 3T while using it upside down and a 5 in normal use.
+I never understand that motto. Can someone enlighten me on that?
+Because the screen was mounted upside, it refreshed from Bottom to Top. We are used to displays refreshing from Top to Bottom. Causing the jelly effect.
+
+People eventually got used it though.
+They are the same company as they are named the same on iOS.
+Being young myself. My phone could never replace a physical remote. I prefer separate device (an Android TV device) but I mostly use YouTube so I find casting more convenient.
+Nope. Flash memory prices have been expensive for a little bit so the pricing is justified, in my opinion.
+No it doesn't. It's only for 1.0.0 version Switch.
+Competition. Only Audible do such a service at the moment, if I'm not wrong. 
+
+If Google can push it and do a good job, then hats off to then.
+I think you took their joke a bit too serious...
+You need to use the official recovery to install the update
+All of the UI elements is rendered at 1080p, stated by Google documents. 
+
+Sony doesn't do the work for it, as Android see's the display as 3840x2160 as a small display
+It's probably more people posting negatively compared to posting positive.
+
+Pixel 2 QC doesn't seem to be compared to the 2XL (screen only, as far as I know)
+I'm loving the new fabric style that they are aiming for.
+Some iPhones still use Qualcomms Modem though. Apple just force it to be weaker so it's not better than the Intel one. As they use both randomly 
+Love the reference :D
+Android is still a full operating system, just as much as Windows, Mac OS and Linux.
+
+You just want a desktop experience with your phone, not another operating system.
+Android is a full operating system.
+
+
+What you are looking for a desktop operating system, there isn't any custom ROMs afaik that do such a thing. 
+You obviously have no clue about photograph, judging by that statement of yours.
+It's more of 80-20% not 80-40.
+I don't think Samsung will be doing OS updates for the Note7 anymore...
+Basically paying for the Porsche name at that point
+No? Raise to Wake is added ages ago, possibly before OP5 laugh 
+That's weird. I wonder what Corsair is doing...
+Sounds like the wrong pricing.
+Did you sideload it or do it via an OTA?
+Phone that you don't have to worry/caring about loosing
+Oh cmon OnePlus. Don't say you fixed it if you haven't :/
+It still isn't fixed after the changelogs saying so?
+
+Could you provide a picture proof please?
+With the 4% of Play Service, I recommend you manually updating it to 940. OOS Oreougat uses the Nougat version which isn't best suited for Oreo and can cause a small amount of battery drain. But that's all I can recommend at the moment.
+He already knows that. He is suggesting another method that might not be accidental triggered and can be just as faster, if not faster.
+It'll be through a ROM, not kernel. Custom ROMs might have it built in 
+Time for an uproar! :D 
+
+I don't have a 2 XL yet but I'm hoping soon!
+They should at least give the user the option to force it upon the apps.
+
+Even creating an issue on Google's Issue Tracker and getting people to star so it might get Google thinking and start on developing such option for the 2XL.
+Doesn't Huawei already do something similar?
+With the recent batches of P2XL having better displays than the initial launch, I say by the time Apple starts producing the next iPhone with an OLED panel, LGs won't be horrible as the reviewers outcried it to be.
+Ah. Understood and explains a lot. Thank you, Sapaa.
+Might explain why in here, in the UK, it says 4G not LTE?
+Might want to provide a source with that or people aren't going to believe you.
+I wonder if the Google Play Services knows what the carrier is and downloads the correct file for it...
+Google only sell their phones through their own store, EE and Carphone Warehouse.
+
+Carphone Warehouse having all of their Android phones being sold as unlocked.
+It's your lucky day as 8.0 Oreo comes with OMS allowing you to use Substratum without the need of rooting. As long as you purchase Andromeda, of course.
+I was going to say, where's the images.
+
+I understood that joke. ZenUI is probably the worst looking skin.
+It was broken for a while, but apparently they have fixed it with some update?
+So that might explain why there is one build designed for the UK but then it's merged? Thank you. 
+Phone might automatically update to it so might be nothing to worry about manually?
+Can someone explain why there is an separate update for UK/O2? (I've seen past updates for Telus, etc.) Is there a reason for this?
+
+P.S: Currently don't own a Pixel, so I'm curious about why this has happened.
+It's a bit unfortunate but I guess it'll improve as LG develop it.
+
+Huawei uses JDI OLED I think.
+It also happens with AMOLED displays so I don't think a simple software will fix such issue :(
+It's just a general AMOLED/P-OLED problem. I wouldn't see it ever fixed, just don't watch stuff at such low brightness to avoid it.
+They stopped the app a few days ago
+You don't choose fingerprint lock. You have to setup a pin/pattern/password as a backup just incase fingerprint isn't detected.
+Even in AOSP, that's how it is. You might've just recently saw it but it's been there since Lollipop I think.
+And they were updated automatically.
+
+In this case, they aren't.
+You can't at all in Oreougat, they removed it that function. It's basically just Quick Toggles now.
+In the looks, not much. 
+
+Under the hood, yes. Plenty of changes.
+It is, unfortunately
+Why be different when you can just be a copycat :D
+Unfortunately, not :(
+That's impressive!
+
+Hello, fellow Briton! 
+Is this with the new revised battery update?
+Now that I thought so it, I think you just need an android device on your Google account. I remember buying an App on Web Play Store and it downloading straight to my device.
+
+Might try an android device to be on your Google account. Might explain why you have Nova Launcher Prime?
+You just purchase them from the Play Store on a device, just not via the website afaik.
+I'm pleased, /u/mkhcb
+
+Enjoy your Christmas buddy!
+How does Google Play Services translate to GAPs? 
+
+Unless you're on about GApps...
+Yep, and can get confusing quick. Haha!
+Play Services, not play store :P
+Ugh. Come on OnePlus, stop being lazy and update your GPS to the right build.
+What's the number after that?
+Last OB still had the nougat version, so I don't have high hopes for them including Oreo ones.
+It's been pulled because of the battery issues. They are releasing a new update in some areas right now.
+I'm sorry, what?
+A/B partition would have you covered, if the OEM uses it on their phones.
+
+I presuming it doesn't kick it until the OS fully boots up?
+Well, OnePlus already does software corners on the 5T (unless you use a custom ROM)
+Looks to be the Gear S2. 
+ax is the new stuff. I've seen LTT do a video on it (some may cringe at me for watching LTT) and it seems to be less penetration but more speed it I remember correctly.
+6hours* 
+It's only the Type-A to Type-C that are having the issues afaik. Type-C to Type-C is fine.
+It shouldn't be this bad though. I use Snapchat and never had this sour amount of battery drain
+Currently on the 3T, same amount of black smear/crushing/whateverpeoplecallit as the Pixel 2 XL
+It's just a general small OLED display issue, currently no way to fix it. If you don't want it, move to an non-oled display
+Well, Tizen is a Linux Foundation Project and Samsung is just one of the contributors
+Which country page is this from?
+You can turn ambient display off, or switch to a custom ROM.
+Who you calling stranger, buddy?
+It's up to the developer if they want to hide the buttons or not. You can't do much about it, it's good for allowing the game to use up all of the screen.
+It's a bug. Just reboot your phone or force stop Google app.
+Well, Nintendo didn't really. It's just the SDXC reader. It supports up to 2TB, which can last a while without the need to do any future refinements. 
+
+The 3DS has SDHC which is limited to 32GB, but you can use a larger capacity with potential reduction of speed.
+I wouldn't say your S3 would be the issue as I have one and I don't have any issues on my 3T related to it draining my battery.
+Razer is 120Hz, not 144.
+Yep as Oreo has OMS built in.
+
+Here's the Link: https://play.google.com/store/apps/details?id=projekt.andromeda
+Andromeda, on the Play Store.
+I agree with /u/maddogcyborg. It's your phone having issues.
+
+OnePlus 3T on Oreo Beta, locked bootloader. No problems updating the watch and installing all the needed apps.
+That's a weird one. At least you get Spotify for £5 a month :D
+You can still sign up to student beans as well. I had no troubles creating an account with my college email address.
+Samsung notification icons are smaller than AOSP so you're probably use to that, depending on how long you used it.
+By any chance, did you have a Samsung phone before?
+My question is, why?
+You need to install everything in the folder (can't remember the name) where all the stuff in needed.
+It seems to be a common issue, a recommend fix is to clear data and see how it goes from there.
+Do you not unlock the phone for awhile? If so, that's probably the reason why.
+Where do you live in the world?
+The width might the be same size as your note 3 now, smaller or larger slightly.
+They aren't water resistant. Zack (JerryRigEverything on YouTube) confirmed this in his teardown, they were playing with the idea it seems but there isn't any proper water  resistance.
+Oh crap. I misread it completely, I apologize. Yeah, you'll need the apps on both watch and phone
+Did you install:
+* Samsung Gear
+* Gear S Plugin
+* Samsung Accessory Service
+
+That is the three apps you should have installed.
+"Currently existing devices that are upgraded to Android Oreo are only required to run kernel version 3.18 or newer, and will not have to be upgraded to support Project Treble." Taken from [XDA](https://www.xda-developers.com/google-mandating-linux-kernel-versions-android-oreo/)
+
+I do apologise. It's probably because I saw a lot of up to date devices with version 4.4 so I must've forgotten about Treble support version 3.18
+It would be a godsend. I love rear FP for these reasons.
+I think with Oreo, you should be able to use fingerprint swipe apps that use the API for it
+Wrong. Treble can only be supported on the kernel version 4.4, any lower isn't compatible. It depends on what the OEM does and if they want to update and rework stuff.
+Seems to becoming more mainstream. Although, this is an "old" feature from Facebook.
+Have you tried enabling all the permission for it via the settings?
+Yes you can, once it is available.
+It's a shame to be honest. People use homebrew for piracy which isn't right. They should only use homebrew for 3rd party apps and homebrew games, not piracy.
+OLED TV don't seem to have the issue, from what I have seen. Only smaller form factors such as phones and watches have this "issue"
+Movies aren't released in the 16:9 ratio... They are released in a wider aspect ratio, but the displays introduce the black bars as zooming in removes information from the movie itself.
+
+In a nutshell, if you watch a lot of wider video footage, go with an 18:9 phone.
+But but Sony clearly loses, yet the fanboys are all happy. The woods confuses me.
+"retarded Samsung sheep. iPhone X best" damn, these comments are ridiculous... wow. 
+
+Haven't come across any Sony ones, thankfully.
+Technically, it is a button with a fingerprint scanner embedded.
+As long as they support SDXC :D
+That's used in the Pixel 2 launcher.
+Haha! 
+That's awesome! I prefer the look frontier over the classic, but the classic looks nice in a nice outfit
+Agreed, Mr Mobile' reviews are my go-to. My Gear S3 replaced my LG G Watch R and I'm pleased with Tizen and hope we get the Tizen 3 update (it does like nice :D)
+Thought so. If one device will have it so will the others. It's due to the pixels taking longer than usual to turn on. Samsung Panels have the same thing. I wouldn't worry about it.
+The black stuff that appears after/behind black images?
+That means the phone is locked in portrait mode.
+At least Dbrand has a cool Twitter account ¯\\__(ツ)__/¯ 
+Sony uses Android's implementation of doing it. It's built into it. So if it detects the screen is 3840x2160 and it is a mobile device then it will render all UI elements at 1080p to conserve battery life and only do 4K (HDR, depending on device) when the media is sending the information to do so.
+Title gore?
+This. I'm talking about the screen, not the glass. It's common that OnePlus phones come with 2.5D glass
+Looks like tiny rounded corners.
+Similarly thing happens in the UK, some city big signs (locations, etc.) use Android.
+I'm just pleased that we have the space diaper (space nappy for the UK?)
+You still have a wallet? :D
+I do agree with that. They seem to be doing nice improvements, clean, simplicity, and not getting in the way.
+Oreo introduced it so yeah, Oreo only.
+It's just adaptive icons. OnePlus has enabled it so I'm presuming that an upcoming launcher update will add the options to change the shapes via the OnePlus launcher or you can use a 3rd party.
+Gzosp released a build yesterday(13/10/17) and it's getting there slowly.
+SIM1 possibly.
+Nothing at all, unless it's for the Chinese market. Unless OnePlus shows us what it's actually used for, I'm a bit iffy about it.
+Wow. Someone took it a bit too far. I do know that Google collects a lot more information than OnePlus does. That's a no brainer.
+
+
+This is why I moved away from Oxygen OS now :(
+APlus is a bad translation of OnePlus from Chinese :P (probably Google Translate)
+Nah, that isn't the reason. The reason is to allow gestures on Ambient Display. If you have double tap to wake enabled, you can use that.
+Google doesn't know when you unlock or lock you phone like OnePlus does on Oxygen OS.
+*New Nintendo 3DS Exclusive
+Wow.. :/
+Do you have the apps installed by any chance?
+Sounds like you're crying. Oh well :)
+Why the Magisk module?
+You must have an older version or a buggy one as I'm using GCam with working 60fps video camera, zoom is fine.
+Unfortunately, no. It's a shame that our devices (I have a 3T) doesn't support VoLTE on O2 network even though it's exclusive to them.
+Possibly the two toad colours?
+So, you don't want cloud saving? Gotcha...
+Dash charging will always be blue unless you have a custom ROM installed.
+Not as I know off. S-Pay works, S-Health works, Android Messages is supported for quick replies.
+Nope. It works on non Samsung phones. I'm currently using the Gear S3 and it works wonderfully.
+What you are seeing with the massive gaps in the side is an issue. It's happens now and again.
+Define real job then?
+They what's they say but my battery life was worse with it on, than off.
+Yeah that one. It's been called that since a few OB back.
+
+You're welcome :) I find it to more of a hindrance than helping.
+Have you disabled advanced Optimisation?
+That's not really SMS.
+
+All it is allowing you to do is to invite the person who doesn't have Allo over SMS.
+I would recommend waiting for the Pixel 2 :)
+Some other subreddits joke about a similar meme such as Soon™ which is used in the /r/HaloOnline very often. 
+
+It's funny :D
+And you'll only be out of one joycons, so you can still play your games while the other one is still being shipped/repaired too :P
+No. It's the same. Swipe up to decline, swipe down to answer
+It's coming soon. They have came out and said that it wasn't ready in time and don't want other users to wait around for the switch version.
+In the recent OB release for 3/3T, there is an setting panel for compatibility mode. With apps saying compatibility (16:9) and full screen. Changing the option crashes it.
+You mean JTAG/RGB Xbox 360?
+Maybe one day we could get another Prime "remaster" for the Switch, playing 3 with a Wii Remote doesn't sound and playing 1 and 2 on the go would be amazing.
+I bought my 3T pay as you go and it's SIM free.
+It should automatically exchange with what the current exchange rate is. PayPal will be your best bet.
+It'll get automatically converted. (If I'm not wrong)
+Oh my, oh my...
+We are halo fans. You are just stupid.
+
+There isn't an H3A. Xbone is getting emulation support for Halo 3 for the 360 or you have the option for Halo MCC which runs at 1080p 60FPD.
+Blinded by themselves. Oh wow. H3A? No such thing dude.
+I think Swift themes are nice :)
+It depends if the display supports it. I don't think the OnePlus 5 panel supports HDR
+You need to have Allo installed to see your stickers.
+Inb4 GraceWiz Experience
+That is the latest name for it. It's not Touchwiz, it's not Grace UX. It's Samsung Experience.
+Later 3Ts have the A5 panel which supports DCI-P3 (same panel as the 5)
+Soon™
+Weird. I am able to do it with the warning. I'm unsure, sorry!
+Then you need to update your Windows 10, before you can play H5: F
+Did you restart after enabling the option?
+Just flash OOS via the device by downloading it and installing via OT updater :)
+There is the Note Edge.
+You're welcome 💜
+Check data usage control and make sure it isn't set to mobile data only.
+Disable Advanced Optimisation/Aggressive doze. That should fix your issue.
+To add onto that. Microsoft Studio has the power to set a release date for the project, and 343 can't do anything about it. 
+
+I'm not defending 343 as well. H5 campaign was meh and H4 multiplayer took a cod like turn.
+343 can't fix it. They are pretty much unable to. They have a tight development plan.
+
+MCC was formed by a lot of different companies, forcing different engines into one package is no easy gain. The core function of MCC is broken beyond repair and needs a whole rebase to even make it into a fixable state. 
+
+The other companies that worked on MCC night also be busy so they can't help 343 out at all.
+If they can. It might be broken so low level that a simple update might not do it.
+The white boxed icons can be changed via the launcher. GNL doesn't seem to support the icons while the Pixel Launcher does.
+Unlock bootloader. Flash TWRP and install Magisk.
+
+That is simple :P
+Yup. Pixel will have Treble enabled. It's up to the OEMs to include it and if they want, to sort out their current devices.
+Sorry, I sorta just read through the post.
+You can download the DLC in the game it self so that it goes through the 360 emulator and bypasses the need for a credit card.
+Nope. UK English as well.
+You might need to be rooted to change it.
+Not really. It's been an available language since the launch of the Pixel.
+Yep! I just suddenly got it as well. Don't know for how long though.
+Because OnePlus doesn't listen anymore it seems. We have asked for this endless of times but they refuse to revert the issue...
+To add on, it wouldn't be user friendly to migrate everyone to discord as they might be using Telegram as an everyday messenger.
+Can confirm it's free in the UK. NNID is UK and Console is UK.
+OnePlus has broken Ambient Display for a while now and refuse to fix it it seems..
+ :/
+Interesting! TIL! Thank you!
+No? If I remember correctly, we used ext4 since the dawn of Android.
+
+The way you access files is different from using mtp.
+NTFS stands for Windows NT File System, owned by Microsoft.
+821 used msm8996 pro, so a similar thing might happen with the 836.
+I personally think Google is trying to think the tablet version of Android, but at a slow rate.
+The Xbox one dashboard was opened up on an old version, might be a launch version. I haven't heard much then myself. It might another PS4 scenario, nothing is known to the public but stuff might be happening.
+Can you jailbreak on the latest iOS version? I heard you can't.
+
+It's sad that you can't be up to date on security patches and OS patches while being jailbroken. ;)
+>works fine
+
+So explain all the issues that people are having? I'm unable to play with a friend in America because of this crumbling collection, which is a bit of a shame.
+
+MCC isn't fixed, don't be blinded by anyone. Just move on and accept the faults, there is nothing else we can do.
+It uses the Adreno™ 508
+
+So possibly an Snapdragon 630.
+That exploit wasn't reported to Nintendo :)
+
+(Comment is 3 days old so you might know which one know :) )
+If you bothered to look up the app, you'll see it isn't for SD cards. It's for managing your storage, helping you out with cleaning the device. And no, it's not the typical clean master junk either. It's handy.
+But what they say and what they do are two different things. They are just saying it, so we will have to just take their word for it. They didn't specify when or nothing.
+This is related to Google Assistant.
+
+Though it doesn't appear for everyone who has Google assistant so it is a bit of an weird one.
+
+Edit: This is my theory
+Your capacity is fine and showing 53GB which is fine.
+
+Best bet would be to do a wipe of internal storage.
+You must be using up the rest in your internal storage somewhere.
+>100 emoji
+
+As if it will make it more believable :P
+Funny enough, we have a Nvidia shield that does a similar thing.
+
+Shield kills off our network until it's rebooted in which the network will work properly.
+It's a bit more strong but still yellowy.
+Sounds like an Google Employee, if I say so myself ;)
+Well, that team no longer exists with OnePlus because of the wanted merge.
+I don't think you how it works.
+What ROM?
+For the people who don't see the option, here is my solution.
+
+Download [Activity Launcher](https://play.google.com/store/apps/details?id=de.szalkowski.activitylauncher)
+
+Find Settings, and hold down on Notification Log. Press on Create Shortcut and there you go :)
+Your problem is Norton ;P
+Weird. That is the only thing I could think of triggering it to stay locked.
+
+Unsure then :(
+Do you have a case by any chance, flip case?
+It's good enough for getting your data off.
+
+I wouldn't recommend using your device like this though, it might not be a good idea in the long run.
+Oh wow :P I might have a false memory on something Sabre saying that they applaud the devs, but no idea.
+Yeah I know. I was going to edit my comment but couldn't be bothered to do so :P
+All of Google's 59,000 of them? Damn. 😂
+But isn't though.
+
+This is Halo Online, not Halo 3.
+To add on to this; isn't Sabre like cool with this and all?
+Use ADB ;)))
+My Google app was updated yesterday and I can still do it.
+
+Might be serverside.
+Weirdly enough, I can still swipe to dismiss.
+This, all of it.
+
+Sony hasn't done any of it, it was Google.
+
+They did it because they knew 4K would be pointless at UI on such a small scale.
+Are you on Open Beta by any chance?
+That is just standard Android.
+
+OnePlus removed this feature because of the alert slider. Which makes no sense.
+Don't forget your fidget spinner theme! /s
+In the older builds, yes. Newer builds, no.
+The teams were merged to make updating H2OS/OOS easier.
+Yup :/
+Well, the OnePlus 3T limits non dash to 1.5A so :(
+Are you using ext4 or F2FS?
+Indeed. Just wanted to clear it up, as most starters think that you need to root first but only need an custom recovery :)
+You don't need to root an Android device to change its ROM :)
+And will probably stay faster for a longer time.
+>Launcher3
+
+FTFY.
+:D 
+It barely consumes that much power.
+I'm hoping so! Awesome work.
+Still better than just having one build and that's it.
+They seem to be pushing more updates than the past PA team. I have trust in these guys.
+We have Classic Halo and Modern Halo.
+
+A lot of us prefer Classic as we played a lot of that and we loved it.
+Some dislike Modern Halo because of its new Spartan abilities, etc.
+When was it ever customisable on Oxygen OS?
+
+You can change the default camera app to another camera app.
+Agreed. The bug reports are useless to OnePlus. They don't do it for the community, they do it for themselves.
+This so much.
+I'm in the telegram group and one or two people have told me that they don't even notice the change. Like how can you not see that the colours are way over the top in night mode because default is being used instead of sRGB.
+Aye! The FOTUS secretly turns me on.
+I think CeX sells them for .50p now as well, lol.
+You never disappoint me, Mr. Wang.
+I don't think it'll affect custom ROMs.
+I had the third party apps crashing on me. It was annoying as hell.
+But the government doesn't allow it because of the triple tap. Because it's for emergency, they want OEMs to disable double tap in India.
+Because triple tap is for SoS.
+That's just the Indian Government doing. Sadly, you can't do much without a custom ROM.
+Advanced Optimisation they call it now.
+Disable Aggressive Size Doze or whatever they call it now. It causes more trouble than helps in my opinion.
+Happy Reddit Birthday! ;)
+I wasn't directly talking about those. When I had my Xperia Z1, the bootloader was locked but I was able to flash a custom recovery so that I can flash anything (not kernels) :P
+It might be like how locked bootloader Xperia worked.
+Weird. A friend of mine told me and showed me evidence of it. Hmm.
+Can I ask, do you have issues with Play store and it lagging in areas?
+Mine is like the OPs screenshot but has the red header.
+Hehe, I like you 😂
+Sadly, that isn't the case anymore.
+Well, they left because of OnePlus. Worded wrong, was late at night I think.
+Was but then they wanted to leave as OnePlus wanted them to move to China afaik
+Now that makes sense. But in OOS, they shouldn't be needed because GApps.
+When? I can't recall when OnePlus did it.
+Until Google patches it...
+It is, I don't understand why they are so selective...
+Oh wow. TIL. Thanks for that information! I'm sorta sad that there isn't much development on the jailbreaking side anymore but that's just Apple being "secure"
+Only one person works on Xposed while a team of people probably work on jailbreaking.
+Sadly, no. Not without modifications
+And that's why you have separate playlists so you can give you self a trial against KB&M users ;)
+You're welcome! ;)
+But but I like to use Wi-fi Calling when I drop signal randomly 😂
+I mean like they don't support WiFi calling for any of the OnePlus phones they sold. I know they support it as family members have iPhones.
+Proximity sensor, not front camera :)
+I find it funny that EE supports OnePlus phones for WiFi Calling while O2 is the only carrier selling them and doesn't support WiFi Calling. :p
+Because it wouldn't have good enough performance and the user might not have the resources to use GPU Passthrough.
+It's not exactly hard to make these, even someone who hasn't used Photoshop before can do it. 
+
+There is plenty of wallpapers out there that offer similar thing, so this wasn't really needed.
+My friend is sure happy about this being on here :D
+Have you enabled deep clean by accident?
+That's already BC, unless you're on about the DLC
+Currently, yes. I've had a Nexus 6P before and it only happened when I flashed 7.1
+On my 6.0 device, it was always stuck to the right side and not on the bottom.
+This is an Android 7.1 thing, it's too keep the navigation bar staying the same place at all times whether it's rotated or not.
+Weird... HTC approach is great in a way but Samsung not giving an option...
+I think they gave the option to enable USB 3 but with the warning. I can't remember as I didn't use the USB3 functions on my Note 3.
+Game for Windows Live. It was Microsoft's attempt of getting Xbox Live working on Windows, didn't go so well.
+It's the same exact display. A5 was used in the OnePlus 5 and late OnePlus 3T models.
+I have noticed that background light app have to even reload even though there is barely anything open. I have the same amount of apps as I did on my N6P and that didn't reload the light apps until I played a game or something related.
+
+But people app usage is different so ¯\\\_(ツ)\_/¯
+Oxygen OS is known for not good ram management so people are constantly reloading apps. I get this issue on my 3T, which is causing me to go flash a custom ROM.
+SD8xx series supports low powered functions for this reason. It doesn't consume too much battery.
+Performance (I would presume) keeps the CPU and GPU clocks at the highest it can go, while balance (of course) only changes the frequencies based on load.
+
+The Kernel limits it for some reason. Custom Kernels get around this limit.
+Upvote for the source :P
+* NVBackupUI is something to do with Factory Reset.
+* OnePlusLogKit is self explanatory.
+* Opmmslocation is something for MMS I guess?
+* SocialNetworkHub, I don't even know.
+1. Me -
+Age: 16
+Phone: OnePlus 3T. I do most of my work on this except for when I need to do heavy office work that requires a lot of typing. 
+
+2. Mother -
+Age: Early Forties
+Phone: iPhone 6S Plus, uses it for mostly everything.
+
+3. Father -
+Age: Early Forties
+Phone: iPhone 6S Plus, uses it for nearly 99% stuff he does.
+
+Younger sibling is too young to have a phone at the moment.
+
+So yeah. I'm the only Android person in my family now.
+TIL.  Well, thank you for clearing that up for me. I did explain in one of the command that it is running in debug mode.
+:)
+The reason it works is because the app is debuggable. The article on Android Police "Nova Google Companion" says that the app is debuggable and is the reason for not being able to be published on the play store.
+It's an unknown project to many but it's quite a nice launcher that introduced GNow Panel to rootless launchers.
+The original person who had rootless GNow Integration was the person behind Lawnchair.
+The latest beta has ruin the RAM management.
+
+It randomly closes my foreground app then my launcher was forcefully closed because of the ram management.
+Well I did says any device that supports rootless substratum. So any ROM that has substratum support should support rootless.
+
+Unmodified AOSP only have support for RRO.
+Here you go: https://plus.google.com/+NicholasChumCDT/posts/M1ec5crM1bY
+
+Rootless was released a while back
+Any device that supports rootless substratum. So most should work unless it's been heavily modified e.g. touchwiz.
+The best way to hide bootloader being unlocked is to flash a kernel that supports the removal of the detection
+Of course. Just want to let people know :)
+It is true :)
+They do have ads in them, and a way to purchase removal of ads.
+It had an amazing single core performance.
+If I remember correctly, when I played with a retail unit it had something about longer charging times if you wasn't using it for a long period of time. Hmm.
+We can buy from here and get it imported, I presume. Lemme check.
+
+EDIT: We can!
+I understand your values :) I just wanted to tell people who live in the United Kingdom that's all :P 
+Moto Z - Being sold in the UK for £364.99, reduces from £499.00.
+
+Weirdly enough, the Play is an extra pound...
+Ah, gotcha :P no hard feelings *high five*
+Erm. I don't think you know who Zed is.
+Yup! Sadly, I believed in the hype behind it and now I regret it but I have learned from my mistakes.
+That sounds awesome. May I ask, does it automatically turns off Quick charge if it notices that you aren't using the device for a long period of time?
+I think this would better put into /r/AndroidQuestions
+An Telegram user in /r/Android reported that their battery overall life was at 82% out of the overall 3,400mAh and my 3T used to be able to reach a whole day without no issue, but now is struggling to reach that without another charge.
+While Dash charging is amazing and all, I've noticed that battery degradation is rapidly happening. And I'm not the only one experiencing this.
+Not everyone can afford one, nor have available stock near them. :)
+I wish I saved up more for the XZP but my Nexus 6P couldn't last my a day no longer which I was upset with. Saying that, my 3T is heading towards that direction because of Dash Charge it seems
+
+I feel sorry for you US People. You have a split between CDMA and GSM, and not all of your phone's support all the required bands.
+Exactly. If you can get the XZ Premium, awesome. I've heard so much positivity from the XZ in terms of smoothness and performance.
+back again with another video
+None of that :)
+I wonder if they have fixed the night mode bug as well.
+Weirdly enough, my 3T always hovers around in the 4GB area nearly touching 5GB.
+Thank you dear redditor.
+Thank you, at least you care about my safety <3
+OnePlus can tell you that.
+I don't think it's necessarily Google's fault. It can be apps abusing the service like they do with Android OS, etc.
+You do know that after some time, if the year is off as well you'll be unable to do certain tasks like visiting certain websites, etc.
+It's not 3K then :P just state the resolution. It's easier for everyone.
+They approve this stupid stuff but decline anything useful
+Something must be wrong on your end then because when I updated to when the touch latency was fixed, I can easily feel the increased responsiveness​.
+*facepalm*
+YOU ARE A PIRATE
+Sounds good enough for me ;)
+And plus it just says Halo 5, not guardians like it should do. :P
+Yup! I prefer my app drawers to be all apps only. But people have preferences :)
+Yeah, I read it through but forgot about having the Pixel Launcher installed.
+Oh wait. I might still have it installed. Whoops.
+~~Is it me or is my 3T refusing to install it saying package is corrupt?~~
+
+Fixed it. I completely forgot I had the Pixel Launcher installed.
+And it probably has a better state 7.1.1 than OnePlus skin of 7.1.1
+You have to launch it through activity launcher.
+
+But it does nothing.
+Most of the launcher updates is done through the Google app. :)
+I had the update notification but I had to flash my kernel back to stock and the update disappeared ;(
+Razer did buy our Nextbit :)
+You can change the value in developer options.
+Astroboy and Bender apparently?
+That has multiple options: Battery monitor, notification indicator, etc.
+
+Sign me up, I would actually buy that. Matte Black with RGB Razer logo, yummy.
+Doesn't mean they won't release a successor. Maybe under the Razer branding, who knows.
+Sadly, no. You'll have to use the 'User Report' app.
+They replaced the wave feature with the tilt to wake.
+
+It's works more reliably when pulling the phone out of the pocket, etc.
+Your best bet would be to send UI/UX Improvements form to OnePlus about it.
+The reason why you can't just click on the notification with ambient display is that OnePlus allows you to use the gestures with it.
+It makes sense why it was removed from the Play Store though. The Magisk developer even explained it in detail.
+Same here. Gives the clock priority over everything else..
+I am also glad about that. The boldness in the Calculator didn't make sense.
+Dash 1.0 is VOOC so it makes sense that Dash 2.0 will be Super VOOC.
+The old PA left OnePlus because of complications.
+
+New PA has nothing to do with OOS. I hope that clears it up :)
+I don't think Super VOOC is PD compliant.
+Sounds like someone got bored one day.
+How is your Honor 8?
+It's not that they can afford it.
+It came with Marshmallow. Nougat was one major version and O will be another.
+I would've thought that PA wouldn't include an camera app, but allowing you to download GCamera from Play Store. It shouldn't affect it as Photos will see if the model number, etc matches up with the Pixel ones on their server.
+Vega is dead. Doomguy took him...
+That's all we know.
+This could be an interesting addition. At least Google knows what we want :D and that is notifications for when deals for apps we like.
+I'm thinking that OnePlus is making sure that the stable release is as stable as possible because of recent reports. Possibly in a week, don't hold your breath though.
+Did you mean stable?
+
+Should be soon™
+Sounds like someone should get an iPhone instead /s
+How do you know that? None of us do.
+The new beta will have the May security patch. A new stable build might be soon, we don't know.
+I wonder what the standby time will be like then ;)
+Oh you ( ͡° ͜ʖ ͡°)
+It says dual camera on it though.
+Create a thread about. Stop hijacking threads.
+You're welcome <3
+Because it's now the mixed team of the team and Hydrogen OS is easier to release because of no GApps and passing CTS, etc.
+It seems like it's available for other languages as well because it has the correct spelling in English: OnePlus Slate™
+Because it is :P
+Lucky for you I've been in that area before.
+
+Bought an Sony Xperia Z (this was a while back) second hand, took it home it was all fine. Next day arrives, blacklisted. Took it back to the shop and got an replacement​ for it which was Xperia Z1.
+Exactly! This guy has got the right idea!
+I heard rumors that the S12 will only have a 12MP sensor. I demand a 64MP sensor. It's all about the megapixels. /s
+But the S10 might be a refresh too! Bring on the S11!
+Well, besides security patches. I complain about that too. I meant it in a fashion of the 3/3T still gets updates but not the important ones that we deserve. 
+That's just an S8 issue. Most rear fingerprint sensors are located beneath the camera sensor and are circular. Example: Nexus 5x/6P, Huawei Mate9/P10, ZTE Axon7/7s and Pixel(XL)
+
+Well, it seems like the 3/3T are still getting solid update so far.
+Nope. You'll still need root.
+Nope. They are not commited to security patches either. Hopefully they update it in the next update.
+I think that basic knowledge of java will help so that you can understand Android more underneath and Kotlin can be the massive part :)
+That's how EIS works though.
+There we go!
+Please use the /s next time.
+I have already done all of that. Didn't work. :(
+Flat and without flat is so much better.
+It doesn't make a difference :P 
+
+Anyway, I use software keys most of the time. Assistant isn't enabled at all anywhere.
+Yup. I normally use UK as that is a supported language but ¯\\\_(ツ)\_/¯
+What is the screen flickering issue about?
+And I sit here upset that loads of people have Google Assistant and I'm here still using Google Now on Top. ;(
+65bucks? You mean cent right? Because it's 99pence here.
+They might've done it through the Xperia Launcher not Gnow/Pixel
+It's buggy. Sometimes it freezes the overview menu and I have to exit out of it to restore it functionality.
+AFAIK, Action Launcher does some hackery to get it to work. I think they did some reverse enginnering (?) to figure out how Google now page can appear in the Now Launcher/Pixel Launcher but not in other launchers.
+Basically the Galaxy S8 with two cameras.
+
+Looks like a fake leak.
+Apps, because they are system apps.
+
+Widgets, it depends on the launcher. Just change launcher to Nova or something.
+They never sold official in the places were Play Services are popular, as far as I know. 
+All hail /u/GameCheat13 :P
+Of course.
+I did say I might be wrong xD. But we should always have an backup code just incase we lose our devices.
+You would be out of luck if you didn't have any other device on hand.
+
+You'll probably have to contact Google and work your way from there. I might be wrong though.
+It hurts my head and eyes, which isn't a good way to use our device... 
+Don't risk it! 😂
+I wonder what was so special about 17. But of course, it's not ready for beta release :P
+This. I've reported this numerous of times and no fixes.... It's annoying. We should not be forced to use default. There's a reason why we chose sRGB.
+That would be a good idea. Make Campaign and MP/Forge separate​ :)
+Get back to r/PCMasterRace you elitest.
+It only happens in Chrome as I'm only on Nougat. Clicking on a text box they had a phone number, email address or address will scan it and give you your default app for that action.
+Just tried this feature on the Dev branch of chrome. It's amazing.
+Dev supports it too.
+It was all lies this whole time! How could I been so mislead?!
+That isn't a fact :P
+
+It depends on the screen size. At 5.5", RGB FHD is great compared to Pentile FHD :P
+You're welcome :)
+This allows you to keep SafetyNet working while having all of the functionality of Greenify
+You can flash it via fastboot if you download the latest beta for your 3/T or apparently you can do it via the OTA app by using local update
+It's probably easier to update them separately and better for the consumer because they'll see a Messenging app and a Voice call app
+Pretty much. It's about fast as every other device now :)
+They've fixed it in the beta. It'll probably come to stable in 4.2
+It's still broken in areas and is not that effective as it should be compared to a proper method (Samsung's, CF.Lumen, F.LUX)
+
+Probably because most of Tizen's knowing is from Samsung devices.
+I have a similar friend, they say that they're supportive but use the incorrect pronouns, etc. :(
+You're welcome! 😊
+You're welcome 😊
+You can use the native pin function in Android :)
+One of the leaked OnePlus wallpapers. I'll try find a look for you now.
+
+Edit: here you go :) https://forum.xda-developers.com/oneplus-3/themes/wallpapers-oneplus-wallpapers-t3589559
+It's still coming from the same area. If the storage device is 64 (formatted to 54GB) and the system is 4GB that mean you only have 50GB left for other things.
+Yes it is.
+Rifon on OOS is outdated, I know it's a bit late but just a heads up.
+They weren't amazing ports. Halo 2 was awful from day one. Halo 1 had an amazing modding community.
+Reddit rules are bizarre. Some people get away with it. Some don't.
+Well, no1dead is a great guy. We can let this slide 
+It is pre-installed on every Google Play Services device. It's just hidden if not available in that country you are in.
+That is true :)
+Ah! increase the thickness so the camera bump is gone so we can fit in a higher capacity battery. If they could change the pentile AMOLED to an RGB AMOLED display.
+OnePlus 3T. Move fingerprint sensor to the back and stereo speakers 😅 (maybe no alert slider)
+This is what I was on about in the Android telegram group. OnePlus seems to care about design more than fixing bugs and updating the security patches.
+I like playing hard ( ͡° ͜ʖ ͡°)
+This was probably the most gayest conversation I've seen, so far.
+Might be because their app isn't on the Play store, because that can't be bothered to pay it or something else
+As small as mine. ( ͡° ͜ʖ ͡°) wait a minute.
+Loads up pretty fast here.
+It's official supported by Meizu, you could say. They allow the developers to use their OTA server, etc.
+It might be because the ZW3 AND HW both have speakers, and they are having troubles.
+That's peculiar. I wonder why it only happens on certain AW watches...
+Weird. I'm having no such problems with my OnePlus 3T and LG G Watch R. Everything stays in sync with each other. I wonder if it something to do with Google?
+FlymeOS team (Meizu) supports third party device official?!?
+Send me a Reddit message :)
+According to my flair, nope :P
+This is looking interesting! 
+I'm 16 so I might be of an assistant.
+They might be rolling it out to everyone now, wahoo!
+Google doesn't support them for over two years. Once the two years up, that's it. All you're going to get is security patches for a year.
+
+OnePlus 2 wasn't a good device so OnePlus isn't interested in keep an device that didn't do well updated.
+That sucks so much D: I had it for a whole year, I miss it so much. 
+I loved my Nexus 6P, but the battery issues was driving me up the wall so I had to say goodbye to it :(
+You need to state what device it was for. Your post just say that 2.0 has been released, no mention of device.
+You didn't do a headshot though?
+What? It's already been released.
+It has been improved in the beta builds, stable has yet to received it as far as I know.
+You have to flash a beta release to receive beta builds over OTA.
+BettaByte?
+Well, they are in the negative area now so they haven't got what they wanted.
+If this is true and the android version is 7.1.2 then what are you doing with OnePlus 3 builds? 
+SWAT is a roulette sadly, I like SWATNUMs and SWAT but not a fan of DMR SWAT. You'll adapt the infection quickly if you people it enough, been there done that. They haven't screwed up halo, just try play for a little more longer.
+SWAT is the only SWAT game mode with BR as the weapon. You just have to be lucky to get the original one. 
+Exactly. I'm glad that Google gave us manual control over DPI in the developer options.
+I know it is, I was making a NSFW joke about :P.
+
+GameCheat13 is a weird and awesome person.
+How deep? ( ͡° ͜ʖ ͡°)
+OnePlus did it for their 3, it looked way too big and was a waste. They've changed it now to small
+I've seen a few OEMs not use the correct DPI on their stock software :( we should be given a choice with MIUI 9 on Nougat now as its native.
+I think they went bankrupt, not sold.
+
+Why do OnePlus break such simple things, and yet take forever to fix them?
+
+Also, we are still suck on 1st March security patch, OnePlus.
+I wouldn't know myself, the lore is a bit weird. Spartans can lift a tank, but not dual-wield in Halo 5. 
+It makes sense. Forza: Apex was like a beta for Forza 3 Horizon.
+Dual-wielding ARs wouldn't work because of their weight. Some weapons were only made to support it because it made sense. Needler, Magnum, SMG, etc. 
+
+Edit: talking realistic, weight might not be an issue.
+Apparently, more is to come with the new useless addition. Who knows what though, OnePlus have been doing some peculiar things recently.
+Thank you! I've been complaining about this for a while now.
+That sounds so similar to how my school does it. It sucks ;( 
+Oh well :P
+Please don't tell me you downvoted me :P
+
+If so, it sounded like it. Not is. Haha.
+Not to hate or anything OP, but you sound like a CoD player. I might be wrong though.
+Same issue here. OnePlus should send out an update asap.
+Enable power notifications in OnePlus Laboratory (*System UI Tuner*)
+It can be updated.
+That is what I don't understand on OnePlus behalf, how can they mess up so badly on video recording.
+They have a warning as well. It just tells you High volume.
+True, it's good protection for the user but when it constantly pops up, that is irritating.
+
+You can use a ^*keygen* for Halo CE. I'm saying nothing more as that is piracy.
+That's odd. Blame Samsung then... :p
+I don't believe anything that has been happening about the battery. This hasn't been reported by any major reviewers nor properly documented anywhere. Though, this is my opinion so I can be wrong.
+The volume warning is apart of the EU laws. Unless you don't live in Europe?
+I wouldn't call America glorious. And everyone is having the issue, not just European players.
+Ah! That might be it. Mike did the first half while the other guy did the second half. I'm glad you did your research! 
+Locke is a bit of an odd one in terms of development. He isn't voiced by Mike Colter but is motion captured by him.
+About the reach comment. Recently got a copy of it, haven't played it in age. I seem to do better than other places, but that's probably just beginners look. I do play Halo 5 a lot, so when playing Reach I did have to slightly adjust but that's it
+I've seen two people with the 3/3T. One in a UK retail store "PC World Currys" and one in my city centre.
+We don't know if they scrapped it or not. It's only because of the launcher missing the options. If we could install the older launcher, maybe we can?
+This app is visually beautiful and as I only use local music aside Spotify, I think I might keep it.
+Well, it's only the first developer preview so there will be more improvements later on.
+I sometimes change my setup around. I like the compact layout, but I have no idea on what to use on the left and right sides.
+
+[Screenshot of Home launcher.](http://i.imgur.com/8S2copO.jpg)
+OnePlus 3T, OOS Open Beta 5 (soon 6) 7.1.1
+Killjoy? I couldn't tell if you was being fun or being serious. Sorry.
+I'm here to assist with anything that you are wanting help for. I've helped someone on here too and they feel delighted that they talk to me now. As my flair says, I'm 16 but sadly, pre-everything. <3
+I think it may not. It might be saying that low testosterone and low estrogen may lead to early death but as long as one is high I think we are fine. Of course, we prefer high estrogen. 
+It does sound nicer with the G instead of the J. 
+You're welcome. I used the controller on the 5: Forge but as the games are basically the same minus Campaign, WarZone.
+I was on mobile, but sure. I'll add it.
+Let me see if I can figure out for you.
+
+Holding left d-pad and X stops you from going up but not down.
+Anjelica, it's the first name that popped into my head for you :)
+There is a dolly camera function in Halo 5, I've been able to active on 5: Forge though I don't know the buttons on the controller for it. (Unless they removed it?)
+You're welcome and I know right?!? :D
+That is amazing! Love it! You're talent is out of this world <3
+
+We also share a cakeday! :D
+They are meh. They aren't that great at all. 
+I have already changed to my new phone as my 6P had battery issues sadly :(
+The difference between MKB and Controller is that the Mouse is more accurate compared to the control which is an advantage
+There is a few gripes. I've made a recent comment on here.
+
+Edit: https://www.reddit.com/r/Android/comments/67bcrl/opinion_after_many_updates_and_growing_pains/dgpehl4/
+
+You're welcome.
+On the latest OOS version, we still have the 7.0 Quick setting style while we are on 7.1.1 (nitpicking)
+
+Accent colours are limited to 8 meh colours.
+I'm just saying possibly because it being an 805 and Qualcomm hasn't said anything about not providing drivers anymore. As far as I know. Lol.
+I said possibly. I didn't say it will. 
+It has a lot of work! There is a few odd things that haven't been changed nor added for some reason.
+S5, no chance. Note 4, possibly.
+>I'm not expressing an opinion on piracy, but to those thinking it isn't, the first screenshot literally features all copyrighted music. It's piracy.
+
+This ^
+
+It literally shows piracy on the first screenshot. Most ISP do not allow piracy as it can count as stealing content that you don't own.
+~~Technically this isn't piracy as BitTorrent is a P2P client. Though, most people use it for piracy which is upsetting :(~~
+
+Edit: it gives you direct link to music so I'm confused if this would count as piracy.
+
+Edit: Final decision, it's piracy. There is not ifs or buts about it.
+I think FOTUS would say otherwise ;)
+Haha, don't worry :D
+I know that O2 sold ones are not as my 3T was also purchased from O2 :D
+
+I'm​ just not sure if other carriers around the world would do it though. They might do as the engineer mode does have a check for SIM lock.
+You can check if your carrier store has in-store models. Open up the hidden menu thing and it will tell you if it is SIM locked or not. (Retail units might vary, I'm not sure)
+I see Lapis lazuli, right there.
+I think carrier-sold OnePlus phones are sim unlocked as in the UK, the exclusive carrier **O2** sells OnePlus phones unlocked, even with a contract or PAYGO.
+I'll comment on your YouTube career.
+
+I know a trans YouTuber that have transitioned, and their YouTube status has stayed the same. Though this people has popular came out on Twitter as their community is more accepting on there compared to YouTube. 
+
+I currently have the sandstone case, and it doesn't offer that much protection. I'm planning on switching to another case, maybe another Spigen case.
+I think the best way would be to speak to a therapist about it, as long as your parents are okay with it.
+Huawei P10, mixture of storage types and RAM. Just made up an excuse, so you have to roll the dice to hope you get the proper P10.
+
+The way they handled the Nexus 6P. They didn't care at all.
+Worse as it enables default colour for sRGB users.
+Default hurts me head for some reason. Probably because I'm use to sRGB.
+You can install it via ADB. No unlocking needed.
+It does sadly. :/
+If you have sRGB enabled, while activating night mode it will go back to its default colour.
+The Moto Z has a bump for a reason.
+We don't support piracy. Either buy it or just use free for now.
+Halo 2 - Project Cartographer will help you.
+Look at the bold text. You can't hide the weird lag that it has.
+It is Samsung Health. It's one of the widgets.
+Looks to be S-Health.
+Who doesn't! She is an adorable snowball.
+Sadly no. That isn't possibly, at the moment.
+**Haven't read the article yet.**
+
+I've heard that the S8 still sutters, lag and freezes at the stupid of places. 
+Upvote to both of you for liking Steven Universe! :D
+That's great news! I'm planning on switching to compact layout! :D
+That's unusual! For such a high priced phone, i though the Exynos chip would have that feature?
+
+I understand that cheaper phones (OnePlus, etc.) But the Galaxy S7?
+/r/savedyouaclick ;)
+You're welcome 😊
+>Rebbel
+
+I love that name. Mixture of Rebel and Pebble :D
+I would recommend installing stock first as the beta build won't install properly.
+That isn't right at all. The only way I can think of at the moment is a factory reset.
+You sure that's the app because that Flashlight app looks like Huawei's one. Might be another app.
+Hold down the app from your Action Launcher app drawer, to see if you can get an option to see App info.
+You should be able to hold the icon in the overview menu. That should help you find out what app it is.
+ROCCAT, can not remember its name though it's the ultra-super long one. (Not at home to look at it, oh well)
+This would've better off in a group of sort. Telegram group?
+Well, the tests weren't done accurately. There was small mistakes that caused extra seconds it seems. Though I only watched up to a point where he pressed the wrong button on the 3T, so I might be wrong.
+But Xiaomi is known for backport great features. Your sister Redmi 2 should be on MIUI 8 now, which i like about Xiaomi :D
+
+True, you only have a wait a little bit anyway so it's not like it matters if you do or not :P
+I've heard a report on it though that was a few months ago :P. Never heard of Code Lyoko but I'll look it up for sure! RAM is volatile. That is the correct definition :D
+
+Most custom ROMs now support Android Pay as their kernels have disabled bootloader unlock check so that SafetyNet will just see the system not being modified and not care about the bootloader. You'll have to check if the kernel supports the removal of the bootloader check though.
+
+Extreme Android users will say that, but I've seen many normal android users who will defend but will not complain about you using an iPhone :P. Xiaomi phones are great if you don't rely on push notifications. Enjoy! 💜
+Sadly, but they've patched it. Thank you OnePlus.
+
+That is true, and if the thief was smart enough to do so as well. Though, if the device was passworded encrypted, then it's harder to get in either way unless they have the patience to sniff the RAM and dig out the password them selves (which will take a while)
+
+OPO was a great device when OnePlus launched it. You should try sultanxda's ROM if you haven't already (unless you've already tried his :P).
+
+Once you've get the SE, I hope you have a splendid time with it! 💜
+You are correct, and only on digital titles.
+It was OnePlus mistake after all. (Here's an XDA link to it: https://www.xda-developers.com/two-critical-oneplus-33t-bootloader-security-flaws-discovered-one-patched-and-other-being-addressed/ )
+
+Android is full of bugs, but most of the time they are fixed :P (unless the recent outbreak you might have heared from the /r/android subreddit about an app causing people's phones to nearly stop working unless they did a factory reset.) 
+If your phone was a OnePlus One, it may an exploit with OnePlus never patched, similar to how there was one for my phone (OnePlus 3T). But as least you got your phone back and that guy helped you 😊💜
+No clue, I wouldn't question my think
+
+They might've offered him a placement but declined it as they might've rushed her work which he doesn't do.
+That's not the issue. Read the article.
+Imagine the whole trilogy supporting steam/Xbox Live on PC. That would be a dream come true.
+They have appeared on my Google app.
+I had these a while back. Disappeared again.
+Weird. Must be something that Google has been testing out 
+If 5: Forge didn't perform like crap and had fully working mouse :p
+Not in the UK.
+This ^
+Technically yes.
+
+The X and Y Axis are still not the same though.
+Yeah, i01 has been mentioned around these areas.
+Awesome! You're supporting XDA!
+I noticed slightly easier though I'm a gamer so that might be why.
+This is what I like about the MIUI team. They try to backport features into older android versions.
+Wallpapers?
+It seems like OnePlus did some cleaning up as when I went through the actives Aggressive Doze is enabled by default (though they might have removed it totally, not sure) I do prefer the cleaner look though.
+The picture is the 5X
+He worted. I'm sorry.
+You can tell when comparing it to another device or looking carefully.
+> Louis Vuitton phone
+
+Damn, never knew Louis Vuitton was a thing. I guess they are right, you learn something new every day.
+It's was more so scroll latency, than touch.
+
+Edit: why the downvotes? Touching the screen felt great compared to the others while scrolling was not as good, you can easily feel the lag.
+LV? 
+If you want any advice, hit me up via Reddit messages.
+Not without your parent permission because you're under 18, sadly. You can still talk to them about it, they might be able to help you.
+Lurker here: You can look local medical centres around you to see if they allow teenagers (aka. us peeps) to pop in and talk to them about something.
+Unusual controls of the Alert Slider ;)
+Whoop whoop! I've been recognised, haha. Being serious though, OP2 took ages to get Marshmallow too. There might be a few reasons why it hasn't received Nougat yet.
+
+Edit: I do agree that OnePlus does need to say something.
+We do not have any information on there at the moment.
+News Alert: Google has decided to buy XDA-Developers.
+Didn't take long did it? Hmm.
+It's too early to completely show the true power of the Scorpio anyway. 
+When Play 5: Forge, i preferred 90 FOV as it felt more natural to me compared to the default in Halo 5.
+When you started to scroll, the software took longer than usual to see it as a scroll.
+It's seems to be better than 1.0, for sure. Taking me sometime to get use to it though.
+
+I can not say anything about performance yet though as it was a fresh install so apps are being updated, etc. I would recommend digging out the GWR to try it out for yourself.
+My LG G Watch R has received it, seemingly. I will edit this comment if it is.
+
+Edit: I can confirm that my watch has received it. Yay!
+That gives up update notifications.
+I wonder if this is hinting at doing some nice tweaks to the alert slider.
+Possibly.
+
+Yeah I know. Sorry about that. 
+Well I did read the article. It's just that the actual device is called Gear S3 that's all. 
+You don't have to root it to flash a custom ROM.
+Didn't OnePlus give Sultan a OP3?
+Possibly after a new beta or two.
+I'm ready, for a promotion!
+I remember this game 😛
+Gotta love em.
+Wow. Shortcuts are surely being adapted quickly.
+It was a campaign map. But no campaign stuff.
+Similar to OnePlus's launcher.
+It will most likely not get shut down as they are using their own assets and not using the Halo name.
+It's a good song.
+Maps are real. 
+Maybe.
+It's where all of Samsung's stuff is. Images, layouts, etc.
+I think so.
+I think Stereo speakers are dying out for Android phone.
+
+The only one I can think of is the One plus 3T if you don't mind the camera. Though you don't get front facing speakers nor stereo ones. 
+I don't really use voice stuff so Assistant isn't for me either. Now on Tap is more useful at the moment.
+Do you really want proof? [Proof that it is in Eldewrito](http://m.imgur.com/WxawTVr?r)
+It was. 
+Probably not because they probably use Samsung's framework.
+I would say the same, I only have one device though.
+Yep! It's because of the new AOSP Launcher :P
+
+It sucks that us Brits don't have Google Assistant yet.
+It's real, there is a picture that shows that It's Eldewrito, and of course a dodgy hud because weird mods :P 
+OnePlus decision I guess. If the community all comes together, they might change it back to true black, not grey.
+Apps are true black, while the notification toggles are grey, like you said.
+I can confirm that the scroll latency has been fixed! Hurrah!
+
+Touch does feel a little bit more responsive as well.
+About number 7; in Open Beta 4/13 the launcher has now changed to swipe up to open app drawer. 
+
+The con; in Open Beta 4/13 (xD), there is a Game Do not Disturb in which you can disable buttons while that app is open.
+People are 50/50 about. The first part looks genuine while the second part is full of jokes.
+Google Store is for Google Products.
+I don't think the HDR will work correctly on the G6 as the 821 only supports upto 8-bit colour depth.
+OnePlus didn't pay for the licensing, I think.
+Rick and Morty! 
+It happens. :D
+I've already seen the comments, no need to refer me to your ignorance of the truth..
+People probably interpreted as a sarcastic comment at pointing fingers at Arter97. 
+Samsung Fanboy that doesn't barely have any knowledge on Android.
+
+Nothing usual here... 
+
+The community does not, I REPEAT DOES NOT develop Android. Google does.
+Nah nah.
+Nope, we don't get the V series.
+Multiplayer isn't too bad, i enjoy it. Though Campaign is simply beautiful. 
+Agreed. DOOM was single handedly the best FPS of 2016.
+We can easily tell between 1080 and 1440 on a larger display. Our displays haven't reached our eye like level.
+
+Bigger displays require more pixels, so we are not stopping at any resolution any time soon.
+That's cute and weird at the same time.
+*party pooper*
+*but MST support /s*
+I would love to see swiping navigation on it, quicker double tap, change single tap to something else.
+Nope, typing that in a gives you Xiaomi phones.
+Evie Launcher is pretty great if you don't want to dive into too much customization but want to have the simplicity of AOSP launcher.
+
+linkme: Evie Launcher 
+Negative. You need Xbox Live to play H5: Forge
+Unless MCC is released for Windows 10, sadly no.
+The S3 looks better overall in terms of hardware and software, compared to Android Wear devices at the moment.
+I don't think W10M is 32-bit only as the Lumia 950 has the SD808 (which is 64bit, if i remember)
+
+
+Still nothing in the UK.. :(
+I have permission from the police to talk with that time of grey, don't you dare discriminate me against my colour.
+Well, I did comprehend it. 
+You've repeated yourself, why?
+Interesting. Thank you for the detailed response! It would be awesome to see Substratum in just android it self! 
+Calm down. I'm just saying you guys should be at least for receiving an update..
+Oh... Ouch.
+Yes, but substratum is a modification on top of RRO. RRO is in the AOSP sources, substratum isn't.
+Well, should be at best, if they can. I do agree that they are long overdue Nougat though.
+It just seems not to be the right tone of grey.
+More like native RRO support.
+It would need to be a better grey than that, in my opinion.
+Project Cartographer is a modification to Halo 2 to bring back its multiplayer back online.
+They received an update! Wahoo! 
+It fixes bugs too. It isn't Nougat, but you guys should be at least happy.
+I watched Zack's video yesterday, i was disturbed by how much space was free.
+I would wait for the next Pixel phone in my opinion ☺️
+Nah, I wouldn't. There are just adding native support for better Bluetooth audio support, i don't think it would hint at anything.
+That is interesting.
+How much the 3T in the US?
+Let's just take this from the launch price, though the 10 is still a great phone if you can pick it up, like you said $550
+They probably updated the pixel C launcher to make it easier to migrate data over.
+Because it's a Pixel device 😝 it makes sense after all
+> 32GB HDD
+
+I don't think phones use magnetic disks :P
+
+This is the the XZ. The original one.
+Haha.
+Oh my. We all hear the things, maybe the aliens are with us. 
+
+Would wouldn't consider it?
+That sounds like a hint ;)
+Desktop/laptop, similar machines.
+Possibly like the Play Store certification process. To have Play Store on your device, you have to work with Google.
+It's easy to see which one they are talking about. The laptop.
+It wouldn't be possible without the source code.
+Well, you're not being forced to do the update.
+
+If you are simply having issues, the first case is to do a factory reset to see if that solves the issue.
+Maybe you should do a factory reset. Don't blame OnePlus for you own wrong doings.
+The HTC 10 was an amazing device aside it's price. How can HTC back track on their doings?!? 
+Why HTC did you do this? There is so much space wasted on the U Ultra. So much possibilities and you drop them...
+What are you on about it? What drug are you using?
+
+
+Yes
+Not every phone. I still haven't received it and I'm in the UK/Nougat.
+
+Edit: I got downvoted for what reason?
+File-based encryption is still in its infancy, as it's shown on the Nexuses.
+
+The 3T still uses the similar method that everyone else uses.
+I didn't know my English teacher had a deal with OnePlus 😂
+
+Edit: getting downvoted for a simple joke? Wat.
+It's completely hand  made in Unity.
+Sadly, I loved their VR Box. It's an amazing way to bring VR to the masses.
+*cough* Alcatel *cough*
+Don't diss Miku 😝😂
+True, can't go against that. WhatsApp Status is a clean example of making it crappier than it is.
+~~Competition is always good.~~
+
+Nevermind. The only decent implementation of it is Instagram Stories in my opinion.
+That was quite interesting 😃
+Android is a waste of space, iOS is the only mobile operating system.
+*joins along* 
+Text ticker passed away when 🍭 arrived ;(
+I use sRGB with any of my OLED phones as standard is way too punchy in its colours. OLEDs are also great for the blackest blacks.
+Well, the Pixels and Nexus5X/6P all have the same sensor it seems.
+Root. 😝
+I would prefer the Gear S3 over the LG Watch Sport for its battery life.
+He's working on it. 
+
+Shouldn't really ask for an ETA, but eh.
+The SoC supports it but OnePlus didn't buy the license from Qualcomm to use it.
+If you're downgrading, you'll have to do a factory reset.
+That's why it's in the proving grounds playlist. They want our feedback to see if it's worth keeping the changes or leave it the old way 
+Well, they wouldn't need to port it over as I've heard that there was a PC version made.
+In the UK. Black apricot has disappeared while Dash Car Charger is still there.
+Like in Ranked, they have the default HUD. While in Warzone and Social, customisable HUDs
+We should be allowed to set any custom icons to systemwide, in my opinion.
+It's disappeared again for me, UK.
+Unable to play it though ;(
+True 😂😂
+I think Hangouts is more business now than it use to be.
+*facepalm*
+Ah! That might explain why.
+
+That's sound awesome that Samsung use open source licenses.
+
+I have installed an ad blocker, but what is your recommendation for one?
+>bgr
+
+I'm sorry, but I won't trust the source.
+You know what. I'm going to agree with you. Samsung Browser feels way more smoother than chrome, and I'm using an Snapdragon processor. That's crazy.
+Duplicate, reported.
+I'm even surprised that OnePlus updated the security patch on the OnePlus 3T to March.
+I downloaded it from APKMirror. Someone has linked to it in this post.
+
+Working on OnePlus 3T. Looks better than chrome, don't know if it performs better though.
+So basically, how to restore to stock ROM on any MediaTek based phone?
+G3 won't get Nougat official.
+
+I presume it was something to do with the Google Drive cloud saving.
+I think we need a recipe for this one ;)
+
+Peanut butter is love, Peanut Butter is life 
+I would recommend flashing LingeageOS if it's available for the OPO.
+Custom ROMs when? /s 😂
+You're welcome :) we all make mistakes 😅
+Disable Wi-Fi verbose logging in developer options.
+Can we trigger the ETA bot? /s
+You are also an UK user?! Wahoo! If you decide to import, please let me know. Screen protectors are a pain at the moment sadly ;(
+Maybe, we need some manufactures to figure out 2.5D glass screen protectors without the black bars, etc.
+
+It's a pain sadly.
+It wouldn't. Bluetooth has it's limitations compared to physical connections. 
+Bluetooth audio isn't close to what the jack offers. Sadly. 
+
+Many phones still lack aptX support which gives better quality, and many Bluetooth headphones don't support it unless you go with a known brand e.g. Bose, Senheiser or Beats.
+Sometimes old is better. 
+This is fake, they said that it would have the 830 because of the Samsung Galaxy S8
+
+When in fact, the 830 doesn't exist in consumer land.
+I know, I've already stated that.
+On-screen ones are fine, it's just the way of OnePlus implementing the double tap functions. 
+Long pressing in the OnePlus camera locks AE/AF.
+That link looks fishy to me.
+If you want dash charging, you'll have to use equipment from OnePlus or OPPO
+I would prefer the Nougat implementation which is native and faster than the way OnePlus has been doing it.
+There is a bug you can see easily on 7.0.
+~~You can not do the double tap for quick switching while using the capacitive buttons.~~
+
+While using the capacitive buttons, you are unable to do the quick task switching using Nougat's native implementation. Using OnePlus's method is slow and tedious.
+Nothing wrong with sticking with older technology that works more reliably. For example, I would rather connect my headphone into my motherboard 3.5mm jack instead of a USB dongle because it offers more power. Modern technology isn't always better. The LG V20 has an amazing audio setup (32bit DAC) that could only be outputted via the jack.
+A lot of people still use it. I don't understand why you are trying to justify that the headphone jack is dead, which it isn't. 
+It was a cool concept :D
+A lot of people.
+About the LG section. The hardware buttons are customisable. You can have them back on the left or right. 
+Sounds like an Asus product. Remember that? The phone tablet thingy.
+And a headphone(or 3.5mm for us techies :P)  jack.
+Exactly! I've switched recently and the 3T performs way better than the 6P did with the 810.
+Ah! Forgot about the sources part. Thanks! :D
+OP3T here. Compatible, weird.
+Oxford might be the more reliable one compared to Wikipedia, but that's just because my school doesn't like Wikipedia.
+,Well, that's just obvious :P
+Leaving beta will force an most recent official version available, which in this case meaning wiping your device.
+
+Extra information: only applies if you are already on a beta version.
+True I guess.
+You can't blame them, it wasn't used that often so they had no choice to shut it down.
+You might be thinking of Sultan's ROMs?
+We are getting closer!
+This reminds me of Gears 4 campaign, they added in co-op campaign after doing all the campaign work and had to change a few things for cooperation to work
+It'll be your best chance phone though as I think the pro is limited to China.
+If you want the Mate 9, I would recommend just grabbing the US version which comes pre-installed with GApps and will work with your carrier hopefully. 
+Exactly!
+
+They probably won't release because of TU. It's like we won't get VoWiFi or VoLTE unless we have the app.
+I don't think ASSEMBLERGAMES know who GC13 is.
+Weird, I have already stopped using it because I doesn't use android notifications which sort a irritates me.
+
+Lol 😂
+I'll try use textra now and see if it will work on my Wear watch.
+
+Edit: just got a friend to send to text, poped up via Textra on my phone and wear, you might want to check your app, reinstall it possibly?
+Sadly, the re-release wouldn't happen in my opinion.
+Yeah, good point. I'll see if I can get time for it.
+I can't remember installing any apps, just going straight for an update. I might do one soon though. Unless a big update is coming.
+That sounds awesome, I personally would be interested.
+I'm digging the on-screen buttons, they look quite nice ;P
+
+Edit: it's not real, thought so :(
+That's the most annoying part, when rotating and it refreshes.
+Screen protectors, TGSP to be exact don't stick correctly.
+Is it bad that I did the setup and did the OTA straight after without doing a factory reset at all? I should know this but eh, no harm in asking.
+The Xiaomi Mi4 had a Windows 10 Mobile ROM, but that's about it.
+If you live in Europe, then that's why. I quickly got my sandstone case to cover it up so I left it.
+I'm enjoying my 3T more than my 6P. It's a big upgrade to be honest for me. While the speaker isn't as good, the headphone output is better. Camera can be spot on with the 6P with enough experience. A recommended upgrade in need.
+It's a quick setting toggle.
+If there is no known fix, then it can't really be worked on at the moment.
+Thanks bot! :D
+Haha, don't worry. We are all daft sometimes :P
+No problem! I just re-read my comment and it seemed to be a bit rude. Sorry if it came across to you like that :P
+Have you restarted your phone?
+You can.
+Huawei's method makes sense. 
+It's been like that for a few weeks now.
+#SimplyBeauty
+FMM, it's in the sidebar; Getting Started
+Haha, at least you didn't my comment as a butthurt user 😂
+
+The internet is cruel, i have experienced that with loads of people downvoting my comment because they can't be bothered to read it properly. Meh.
+
+
+Who knows?
+
+It would be awesome, I can understand the proprietary chunks being missing though. 
+"top bloke"
+You got me there, upvote for the laugh. 
+Yeah, I know. That's why I put the Cyanogen Inc in there to refer back to what would happen if it did happen all over again.
+Well, I don't think it will as they would have learned their mistake. 
+Disable magnet mode, it's on the D-Pad. :)
+It is odd, who knows. At least you can connect, I cant even connect to my schools email server.
+Select English then, it's not that difficult.
+1 and 2 are just two player co-op while 3 and 4 are four player co-op.
+It might be something to do with the schools email server, ask them to check something :)
+Literally. Nobody should be defending this issues just because it's a Nexus. 
+It's been heavily documented like you said, so that this issues are not just users fault.
+True, but I HAVE THE RIGHT TO SPEAK OUT AS I WAS AN OWNER. YOU LIARS SHALL BE ASHAMED.
+
+My speak is over 😂
+This is what caused me to sell my 6P and get the OnePlus 3T, the battery life was horrible.
+May I borrow your novabackup file?
+It's a common term with Chinese things, xD
+
+Downvoted? Explain?
+/u/Zoomerli it would be awesome if you could custom design the subreddit for more of a black theme for people on desktops, etc.
+There has been since the release of Windows 10.
+I am currently using the sandstone case and a glass screen protector from eBay.
+They are the same, no difference.
+:)
+Official Website: http://get.aospa.co/
+Thank you for this :D 
+Oh my. Try looking on the MIUI forums to see if there is another build available.
+:P
+Not really unless there is something on my mind
+Kernel did get updated it seems.
+The new launcher is done by the original people by Paranoid Android who OnePlus ask to hire in, if I remember.
+
+OnePlus One software was mostly done by Cyanogen Inc. but we all know how that happened.
+HTC USonic, you're welcome.
+Hit up OnePlus support, see what they say. 
+Either a damaged display or a connector has moved slightly.
+It's a roll out, just calm down and wait.
+Built in night light..
+That is true. 
+Nope, you'll just have a wait at the moment.
+It's a server side thing at the moment.
+Are you using the Project Cartographer?
+For root, CF.Lumen.
+For stock, built in because I want my black pixels to be black, not an amber colour.
+True.

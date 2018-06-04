@@ -1,0 +1,1376 @@
+Anyone else realise that the song almost perfectly loops back onto itself if you replay the clip?
+Thanks OP! Good luck to everyone!
+
+
+Reloading the R8 still moves your crosshair by about 0.5cm to the top right. How is that acceptable almost 2 years since the bug was initially reported?
+https://www.reddit.com/r/running/comments/6mmb1f/coach_kyles_faq_postrun_routine/
+
+This should help - what works best for me is a yogurt once I get home from my run.
+Got my 5k PB today at 22.18 a day after running a 50 minute 10k. Gonna take a rest day tomorrow 😀
+Spotify actually gives you a brief rundown of your listening history/stats. It's at http://spotify.me
+Yes, you have to go into settings on spotify and log in using your last fm username and password.
+
+I had to do it on both my desktop and phone. It should be instant so you'll know whether it works or not immediately.
+Last.FM is your friend.
+Ok great, thanks for the quick reply!
+Will a SATA 2 cable (from 2009ish) bottleneck my SSD assuming that it's plugged into a SATA 3 port?
+/r/lowendgaming
+
+Can you post your specs?
+This includes the Redux version. Instructions on how to get it below:
+
+1. Buy the standard version for $3.99
+
+2. on the website, log in and view your library
+
+3. click on the down arrow on "The Vanishing of Ethan Carter" 
+
+4. click "view downloads"
+
+5. click "more" then "serial keys"
+6. copy the link and tadaaa you now own the Redux version too!
+
+[PROOF](https://imgur.com/MsxlntY)
+For those looking to get Kerbal Space Program, it's in the current Humble Monthly for $12 with a bunch of other games.
+Witcher 2 - it's dirt cheap and it's a very good game (great plot)
+Yeah that's what got me confused. Thanks
+Is The Vanishing of Ethan Carter the remastered version?
+>  It doesn't contribute anything to do it though.
+
+Is that a valid reason to ban the term? If it doesn't contribute to the discussion at hand then just ignore it, there's no reason to ban it though. 
+Check out some of the threads in /r/podcasts for some other suggestions.
+
+Eg. https://www.reddit.com/r/podcasts/comments/6hf6v3/best_gaming_podcasts/ 
+and https://www.reddit.com/r/patientgamers/comments/67mv78/what_are_your_favourite_gaming_podcasts/
+The WAN show by LTT is the only one that comes to mind for PC hardware/news. For more gaming oriented ones there's The Cooptional Podcast (TotalBiscuit, JCox) and ACG's international podcast.
+Got the latest drivers? Whats your CPU and ram like?
+Do you have the 3gb version of the 1060? If so, try lowering texture details to medium.
+Bioshock 2's drill is still one of my favourite weapons in any game. Both BS1 and 2 were good, but I found 2's gameplay to be way more refined and more fun.
+What resolution are you playing at? [Your PC should play FC5 on at least high 50-60+ fps at 1080p.](https://www.youtube.com/watch?v=OyImBFbvmNk)
+About 2-3 runs, honestly the trick is to overcome the mental barrier.
+Much better than your last video, which had WAYYYY too many jump cuts.
+/r/personalfinance would have a stroke
+No, DDR3 and DDR4 have different sizes (like one being physically bigger) and voltages and can't be mixed. I don't think coffee lake even supports DDR3.
+You can get the Steam version of Mafia III for$12 USD along with a bunch of other games in the latest monthly Humble Bundle. 
+Where are you located? The worldwide release was 42 minutes ago. 
+It's up now.
+It's out now.
+Why don't they introduce a limit of 30-50 trades per month instead?  
+I just upgraded from the C2Q 8400 to the the i5 8400 😀 next upgrade will be the Ryzen 8400 in 2024.
+How bad would the performance hit be?
+If only there was some way of getting save files onto the cloud... shame that our technology hasn't been invented yet. 🤔
+The second one is really good and dirt cheap on gog right now. It looks really good for a 2011 game too.
+An SSD and put windows on it, it won't improve your fps but it'll make your PC feel so much faster. A cheap 120gb one will do.
+GTX 750ti?
+People will obviously care more about something that happens relatively close to them than something that happens 8000km away.
+The GOTY edition is about AUD$2 more expensive than the base game in Australia.
+Obligatory if you are getting The Witcher 3 make sure you get the Game of The Year edition. It's only slightly more expensive and contains 20+ hours of extra content.
+How long did you have have the G4 for? Read up on your consumer rights, you're probably entitled to a refund or replacement.
+https://www.reddit.com/r/GlobalOffensive/comments/85t1q8/i_have_a_bind_to_raise_the_net_graph_to_use_as_a/
+Just cause 2 is worth it for the voice acting alone.
+Go into task manager and set 3 cores just for csgo and 3 just for OBS (or whatever you use to stream with).
+It should work, knock on is different to a pin.**
+For those who don't know Curve Digital, they've published Thomas Was Alone, Stealth Inc 2, Dear Esther and a couple of other non mainstream games. The Narcos game will be developed by Kuju Entertainment.
+That depends on a lot of factors - supposedly in the US they don't work as well due to different wiring, but for me it's been working really well. (I'm in Australia)
+
+
+Did you accidentally unplug any cables?
+Powerline maybe? Not sure what you mean by "electrical box"
+That's not how it works.
+Through the Xbox app iirc.
+https://youtu.be/FNrfxwqDV68
+
+Another video with a i5 8600k @ 4.7ghz and a 1080.
+That looks perfectly fine. Have you got performance mode on in windows power settings? And try disabling/enabling windows game mode.
+https://www.youtube.com/watch?v=0DfVCmzrkY0
+
+He should be getting ~120-140 in BF1 on ultra with those specs.
+Your cpu usage seems quite high, anything intensive running in the background? Check task manager. 
+Yeah that will do.
+Ok post temperatures too.
+Can you get riva tuner and MSI afterburner and post your GPU/CPU and RAM usage ingame? You definitely should be getting a higher framerate.
+Have you got the latest drivers?
+No they have a client similar to GOG, the games are DRM free but you have to use the client to install them (and then move them out of the directory) 
+I don't think anyone but you can answer that. How often do you use it, got $ for it, anything that's lacking with your current one, etc.
+Didn't they say the same thing like 2 years ago.
+20000 Crucial MX500 250GB SSDs
+
+I can save so many Linux diatros :)
+https://www.ozbargain.com.au/node/366277 decent deal for Aussies. Free shipping too.
+Glad you fixed it 
+There isn't usually much light at concerts so photos usually have a lot of noise. This phone takes great pictures though, so what you're experiencing in Auto mode doesn't seem right. Do you hear any loose parts moving inside the camera? 
+khanacademy.com
+
+It's free and has a ton of resources for all sorts of different kinds of math & other subjects.
+Listen to your body though, it's very easy to get injured if you suddenly up the mileage.
+He thought the 20kg bar was 20 pounds, when in fact 20kg is 45lbs.
+20 USD is just over 25 AUD. Order from Chinese websites like gearbest for free shipping and dirt cheap prices.
+
+Also check ozbargain regularly for some amazing deals.
+The last question is certainly different from the others 😀
+Spotify
+
+Podcast Addict
+
+Slide for Reddit
+
+Chrome
+
+Netflix
+You got the names mixed up. 
+B = E + 3
+
+hence E = B - 3
+
+B = T + 6
+
+hence  T = B - 6 
+
+B + E + T = 27
+
+so: B+ (B - 3) + (B - 6)  =27
+
+so 3B - 9 = 27
+
+so B = 12
+
+so Ben has 12, Erin 9 and Tim 6.
+
+Watch dogs isn't sleeping dogs
+https://www.reddit.com/r/RecruitCS
+Spotify and removing features. Name a more iconic duo.
+https://www.reddit.com/r/running/wiki/faq#wiki_grammar
+
+Great job beating your January mileage given that Feb was a few days shorter.
+M E T A
+WTF
+1800 DPI = 0.0933 in-game
+
+4500 DPI = 0.0373 in-game
+Not for the client, you could maybe be logged in to both on the same PC with something like sandboxie or in a VM (not sure whether or not it would work though).
+
+If you want to be signed in on both accounts in a browser you can log in with one on chrome and the other on Firefox.
+To add to that:
+
+- Snapdragon 425
+
+- SD card support
+
+- Headphone jack
+
+- Non-removable 2410 mAh Battery
+Have you tried all of them on? Iirc ultraboosts aren't actually that good for long distance running.
+It is in Australia, it has the diamond golden shape with the title text in it.
+Because they're nowhere as good as the VEGA cards, however it should be fine for less demanding titles and considering you got it for free you can't really complain 😀
+Slide for Reddit.
+Try this https://www.apkmirror.com/apk/paradox-interactive/prison-architect-mobile/prison-architect-mobile-1-0-1-release/prison-architect-mobile-1-0-1-android-apk-download/
+
+
+like, not want
+ONCE
+> favorite song quote
+
+Back in my days they were called lyrics
+Cabin in the woods
+Fallout 1 came out in 1997, Fallout 2 in 1998 and New Vegas in October 2010. New Vegas isn't even half as old as 1 or 2, of course it's not going to feel as dated.
+Haha thanks, I SoundHounded the full twitch clip :) Not that much work.
+Any of the three Max Payne games, you can get them cheap (on PC) in the HumbleBundle Rockstar bundle.
+[Afro Trap Pt 10 \(Moula Gang\) by MHD](https://www.youtube.com/watch?v=_o5zbvGyxW4)
+Babylon Berlin - a German TV show set in the Weimar Republic that follows the intertwined lives of Berliners from all classes of society as they uncover a political conspiracy. It's also the most expensive non-English tv show ever made.
+You could PM u/mojonono
+You need an unlocked bootloader for that right?
+Can you get into recovery and do a factory reset from there? 
+[You can get Plants vs Zombies GOTY Edition for free on Origin as part of their On The House deals](https://www.origin.com/aus/en-us/store/free-games/on-the-house)
+Depends on what apps he'll be using and how important reliability is. The 2GB of ram on the s5 neo should be fine for basic apps and maybe some light gaming/multitasking, but it might struggle to keep apps open in the background. The lgg3 had some QA issues (screen failing, bootloops (?)) so if reliability is important I'd advise against that.
+Last year's halftime show was way better.
+This is my favourite thread of the week 
+[For those that don't get the reference.](https://i.redd.it/3hgd3fsnlaqz.jpg)
+$24.99 in Australia, the same as the regular price.
+Good luck, send an update if it works :)
+You could try getting USB otg adapter, put the rom on it, mount otg in twrp and then flash the rom.
+I've been listening to the Martyrmade Podcast recently, it's about the Israeli-Palestinian conflict and it satisfied my hunger for more Hardcore History.
+I see. 
+I understood "L covered" but no idea what she said.
+Do you have a Fitbit? 😀
+[he's working on it](https://reddit.com/r/iphone/comments/7sj1fb/turned_my_old_and_slow_iphone_4_into_fast_ultra/dt5ksjm?context=3)
+:/
+No worries, have a read of the link above just in case :D
+
+Good luck with getting your device repaired/replaced.
+Can I get a steam key if I bought the game on GOG?
+You should have a mandatory minimum 2 year warranty on all electronic devices, if you got your phone less than 2 years ago you should contact the merchant and they should replace or refund it. [More info here.](https://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/index_en.htm)
+Are you in the EU by any chance?
+Not sure how you came to that conclusion.
+Or you can sign the APK and then Google Play won't bother you with an update.
+HDR filter/effect in Snapseed works like that.
+Yeah f2fs (using twrp) is the rom supports it is a godsend.
+Looking at his post history they sure are.
+It's also about 45 hours long, so it should last you for a while. The narration is excellent, however the first third of the book is quite slow imo.
+Does your power button give off a satisfying click?
+1. Depending on which model of the h815 you have.
+2. Depends what you want to do, if it's just ad blocking then install blockada and get around the issue
+3. ^^
+4. Rooting isn't the same as flashing a rom, go on XDA to find out more but for that you need an unlockable bootloader. Camera quality on custom ROMs is worse though
+5. Should be fine, iirc the S3 has a tonne of custom ROMs so just get a performance one (slimkat if it exists)
+Sony isn't much better in that regard.
+YOU BROKE THE FIRST RULE M8
+I really enjoyed this game, but I think that it could have been 2 or 3 hours longer than it was. It was really well optimised and ran on medium at 1080p on my ancient PC (the sequel is unplayable for me 🙁) I really enjoyed the combat the plot.
+
+I don't care much for the movies nor the multiplayer, they're not really my cup of tea.
+
+The only complaint I have is the dissonance between Lara's actions and her monologue, as many reviewers have pointed out.
+
+It was definitely worth the $3.24 that I paid for it a year after release. I would recommend it anyone who hasn't picked it up yet.
+He said his car's radio is awful, not that it's nonexistent.
+2meta2fast
+Basically a woman pokes a straw through a strawberry with the intention of removing the green thing on top. Not NSFW in the slightest.
+Wtf?* 
+Thank you! Love the app btw 
+Hey, following the update whenever I open a gif it stops music playback (even though gifs don't have sound). Is there an option to disable this?
+inb4 removed for local crime / lack of credible source
+If it doesn't work give Newpipe a go.
+Unlock the bootloader, flash twrp recovery, set the filesystem as f2fs in twrp, flash unofficial slimkat rom (xda), flash SuperSU, flash gapps.
+This better not be a bamboozle
+Does your carrier have an app/website that you can use to check your remaining data?
+Sign me up m8
+$74 :)
+I got bad news for you, my upvote made it $6.00
+Not that I know of, but you can highlight a word/sentence and then hit the magnifying glass and then hit the search web on the top right.
+Public education, healthcare and public transport just to name a few.
+An Austrian actor who speaks French, English and German fluently, probably best known for his role as colonel Hans Lanza in Inglorious Basterds. He's got the most square chin that I've ever seen.
+Q4 2017 Nougat lol
+Fixed :)
+You should buy it ~~25~~ 20 times.
+Hiatal hernia afaik
+That's unfortunate, you could try contacting support and hoping for the best...
+Credit card price protection? You could also return it and then buy it again.
+Check the wiki over at /r/bodyweightfitness
+[Debbie W. Schultz literally resigned "after a trove of leaked emails showed party officials conspiring to sabotage the campaign of Senator Bernie Sanders of Vermont."](https://mobile.nytimes.com/2016/07/25/us/politics/debbie-wasserman-schultz-dnc-wikileaks-emails.html)
+What phone do you have?
+*trailer is out now and the full episodes drop Monday, December 18th*
+
+
+As per OP's post.
+Ok, updated.
+I followed the original French text, but I do admit that it sounds weird. Not even an Oxford comma can help 😑
+Translation: Cannon Colossus and his sister, the fattest man in the entire world, net weight of 738 livres (if livres = pounds, then it's ~334.75 kilograms), born in Amsterdam on the May 7, 1884.
+
+EDIT: The French livre was equal to 500 grams, so his weight was 369 kg.
+Adguard, adaway and blockada are solid options to get rid of ads.
+Still waiting for Nougat right? Thanks LG.
+I think you replied to the wrong comment.
+Thanks! Altogether it's just over 1 hour long.
+
+This collection includes:
+
+- Zip Code 12345
+
+- An Aussie Night Before Christmas, by Yvonne Morrison, performed by Magda Szubanksi
+
+- The Music Coming from the House, by Paulo Coehlo, performed by Daniel Frances-Berenson
+
+- The Signal-man, by Charles Dickens, performed by Simon Callow, Dan Starkey, and John Banks
+
+- A Very Improvised Holiday Musical
+
+
+
+
+
+
+It just scrapes the webpage for info, I don't think that Google would have a valid reason for a DMCA. 
+Anyone else connected to your network?
+I guess I missed that. If you clicked on the link without looking at the URL it could be considered as randomly running into though.
+[Less karma and more gold.](https://www.reddit.com/r/StarWarsBattlefront/comments/7cff0b/seriously_i_paid_80_to_have_vader_locked/dppum98/)
+Dude it's LG you'll be lucky if it gets a security update every 5 to 6 months.
+[How about this?](https://www.gearbest.com/other-home-improvement/pp_861678.html)
+Come for the dropbears. They're friendly and love hugs.
+Something something osmosis.
+Come to Australia and you'll be happy if you can upload a photo overnight.
+It's a terrible comparison because the source engine doesn't spread out the workload over more than four cores due to how old it is.
+You don't like inspirational quotes of the day? 😀
+What GPU do you have? Do you have the latest drivers installed?
+[Here you go](https://i.imgur.com/UBFEVNK.jpg)
+Not a permanent cut unlike the ones for corporations. 
+Download CPU-Z off the Google PlayStore, it should tell you what SOC you have and other specs. It should be on the top of the first page.
+I'll give your podcast a listen.
+It's a great podcast but I don't see how it's similar to TAL
+Have you read The Martian by Andy Weir?
+Their profit after tax for the year was €174.3m, if their tax liability was €30m, then their effective tax rate is only 17.2%, which is lower than most individuals in the US and EU.  
+I'd recommend Voice, it has a cleaner interface and is free and opensource.
+
+[Link](https://play.google.com/store/apps/details?id=de.ph1b.audiobook)
+This almost reads like satire. Pick 1, minimal bezels or dual front facing speakers.
+Yeah I have 
+I've tried but it fails to mount and gives a readwrire error
+True, assuming that he can actually get into the bootloader. My second N7 2012 (for which i dont have blobs, full stock bootloader and recovery) is stuck on /formatting data in recovery, unable to do anything. 
+I have N7 2012
+https://forum.xda-developers.com/showthread.php?t=2455927
+
+I have the device specific blob, bootloader and recovery.bct, partition.txt and 3 other files (cant remember the names)
+
+Have you got any suggestions as to what I can do? :D Anything would be appreciated, however I'm 90% sure that the chip is dead.
+Seems to be unable to mount and read or edit /data and /cache and /boot
+ 
+The Martian by Andy Weir.
+Yeah one of my Nexuses 2012 had the same issue and I think it needs a new mobile. I tried nvflash and all that stuff but to no avail, the actual storage chip is dead.
+If it gets recognised in fastboot you could set TWRP as recovery or try "fastboot format cache". 
+That could be an indication of a fried storage chip.
+
+Does your tablet get detected in fastboot and adb?
+No, because the coupon is only usable in the Humble Store.
+It's got the cringiest dialogue out of any book that I've read and all the characters seem to be as stereotypical as possible (those that get introduced in the first 150 pages, I couldn't get through the rest)
+I think it's definitely worth contacting, the worst thing that can happen is that they tell you to fuck off.
+I doubt that they have a higher profit margin than Samsung given that Samsung makes most of the components in-house.
+Am I correct in assuming that without an unlockable bootloader whether a phone has treble is irrelevant?
+Yes, but they did say that they'll bring Nougat by the end of we.
+Is this the official one or someone's translation? The amount of typos is shocking.
+Do other games run as you would expect a GTX 1070 to run it?
+No worries, enjoy the book!
+I just got an email that you accepted it. Did it work then?
+That's weird. I'll try again when I get home.
+OK sent, did it work?
+It's "Aliens: Out of The Shadows: an audible original drama", about 4hr 30 mins long yeah?
+I can send it to you if you haven't received a book yet. PM me your email address. It's the one that was free for the 20th audible anniversary.
+What phone is that in the picture and how do you get the app to be white?
+No worries, glad I could help 
+Source on the US $80704 as being the median income in Australia? That's way too high.
+Did you hit the background playback icon (looks like a pair of headphones)
+It doesn't fit the overall "theme" of the game, it doesn't tell you the names of dead players, there's weird colour correction going on, hard to see hp damage, the top white scoreboard looks like shit and the end of round team logo is completely unnecessary. You can barely even tell which team is T and which is CT.
+
+The normal HUD works fine, so why replace it with something inferior.
+You forgot the weird colour correction/brightness thing.
+It's so fucking dark, I though my monitor had broken when I launched the stream.
+That ace wtf
+There is, but it's really dark and has a retarded HUD.
+Explain the reason for the drop in sound quality at the beginning, it might drive a few people away but I think most would prefer  a new episode.
+Use newpipe, no root required, background playback and allows you to download the video and/or audio. Open source and available on fdroid.
+Isn't that a beta though, not a final release?
+Then again reddit and most western social media are dominated by Europeans and Americans, who naturally care more about attacks closer to home.
+VLC should work.
+Ctrl + shift + del
+[This image shows it well.](https://gridclub.com/subscribers/info/fact_gadget_2009/images/qa2c06f21.jpg)
+Witcher 3 Hearts of Stone and Blood & Wine probably have the same $1 spent / hours played ratio as the full game assuming you bought it at full price.
+It's revenue, not net profit, and you might want to read up on inflation.
+
+
+I think you can but you would have the 7 day waiting time before the listing actually occurs. 
+Yup, 7 minutes and 10 seconds of ads.
+52:35 on the video. Can't link because I'm on mobile.
+Friends list and notifications (messages only) should be there, at steam community.com/chat and /yourID/friends
+No matter which account you're logged into in the app, you can still get the 5 digit code to log in on the desktop.
+How easy is it to read? I like fantasy, but the Lord of the Rings trilogy was so full of unnecessary details and backstory that it felt like a chore to get through.
+You could either get your friends to add both accounts, or get them to add you on another service such as Discord, or be online on both at the same time (one on steam, one on the app and/or browser)
+
+For market confirmations you will need to switch accounts in the app (which gets annoying after a while, but shouldn't trigger an email verification, however make sure you have access to the email addresses)
+Link works for me,  try another browser. It's a PDF that you have to download.
+https://www.youtube.com/watch?v=ceItMiYZe9Y
+[It's been reuploaded, click here to watch on YouTube.](https://www.youtube.com/watch?v=ceItMiYZe9Y)
+You don't even need a VPN, just log in with your normal email address and password.
+I'm guessing it's because 2 * 3 * 5 * 7 * 11 = 2310.
+The same can be said about SD 808 and 810.
+US $1 = 55,200 bolivars for those interested who cbf reading the article.
+What did you ask it for in the first place?* 
+The whole video looks like something a 10 year old would put together.
+I just checked the official slimkat website and it says that [There is a nexus 7 Flo version.](https://slimroms.org/#/download)
+
+It's at the top of the page.
+You can add shortcuts, but I'm not sure if that would work. 
+Nova Launcher Prime
+Links for those interested. You also get XCOM Enemy unknown
+
+[CIV 5 & XCOM](https://ebgames.com.au/pc-208637-XCOM-Enemy-Unknown--Civilization-V-Double-Pack-PC)
+
+[CIV 5 Brave New World](https://ebgames.com.au/pc-162034-Sid-Meiers-Civilization-V-Brave-New-World-PC)
+It isn't bad, but discord is way better.
+An edible soft fruit.
+Yup.
+I really enjoyed Part I of A Study in Scarlet, but the first 40 or so pages of Part II felt like a completely different book, and in some sense ruined the book for me. My favourite Sherlock Holmes story is The Sign of the Four, probably because it was my first "adult" novel.
+I've had this for a while, but it only pops up with a notification and you have to click on it to tell you the weather, which defeats the purpose.
+You will never unsee it now.
+[Apparently that doesn't work either.](http://audible-uk.custhelp.com/app/answers/detail/a_id/7101/~/is-my-apple-tv-compatible-with-audible%3F)
+> ADD kid that drank 5 redbulls
+
+5 doesn't quite cut it; I gotta drink 5-6 before the game starts and then 1-2 per round.
+Just be aware that you can't natively cast Audible using the chromecast  (you have to cast your screen which is a bit annoying and it wastes the battery a bit more.
+Nexus 7 2012 https://forum.xda-developers.com/showthread.php?t=2678142
+
+I don't think there's one for the 2013 version. Sorry.
+> very large some    
+Noticeably faster. Give it a go, worst case scenario you reflash lineage. For me slimkat is way faster than anything else.
+If you don't mind Android 4.4.2 get the unofficial slimkat ROM off XDA with full f2fs support. It's way faster than anything else that I've tried.
+Get TWRP, go on xda, get the unofficial slimkat ROM with full f2fs support and the accompanying slimkat gapps package, flash rom, flash gaps, flash supersu (if you want).
+
+My nexus is now faster than ever.
+32 tick.
+There's a free 2 hour podcast/collection of stories on the gay marriage postal vote. It's called "Listen to live"
+
+There's also a free book called The Homefront: America During World War 2 narrated by Martin Sheen. Link [here](https://mobile.audible.com.au/something_different/apc.htm)
+
+
+Other books that I got for free in the just 2 to 3 weeks, but I'm not sure whether they're still free are:
+
+- Unheard: the story of Anna Winslow
+
+- The butterfly effect with Jon Ronson
+
+- The Oedipus plays: an audible original drama
+
+- Upstanders season 1 and 2
+
+
+Usually the deals are posted to this sub (with a link to Audible.com), just search the title on audible.com.au and most of the time it's also free.
+
+Otherwise some specials show up on the store page, scroll around and you'll find it.
+sorting by controversial never disappoints :D
+Which apps did you delete?
+I mean if they'd let us unlock the bootloader then that would ease the frustration. Still, no security update since August 2016 on a April 2015 flagship is pathetic.
+They said before Q4. Considering Nougat is over a year old now it's quite frankly ridiculous.
+My international h815 TWN supports it
+Not sales per se, but there are a few freebies on the Australian site, I can link some:
+
+- http://www.audible.com.au/mt/something_different
+- Untold: The Story of Anna Winslow (about 3 hrs long, good narration but the ending falls a bit short)
+- Listen to love (2 hr series on the gay marriage postal vote, haven't finished it yet but the quality is excellent)
+On audible you pay the monthly fee and get a credit which you use to purchase a book. You essentially only pay once for a book ($14.95). 
+
+Librivox has public domain books that are read by volunteers. The quality is hit or miss, but it's free and there's a couple of radio dramas which are well produced. There's an app for Android which lets you download them for offline listening.
+
+Otherwise you could go to your local library and borrow audiobooks or get the Overdrive app if your library supports it.
+
+btw go on audible, click onto the cancel your membership menu, set price as the reason and it should give a 50% off offer for 3 months.
+I'd recommend either The Martian read by R C Bray, Stephen King's IT narrated by Steven Weber or Ready Player One as your first audiobook.  
+
+Join us on /r/audiobooks and /r/audible
+Civ V or any other strategy game where sound isn't important, or games with grinding.
+
+My favourite games to play while listening to audiobooks:
+
+- Age of Empires
+
+- CSGO TDM aim practice with sound muted
+
+- Rocket League
+
+- Super Meat Boy
+
+- Dark Souls 
+
+
+
+What's your fps?
+Vsync is off?
+You should have raw input on. Have you checked windows mouse settings? Also check if you got vsync on (both ingame video setting and Xbox DVR)
+
+I'm guessing xbox DVR reenabled itself.
+
+Afaik the fall update was meant to reduce input lag
+Have you updated to the the Fall Creators Update for windows 10? If so, have you got "spacial sound" enabled?
+As low as possible, usually anything below 50 is considered decent for matchmaking, anything above 70 puts you at a disadvantage.
+
+Try enabling net_graph in-game to see your ping while you play (it's more accurate than the scoreboard). It would definitely cause you to be shot before seeing the enemy.
+Looks good, hopefully they manage to give players varied yet realistic building opportunities.
+
+Is there an estimate for when the game will be released?
+
+P.S. lots of people are shadowbanned in this thread.
+Does it actually change your FOV? I always thought it just stretched everything sideways.
+Yeah dude it's obviously a 400 IQ product design decision by Google for the blue light to disrupt your circadian rhythm at night to make you spend more time on your phone to see more ads and earn Google more $$$
+Why do you hate your s7edge?
+Wow it's almost like people have different preferences. Who would have thought.
+That and the guy recording conveniently covers the other guy for like 10 seconds and which gives him a chance to drink and then fake projectile vomit.
+PDF SAM is a great alternative. Free and open source.
+Contact the seller on eBay - you should have a 24 month (2 year) warranty.
+
+Source: http://pages.ebay.de/help/sell/business/international-business-sellers.html#when
+
+Source: http://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/index_en.htm
+
+Try contacting PayPal, they might be able to issue a chargeback.
+"most people don't use headphones on phones"
+
+Thanks for making me laugh 😀
+Isn't that something that takes less than a minute to change? I suppose another advantage of the Pixel 2XL is the squeeze-for-GoogleAssistant feature.
+It's weird; the LG G4 and the LG G6 have similar outputs (around 0.79), but the LG G5 has less than half (0.39)
+[Correct link.](https://www.theverge.com/2017/10/17/16486108/google-pixel-2-xl-review-android-phone-camera)
+[Other phones that have a similar headphone output as the Pixel 2 XL](https://imgur.com/a/MUubl)
+
+If you want to do your own comparison, go [here](https://www.phonearena.com/phones/benchmarks), select Audio Output and type "Pixel 2 XL" into the "Search Phone" field.
+
+Well known phones that scored lower than the Pixel 2 XL include:
+
+- Huawei Mate 8
+- Nexus 5
+- Sony Xperia XZ Premium
+- Nexus 6P
+- LG G5
+Dongles are $9 now. An option to pay $50 more and get the Pixel buds included would've been nice.
+- Better camera (both selfie and normal)
+- Updates (both faster and supported for a longer time)
+- Unlimited original quality photo uploads 
+
+That's about it, Note 8 is better in every other way (display, headphone jack, S Pen, higher IP rating, etc)
+https://www.reddit.com/r/kustom/comments/74if2t/kwgt_pixel_duo_a_pixel_2_widget_xpost_randroid/
+
+This could work if you have kwgt
+Which one is your favourite?
+Mods have added a flair, hopefully that will stop the spread of false info.
+[France has temporarily reintroduced border control](https://ec.europa.eu/home-affairs/what-we-do/policies/borders-and-visas/schengen/reintroduction-border-control_en)
+"He also denied that their child had been murdered, but acknowledged that one child became sick and died."
+
+The child died due to an unmentioned illness, it wasn't a miscarriage.
+You forgot the /s
+Between 1.10x and 1.50x. Depends on the narrators, for example Stephen Weber's narration of IT is quite fast, so I slow it down to 1.10x
+Another advantage of USB type C is that it supports headphones, which would be good to have, given that they removed the headphone jack and the only alternative is to use Bluetooth. 
+Got it via an OTA update?
+Not that there were many to begin with lol
+Glad I could help!
+Did you have Google photos installed and set it to back up your photos?
+You can't install GApps because it needs to be installed on the system partition, which iirc is about 400MB. The 13 GB you see is the data partition where all your apps, photos and stuff are installed.
+
+If you're deadset on running Nougat, try the smallest (pico) GApps package from [here](http://opengapps.org/), if you're not deadset on Nougat I'd recommend installing [this](https://forum.xda-developers.com/nexus-7/orig-development/rom-unofficial-slimkat-9-0-grouper-t3214142). It made my Nexus 7 as good as new.
+Not sure, but in case you haven't read the article, there's a couple of examples of the voices pre and post update.
+Pixel 2 XL? It's not out yet but has all the features you listed and should be easily rootable if Google's track record is anything to go by.
+That's odd, for me it is an option, alongside the ones you listed. Have you got the latest version of the app? 
+
+EDIT: **seems to be an option for shared albums only**
+You can hide albums - open the album and hit the 3 dots and select "Hide from albums"
+All three seasons are worth a watch, especially if you liked the 1996 movie.
+What's your favourite Stephen King audiobook?
+On Audible you can adjust the playback speed from between 0.5 to 3. That being said, audiobooks aren't for everyone.
+Was it narrated by Roy Dotrice?
+IT narrated by Steven Weber is even better!
+Cost plays a role as well, and some people prefer to have the option of upgrading their CPU in 3-4 years' time and not having to buy a new motherboard.
+Maybe a stupid question, but are you able to board a plane with your phone without any problems?
+Meanwhile /r/lgg4 still waiting for Nougat 
+LG: "3 years of updates guaranteed" ==> 1 security update every 4-5 months, new android version updates a year after the new OS is announced.
+
+Google: "3 years of updates guaranteed" ==> 1 security update every month for 4 years, a new android version within 1 month of it being announced.
+
+Honestly LG is absolutely pathetic with software updates, a Pixel is a much better choice if you're concerned about updates.
+Snapchat + some kind of screen recorder?
+Same setup, happens to me too. Seems to come and go on a random basis.
+So you're saying that  200+ people pulling out their guns in a nightclub with the music on full blast and flashing lights everywhere would result in less casualties? 
+
+
+No offense but that just seems dumb - you could have finished the game by now, wouldn't have to re-buy it, start over again and play on an inferior system. 
+That drops frames like crazy and requires your phone to stay on.
+Listening to IT by Stephen King on Audible. Incredible narration by Steven Weber, a bit of a slow start with a tonne of character background information which drags on for a bit too long in my option. Currently just over 8 hours in and the story has finally started to pick up.
+Not appearing for me :/ But it's definitely something I'm excited to try, I don't always manage to get though the whole discover weekly playlist.
+If you got windows 10 (or  8.1) you should get the Audible app from the windows store. It's much better than the manager.
+His Last Bow was published on October 22, 1917. 
+First day of fall (autumn) is closer to summer than the first day of spring.
+Not too common, but given that the books you're after are relatively new (and thus likely to still be under copyright everywhere) I doubt it's the case.
+
+Maybe message Audible support and ask what parts are missing. Maybe one of them is abridged?
+Could be that the a part of the work is still under copyright in your country. For example, the Sherlock Holmes Collection (with Stephen Fry) is 72 hours in most countries and only 66 hours in the US because one of the stories is still under copyright.
+Yeah :(
+Try cancelling your membership and then set the cost as the reason and you should get an offer for 3 months at $7.45. That's a decent deal.
+Finally a deal that's redeemable in Australia. Thanks OP!
+2012 or 2013?
+Check device manager ==> unknown devices
+
+Also try different USB ports on your computer.
+Don't, because some of the things he does can get you vac banned. 
+Not OP, but I started my subscription (free book) 2 weeks ago, and now went to cancel, selected cost as the reason and got an offer of 50% off for the next 3 months.
+The dart gets stuck in his finger. There's a little bit of blood visible at the end. Not really that bad..
+1. Check that you have the newest version (0.10.0)
+2. Open the app, search for a channel and subscribe
+3. On the homescreen you should have a subscriptions button
+
+You most likely don't have the newest version. Uninstall what you've got and open the link in this post.(GitHub), download the APK and install it.
+
+/r/globaloffensive is leaking...
+YT Red isn't available in many countries. There's people who would give Google $$$ if YT Red were available.
+No, but you can add subscriptions.
+That's still warranty though. The funny thing is that if your phone dies in the US after 1 year then you're stuck with a paperweight.
+Oh wow I somehow missed that in the title. 
+The "top games by region", is that measured by sales, playtime or something else?
+
+I would've expected PUBG to be up there as #1, it's been smashing steam records as of late.
+Maybe try creating a playlist with just one song, and setting the playlist to loop, rather than just the one song. 
+The button should be green, but without the 1 in the middle.
+
+Good luck.
+Did you buy it in Ireland or any other EU country? If so, you should have a 2 year warranty on all electronic goods and should be entitled to either a refund or replacement.
+
+[Have a read through your rights.](http://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/index_en.htm)
+Yes, although I'm not sure if non-premium can do it. [Press the button next to the one that skips the current track. (very right of the pause button)](https://i.imgur.com/5TaghZB.png)
+Press it until it turns green with a 1 in the middle.
+That's a great analogy!
+I've had this randomly activate in the YouTube app about 3-4 months ago, and after 2 days it was gone. 
+
+Now that the desktop site has it too I'm guessing it won't be too long before it comes back.
+The tube is the metro/subway system in London. There was a bomb that went off in one of the carriages, leaving about 20 people injured with facial burns. An 18 year old man has been arrested in connection with the bombing.
+Yeah it's a [copypasta](https://www.reddit.com/r/copypasta/comments/35actk/this_old_gym_rat/).
+> If I see a fat person in McDonalds scarfing down a trayfull of Big Macs, I'm going to be a judgemental arsehole.
+> 
+
+[wtf this is a copy-pasted comment too](https://www.reddit.com/r/AdviceAnimals/comments/12we1m/fat_people_problems/c6yqif9/?context=1)
+Other OEMs are equally as bad - my LGG4 hadn't yet received Nougat when Oreo is already out, and security patches are virtually nonexistent. 😕
+Yesterday there was a post here accusing LG of false advertising  their  device's camera (the LG V30). The EXIF data showed that it had a f/1.69 aperture, when it was advertised as f/1.6.
+
+This email is LG saying that the exif data was wrong on purpose, to safeguard proprietary information.
+Lmao Dreamhack obviously isn't a family friendly show :D
+You need to sign in with your school/University email address to use Google drive/Gmail/Google docs on your phone, which iirc gives your school/uni administrator the ability to wipe your phone through device manager. 
+The US is the #1 exporter of freedom
+[The Murders at the Lake](http://www.texasmonthly.com/articles/the-murders-at-the-lake/)
+
+Additionally check out [this](https://longform.org/archive/tags/true-crime)
+Did you have ADB enabled?
+Can you name some phones that have removed it and replaced it with "all sorts of things, including a larger battery"?
+
+The HTC U11 had a lot of wasted space, and a relatively small battery for its size, and the iPhone 7 had a lot of empty space in the lower right corner (check out the iFixit teardown [here](https://d3nevzfk7ii3be.cloudfront.net/igi/N4D3ZrEPhKuEhRei.medium))
+
+And bluetooth headphones need to be recharged every 5 or so hours, which is something I'd rather not worry about.
+$$$
+Perhaps your usage is different from most, but for me personally the headphone jack is an integral part of a smartphone. I use it daily (2 to 4 hrs) to listen to Spotify/Podcasts. 
+
+The thing is there's no good reason to remove it; it's possible to have a headphone jack and waterproofing (as the galaxies proved), it's cheap and it slows down the wear and tear on the charging port. Furthermore, most phones that have dropped the headphone jack haven't replaced it with anything (maybe excluding the iPhone 7 with its vibration motor) useful - the htc u11, for example, has a tonne of wasted of space.
+
+Some other disadvantages of dropping the headphone jack:
+- annoying to carry around an adaptor
+
+- wear and tear on the charging port
+
+- USB C doesn't 'spin' around, while a round headphone connector can
+
+- can't charge and use headphones at the same time (eg. Walking around playing Pokemon Go and using a powerbank to charge your phone)
+
+Perhaps for you the headphone jack may not be necessary, but I think  95% of /r/android would consider it an essential part of a smartphone.
+I think it's a one parter, neither the title nor the description have a "part 1" in them.  I'll update once I finish it 😀
+Read books, study, hang out with friends, get involved in a sport. There's tons of hobbies you can try, go on /r/AskReddit and have a read through [the cheap and fun hobbies.](https://www.reddit.com/r/AskReddit/comments/46v4y5/whats_a_fun_hobby_you_can_get_into_under_50/)
+5.6 hrs in a game that hasn't even been out for 5 years - that's **3 hours and 10 minutes a day**, every day. OP, acknowledge that you have an addiction problem, check out /r/stopgaming and try reducing the amount of time you spend on csgo bit by bit.
+https://www.twitch.tv/videos/164376579
+https://www.twitch.tv/videos/164376579
+
+VOD of the Comanche vs Imperial game. Starts about 10 mins in.
+I tried GPM once for 3 months (a free trial) and it was so bad compared to Spotify - laggy, unintuitive and the final straw was when it deleted most of my downloaded music while on holidays. 
+
+That day I vowed to never use GPM again.
+Some G3s had overheating issues and bad screen burn in. Contact the seller and ask if the phone is doing any of the aforementioned things. eBay buyers protection is pretty good if things go wrong.
+That's multicore rendering and afaik it makes very little difference.
+Portal 2 (both local and mp)
+
+Left 4 Dead 2
+
+Borderlands 2
+
+Payday 2 and Payday the heist
+
+Dark souls (a bit hard to coop, but fun when you get it to work)
+That's a goose though, isn't it? 
+> credibility of Esports
+
+> ex-iBP unbanned
+
+
+Pick 1
+  
+Because they are the only chance North America has in making it out of the quarter finals of a major.
+Indeed I am.
+I don't think prison and not being able to compete in csgo tournaments are comparable punishments. 
+Username checks out.
+Like I said; I didn't bet on that match. And overall I made like 1$ profit so don't feel too bad for me m8. 😀
+$0. I've only ever bet like 5 times on csgl and each time I placed a bunch of 3 cent skins. 
+It can't even identify songs, while Google now, which is literally made by the same company, can. The only good use of Google assistant that I've found are the weird and quirky games. 
+Punishments also serve as a means to deter potential perpetrators. 
+
+They were all adults when they decided to match fix; do you really think they didn't know that what they were doing was wrong? 
+I'd argue that match fixing is worse for fans than cheating.
+As of right now they're not, but in 10 years' time they might be. Just look at the total prize money across csgo, Dota 2 and LoL - it's been growing at a crazy rate.
+Really? For knowingly and purposefully scamming their fans, destroying the game's integrity in the process and not admitting to it until the evidence became undeniable. 
+
+They should remain banned forever.
+I honestly don't understand why people want them unbanned. In any other sport they would be banned for life and criminally prosecuted, and if Esports are to be taken seriously then ValvE and tournament organisers should protect the game's integrity and strongly punish matchfixers.
+Try NewPipe on fdroid.
+Yeah he also seems to be carrying a shopping bag and his hair in the video seems both darker and shorter than on the CCTV footage.
+
+I do think that he went to London for some kind of meet-up - either with someone he met online or just a large scale one.
+I don't think it's him; the strap of his bag is grey whereas on the CCTV of him at King's Cross it's black.
+
+He seems to be part of the group of 4 boys (about 37 or 38 seconds in, as the camera pans to the right) 
+/r/iamverysmart 
+
+"a very basic and complicated topic"
+
+what? 
+
+Sorry my IQ isn't above 200 so feel free not to reply if I'm not qualified to talk to you.
+You thread the laces though the top holes on your runners, forming a loop on each side, then thread each shoelace through a loop on the other side which basically 'locks' your heel in place (which prevents blisters)
+You can change the fps in the settings. Default value is definitely more than 2 fps though.
+Ingame casters' commentary sounds like shit compared to the stream.
+Omg my cpu 😀 the game ran decently until last week's update. Now I barely hit 60 fps 
+TLDR: OP goes through the different playstyles with the AK47 (spraying, bursting and tapping) and just concludes that a hybrid burst is the best, as it is the most consistent & benefits your team the most if you don't end up getting the kill.
+What errors are you getting? /r/techsupport might be able to help.
+Looking back, did you ever get a steam guard code notification when you weren't trying to log in? That would indicate that the scammer knew your password.
+You don't need to make a playlist for each album; just search for the album you want to listen to, click on it and select the first track (or hit the big green shuffle button) 
+
+
+Source on Valve acknowledging the problem?
+You don't have to root your phone to get the app running. If the app isn't available in your country (North Korea? 😀) then grab the steam app apk off apkmirror and install it.
+
+Does your friend have a tablet? It doesn't necessarily have to be a phone for the app to work.
+
+Remove one episode from your viewing activity, then it should give you an option to remove the whole series.
+Yeah with the HTC U 11 you can squeeze the sides and it takes a photo if you're in the camera app or triggers Google assistant if you're in any other app. Obviously there are more use case scenarios, but they all seem gimmicky.
+My LGG4 consistently gets between 4 to 4.5 hrs of SOT per day. Not bad for an 808 and a 16 month old battery.
+https://pcgamingwiki.com/wiki/The_Surge
+I thought that the bootloader on the h815 sea was unlockable too. 
+Depends on the game tbh, if it's something open world like GTA V or WatchDogs 2 then you're gonna notice the lack of RAM. If it's something like CSGO, Dota 2 or League of Legends then there won't be much difference. 
+
+Install MSI Afterburner and check what your CPU/ram/gpu usage is when your frames drop.
+What gpu do you have? 75 to 85 C is probably considered a 'healthy' temperature under full load. 
+Does the Ryzen 5 1600 (non-X) support 3200 MHz ram? 
+Haha should've posted into the tech support sticky 😀 just make sure you don't 'run' anything, just paste the file into your save game directory and launch the game. 
+Use Google & common sense when downloading save files (ie. don't go on dodgy websites and don't download  .exe files) Then paste the save file into <Uplay-folder>\savegames\<user-id>\54 (this is off pcgw, your directory may differ)
+
+Edit: the save file shouldn't be more than a couple of megabytes at most.
+I don't think you meant to post your questions as a child comment. 
+Open Broadcaster Software.  It's got quite a steep learning curve, but there's lots of tutorials on YouTube and online. 
+That seems really complicated. You can  record audio  with obs or any other recording software, or record your hangouts conversation with video, open vlc and convert it to MP3.
+It seems to work if you open it in the Imgur app. [Try this.](http://i.imgur.com/8WGlAHw.jpg)
+Has there been an update for GTA V in the last week? Have you updated windows 10 to the creators update?
+Might be a stupid question, but are you sure you're ​running the game off the NVIDIA gpu, not the integrated graphics on the i5?
+
+Also, is it only gta that runs significantly worse?
+Try downgrading your drivers. What's your CPU/GPU/ram usage while in game?
+If you are getting the 1060 make sure you get the 6gb gram version.
+Chrome had an update about a year ago which removed tabs from showing up in the 'recents' (square button). 
+Change your system language to English (US). Activated assistant instantly for me 
+He had a batting average of 99.94 runs, not %. 
+You can disable it in settings
+Open video in yt, then share to NewPipe and it should work 
+[This](https://www.reddit.com/r/Music/comments/67clrm/ive_listened_to_an_album_everyday_for_a_year/) guy just completed 365 days of 1 album per day. Check out his Google doc for some suggestions. Go through some top rated albums that you haven't heard yet.
+Both GOG and steam have it for free at the moment, the GOG version has an exclusive patch which apparently runs better than the steam version.
+Is it in the same spot in every shot? If so, check for dust/dirt on top of, and on the inside, of the lens.
+Not OP, and while I actually do like this model & prefer it to the standard 1 episode per week, OP might dislike it as it can increase the chance of reading spoilers if you don't have time to binge it within the first day or so.
+When all episodes are released at once (the Netflix model)
+It is way better than the stock launcher, not the entire UI. It is way more customisable, icons aren't insanely big by default and for me, it is much smoother than stock.
+Are you sure you've not booted up in safe mode? 
+Nope.
+Long-press on it and it should take you to 'Android System' and block all notifications. That does get rid off it but also of other important notifications so i can't really recommend it. :/
+
+Maybe different ROM or root & gravitybox? 
+Most of them do, I'd personally recommend Podcast Addict, but AntennaPod and stitcher are decent alternatives too.
+>status ***in*** Steam
+
+The wording seems a bit off. It's an old and quite active Twitter account though, so maybe that gives it a bit more credibility. 
+Podcast addict is quite good, very feature rich, though the learning curve can be a bit steep (but once you figure out out it is by far the most customisable podcast app) it's my current go to podcast app and premium gets rid off ads.
+
+AntennaPod is an open source alternative with a nice design, although personally it lacks quite a few important features. Nevertheless it's a good looking app and is recommend it for someone starting out. No ads in the free version which is good.
+
+Pocket casts is apparently quite good, and offers web player sync iirc which the other two do not. I have never used it so I shouldn't comment.
+You don't need to be rooted to disable the log services. 
+What worked for me (with systemless root) was to remove root in supersu, then log into Snapchat, then reflash root. Hasn't logged me out in a week 😀
+Yes, I had the same problem. Install Spotify and all downloaded songs (if you have premium) onto internal storage, not the SD card.
+Episode #178 'The Great Restoration'? It isn't about the Statue of Liberty in particular, but raises some thought-provoking questions about renovations, such as "when you choose to restore something, which moment in time are you restoring it to?"
+
+
+
+It's in the post. It's the Viglen Connect 8" (Intel 1.33GHz quad core (Intel® Atom™ Processor Z3735G - 2M Cache, up to 1.83 GHz)
+1GB LPDDR3 Memory + 32GB Storage
+8" IPS 1280 x 800Wifi + Bluetooth
+Windows 10)
+Assuming you're rooted, use a storage TRIM app and trim the cache and data partitions(do this like 2X a week with heavy usage that writes a lot (eg installing apps)), install kernel auditor, set the maximum CPU frequency to 1300 MHz and set the CPU governor to performance (it will reduce battery life, but it's worth it imo) and tick the apply on boot slider.
+
+Source: my old & slow N7 2012 is now usable (rooted KitKat 4.4.4)
+If it's off Netflix then it just says "casting Netflix to [Chromecast name]. Not the content being watched.
+You can pick it up on steam (pc) for about 8$ (all episodes) during a sale.
+Monument Valley is breathtakingly beautiful. I also love the Telltale games for their art style.
+Downgrade it to KitKat or put CM 10.2 and it'll run much better.
+Check the bootloop thread. 
+[This is the one that in currently using. It has lasted over 6 months and apart from a little chip in the plastic it looks as good as new.](http://m.ebay.com/itm/271945912618?_mwBanner=1)
+142 thanks OP! https://steamcommunity.com/tradeoffer/new/?partner=63940585&token=NiWHBS6s
+You can change the parental lock yourself if you know the account password. You can also delete your viewing history by logging on a PC and going Account-->Settings>Watching History
+I don't think there is but if you do find a way to sign in then please let me know 😀
+If they're still locally stored then you'll be able to view them, but if they're on the cloud only then you obviously need internet connection. 
+
+But the appeal of GP is that a) your photos are backed up in case you lose your phone b) they're ready to share with others
+Check out NewPipe and Share to NewPipe (which lets you share videos from the YouTube app to NewPipe and makes it a seamless experience) on fdroid.
+Galaxy S what?
+You're better off posting in Thursday's"What Should I Buy" thread. These days the majority of phones has a screen larger than 5" so it might be challenging to find a phone that fulfills all of your criteria.
+Data usage (unless you're unlimited), Google having more of your information and the possibility of a hacker stealing sensitive photos. But honestly these downsides are massively outweighed by the advantages 😀
+You can get an app called Greenify and turn on aggressive doze
+Haha did you drop it out did it bootloop? 😀
+
+Yeah honestly the jump from a nexus 4 (guessing that's your current phone due to your flair) to anything in the list above would be huge. Shame the pixels aren't in stock :/
+My opinion (subjective)
+
+Google Pixel (and Pixel XL)
+
+
+Note 7 (recalled due to batteries that go boom)
+
+Samsung Galaxy S7 edge (Exynos)
+
+LG V20 (LG has had since QA issues)
+
+One Plus 3
+
+
+Gallery thumbnails or as part of your app cache? App cache is safe to delete. 4GB sounds excessive though
+There are 3rd party keyboards available (search up SwiftKey or Chrooma on Google Play) SwiftKey is very customisable and I would definitely recommend it, especially for people who write in more than one language
+
+APKs are file extensions for apps on Android (like .exe on windows). When people say APK they mean the file for an app. These can be downloaded from third party websites such as apkmirror.
+
+You don't have to know about bootloaders unless you're planning on rooting your phone (sort of like Jailbreak on iOS), but it needs to be unlocked in order to get root access on the latest Android operating systems (Marshmallow and onwards, you're on Nougat)
+
+If you do root then be advised that you will lose the ability to use AndroidPay. 
+
+I can't answer the Pixel unlocking question as I don't have one 😀
+
+If you're unhappy with the Pixel launcher (your home screen and all drawer) and are looking for something more customisable is recommend Nova launcher or Action Launcher.
+This post is a lie.
+What's the general consensus on the Punic Nightmares series on this subreddit? I found it to be one of the best ones to this day. Definitely would recommend.
+What format are the movies? Perhaps they're in a format that the gallery cannot recognize.  
+Did you use the same password & email combination for another service? If so, then most likely it got hacked and your email and password combination leaked. Search up "have I been pownd and it should tell you from what type account info got leaked.
+
+Ofc change your password and enable 2 step verification for your email & important services.
+You can probably trade for it for on /r/SteamGameSwap or other places (eg. Outpost or csgl)
+Try material islands
+Google photos in my option, although I use it alongside the stock app.
+Unlike the other suggestions this doesn't constantly play a sound in the background.
+With regards to the OP3's display, there were quite a few people complaining about it due to its PenTile AMOLED layout (which makes the 1080p screen feel more like 720p).
+
+I personally haven't seen/used the OP3 but it's something you should keep in mind.
+Shouldn't slow your phone down noticeably unless you have very little space left (for app cache) if I were you I would put movies on the SD card.
+Windows 7. Am I correct in assuming that the computer would have to be running for the wifi network to work? Thanks for your help
+Set up a wifi network (wifi hotspot) through a wired connection from either a PC or directly from an Ethernet cable. Sorry if the question is confusing, I don't think this is a common scenario 😀 
+
+Probably not even possible to do it, but worth a shot.
+
+(PC connected to internet, can I set up a wifi network through my phone)
+
+A wifi adapter never crossed my mind. I might give that a shot 😀
+Check the bootloop thread. Where are you located? If you're in the EU or Australia you should be under warranty no matter what.
+It's called "Blueprint for Armageddon" and it's a six part series I wholeheartedly recommend.
+It's a replacement, not something that goes on top. If you have any other questions feel free to pm me.
+Think about it as any other app, you install it and then set it to be your default launcher (really simple to do, literally 2 taps).  Then your homescreen looks like when you first got your phone and it's up to you to customise it (add widgets, apps, etc)
+
+To get the Nova launcher to look the same as the new Pixel launcher you need to be on the beta of the app & have Nova launcher premium (one time purchase of about 4$, tied to your Google account, regularly goes on sale) and then just follow instructions that you can find online. 
+
+Nova launcher does not remove anything and does not interfere with software updates. It lets you import your current setup if I remember correctly. 
+
+Try out the free version, it's really good on its own :) You can always go back to your current launcher if you end up not liking Nova.
+That's a lot of music :P I think it only counts playable formats (ie. encrypted spotify songs stored for offline playback won't be counted, but im not sure) 
+
+Glad I helped!
+Nova launcher had this for years 😀 
+Open file manager (stock one) and it should tell you. [example picture](http://i.imgur.com/vc9Ho1r.png)
+I feel like starting with such a broad range of topics is not the best idea. Podcasts either have a general topic/theme (eg. Talking about history, music or murders) or hosts that remain the same (same sense of humour, same chemistry) so that the listeners know what they're getting into prior to actually listening to it. Not having a consistent theme nor hosts (assuming you're going to be interviewing a different person every episode) is going to make that difficult.
+
+Maybe alternate topics after 3-4 episodes and see what works and what doesn't & make sure you somehow differentiate yourself from other podcasts. 
+
+
+What do you mean? If you mean rooted then I think the new update is causing some issues.. 😕
+meta2fast
+Update us if you get a reply.
+They'll probably release an update that will brick the phone sometime soon.
+Even weirder is the fact that she replied to an 11 month post. 😀
+Greenify
+Sorry if this is a silly question, but is Terrarium 'legal'? 
+Casefile, Sword and Scale, The trail went cold, thin air podcast, the unresolved podcast
+Mine had been charging rather slowly in the last 2 or so weeks. I've also tried different cables and chargers. 
+Most of the Telltale games, specifically The Wolf Among Us and both seasons of The Walking Dead (though S1 is much better than S2)
+Yea currently it takes about 2.5-3 hrs (screen off) to go from ~10% to full. Before (also screen off) it was easily below an hour and a half, with the same exact wall charger and cable. I might have to do a factory reset or something :/
+
+
+My phone recently began charging at an astonishingly slow pace, regardless of charger / usb cable used. Anyone experiencing similar issues or know any fixes? (It's been the case for the last 3 days only)
+
+Have you tried using your computer or another phone to test whether or not it's corrupted?
+How you can use the Google translate app on your phone to get text translated in real time, through your camera. Although I rarely use it, it completely blew me out of the water. 
+Pulsar Music Player
+
+Untangle
+Steam
+
+NewPipe
+
+Open Sudoku
+
+Greenify
+
+Nightmode
+
+Adventure Capitalist?
+Does the web player work? If so, then the should work too.
+You could use a mirror :)
+Try going to the stable branch rather than the beta. (KLWP worked for me on Nova launcher prime about two weeks ago)
+What launcher are you using?
+If you're in the EU you're supposed to have a minimum of a 2 year warranty (in the case of faulty goods) [Link](http://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/index_en.htm)
+150+ hours is by no means 'a couple'
+"Hey noobs There's a difference between a sniper playing for his teammates and the teammates playing for the sniper. I'm co-leading, organizing every defaults, our "bomb site taking", nades, etc .. I'm going first when it's tough eco/buy round, and I'm throwing the nades when we do specific tactics. In the pistol round I'm buying the smokes and flashes. Anyway life is tough sometimes but I'm getting paid very well. I don't care about having 30 frags, 1.50 rating, I don't care having fragmovie about me, I want to win. And you know what? I've been winning since 10 years with all of my teams. I'm not here because I'm shox' best friend. Shox got kicked a couple of times and I've always followed him coz' I like playing with him, we see the game the same way and we have the same work ethic. No disrespect, today we have the best team ever, IG / Outgame. Still a young team but proud of what we've done so far." - SmithZz
+And this happened right after it came on contact with water?
+If they take it apart then yes. Does or vibrate when you turn it on? It could only be your screen that's fucked up.
+Yeah I think that could be it. 
+It would assuming you were going to buy all of that stuff anyway. It would however be a waste of money for anyone who isn't interested in Daydream or Google drive storage.
+HTC 10 had nonexistent marketing :)
+Definitely wait another 10 days until the new Nexus (Pixel) phones are announced.
+... after 30 days.
+Because that's where you already have all your contacts. It's quite inconvenient to get all your friends to switch to a newer app with the same exact features. Allo needed a selling point otherwise it's DOA
+You can whitelist apps :)
+Install Greenify and switch on aggressive doze.
+[My current homescreen](http://i.imgur.com/qgdPgWr.jpg) Using Nova launcher and whicons (the bottom icons are from the Lines free icon pack)
+[You can use this site to find out out where your email/password was compromised](https://haveibeenpwned.com)
+Does it still drain the battery like crazy or have they fixed it?
+Shame them on Twitter in a relatively mature way. Works wonders
+Didn't realise that :) The base edition is $99.95 AUD here.
+[Aussies get fucked over even harder](http://i.imgur.com/p1kBVfQ.png)
+As /u/Dante897 said, there are different hardware models of the LGG4, which all use slightly different software. You can flash a kdz file in order to downgrade or upgrade by following [this](http://forum.xda-developers.com/g4/general/guide-lg-g4-stock-firmware-to-stock-kdz-t3107848%5C) xda thread, but make sure that you get  the right kdz file for your HARDWARE model. (v10x are security patches under LP, while v20x are under MM - where x is a letter.).
+Android 6.0 has a built-in battery saving feature called Doze, which activates when your phone is stationary and gradually decreases the number of app-specific calls in the background. It is quite effective in my opinion, only 1 or 2 % are used during the night.
+If all else fails then take the Twitter route. You'd be surprised how quickly they'll get back to you. Link the bootloop thread to show that it is a relatively common problem.
+Contact then again and if they refuse shittalk them on Twitter (in a mature way) and they will get back to you.
+Did the friend ever experience the same issue? If I were you contact LG support.
+Are you under warranty? Have you tried talking to your carrier? 
+Have you tried a factory reset?
+Is it just for the stock camera app or does it happen in other apps too?
+Data yes, location only when I med GPS or tracking a run
+Hmm that's really weird. Maybe try a factory reset? There's no reason your phone should eat through batteries like that.
+Are you on MM or LP? Also, was your phone stationary during that time of was it your pocket?
+Seems to be discharging quite slowly (good news for you) but that might be because the battery isn't properly calibrated. Give it two or three days to calibrate.
+Can you post the usage percentage table?
+Mine is running fantastically, the only time that it got noticeably hot was when I was Snapchatting while charging. Usual SOT is around 4.5 to 5.5 hours.
+Works for me in manual mode
+You can use voice detection fyi
+Are you in an area with limited reception?
+Smart settings maybe?
+Tap on the hamburger-dot menu (the 3 dots) , hit 'Hide/Show Apps' and then hide the one you want gone.
+Mine is running at about the same temperature, but then again I don't recall it getting noticeably got during normal use (it did heat up quite a bit while updating though)
+After about 1 day, battery life seems about the same (4.5 to 5.5 hrs), however it seems to discharge faster from 100% and then it sort of plateaus out.
+TWN has it too [Screenshot](http://i.imgur.com/dMbpxz2.jpg)
+It's episode 7 of a podcast called "Casefile". The episode is called 'Case 07: Julian Buchwald and Carolynne Watson.
+Nope 😐 still on v20d
+Should be fine (assuming that the subreddit's consensus that post 509s are safe is correct). Nevertheless, I recommend that you use Google photos to backup your pics & videos.
+
+You can check the stickied bootloop thread and CTRL+F 511.
+Also let's you download the videos.
+You can check for software updates in the phone's options or find a kdz file online and flash it using LGUp. 
+Mine does that too. I think it's because the photos are encrypted when locked and the reason why they aren't full res is because it would take quite a while for the phone to decrypt them (especially if you like to flick through then quickly)
+Most likely it's the glass pressing down on the digitiser. You can get replacement screens off Amazon or eBay, butn it might be a bit risky if you haven't replaced a screen before. If it isn't overly annoying then keep it the way it is. 
+Episode 15. I recommend you get an app called Podcast Addict.
+You could probably do it with something like Tasker
+Carrier 
+Wrong thread maybe?  But I agree, blueprint for Armageddon is very good. 
+At least it isn't on my end :/
+Was hoping I could listen to the first episode today but I guess I can wait. I've tried different browsers & clearing cache and cookies, but that hasn't changed anything.
+Definitely worth a go and if that doesn't work then contact LG or your carrier. 
+Yeah 6%for 75 minutes is pretty good ☺️
+Have you done a full factory reset? 
+Did you stream the movie order was it locally downloaded? 
+I still think that SwiftKey's implementation of multiple languages is far better than Google's. 
+I find the google keyboard more fluid than SwiftKey. Is it just me or someone else too? 
+If you're looking for advice post in the /r/android subreddit in their weekly what should I buy thread. 
+Maybe wait for the new Nexuses to be announced & released and then you can get a 6p quite cheap.
+FYI You can save posts on reddit 
+OK try to follow these instructions,
+
+1. Open the camera app, makes sure it is in "Auto", then hit the "Mode" box and select Slo-mo
+2. Record video
+3. Go to gallery, the speed up/slowdown controls should appear on the right hand side once you begin to playback the video
+4. profit :D
+Gallery works for me. On the right side there are arrows going up and down which alter the playback speed
+https://www.kogan.com/au/buy/lg-g4-4g-lte-32gb-brown
+http://www.canonoutsideofauto.ca/play/   this site explains it quite well 
+Yeah he has to if he wants root on a locked bootloader device (which the twn version is ) 
+If you still have the photo on your phone, you can hit view details and it should tell you. Great photo by the way!
+Is there a dialer app that works on the LGG4? I'm looking for something that can replace the sort of ugly stock app. Any suggestions are appreciated. Thanks :P
+Generally you can't flash a custom rom on a phone with a locked bootloader. There are some exceptions for specific phones but afaik the G4 is not one of them. 
+Probably update and then download all your apps. In case your phone's battery life goes to shit after updating just do a factory reset. 
+Check the megathread. Some of the 600 series  bootlooped but nowhere near as many as the pre 509 SNs
+Ok get back to us once you reset ☺️
+Yes. Started 2 days ago & coincided with me setting up "OK Google" voice detection, however given that other people have the problem too I don't think that that's the cause. No system updates or anything like that, using Nova Launcher Prime & on MM.
+Nova Launcher Prime (the free version is good enough on its own, but the pro version has some neat features.) Regularly on sale too.
+I'd say that The Wallflowers' cover was better. [link here](https://youtu.be/O18bslNM9mE) 
+Probably better off not printing your username on it and maybe having one card with the password and one with the recovery code. There is literally no reason to have your account name on it.
+Same thing here,  haven't updated in about a month but the issue first appeared 2 days ago.  Thinking it has something to do with ok google but not sure...  On MM btw
+cheers.
+Is there a way of adding an episode of a different podcast to play after the current episode? 
+Open up your take out battery and it should be there. 
+Don't think it has been proven that MM is more likely to boot loop than LP.  Your serial number is near the imei number,  the first three digits tell you the date y/m/m of your phone's manufacturing date.  Should start with 5 or 6 and be more than 505.
+Correct - cooldown is 30 days from the moment you put in the card's code.
+Did both of them not stick to that area of the phone or was it just one of them?
+It works now 
+If you like some of the more unsolved mysteries-esque episodes of criminal then I would recommend the Casefile podcast.  It is by an Australian guy who focuses on unsolved mysteries in Australia and around the world (though the last few episodes were all set in Australia) 
+
+Can you elaborate on app settings? 
+Have you got Twilight, flux or any other all that is already drawing over running? If so,  try disabling them and trying to find permission again. 
+Can confirm that you can capture at 60 fps 1080p. I've had the app installed for about 45 days and no suspicious behaviour or anything like that. 
+Could you post a picture of the bubbles with numbers? I've never had any on my G4 
+
+
+Just be wary of the bootloop issue that a (vocal) minority of users has with phones that have a SN of less than 510. (Manufactured in Oct. 2015). Yours will most likely come with MM already installed (at least mine did, bought in March) but if not then play around on LP for a bit and then upgrade. 
+I'll check it out! Thanks
+Well written praise (and some criticism) of the G4. I agree that the camera is outstanding, that removable storage/battery are often underappreciated and that the UX is focused more on functionality than it is on visual appeal, however I find that the default music app is fantastic and better than any of the alternatives that I've tried (MediaMonkey, VLC and Google Play Music). What's your go-to music player?
+Christina Gutierrez, best known for defending Adnan Syed in Hae Min Lee's murder (Serial Podcast). [Just listen to her, her voice is fucking atrocious](https://serialpodcast.org/season-one/8/the-deal-with-jay) 4.55 minutes in
+because it is profitable
+Damn that jail is gonna have a great soccer team
+What country are you in and where did you buy your phone from? 
+Is the DLC accessible after finishing the game or is it during the game itself? I finished Bioshock 2 like 2 years ago without the DLC and if I bought the DLC now would I have to replay the whole game or not?
+On the G4 you can 
+What settings did you use OP? 
+Manual mode and set the shutter speed  to between 8 and 30 seconds. Also lower the iso
+He said he would remain PM until October
+The app has supported live streams for a while.  For example I can watch the livestream of France 24 News. 
+When will this thread get removed for local news? 
+This one is much better imo. You can even read the numberplate - the camera is good :P
+No offence but OP's photo is way better 
+Did it just randomly bootloop or was it a a result of trying to root it? 
+* Like if you're watching this in [insert current year]
+* first
+* i love [insert old band] and im only 11. fuck my generation something's wrong with it
+Son of Saul
+Are the locked images on your SD card? If so, then it may be corrupted. Unlocking is working as normal on my device.
+Some people say that their battery life is lower on Marshmallow than it was on Lollipop (I'm on M and get ~4hrs of SOT (+-30 mins, depends on the day)). 
+
+Advantages of LP
+
+* Can root
+* Better battery life
+* Runs smoother (according to some)  
+
+
+
+Advantages of MM
+
+* Doze (better battery life management when phone is locked and stationary for a long time)
+* Permissions system (if you care about privacy)
+* Better UI
+
+
+If I were you then I would probably upgrade. Make sure you do a factory reset after updating as that apparently helps in avoiding issues with MM. (therefore back your stuff up :P)
+
+PS. 601 should be safe from bootloops (I have a 601 too) but you never know 
+What are the first three digits of your serial number? If its <509, your device can  be prone to "bootlooping"  so make sure you back up your photos often.
+Should be on the bottom right as a checkbox. If not then restart the protean 
+Highly unlikely that it will go above 66% off, I can't see it being over 75 % off during the Summer Sale so if I were you I would buy it now, unless you don't mind waiting or have other games to play.
+http://imgur.com/AMZnRLN
+
+Using nova launcher and a random background I found online. 
+Pretty sure that you can download language packs and use them offline in the google translate app
+Tried again I guess the animations lagging were a one off thing.  It's running great on my G4 
+Coming in expecting a lacklustre copy of candy crush, I was very pleasantly surprised with your game. I love the button designs, the fact that there are options for different themes and even colour-blind support. I played through the first two levels of each difficulty.  Two things I would like to point out: 1. The animations can seem a little bit laggy
+2. The levels seemed a bit too easy but having said that I only played the first two levels of each difficulty so have to play more to find out whether or not it gets harder.  
+
+
+Also tapping on the tiles was a bit confusing at first but I could be because I skipped the tutorial. Once the level is finished there should be a prompt on the screen to go back to the menu rather than the small icon on the bottom left corner
+Dark Souls 1? Runs decently with my ancient 5850 and q8400 with 4 GB of RAM.
+Store it in an alt account if possible. Your items are most likely safe but better safe than sorry :P
+Does your phone start to overheat?
+Somewhat related, does anyone know how to stop Valve games (especially CSGO) from changing the keyboard layout to English (US)? Sorry if its off-topic.
+741
+Did you disable the [MLT service?](https://www.reddit.com/r/lgg4/comments/4fb4uf/psa_free_up_some_ram_up_to_300mb_and_maybe_gain_a/)
+I recently did and it freed up ~200 MB of RAM and by battery life improved by a ton.
+Does this void the warranty?
+One is on the bridge and the second is at the bottom, in the sewage duct (very close to the rotating elevator)
+Morrowind for any question related to videogames. 
+Not sure, but going by the state of this subreddit and other forums it sounds like a lot of devices are affeted
+Make sure you backup valuable data on your device, in case of your phone stuffing up (especially if your SN is 509 or lower as they are prone to bootloop issues)
+Mad Men, Broadchurch, House of Cards, The Returned and The Last Kingdom
+
+If it's the "No serial available yet" error, then just try again in like 3 minutes.
+Old game, 90% positive rating and has cards.
+
+EDIT: ~~Getting the "No serial available yet" error.~~ Works now. Thanks OP!
+You're right. For achieving level 10 (and every tenth level) your booster pack drop chance increases by 10%
+Have you still got a few promo codes? If so, could I please have one?
+I mean the last few games (III onwards) have all been a satirical depiction of US culture.
+Have you tried completely running down the battery and then charging it for ~1hr after it says that it's full? That seems to work for some people who had similar issues as you.
+From what I've read, yes. But even so, make sure you have a backup 
+AFAIK anything after 509 should be fine.
+Maybe the fact that some media reported that Salah Abdeslam was cooperating with Belgian authorities led the others to prematurely attack Brussels to avoid any chance of getting caught.
+Make sure you back up things that you don't want to lose.
+Twice :D
+Keep in mind the Nexus 6P is really easy to [bend.](https://www.youtube.com/watch?v=r3cWVdLqXCg)
+download 'BorderlessGaming_8.4__setup.exe', install and follow the prompt, then launch Borderless Gaming and the game you want, alt tab to desktop, add the game to your favourites by selecting it from the left side and hit the right arrow to put it onto the right side.
+Also available [here](https://github.com/Codeusa/Borderless-Gaming) for free, although I'd recommend you support the developer if you like it. :)
+works on desktop.
+> Just set up my authenticator a couple of weeks back to start trading again, looks like I'll be waiting another week to set this up.
+> 
+> 
+
+For me I could confirm market listings immediately after setting up WinAuth, but for trading its a week.
+OK, thanks for your in-depth answers. 
+It's really interesting seeing some people who have ~5 hours of SOT, while others have ~2.5 hours, in some cases maybe less. Would you say that your SOT is on the lower side or is it what I should expect. I'd want something that can get me through the day.
+I want something that I can listen to music on whilst on the go, take good photos and browse reddit/watch netflix on. I think the size of the phone is fine for me, although I would also be alright with a 5" one. Also for 400$ it is quite a good deal, at least when compared to other phones. I'm a fan of the removable battery and SD card expansion, which is why I'm not interested in any of the nexuses or the S6.
+It's a decent game, however the UI on PC is atrocious and the default key bindings for EZdrive are even worse.
+WinAuth has the option to do so. Although I agree, the mobile app should definitely have a button to confirm all.
+WinAuth can do mass confirmations FYI.
+Maybe by following these instructions from [here](http://gaming.stackexchange.com/questions/40761/how-do-you-force-steam-to-use-a-different-account-for-each-windows-user-account). Keep in mind that storing account credentials without encryption is extremely dumb.
+
+>Because of the way that steam does things it's not able to have multiple auto sign in configurations per installation. You'll have to resort to trickery:
+
+>Disable account credential saving in the settings dialog.
+Create a shortcut for Steam on each windows account, edit the properties and give it these launch options -login %u %p. This logs into Steam with the specified Username and Password combination. Replace %u with the username, and %p with the password you want to login with (Steam must be off for this to work).
+
+>If you still want Steam to automatically startup, while logging in to the appropriate account, disable automatic startup within Steam and place the shortcuts in the Start menu → Programs → Startup folders of each windows account.> 
+> recently, my boot times have been getting longer and longer, the norm now being about 60-80 seconds. this is booting from an ssd which usually takes about half that.
+> 
+
+Apparently it causes lots of issues on Windows 10, especially with registry cleaning. 
+> recently, my boot times have been getting longer and longer, the norm now being about 60-80 seconds. this is booting from an ssd which usually takes about half that.
+> 
+
+If you bothered reading his post, he said he defragged his HDD, not his SSD. Have you got fast start up enabled? Did you upgrade from W7/8/8.1 or did you do a clean install?
+The wait period after purchase is there to prevent charge backs. It's a stupid fucking system along with the forced smartphone confirmation, but I guess that's just how it is.
+No, don't worry. Did you get a key from a giveaway or from reddit in the comments? The message is sent when someone gets the same code as you and chooses to retrieve the account.
+Honestly, the way it is at the moment is better. If you're trying to list your items for a lower price than the current lowest listing, then you're going to list it depending on what the buyer pays, not what you receive.
+Probably at least 75% of the price you bought it for if you still have the warranty for each part.
+No.
+For those who own the phone, are these battery issues common or is OP an outlier?
+test
+He's got over 2hrs of playtime. Maybe if he contacts support and explains the situation - they're usually quite lenient in cases like this.
+How much are you willing to pay?
+How much are you paying for Titan Holo 2014 Cologne?
+Something like [this](https://timertopia.files.wordpress.com/2012/02/2-minute-green-count-up-timer.gif)?
+Google 'count up gif' and you should find some that suits your needs. You will have to make sure that the gif is below 10 MB - you can use cropping tools online.
+Thanks for the giveaway :P
+
+
+
+.
+
+^^^letmewinplz
+It is the same as buying a game --> getting cards --> refunding --> rebuying. To answer your question, you do NOT get cards on the 2nd purchase.
+BTW if you want money just get a job instead of idling.
+Super Hexagon
+
+Super Meat Boy
+
+Rocket League
+
+Portal 2 Co-op
+
+The Binding of Issac
+"I just wanted to be on the show!" from Requiem for A Dream. Not a movie I'll watch twice :/
+http://adios-hola.org/
+**Who owns and can access the DLC and in-game content associated with a shared title?**
+
+A guest will have access to the lender's DLC, but only if the guest doesn't also own the base game. Guests may not purchase DLC for a base game they don't own. Any player may purchase, trade, earn, or otherwise acquire in-game content while playing a game, but in-game items cannot be shared between accounts. These items remain the property of the account that purchased or acquired them, whether borrowing or lending the base game.
+Don't use Hola
+Mad Men, Narcos, Broadchurch, Occupied, Breaking Bad, House of Cards (BBC Miniseries), Homeland. Not sure which of these are available in Canada.
+Umm I don't see the relevance of this. Maybe the wrong subreddit?
+https://www.youtube.com/watch?v=DE6dIUM6uHI
+He died from the fire. [Link for the 1v5](https://youtu.be/DE6dIUM6uHI?t=24m8s)
+[Link for the 1v5](https://youtu.be/DE6dIUM6uHI?t=24m8s)
+[Link for the 1v5](https://youtu.be/DE6dIUM6uHI?t=24m8s)
+4275 Thanks OP
+Microsoft Excel, most people think that they're professionals if they know a few basic tools, but in reality most know less than 1 % of what excel is capable of.
+Most people don't want to spend 400$ on a netflix machine.
+Christopher Waltz became my favourite actor after watching both Django Unchained and Inglorious Basterds. His fluency in 4 languages, charisma and ability to get into character makes him one of the best.
+Thank you. That fixed my problem. How often would you say it happens to your PCs? 
+That's the thing, when i go to control panel -> languages, I see [this](http://i.imgur.com/bQ3ZnKR.png). 
+A chromecast - it allows you to stream Netflix, twitch, YouTube and even chrome tabs, from your phone, PC or tablet. Usually on sale for ~35$. Could not recommend enough.
+The Returned S2. In my opinion season 1 was excellent, and although it is extremely similar to the French version (compare the 2 trailers), I found season 1 really enjoyable and it seemed clear that the producers had a second season in mind. 
+It's alright. Azubu is a piece of shit :D
+
+[LINK](http://azubuhd.brightcove.com.edgesuite.net/hd/3361910549001/201601/3361910549001_4709471672001_video162076CHgorgntv.mp4?pubId=3361910549001&videoId=4709372195001) In round 8 on cache with 1 min left. [SS of the timeline of the VOD](https://i.imgur.com/6zgJTR5.png)
+
+At 1:09:50
+
+No. You could however refund back to your Steam Wallet. If you want to cash out, and have a paypal account, then go to OPSkins
+Message support, clearly explain the situation that you're in and make sure you show proof that you weren't involved in any fraudulent activity. I'm guessing you sold H1Z1 items on the market at around the 400$ mark, someone bought them and you were flagged by the system, or they were purchased with stolen CC's.
+
+Unfortunately, most of the time when people post here with the same issue as you, they only tell half the story. The fact that you're on a secondary account which is 1 day old doesn't help your case. Can you post some kind of proof (maybe screenshots) of what could've gotten you flagged?
+4206  Got hooked by continually making more and more profit, and although having only added $5 to my steam wallet, i now have ~85 games and a csgo bacpack worth 630$
+Yes. If he logs in onto your profile, hits my account and then viewing history, or even just logging in and seeing things under 'continue watching for ...'
+12 Angry Men
+It is perfect for me if I'm taking relatively short notes/to-do lists or even reminders. 
+
+You can find a chromecast for ~35$ and then use your TV to view netflix, youtube and other things. Definitely would recommend.
+Google ~~Now~~ Keep
+Disk drive changes are not considered hardware changes, but a motherboard change is and therefore needs a new activation of W10. OP is safe.
+Is it safe to join random community servers through the ingame browser? I joined a dodgy server like a week ago and I've been paranoid since :/
+what?
+
+[Here](http://i.imgur.com/qrt8xbX.jpg)
+Have you got a valid purchase from the Steam Store between 30-365 days old?
+[Youtube Mirror](https://www.youtube.com/watch?v=Ncjw3fnLiHc)
+[YouTube Mirror](https://www.youtube.com/watch?v=Otz5rAUOaqk)
+You can delete the game from your account in the support tab, which gets rid of your hours, but it also makes you unable to receive booster pack drops.
+As far as I know Chrome cannot go over 720p and in order to have 1080p on your computer use IE,ME or the Windows 10 app.
+Yes, because OEM licenses are bound to the motherboard and for Zen you would have to upgrade your motherboard, due to a new socket being required afaik. You should be fine.
+Try going chrome://settings, content settings, handlers and allow it. Otherwise reinstall chrome :)
+Mafia II is an enjoyable game, but perhaps shouldn't have been open world, as there really aren't many locations to explore and the driving bits feels like a cheap way of increasing the time it takes to complete the game. They did however absolutely nailed the atmosphere in the game - the cars, clothing and radio feels authentic and immerses you in the game.
+What keyboard and mouse model have you got issues with?
+[This](https://www.youtube.com/watch?v=5RrLAgi_mBY) without a doubt. This moment probably singlehandedly ruined her career.
+Minesweeper? It was definitely an inspiration for Hexcells. 
+"Refunds are designed to remove the risk from purchasing titles on Steam—not as a way to get free games. If it appears to us that you are abusing refunds, we may stop offering them to you."
+
+I'm guessing they believe you're getting free entertainment from the purchases that you refund and thus abusing the system. 
+
+
+If that is the case, you can get 100 XP (enough to get you to level 1) by following [these](https://www.reddit.com/r/Steam/comments/3yyju8/how_to_get_the_red_herring_steam_badge_holiday/) steps.
+What is the point of price checks if you don't agree with any suggestions?
+Sorry I don't.
+sure. check your PM.
+OK well if anyone wants a spare code just PM me.
+Do you still want a code? I've got a spare one.
+87 https://steamcommunity.com/tradeoffer/new/?partner=63940585&token=NiWHBS6s
+https://steamcommunity.com/tradeoffer/new/?partner=63940585&token=NiWHBS6s
+
+Merry Xmas :)
+Probably on the lowest settings at that resolution at ~20-25 fps. Maybe just wait until you upgrade your PC - you'll save some $ because the game will be cheaper by then.
+Too hard to tell honestly. You can buy it and refund it. What resolution are you planning on running it at?
+Most likely not, sorry. You can buy it on steam, and refund it if it doesn't run or if it runs like shit, which it probably will. [This](https://www.youtube.com/watch?v=4g0Y6dZHeF4) video may help you to increase performance.
+4739
+540 Upvoted and thanks for the giveaway.
+I love cases I have like 1500 of them. TY for giveaway.
+Flash drive should work, but keep in mind it will take some time to write on it. If the computers are on the same network just transfer the files through that.
+It may be trying to get your savefiles for FNV if they're stored on the Steam Cloud, but 7GB worth of files seems like a huge amount.
+It gives me the one 'if nothing further occurs to restrict your access, you will be able to use the market on [date]', and the date is 30 days from now. Should I just buy like a 14c game?
+it says i have made a valid purchase but only game ive got on my account is a copy of csgo that i got gifted.
+1747 CSGO Thanks :)
+Is your profile private or friends only?
+Complete Changelist
+
+0.2 Changelog
+
+New Features
+
+**Shared**
+
+Added support for all of the previously unsupported civilian models
+Added Steam achievements   
+Added SharedObject class   
+Added NetworkObject class   
+Added WorldNetworkObject class  
+Added basic UTF-8 support to Lua strings
+Added SetUnicode(boolean) global function   
+Added storage to all entities, not just Players   
+Deprecated PlayerValueChange and PlayerNetworkValueChange events   
+Refactored Chat class functions to support multiple colours in a single message   
+Added Vehicle.GetClassByModelId  
+Added Vehicle:GetClass  
+Added VehicleClass enum  
+Improved Lua errors with event argument printout  
+Added delta argument to PreTick/PostTick and Render/PostRender  
+Added Angle.Delta  
+Added Vector2.Reflect and Vector3.Reflect  
+Added ComponentMultiply method to Vector2 and Vector3  
+Added Weapon equality operator
+
+**Server**
+Added module metadata  
+Added Player:Damage  
+Added Vehicle:SetStreamPosition and Vehicle:SetStreamAngle  
+Added Vehicle:Get/SetSpawnPosition and Vehicle:Get/SetSpawnAngle  
+Can now disable collisions between two different types with Player/Server functions   EnableCollision/DisableCollision  
+Added ClientModulesLoad event  
+Added Player:RequestGroupMembership(groupId, callback)  
+Added StreamableObject:GetStreamedPlayers  
+Added SLED debugger support  
+Added suppressible PlayerAchievementUnlock event  
+Added Server:GetFrameTime  
+Added SendAutorunWhenEmpty config variable, default as false, to control whether autorun scripts are sent for empty modules  
+Added netstat command  
+
+**Client**
+Added ClientActor class which provides a basic client-side NPC interface  
+Added GameRender event for depth-tested rendering in the game world  
+Main menu overhaul  
+Added support for streaming image resources with AssetLocation.Resource  
+Added support for Unicode characters in CharPress  
+Vastly improved the chat window with word wrap and chat history  
+Added LocalPlayer:SetLinearVelocity  
+Added Character class, common to Player and ClientActor  
+Added Character:Get/SetLeftArmState  
+Added Character:GetSeat  
+Added Vehicle:Set(Linear/Angular)Velocity  
+Added VehicleTransmission, with methods Get/SetGear, Get/SetClutchDelayTime and more  
+Added VehicleSuspension, with methods Get/SetChassisDirection, Get/SetStrength and more  
+Added VehicleAerodynamics for land vehicles, with methods Get/SetAirDensity, Get/SetDragCoefficient and more  
+Added Vehicle:GetTransmission, Vehicle:GetSuspension and Vehicle:GetAerodynamics  
+Added Vehicle:GetTorque, Vehicle:GetWheelCount, Vehicle:GetRPM, Vehicle:GetMaxRPM and Vehicle:GetTopSpeed  
+Added GetClimateZone method to streamed and client entities  
+Added ClimateZone enum  
+Added Player:GetAvatar   
+Added AvatarSize enum  
+Added Featured tab to the server browser  
+Added description field to the server browser  
+Server browser filters are now consistent between restarts  
+Added Camera functions SetFOV and GetFOV  
+Added LocalPlayerEjectVehicle event  
+Added 'entity' and 'impulse' arguments to VehicleCollide event  
+Added LocalPlayer functions SetOxygen and GetOxygen  
+Added LocalPlayer:IsFriend(steamid/player)  
+Added Client:GetFrameTime  
+Added Game:GetWeatherSeverity  
+Added ClientStreamableObject as a base class to Vehicle/Player  
+Added an optional boolean parameter to Physics:Raycast to disable the raycast filter  
+LocalPlayerBulletHit event now contains a bone argument  
+Added a setting to toggle vehicle camera snap and adjust timeout  
+Added a setting to toggle vehicle stunt camera  
+Added chat key and chat toggle key settings  
+Removed apostrophe keybind opening console, added a setting to configure console keybind  
+Added support for correctly rendering the tab character in text  
+Added Render:GetDepthEnabled  
+Added CursorType enum  
+Added Mouse:SetCursor  
+Added FontAwesome and League Gothic fonts to resources  
+Added ability to navigate through TextBox history using Up and Down arrow keys  
+Added Ctrl-Left/Ctrl-Right hotkeys to TextBox to facilitate moving the cursor word by word
+Added Label:SetLineSpacing  
+Added TextBoxNumeric:Get/SetNegativeAllowed  
+Added gui_show_netstat console command  
+Added window position and size launch parameters  
+
+**Bug Fixes**
+
+**Shared**   
+General sync improvement      
+Luabind now checks parent classes when looking up class members (class("MyDerived")(MyBase) in _init.lua works now)  
+Scripts are now loaded in alphabetical order on all platforms  
+Fixed script profiler not counting network events  
+The marshaller now accepts table keys of any type  
+Angles sent over the network no longer lose precision from compression  
+Vector2/Vector3/Color statics can no longer be edited  
+Comparing any API class with '==' should now work  
+Fixed random number generator not being seeded at startup  
+Improved Timer precision  
+
+**Server**  
+Fixed issue with server memory not being freed on entity removal    
+Cleaned up streamer code, hopefully reducing amount of server crashes  
+Fixed issue with world iterators not working correctly  
+Fixed a bug where scripts would still be run even if the server failed to start  
+Fixed SteamId outputting the community id when printed on Windows  
+
+
+**Client**  
+Fixed bones returning the wrong position for smaller models (Breaking change)  
+Fixed very long-standing issue with on-foot weapons often not firing for other clients  
+Vastly improved vehicle sync, also allows players to stand on vehicles as in singleplayer  
+Hopefully fixed archive bug that caused models/effects to fail to load  
+Fixed static objects not responding to the biome (snow / dust)  
+Fixed an extremely prevalent crash during entity collision listener removal  
+General renderer improvements  
+Refactored Mounted Gun sync, resulting in better aim accuracy  
+Reduced memory usage by preventing entire archives from being loaded at once  
+Fixed issue where requested models could sometimes be wiped out by the loading screen process  
+Fixed a bug where vehicle colors were darker than the requested colors  
+Fixed issue with vehicle colors not being applied to some turret parts  
+Fixed input sometimes going crazy when in a menu  
+Fixed settings window not preserving game resolution upon resize  
+Improved precision of Input:GetValue return value  
+Fixed being stuck in the air when EnterVehicle is called while grappling  
+Things drawn in 3D (and Render:WorldToScreen) no longer appear to be ahead by one frame  
+Fixed character model not changing if gui hidden or in a menu  
+Removed highlighted servers from the server browser  
+Character models are now reset on disconnect  
+Hopefully fixed issue with Rico model being invisible  
+Fixed the sound pop issue on Windows 10, courtesy of emoose from ElDewrito  
+Fixed PlayerEnterVehicle missing old_driver arg  
+Fixed issue with default player state being PlayerState.None instead of PlayerState.OnFoot  
+Some client entities now inherit from ClientStreamableObject to mirror the server classes  
+Added parameters argument to ClientSound.Create  
+Removed palaver, as its implementation burden outweighed the value it provided  
+ImagePanel:SetImage now takes an Image instead of a path  
+ReturnPressed event of a TextBox is now triggered on key down, instead of key up  
+Disabled Tab behaviour of the Enter key in TextBox as it moves to next control in the entire scene  
+Fixed HSVColorPicker issues  
+Fixed SortedList header being offset when it has a scrollbar  
+Fixed crash with SortedList:Clear  
+Fixed issue with SortedList sizing  
+It adds up to ~230$, they're all unscraped.
+Thanks. So do you think I could sell it for ~25$?

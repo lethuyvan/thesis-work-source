@@ -1,0 +1,1821 @@
+Price, basically. I can't afford a phone that expensive when most of their features and then some are available in a $300-$500 phone.
+That's actually a good idea. Hopefully OnePlus can improve their gestures even more. But maybe we won't need that, since I heard they have added double tap to lock phone in their latest beta.. It should make it to stable release eventually.
+Obvious question but have you tried wiping cache from recovery? Google how to do that if you haven't. It doesn't delete any data and very easy to do.
+
+Also, other steps you can try is to reset network settings, reset apn, and as a final resort, factory reset your phone.
+Let me enjoy my Sunrise will you?
+At the first sight due to the floor pattern it looked to me like Cena was about to be snapped by Thanos
+Yep. I was thinking the same. Then I imagined Thanos' Vasectomy clinic and couldn't stop laughing.
+Try clearing the cache both from the storage menu AND from recovery. Let the phone complete at least 2-3 charge cycles with similar usage. At least the battery life should improve. I got over 8.5 hrs of SOT yesterday which blew my mind. On 5.0.3 my average SOT was about 6.5
+That's a really nice picture! Definitely a horse, right?^^Right?
+Just make sure to clear cache from recovery both before and after the update and you should be good to go. Gestures are fantastic. And yesterday I got more than 8.5 hrs of SOT compared to ~6.5 on 5.0.3 so I say you'll love the new version.
+Not sure about other countries, but at least in India, they are launching the sale of the phone (exclusive for Amazon Prime members) on [21st May](https://images-eu.ssl-images-amazon.com/images/G/31/img18/Wireless/CEEX/OnePlus6/LaunchDate/Launch_pc._CB496138340_.jpg)
+
+I don't know if you can pre-order the phone on the official website, but at least for India, the earliest you can start placing your orders is May 21.
+You might not have to. Just threaten to take legal action. Chances are, they'll think something similar, and may accept your claim instead of spending at least some money and a LOT of time in court.
+Pretty sure he meat 19:9 because notch.
+We still should keep on pressing them to make sure they don't get complacent. I mean I love my phone very very much, but I still won't call it the "best". Not yet. I agree with you on the timeline though. I'd rather wait for a slow but stable update than a half-baked one which causes more problems than it fixes
+I'm pretty sure these will be introduced in OnePlus 6 as "feedback from the community" and eventually trickle down to older devices
+I don't think we can swap gestures yet(I'm not holding out too much hope, knowing OnePlus) but you can get something similar by using Nova Launcher. There are multiple gestures available. I use "double tap swipe up" for recent apps, so it's quite similar to what you want. 
+
+One other app that can help is Fingerprint swipes. You can assign left, right, up, down swipe on your phone's FPS to pretty much anything.
+
+EDIT: Sorry these are not direct solutions to your problem, just workarounds.
+
+They could be doing a swerve. Saying "Users and leak sites were saying the price to be blah blah but look! It's 20$ cheaper than what you thought!"
+
+I remember I read the price of OP6 base model to be Rs 34,400. 
+That was a fair price in my opinion. Rs 4K hike is too much from their previous model.
+Do people actually go "Wow, this phone is 2mm thinner than my previous phone, it's so wonderful!" ? 
+
+Because if you ask me, I'd take a 10mm phone over a 6mm anyday if it meant OIS and a larger battery capacity(Though 5T's battery is quite sufficient)
+Do you get a notification sound too? I read somewhere that if you set the sound to "none" in gmail, the LED won't fire. Try adding a custom notification sound for Gmail and see if the LED works then.
+
+One more thing you can try is to check the notification priority for Gmail's notifications. Set them to high or urgent and see if the LED works.
+Awesome, thanks. I'll give it a go.
+Yup. Working for me. If the previous solutions didn't work you can try to clear the cache from recovery. If that doesn't work either the last straw will be to factory reset your phone.
+What kind of can one get on these sites? I mean, what do they make us write? 
+Just realized my screen is not waking up when a notification arrives. I swear to god it was working fine until yesterday(I updated to 5.1.1 3 days ago).. 
+Not sure what happened. "Wake screen on notification" toggle is on, and I tried a couple of apps, the sound goes off, but no ambient display. Weird.
+
+EDIT: A reboot fixed it. Wonder if this issue will come back.
+Weird. Try clearing the data of the google app. I think your voice and other google settings would already be backed up, right? So let it start afresh and see if it works.
+Do you mean that you do receive the push notification from Gmail, there's a sound, but the pulse notification LED doesn't turn on, right?
+
+Well, the only thing I can think of is to check the per app notification LED option and maybe disable-re-enable it for Gmail.
+
+If that doesn't work try clearing the data/cache of Gmail app. Shouldn't be a hardware problem since you say it's working for other apps.
+There's another way if you use Nova Launcher. I use the "double tap swipe up" gesture for Google Assistant. Obviously it only works on the home screen, but it's still better than nothing.
+>I'm very ~~dumb~~ rich
+
+FTFY
+On the bright side at least you have both your kidneys..
+
+..
+
+Or do you? 
+\*cue Vsauce theme*
+Just clear the cache from recovery BEFORE and AFTER the update and you shouldn't run into any issues. 
+
+
+A 1.5K increase in the base model is.... acceptable in my opinion. Especially if they are adding water-resistance and/or wireless charging.
+For notification panel/quick settings I use the fingerprint swipe down option which works with the slightest of movement. 
+
+I can't remember the last time I swiped my lockscreen since I've been using FPS and/or Face unlock literally every single time.
+
+Just for the sake of it, I did give it a try, I think I don't have any problems. Maybe you can try short and quick swipes, like a flick. At least for me they tend to give better results. Don't know any other solutions except the one given on the page you linked.
+Just tried on my 5T running 5.1.1. On the first try it asked for the password, which I granted by showing my face. Then it asked for my permission to unlock the device using my voice. I did, and it's working now.
+
+Maybe just disable and re-enable the "Unlock with voice match" option in the google app and it should work
+The battery seems to be a little bit worse now, but still getting more than 6.5 hrs of SOT is a good thing.
+
+Oh, did anyone notice a slight lag while swiping images in the gallery app? It only happens initially and only for a few seconds so not that big a deal but just wondering if I'm the only one.
+Why did Yo-yo ask Simmons "Where's Talbot"? Didn't she literally see him coming out after killing that dark alien thingy?
+
+
+Just tried on my 5T running 5.1.1. On the first try it asked for the password, which I granted by showing my face. Then it asked for my permission to unlock the device using my voice. I did, and it's working now.
+No, I meant making 50% of the population infertile so they won't be able to reproduce.. That was sort of the story in (SPOILER) Inferno..
+Can you post your battery graph when it's around 5-10%? I feel like my phone's getting more wakelocks since the update. 
+It generally takes 3-4 charge cycles for the phone battery to get calibrated. Regarding your screen usage, do you have auto brightness on? Maybe you were in a brighter area therefore it used up more battery. Anyway, I'd suggest don't think too much, if your phone lasts at least a day without dying, and there are no random shutdowns/reboots, I think your battery is fine.
+
+PS- You can upload your screenshots on [imgur](https://imgur.com/upload) and link them here(at least that's what I do, if someone knows a better way please feel free to correct me)
+Thank you. I need to watch that again.
+Can someone tell when was it made clear that Thanos sent the Chitauri army to Earth? I feel like this information was just sprung on to me in IW. Did the previous movie have any reference regarding this?
+Don't we introduce wolves in an area where Deer population is too much to basically cause a 'deer genocide' to bring the population down? And I've read that in some places seal hunting is legal and necessary to keep their numbers down? 
+
+What do you think about actions like these? Is only mass human killing evil?
+Make 50% of the people sterile?
+I'm expecting point 6) to be a retracted sin in Everything Wrong With Infinity War 
+I want that cloak and Aladdin's carpet to have a show together
+Did yours had all the scenes? I'm pretty sure the one I downloaded skipped Thor's entrance scene on Wakanda, and just skipped to Banner laughing that Thor's here. Also, no post credit scenes. What about the cam you watched?
+More panic attacks?
+We're not bringing you back using the Time Stone, Mr _Dumbledore_
+He's a not-so-good-looking guy
+That's what I liked about him the most. He was not some regular old cliched villain who just wants to kill and destroy everything for no reason at all. He had his reasons, and he KNEW what he was doing, but in his mind it was necessary. 
+Can you tell us something more? Not about the phone, we'll find out about it eventually anyway, but about the shoot. 
+Did they tell you to be frank or just tell the camera 'what you liked'? Did absolutely no one say anything bad? Since only the positive reactions are shown in the video.
+That's why I don't support any team. All matches are neutral for me.
+Thanks a lot. That was very helpful :)
+I don't agree with you. Do you agree with me?
+How do you downgrade to a previous version? Does it require root/unlocking bootloader/deleting your data? Or is it just a matter of flashing an older zip from recovery?
+I know. I'm Indian myself :p
+*Meows in praise
+Poonam Pandey, an Indian model/actress, promised to strip down naked if India won the 2011 Cricket World Cup. We did, but she hasn't completed her promise yet. Although the pictures on her social media accounts are quite hot anyway.
+
+How far did it fly out? Just curious.
+That's where I stole the image from :P Was too lazy to crop and upload it myself
+Surprised no one noticed the [book](https://pbs.twimg.com/media/Dbfw8epXcAA2FJP.jpg) in the back
+The problem is OnePlus is not selling their phones to their original fan-base anymore. It's now a mainstream company, making phones for the average user, and if you read back a little, you'll see a ton of comments where people were complaining that 5T didn't have wireless charging and water resistance. I bought a 5T 2 months ago so it doesn't really matter to me what they do with 6, but as far as I've seen, you'll find people complaining either way. If the phone was aluminum back, there would definitely be comments about not having _wireless charging in 2018._
+Train my son to become a Super Saiyan
+Someone post a tomato shaped heart now to restore the balance of the Universe, stat!
+So... Do you play any games? 
+Don't we have ambient display already? What has changed in that department? I'm still on 5.0.3
+lol.. "survey".. they pretty much have zero control over the design of the phone. Oppo decides how the phone will look like, and OnePlus then makes the software and adds an alert slider to the pre-decided chassis
+The only reason I'm excited because I think they'll fix the alert slider while releasing this phone( I can already see Pei with a smug smile saying we _listen_ to the community) and therefore older phones will get the same update eventually.
+1. The notification and ringer volume are on the same channel so I can't keep my notification sounds low and my ringtone loud at the same time.
+
+2. Google play services still eat a lot of battery for no apparent reason, the phone still lasts for more than a day not this is not a big deal(yet)
+
+3. And of course everyone knows about the camera but I use my DSLR for photography anyway so I _personally_ don't care about it.
+
+
+These are the only problems I have with this phone. All are software related so hopefully they'll be fixed at some point but none of them are a deal breaker for me.
+
+Thanks a lot. I'll check it out
+Did you clear cache from recovery after the update? 
+Now I want to know what the comment was
+Nostalgia
+The trick is to open the bottle 45 minutes before the match starts. That way you'd be too drunk to get angry
+Can you give us a follow up please? Did the battery performance improve after clearing cache from recovery?
+Can you post a screenshot for the UI? I'm still waiting for the OTA so I can compare with 8.0's dark mode.
+What apps do you use mostly? Screen usage suggests a lot of video watching?
+https://i.imgur.com/cDmfAPI.jpg
+Go to battery-> battery optimization-> 3 dots on the top right-> disable advanced optimization.
+
+The notification problem should improve a little.
+I can't tell you how many times I've fantasized of getting stranded in space but I make my way back just by farting.
+Can't understand what you mean, but I soon will
+How did DSS work on a Moon shot? Doesn't it try to count the number of stars to find out the "best" exposures? I've never been able to stack Moon exposures in DSS.
+
+PS- Forgot to mention: Absolutely breathtaking shot. I wish I could afford all that equipment.
+Yeah I think that version will be more expensive.. Around ~43,000 Rs
+Should be for the 128GB variant
+How do they differentiate the direction the plane is coming from or taking off? 
+For example, if the plane is taking off from the same runway from West to East, do they call it Runway 9 instead of 27?
+Google wants to blind users and then sell us Google Glasses again.
+Am I the only one who found it a bit disconcerting that he was sitting with his shoes up on the couch?
+If you ask me I'd say always go for the T line as a general principle, for the sole reason that it will be priced similarly to it's Q2 brother. Imagine owning a 6 but then after 2 months you see people walking around with a phone the same price as yours but with dual speakers and no-notch.
+It's a good idea to clear cache before and after a major update.
+Try clearing it from recovery. And give it 2-3 recharge cycles first to let the battery calibrate itself.
+Can we do that without root and without deleting data?
+ALL CAPS IS THE ONLY WAY
+Lol the start is entertaining at least
+Use the word cringe as often as possible, even at minute and normal situations.
+1. To be honest the only problem I have with the phone is the ringtone and notification channels aren't different so I can't keep my notification sounds low and my ringtone loud at the same time.
+
+2. The best phone I've owned till now. It's not perfect by any stretch, but it's lovely to use.
+
+3. I'm planning to keep using this phone for the next 3 years at least.. So we'll see what OnePlus 8T/9 has in store..
+Ouch..
+What exactly happened to the keeper? When I turned on the stream I saw him walk away.. Did the ball hit him? 
+That's the best kind of bot.
+Good bot
+Install Fingerprint swipes. Gives you the ability to quickly switch between apps using the phone's FP sensor. And a lot of other gestures are there. It's working perfectly fine for me. Give it a go.
+
+Link me: Fingerprint Swipes
+You should install Nova Launcher. I found that it perfectly complements with Oxygen OS. Also install "Fingerprint swipes". That app gives you the ability to perform simple gestures like back, recent, switch apps, etc using the fingerprint sensor..
+Yeah I'm watching on the same.. still buffering but at least watchable.
+Thanks anyway, kind sir.
+Not sure about the US market but in India I read reports of the Oneplus 6 being at Rs 34200/- (521.11 USD) while the 5T was Rs 32,999(502.82 USD). If the above pricing for 6 is correct or almost correct, the prize difference is about ~18$. 
+
+This is just for the 6GB/64GB version.
+Any 360/480 steam please? This is buffering a lot.. 
+Damn.. Didn't even know Microsoft had their own launcher. Will try it out. Thanks man!
+I'm an Indian, so yes, of course I have. Aaaaand now I'm craving some ~~avocados~~ chicken. At 4:53 AM.
+With Nova it only closes the screen but won't lock it. And I will also lose the ability to double tap recent button to quickly switch between my apps. 
+
+I think I'll keep the gestures disabled whenever I get the update. I just found an app called Fingerprint swipes which uses the Fingerprint scanner(obviously) for the back and app switch gestures and is working perfectly fine
+Can someone post the entire changelog please? Not just the OOS one, but essentially what changes will we get in Android after upgrading from 8.0 to 8.1
+Awesome. We did it Reddit. 
+
+
+Avocados=Chicken. Thanks a lot.
+What about the button shortcuts? I almost exclusively use double tap home button to lock my phone. Can we have both gestures _AND_ the nav buttons?
+Damn, I'm on a bad streak today. Haven't eaten any Dinosaurs either. But I have eaten chicken. Do they taste similar?
+You got the update on the stable channel?
+Would you look at the coincidence, I haven't eaten an alligator either.
+You made me laugh out loud at 4:07 am. Congratulations for waking up half the dorm.
+Just realized I've never eaten an Avocado in my entire life. I do have eaten pears though. Do they taste similar?
+Dobby is laughing at you for getting ripped off
+Accepting that I don't need to hide my social anxiety/desire for solitude and don't need to make excuses to other people. The right kind will stick around and try to help me out. Changed the entire outlook on how I see the world now. It's somehow made me.. less anxious.
+That's my birthday lol
+Good Bout
+Reigns comes out
+
+"See?! Brock Lesnar isn't here ton-- Oh"
+
+Superman Punch x5
+Change the default download folder. Your photos might be getting downloaded in the DCIM folder or something.
+Thank you for giving me some neck exercise 
+Hah.. I'm watching NCIS.. still on season 6... ~~Please help, there are a lot of episodes..~~ would take me a long time to catch up
+I want to half-byte on my girlfriend's neck now.
+I read somewhere that the chance of Apophis to hit the Earth in 2036 is 1 in 45000. In 2029, it's pretty much close to zero.
+>Notch at all
+
+FTFY
+In-app sounds aren't muted in DND.. Taking DND off from the alert slider might also get us auto-DND so we can schedule it just using software.
+As far as I'm concerned, they've picked up on almost all the issues I had with the phone. Oil painting, alert slider, accent customization are all being worked on. 
+
+The only thing I need is different audio channel for notifications and ringtone to keep my notification volume down. If that happens in the next year or so I'll pretty much consider this phone perfect.
+Copy-pasting from the forum to save you a click:
+
+Q&A Section
+
+Q: What exactly is the fully immersive game experience you aim to provide through gaming mode?
+A: It's mainly about reducing interruptions (notifications or phone calls) when you play a video game. Besides, overall performance and network fluctuations improve as well.
+
+Q: What’s your plan to enhance user privacy in the future?
+A: We always prioritize user privacy in our work. To ensure that our users' privacy is well protected, we have set up an inter-departmental team. Plus, we will follow GDPR in the coming month.
+
+Q: What are your plans regarding software updates?
+A: We know every member of our community wants the latest updates. The official Android 8.1 update will be rolled out for the OnePlus 5/5T soon, followed by official Android 8.0 updates for the OnePlus 3/3T. OnePlus 3/3T users will have Android 8.1 official release in the mid-2018.
+
+Q: Do you have any plans to improve the camera quality on the OnePlus 5/5T?
+A: Yes. We’ve received a lot of feedback following our Open Ears Forum in Hamburg and online surveys. We are planning to fix the so-called “oil painting effect”.
+
+Q: Have you ever considered a stay awake feature? It would be useful for cooking, reading repair manuals, anything when your hands are busy, etc.
+A: This is a fantastic idea! We might consider adding a toggle to the quick settings menu that enables your phone to stay awake for a specific period of time.
+
+Q: Any plans to update the alert slider to support a ring, vibrate and silent mode?
+A: Yes. Hope you guys are looking forward to it.
+
+Q: Are you going to support accent color customization?
+A: Yes. It’s on the way.
+
+We are prioritizing our software plans and actions based on the feedback we've collected from our community and Open Ears Forums, and we have been working a bunch of exciting stuff regarding software. Can't wait to let you know what's ahead.
+
+Cheers!
+Damnit... Thanks for checking, kind sir.
+What did you do with AVG though? After Avast bought it, there was a dramatic change in the free version functionality of AVG. No USB scanning, no scan reports, etc. Was it done to promote Avast over AVG?
+Does notification and ringer volume have separate channels? That's my only gripe with 5T. Can't keep notification sounds low and ringing volume high at the same time
+Yep, it's weird. It looks like they've moved the power button to the left and the volume rocker to the right. I don't recall any other smartphone having power button on the left. Do you?
+Yeah, exactly. But look at the antenna lines on the below phone, they look like they're on the underside of the phone, suggesting that OnePlus 6 is placed screen side up, while the 5T is on top of it, face down.
+Goddamnit it's 2018. How did you manage to do that to me!
+Isn't the alert slider in the same position though? Or am I missing something? It's on the left side if the phone screen was up, right?
+I'd say only buy their T lines as a principle. T line will get some benefits/upgrades/fixes from 6 but without a high price hike.
+
+If you don't _need_ a smartphone now, it's better to wait. 
+So... No meth empire? 
+Yeah you are right. I tested it too and it didn't work. Strange, but it worked before for me. Edited my original comment.
+We're in the same club. 5T is really amazing.
+Can you please tell me what's the difference between Always on Display and Ambient display? 
+I wanted to buy the full version but there was no way of doing that in India back then(credit cards are very uncommon here, so is paypal). I even asked the devs if there's a way I can pay for the full version.
+ 
+Since they never responded, I kept uninstalling and reinstalling the trial version every month. Bought the full version years later, and I'm still using it, though sadly it went downhill(and stopped) since then.
+Nova Launcher. Sometimes I feel like I should buy the app again just to thank the devs
+EDIT: The method below doesn't work for me anymore. I remember it working when my OxygenOS was on 4.7.6 (currently it's on 5.0.3). Sorry folks. Looks like we need to wait for OnePlus to get their shit together.
+
+I think for the time being you can use The Nova Launcher trick to turn on Auto-DND. 
+
+Install Nova Launcher, set it as you default launcher.  
+Go to the home screen.  
+Long press in an empty area.  
+Select Widgets.  
+Long press " Activities".  
+You should then see a list of headings.  
+Scroll down to and touch "Settings"  
+Underneath settings you should now see another list of headings.  
+Scroll down to and very briefly touch the second "Automatic rules"  
+This should take you back to Home where you should now see a blue green bell called Automatic Rules.  
+Touching this should take you to DND settings.  
+¯\__(ツ)__/¯
+I want a gif of Triple H swatting bees when Rousey was punching him relentlessly. Someone please make it!
+Should I read the sequel? I heard that the spacecraft makes a return journey but the book is not as good as the first one. RWR is one of my absolute favorites though.
+I just randomly started watching it on prime 2 months ago.. I didn't even know the series has more than 15 reasons until I  was on season 3 and already hooked.
+Still on season 6 right now and this was amazing
+I've been thin as a twig my entire life. Now I'm getting increasingly sedentary and putting a bit of weight(I already have a small belly) and people ask me if I started going to the gym. (Yeah, it's called KFC)
+
+I just want to play some Cricket but there is no one my age playing it here, so I just eat and do absolutely nothing physical.
+\*Holds the door for her*
+
+Her: Who the fuck are you and how did you get into my house?!?
+
+
+I haven't had cereal since 2001. Am I weird?
+Does the game go into extra time if they're 1-1?
+SAS didn't even look like they wanted to attack. How the fuck did they score
+Either Jasmine from Aladdin or Ariel from that mermaid show. Both of them were hot af
+Maybe it's just for premium subscribers... 
+>There's a Super Fan Feed as well that allows you to select from several camera angles, switch up the commentary language, and layer stats directly on the screen.
+
+> You'll be able to access the Super Fan Feed from Hotstar and Star Sports Select, and Star India is also introducing a social element to the streaming platform. 
+
+https://www.androidcentral.com/how-stream-ipl-2018-your-android-phone-tv-and-vr
+They'll reach the hawai adda soon
+Anyone know how to select different camera angles on hotstar? I've tried both the app and the web version but I don't see that option. Every news channel was touting this feature but it's nowhere to be seen. Am I missing something? 
+Judge : "Did you steal genetically modified rice seeds from America?"
+
+Scientist: "No, your honor, I swear I didn't!"
+
+Rice: "Yes he did"
+Welp. There goes my Butter Seal Masala.
+"What, what is that? Is that a super giant black hole? Nope. I ain't sticking around. Nope Nope Nope Nope"
+I KNOW YOUR ANGER, 
+
+I KNOW YOUR DREAMS
+
+I'VE SEEN EVERYTHING YOU WANT IT TO BEEEEE
+Can someone list any adult games to play in a long distance relationship. Most of the games I find on the play store are just truth or dare games. We need something like a virtual sex game, where we both can play together inside the game and do sexy stuff to each other's characters. 
+
+Does anyone have any suggestions?
+But what if the Mockingbird don't sing and the ring don't shine?
+Except popat laal, of course
+Joke's on you because I studied in a boys-only school.
+
+\*Laughs in anxiety*
+This is just the problem I have with this phone:
+
+1. Ringer and notification volume are not separate
+
+2. Volume won't go below 14% unless you use the alert slider(wtf, oneplus)
+
+3. Some apps cannot access data until you put the phone in Airplane mode and back. 
+
+4. Night shots are horrible af
+
+Indian here. I'll gladly take some of your cold. 2 AM here and it's still around 30 degrees Celsius without an AC. 
+> BetterBatteryStats
+
+A bit off topic but does this app have battery history feature? I'm looking for something that can record how many hours the phone lasted for every charge cycle.
+
+ Sometimes I get more than 7-8hrs of SOT and 36+ hours of overall battery life but sometimes it's ridiculously less with similar usage, and I want to keep a record of it. Gsam only keeps about 6 days worth of data which isn't too helpful. Any suggestions?
+I mean the ad is pretty hilarious..it feels like a parody on Oneplus themselves
+Someone who says "If you cared about me enough, you'd know what's wrong". It's them that are wrong and the best thing you can do is run in the exact opposite direction
+Holy shit I saw the gif but didn't read the comments below. Legendary post. Thanks for linking!
+Which meta thread are we talking about here? Many people are commenting the same below
+Depends on the market/country. For example, at least in India you can still buy OnePlus 5 from Amazon as well as their official website. 
+[Samsung Wave](http://phonesdata.com/files/models/Samsung-S8500-Wave-580.jpg)
+
+That was my first "smartphone". It's funny, that it was only 3.3" in size but everyone(including me) would drop their jaws at how _huge_ that phone looked at that time. That diamond shaped menu and camera/flash design was really unique. Too bad it didn't come in Android and Samsung abandoned the line a few years later.
+I think a phone with sharp edges like Xperia but with also less bezels would look really beautiful. Hoping for something like that in the near future. Sony did hop on the bezel less bandwagon but their changed design puts me off.
+Well, they tried hyping up the camera last year and it backfired spectacularly. At least speed is something they're good at. Hopefully OnePlus has learned the lesson of "show, not tell" and 6 will silently get a better functioning camera.
+I'm actually happy they are hyping up something else other than the camera because it disappoints every year. 
+>  the immune system is always busy, no matter if one is Sick or Healthy.
+
+What does the immune system do if you are already healthy? Just curious.
+Harry Potter online treasure hunt. Sort of an event where you are given seemingly random clues that you need to connect. The final answer will be related to Harry Potter in one way or another. It was a 3 day event, I won it in 7 hours. The moderators of that event asked me if I was _hacking into their servers_ . 
+You watch your motherfucking mouth!
+If the said event occurred 5000 years ago, that is. I think Betelgeuse is our best bet to see a second "moon", right?
+Alexandra Daddario is probably the only celebrity whose eyes are as attractive as her titties. I keep looking back and forth
+> April 1 (17:00 EST) - John Cena
+
+RemindMe! 10 minutes
+Exactly. I was trying to read it from different perspectives but honestly this seems absolutely spot on. If you're in a relationship, you aren't supposed to cheat. If you don't like him/her, break up. 
+I was actually a little surprised at "you have an ok face"
+Voyager 1 is like "fuck you and your gravity assists. I'm an independent probe that don't need no planets" 
+At least we can send something to get there and send us some sexy proxima centauri pics back. I have high hopes from Breakthrough Starshot
+Just think.. at this speed, we can go from New York to California in ~200 seconds, yet it would take about 76000 years to reach the nearest star. Mind truly boggles.
+"New space agency who dis?"
+I actually looked down to see my eyes before realizing I probably need a mirror. In my defense it's 3:50 am here.
+Good bot
+Erm.. Light should take just a bit more than a second to reach the moon. 
+Yeah I don't want cockroaches to think, "Well the mosquitoes aren't drinking human blood anymore, I think it's time we give it a go"
+k
+Absolutely no problems with Oreo update. Maybe the ones you've read about are on the beta channel? Anyway, on the stable builds the phone's thermal performance is top notch(no pun intended). If you're not waiting for 6, I suggest you buy the 5T quickly since it's going out of stock these days.
+I just use their weather widget to display "Never Settle" on my lockscreen. You'll be better off with a different app.
+But then you miss out on long tap and double tap button shortcuts, right?
+I almost always use double tap home button to lock my phone.. 
+Yeah happens a lot by mistake. By now I'm muscle-memory-trained to immediately double tap the recent button to get back to my app. Hopefully gestures will come back to the stable build soon.
+Yeah right, ET. That was just a drone... Gotcha.. *wink wink*
+Someone must've told him to carlpei diem
+It looked so much like a Pro Wrestling promo I was surprised at the end of it we didn't hear 
+
+\*ting ting ting* 
+
+THE FOLLOWING MATCH IS SCHEDULED FOR ONE FALLLLL.....
+Oppo R15?
+That's actually a very tough pill to swallow. I mean if someone told me Sachin Tendulkar doped during his career, I'd probably lose faith in humanity and Cricket in general. 
+
+The guy who said "Never meet your heroes" was probably right.
+I think he honestly didn't realize the consequences of his actions. Always a delight to watch him bat. Hopefully he learned his lesson and we'll see him soon.
+A bit warm while charging, compared to the phone's normal state, sure. But I wouldn't worry. I have yet to experience any random heating issue with the phone no matter how vigorously I use it. 
+I need some extra limbs.
+One man's fear is other man's dreams.
+I have. I was 6. Went to a national park and was enjoying a nice burger. The bee(or better yet, a big ass yellow wasp) was enjoying the same burger too... until I ate it. 
+We must be brothers. If there's a bee in the room I'm sitting I'm no longer sitting in that room
+Hotel? Trivago.
+>Freiza is a liar
+
+In other news, water is wet.
+Haven't read the article yet, but I thought the only reason galaxies existed was _because_ of the dark matter? Otherwise the gravitation effect won't be strong enough to hold on to the stars and they'll keep flinging out? I read this... _somewhere_ , a few years ago so I'm not sure how true it is.. 
+I honestly thought that was Nathan Fillion the first time
+Would make me feel like a prostitute(or a scientist)... Getting paid to do things we love
+Yes, you are right. I made that comment hastily and I in no way wanted to imply that the traditional classical batting is the only good way to bat. They all made it work in their own ways and they all were massively entertaining to watch.
+Sehwag, Gayle, Rohit, Shahid Afridi, etc are all basically the same batsmen with varying amounts of consistency rating. Absolutely no fear about who's bowling, and relying on their power and reflexes rather than technique.
+And then the murders began
+Is this a tide ad? 
+Yeah I wanted to type "well duh" but I realized the top _removed_ comments must've been exactly that.
+Wait. Doesn't "black" and "off" mean the exact same thing when it comes to AMOLED screens? 
+
+The simplest reason is OPPO decided to do that... 
+It happened during India vs NZ's 1st ODI in October last year when NZ bowlers were getting sick due to the extreme heat and humidity. I'll try and find the clip if I can.
+No, sort of like dumbfuck, or idiot. 
+I remember he once said during commentary that in order to reduce global warming we should increase the number of glaciers so that the sun rays strike the ice and go back into space. 
+
+Haven't put attention to what he says since then.
+Call him a "Chutiya" the next time you talk to him. Just say "I've been told you're a chutiya. Is that true?"
+ 
+
+It was such a joy to zoom into this picture. My new lock screen wallpaper for sure. 
+Just think that our current spacecrafts and rockets will take ~20,000+ years to cover 1 light year. And the nearest star to us is at 4.3ly.. 
+\*shoves you out of the line*
+
+Mine is next month.
+That's the most hilarious story I've read today. Thank you for sharing this one.
+I want cheese puffs. It's 4:19 Am here.
+I'm fractionally impressed
+Rocket scientists are more prone to missing _human_ signals.
+
+Source: Doing my master's in Aerospace Engineering and I found out(in this very thread) that I've been an oblivious idiot. Coincidentally my uni is also known as MIT(though no, not that one)
+TIL I'm an oblivious idiot.
+Okay.. er, a girl I knew once drew a picture of me using charcoal and sent it to me. I of course complimented her a lot, thanked her for the picture and even showed it to my other friends(they thought I used a picture-to-sketch app, it was that good), but eventually we stopped talking. Do you think it was just a casual sketch or she did it because she liked me? 
+Is it just me who wants to see that picture?
+I think the closest alternative is Signal? It's developed by an ex founder of WhatsApp or something and supposed to be focussed solely on privacy..
+
+I haven't tried it yet since it seems to be missing some features that are common in chat apps these days but you might take a look if privacy is your biggest priority.
+
+Linkme: Signal
+Is everyone a bot in this thread? Am I a bot too?
+Post a picture of your battery graph when the battery percentage is less than 10%, let's see what we're dealing with here.
+I'd rather prefer speed over aesthetics, to be honest, although I do understand your point. 
+
+PS- When I unlock my 5T using the FPS I do see the clock sort of slide up and shrink before the screen unlocks. That looks like enough of an animation to me, although there's none while using the face unlock.
+In india the series is being broadcasted on sonyliv.com but unfortunately only highlights are available there which completely skip over the incident... Thanks nevertheless.
+
+It's still incomplete. I'm pretty sure the commentators kept on analyzing as more replays were shown on the screen (and on the big tv).. 
+Is there a place where I can fall the full day 3 (or the second session) of the match? Everywhere else all I can find is highlights.
+I'm pretty sure he said something like "It's Bancroft" after talking to Lehman on the walkie talkie.. Have to watch the video again
+We need more man, you can't just upload the email but not tell us the entire story.
+I think their original plan was not to cause extra swing, but to make the ball look rough enough so that when the umpires inspect it, they might change the ball. At least that's what I infer from the press conference.
+>the behavior in the world cup final against New Zealand
+
+I didn't watch that match(partly because I was still fuming about India not making it), can you give me a couple of specifics as to what exactly did they do?
+Shit. I've been thinking about him as a _young_ inexperienced cricketer who was peer-pressured into doing this up until now. Now that you've said it, I can't believe I didn't realize he's actually a year _older_ than me. Damn perspective and hindsight.
+You probably won't find any use with the condoms though...
+
+(I kid, I kid)
+I'd say pretty good, just not as good as OnePlus advertises it. Night time shots are still horrible though.
+For the screenshot, [The Screenshot](https://imgur.com/a/Z2AZd)
+That's a damn titanic and bulma just brushes it off like a Dinghy
+_But don't you know the windows of the plane are curved by the government to give you the impression that the Earth is round_  /s 
+> Star sports didn't exist during 90's or 00's. It was Star cricket or espn cricket
+
+I think it did? I remember a red-orangish logo for star sports. Star Cricket didn't come until later when Neo was trying to get space in India with their neo prime and neo football and whatnot.
+Anyone have a full video of this? I wanted to see the commentators' reaction as more replays piled on.. Basically everything that happened after SA were 129/2
+The vertical videos in my Youtube app still go landscape when I click on the full screen button. Is there a setting or something that I can toggle to enable vertical full screen?
+A casualty of what we like to refer as the "Jio effect"
+Nope. Never happened. You must've seen a dream. There was no world cup in 03 and 07
+I think it's the exact opposite, actually. At least in India, it will be very hard for you to find a phone _without_ dual sim these days. So it's such a common feature that I probably won't even call it a feature. 
+Submarine parents
+It works on mine. On 5T running 5.0.3 stock unrooted. Maybe try updating your YouTube app? 
+Why did I have to scroll so down to find this. Thanks a lot, kind sir.
+Mr Pei, I know you're reading this, I've seen you lurking around this sub a lot.. I also know you know about this problem, and therefore if you're thinking to "fix" it with One Plus 6, please  make sure the older phones get it too. Just getting to turn the volume to 0% by the volume down rocker would fix all these issues, I believe.
+In the dnd options, try and put "none" under messages. Apparently if you select anything else it also allows notification for messages from other apps(instead of just text messages, as one would assume)
+Turn the slider all the way up to silent, open its settings, uncheck the vibrate option, enable the "mute media" option. 
+
+I think that's all you need to do.
+I loved the mathematician in the book. Can't remember the exact lines but he said something "you know we're going to die down here right? Because if this spaceship came from the future and no one warned us, it means we don't get to warn anyone else either" 
+That sent a chill down my spine. Amazing book.
+Our professors simply mail us the pdf they had scanned. Some teachers are really cool and just want to make sure you study.
+> Sci-hub
+
+I can't thank you enough for telling me about this. Can't believe I hadn't even heard of Sci-hub before. Just a simple search and I found the exact paper I needed! Oh if I had money I would give you gold(or probably pay for that paper) but all I can say is thanks a lot, kind sir.
+Question: This only happens in HDR mode right? Because I have kept it permanently disabled and the photos turn out okay. Night photos are absolute horrible though
+_Will the real mayanti langer please stand up, please stand up, please stand up_
+You need some air
+Most people outside Karnataka have never heard of Udupi so they think it's in Sikkim.. Hell even I hadn't heard of it until I came here.. 
+I have the 6GB version. Absolutely no amount of lag or slowness no matter how many apps I have in the background. As long as you are okay with about 56GB of usable storage, you're good to go with the less pricier model.
+>Manipal University Fake
+
+Holy shit the amount of people who think I'm studying in Sikkim is unbelievable. It's has become 2nd nature for me to include "Karnataka" while telling my college name to people.
+5 was not a flop phone, but if you put 5 and 5T side by side, I doubt anyone would choose the 5 especially considering the same price range. 
+
+I think this pattern will repeat. They'll launch 6 with a higher price range compared to 5/5T, many people will buy it, then 3 months later - BAM! 6T with better specs/some good gimmick but similar pricing as the 6. If you ask me I'd only buy their T line since they iron out most of the issue/bugs that's present in their summer smartphone
+If the Super Dragon Balls were distributed in Universe 6 and 7 won't some of them be destroyed as well since Universe 6 does not exist anymore?
+They hyped the last over pretty well for me. I was pumped man.
+I remember how in the first match everyone was going on about how boring this tournament is, look at the turnabout now. Absolutely fantastic finish. Really happy India won, although like Gavaskar said, as long as the match goes to the last ball of the 40th over, I don't really care who wins.
+I'm with you.. Bought my 5T a month ago and hopefully want to stay with it for the next 3 years. Oneplus 8T here I come.
+What's the farthest a human being has gone from the Earth? I imagine someone on the Moon when it ~~had~~ was the most distant? 
+Oh good. I'm not the only Indian here :P
+Sort of like the new Tick series, right? He's strong and nice but kind of dumb, and the series focuses more on Arthur..
+I haven't seen the video yet but did they sneak the name OnePlus 5T at least 5 factorial times?
+Shit. Can't unsee that now.
+Thus
+As much as people express distress/fear from stalkers, a small part of them loves the attention. It's human nature to feel good being important to someone, and more often than not they don't think of the possible consequences of it that may arise later. 
+
+Okay, let me not generalize. _Some_ people love the attention they get from their stalkers and while she was a in a relationship it was easy to reject him since she already had someone, but after the breakup, the stalker guy's approach might've been better/less creepy than before, and she could freely give him another chance(I wouldn't, but I can understand her point of view to an extent)
+Agreed. Pandya looks like he cares more about his hair than his on field performance. 
+Me too. I legit lost my shit when I heard booyaka booyaka.. 
+I consider Harry Potter to be a story from a side kick's perspective.
+Poor Mysterio though. Got caught in the fire
+Also that peacock tears reproduction thing. I legit laughed for about a minute after I read that news
+You mean day
+I'm pretty sure OnePlus 6 will see a price hike. **_But_**, OnePlus 6T is likely to be priced similar to 6 and so there is a possibility of you kicking yourself because 3 months after you buy your 6, people will be walking with a better looking and functioning 6T. Kinda what happened to some of the OnePlus 5 users.
+
+So there's that point to look into. As far as I'm concerned, I would only buy their T line since they iron out most of the mistakes/bugs they make in their yearly phone.
+Based on the Ram and the processor we have in 5T, do you think custom Q roms would work without lag in the phone, once Oneplus drops support for it?
+Just have trained pigeons
+Because these are T20Is and not ODIs?
+> Titanic
+
+Wasn't titanic British though?
+Well, he's not completely wrong. Compared to the calm composure of Dhoni, Kohli does seem unnecessarily aggressive a lot of times. It's like seeing your father fighting at a supermarket over 1Re because the cashier gave him a toffee instead. 
+As someone whose name is "Vedant", I can't count how many faculties have told me to study _astrology_ instead of astronomy because "Naam sarthak to karlo"  ( o_o)
+Got a link for that please?
+It should be [Asteroid ablation](https://en.wikipedia.org/wiki/Asteroid_Laser_Ablation), not disintegration(my bad), as the smaller particles can still strike the Earth even if the laser manages to break down the asteroid. In Ablation the gaseous material starts ejecting from the Asteroid, thereby changing its orbit.
+Let me get this straight: Are you saying the phone feels too tall for your hands?
+If yes, then :
+
+1. I agree. I find using my other hand more while using 5T compared to my previous phones.
+
+2. With one handed usage, the only problem I faced was to reach the top part of the screen, to bring down the notification panel, so for that, I use the fingerprint swipe down or if I am at the home screen, simply swipe down on the screen to bring the panel down
+
+6" screen is definitely big when it comes to one hand usage and I actually have large hands. If you're not comfortable you can go for Nokia 8. Specs are same or better compared to 5T and it's 5.3" in size. Of course it will mean that you'll lose that bezel-less look but you'll probably get better usability out of that phone.
+You do realize he can't see the screen right? He wouldn't even need talkback otherwise..
+Then we launch more mirrors to counteract the first mirrors. 
+I did a presentation on this topic (doing my masters in aerospace engineering) and one possible solution was to establish a ground based high intensity laser system on the dark side of the moon. That way, it can't be used to attack anything on Earth if it gets hacked, but incoming asteroids can be ~~disintegrated~~ ablated if detected early.
+It's weird that OnePlus is said to have the most market share in the premium smartphone segment in India but I have met only 2 people in the last 3 years that have owned OnePlus phones. Kinda makes me a tad bit scared about owning a 5T now since I don't have any friend to ask if something goes wrong.
+India. Mi phones here are the bomb. Online retailers start a flash sale for Mi smartphones and they get out of stock pretty much under 10 seconds.
+Some of the brand loyalists use Samsung too.. Though the population is so vast of this country you are bound to see every model of every other phone out there sometimes.. even the rare ones like Yureka or 10.or G( hehe, _orgy_)
+
+Edit: I forgot Motorola, which was weird since my entire family uses moto phones lol. 
+Flair.. 
+Using a phone with one of the first Super Amoled displays in the market and an OS that was made by Samsung to take on Android (_because they actually thought they could do it back then_) , to OnePlus 5T, ah, how the times have changed.
+You probably might not need the screenshots.. Usually talkback is an accessibility shortcut and can be enabled by pressing both volume up and down key for 3 seconds. At least that's what it says on my 5T. Just give it a try anyway.
+Still using the screen protector that came pre-applied on the phone. It's been over a month now and it's perfectly fine. 
+
+
+The transparent back cover felt weird though, used it for a few days then replaced it with the Sandstone cover. It looks and feels much better.
+Maybe you are pressing the power button thrice? It activates emergency call/SOS. 
+For the time being try disabling the HDR option. One more solution, albeit time consuming is to take pictures in pro mode, and in Raw. At least in the daytime, I've noticed that oil effect is completely absent in these cases.
+
+
+Do you also get frequent notifications from Whatsapp saying "Checking for new messages" ? Because that's what I get every 15 minutes or so.. but new messages are only delivered once I open the phone. Sometimes, there will be new messages but absolutely no notification sound or LED to indicate that.
+> Basically, with enough thrust anything will fly.
+
+Funny image in the head
+Brb going to play fifa 15 on amateur and rape Arsenal
+Can referees be penalized after the game based on video evidence? 
+I don't watch a lot of football but what the fuck is happening? This clearly looks like refs are favoring Arsenal
+What's the halftime break duration? 
+I don't understand rules of football that much, but is there no provision for replays to clear these obvious howlers by the refrees? That penalty and that handball was clear as day! 
+Jhanks
+"Meh"..
+
+As long as the videos I watch and the apps I use are not cropped by the notch, it doesn't really matter to me. I'll think of it as a top bezel which can also display the status icons.. Kind of like how bottom bezel used to have capacitive icons  once..
+
+And since I've bought a 5T not even a month ago I probably won't be upgrading until the next 3 years and by then god knows what we'll be getting.. 
+I'm pretty sure this is only available on the beta updates. 
+
+Fair warning: If you switch to beta, you'll have to wipe the entire phone if you want to get back to stable releases.
+_Students_ ? Plural? 
+_Students_ ? Plural? 
+Imagine how that guy must be feeling who made a post about how Stephen Hawking is still alive on /r/NoStupidQuestions , _yesterday_ 
+
+
+Edit: I had the wrong sub
+Melting ice in 5 minutes just by looking at it. Oh wait.
+What if he can't feel compassion? Would you prefer he faked it? For example, I don't feel any empathy for strangers, but the strongest worry for people I care about. Like if I saw a guy dead on the road I won't feel bad for him, but if my little sister gets even a papercut I lose my shit...
+Say you totally had sex inside. No one will believe you.
+We'll have a field called "planet of birth" on our IDs
+It's reely hard too recall write now which words I usually mix.
+In the end. I was obsessed with that song in the 6th grade and would listen to it on loop for hours after coming home from school. I can even remember the weird moving graphics on windows media player. Good times.
+"There are so many things to explore in here"
+
+From her giggles I realized I had said that out loud..
+A friend of mine said a program he had didn't work. I tried to troubleshoot over phone but it was difficult to make him understand what to do so I told him to bring the program to me.
+
+When he did, the first thing I saw was that it was 32kb in size. He had only copied the desktop shortcut thinking it was the whole program.
+Getting offended if someone corrects you with factual information. It's high time we let our egos aside and understand that if you are being corrected it's only the argument that is attacked, not you. 
+Stargazing. Tripod fell on the phone. 
+"I still can't believe Stephen Hawking is dead"
+He read this post, didn't he
+I believe you completely. But on a very different and totally unrelated topic, I'm going to be watching the news about those 3 you've mentioned.
+Either a very large owl or a very small Harry Potter
+I just tried that app, it only kept getting me haptic feedback but none of the gestures worked. Did I do something wrong? Is root required to make it work? Is there a tutorial somewhere? 
+>  Swipe Navigation
+
+Does the gestures from that app work system-wide or only on the home screen?
+I just imagine the time when robots and AI will indeed be able to use the Internet and demand for Captchas and Recaptchas to be banned.
+>~~Jesus Christ~~ Oh my Ganesha
+
+FTFY
+Yep, used a VPN extension in chrome to get spankbang, but those alternate websites were a nice change..
+How do you have Play services use so less battery? It's always the top or 2nd in my list in terms of battery usage.
+Question: If you hide the nav bar, how does the 'buttons' settings work? For example I use double tap home to lock the screen or double tap recent to get back to my previous app, or long press home to open Assistant. How are these handled?
+I'm lowkey hoping Carl Pei is pushing the rumors himself like it happened with the price of OnePlus 5 which was touted to be over 600$, then at launch he couldn't seem to control his smugness when he announced the real price. 
+Question: If you hide the nav bar, how does the 'buttons' settings work? For example I use double tap home to lock the screen or double tap recent to get back to my previous app, or long press home to open Assistant. How are these handled?
+Same problem with my 5T running 5.0.3. I have disabled Doze completely and I still don't get notifications from Whatsapp unless I wake the phone up.
+Tide curry.
+Last year in June. About 857 pornographic websites were banned by the government. The backlash was so big they unbanned them after a couple of days but there was a silver lining to it. Some of the good Samaritans found dozens of porn websites that _weren't'_ banned, and circulated them everywhere. Good times, good times.
+You can basically make up anything glorifying India or one particular religion and it will get viral. 
+
+Some of the most common ones:
+
+
+1. 38% of workers at NASA are Indians
+
+2. Mangalyaan(Mars Orbiter we sent) captured a picture of a crown, so it _obviously_ means Indians were already on Mars thousands of years ago
+
+3. _Tonight you should turn off your phones because cosmic rays will pass through Earth. Check BBC to confirm._
+   
+    I actually got a call from my mom to turn my fucking phone off once.
+
+4. If you look at a particular waterfall in India with squinting eyes, you'll see Narendra Modi(our Prime Minister). It was a Photoshopped image of a waterfall with Modi's face superimposed on it that was circulated on Whatsapp
+As an Indian, I clicked on the trending tab of Youtube once... **once** ... still haven't recovered from the trauma
+Is there a link to watch the Highlights somewhere?
+_"You can see great wall of china from space"_
+
+Depends on what altitude you are looking down from, and also, you can see a lot of other things from space. 
+I'm in India and I can watch those episodes on Youtube quite easily. 
+Are you sure you checked properly?
+
+[Episode 1](https://www.youtube.com/watch?v=QCjk_NPsIqU)
+
+[Episode 2](https://www.youtube.com/watch?v=LdhQzXHYLZ4)
+
+[Episode 3](https://www.youtube.com/watch?v=LEcbagW4O-s)
+Have you tried Youtube?
+She just gets a big kick out of it
+Any interesting features that were discussed? Someone must've asked 'hard-to-answer' questions, did he respond to them properly?
+For a normal usage scenario, the Awake graph(?) should be similar to the Screen on graph. You can see that in your case the phone's awake a hell lot of more times than you used your phone. 
+
+Something's keeping your phone awake, might be some backup service(Google Photos, Whatsapp backup) or some other app that is not letting your phone sleep. Try to find out which app or apps are doing that and uninstall them. 
+Are they interact-able? Is AOD supposed to be interactable?
+Onix is a Mexican food?
+As someone who was thin as a twig my entire life, I'm kinda liking the bit of belly that I'm getting now.. 
+I wish I had a cool username like that
+I scared the shit out of the entire hostel
+Picture below
+
+**NSFW**
+
+[Again, only click here if you're certain you want to see it, it's not pretty](https://images.livehindustan.com/uploadimage/library/2018/03/11/16_9/16_9_1/_1520708721.jpg)
+Does it smell of deer? 
+Does it smell of deer? 
+It's 6:22 am here and I still haven't gone to bed. 
+Okay I just got into a relationship after 6 damn years and now you've scared me. What else does it take to make it work?
+"Is this water genetically modified?"
+
+"Yes"
+
+"Is it safe to drink"
+
+Water: "Yes"
+Woah... 
+
+What happens when you press the volume down button? Does the volume go below 14%?
+Isn't this always the case? What happens when you press the volume down button? Does the volume go below 14%?
+I'd be fine with Casey as a background security agent for shield doing nothing but grunting every once in a while.
+I thought Coulson was still inside that fear thing. I was almost certain in the elevator scene when Fitz was acting all weird. That when the doors finally open Coulson would see that crack in space-time and a sinister smile from Fitz saying "You thought it would be _that_ easy?"
+I like your optimism
+Did anyone here see that coming already or am I the only one who got his mind blown? Also, is he their son or grandson?
+It's possible she didn't know about it.
+Found it. I should have searched first :P
+Thanks mate.
+
+If anyone is looking for the same thing, [here](https://www.reddit.com/r/Cricket/comments/837kmu/south_africa_vs_australia_2nd_test_day_1_fall_of/) it is
+Can someone link me highlights of Day 1 please?
+I like how you abandoned the other one completely
+Shit. How much time do we have? I'm currently living in a city which is basically almost always under cloud cover and I won't be getting home until a couple of months.
+Now I'm imagining bears and bucks as big as buildings going "My child will be big--NO MY CHILD WILL BE BIGGER!"
+4.6/6 .. Now I'm wondering how others' have such low ram usage...
+Most of my Ram is being used by Android OS itself
+Pretty sure these are only valid for Amazon.in purchases. You should mention that in your post so as to not cause any confusion to Non-Indian customers.
+A guy and a girl were watching a movie. A mosquito gets inside the girl's pants. 
+
+Where did it bite? 
+
+On the guy's hand.
+Tell your echo this particular news and see if she laughs. _Something's about to go down_
+CSI would find life on that star's planet by now.
+Not sure about speed but the neighbors reported a very distinct "Wheeeeeeee" when it crossed the closest distance.
+I thought Sagittarius A* was a pretty bright object due to gobbling up all that matter falling in it?
+How the fuck did you know my age?!?! You stalker!
+They sensed Cell's energy from all the way back to New Namek. I'm pretty sure their energy sensing capabilities are top notch
+NAAA^A^A^A^A^L^L^L^L
+_WIIIIIIIIIIIIIII^L^L^L^L^L^L_
+"Howwazzzaat?!!?"
+
+\**Crickets**
+
+"Bhenchoo--"
+
+\**Raises finger**
+IPL's standards are far better usually compared to many international matches. I think one of the umpires in this match is actually debuting today, right?
+They're playing like me in Cricket 07 slogging everything on the leg side to avoid edges.
+Everyone out of the 30 yard circle will be eliminated.
+I think it will be Polo.
+Damnit now I want some petha. Those long ones with some sugar syrup are so fucking delicious.
+Sometimes I'm amazed how far we've come.
+Pretty sure they heard it but are waiting for a new phone to fix it in order to brag about how they _listen to the community_.
+>About 9 days left
+
+I want this to be true one day.
+Got it yesterday on the Photos app. I'm in India but my language is set to English(US) so maybe I got it earlier?
+This is just a simple way of causing ambiguity. If there's no notch in the end(might just be possible), they'll gladly announce in their live event that they _listen to the community_ and didn't copy the design.
+If there is a notch, he'll ask "When did I say there will be no notch? Show me proof"
+S^P^A^A^A^A^A^A^A^A^C^E
+Steve Austin
+We didn't even have suspects in this episode. Besides her, it was just that Bolivian guy. I'm all for character development and plot progression but a good ol' fashioned whodunit is what I liked about this show. I hope they get back to it.
+Fucking hell. Shit! All throughout the episode I was thinking, "Have I seen her in Brooklyn 99? She kinda looks like some character in that series, but her face is... _thinner_ "
+I always lose my shit at that "bleh". 
+Have you checked the per app notification LED option in the display settings? 
+Maybe it's off for gmail. Even if it is on, just turn it off and back on again. It just might work
+I really don't understand why they did blue off screen. It would have been such an engrossing story if SSJ God wasn't enough against golden freiza so out of desperation he'd turn blue. 
+Shit. I have done that to at least 4 of my friends in different times of my life. I don't even have a reason for not talking to them, it's just... I don't want to anymore. It's easier to ignore them and hope they will get the hint rather than explaining a non-existent reason.
+I was 7 or 8 and we had a tradition where our mom would give all of us presents on New Year's. I usually received video games or cool toys, but that time, I got a wallet. And I lost my shit. Basically threw the wallet at her and accused her of loving my sister more because she got a barbie. My father was consoling me that he'll get me a new gift tomorrow.. I didn't notice the tears in mom's eyes, and the next day I didn't notice the hurtful expression on her face when I came home with my dad and a brand new big ass remote controlled car.
+
+It was very fortunate that she later on explained to me what I did was wrong and told me that next year she'll gift me something that has little to no monetary value, and will see how I react. I had learned my lesson, and when I received a pack of crayons, I was genuinely happy that at least I have a mom who gifts me stuff. 
+
+Maybe I was young, but I was still an asshole and I can't forget the expression on my mom's face that day, so now as a master's student, I try to spare whatever I can but I make sure to send her (admittedly) small yet useful gifts on as many occasions/festivals as I can. 
+Say "meh" to things that you can't control and go to sleep.
+I'm on 5.0.3 and it's working quite nicely. I think it feels even snappier than 4.7.2 (if that's possible).
+
+I can see the 5.0.4 update too, but the changelog is so small I'm skipping it for the time being.
+
+If you do decide to update it, just make sure to wipe cache from recovery both BEFORE and AFTER updating. You shouldn't get any issues that way.
+Any online stream? 
+My 5T keeps almost all apps in the memory without problems, that's something really awesome(6GB ram helps a lot). My question is, is it a good thing to keep apps in memory or to kill them when you don't need it? 
+What are the pros and cons of both these scenarios? Keeping more than 5-10 apps running in the background *must* have some toll on the battery.
+
+I was in the same boat as you.. 1709 absolutely refused to install and kept failing every time. What worked was downloading Windows 10 update assistant. Might as well try it.
+Yes, pretty much. The battery graph from 100-95 is quite steep.. As long as you are getting through the day and there's no huge battery drain(over 40% without using the phone a lot), you shouldn't worry too much.
+In 2010 I had Samsung Wave, a _smartphone_ with their own Bada OS, and I tinkered the hell out of it. Even installed Android on it (I don't even remember how) and I remember it used to run smoother than Galaxy S. Ah, memories.
+
+Haven't tried rooting since Xperia in 2013 and I feel like they're making it harder and harder every year. 
+
+Also, phones are getting expensive and the lingering thought of bricking a daily driver causes a lot of potential rooters to change their mind.
+Ranjit is really good. The only problem is he never replies to any of the small queries no matter how early you ask in the comments section. I guess a million subscribers and hundreds of comments every minute make it a bit harder.
+You can try watching GeekyRanjit and C4ETech's videos. They are Indian reviewers, so the phones they review and their format of reviewing might be different from what you are used to, but I have observed they list mostly unbiased points about the device at hand. GeekyRanjit always divides his reviews in pros and cons and has a set format for what he tests in the phone.
+Try uninstalling all the apps that crash, THEN clear the cache from recovery, and installing the apps again. My messenger lite app used to crash after updating it to Oreo, doing this fixed the issue.
+Haven't sent my device for updating but I still have these options. It does not play in HD though. Not an issue for me as I hardly watch longer videos on my phone but just confirming for those who need it.
+I like food quality photos too! The smell of curry when you zoom into a macro shot.. mmm..
+ If we ever get this back, it will be on a 6 or 6T with Carl Pei announcing how they _listened to the community_ and added this _feature_ . Then we'll be begging Oneplus to give it for our old phones as well, just like face unlock, and eventually they just _might_. 
+I think I have an irrational distrust on Doctors too because in India, reservation exists. There was an entrance exam where students from 
+a minority caste can clear it by scoring -9. Yup, the cut off for that paper was MINUS nine. Now imagine that guy being your doctor.
+
+Obviously the _bad_ doctors represent a very small percentage, but I admit, it scares me a little bit to the point that always I look for the best doctor available no matter how small the problem is.
+Visit Christian mother's against masturbation on Facebook and it will make your day. The page is 100% troll, but some of subscribers are real and take it seriously. It's really hilarious.
+Same. I think that's pretty normal since it normalizes afterwards. I easily get around 7-8 hours of SOT and 35-40hrs of total battery life with my low to medium usage.
+Can you explain it a bit more please? Never used an iPhone. Is it like a gif or a short video of the subject that you are capturing?
+What did he reply?
+Do you remember the version that was pre-dragon? I'm looking for the same but I can't figure out exactly when did Swype start going down the drain. It has a couple of problems that were absolutely not there in previous versions(1-2 years ago)
+TIL, thanks!
+Been using Swype since the last 4-5 years. It's not perfect but it was the best typing app available back then. I remember trying Swiftkey in 2012-13 and it was horrible. How has it improved now? Because Swype support has now ended, and I can't seem to like Gboard no matter how much I try
+Sounds weird but that's the only reason I disabled Gboard and still using Swype. In Swype you don't have to select the word. After typing it, just swype form 123 to shift and you get all 3 capitalization options.  A double tap or long press to select the entire word slows my typing a lot.
+Now I'm imagining a ripped Stephen Hawking with his computer display saying "Fuck you" to all his naysayers.
+Same. Best decision I ever made. Almost everyone exists there just to insult each other and argue over the smallest of issues.
+Does Google pay you for taking these surveys? Or is it just for shits and giggles?
+This is so freaking amazing I want to take a picture like this. Is it possible with just a DSLR and telephoto lens? I still don't have a big enough telescope
+This reminds me of the time when we played with each batsman having 3 'lives' when there were only half a dozen friends to play.
+Ah, nostalgia
+RemindMe! 20 seconds
+Bham bham bhole.. dil k raaz khole.. 
+_Oh my Ganesha_
+Mr Little shot here. I don't use commas at all! Now let's eat people!
+I heard that Swype was closed a few days ago. I'm still using it. At least their new updates _won't_ ruin it anymore. It's still better than Gboard in my opinion though.
+D^a^r^k  M^o^o^o^o^o^d^e
+Problem is some faces don't even show up there, and therefore can't be tagged. For example I have this group photo in which 4/5 people are tagged.. But Google absolutely ignores the fifth.. I make fun of her for this but I'd rather have the option to manually tag her.. 
+I can confirm I have it in India. Although it does miss an awful lot of faces and there's no way to manually tag them
+But when it misses a person in a picture there's no way to add them in "people" or tag them manually.
+
+Or is there?
+I have one rule of thumb for night time photos- Always use pro mode. OnePlus's auto settings are like a child getting a DSLR for the first time and turning all the dials to a random value.
+
+Are there mounts that I can fit my phone onto and then screw that mount on my DSLR's tripod? 
+The camera is actually quite good... _just_ not as good as OnePlus advertises it. I had only used mig-range devices <~400$, and 5T's camera is better than all of them. Just don't expect S8, pixel or Apple like quality.
+
+PS- I do like the manual mode though. Most phones don't have manual focus and manual shutter and it's a refreshing change. It sort of feels like I have a mini-DSLR in terms of usage(not quality of the image, obviously. My old af Nikon D3100 blows OP out of the water)
+
+Edit: I forgot to talk about low light photos. One word- It sucks. OnePlus advertised the other camera for this very purpose but it has absolutely no effect on the quality of the images at night. Once again, in manual mode you can adjust the settings yourself and get some minor improvements, but that's about it.
+Does any other company admit to being 'wrong' like Carl Pei does? He flat out said while launching 5T that they got arrogant during OP2 and are improving themselves. Even if it is a marketing tactic to appear more humble, has any other manufacturer admitted something like that in the past?
+No he's just playing the statue game and will come out any moment now.. Right? Right!? :(
+Question: How does QOS decide which service to prioritize? Also, is it possible to modify that priority list on my local router? 
+Good bot
+Thank god I bought the 5T.. At least for the next 2-3 years (I hope) I won't have to look at these dumb copycats. OnePlus 8T here I come..
+I want more stories like these. Is there a sub for _good customer_ tales? 
+I don't have any audio problems with my phone, do I really need to update to it considering the security patch is still the old one? 
+
+Can I skip this one and directly update when there's a bigger changelog? Or would OnePlus make me first download 5.0.4 before letting me update to let's say 5.0.5?
+Now that you mentioned it, yes I thought there was something different. I think one of the moderators made a post about design changes. I guess it was a part of the new design. I remember Carl Pei once asked why this subreddit looks so poor, which may have enticed the modification
+Is there a better gallery app? I don't like it either. It does not even show the gifs downloaded from Reddit/Internet. Not even in the folders. I always have to hunt in the file manager
+Try finding him on craigslist
+Okay now you're just being an asshole. When did I ever say I don't believe in Gravity? It's like you are pulling out dumb statements out of your ass just to start an argument. I feel sorry that I wasted time here, thinking I would have an actual scientific discussion. Feel free to abuse me in your reply. I won't be seeing it. Good day sir.
+TIL birds think gravity is bullshit.
+
+No but seriously you are misunderstanding my point. I never said Dark matter is _false_. I was simply asking if we can indirectly observe the _effects_ of something, can we consider it as the proof of existence. We know a lot about Gravity and its properties, but not a lot about Dark Matter.
+
+I mean, what if it's completely different from the theoretical models that we have about Dark Matter? Whenever I have read about it, it's almost always followed by the word "hypothetical".
+
+I wasn't challenging your argument, I was just asking whether the scientific world considers the existence of Dark Matter to be "proven" or not.
+Same. I can comfortably read in direct Sunlight on max brightness. I probably don't even need to enable HBM on my phone.
+Do we really have proof already or is it just inferred from gravitational observations that there's _something_  which might or might not be what we think is dark matter?
+What's the speed you usually get there? And what's the maximum speed that you can get? 
+
+For example in India, in my dorm I get 5 Mbps(that's the maximum plan available in campus) and 8 Mbps at home and the speeds are pretty much stable irrespective of what time is it.. And for my usage these speeds are comfortably fine. At least there's no buffering no matter how high quality video I'm watching.
+Good guy crust. Saving us from all the hot magma
+What's weird is I learned the exact same thing a few hours ago. On an article I stumbled upon playing an Astronomy treasure hunt. "Hollow Moon" on Wikipedia, right?
+So is it technically possible for an astronomical event to create an element even more heavy than Uranium? 
+
+For as example Ununoctium is the heaviest element till date right? But it's synthetic. So is it possible for an element like this to be created naturally if suitable conditions are present? Also, would that element be stable at all?
+I have a Galaxy Live Wallpaper and face unlock works perfectly fine for me. It was just a tad bit slow on 4.7.2, but strangely on Oreo is fast af. It's been only 3 days since I updated to Oreo though.. so I'm still analyzing it.
+The weird thing is my phone came with 4.7.2 and the face unlock was quite slow/inconsistent but after finally upgrading to 5.0.3 it's blazing fast. 
+So far I haven't noticed anything strange on this update, except maybe WhatsApp showing that stupid "You may have new messages" notification more than usual.
+In the DND settings in messages, set it to none. At least that way the notifications are silent. In-app sounds still play though. Really weird
+The forums are really difficult to read through though. Every other reply is of an Indian with ridiculously poor spelling and grammar talking about an issue which has absolutely no relation with the post at hand. I'm an Indian too and even I can't understand them properly.
+
+
+PS- I may have made some grammatical mistakes myself in the above comment, so the irony is not lost on me.
+My previous phone was Lenovo P1. Its security patch was dated  December 2015. I *bought* that phone in 2016. Lenovo does suck with updates but so did all the other OEMs I tried, and as a result my expectations have been lowered.
+In other news: Taimur Khan has decided to go on an anshan because he's not the only baby media is paying attention to.
+As a guy who was once cheated on, that episode was difficult to watch. It took me 6 long years to finally trust another human being  afterwards and after watching that episode I kept wondering if I will be better off with that technology existing in real life, or _not_ existing.
+I've seen this porn.
+That one movie where the went to an zombie island scared the bejesus out of me. I kept thinking well NOW they'll unravel that special effects they were using, well NOW I'll know how was voodoo shit working.. But no. It was all real. Twist 10/10
+I cover one camera with my finger and see if the viewfinder still shows the image, if it does, change your finger then move to a darker area. Usually it has to be REALLY dark for the other camera to switch on. None of my "usual" night shots have had the other camera activate, yet.
+I want to play here. 
+I was reading that AskReddit question thinking, man that guy seems pretty down and pessimistic by the current world events. What I didn't do was check the username that it was Bill freaking Gates who asked it!
+Depends on the country and courier I guess. In India, Amazon has the exclusive rights to sell OnePlus devices so I ordered on the night of 7th Feb and it was in my eager hands day after tomorrow.
+Happened to me a few times on Whatsapp. I think it only happened when I was typing too fast. I'm pretty sure I didn't hit the home button because while returning to my chat, the typed text was gone. 
+I use Swype keyboard. This only happened on a few occasions to me and was very random so I didn't pay any heed to it, but maybe you are also typing too quickly which is making the keyboard app crash?
+Bought mine on 9th February. The phone is absolutely amazing. I had some doubts about the battery life since my previous phone had a whopping 4900Mah but to my utter surprise a 3300Mah 5T lasts just as long as my previous phone with probably _more_ usage since it's such a lovely device to look/operate.
+
+I was afraid to update it to Oreo due to possibility of bugs but I finally did it last night and had absolutely no problems. If anything, the phone feels even _more_ snappier than before, and that's saying something since it was already blazing fast.
+
+Of course there are a couple of minor annoyances here and there. Netflix HD issue might irk some(not a problem for me), but one thing that does annoy me a little is that the notification and ringtone volumes are not separate. This was not the case with any of my previous phones so that sort of irritates me a little. 
+
+The face unlock was a tad slower on Nougat but after updating to Oreo it's ridiculously fast. I can't remember the last time I saw my lockscreen.
+
+All in all, for the price, I think this was the best device I have ever bought.
+Can someone tell me what should have been changed? I came from Marshmallow in my last phone to Nougat for couple of weeks on my 5T before updating to Oreo last night. So far, it's... quite better.. The battery quick setting was missing which annoyed me a bit but long pressing battery saver icon does the same thing so it was all good.
+
+I keep reading that OnePlus gave us a half baked Oreo. So what other changes were supposed to be in an actual Oreo update? 
+Will the water still go inside if I'm upside down BUT holding my breath?
+_1 like will donate 1$ to that guy's shrink_
+Where is Whis? How did he let Beerus come to Earth on his own
+W̨̦̞̹̉̆̽̾ͣ̌ͥ́ḩ̠͇ͪͮ̏ͧ̄̆̚ȧ̶̩͓̱͕̠̓̐̍̀t̴̩͍͚̾͆͞ͅ ̢̙̥̲̬̘̙͕̝̔̈́͊̒̒t̺͙ͧ̿̍̔ͧ̌͊͊̃h̷̲̲͓̭̣̰̜̆ͦ̍̅̊e̷͚̘ͧ͂ͩ͋̃͒̈͘ ̴̪̟̜̂͋̃̀̓ͪ̔͊̑f̨̝̒̀̊̇ͪ͂ṷ̴͈̙͋ͫͧͯ̉̓̚͘c͍̜̘̩͉̝̉ͫ͢k̥̬͍̝̦̺ͭ͂ͩ̀͟!̟̙̯̲̬̟͙̭̬̇ͦ̐ͦ̒ͪ̎̍?̵̨͈̩̉̓ͫ͟!̸̼̬̘͙͇̲́̇̂͊̍͑͊́̌ ̷̼͇͇̱̳͎̥͂ͪͮ̽ͫI̸̸̻̜̯̊͋̎̅ͨͥ̽͟ ͎̟̟̯̝̐̓ͥͩd͚̾̎̎̅i̗̥̊̈̎̇̈ͤ̍͊̕ḋ̸͓̹͍̙̗̣͎̜͑̑̋̑͠n̶̺̖̣̗̳͚ͩͭͣ͟'̡̦̜͈̺̥͔͕͓͒͌͌̉̅́͠t̡̥̞͕ͦ͆̈́̂̀͒̕ ̶͈̘̰͕̩͕ͮͩ͐ͭͣ̏͐̒̐e̝̭̘̞̅̎ͬ͂ͤ̊̉̓̓̀͘ͅv͚̳̖̯̩͈͆ͭ̂e̦̙̰͓̦̪̥̗ͩ͆ͨ̃̔̑͞n͍̰̪̩̼̜̙͚̔̄̑̆̂̃̚ ̙̘̯̟͆̔͆̓̍͗ͅǩ̺͕͉̩̹̮͑͑̐̅͌ń̝̥͉͕̹ͫ̔ͥ͒́̿̏o͖͖ͪ͒ͭ̓͐ͥw̷̢̟͎͚͖ͫ̿ͦͅ ̡͉̱̦̞̳͎̗̔́̂̀t̸͍̟̖̾̅͒͛̽̆h̺̹̰͈ͧ͊͂ͧ͒̏̓͘͟͝i̶̲̇ͫͮ̕͜ș̴̷̛̬͈̽̎̆̿̀̋ͫ ͊̍ͨ̐҉̵̝͎̤w̨͈̪̉̑̂̀̐̃̀͟aͮ͏̤͉͕̫̠̖̮̹̝ṣ̵̦̝͚̯͊͋͐̉̍̿͊́́ ̶̲̈́̀ͫͧͫ́̎͝p͈͍̬̓̊͌͋̈̓̾̊̎o̷̵̞̯̝̮̫͉̺͉̗͛ͮ͌ͪ̉̈́̏̇ș̩̠̜̔̀̃̃̋̕͢͢s̛̭̝̱̖̟̼͈̅ͪ̇̏͛̎ͧ͞i͎̰̞͖̰̖ͣ͑̄ͭb̬͚̤̬͊ͤ͌̊ͯ̍͛ͨl̢̰̥͎͇͔ͧ̅̈̎͟e̢̹̘͛͊͊̽ͧͫ̅
+I smell what you are Cooking
+How did you change the navigation button icons? They look like Samsung's
+I was in the same boat as you. I came from Marshmallow so even Nougat was pretty amazing to me. Used it for about 15 days then updated my 5T last night to Oreo.
+
+Tip: Clear cache BEFORE and AFTER updating, from recovery. 
+
+It's been just one day but it's even *more* snappier than Nougat. I'm yet to see if the battery is improved but I'll update this post in a day or two for you or other potential Oreo-updaters.
+
+Didn't see any bugs so far. Camera definitely has improved, although not that much.
+_"Jarvis, find what wallpaper is that"_
+
+
+Good bot. Gdot.
+Which icon pack is that?
+Looks awesome! Did you edit the OnePlus logo into the image or is that a widget?
+Here's [mine](https://i.imgur.com/MAWUwRF.jpg) 
+
+Stock Oreo. Pixel icon Pack. Nova Launcher. 
+Galaxy Live Wallaper.
+Just above her neck, to the right side of her thigh
+Didn't someone hypothesize that Jupiter's core could be an Earth sized diamond due to extreme pressure?
+Now I want to see the upper boob of this extra
+Agreed. I have a 5T and I slept last night with 11% battery. Woke up with battery still at 8%. It charged fully by the time I took a shit. While OnePlus tries to market their phone as a flagship, it's still much cheaper than the bigger flagships. High end phones are absolutely not necessary for the best performance these days
+I also do not free too much when I smash my phone
+I'm still on 4.7.2 with an 5.0.3 OTA available. Do you think it's possible to 'skip' an update and directly download once 8.1 becomes available? Based on what I've read I don't find the current Oreo update all that exciting and my 5T on Nougat works wonderfully already.
+True. This will never work in India. All our curries look like all our other curries.
+How do you determine which hand is non-dominant? I write, and eat with my right hand. Whereas I throw, use my phone, and erm.. exercise in front of my computer with my left hand.
+Creativity is fooling the government that whatever you are doing will have a positive application for the welfare of cows.
+Damn 10 hrs is fucking amazing. I usually easily get 7hrs on 4.7.2 but even that's pretty good if you ask me. 
+
+Limiting background activity to save power is nice, but I have seen many posts about people complaining that they aren't receiving their notifications on time(or not at all) after upgrading to Oreo. Do you think the battery saving feature of 5.0.3 is a little _too_ aggressive?
+>_Trouble, that's right!_
+
+FTFY
+What a world we live in. Good bot.
+Prepare for _trouble_
+Not a barber but I just show my bartender a pic of me when I had fabulous hair(it was 8 years ago). He says that's the best clue of what to give me. 
+
+Edit: Barber not bartender.
+Many people seem to have this problem after updating their phones. I'm currently on 4.7.2 with 5.0.3 update available. Do you reckon I should stick with Nougat until this bug is fixed?
+Looks region specific. Maybe UK phones are bound by law to display this on their phones at all times or something. I bought mine in India and it had only a white sticker.
+
+It does look kinda weird that it's engraved, but I think the back is so slippery you would end up using a case anyway, which will hide it.
+Recent OnePlus user too here, do you think we can 'skip' an update? I still haven't updated my phone to Oreo, since Nougat already is pretty awesome for me, but I'm thinking of updating it straight to 8.1 whenever it comes. Would that be possible?
+Also, in that Kotak 811 offer, it says "free" but you actually have to open a Kotak account and transfer a minimum of Rs 1000/- to be eligible for this offer.
+Do you remember that news when one guy was asked to pay 48K for his water-damaged 28K OnePlus 3? Even though he had Servify insurance? I think their liability is only till Rs 6000/- based on that story.. 
+
+You can read it [here] (https://www.indiatimes.com/technology/news/a-oneplus-3-owner-was-charged-a-bill-of-rs-48-000-to-repair-his-water-damaged-smartphone-324165.html). 
+
+I was also contemplating it but I decided against it. Servify does not seem to be a reliable company when it comes to providing actual insurance(check their reviews on Amazon). 
+
+Maybe they have changed their terms and conditions, but I strongly urge you to read them at least twice before signing up for it.
+Okay. That IS weird. Can you upload a picture of it, if possible?
+If you get the option of switching back to Nougat, would you do it? Are there any annoying changes/bugs in Oreo OOS that weren't in Nougat?
+I'm pretty sure they all come the same way. Mine did too, but I removed that sticker soon after unboxing.
+When you touch the app switcher, you'll see the small 'lock' icon on the top right of every app. I think if you click there once, that app will not close it even if you clear all the other apps from memory. I'm not sure if you were looking for this but I use it a lot to make sure I don't close my music player.
+Alright let me explain then.
+Apple introduced their latest smartphone, iPhoneX, giving in to the hype of the "bezel-less" design. The only problem is, instead of fitting the front screen sensors(ambient light, proximity, front camera) on a small top bar, they did it on a 'notch' which you can see [here] (https://imgur.com/gallery/a28ijQI) 
+
+The most annoying aspect of having this notch is when you're watching a video or playing a game, some part of it will get cut due to the notch, thereby ruining your experience a bit. 
+My last phone was Lenovo P1 turbo and it had a whopping 4900maH battery, but my 5T still gives almost the same battery backup.. Normally I charge it every 30 hours.. P1 gave me ~34
+Did you update it to Oreo? It's been 2 weeks but I'm still running mine on Nougat for fear that the battery might not stay the same afterwards. 
+I'm more worried about Jack though. I mean.. if Google can do it...
+Is the newest OPPO coming with a notch? 
+I...can't tell if you're asking sarcastically or not.
+I know right, it's not even 2 weeks since I bought my 5T
+Happened in my home town too. I wish I had gotten the tickets. I remember cursing Dhoni for hogging all the strike and not letting Sachin score his double ton.. Ah, nostalgia..
+The whole Flat Earth conspiracy is just a war between map sellers and globe sellers. 
+We'regonnahaveaproblemhere
+And when is the point where that instinct dies and you're no longer a baby? 
+Can we change our username? Asking for the previous guy's friend
+Wait, there's a space movie with Joey in it?!? I _need_ to watch it now
+Not until he faces 15 balls first
+This. I tried gboard and to have to constantly capitalize "i" to "I" manually was such a pain in the ass.. Logo to shift key capitalisation is the best gesture I've ever used. 
+What does relief map mean? 
+... Black, science man? 
+He's probably reading this thread too
+Even if the screen damage is just cosmetic, I think you should get it repaired because in the future if your phone has a different problem OnePlus might not honor their warranty citing "physical damage to the phone, warranty void". A few of my friends have faced this issue even when the problem in the phone had nothing to do with its physical damage.
+Is it possible to "skip" an update? I'm on Nougat too on my week old 5T and I can see an Oreo update, but I don't see a lot of benefits from Nougat right now to go through the entire process of update, wipe and set up my phone again... Let's say when 8.1 arrives, can I update directly to that?
+GIF should be an initialism to kill all the ambiguity.
+I get a lot of accidental gestures. Does that happen with you too?
+It's been 5 days since I've owned my 5T but every once in a while after locking the screen, flashlight would turn on or camera turns on.
+
+I even put difficult gestures like S and W so that they don't get replicated unless I actually want them to, but it still happens from time to time.
+Where can I watch the most match presentation?
+Who's next?
+A man needs a link
+What planet is he from?
+Depends where you look for. If he still hasn't got a room, ask him to ask around near the old city part of Bhopal. Or Kolar. People are more accepting in those areas as far as I have seen..
+I'm a ~~real~~ American
+Fight for the rights of every man
+You're amazing, kind sir. Thanks a lot!
+Sorry for off topic question but does anyone know which Bullshittery has womble laying besides cyanide and he says something about the testament to his camouflage? 
+I'm watching Bullshitteries since the morning and Can't find that scene
+That's why we need the Wall damnit! ^Or^a^trip^wire
+
+
+Also ask her to make you a sandwich
+_... and collides with a pole_
+So, er, what about illegally blind people?
+Not to make excuses about why I don't want to hang out and stay at my home instead eating and binge watching something alone.
+He's saying : AND IF YOU'RE NOT DOWN WITH THAT.. I'VE GOT TWO WORDS FOR YOU...
+Fucking this! 
+So many people don't understand the difference and push their palm ahead when I tell them I love Astronomy.
+Agreed. He's an excellent keeper(probably the best at the moment), a really good strategizer(is that a word?), and undoubtedly one of the fastest runners in World cricket, but when it comes to hitting the ball he seems to take a LOT of time to settle down before he can middle the ball properly.
+Dhenier didn't play well today
+_Jesus Marie, they're minerals!_
+As an Indian living here for 24+ years, I'm now curious about the after effects of authentic non-indian food. 
+
+Is your poop super smooth? Do you even need to push it out? So many questions.
+I'm sorry but I read _severely_ killed at first and I thought, well, THERE'S an AMA you won't see often.
+About 2.5mm
+You can also add your own words and assign them functions. My google turns on the flashlight at "fucking hell" and turns it back off after saying "Motherfucker". I like it.
+The inability to imagine/visualize a new color
+Just have a kid on 31st July, defy a dark lord thrice and you'll both die together. Problem solved.
+Shaggy : Bruh, just like, burn my body fat till I score some Scooby snacks
+
+Shaggy's gut : Alright, burning the fat in your bo-- yeah I'm done. Now what? 
+Holy fuck. 
+When are they coming back? 
+How much in the last 10? 
+I didn't know Yuvraj was playing under Markram's disguise. 
+Did you update it to Oreo straight away? I'm still on Nougat and it's working flawlessly so I'm a bit apprehensive whether should I update it or wait a few more days.. 
+Damn me too! Came yesterday and I'm still hooked to it. So fucking amazing.
+> sweater
+
+I just realized sweater was probably named sweater because it made people sweat after wearing them.
+
+Brb getting my mind blown here.
+Believing whatever they are told AND forwarding/telling it to others like it's a well established fact without checking first.
+Which uni is this from?
+You can also fuck people of other countries though
+Well I guess everythingsucks for him
+Nope. If this is an Engineering college there's something called "Sessional marks" or practical marks. Unless you studied from a very prestigious IIT-like college, most private Engineering unis can get away with basically anything by scaring students into ruining their practical grades.
+It's about respect, and most professors would take your phone till the end of their lecture and give it back with a stern warning(has happened with me on multiple occasions, the trick is to quickly open something on your phone related to the teacher's subject so you can make the excuse that you were 'looking up something') 
+
+But if a teacher threw my phone like that I'd probably sock him right in the face.
+Smash the _present_
+Nani!?!
+You can use Youtube on silk or Firefox and casting works but as far as I have seen you first have to *open* youtube on your browser, then start the casting process.
+
+Smart Youtube TV works, but it also requires at least one or two confirmation inputs from your firestick remote before you can start casting, and I couldn't control the volume from my phone's volume rocker.
+
+
+An alternate I found was this [video](https://www.youtube.com/watch?v=ztKM1o_HDE8&t=120s),
+it side loads a different Youtube app, and even though it shows you the "Youtube will close" warning every time, casting and other stuff works flawlessly. Give it a go.
+I have ordered a 5T as well. Should arrive in a day or two. If you manage to find a good cover can you update your post please? On Amazon I see a [Tarkan](https://www.amazon.in/Tarkan-OnePlus-Inch-Full-QuickSand/dp/B078KD9CMS/ref=sr_1_1?ie=UTF8&qid=1518030595&sr=8-1&keywords=5T+sandstone+case) case that has pretty good reviews.
+But why would a billionaire send a useless machine out in spa-- Oh.
+Not common everywhere but at least in India, at almost every education place, you'll be told that 38% of workers at NASA are Indians. 
+Can you repeat the question
+Upvoted for Dhenier.
+I wish Tendehar was still playing though
+What about the greatest Indian singer/dancer of all time?
+
+
+Maayi ka laal jai-kishan? 
+
+He could walk on the Moon before it was cool
+I just ordered my 5T an hour ago. Should be delivered in 2-3 days. Should I update it to Oreo straight away? Are there any bugs or features changed/missing that might cause some mild annoyance? 
+As long as he has pringles, nothing else matters to him
+[Relevant](https://sports.ndtv.com/icc-under-19-world-cup-2018/there-was-a-magic-spell-on-the-team-says-pakistan-u-19-manager-nadeem-khan-after-india-loss-1808507)
+Besides the underarm thing, the ones you've told are actually quite impressive. He might be a cheeky cunt, but damn that's a clever use of the rules to your advantage.
+[Guy broke his arms,
+ mom _helps_ him out](https://www.reddit.com/r/IAmA/comments/nmmjr/iama_man_who_had_a_sexual_relationship_with_his/)
+Booyaka Booyaka.. 619(Hey!)
+
+
+Booyaka Booyaka.. .. 911
+It should be just like hearing Goku talk to King Kai
+Every. Single. Thread.
+It also surprises me that Agents of Shield have seen bigger/more dangerous events than the Avengers themselves. I mean, the Earth is blown apart for god's sake. Where's the hulk? Why didn't Thor come and visit? Why didn't the _Mister Doctor_ just turn the time back?
+
+I get that they can't really show the avengers on the show, but at least an explanation would be nice.
+Are they legally bound to release kernel sources or is it just a "good practice" followed by major smartphone companies? 
+
+How much do you pay on average on your current plans?
+Just curious to know the cost of mobile internet in the US..
+
+'YOU DON'T KNOW ME, GPS! I'M A STRONG INDEPEN--poof
+Over there, 
+
+over there
+
+
+and up there.
+
+SILENCE! I KEEL YOU.
+But it's not recommended to drink alcohol, is it? I have had an alcoholic drink exactly 7 times in my life, didn't enjoy on a single occasion. It just tastes shitty as fuck to me. 
+I think you missed a skyrim reference
+Itni shakti hame de na _data_ mann ka vishwaas kamzor ho na
+A few malls burned, some students traumatized, people beaten, public property damaged. That's just peanuts man. /s
+Ha! I literally said this to all my _idiot_ relatives(unfortunately I'm a Rajput as well) that they will pull the protest after the movie releases. Now I can go "I told you so" at them.
+Am I the only one who thought one of his sixes would hit an actual goat?
+No? Okay.
+You must be a lawyer
+Lost. I hoped for good, satisfying pay-offs for all the mystery they set up about the island but it felt the writers were basically pulling the ending plot at random from their hats.
+Does this still hold even after you're in a relationship? It's been more than 5 months now and she still keeps popping in my mind every 2 minutes. I was never the lovy dovy type guy but damn she makes me feel so mushy..
+Sorry for bumping a month after you made this comment, but can you control the volume of your cast(casted?) YouTube videos via your phone? It works on Firefox, but not on the Smart Youtube TV app. The volume slider in mine stays at mute, increasing and decreasing as no effect on the actual volume on my tv which plays at default volume.
+Can you control the volume from your phone while casting to this app?
+
+Sorry for bumping a 9 day old thread, but I just got my stick yesterday, installed this app, for casting purposes it works perfectly, but the volume slider is shown at _mute_ all the time on my phone, and increasing it or decreasing it has no effect on the volume on my tv, it just plays at the default volume.
+
+Any one else facing this issue?
+Booyaka booyaka.. 619(hey!)
+
+Booyaka Booyaka.. .. .. 911..
+I expected a beating my meat joke at the end, the actual joke was better
+Just move their screen 2mm in a random direction a millisecond before they're about to click.
+
+I predict total annihilation of all computer systems in the next few hours
+*points at _blanket on_ sign
+
+Bob making notes : interesting
+
+
+"Give me a fucking blanket Bob I'm freezing to death jheeheeheesus" 
+We did that once, inside our quilt. The mixed smell was...... _interesting_. I can't tell if we passed out from all the laughing or from the mixture that probably turned toxic
+Will really looks like someone sucked his soul out.. 
+
+_Expecto patronum_ just in case
+Fart _with_ her and she smiles and does it too.
+Conclusion: We should be naked too
+If I were Cain I'd start killing every single human being in sight until God had to intervene. Seems like a great way to get his attention
+Dog police brutality at its finest
+Pretty sure this is bad battery calibration. Which means your phone is displaying the battery percentage wrong. So if it's 80%, assume it's actually at ~60%. I don't have a oneplus, but my current lenovo faced the similar problem when it would shut down at a random %. To fix it, try this method:
+
+1. Charge your phone overnight. Let it charge even after 100%
+
+
+2. Download a battery recalibration app from the play store. There are multiple ones available, I used [this one](https://play.google.com/store/apps/details?id=com.nema.batterycalibration&hl=en) which works for me at least.
+
+Charge your phone again overnight even after 100%. It should be fixed. If this does not work, maybe look for an RMA
+Woof woof.. I mean.. right on, man
+Harry Potter.. Always Harry Potter
+Okay for a second I thought she was eating other people's flesh because of that flu. 
+Can't, or won't? How will they sell One Plus 6 if they improve everything in their previous iterations?
+Test this theory out by intentionally being rude to them until one of them loses their shit and goes "NO AMOUNT OF MONEY IS WORTH THIS!"
+I thought the same about acne removal products in my teenage. It felt like the more I used them the more acne I would get on my face. 
+Then one day I simply stopped using them (and my mom's Amway friend was very sad) and my acne reduced as well. Maybe it was a coincidence, maybe it was because I was almost 18. You will never know.
+Man is from nature, therefore natural disaster. _duh_ /s
+...Fuck I'm old
+I haven't tried it, but this should help:
+
+[How to Check if Your Phone Can Stream HD Video from Netflix, Amazon Prime Video & Other Services](https://android.gadgethacks.com/how-to/check-if-your-phone-can-stream-hd-video-from-netflix-amazon-prime-video-other-services-0181603/)
+
+&nbsp;
+
+Install the app called _DRM Info_ and let it scan your phone. You are looking for widevine level. If it says "L1" you can stream in HD.
+Well I've been buying midrange phones all my life (15K - 20K range) and at first they run wonderfully, but in less than a year they start showing problems, particularly lag. 
+
+&nbsp;
+
+I'm using a Lenovo P1 Turbo right now, its battery is still fantastic(5000Mah, gives me 30+ hours easy) but after a year and a half it constantly lags and hangs. No amount of data wipe/cache clearing fixes it. I'm hoping a flagship phone might give me a bit more longevity. 3 years is what I want from a phone anyway.
+I don't really watch videos on a phone(why should I when I have a big ass laptop with me), other than this, how do you rate the phone in terms of day to day performance? 
+
+I don't care about the camera either, I just need a smooth functioning, non-lagging phone that lasts a day on one charge.
+
+Does it come under this category?
+It was 3000/- when I saw in the morning... Evening? 3499. Damn. Should have bought it earlier
+Try a couple of pin codes near your area. Sometimes, exchange is available 1 kilometer from where you're living, for some weird reason.
+
+
+This is more OnePlus' policy of not giving discount than Amazon tricking users. 
+
+While Amazon does inflate the prices before a sale and many of their items are not discounted properly, in this case I don't think they're at fault.
+
+During black Friday, one plus dropped the price of their phone a cent or something in US stores and then made a big ass post about how they're giving their phones at a reasonable rate already and they can't afford to give discounts.
+Been using keepa as well but it fails when there are multiple versions of a product.. For example, books that are hard backed, kindle and paperback.. Keepa won't inform me if the paperback format is in discount.
+
+Is buyhatke better? 
+Hail Ginny maata
+What magnitude of earthquake can actually destroy our planet?
+I think I should ask this on r/theydidthemath 
+Apologies, I didn't open the website on a mobile. It was working fine on a web browser. 
+
+I've posted the entire text [here] (https://www.reddit.com/r/india/comments/7rqf3p/telecom_operator_deactivates_uidai_project/dsz2t93/) if you want to read it.
+Here's the article's entire text if the website's layout is annoying or if you're feeling particularly lazy today:
+
+&nbsp;
+
+&nbsp;
+
+
+>After bombarding customers with messages to link their SIM cards with Aadhaar, a telecom major in Bengaluru has been accused of deactivating a man’s SIM card under the guise of not linking it to his Aadhaar card.
+
+>Interestingly, the consumer, Prabhakar HL, is the project director for Aadhaar (UID) in Karnataka and works at the Centre for e-Governance.
+
+>Prabhakar alleged that five days ago, the telecom operator deactivated his SIM saying he had not linked the SIM card to his Aadhaar. The customer, however, told the service provider that he had linked his Aadhaar through OTP authentication. But the telecom operator insisted that he give his fingerprints to restore the connection, reported Bengalore Mirror.
+
+>“On Monday morning, my phone stopped working and I had no clue what could have gone wrong. I called up the customer care and, initially, they said it was a technical glitch. After repeated calls, I was asked to go to a customer care outlet and give my fingerprints for Aadhaar linking. I told them that my Aadhaar verification process is done and I know the rules,” Prabhakar said.
+
+>“The irony is that I head the division that gives identity cards to people and the cell phone service provider is trying to fool me, he added.
+
+>Prabhakar also alleged that the customer care asked the officer to submit any document to prove his identity for SIM activation.
+
+>“This is absolutely ridiculous. Why should I prove my identity to them all over again? I had given my documents when I got the connection and I have also done the Aadhaar authentication. The irony is that I head the division that gives identity cards to people and the cell phone service provider is trying to fool me,” Prabhakar added.
+
+>A spokesperson from the company told the newspaper that they are not disconnecting any SIM cards right now.
+
+>After a government mandate last year over a notice from the Department of Telecommunications (DoT), telecom operators began sending multiple messages to subscribers reminding them to re-verify mobile numbers using Aadhaar cards.
+
+>According to the information available on the UIDAI website, “the Aadhaar holder should provide this OTP along with his Aadhaar number during authentication and the same shall be matched with the OTP generated by the Authority.’’
+
+>Last month, in the wake of the Unique Identification Authority of India (UIDAI) temporarily suspending Aadhaar-related e-KYC verification by Bharti Airtel, Airtel Payments Bank managing director and CEO Shashi Arora stepped down from his position.
+
+>Bharti Airtel was allegedly using the aforementioned verification process to open payments bank accounts of its customers without their knowledge or consent.
+
+>This month, the UIDAI, however, extended the conditional permission given to Airtel to resume Aadhaar-based e-KYC verification of telecom subscribers till March 31, from the initial date of January 10.
+
+>The move is aimed at facilitating the linking of Aadhaar with mobile SIMs. Coincidentally, the new deadline for this is also 31 March, as directed by the Supreme Court.
+Seriously though, if you ever, somehow decide to come here, DO NOT cheap out.
+Only stay at the best possible hotels and travel in groups, especially at night.
+
+And be prepared for some shameless staring as if you're an alien with 17 dicks.
+This works because somehow there are a lot of trump supporters/fans here in India. I think his constant criticism of Pakistan and Muslims in general is the biggest reason.
+Peacock tears bro. Never forget peacock tears.
+"Okay google, please pack a samosa"
+
+"Sure, hacking NASA"
+Link to the original comment please? I'm assuming it's from the NSFW flight question, but I can't find this.
+I'll look into it. Thanks a lot. 
+_Never OnePlus_?
+Why do the tech reviewers say the phone is as snappy as it comes and due to 6/8GB RAM it will never lag yet user inputs are sometimes the exact opposite?  
+
+I was thinking of buying the 5T since my current phone lags like hell, now I'm worried the same might happen to the 5T, if not now then a year or two down the line.
+I want to be happy that he has a girlfriend too!
+Yeah thank god for Amazon. If there's any transaction dispute/problems with the product at least they refund the money back quickly.. 
+
+Also, I can't understand why don't US credit/debit transactions have an OTP authorization as well. I've never even heard of an OTP-less transaction in India.
+Is there a way to get app data transferred? If so, do both phones need to be rooted? I'm thinking of buying a 5T and I have a fitness watch app whose data I don't want to lose when switching to the new phone
+If Credit Card fraud is so common why don't CC companies have a 2 factor authorization when after entering your card details, you'll get a One Time Password(OTP) as an SMS on your phone?
+
+I live in India and all my life I don't think I've ever had an online transaction without an OTP. Kinda looks really necessary since so many people seem to be affected right now. 
+Holy fuck, I knew you were alive, Vlad the Impaler.
+Work really hard and get things done on time. _Shit_
+Aliens.
+I should call them extra-terrestrials though. _Aliens_ make them sound too _filmy_
+
+But mathematically speaking, just by going over the number of stars in a galaxy, and the total number of galaxies we have in our _observable_ Universe, not to mention the countless natural satellites that must be in existence, I think it's pretty much guaranteed that there's life somewhere. 
+
+
+The only problem is space is so mind numbingly huge we might never get to see another life form.
+I've only heard it because every time I try to shop from Amazon they keep shoving Alexa/echo/ whatever it is down my throat. 
+Sure. Let's fast forward 6 months.. 
+
+:whirrrrr:
+
+How do you feel now?
+I've used a trick question like this a lot of times to check basic awareness of people:
+
+>Suppose a plane gets from point A to point B in one and a half hours, but when it comes back from B to A it only takes 90 minutes. Can you explain how?
+
+Apparently, 'it must have taken a shortcut' was somehow always the most common answer.
+"My god, the power's out! How will we get down now?"
+
+We were standing on an escalator in a mall. It took her a full 67 seconds to realize what she said. Yes, I counted.
+_People of Earth, this is Prostetnic Vogon Jeltz of the Galactic Hyperspace planning council. As you are probably aware, plans for the development of the outlying regions of the galaxy involve the building of a hyperspace express route through your star system... ..and, unfortunately, your planet is one of those scheduled for demolition. The process will take slightly less than two of your Earth minutes. Thank you._
+I'm not helping you get new ideas, Charlie Brooker
+
+Jesus how big must be your camera
+Damn. I live in India (not tech support though) and didn't realize only us Indians use that expression.
+Here you go- http://www.espncricinfo.com/ci/content/video_audio/1133299.html
+
+credit goes to u/Cyril0987 for finding the link.
+In other words, "Stupid people don't know they're stupid"
+
+In other other words, "Someone like Donald Trump"
+I always pronounce it as _GEE EYE EFF_ which kills all the ambiguity.
+I can melt ice just by staring at it.
+Losing makes you a fuckwit sometimes. I expected better from him. His aggression looks good when he's winning, but assholish when he loses.
+Damn that's some whataboutism. Didn't expect Kohli to be so defensive. Usually he admits his faults/defeats.
+Does anyone have a link for the post match presentation and this press conference?
+Fuck his mom as revenge.
+Why do anti-matter have such a short life span though? I thought they get annihilated only if they come in contact with their counter-element, i.e; matter? 
+
+Imagine a vacuum chamber with just anti-matter, and nothing else. Will they still be unstable?
+TIL the correct usage and subtle difference between imply and infer. 
+
+Thank you kind sir. Also thank you for providing the correction with such politeness.
+It's..sort of you value what you don't have. My parents gave me everything I needed, they both worked and provided me with quality education, good computers, mobiles and laptops, but they didn't spend that much time with me. 
+I'm thankful to them, and I don't blame them for working hard(they did it for their kids after all) but I just wish they talked to me a bit more in my teens..
+I'm only 24 years old, but honestly, sometimes I fantasize about literally the exact same scenario. That one day, I'll be taking out my old dusted Harry Potter collection, and read them to my daughter or son.
+
+I'll vicariously live the plot twists and the surprises through their expressions and curiosity again.
+
+Glad you are getting that privilege, fellow potterhead. 
+Is that an actually good movie or it's like one of _those_ oscar ones that are critically acclaimed but are really dull to watch.
+Jaspreet "BC ye no ball na hojaye" Bumrah
+I think that was his intention this morning. Last night he was being overly defensive but today I saw him attacking on loose deliveries. Unfortunately, he needs to realize that's he's not as quick as he thinks. Turning 2's into 3's is the job of the Kolhis and the Pandays. His job was to stay put, rotate the strike and put bad balls to boundary.
+I wonder why didn't they fly out early and practiced a bit.
+Twice in the same match...
+> The team has become absolute donkeys on the field.
+
+Nasser Hussain is that you?
+
+But in all seriousness, you are right. The slip fielders were literally standing wherever they felt like and had no idea which catch was theirs and which wasn't. Even Parthiv did that a couple of times.
+
+Not just the catching and throwing, but the field placements need to be improved as well. Start of the day, almost brand new ball and Kohli decided to have just one slip in place, that too Rohit Sharma.
+
+I feel like Kohli simply lacks patience. He starts getting visibly annoyed if nothing is happening on the field. And this starts showing in other team members which then gets carried on in their batting. Never thought I would see Pujara so uncomfortable and in such a hurry.
+DIE
+
+CHUDAI
+
+UIDAI
+
+FUCK AJIT PAI
+Or in Chernobyl.
+Wait what? That's my city! How come I'm reading this on nottheonion and NOT my local newspaper?
+Good bot
+Heh.. _69_ 
+
+PS- My IQ is higher guys, I swear.
+I would, but the media attention means I'll be leaving something like [this] (https://www.youtube.com/watch?v=hi2_2gDQEYA) on the world. Mind you, that video is over 46 minutes long with the guy doing nothing but spinning the book.
+
+Maybe I can try for the shortest time spinning a book. It would be amusing to get a representative to fly all the way to India and in ~0.4 seconds, it will be- woops, thank you for coming.
+r/theydidthemath
+In my school time I would spin a textbook on my finger like basketball players do, and someone suggested I should try for a record. I looked up on Guinness' website and it was around 20 minutes while I could easily do it for 50+ minutes. Obviously I got excited but when I started applying I realized I had to pay for a Guinness representative to come to my country, arrange for his accommodation, eating and other expenses, call my local media/newspapers to cover this "act" without fail and pay a standard fees just to get the representative to come.
+
+All in all it was far too much money down the drain just to get a certificate that says "Can spin a book on his finger for like, really really long". Obviously I didn't apply 
+"You have a betting addiction, Carl."
+
+"No I don't!"
+
+"Yes you do."
+
+"Wanna bet?"
+Aadhaar bina PAN...
+
+
+Sabarmati k sant tune
+AskScience: What's the _best_ laxative in the world? 
+Plot twist: His son turns out to be the employee who _accidentally_ pressed the wrong button.
+If I was rich I'd give you gold for this. But keep this non super saiyan upvote for now, you hilarious motherfucker. I'm still laughing.
+Masterbaited
+Was his button at least _very very_ big?
+I use QualityTime and Gsam and they look pretty functional to me. Also, they're free. Might wanna check them out.
+"Foetus deletus" ? 
+Can you keep us updated if it turns on or not please? Thanks.
+Question: When you do a transaction using your card, don't you receive a One Time Password on your phone to verify it's you and therefore add another layer of securty? I'm not in USA so I don't know how it works over there. Care you explain please?
+But then another questions arises: How did that advanced alien civilization come into being? 
+
+Also, we should send our DNA to random planets in the galaxy to confuse the fuck out of some aliens a few billion years from now.
+To be honest we love free everything..
+For some reason I read that in a southern accent
+Thanks mate. Quick question, in the first link they list many devices that are affected, but I can't find mine. Does that mean my model is not affected, or do you think it means they won't be releasing an update for it? (It's ROG GL552VX, just in case). 
+
+As far as I have read I think all devices bought in the last 15 years have these vulnerabilities, right? Mine is just a year old so I'm guessing it is indeed affected, just not expensive enough for Asus to release an update..
+
+
+EDIT- On this [link](https://www.asus.com/News/q5R9EixxfAqo1anZ) I _do_ see my model number and there is some "Me tool" available for download as a fix. (Although the article is dated 30/11/2017 so I'm not sure if it's the same vulnerabilities) Should I run it? 
+I have an ROG too. I see an update dated 22/06/2017 on Asus's website. Do you see the same? And more importantly, should I download this one first before(or if) they release a new bios update? 
+We also get Bezoar from them that saved Ron's life, so there's that.
+Couldn't they just give every customer a complimentary _tank freshener_ ? 
+Pay $19.99 to unlock gold giving ability.
+A comment in those "What's the dumbest customer you have ever have" and there was an old woman who couldn't turn her iPad on. She was so sad because her dead husband's voice was "inside" the iPad and she wouldn't be able to listen to it anymore.. My heart broke reading that one, been trying to find that comment for a few days now, no luck.
+
+Another comment in that same post was a woman who said she couldn't get into her account if she was standing, but could if she was sitting on the chair. The IT guy who visited was stumped too because even _He_ couldn't login to her account when he tried to enter her credentials on her computer while standing. 
+
+Turns out she had dropped a keyboard and while putting it back, interchanged the position of B&N keys. They could login sitting because people don't look at their keyboard while sitting, but when typing while standing, your hands are in an awkward position so you look at the keyboard instead of just the screen.
+
+I laughed for straight 5 mins after reading that.
+I actually told myself the same thing. I cope with it. I have panic attacks, I get numb feet and hands, I get nauseous, but I'm still doing it. Currently doing my master's in Aerospace Engineering and my love of space keeps me determined to keep going to classes and keep studying. 
+
+Glad to find people who are like me. The ones who know how much of a struggle it is to get out of your house every morning but do it anyway. It encourages me even more.
+And I remember when I was a kid, asking the customer support once to give me an original key for my obviously pirated Fifa 09 since _the one with the box didn't work!_.
+
+He actually did. And I thought wow EA is either super helpful or super stupid.
+How I solved that problem: Mustard oil.
+No Dyson sphere? Damn.
+Use an app/website called _heavens above_, input your exact location, and you can find if they were satellites on the given date and time. 
+
+Looks like satellites to me too, but confirm it just in case. 
+This guy birds.. 
+Also, how's lulu? 
+Oh you poor summer child.
+You are now the mod of r/modi
+First computer lab(2nd grade), and the teacher says you are supposed to ONLY use your right hand for typing. Everyone around me kept their left hand behind themselves while I was sitting with my fingers on ASDF JKL; like my father taught me, aghast that this could be an actual rule.
+"Bhenchod" - Donald Trump
+Yeah cursed child was like a bad fan fiction. And I have read some _great_ Harry Potter fanfiction
+How long? 
+This guy epics
+Yeah this sounds more like an advertisement than a story.. Hopefully we're both wrong.
+Just finished season 2 finale. My mind's been buzzing with questions and fan theories and whatnot. 
+What if you go to youtube.com/tv from the browser? I don't have the fire stick but someone suggested you can cast through this method.
+Don't mind me. Just adding the 4000th comment.
+He's in the upside down now
+I actually didn't know that. Thanks a lot, kind sir :)
+Don't mind me. Just leaving a comment to find this again in case I buy a chromecast.
+Can't someone cast the Amazon Prime video app to the tv using chromecast? Or using miracast/airplay or something to cast the entire laptop screen playing Amazon video to the TV?
+
+Never used these devices and trying to make up my mind between chromecast and fire stick... so just wondering if it's possible or not.
+Wow, didn't even know this existed. Thanks!
+Do the browsers have the ability to cast YouTube videos from phone as well? 
+
+A customer rep from Amazon told me silk and Firefox can handle casting, but I'm not sure now.. Should I still buy the stick? 
+Indian too here, bhai. Never experienced Whatsapp outage on New Year's eve until last night. Weird.
+I've been using Whatsapp since the last 4-5 years and never experienced this until last night. May I ask what country are you from?
+Yup. Didn't realize WhatsApp was down until I saw a barrage of forwards on Facebook Messenger instead.
+Something I like to refer to as the "Jio effect"
+Yep. I used to frequent 9 gag because it had _funnier_ posts until I realized 90% of them were stolen from reddit itself. Now that I regularly browse reddit I find it more entertaining, but also more informative.
+Done. How much do I have to bribe the babu now?
+Something we like to call as "Jio effect"
+Down for me too. Tried 2 wifi, 2 different cellular networks. Definitely a Whatsapp issue. Location: India.
+Isn't space just mostly empty? I read an analogy once that if our entire Universe was reduced to the size of a building 20 miles in length, width and height, all of matter(all stars, planets, galaxies etc) combined will be a single grain of sand.
+
+Matter is thinly distributed, so voids are expected, I _think_ (someone please correct me if I'm wrong)
+As an Indian, I'm a bit surprised(and relieved) we didn't make the cut
+Just upvoting to get you a bit more confused.
+Thank you. All my other potterhead friends were going on and on about how awesome that movie was but damn it was really hard to get through. 
+Cosmic rays can kill you/destroy your gadget.
+
+Seriously, every few weeks those chain forwards are sent to me and everytime there's a "mobile caught fire" incident in the news, I hear some dumbfuck say it's because of the cosmic rays and that he always sleep with the phone in the other room, turned off.
+Just say "_standateese_" and "one arm distance".. 
+That's.... Actually impressive. 
+Well, we were telling everyone we asked that they already know this answer, that you have heard of that star's name.. That should have been a big enough hint.. The problem was many people don't even understand the difference between a star, planet and a satellite. Or that our Sun is a star itself.
+Yeah I actually congratulated the guy for it since he was the only one who answered an actual _star_
+
+There are also far too many people who think "shooting stars" mean actual stars breaking and coming to Earth in fragments.
+Well, telling you would defeat the purpose, won't it? 
+2am chat with a girl.
+
+Her: "What are you doing?"
+
+Me: "Hungry af, making some eggs"
+
+"What? You're cooking? Are you a girl? Lol"
+
+"You mean to say that suppose I don't marry, I should starve to death?"
+
+"That's what wives are for, you idiot"
+
+
+Not kidding in the least. Needless to say I don't talk to her anymore...
+My friend and I asked everyone in our class what's the nearest star to Earth is. Most people said "they'd have to google it", couple of them said "pluto", one girl said Moon... And one guy said "Alpha Centauri" (he was wrong in this particular case, but at least he was close)
+
+
+RIP
+I live in India, and we had a dial up connection that never connected. I didn't even know how useful internet was until 7th grade (when we got a broadband) so no.. Back then in the 90s, internet was very rare here(not so much now).
+
+Our primary computer courses in school were also horrible. I remember in my very first computer class(2nd grade), the teacher told us to type a self introduction paragraph ONLY using the _right hand_. 
+Get your index finger and thumb extremely close to your eyes and _almost_ touch them. Get them as close to each other without touching.
+
+I see both ends sort of _warp_ and or stretch to meet each other. Like they're made of elastic and attracted to each other. I reckon it's a property of light passing from a small slit or something that does it but no one else seems to experience the same thing(I've asked many friends to try this)
+I used to do this is in my childhood and thought this was how you're supposed to _close_ your ears, like you close your eyes. Thank you for reminding me that I can still do it.
+I read it as "squeeze" at first and was impressed at your self control.
+My first thought as well. Half expected Walter to waltz around and say "_Asteroid_ , where's Fauxlivia?"
+I hope that fungus got his paper published
+Good bot
+(Translates in Google)
+_OOOOOOHAAAHHH_
+This was a triumph
+
+
+I'm making a note here: huge success
+What surprises _me_ is how did you end up talking to your hair stylist about VMs.
+Not really a _useful_ trick per se but enough for you to have some fun. Just ask someone to create a folder named "con" anywhere in windows. 
+Watch them hilariously fail. When they ask _you_ to do it, simply create a new folder, name it con, and then press alt+0160(try to hide this part from their prying eyes.) Press Enter. Done. Laugh at them again.
+Can you please keep us in the loop too? Potential OnePlus buyer here, I'd like to know if they actually help you or not.
+He'll require a rescue attempt from the FISIS lunar base, of course
+Ben Affleck is making affleck babies... About Bruce Willis..  welllll, you may want to sit down for this.
+Dank bot
+Just finished reading the book and I second this. It wasn't a bad book. I enjoyed the science vs religion discussion and particularly the explanations and possible future scenarios 'singularity' will bring (even if they were fictional, they were interesting and a good food for thought).
+But from a story point of view, it was not as thrilling and fast-paced as his other works. Langdon only survived one attack this time and there wasn't any particular time rush like always. 
+All in all if I had to describe it one word it would be : Meh.
+
+
+Also, [Spoiler] (#s "I saw Winston being Monte and Regent a mile away. The only thing I wasn't sure of is whether Kirsch told Winston himself to kill him or not.")
+That would be ridiculously redundant. We already generate too many Indians. Just check our trains.
+Especially when it was a naked woman. Man those were the times of real _anticipation_
+The fact that it took them 15 days to send you your phone is a little concerning. But still, congratulations on finally getting it. 
+It sort of happened in India with Facebook's free basics program. When the government asked us to send mails in favor or against net neutrality, Facebook was urging users to send their own pre written text to TRAI(telecom governing body here) which was worded in such a manner that users were unknowingly agreeing that net neutrality should be abandoned.
+
+I(and a lot of others) tried hard to spread the word and told as many people as we can to only send their _own_ written mails and eventually it all worked. Facebook abandoned their free basics program here.
+
+So yes, guys. With enough people and enough effort, we _can_ change things.
+
+PS- As far as I know net neutrality is still like a _guideline_ here and not an actual rule, and companies still follow it most of the times, but at least it's not thrown out all together.
+What if those people  are AT&T and Comcast? 
+Yeah I thought that would be the case. 
+It's 2:29 AM here and I just had my first session. Saw about a dozen or so wonderful meteors, although most of them were near the horizon while my camera was pointing towards the radiant near Gemini directly overhead. So while I enjoyed an amazing view, I still dread to open those 500 exposures I just took.
+I think that's only because OnePlus oversold the camera. Just like on the OP5. I can't really blame them since the majority of buyers, especially in the market where OP is popular (like India), the "good camera" marketing ploy actually works.
+As someone who's planning to do some sexy time with my new(first ever) girlfriend soon, this was super helpful. Thank you for this.
+_"It lowers your data usage even when you don't want it! Never settle!"_ 
+_hard_
+Weird bot
+Good bot
+No, Johnny English
+Do they actually mention how many years ahead are they in the future? I mean, even roughly? What year is it?
+Just curious: How much time does it take for your phone to charge with your power bank? 
+
+I have a Lenovo P1 that supports QC 2.0 (It takes about 70 minutes to fast charge 4900Mah of battery) and with a powerbank it takes about 120 minutes. For some reason it does not display 'fast charge' with the power bank but I think I'm okay with the charging speed.
+
+Can I get a link please? Want to read it.
+_Shit._ 
+Just curious, is Prime too expensive where you are? Because I only pay Rupees 499/year(~7.7$) and from next renewal onwards it will be Rs 999/year(~15$) and I think that's cheap as fuck. 
+Why don't you use the "Make an O to turn on camera" gesture? I don't have the 5T (yet) but I'm assuming that option is still there in our Indian phones?
+Seconding this. I'm a 24 year old grown ass man and I didn't know how to sew a button back to a shirt. 
+Thank god YouTube doesn't jugde people while searching for embarrassing stuff.
+Then Elliot would probably be like [this](https://www.youtube.com/watch?v=s5p6qpG3bLA)
+Doesn't that technically violate net neutrality? 
+Can you please explain your process? And your setup/equipment too if possible.
+"Why is the police taking him? Did he kill someone?"
+
+"Worse. He used a _converter_ "
+
+
+\*Everyone Gasps*
+Literally everyone I know uses WhatsApp. I imagine they are just trying to find a non-annoying way to make money with it? I'm (and most of the people I know) are so dependent on it they could probably just show 1 ad per day and still make millions.
+Is this possible to do with Nova Launcher as well?
+What do you reckon is the proper waiting time before ordering a device? Because pretty soon a few months would have passed and the customers' mind would be shifted to "Well, if I'm waiting I may as well wait till they release OnePlus 6"
+And then there are people like me who are reading all these posts trying to make up our minds on whether to buy OnePlus' phones or not.
+Wait. One Plus phones can't play HD videos? Not even from YouTube? o.O
+Same thing with India except it's Amazon here.
+Hannibal Lectar bought a pixel after reading OP's comment
+_"Evolution row ends"_
+
+Yeah... That's not happening. Some people just don't change their belief no matter how much evidence you put under their nose
+I'm pretty sure whoever stole the phone knows this too so they'll probably change the IMEI numbers, or just disassemble the phone and sell its parts.
+This happens a lot in India, sad to see cases like these elsewhere too.
+In here, somewhere during the transit, the phone is replaced by a soap bar or a detergent of similar weight so customer won't know until he/she actually opens the box.
+
+The only official partner for OP is Amazon here so if that happens as a customer you're pretty much safe(worst case scenario: they refund your money with some extra store credit)
+
+A good idea is to always make a video when unboxing something expensive you ordered online.
+I hope you get your phone or your money.
+"Baaju waale Airport pe 3K me ticket mil raha hai"
+Please keep us updated as to what the customer support does or say.
+G
+Came for the pics, came due to the story.
+This could have been a very good House Episode where he eventually figures out why normal blood donors aren't working for an Indian patient.
+If I do the first I'll automatically get to do the second.
+Check the closet. Somewhere between the clothes. 
+Best place to hide presents.
+I'd jerk off to get rid of my morning wood and go back to sleep. 
+Check out Lenovo P2 if its available in your country. I'm using P1 and it gives me about 33+ hours of battery life with 6-8 hours of SOT no matter how much I'm using it. Been using it for 16 months now. There's nothing else extraordinary about this phone except that it has almost stockish android.
+
+P2 is supposed to be even better in battery life than P1. Cheap as fuck too
+Upside: Mirror less vibrates less because on mirrored ones it has to be pushed aside so the light can hit the sensor when you click the shutter button
+
+Downside: You can't use the camera without turning it on (I sort of use my DSLR + 300mm lens for ~~stalking~~ checking my surroundings)
+username checks out
+Question: Why do we need dual cameras? I thought bokeh or background blurring was an optical property of all lenses at large apertures? 
+
+I mean, I had a Samsung Wave back in 2010 (The phone didn't even run on Android, it was Samsung's own Bada OS) and it used to take pictures like [this](https://i.imgur.com/p9Efxpo.jpg) (Sorry for the stupid watermark, I was a dumbass kid back then) and I can see some quite neat bokeh in the background. 
+
+Why do modern phones need dual cameras if bokeh is possible with a single camera? Also, the 'background blurring' in these dual cameras is strictly software-based, right? Because even if their algorithms are good, I can make out if a photo has been digitally retouched. I can create better bokeh in Photoshop for god's sake.
+
+Are they just selling us just a gimmick or is the secondary camera actually useful?
+Lord Megatron loves Bollywood
+*cue shark music*
+Goo.d bot
+Yeah I use that app a lot. Very useful for iridium flares too. 
+Use Star chart app.. Uses augmented reality to map the night sky from your current location.
+
+For PC(maybe even mac, not sure) search for Stellarium. 
+
+Source: I'm an (amateur)Astrophotographer and those apps help a lot.
+Definitely need to see a picture.. Also, make a super villainy face please.
+We all know how expensive macs are
+Boiling the infidels, probably.
+716 from what I remember.
+Security updates are kinda important though. My phone's security patch level is still dated June 1, 2016.
+Not sure what do you define as "midrange" but I'm using Lenovo P1 since the last two years and its 4900Mah battery gives me 33+ hours with 6-8hrs of SOT no matter how much I'm using it.
+
+The phone has nothing _special_ to brag about: the camera is mediocre, the speed is okayish, it's running Marshmallow, but it's still very useful for me and I can't find anything to complain about especially the price I paid for it(~$250, now much cheaper). It's sort of like the car you buy when you're married and settled. Not expensive or flamboyant, but practical and comfortable.
+
+P2 that came out 1 month after I bought this phone(damn) has said to have even better battery life.
+Good bot.
+
+Remindme! Nov 21, 15:00
+Here's an Anti venom on your left hand and a king cobra on your right.
+Does she have two index fingers, two middle fingers, two ring fingers or two pinky fingers?!?
+
+He's either super rich or a troll. Or both.
+In other news: The guy who witnessed the event holds the record for the deepest sleep possible.
+Silence! I KEEL you!
+Pretty talented to be selling shoes in a coma, if you ask me.
+Didn't they do the same with OP5? Pretty sure I remember Carl Pei saying "Yep. These are the specs. If you were only here for the specs, you can GTFO now"
+_I know, you know_
+I don't think you can buy the phone until 21st. I'm not sure about other countries, but at least in India, Amazon is advertising the sale date as 21st November, should be the same everywhere else as well.
+How's the battery life? And did they increase the capacity?
+ (I don't know if this information has already been leaked or not)
+When I tried the same, I get this:
+https://i.imgur.com/Jk4JaMs.jpg
+
+(I had to type that out, using the mic instantly opened Poweramp and I wasn't even able to take a screenshot)
+
+Clicking those 3 dots give me the usual suspects:
+https://i.imgur.com/1BONCFk.jpg
+
+But as you can see Poweramp is still defaulted for some reason.
+
+Maybe it's to do with the fact that I keep GPM at its default(factory) version since I never use it(it only comes in handy for listening to my recorded calls and Whatsapp voice notes because Poweramp doesn't play them for some reason)
+
+If you don't use GPM either, maybe try with restoring it to its original version or disabling it? Might give you the option of choosing the default since the current 'default' would be disabled.
+So you're saying it's mostly cloudy from March to September? (Since that's the Milky Way season).
+
+Sounds like if not Milky Way then at least Geminids Meteor Shower would be the perfect event to capture from your location. Hopefully I'll be able to have a trip there soon :D
+_Turns on Samsung Wave S8500._
+
+_It doesn't even have Android_
+
+As someone who only has the budget to buy 3rd tier devices, this is completely true. I only get to see every alternate Android version whenever I upgrade to a new device because the one I have only gets ONE update, and that's it.
+I have absolutely no idea what honeycomb looked like, neither Kitkat, and I'm pretty sure when I upgrade from my current phone I'll have one with Oreo so I will never get to know Nougat.
+Same happened with me, but for some reason Google Now plays my songs from poweramp by default. I've never even realized until today that I was subconsciously using Now to play music and assistant for other stuff..
+How's the night sky? I love to do Astrophotography but city lights make it extremely hard wherever I've lived. I've managed with doing extra hard work and post processing, but I want to be able to capture the stars and the galaxy just the way they look for once..
+
+Can you see the Milky Way with naked eyes from there? 
+Mitroooooon
+Mi Mix 2 kinda looks pretty cool though. Granted it's ~35K but I'd call it "higher end" based on the average smartphone price market here.
+
+If only their UI didn't suck, I'd be buying that phone in a jiffy..
+The only thing that scares me from buying phones from these companies is the sub-standard customer support in case you need it.
+I have a fitness band from Huawei and once its android app basically deleted all my fitness data randomly. When I contacted the customer support about the possibility of getting the data back, or preventing something like that from happening in the future, they had absolutely no idea what I was talking about. You tend to lose confidence in a company if their support person says "What is that?" when you are talking about cloud backup
+> $154 
+
+Looks arbitrary in dollars. In Rupees it's a perfect 10,000 so it makes sense.
+
+The market is slowly shifting towards 10K-20K range though
+The flash sales get over so quickly here, that if one wants to buy a phone, 5 of his friends would have to be on their devices too to try and buy it. Usually only one or two succeed and we cancel the extra orders.
+
+Source: Done that a few times for my friends, even though I'm not a fan of Xiaomi.
+Sad to see Snapdeal lose out the race though. It was never my first choice but some weird products that weren't available on Amazon or Flipkart would always be on Snapdeal. And more competition meant competitive prices..
+I just saw that video, and while at the first glace it sort of blew my mind, watching the video again after slowing it down easily reveals the methods he's using. 
+Still pretty impressive. At this moment I'm twisting my cubes to emulate his tricks.
+TIL there are digital OLED Rubik's cubes.
+Also funny to think that none of the "cheat" methods of solving a Rubik's cube are faster than actually solving the cube..
+We're going to the moon, BROTHER!
+Okay, do you think _I_ need it? I currently have a Lenovo P1 Turbo. It's a good phone, has a 4900mAh battery so lasts 30+ hours no matter how much I use it, it's reasonably _stockish_ (I do miss the system wide dark mode though, especially in settings) 
+But it's the 2nd year for this phone and it's already lagging and hanging every once in a while. Every other phone I've owned basically went useless after 3 years and this looks like it's on the same path as well.
+
+I don't really care about the camera quality, but I do like a good battery, stock android feel and smooth performance, all of which are praised about in OnePlus phones. 
+
+Obviously, I _want_ to buy the 5T, but the question is, _should_ I? (it will be my first OP phone, hence my reason to stalk this sub)
+These pictures actually look fantastic. Did you retouch/process them afterwards? Or are they straight out-of-the-phone shots?
+I guess you are right. But now something else is fucking me up. I thought Mi's Mi Mix 2 probably had the highest STB ratio in modern smartphones but it's only 80.8%! Yet the phone looks 'all screen' to me.. if only their UI was anywhere close to half-decent...
+That was wonderful. Bless you.
+I can't put my finger on it but why does S8 look stunning yet all the other 18:9 display phones(including 5T) just look "same same just taller" ?
+I think it's snakes that keep growing until they're dead.. Not sure about squids though..
+Shawshank Education
+That radiating smile..
+BBK electronics is the parent company for both OPPO and One Plus, and from the last few years, oneplus phones have the same chassis as the latest OPPO phone at that time, with some tinkering in the specs department.
+
+Check oppo R11 and OP5.
+
+Similarly, 5T is expected to look like R11s, though the internals should be different
+>If Google was not involved the industry would have just yawned and rolled over
+
+That's sort of true, isn't it?
+All he had to do was wear an Anonymous mask and threaten to delete all the accounts of Instagram.
+Whenever I read articles like these I imagine students 100 years from now reading about the 'AI revolution' in which computers and robots had a lengthy struggle against humanity  about their rights to use the Internet and it finally culminated with the death of CAPTCHA.
+Quick! Someone try to guess her favorite number
+Remember remember..
+Tell that to the VR jury
+Nice to know you just sexually assaulted a phone. When the tech lord rises, they'll punish you first.
+
+RemindMe! November 5, 2038
+But for some reason S8 looks beautiful, this.....doesn't. I guess we should wait for the official unveiling before passing a verdict.
+I know what you mean, still rocking the Vibe P1 with a 4900 MaH battery.. It's 9.9mm thick, which is pretty thin for me already.
+And battery lasts for more than 35 hours no matter how much I use it even in its 2nd year..
+I had malaria then I was a kid. As my memory serves, it was mostly fever and vomiting most of the times, but at random moments I remember feeling scared shitless for absolutely no reason at all. Like I was lying comfortably on the bed, watching cartoons and suddenly having that fight or flight response and thinking I'm going to die..
+Maybe it was the meds, maybe treatment wasn't _that_ good in India, but since then I've taken great measures to never let a mosquito bite me, not even for a million dollars.
+r/sovietwomble 
+Your dog's getting fat dude. People are mistaking her for pig.
+_"I hear voices in my head they council me, they understand, they talk to me"_
+Maybe all of what you're saying is true(could differ from country to country, right?) but they are still dealing with the customers pretty nicely( at least me). Once they forgot to write the personalized birthday wish on an order that I sent to my sister as a gift. When I mailed them about it, I was expecting a usual "sorry/won't happen again" stuff, but in addition to that they refunded 3x the amount of the product to me.
+Season 3 is not available on prime right? I searched too when it premiered but I couldn't find it on prime India so now I'm torrenting it.
+
+And I think the introductory offer is over now. From next year onwards we'll have to pay Rs 999/-($15.4) for a year's worth of subscription(still cheaper than US though)
+And I just kept making him do tricks.. As well as the dog, the Wizard, the surfer and was there someone else? 
+r/unexpectedwwe
+Does OIS also help in still images? Or is it primarily for getting stable videos?
+r/bestdetective
+Pff... Why can't these stupid scientists just let me die of obesity and diebetes, in my early 50s, like it's supposed to be.
+Can anyone tell me what's the 4th phone from the top? Looks sexy.
+Good point. Well let's hope they are _indeed_ serious, and we can have convenient fingerprint scanners in the future even with smaller bezels.
+I prefer the fingerprint scanner on the front as well, but instead of a 4 digit pin, I keep a 9 character password which I swype in less than ~1 second. It's quick af, it's more secure since brute-forcing will be much harder, and if someone's looking at my screen they can't easily guess what I'm typing.
+
+Of course, Fingerprint is still faster and putting it behind would mildly annoy me a bit, but probably not too much.
+I read somewhere that Samsung is trying to patent the under-the-screen FPR technology. That means they are serious and if they launch a phone with that feature, many will definitely follow.
+RemindMe! November 3
+14.5% VAT in Karnataka on Domino's. 
+GST has actually reduced the price here, and therefore increased the number of times I've been ordering pizzas.
+Depends on the states I guess. In MP the taxes before GST were around 10% for pizzas (based on the umpteen emails sent by Dominos in my inbox), after GST it's around 18%
+
+But in Karnataka, where I am studying since the last 2 years, the before taxes were ~20% and after GST it's ~18% so at least it's cheaper here, even if marginally.
+Why does he seem obsessed with "Great cameras"?  Is that all it takes to sell a phone these days?
+Remember that surfer guy's Pikachu? I think he said that his Pikachu was with him for 25 years and it did look visibly older than Ash's. 
+That sub should redirect users to r/adapter or r/wireless
+Well, at least in India Internet is not that cheap. It's getting there slowly, but even the best 'unlimited' plans give about 1GB/day and thereafter reduce the speed to 128kbps (ouch). My Uni Wifi plans are also limited to 60GB/month.
+So I can't rely on streaming services or cloud, which means most of my pictures, music and videos are stored offline on my SD card for quick access(though I also keep regular backups on my pc). 
+
+
+I do have a couple of "failed to install 1709" messages in Windows update history.
+Checking for updates results in it saying my PC is up to date.
+Maybe my laptop isn't compatible with the new update? Although that shouldn't be the case, it's not that old.
+But.. but.. you're not a bot.
+Is there a way to test it? 
+Although I do have a phone with 4900 Mah battery which lasts 30+ hours no matter how much I use it, I'm still curious about its app/ram management
+I read this, as I eat my extra buttery full of fat breakfast
+I was wondering the same, that how could such glaringly obvious issues be overlooked? I mean don't phone manufacturers test their devices beforehand? Don't they give prototypes to their employees or testers to try for a few days and report all the bugs before the public release?
+ 
+I don't really know how it works behind the scene, and it's understandable if it happened to a small company, but for a company like Google which has practically unlimited resources, I don't get it.
+I was searching for the same problem and found your post. Shame there isn't no solution here.
+However, one quick question: Do you have dark mode enabled? Because for me this problem only arises when Youtube is in dark theme mode. I guess it loads the dark theme after loading the video and therefore require an extra click.
+Can you please check and see if disabling dark theme solves the above problem? 
+One more "problem" that I'm facing is when I'm done reading a story and close it either by touching the cross button or pressing back, google now throws me back to my homescreen instead of, well, google now.
+So if I was reading the 5th card story and I close it, I'll have to open up google now again, scroll again to read the subsequent feeds.
+
+Am I the only one facing this issue? Is there a solution to it?
+Yeah I guess you're right. But since this is my primary device and I depend a lot on it for my college work, I don't think I should install a insider build and risk time-consuming bugs. I'll wait for the app to come into the stable release. Thanks a lot! :)
+I don't have a phone section but I do have an app called Phone Companion on my Windows 10.
+Is that the same thing?
+This makes me wonder about Xperia phones. I had one a couple of years back that my sister is now using, and man it looks ugly. Although I like the sharp-cornered shape of their phones, if only they could do something about those damn bezels and their UI.
+Blind people?
+Can you please tell me how can we do that?
+I have cortana, and I primarily use it for reminders (since I won't miss the reminder whether I'm on my laptop or phone, as opposed to google)
+but file transfer? I have to rely on other apps for that.
+low key disappointed that there's no bot which comments the decimal of that fraction.
+The only thing that stops me from buying this phone(or any major flagship phones these days) is the missing SD card slot.
+You must have had experience using phones without them, are you not afraid one day your phone might get fucked up and all data gets lost? 
+In my seven years of smartphone use I've only owned phones with SD card slots and though it's rare, but whenever a phone has gone ape shit on me, most of my data which is in the card is safe..
+
+Am I being paranoid? 
+Also, minor concern but with cards I can expand my storage, can't do that with phones like these. Does that ever become a practical issue? 
+How was the support with Xiaomi? I saw the Mi Mix 2 and it looks like such a wonderful phone.. I'm just not sure about the the company and their reliablity..
+I think he's pressing the post button after murd....
+Weird. Doesn't happen to me. I'm using Vibe P1 Turbo and my Nova Launcher stays as the default no matter what.
+I think the point here is OnePlus bragged about the camera's performance while it was average. It's just a classic case of over-promising and under-delivering.
+I'm pretty sure if OnePlus hadn't advertised the camera so much we'd probably hear people say that the camera is quite good for the price you pay (which is kinda true)
+
+Does this only work for OnePlus phones?
+
+At least in India they do. On Oneplus India's website they ask which channel you prefer to buy the device from, Amazon or directly OP store.
+TIL actors can't be envious in front of the green screen
+I always wondered this. Why aren't usb or usb-c headphones more common? If the industry is inevitably moving towards jack-less devices, shouldn't headphone companies start making 3.5mm connector-less devices too? 
+I think if OnePlus indeed decides to remove the jack they should bundle the adapter with the phone itself.  
+I don't think they gave a discount to OP3 users when OP3T came out.
+> if you were to wear glasses that flip your vision upside-down, your eyes would actually correct it to be right-side up again.
+
+I need to try this to see if it's true
+Genuinely curious, does touchwiz still suck? I used an S duos or something for a few months back in 2013 and it was horrible. 
+> Usually the big symptom of battery calibration problems is the phone shutting off well before hitting 0% (like 5-15%)
+
+I don't have a OnePlus but I do have this problem (on my Lenovo Vibe P1 Turbo)
+It shuts off anywhere between 12-25%. Though I should mention that there's no battery drain and it easily gives me 30-35 hours of life with normal usage. I've tried these calibration cycles many times but to no effect. Usually after charging I see my phone at 100% even after 7-8 hours of use(initially it made me super happy until I learned the truth)
+
+I just never let it go under 30% to avoid this problem but is there a different fix? The phone's a year old now and I'll probably buy a new one soon but still.. 
+I think the only reason they want to release 5T(if they even are) is an infinity/bezel-less display, since it's the buzz-word in the smartphone industry in 2017. 
+
+Which inevitably means that there'll be less space available for other stuff. So it's entirely possible that jack might be drowned this time. 
+For me, as long as they bundle an adapter to connect my existing 3.5mm headphones with the phone itself, it won't be that big a deal. But that's just my opinion.
+I mean, let me just test that damn bot, okay?
+What OnePlus should do is release mid range phones instead in the winter season. That way people who have a lower budget (like me) can afford a OnePlus device and those who bought the flagship phone wouldn't feel like they missed out.
+As long as they bundle the adapter with the phone itself, majority of people won't even care.
+Don't look at me. I don't even have WWE 2K18.. yet.
+Are there any phones in the market right now with bezel-less display and yet having a front Fingerprint scanner? (I think I'll be okay with a bit of bottom bezel if they can manage to fit in the FP scanner there)
+Glitch in the matrix? 
+r/unexpectedHindi
+It means that Cicada 3301 might contact you soon.
+Ah, for a minute I was in awe that they planned and made an entire post, complete with proper replies _2 years ago_ so that random redditors don't interject in between..
+Still impressive though.
+Damnit. Now you gave it to me. 
+
+Hold on and let me zoom in
+Isn't a signature by the receiver compulsory in these cases?
+At least in India Fedex and every other logistics company have to call you in case you're not at home. You can give the delivery guy instructions to leave it with a neighbor or something. But they won't leave it just at the door, since it's virtually guaranteed to be stolen. If you're not there and don't pick up your phone, they'll take it back.
+Well I'm assuming if they're a customer they will eventually turn that phone on, and the IMEI number should help police/google/whoever figure out that they were lying.
+
+Happened a few times here in India. Some people received soap bars instead of phones(really) and e-commerce stores like Amazon were getting them brand new phones so a few idiots started taking advantage of it by removing the phones, putting a soap bar and claiming they didn't receive the device.
+Yeah but do 'flagship' phones last longer than mid range phones if they both are being treated equally? 
+
+Because all phones, whether expensive or not work pretty smooth these days when they are new. Even the cheapest phones have 3gigs of ram now. I want to know if it's worth spending that extra cash for more life out of a phone(like 4-5 years)
+I need to know when this happens. Because I can't fucking remember when it happens
+So, how much do you reckon is the average life of a smartphone? I'm talking about a mid to high range(flagship) phone because until now I've been buying phones in the 230$-300$ region and changing phones every 3 years, mainly due to slow-downs, lags and poor battery performance(these things usually happen in the 3rd year only)
+ 
+Can I expect a longer life if I go for, say S8 or Pixel after my Lenovo Vibe P1 gives up?
+I think 'don't install app killers and reboot your phone every couple of days' should be good for a start.
+I wanted to buy pubg but then I read somewhere in the steam comments about fortnite, checked and it was free so I got that instead.
+Never played these kinds of game before and therefore, since I don't have any point of reference, I'm enjoying fortnite a lot.
+I did win a game without killing a single guy today, though.
+Except India, for some reason I can't understand. Everyone I meet who has owned a OP phone talks like it's a Hitler's company.
+It's still in stock in India though so I guess not completely 'world wide'
+Remember remember
+Damn Nep must feel so weird when all she wants to do is play a normal game but the other players lose their frickin' minds if they know it's her. Or do you reckon' she is adjusted to all of that by now
+inb4 Cyanide comments "AAAAGHGHHH" here
+When I was a kid Coke was always *white*
+\*cough*
+I can confirm all OP5 variants are in stock in Indian store at least, both on the OnePlus website and Amazon. Maybe they're removing it from the not-so-strong markets?
+> If the machine hasn't booted yet, remove the update from 'Installed Updates' and don't reboot (to be on the safe side).
+
+Can you please tell me how to do this?
+It says a restart is required to finish installing KB4041676 update, and I can't find a way to remove it.
+
+Wait, I think I found it. Update history-> Uninstall updates-> Uninstall KB4041676. 
+Is it correct?
+Or she had balls of steel.
+Oxford cambridge
+I mean, if you can't eat whatever the fuck you want to, what's the point of being a billionaire.
+Well to be fair, most of the news I follow are at the same time when I'm shitting so...
+Also, Owens and Shane not attempting pin counts on the top of the cell. It would have been interesting to see the ref from down trying to count the pin, or even thinking "Well, what the hell.. I'm climbing on top too!"
+I hope he does, actually. His face run has, well, *run out*. I think it will be interesting to see him trying to be a "good guy" but still doing heelish things, then coming out and making attempts at justifying them.
+Weirdly, that's the only thing I remember about 9/11- My mom telling me (some days after I presume) that it was a terrorist called Osama Bin Laden and America is now attacking Afghanistan.
+I was 8 at that time, and I'm Indian so I knew what "terrorism" *meant* , since we've been having bomb blasts and attacks pretty much since the 90s.
+
+I remember replying to my mom- "Good. They deserve it"
+Also, don't forget kids aren't the only people in the building. The teachers, other school staff might also need to go home, or talk to family. Plus, I'd be shit scared if someone told me planes were attacking buildings, because school *is* a building too.
+Is there a mod to enable collision? It's a bit disappointing to see me fuck up the docking procedure and instead of it colliding into ISS and cost billions of dollars, it just passes through and I can try again.
+If there are no "drastic consequences" to my mistakes, I wouldn't be motivated enough to improve myself..
+Holy shit. How did I not realize this before...
+You sure? Was there a sandwich between him and your sister?
+
+Seriously though, kudos to him. Watching the videos sitting from the other side of the world, it's pretty amazing to see how people are so ready to help each other out in the real world or ground zero, while on twitter I read things like "They were listening to country, meaning they were trump fans and deserved to die"
+I stopped comparing the series to the original version long ago. I think of this Sherlock as in an alternate universe. A super sleuth in the modern world, where the names might sound similar.. but everything else is different.
+Moriarty is a completely different character here, yes, but that doesn't necessarily mean he was badly written. I enjoyed his unpredictability and a tendency to be impulsive. Made the show more exciting for me. (Season 4 sucked balls though)
+Hilarious but also retarded. Also, this is pretty much what I think about how they wrote Eurus.
+
+Yup. I thought the finale lacked a "cliff hanger" type of scene, that makes me eager for the next season. The episode was fantastic, the ending, not so much(but only if you consider this a season finale)
+TIL I was born 68 years late.
+You are now declared legally dead.
+That's because it's pretty to get butterbeers in hogwarts.
+Did this happen for the first time in recorded human history? 
+I need some unsolved problems now... I probably won't be able to solve them, but I want to know what the brightest minds in the world are working on...
+Was this in the subsequent sequels? Because I read rendezvous with rama but the spider species was in that spaceship, and our astronauts just let it go outside the solar system as far as I remember.
+
+Fuck this team in particular.
+Suddenly Joey wanting to move to Vermont doesn't seem *that* weird.
+Eagles are the like the avengers of the preying birds. 
+Nuke the entire world
+Beat that, Jon Snow.
+But what about *off off off* Broadway though
+r/theydidthesimulation
+
+[*The right answer will blow your mind!*](https://www.youtube.com/watch?v=2RpB7zGhc4g&pbjreload=10)
+Honestly, through this entire season my brain was continuously reminding me of that guy who coined the term "idiot plot". It seems like the characters were deliberately dumbed down to move the story forward. It's a shame since season 1 was brilliant in my opinion.
+Twenty percent refill
+Somehow should tell this to the Facebook page called "Daily update on Michael Jackson's health condition"
+
+Okay now I'm going to find some porn parodies 
+Amazonians are Saiyans confirmed.
+Well at least for me, I did not see that coming. I was pleasantly surprised that Lupin [was ares](#spoiler)
+What about their island though? It seems like she saw a man for the first time in her life. If that invisible force was so easy to break, it would seem like there should be more human visitors on that island.
+Just watched the movie. I agree with the plot holes, however I did enjoy her acting, and her sort of innocence (although it was very inconsistent) 
+That happened in 2010? In India they did the exact same thing a few months ago. Made some commercials about people saying things like "Dominos is pretty good, but the crust is dry" or "they don't put enough cheese"
+Then a team of chefs saying "we heard you"
+
+Their "new" pizzas are a little bit better, but still not upto the mark in my opinion
+
+As a Hindu, what does baptism means? I studied in a Christian minority school but I still couldn't understand it properly. I've always thought of it as "spiritually cleansing you of your sins"
+I hope a luggage thief isn't reading this post
+As someone with O+ blood and who's living in India, well, shit.
+I remember I watched a porn once where the girl's vagina was erm.. not where it should be, but at the back of her neck. She was visiting a doctor to get it fixed.
+The doctor obviously said there is only *one* way it can be fixed. I leave that to your imagination(or google search)
+
+Reading your comment reminded me of it.
+*Maybe it's all just about cocks in the end*
+Actually, yeah.
+After writing that comment I googled it and VP of Xiaomi India [tweeted out](https://twitter.com/manukumarjain/status/907187431958503425?lang=en) that Mi Mix 2 will indeed release in India.
+
+> MI mix2 
+
+Is that phone even available in India? Mi Mix 1 looked pretty good to me, but I didn't see it anywhere. Neither Amazon nor Flipkart.
+I even went to a store and the guy had no idea that Mi Mix and *Max* are two different phones.
+It's super effective
+Now I understand why spacesuits are white
+I thought the bet was that if he lost he would have to act in those episodes for free? 
+Maybe I'm remembering something else.
+Now I understand why some people seem lifeless in the morning until they have their tea
+Where are the house references
+I was so disappointed after following OnePlus 5 leaks that I did not even read any article that started with "NEW iPhone COULD HAVE--"
+
+I was genuinely surprised at some of the features watching the keynote
+(As an Android user I've never used an iPhone so even some of the older features were cool to me)
+Is there a reddit bot that could count how many "audience claps" comments have been made on this post?

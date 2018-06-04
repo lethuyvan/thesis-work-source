@@ -1,0 +1,937 @@
+Mike Mayock’s opinion of the pick was pretty favorable. It wasn’t a steal, but also not a reach. He’s a new style of player, but Mayock said he kinda reminds him of Kwon Alexander, who’s a hell of a player. 
+Mike Mayock compared him to Kwon Alexander, which is nice company. 
+Sure, he created a foundation after tax avoidance, aggressive, borderline Victorian business practices, and leading a company that hordes billions of dollars in tax havens overseas. Good for him. Mysterious how he keeps growing richer while being so philanthropic. 
+I’d also say billionaires dodging taxes and then selectively deciding how to then redistribute their extravagant wealth also hasn’t helped make us more science literate or improve our schools, Bill. 
+I guess I’d be okay with the pick if Nelson and Chubb are both gone and Fangio feels confident he could get the most out of Edumonds. 
+Sounds like it will only get worse, too. Between Apple reportedly moving away from x86 and adopting APFS, I imagine the walls to their garden will only get taller with future iterations of the MBP. 
+It’s hard to avoid Spectre, but it’s possible to patch it. I think if you have a pre-Kaby Lake Intel processor, for example, a retpoline-enabled kernel will take care of both Spectre and Meltdown. If you buy a machine that has the Kaby Lake chipset, you’ll need to update the microcode as well. And as others have pointed out, only 1 of the 2 vulnerabilities applies to AMD processors. 
+Are you implying they won’t start 23-0? 
+I don’t think you’ll ever find super reliable data on distro usage, unfortunately. That said, if I had to guess, Ubuntu is the overwhelming favorite on the desktop, possibly followed by Mint, Debian, Fedora, Arch, and maybe openSUSE (?). Though I’ve met way more Kali users than SUSE users. 
+I installed Fedora 27 on an XPS 13 9370 that came preloaded with Ubuntu. Not the exact same as the model you referenced, but still similar hardware. 
+
+Gnome was a bit buggy initially, but it got remarkably better after an upgrade. 
+My company has some weird brand issues. 
+I hate Pruit, but for what it’s worth, I have five work emails. 
+You can get all those things with a used Thinkpad. Search for “ThinkPad X1 Carbon” on eBay, and you’ll find some around your price range that have better resolution, a better CPU, a backlit keyboard and a decent SSD. 
+
+Whatever you should go with really depends on if you wanna run GNU+Linux or ChromeOS. If it’s a toss-up, then yeah, there are lots of nice Chromebooks in that range. But if you want to really experience a fully fledged distro and learn some things from it, I highly recommend a used ThinkPad. Lots of companies replace their machines every couple years, which is why eBay is a great place to search if you wanna instal GNU+Linux. 
+A lot of laptops with Linux preinstalled end up costing considerably more than just buying a used Thinkpad off eBay and installing Linux yourself. 
+I’d eat the hell out of that, but not for ten fucking dollars. 
+I’m using iOS after years on Android. I’ll be switching to the Librem 5 as soon as it’s available, but in the meantime I’d prefer a phone with a modicum of privacy. I don’t feel like I’m missing much, in the meantime. 
+I don’t fault your mother for this. I fault all the engineers that allowed this shit to happen. 
+I have the Dell as my work machine, since driver support is solid and build quality is up their with the best Thinkpads. Considering the HP is a similar price, I’d absolutely go for the Dell. 
+Sed. Sure, there are more powerful tools at your disposal, but sed has never really let me down. If sed doesn’t behave the way I expected in a script, it means I need to improve at regex. 
+Bash, Oh My Zsh, and pretty much anything else sounds better than Powershell. 
+I’d wear those. 
+Persona 5. There’s technically a PS3 version too, but they were released at the same time. 
+As long as you’re respectful, I think you’ll be fine. 
+I don’t care for Apple either, but it uses a pretty normal Unix filesystem. If you’ve used GNU+Linux or a BSD, you shouldn’t have trouble navigating it, copying and moving files, etc. 
+I didn’t realize the friendzone was quantifiable. 
+I don’t care who it is, you can’t count on a draft pick to develop into a top 10 player at their position (which Howard is). Maybe Barkley becomes the next LT, but maybe he becomes the next Cadillac Williams, Trent Richardson, etc. Why get rid of one of the best players at the position for someone completely unproven? 
+They’re pretty similar players that would both be learning a new offense. Meredith is also coming off an ACL injury and didn’t get to play with Mitch, so I don’t think chemistry is much of a factor. So I’d probably pick Hurns. 
+He looked like he was on his way to being a legend, too. 
+Nah, though I was actually there when they were setting up for it. Wish I could’ve stuck around. 
+I think Baku has been nicknamed “The New Dubai.” The downtown area was incredibly modern when I visited in 2016, but like some people alluded to, oil money hasn’t erased poverty. 
+No. Saquon is great, but can you imagine any of the recent Super Bowl winners making  that trade? We have one of the best running backs in the league and should be happy with him. 
+You could make that argument, but we already have two safeties that have demonstrated they can play at that level. Why draft another one when we have needs? 
+Linebacker. One pass rusher and one ILB to play with Danny.
+Great player, but this is why I don’t like exclusively drafting based on BPA. Unless it’s a generational talent, you’ll inevitably need to consider need, too. 
+Raiola was a cunt. 
+Dante Hall will always be the true Human Joystick. 
+I personally like Kaep, but I think we’re set with Trubisky, Daniel and (hopefully) Sanchez. 
+I guess I was unbothered by his comments. I’m too annoyed with yesterday’s tactics to care about what was said. 
+Marshall had a more productive career and had been working hard to address his mental health disorder, so I had no real concerns with trading for him. However, it is nice not giving up a pick to land Robinson, so I think I’m equally excited. 
+So a Hall of Fame receiver? I’d hate to have one of those. 
+Lovren was one of United’s best players today. 
+File Transfer Protocol
+Burn after reading. 
+Isn’t RedHat planning on redesigning their logo? They should’ve waited. 
+At least we can’t accuse William Henry Harrison of committing any mass murder during his presidency. 
+Probably 3rd, but I think there’s a very strong possibility that Jordan Howard will surpass him. 
+I think if we’d won it in 06/07, Hester and Urlacher might’ve reached that level of popularity. 
+That’s not really true of Koreans. Surnames were a rarity in Korea until relatively recently. The names were first used by the nobility, and were subsequently copied by commoners. 
+As did I. I bet a bunch of other Northern Alums also bought them.
+Oh hamburgers. 
+I haven’t used it in a while, but almost everything is on Postmates. 
+I guess you never heard of Microsoft’s attempts to destroy the free and open source software movement and industry? They didn’t go about it by offering a better product. They did it by founding bogus foundations to publish biased studies about the evils of free software. 
+A dangling preposition is a sure sign of an absolute genius. 
+Jerry Rice also ran a 4.7. 
+GNU’s Not UNIX
+He’s scared. 
+Streetwise. It’s a documentary from the 70s (or possibly 80s) about homeless youth in Seattle. Pretty much everything horrible you’d expect to happen to those kids ended up happening. 
+I think graduates of our academy logged more minutes in the PL than literally any other club last year. 
+The Electronic Frontier Foundation and Free Software Foundation are both doing a lot to fight government surveillance (particularly the former), thereby preventing potential abuse by present and future presidents. 
+Jones had a bad game, but I’ll ever fault his work ethic, passion or dedication to the club. 
+I always kinda looked at him as a poor-man’a John O’Shea. O’Shea played well at a variety of positions, whereas Blind can play decently at a variety. 
+As a GNU+Linux user, I still consider him evil. 
+So there’s still hope that I could have kids that aren’t short as fuck. 
+I recently went from the M50x to DT 770s, and I actually love the change. They’re considerably more comfortable, have a soundstage that’s more to my liking and actually sound clearer (at least to my ear). However, I went with the 32 ohm, since I’m primarily using them at work. 
+1.	De Gea
+2.	Martial 
+3.	Lingardinho
+4.	Pogba
+5.	Alexis (I’m counting his time with Arsenal)
+I’d ask him for his autograph. 
+I think he will and should be. Maybe he’s not as much of a slam dunk as someone like Ed Reed, but he was still one of the best defensive players of his generation. And on top of that, he seems well liked by the media, which will likely help his case. 
+Crazy to think that the Independent had the most plausible headline in the group. Not that it’s saying much. 
+Is it too late to remake ROTJ? 
+The Human Society: The society for people. 
+Bailly and Pogba. 
+8-8 with Trubisky passing for 3600 yards. I’m confident Howard will have a great season, but I’m not ready to put much faith in Shaheen. However, I really hope he kicks ass. 
+That fight broke my heart. 
+!goalbot Pogba, Swansea
+Right now Bailly and Jones. However, I have faith that it’ll eventually be Bailly and Lindelöf. 
+Sorry, I have no memory of this game. 
+No problem. Even as someone far-left, it took me a while to get used to treating the terms differently, since they’re often treated like synonyms by people throughout the rest of the political spectrum. 
+To those on the left, those terms are interchangeable. She’s liberal, but not progressive. 
+The only way I’ll possibly pull for them is if they play the Pats in the Super Bowl. College football has already been ruined by Alabama. I don’t need the Pats winning this year, too. 
+Maybe my all-time favorite player. 
+You have Stalin flair but forgot the Russian Federation invaded his birthplace in 2008? 
+My doctor tried to ignore the severity of my gallstones. Since I had to wait multiple weeks for an ultrasound, I ended up with stones in my bile duct, which led to jaundice, so I spent 4 nights in the hospital. The hospital stay cost $40k, but I luckily receive good insurance through my employer, or I otherwise would’ve been fucked. Most people aren’t so lucky. 
+I still consider receiver a bigger need. I think our line play is middle of the pack, but we literally have the worst group of receivers in the entire league. That said, if we address the position adequately in FA, I’m okay with drafting a tackle or OLB in the first. 
+I actually carry my work machine through the office in the same way. The new MacBook Pros are so light and thin that it just feels natural. 
+Friday, Jan 19th, 7:00pm GMT
+
+EFF.org
+Hey, as long as you’re using a UNIX-like OS, we’re all family. 
+I don’t dual boot, personally, because I can do everything I need with Debian. That said, my needs and experiences aren’t universal, so I can understand why someone else might choose to install Linux alongside another OS. I’d just encourage them to seek out alternatives to whatever proprietary software likely made them want to keep Windows (unless they’re gaming). 
+I’d love to go back to signing players that City were after, like we did with Berbatov. 
+Is he out of contract? Not sure why he’d leave the Texans, otherwise. 
+And so it begins. 
+Even if you’re leaving out Ditka and Ryan, that still leaves George Halas. He was one of the winningest coaches ever, and he last coached in the 60s (so not 70+ years ago). 
+It depends on who is available, but if we don’t land someone like Landry in FA, I think we need to draft Ridley. What happened with Kevin White has sucked, but so did drafting Gabe Carimi, Shea McClellen and Chris Williams. 
+While I agree that there’s a need for us to address the OL (specifically tackle), I think we’ll be setting Mitch up for failure if we don’t invest heavily at receiver. We had one of the worst groups of receivers that I’ve ever seen. 
+Well if Ben Devine says so, it *must* be true. 
+Maybe after spending several years as an assistant and working his way up. I’m sure if he wanted to, he could find a job as an Assistant QB coach. 
+He had me at Philip Daniels. 
+I think it’s still what it used to be, which is the problem. OP could’ve said that was Madden 11, and I would’ve believed it. 
+At least he looks less creepy than Trestman. 
+Abe Gibron. 
+The Bills deserve a win.
+
+Though I’ll be happy as long as the Pats don’t win another goddamn Super Bowl. 
+Why would he make  a lateral move to a worse team? 
+He made some nice plays against a great Clemson defense. 
+The Daemon, The GNU and the Penguin is also pretty good. 
+At least Christian Jones is still playing like he gives a shit. 
+Imagine how good Jordan Howard will be if we ever have a real offense. 
+Well that looked fucking easy. 
+That logo always bums me out way more than it should. 
+Unixstickers.com has a nice selection of shirts and mugs. 
+Install some programs (Tilix, Atom, tldr, etc), install some custom themes, and that’s about it. 
+Does that seem contradictory to anyone else? If they’re offering fast lanes, they’re effectively throttling any services that can’t or won’t pay to use them. 
+I’ll admit to being down on him on times, but you’re absolutely right. I think some of the hate had more to do with whom we almost drafted (Aaron Donald) than with the player we ended up with. 
+You keep going on and on about how he was idolized, yet he actually lost the popular vote to one of the least popular candidates in modern memory. You’re also ignoring the possibility that maybe people just started to dislike him the more they learned about him. Any of that he brought on himself. 
+
+I won’t keep arguing with you, because this is a football sub, not a political one. But insinuating that being a billionaire somehow qualifies someone to run a football team is absolutely ridiculous. 
+You do realize he inherited a large amount of wealth and would be worth more if he simply put it into a mutual fund, right? Not to mention the fact that he’s declared bankruptcy multiple times. 
+
+Being a billionaire is also not an accurate predictor of success in any field. Look at every incompetent NFL owner. 
+He’d really shake things up and hire a bunch of middle school soccer coaches. 
+I personally like and recommend Debian. It’s stable, has the best package manager, and it’s a free distro (by default, anyway). Some more benefits can be found [here](https://www.debian.org/intro/why_debian).
+
+That said, since you’re a developer, you might also look at Fedora. It’s bleeding edge and extremely popular among developers (including Linus Torvalds). 
+Got me right in the feels. 
+One PlayStation and one box of expensive malware. 
+That vintage late 90s/early 00s hair. When people worked tirelessly applying an entire bottle of hair gel, just to look like total assholes in old pictures. 
+As ready as I am to blame ISPs for being greedy, this likely has more to do with an increased number of people being off of work/school and wanting to watch their favorite holiday movies and Christmas episodes. 
+/r/BuyItForLife 
+You laugh, but there’s an actual nonprofit in Cleveland that’s called [The Human Fund](http://www.the-human-fund.org/). 
+
+Time to pay up. 
+Oh Peter. 
+He literally placed his hands on her breasts, which the victim confirmed was unwelcome contact (i.e. harassment/assault). Worse behavior by Trump or Moore doesn’t excuse bad behavior by Franken. 
+He admitted to doing it, and there was photographic evidence. 
+
+I’m sad to lose a progressive senator, but the Dems can’t call on Trump to resign or for Roy Moore to have ended his run (prior to the election) while letting Franken continue to be a senator. 
+Attack of the Clones had few redeeming qualities, but Kamino was really cool. 
+People that say deep dish isn’t for true Chicagoans are also people that probably grew up in Naperville and only moved to the city a few years ago. 
+Press any key. Where’s the “any” key? 
+Fuck me, $2000/month for daycare? I guess I’m never having kids. 
+Ironically (and I’m sure I’m misusing the word), this would be a great feature if they didn’t hide or from the user. But because it’s Apple, of course they just forced it into an update and hoped nobody would notice. 
+I use Debian for several reasons:
+
+1.	I prefer apt over other package managers.
+2.	I prefer .deb. 
+3.	By default, it’s a completely free distro, but one that doesn’t make it too challenging to install non-free drivers.
+4.	Debian stable is stable AF (hence the name).
+5.	if there’s something I can’t figure out, I have *multiple* communities I can fall back on for support, given that so many other distros are based on Debian. 
+6.	I prefer servers run Debian or Ubuntu, so I might as well use it as my primary OS. 
+
+I could go on, but those are the main reasons I currently use Debian. 
+I vastly prefer browser-based clients, provided I’m already being required to use Gmail/G-Suite. There are some pretty slick desktop clients, but they’re still mostly unnecessary unless the available web client isn’t great. It’s just an extra step in the process, and it’s one that requires me to run an extra app. 
+
+That said, if my mail is hosted by anything other than Google, I’d probably use a desktop client. 
+He was literally inspired by George Lucas’ dog, so I don’t think it’s wrong to have the same sentimental attachment to him that someone would have for their pet. 
+Honestly, I’d be more distressed by the loss of Chewy than I would by any other character. He’s just a giant dog, so he should therefore live forever. 
+One of the few times I’ve watched one of these and ended up supporting the security guard. 
+I personally loved it, but I understand where people are coming from when they say they didn’t like it. 
+
+We didn’t get to see Luke do much crazy shit, Snoke’s existence was pretty pointless, and they didn’t really explore the gray force. But at the same time, we got to see Kylo evolve into a badass, after people complained about how underpowered he was in TFA. 
+I loved it. 
+
+Luke’s death was sorta heartbreaking, since he’s my favorite character in the entire series. But I’m happy that he got to die peacefully, while saving his sister and everyone else. Beyond that, they’re doing something totally different with morality in this trilogy, even if they didn’t explore the gray force as much as we wanted. That’s pretty cool. 
+I feel the same way. It’s like they’re building Kylo into the person or force user that Anakin would’ve been if he hadn’t lost to Obi-Wan on Mustafar. 
+Fuck yes! We need this momentum going into an election year. Time to take our government back from the fascists. 
+I’d never bring kids into our current system, but I’m okay with adopting a couple that have already been born into and left parentless by it. 
+This takes me back to the early days of YouTube. 
+I appreciate the amount of work that went into the article, but I feel that there are better options out there. The top choice was over $1k despite only having 8 GB of RAM and an i5. I have a ThinkPad with likely an identical CPU and more RAM that I bought new for less than $700, and since it’s a ThinkPad it probably has even better driver support. 
+
+Just my 2¢. 
+Damn. Sounds like I really lucked out with mine, as it mostly only required silver nitrate (which hurt like hell) and a lot of silver bandages. 
+I bet he never walked past a chip shop without going inside. 
+He also only made the playoffs once in like, his last six seasons with the Bears, including the 10-6 season.
+I agree with you. I think this was the best possible reaction from the Democratic Party. If they did nothing then they would’ve been “GOP Lite,” which is how the party has behaved for basically my entire life. 
+I absolutely can remember teachers espousing anti-socialist rhetoric even when I was very young. Capitalists like to indoctrinate people from a young age. 
+Google is why I switched to iOS. As much as I hate Apple and their ecosystem, at least I feel like they spy on me marginally less. 
+Psssh, give me a little credit. I’m actually from Illinois ;)
+Places where it isn’t hot and humid for 9 months out of the year. 
+As a Systems Engineer and free software enthusiast, I’ll be eternally grateful for Linux. So thank you to Finland for giving us the father of Linux, Linus Torvalds. 
+Santos is seriously made of fucking glass. 
+You’re using supposed cuts in government spending as support for a bill that’s expected to substantially increase the deficit. 
+
+You also really don’t understand how social programs benefit society. If I’m paying less in taxes, it means fewer of those programs exist, which means I have to pay private companies to do the same thing (or pay more in tuition, in the case of education). 
+Doug Plank. That’s where Buddy got the name for the 46 defense. 
+Congress might pay the price for one or two election cycles before voters decide that things are improving too much and decide to elect more idiots. 
+Once I had an okay grasp of Bash, I used Ryan’s Tutorials to learn scripting:
+
+[ryanstutorials.net](https://ryanstutorials.net/bash-scripting-tutorial/)
+I’m happy for him. He was my favorite Bear while he was here, and I’ll cheer for him whenever he’s not playing us. 
+I’ll always fondly remember the time you caved in Frank Mir’s face. 
+I think a potential hurdle is trying  to support such varied hardware. Replicant OS is a fully free fork of LineageOS, but it only runs on a limited number of devices because each requires custom drivers. The same will happen when attempting to develop a distro specifically for mobile devices. I think that’s why something like the Librem 5 will be our best bet for the time being (i.e building the distro around a single device). 
+I AM your father. 
+Those kids have no idea whatsoever of what went on at Stalingrad. 
+Ubuntu and Perl. 
+It was at Northern Illinois University:
+
+https://en.wikipedia.org/wiki/Northern_Illinois_University_shooting?wprov=sfti1https://maps.apple.com/?ll=41.934167,-88.768889&q=Northern%20Illinois%20University%20shooting&_ext=EiQp5VQAxpL3REAxsjO/eTUxVsA55VQAxpL3REBBsjO/eTUxVsA%3D
+Quavo, Offset and Takeoff. 
+“Right-wing activist” sounds like an oxymoron. 
+I always love watching Aoki get his ass kicked. 
+And good luck programming on Windows. Sure it’s gotten better, but Windows still has a shit kernel, filesystem, selection of command-line utilities, etc. At least with macOS you’re getting a UNIX operating system. 
+
+The statement about hardware support is also dubious. 
+While I dislike Apple, their desktop operating system is still the best option outside of GNU+Linux and BSD. 
+Having lived through the Angelo and Emery eras, I’m happy to give Pace more time to prove himself. People forget that he inherited a dumpster fire. 
+I’d say Fink and Buddy have more to do with our success in 85.
+It might be too hard to tell. His face mask is pointing down when he starts walking, but that doesn’t necessarily mean he was looking looking straight-ahead. 
+I’ll always love Ditka the coach, but I can’t stand the person he’s become post-football. 
+He couldn’t beat Stephen Neal, though. Technique can still overcome pure athleticism, though Neal was a great athlete as well. 
+Vote with your wallets and switch to Ting, which actually supports Net Neutrality and uses T-Mobile and Sprint’s networks. 
+Yep, that’s exactly right. I think our best option now is to bank on ARM or just support manufacturers like Purism that have disabled ME. 
+Technology. Particularly GNU+Linux. 
+Well this fucking sucks. 
+And those stats don’t even really do justice to how much better Gould is than Barth. 
+They’re cool, but not groundbreaking. And I say that as someone that actually prefers a lot of Apple products.
+
+But take AirPods. If I want earbuds to walk around the city, I’ll use the wired ones that came with my phone. If I want something for the gym, I’ll use the cheaper Bluetooth earbuds I have that are waterproof and harder to lose. If I’m listening to music at work, I’m gonna use my Audio Technica on-ear cans because they sound so much better. 
+Now that you mention it, I have been hearing some bad things about 11. 
+But what do they do that other products aren’t already capable of doing? An improved display or processor isn’t groundbreaking, it’s expected whenever you introduce a new product. 
+I went from iPhone to Android and stayed in that ecosystem for years until buying the iPhone 8 recently. 
+
+Something I was surprised by is how many 3rd party apps run better on Android, when it was the other way around for years. The PagerDuty iOS app is a laggy mess. 
+When was the last time that Apple introduced a new type of device ahead of their competition? The iPad? 
+
+Granted, they make reliable hardware, but it would be cool to see them innovate more. 
+I wouldn’t spend money on either one. 
+They’re solid. My employer pays for my subscription, but even if they didn’t I think it would be worth it. Books are great too, but I’m more of an auditory learner. 
+I’ll fault society at large for not doing more for the veteran, but not the teens. We’re supposed to teach them better behavior, not expect for them to know it innately. 
+I’m personally looking forward to the Librem 5. True GNU+Linux, able to be used as a desktop running Gnome, KDE etc, killswitches for the hardware and Android apps running in an isolation layer. 
+I guess NFL defenses cracked Loggains’ master strategy of running up the middle on 1st and 2nd down, every fucking drive. 
+It’s fucked up that healthcare ends up costing more for people with less money. 
+Some estimates put the US homeless population roughly level with the *entire* population of Uruguay. 
+I’ve never had an inoffensive sign actually make my day worse, but this one pulled it off. 
+At least those assholes are being duped into doing something good for the environment by boycotting k-cups. 
+I had the same thought when I saw this on r/all. Of course it was r/UpliftingNews, which should really start going by “ethical capitalism.” Like how is it possibly uplifting that the richest country on earth has so few social programs that 83 year olds need to perform manual labor to survive? 
+That would’ve destroyed my soul. 
+But it doesn’t force you to read the field if your receivers are so bad that you only call 10 pass plays per game. 
+Just one request. Can we not call him “Marty B?” To me, the only Marty B is Marty Booker. 
+It’s UNIX. macOS is still inferior to GNU+Linux or  Free/OpenBSD, but it’s better than Windows by a mile.
+Weirdly enough (and if I’m remembering correctly), their vendors are the ones asking to keep the ME. 
+Word is they’re making an Unbreakable sequel. Must be what Kevin is up to. 
+I consider the Librem 5 more promising. 
+I listened to one of their senior engineers talk about this project at the Open Source Summit. Pretty interesting stuff. Apparently the Intel engineers have wanted to ditch ME for years, but it’s no longer up to them. 
+More, in fact. 
+It depends on what you mean by "with." My girlfriend has watched me play through entire story-driven games like Life is Strange, despite her never picking up the controller. 
+Also the face that emergency surgeons, soldiers and prison guards make when law students complain about being stressed. 
+Well we know it's not Arch, since he hasn't already told us that he's an Arch user. 
+Goes great with honey. 
+I bet it's a PharmD and not even an actual PhD. In which case she's earning the degree in the average amount of time. 
+You're citing old studies. Also, people are more like to assume that they were bitten by pitbulls when they might not have been, and many news outlets will only report on dog attacks if they're made by pitbulls: 
+
+https://m.huffpost.com/us/entry/5521281
+That's why you should never leave emacs. 
+While I'm perfectly content using macOS and believe MacBook Pros are awesome machines, I hardly view Linux as being a downgrade. Sure, macOS works out of the box, but you also have less freedom over how to design your system. Working on a Linux machine also offers the benefit of working in the same OS you'll be deploying to. 
+
+That said, I understand where you're coming from. Some people would rather have their system just work, while others would rather try to get their machine there themselves. Either way, I'll take a UNIX or UNIX-like system over Windows any day. 
+I'll be interested to see how it turns out. Hopefully it gets better support and more frequent updates than every OnePlus phone. 
+I'm sure someone else will be able to give a much better explanation, but it's worth noting that US corporations are experts at tax avoidance. A lot of neoliberals try to hold up tech companies as some sort of compassionate capitalist ideal, but Google, Apple and others are some of the worst offenders. 
+Both of my parents are doctors. I went into a different field, yet I ended up with the worst fucking handwriting ever. 
+I saw this talk at OSS North America. Definitely one of the high points of the entire summit. 
+Honestly, I'm just stoked that we're finally showing signs of life. I'm having fun watching us for the first time in 3 or 4 years, and this team has a ton of potential. I think we could be scary in a couple years. 
+I'm stuck with the Falcons. I really need to move back home. 
+I saw a "Rapistberger" jersey, once. 
+I'd say it's Linux in the sense that a wireless router is Linux. Both might use the Kernel, but they're not really the "Linux" we often think and talk about.  
+He mentioned reselling email services, not lists. Makes me think they resell and support email software that's developed and sold by a 3rd party. 
+I mean, I'd eat it. 
+I'd say it's more than half, and that misunderstanding is enforced at an early age. Looking back, I can remember primary school teachers either giving overly simplistic or outright untrue descriptions of communism and socialism that made it out to be a system that fails to reward hard work. Coincidentally, that's also how basically all capitalists describe it. 
+Scrappy little pup. 
+If you wanna stick to streaming, some if the other services like Hulu Live TV might be better, as they'll come with CBS. I have YouTube TV and get all the football and soccer I could ask for. 
+The North is pretty shitty right now, but I don't think we'll make the playoffs. Our predictable offense is going to hold us back.
+
+That said, I'm still excited. I confident that we'll be a playoff contender next season. 
+I dunno, John Shoop was pretty fucking bad. 
+I still have a terrible feeling that Loggains will be our next head coach. 
+He did a lot on the field, which is what matters. So I love him. 
+Haven't we won our division once in like, the last 10 years? 
+Hopefully it includes the Han Solo song from Kinect Star Wars. 
+Oh man, can't believe I didn't think of him. Devonta Freeman is also looking like a good pass catcher. 
+Fuck no. And I'd expect them to feel the same way if I theoretically left them to die. 
+Kernel Panic. 
+Taco Bell. Specifically cheese quesadillas and cheesy bean and rice burritos. 
+My group of friends had two Jo(h)ns. Since I was in-shape, I became "Skinny Jon," while my friend became "Fat John."
+Very true. Other than LT, I can't think of another recent  running back in his class when it comes to receiving. 
+If you own a company, it's generally cheaper to give your employees MacBooks than it is to give them a cheaper PC running Windows. That's apparently why IBM is moving their employees over to MacBook Pros, since they're cheaper to maintain and support. 
+
+My preference for both personal and professional use would be a ThinkPad or Dell running Debian GNU/Linux, but I'd otherwise take a MacBook Pro over a Windows PC any day of the week. 
+The shooting at my school in 2008. 
+Demonstrating My Style - Madball
+Damn. My Dad passed from the same exact form of cancer. 
+The Republic of Georgia. It looked more like Hyrule than did any country I've ever visited. It's also an incredibly affordable place to visit. 
+Not spending enough time with their parents. 
+
+My Dad died from a brain tumor when I was 15. I definitely made an effort to spend time with him during his last months of life, but I still could've done more. My situation isn't typical, but it's why it'll always bother me when a kid takes their parents (or anyone) for granted. 
+Roasted seaweed. It's salty and crunchy, yet almost calorie free. 
+I was about to say the same thing. It could look like a bargain pretty soon. 
+He's not as complete of a back, but it seems like Howard is a better runner than Forte, at least through 1 1/2 seasons. Hopefully he keeps it up. 
+I don't think it can be fixed until the offseason, unfortunately. However, we can do a ton to fix it in one or two offseasons, like we did when we traded for B-Marsh, signed Bennett and drafted Alshon. 
+
+We just need to do a better job of keeping everyone together. 
+Ah, Windows, the epitome of capitalist malware. 
+There's also been an endless number of people murdered by capitalist "republics." 
+
+You shitposters are also quick to forget the Nazis, the Ustase, etc. 
+It would be nice to pair one of them with a veteran free agent. 
+As an Illinois native, this is both depressing and completely unsurprising. 
+JEFF! 
+You literally said "Death penalty for military service." Should combat medics and military surgeons similarly be executed? What about poor teenagers that are manipulted by recruiters into enlisting, under the guise that they'll be protecting their family and friends? 
+
+There are plenty of monsters in the military, but there are also plenty of allies. 
+If I remember correctly, rabies is technically airborne, so they recommend getting checked out if you're indoors with a wild bat. That said, I imagine you're fine. 
+Seems to me like he made baseball better. 
+I too love the Deftones. 
+You can keep telling yourself that, but it's an evil oversimplification of humanity that follows the same line of thinking that's used to justify genocide. 
+A large percentage of the people serving in the American military are victims of capitalism. Many  join to obtain citizenship, earn money for college or get adequate healthcare. We should punish the people that forced them into that position, not the ones that come back broken. 
+Save us from an improving quality of life? 
+So we go from the worst receiving corps in the league to still the worst. 
+I'm starting to get that feeling as well. 
+My thoughts exactly. Our defense would be a lot scarier if it was producing takeaways. 
+There's plenty of blame to go around, but he must have one of the worst win percentages in franchise history. Some of that can be attributed to talent, but we're clearly regressing. 
+Floyd, Hicks, Jackson and Goldman give me hope for our defense, but we need corners. 
+As a Bears, Bulls and Sox fan, I have very little to look forward to. 
+I think it'll be him. I'd love if he picked Tammy Duckworth as his running mate. Could you imagine Trump and Pence trying to question the patriotism of someone that gave both their legs in service of this country? 
+Because Gods fear no one. 
+I hate both teams but that was a hell of a game. 
+Be happy. 
+They're both neoliberals that quibble about the same set of issues to avoid meaningful discussion. Why do you think Bernie is an independent? Because nobody in the Democratic party wants to advance progressive causes like socialized medicine, government-funded education, etc. Ultimately, both parties still cater to corporate interests and Wall Street. One party is just more open about it. 
+Have you read the average elected representative's comments? The lines have gotten pretty blurry. 
+Couldn't agree more. 
+Democrat and Republican politicians are generally cut from the same cloth. It's the voters that actually have unique opinions. Makes you wonder why the hell we still have a two party system. 
+I have the same reaction whenever my dog walks past someone without barking. 
+I came here to say the same thing. I can't help but feel like I would've been better off with it. 
+Yumbii Chicken burrito for $8. I think for a couple bucks more, you can make it a combo with sesame fries and a drink. 
+I grew up in Chicago, where it snows a fuckload. In 25 years there, I never once was told to prepare for a snowstorm. It's now a yearly occurance in my new home of Atlanta.
+Aww, my grandpa was also almost exactly 70 years older than me. He turned 70 shortly after I was born. 1917 and 1987. 
+They're simplified man pages. If you just want a few quick examples of how to use a utility (like if you're like me and always forgot how to use tar), they can be a great help. More info can be found here: 
+
+https://tldr.sh
+Install Vim and TLDR man-pages. 
+So we should celebrate being better than one of the worst franchises in professional sports?
+
+I love the Bears and always will, but I'm not proud of the fact that we've been the best team in football once during the 51 seasons that ended with a Super Bowl. 
+Is it supposed to be like the Debian logo? 
+Nice repost. 
+We're 1-1 in the Super Bowl, which is hardly impressive.
+ 
+I'm almost 30, and during my lifetime I've seen the Pats win 5, the Broncos win 3, the Cowboys and 49ers win several, the Packers win 2, the Steelers win 2, the Ravens win 2, etc. I've seen the Bears win 0, and I don't have any reason to expect that to change any time soon. 
+I'm not sure that our history of Super Bowl success is something to gloat about. 
+If your TV doesn't have the functionality, I highly recommend investing in a Chromecast. It's nice being able to cast video from your phone, computer, iPad etc. 
+Strange that the camera on my budget smartphone can't zoom in that much. 
+Green guy isn't doing very good. 
+I'd be interested in adopting, but I don't want genetic offspring. There are plenty of children that are already in need of a home, so I might as well do my best to create a safe and happy home for a couple of them. 
+Maybe 3. De Gea, Pogba and Bailly all seem like realistic options. Romelu comes close, but you'd have to pick Kane ahead of him. 
+Looks like Robbie Savage. 
+Streetwise. It's an old documentary about homeless youth in Seattle, and it's just as depressing as you'd expect. 
+This is one internet joke that I'll never get sick of. 
+Butterfingers haven't let me down my entire life. 
+Landry and a rookie would sound good to me. 
+I think I was banned from there for calling Larry Meyer a tool. 
+I like it, though we need an original nickname. Thunder and lightning has been done before. 
+I know a lot of companies will claim that the customer is never wrong, but we all know that's bullshit. 
+Oh man, I just got flashbacks. 
+Righteous Kill. I was pumped that De Niro and Pacino were co-starring in a movie. Then I saw it. One of the few movies I actually walked out of. 
+Blaming their mistakes on other people. 
+Hillary is also irrelevant to the conversation. 
+Or Azerbaijan. I visited last year and it was incredibly secular. 
+Microsoft and Ballmer's treatment of Linux during the 90s and 00s is why I'll never trust their company or embrace their products. The only reason they "Love Linux" now is because they realized it was good for their image and bottom line. 
+
+Here's hoping for continued Microsoft irrelevance and failure. 
+Maybe that's why he rarely smiles? 
+I'm a systems engineer at a software company. 
+
+I took a roundabout path to my job. I was a liberal arts major in college that intended to go to law school. However, I had the (relative) misfortune of graduating during the recession, when there was a massive surplus of lawyers that likely persists to this day (I haven't looked into it since then). I didn't have much of a backup plan, so I spent a couple years as an unemployed, recent college grad, like most millennials. 
+
+I eventually moved to another state, where I landed a job in customer support with a well-known software company. I hated working in support, but I eventually identified something I was good at and moved into a role where I could do some systems administration. Now, after a couple years, I have a more direct say in how we choose to build and design our Infrastructure, and I can't imagine a better career for myself. 
+
+So I guess I'm an example of someone that worked their way up and learned fairly advanced technical concepts on their own. 
+What club does that fella play for? 
+I moved to Atlanta 4 1/2 years ago. I gotta admit that it's pretty nice living near a team that's good at beating the piss out of the Packers. 
+I've been using people's (mostly) positive reactions to the news as an opportunity to introduce them to GNU Icecat. 
+It's way too early to tell. One is 20 and hasn't started a full season in the PL, and the other is 19 and arguably isn't playing in his best position. 
+Never die easy. 
+I think I read he gave up acting to attend university and eventually become a humanitarian. 
+De Bruyne, Coutinho, Hazard, Bellarin and Alli. Don't know how we'd line them all up, but we'd be monsters. 
+Yep. Valencia's was undeniably more impressive, but I think Martial's could be more important. The more comfortable he is, I think the higher our ceiling. 
+This was probably my favorite goal of the day. Over the summer, I worried we had broken Tony, but he seems to be growing more and more confident. 
+Linus described it as a fork of Linux, which isn't necessarily a bad thing. 
+The red AIG kit is my all-time favorite, even if we were more successful the following year. The badge looks beautiful. 
+Good point. As an Illinois transplant, I can say with confidence that the taxes are high yet seemingly disappear into the void. 
+She looks like she was worth the wait. 
+I love Atlanta, but I think they'll probably choose Chicago. It has infinitely better public transit, it's more central, it's a more "glamorous" city (which matters to executives), and there's potentially even more great CS grads, between UIUC, U Chicago, Northwestern, Notre Dame, etc.  
+
+That said, I'll be ecstatic if they pick Atlanta. I also personally consider Atlanta a better option, for the reasons you mentioned, as well as the fact that Georgia has a sound budget (at least when compared to IL). 
+Burn that forest to the ground. 
+That's all you'll see on r/TheDennis. 
+I loved "I want to know what love is."
+I'm running into the same frustration as I get ready for grad school. Since the programs I'm looking at are largely online, they require software like the Respondus Browser that don't offer Linux or VM support. So I can either dual-boot Windows (fuck that) or buy a used MacBook Air, despite having a perfectly functioning ThinkPad running Debian. 
+This doesn't concern me at all. Having a CS degree wouldn't make her particularly better at her job, especially now that she's an executive. 
+I worked my way up and learned a lot of things on the job or from books. When I wanted to learn Python, I read a book and started using it to automate things I needed to do regularly. When I wanted to really learn GNU/Linux, I started trying out different distros on my home computer. 
+
+Granted, it took time to catch up to some of my peers with CS degrees, but at the end of the day, my employer cares more about results than what I studied 10 years ago. It also doesn't hurt being an engineer with a decent grasp of the English language. 
+Me: Have an English degree. Working as engineer at a well-known tech company. 
+
+Others with STEM degrees: trying to get a job at my company. 
+
+Moral of story: what you studied isn't everything. 
+No Ruud? 
+Ranking seems fair to me. We're up a few places compared to our draft position, but they still recognize that we're probably not gonna win many games. I think we're good enough to win 6 or 7 games and look pretty strong going into next year. 
+At least in my experience working at a newer tech company, employees are given MacBooks because they're running Unix and make security audits simpler than they'd be with employees running various distributions of GNU/Linux. 
+
+That's not to say the hardware on the MBP isn't great, because it is. But MacBooks include their own security vulnerabilities and and plenty of proprietary bloatware like you'd find in Windows. It just comes in the form of a much better OS. 
+yum downgrade hurricane-irma
+SoftwareEngineer
+The Bears' version was disappointing this year. Usually it's great. 
+As long as rye doesn't go anywhere. 
+Yep. Something a lot of people don't realize is that American universities actually place caps on the number of Asian-Americans they'll admit. I think the only exception I can think of are the Cal schools. 
+It really depends on the school. A 3.6 GPA at Georgia Tech, for example, is almost unheard of. 
+Good thing Mitch is hard as fuck. 
+Meh, he was okay, but I hardly feel that he's gotten a raw deal. He may have brought in Herrera, but Martial was a hot prospect that everyone expected to be good. Rashford also got playing time because LVG did a rotten job of bringing in attackers. Remember when we were being told how Fellaini was gonna be one of our strikers? 
+
+I'll remember LVG for what he was at United. Good enough to finish in 4th and 5th, win an FA Cup and not really contend for anything else. 
+I got one too. 
+I'd love to add Mahrez. He's creative, PL proven and speaks French. What more would we ask for? 
+Etcher.io is really nice. I still end up using it because it feels easier/more convenient than dd. 
+Eh, I've used quite a few distros, including Arch and Manjaro, but I still prefer Debian. 
+I actually used them for a day trip to Belfast when I was studying in Dublin. Their coaches were a lot shittier back then. 
+Proprietary software. 
+He looks like the type of person that would own a lamp shade made of human skin. 
+I'd avoid the newer MacBooks, as they still don't support GNU/Linux well at all. 
+
+Like some other people have mentioned, the X1 Carbon is a good option when you have unlimited funds. The HP Spectre is also supposed to be great, but Thinkpads generally have the most easily supported hardware. 
+Also a Democrat and Republican speciality. 
+I occasionally use Python, but I find there's very little I can't do with shell scripting and Awk. 
+
+That said, Learn Python the Hard Way was a big help when it came to learning the language. 
+How wonderful would it be if Tottenham and Chelsea both ended up playing on Thursdays? 
+Cool Pope Francis would approve. 
+The good thing about Lenovo (at least in my experience) is that they have sales pretty frequently. So I ended up getting mine for about $600 without any sort of student discount. 
+The good thing about Lenovo (at least in my experience) is that they have sales pretty frequently. So I ended up getting mine for about $600 without any sort of student discount. 
+I use a ThinkPad 13 to run Debian. It meets all your requirements, save the i7. The best they do is an i5, but it's a decent one. 
+Linus was inspired by MINIX and the GNU project, but he wrote Linux on his own. The two kernels are also pretty different, considering one is a microkernel (MINIX) while the other is monolithic (Linux). 
+Ken Thompson wrote the original Unix kernel in about a week, using assembly language. 
+I guess not Qarabag, since it's difficult for Armenians to enter the country. 
+Didn't Simon Stone or someone similar just say that Pereira is viewed as our 4th signing? 
+We could instead have Martial start in place of Mata. 
+
+That said, I think Jose is gonna try a variety of formations and starting 11s, so I'm sure Martial will get plenty of opportunities. We've only played a couple weak sides so far, and Herrera has been out of the starting 11 the last two weeks. 
+We'll take the job, but only if it includes a participation trophy. 
+Real Madrid is the only club that wouldn't benefit from adding Griezmann. Just because we beat West Ham doesn't mean we're suddenly so good that we no longer can improve. 
+But Stalin was Kartvelian. 
+I guess Josip Broz Tito probably had some unconventional allies, too. If Juggalos wanna fuck up some nazis, I'm cool with it. 
+He actually looks slim. 
+Haha my bad. I meant to type "dominate."
+It's scary that Madrid could still add Mbappe. Him, Asensio, Isco and Casemiro could donate for a long time. 
+Maybe I should take up alcoholism until inauguration day in 2021. 
+The McCaskeys are cheap as fuck. They aren't gonna build their own stadium. 
+I'm a United fan, but I accept you as a new member of the family. 
+Tastes like malware. 
+I consider myself a Democratic Socialist. 
+Funny how these nazi assholes only act tough when they outnumber you.
+I personally don't mind Crystal Palace. They hate the big London Clubs, I hate the big London Clubs. They haven't won shit, we've won everything. It's a lukewarm match made in heaven. 
+I would say that things were pretty similar when we made Dave Wannstedt head coach, but he actually had a better record at this point in his Bears career than does Fox. 
+Imagine going into 2018 with Pogba, Lukaku, Bale and Griezmann in the same side. 
+More like the face of people that peaked in middle school. 
+I sometimes forget how skillful Berbatov was.
+If the alt-right is so superior, why do they always need to use mace against unarmed counter-protestors? 
+I guess it depends on how you all go about retaining Coutinho. If it ends up being like Suarez, where you ask him to stay another season and say he's free to leave next summer, I think it'll be fine. 
+Probably not even the matches where his club played against Paul.
+Mustard tiger. 
+It's almost as if you can't trust Microsoft. Who would've thunk it? 
+I agree that he shouldn't be a regular starter, but I also don't think Jose plans on making him one. He's still good enough to be a late sub, start in the EFL cup, etc. It's just that if he were our top LW, we'd be in trouble. 
+He can, but he cuts inside too much. 
+Maybe we can find a way to get Bolt involved with the club as an ambassador of something He's a true red and an absolute legend. 
+I love Zlatan, but signing a striker should be low on our list of priorities. We still literally don't have a conventional​ wing player. 
+I think 3rd, but 1-4 should be very competitive. 
+As an American, it disgusts me how few of us know the magic of David Mitchell. 
+But would it really be worse than £50m for Perisic, who's the same age and has produced considerably less? Especially since Inter has reportedly tried to get us to include Martial in a loan deal? 
+We need another winger. Martial may produce, but he may also continue to regress. Regardless, he's not a natural winger. People like to talk about how great he is at cutting inside, but great wingers should also be able to contribute crosses, which is something Martial lacks.
+
+Do I want him to have a great season and hope he starts to play like an actual winger? Of course. Do I think it'll happen? No. Because he's a natural striker. 
+R9 with Giggs, Scholes and Beckham would be ridiculous. 
+I've been hoping we'd go after him. If people think Perisic looks fast, they should see Felipe Anderson. 
+Thank you for not assuming we all come from two parent households. If only all antagonizers we're as open-minded as you. 
+Apple's use of the Mach kernel: https://developer.apple.com/library/content/documentation/Darwin/Conceptual/KernelProgramming/BSD/BSD.html
+
+History of Linux: https://en.m.wikipedia.org/wiki/History_of_Linux?wprov=sfla1
+
+For good measure, here's a history of the Arpanet, which is the primitive version of the internet: https://en.m.wikipedia.org/wiki/ARPANET?wprov=sfla1
+
+The internet itself largely runs on GNU/Linux, a free and open source operating system. If you need a server, you're more than likely gonna use one of CentOS, Debian or Ubuntu as the OS, all of which are free (both libre and gratis). Before that, people used BSD or some other version of Unix, which owes much of it's development to university faculty or people not aiming to sell at a profit. 
+You're operating under the assumption that innovation is only possible in a capitalistic society, which isn't true. 
+
+Even if we were to focus on innovations that occur in capitalist countries, much of it comes from academic and non-profit organizations. Do you like Android? Well, its system kernel was the work of a college student in Finland. He based it on MINIX, which was written by Andrew Tanebbaum, who wanted a free operating system that could be studied by universities (not very capitalistic). Like your iPhone or MacBook? Well, their operating systems are based on BSD, which comes from UC-Berkeley. 
+I visited last April. Azerbaijan and Georgia have some of the most welcoming people I've ever met. 
+I'd say anyone with a good wingers. Imagine how good we'd be with a world class winger, like Hazard. 
+He's the same height as Scholes. Though Scholesy was also tough as nails and could bend that twig boy in two. 
+No. I think if Real got to the point of selling Bale, we'd be the only realistic suitor. He'd want to join another big club that could afford his massive wages, and Real are going to expect top dollar for him. 
+
+No need to include De Gea when we have the leverage. Plus, he's still miles ahead of Romero. 
+This was an unusual situation, because they (seemingly) circumvented FFP by giving Neymar the money and having him pay the buyout. Only Spain has those types or clauses in contracts, from what I understand, and I imagine they're going to work to prevent this from happening in the future. 
+
+So in a normal situation where they're paying a transfer fee directly to the club, United will still have more funds to work with than would PSG, given our insane sponsorship revenue. 
+My guess is neither. The only way I could see Bale leaving is if Madrid buys Mbappe, which is far from a guarantee, especially now that Barcelona has had a massive influx of cash. 
+
+Perisic, on the other hand, probably won't happen so long as Inter insist on getting Martial on loan. 
+Imagine if Lingard had his talent. 
+Can also add Rakim to that list. 
+I'm most drawn to GNU/Linux for ethical reasons. It ultimately does a better job of emulating the original, community-driven philosophy of Unix than do closed source Unix systems like macOS.  
+The calf equivalent to Roberto Carlos' thighs. 
+That and the Trestman quotes were among my favorites. 
+The fans roasting the team are always hilarious, but the actual article sucked ass this year. 
+GarPax will never deliver big-name free agents. 
+I think it has more to do with the fact that Valencia is almost 32, and Aurier is seemingly available at a cut rate. Aurier could rotate with Tony V at RB and play some LB this season, then become our first-choice RB in 2018. He should also be able to develop great chemistry with his national team squadmate Bailly. 
+I've read in some places that he can play on the left, as well, but I don't know how true that is. 
+He really put his neck on the line with this announcement. 
+Fellaini has been treated fairly by the fans. We long ago accepted that he's not Tony Kroos, and we've commended him for his professionalism and dedication to the club. 
+
+If he leaves, fans will miss his passion but not his production or skill. That's more than fair for a player of his quality at a club as big as United. 
+Hgurikh
+The thing that sucks about traffic in ATL is that it's unavoidable unless you live and work next to Marta stops. 
+I'd also recommend keeping an eye on Humble Bundle's book bundles. They've had some amazing deals on Linux e-books in the past. A Practical Guide to Linux (by Mark Sobell) is also extremely well-written. 
+Amazing how they can fit such a bloated OS into such a small box. 
+Does Glyn Milburn count as obscure? 
+Probably anything performed by Viktor Tsoi. 
+Linux Academy is quite good. And there's a lot you can learn from old-fashioned books. Linux Bible is awesome. 
+None of them are true wingers, though. Martial and Rashford are strikers that are playing on the wing in order to gain experience, while Mkhi and (especially) Mata are attacking midfielders. That doesn't mean they can't play on the wing (Mkhi played well at RW for Dortmund), but it's no secret that this squad lacks width and crossing ability, two things that Lingard also doesn't offer. If we can add someone that offers that, I couldn't care less what it does to our "balance."
+I wouldn't necessarily call myself a supporter, but I love to watch Dortmund. Their style of football is entertaining, their fans are incredibly passionate, and their kits are always top-notch. 
+
+I also pull for most of the vocally Antifa clubs whenever they're playing.
+Not the most impressive, but Pereira and Jones have played surprisingly well. 
+Isn't he from Milan? He's probably just visiting family. 
+If I'm clueless, why is seemingly everyone disagreeing with you? 🤔
+
+And he's been here two seasons and played terribly in one of them. Just because he's spent the majority of his time at winger doesn't make him one, just as Pogba playing in a deeper role at United doesn't mean he belongs there. They're played there because we don't have other options there, which is why we're chasing wingers and holding midfielders. 
+Martial isn't a winger. He's just a young striker that's played there in order to guarantee more game time. The problem is that he plays like someone that is thoroughly disinterested in being a winger, and counting on him to be our starting LW is going to limit Lukaku's production. 
+I feel like you could build a club of superstars out of his close friends. 
+I like Dortmund's site. It's kinda cool that they're the only big club to wear that color scheme. 
+It's not a dumb idea. Most American sports have a salary cap that I think is at least somewhat analogous. 
+
+Outside of trades and the draft, teams in American sports leagues add free agents, wherein they negotiate directly with the player (like free transfers) and don't give the players current/previous team anything. The salary becomes the primary force that determines the movement of players in free agency, so it makes sense to cap it in order to ensure the league remains competitive (as smaller market teams have the same salary cap as bigger market teams). 
+
+Capping transfer fees in the European leagues would likely have a similar effect. Many/most clubs will never come near it, but at least big clubs won't be able to spend quite as much. 
+I'd settle for any fucking signing that offers competition, at this point. 
+I hate the logo too, but until it hurts performance on the pitch (i.e. never), I'll be fine with us continuing to have a deal with Chevy. 
+Felé. 
+And I don't disagree. However, if Inter continue to act like cunts and we don't identify an alternative to Perisic, I'm not sure what else we can do. There are plenty of wingers I consider good enough to join the club, but that doesn't mean that Jose wants them. 
+Inter is valuing Perisic like he's fucking Ronaldo, and there seemingly aren't any other wingers that fit what we're after, so Martial should have plenty of opportunities to prove himself this season. 
+We got a badass over here.
+According to a lot of reliable sources, they're wrapping up their 4th transfer (so they're moving quicker than us), and one of those signings is from a side they'll be competing with for Champions League  football. 
+True. But at the same time, it doesn't seem to prevent City from taking care of business rather quickly. 
+If Milan can buy a new fucking team in one offseason, certainly the richest club in the World can bring in four new players. 
+Agreed. 
+Despite United being massively popular, there are still way more people that hate us than love us. Mourinho is also incredibly polarizing, so hardly any non-fans can be objective of our signings. 
+Would most agree to that statement? 
+What a waste of nice socks. 
+His skills have declined, but he's still a world-class piece of shit. 
+Granted, it's only a friendly, but City are still miles ahead of us when it comes to moving the ball.
+We could afford him, but there's better value to be had. For that price, you could buy a couple absolute world class players. 
+I like the cut of your jib. 
+No wonder he left Tottenham. 
+I've started responding to any insult in the same way Ken M would: by confidently replying with something that doesn't make any fucking sense. 
+I think he said something extremely similar last summer, before we had signed Pogba. Could mean that they want 4 players, but they feel like they need to see the way the window plays out. 
+At least based on what I'm reading, they turned down the same amount of up-front money that City paid for Bernardo fucking Silva. 
+Moreno is such a cunt. 
+If Cantona hadn't signed for United, who knows what the 90s would've looked like. 
+Jose may not have envisioned playing as much 4-3-3 with Griezmann in the side. 
+I could go for some naan, but garlic makes me reflux. 
+A lot of dogs look like Scooby, but this one IS him. 
+Who? 
+Such an ugly crest. 
+I'm not sure Mahrez fits the mold of a Mourinho winger, but I'm just speculating. That said, I still really like him, and I wouldn't be disappointed if we signed him. Especially for that price. 
+I'd have trouble coming up with 10 players that offer a better combination of talent and demonstrated ability to succeed in the PL. Sure, he's not on (or really anywhere near) the same level as Messi and Ronaldo, but I'd rate him as highly as I rate Hazard, whom I also consider top 10. 
+Agreed. I'm wary of players that age that haven't yet played in one of the four biggest leagues. 
+Granted, decimate was me being hyperbolic, but anyone would struggle to replace a guy that's one of the top 5-10 players in the world. Look what he did to our midfield during the first Derby last season. 
+Dybala or Neymar. Or maybe De Bruyne, since signing him would decimate City. 
+She brought a full bedroom to the beach. Who is this person? 
+A squad like that might have one successful cross all season, and it would have to come from a fullback. 
+If we managed to land Dybala, the #7 shirt should go to Woodward, because he'd be the true superstar of this club. 
+My man. 
+I had a pretty good experience with Learn Python the Hard Way. There might be more comprehensive books available, but it teaches you to think like a programmer. I felt like that made it invaluable. 
+Haha good point. 
+Looks like you have a half-brother that's a football player. Time to score some free tickets. 
+It's easy to forget how big Rashford is. Not just in terms of his guns, but also his height. 
+They'll change their tune when Big Dick Ed calls. 
+I spent the first 25 years of my life in Chicagoland, but I've been in metro Atlanta since. Currently in Decatur. 
+Thomas Lemar is sounding better and better. 
+I mean, we would've improved at 4 positions without a major dropoff at fulback (I don't rate Shaw any higher than Darmian). Plus we'll be adding Pereira to the midfield rotation. 
+Weigl would be nice, even if he needs to miss the first couple months. Carrick can fill in. 
+A natural winger is more urgent, but you can never have too many strikers. That is, unless you're Tottenham in like, 2007. 
+I think if Martial manages to improve his crossing, I'd be okay with him being the starter. But based on last season, I feel like there are better options out there (i.e. more conventional wingers). 
+True, but think of all the transfers that have happened well after July 1st, all the way up until the final end of the window. I don't know that we're necessarily in for Fabinho, but our not having signed him as of July 13th isn't necessarily a compelling reason to think we're not interested. For all we know we've been in negotiations with Monaco and just haven't agreed on a price. Basically only Jose and Woodward know the truth. 
+I mean, Bakayoko isn't done yet for Chelsea, but they clearly want him. Just because you want a player doesn't mean you'll be able to sign them right away. 
+I'm not sure Martial will fulfill his potential at United. Not because he lacks talent or even drive, but because I think it's the wrong situation and he's not a natural winger. 
+I couldn't agree more. I love the Bears and always will, but we're currently a laughingstock. Younger fans (and even younger players) don't give a shit about how good we we're in the 40s and 80s, because they weren't around to witness it. If we act like we're okay with the product that the McCaskeys are putting on the field, they'll have even less incentive to improve it. 
+I hope so, but we're gonna need to sign another midfielder and a winger. Otherwise we won't be that much improved from last season, and we'll really struggle to score. 
+Fuck that shit. 
+I mean, we've made the playoffs once in the last ten years and are coming off a 3-13 season. I'm more disgusted that our ownership has given news outlets the ammunition to come up with this type of shit. 
+Daily Mail said it, so that means it's definitely not happening. 
+If Verratti goes anywhere, it'll be Barcelona or Juventus.
+Dembele probably would cost Pogba/Lukaka money. He's worth it, but there's no way that Dortmund would even consider selling him for what we're likely offering for Perisic. Especially with Reus injured and Aubameyang on the outs. 
+I like both Dier and Fabinho, but I'm less inclined to believe transfer speculation, after the Lukaku move. For all we know, Mou's real top choice could be Weigl, or some other DM that we haven't given as much thought to. 
+I think he has the talent, but he'll never fulfil it at United. Maybe time in Ligue 1 will do him some good, as it seems to be doing for Balotelli and Depay. 
+Hopefully Pogba is also friends with Ousmane Dembele. 
+If you're right, you're officially promoted to God Tier. 
+Nah. Rooney is just gonna buy Lukaku's number from him. 
+You do realize that Ronaldo left before his prime, right? Even though Fergie wanted him to stay. I love Ronaldo, but there's no way he should be viewed as more loyal to United than Rooney, and loyalty has nothing to do with the stature of the player. If it did, only one club men would be viewed as all-time greats. 
+Considering Xavi, Zidane and others have called Scholes one of the best players of his generation, I think it's fair to say that "kids these days" aren't overating him. 
+Maybe an AIG logo will bring back the good karma from when they were our kit sponsor. 
+Or it could be from the shootout with police that I read about 30 times today. /s
+It just seems like an awful lot to pay for a 28 y/o that hasn't previously been chased by the big clubs (and has bee accused of being inconsistent). But you're right, if that ends up being the going rate for a winger of his caliber, then I shouldn't complain. 
+Twitter account seems fake, but I'm warming up to the possibility of us signing Perisic. He's an actual winger with crossing ability, which is something we're currently lacking. 
+
+However, if he really costs £48 million, we should look elsewhere. 
+That class is why I didn't/don't question Pace's decision to trade up for Trubisky. 
+Pogba is our biggest signing ever. He may have helped kick off our own Galacticos era.
+It'll be weird to see him go. He joined the club when I was 16, so I've been watching him longer than my entire adult life. However, him going back to Everyone feels like the right ending. 
+Simpsons did it. 
+None. Though I hate Crystal Palace slightly less than I hate everyone else in the PL that's not United. 
+Oof, I nearly forgot about the Vidal saga. 
+And sell us Hazard while he's at it. 
+Didn't Pedro also sign a United shirt when we were linked with him? 
+Now that picture has made me sad twice. 
+I don't blame the player necessarily/entirely, but Schneiderlin's United career was extremely disappointing. 
+Interesting. Then the Pogba signing seems like even better value, in hindsight. 
+I'll believe it when Stormzy confirms it. 
+Memphis takes both. 
+I still prefer Fabinho, but if Jose wants Dier, then that's who we should sign. 
+Scholes is the best of my lifetime, no question. 
+By both is he talking about Lukaku and Rooney?
+
+Also, who's this fuckin guy? 
+I wanna say that when we purchased Pogba, we paid Raiola's fees in addition to the transfer fee. 
+Feels like the right time. I'm glad he got to stick around last year to win some more silverware and set records. 
+Signing both would make us better, but it would be costly. Beyond that, I doubt Morata wants to go from being a backup at Real to likely being a backup at United (or playing out of position). 
+I guess that's where Mourinho gave him his first start at Real. 
+What will the hashtag be when we announce the signing? 
+I feel like there's a bit too much going on with that kit. Might look better without the white and black at the end of the sleeves. 
+Fabinho and either a LB or wing (preferably the latter). I'm okay with making Shaw the starter, but I'm also okay with Jose replacing him with Semedo. That said, I'd consider finding a true winger a higher priority. 
+Check out the article from the Sun dated yesterday. They were wearing all white and celebrating the 4th of July. 
+
+Editing to include link from Lukaku's Instagram:
+
+https://www.instagram.com/p/BWJYmCYgWXj/
+I think that picture was initially reported on yesterday or the day before, before the Lukaku news broke. 
+Next Jan Koller, that one. 
+There's basically no chance of it happening, but if we did sign Lukaku *and* Morata, I guess Lukaku would get #10. 
+I think the Bears are really plagued by the "we're not very good," curse. 
+Khachapuri might be the only food better than pizza. 
+That's horrible. The only reason numbers used to look like that on NFL and NBA jerseys is because of the perforation. 
+I'm starting to think that if you're gonna buy a OnePlus phone, you should do it in even numbered years. The OnePlus 1 and 3/3T are solid, while the 2 and 5 seem inferior to competing products. 
+Granted, I'm also worried about the lack of transfers. But we also don't exactly know what players we're after. The list could look dramatically different (and potentially more impressive) than what's been rumored by the press. Maybe that explains the lack of additional signings? 
+Not the biggest, and I don't know that it was really avoidable, but losing Pique really stung (in hindsight). 
+Almost makes up for losing two CL finals to them, right? 
+Yes, landing a goalkeeper that's fallen out of favor with Man Shitty will certainly be earth shattering. 
+Damn. If they get to train in that environment, I'd have a hard time leaving Monaco. 
+One Werner and one Goretzka, please. 
+He's a good player, but my reservations stemmed from the combination of his reported fee and somewhat advanced age. 28 isn't old by any means, but it may take him a season to acclimate to the PL, by which time he'll be nearing 30. 
+
+If we're gonna pay a lot, I'd rather go for someone younger like Bernardeschi. He's less proven, but he could spend many more years with the club. 
+Ronaldo
+Scholes
+Giggs
+Keano
+Cantona
+
+I honestly have trouble putting anyone ahead of Scholes, but Ronaldo is a generational talent. However, I have no trouble putting Scholes ahead of everyone else. Just look at all the praise that's been heaped on him by Xavi, Xabi Alonso, Ronaldo and Zidane. 
+
+Cantona would've been higher if he spent longer in the PL. 
+Not the first time, but one of the worst times was during the Pedro saga. That shit went on forever and ended in disappointment. 
+Bernardeschi would be nice. 
+This makes me think I could get a kit signed by some Saturday league players and no one would know the difference. 
+But why would we be any less focused on Europe now that we're playing in the CL? If anything, we'll be more focused on it.
+
+I want to give Rashford and Martial a chance, but neither has demonstrated that they can be the first choice striker on a team that competes for the league title and the late stages of the Champions League. That's why we brought in Zlatan. I mean, they combined for 9 league goals last season in 50+ matches between them. Zlatan had 17 by himself, and we still didn't score remotely enough to compete with clubs like Chelsea. 
+
+
+Exactly. Plus, if we ignore this transfer market and don't secure Champions League football for 2018/19, teams will probably be able to charge us even more in transfer fees because we'll clearly be desperate.
+This team as it's currently constructed would be lucky to finish in 6th. We'd be losing our best goal scorer from last season without replacing him. 
+I mean, he's better than the 0 natural wingers that we have. And he was good enough for Sir Alex. 
+Haha whoops. Yeah, I meant Ashley Young. Though younger versions of both of them would be quite nice. 
+He's getting a bit long in the tooth, which is unfortunate because a prime Ashley Cole is the type of player we're missing. 
+Sounds like the story is made up. There were claims that he had dinner in Manchester with Pep, but apparently Pep wasn't even in Manchester today. 
+Felipe Anderson, maybe? I admittedly haven't seen many Lazio games (partly because I hate them), but he has a lot of experience for only being 24
+Kinda easy when you pick their young, unproven players. If you make apples to apples comparisons like Sterling and De Bruyne vs Mkhi/Mata, or Aguero vs Rashford/Morata, suddenly we don't look as good. 
+More like De Bruyne, Aguero, Silva, and every other quality signing they've had since towards the end of the Ferguson era. I hate City, but they're better than we are right now. They might be bad at finding central defenders, but they've done better at filling nearly every other position for several years. 
+I'll stick with believing Di Marzio, for now. However, it would be very post-Fergie United to sign Matic and watch City snap up Fabinho, only to have Matic be mediocre and Fabinho blossom into a star. 
+The John O'Shea for this generation of United. Not a world beater, but he can play in a number of positions without being a liability. 
+I think a striker and defensive midfielder are greater priorities, but signing a legitimate winger to play on either side is also a priority. Felipe Anderson would be a great signing, in my opinion.
+Valderrama confirmed. 
+It wasn't sold by United, but a street vendor in Cancun was selling Day of the Dead skulls painted with football team logos. He was out of Man U skulls, sadly, or I would've bought one. 
+Kevin de Bruyne has been sold to somewhere outside the PL. 
+That would be the perfect way to end the season. Especially if they also finished second to us in the league and lost to us in the FA Cup Final. 
+I wish I could upvote that Alan Smith comment more than once. 
+
+A lot of people on this sub seem like they'd rather sign the player they believe is a prototypical Mourinho striker (regardless of his actual goal scoring abilities), as opposed to signing possibly the 3rd best forward in the entire world. Makes no sense. 
+The Mirror is shit. Also, why would Harry Kane want to leave? He grew up in North London and plays for a  club that's better than us, currently. 
+Reading that City has signed Aubamayeng would be pretty bad. 
+Carlo Ancelotti remains criminally underrated. 
+Lingard works hard, but he's just not very good. He can score goals if he happens to be in the exact right position at the right time, but he he never manages to create plays. 
+
+I get why people like him, given how clearly committed he is to being at United. However, we should want players like the Baby-Faced Assassin to be our super subs, not Lingard. 
+They're among the lowest of the low, unfortunately. 
+I guess I shouldn't say that it makes sense, but it at least seems plausible. Clubs like Chelsea, for example, always wait until after July 1st to unveil all their signings. 
+
+Basically, what I'm saying is that I'll believe anything that supports my preferred narrative of us signing Fabinho. 
+I guess I don't really believe it yet. But if we do sign him, it makes sense that they'd wait until next week to announce it. 
+I like him, but part of me would be disappointed if we sign someone that's no longer good enough for Chelsea. If we end up with Morata and Matic while Chelsea gets Lukaku and Bakayoko, they would've landed better talents than us at both those positions (and were already better than us, to begin with). 
+I kinda doubt that any of the rumors were true. He probably never wanted to leave, which means he never used us (or at least not in this situation). 
+Dinamo Zagreb vs Hajduk Split is another good one. 
+It's not like we're gonna find anyone to take his contract. 
+He's a good mentor, if nothing else. Considering we have basically limitless resources, I'm cool with keeping him another year. He's not gonna keep Rashford or Martial from getting minutes, and this way we can guarantee he retires a Red (or at least guarantee he doesn't end his PL career with Everton).
+Those AIG years were great, both in terms of the quality of the team and the kits. I might like the 06/07 home kit more than any other from my lifetime, but 07/08 and 08/09 were also great. 
+Benfica. But I'm also not the one that created a thread on the topic. I merely indicated I have no reason to like any other club, let alone ones that hypothetically negotiate unfairly. 
+I'm sure we're interested, or at least I'd hope Jose and Ed can recognize his incredible talent. But it doesn't make much sense to pursue a player that would rather go someplace else. That ended up burning us pretty badly when we signed Di Maria. 
+Why aren't we allowed to be angry when they're unreasonable? Nothing says we need to like other clubs, particularly since every club in Europe can be viewed as a potential rival for trophies. 
+
+As far as I'm concerned, every other club can go fuck themselves. 
+Why do we want clubs to negotiate fairly for transfers? I feel like that question answers itself. 
+He won the double with Crystal Palace in my only play through. Clearly that was an accurate depiction of Palace's 16/17 season. 
+Not if Real says they won't pay it and Monaco are forced to sell to them, anyway. 
+Korea has compulsory military service for all men, so I'm sure they're real soldiers. However, their reactions are hilarious. 
+Not reinvesting the funds from the Ronaldo transfer was incredibly frustrating, but I'm also not convinced he had total control over determining how and whether to reinvest those funds. 
+
+That said, at the time I was desperately hoping that we'd bring back talent as opposed to money from that transfer. Especially since that was the same summer that Sneijder left Madrid for Inter, if I remember correctly. 
+Fuck that. 
+Do we need him specifically? No. But we absolutely need more attacking options. We had Zlatan, Rashford and Martial last season, and we couldn't produce nearly enough goals to compete with the likes of Chelsea.
+Right now, Marcelo. All-time would also be CR7 at United. 
+I'd be cool with it if it meant we'd sign Bernardeschi, instead.
+That too. Not to say that Morata isn't a great talent. But in a few short months, we went from thinking we'd have Zlatan partnered with Griezmann to hoping that we can land Morata and Perisic. 
+If this drags on and becomes a saga, it'll be the most uninteresting one that I can remember. 
+Same. Though I'd happily take Bernardeschi or Felipe Anderson over Perisic. 
+It must be nice to be able to make a career out of throwing shit at a wall and seeing what sticks. 
+I'd probably pay that much for Mbappe, too. 
+I agree. The Matic links are also worrying. If true, it'll feel like we're content to sign players that are no longer good enough for Chelsea or Real, rather than trying to compete with those clubs. 
+Ah, good point. I forgot about their defense of Suarez. 
+That's true. But I guess for me, I can at least respect Liverpool's history, no matter how insufferable their fans are. City, on the other hand, doesn't really have the past glory to justify their smugness. They just have an owner with unlimited money. 
+I felt that way until a few years ago. Now the answer is always City. 
+I found a few articles he's written for Goal and O Jogo, so hopefully his claim is legit. Fabinho would be a massive signing. 
+COME BACK ANY TIME! 
+That's my hope at this point. A lot of people don't like a two striker system, but we played in one for years. I'd also rather pay for Morata and Belotti than buy one and overpay for Perisic. 
+It's worked pretty well for Atletico. And Leicester won the league while playing it, though they obviously took a major step back once they lost Kante. 
+Imagine a diamond midfield of Mkhi, Pogba, Herrera and Fabinho, with Belotti and Morata up front. That said, Jose will never play a 4-4-2 :(
+I actually thought Nani was pretty entertaining, albeit frustrating. Kinda like Walcott is for Arsenal fans. 
+
+Evra was also fun to watch. 
+I keep hearing people say that, but I don't understand it. He might be the best striker in the world outside of Lewandowski. If he doesn't fit our mould for what a no 9 should be, then our talent evaluation is flawed. 
+Why is this getting upvoted? 
+Aubameyang, hands down. It'll never happen though, so my realistic vote would go to Belotti. 
+Yeah. I'd much rather have someone like Fabinho that should be playing at a high level for the next ten years. 
+Same. At least he's a starter. 
+Agreed.  Also, why settle for playing someone out-of-position at the #10 when we have limitless resources? 
+Spotify web player should also work on Fedora. 
+Are we talking about bringing their in-their-prime versions back to UTD, or their current versions? If the former, then Scholes. 
+I honestly keep forgetting about him. He'd probably be the best of the lot, assuming he'd be willing to live in Manchester. 
+Gotcha. Yeah, I've never really spent much time using Linux on a Chromebook, so I don't have much personal experience with it. I think Linus was using a Chromebook Pixel for a bit before switching to an XPS 13, but I could be misremembering. 
+Linux can run on most machines that come with Windows installed. It can actually run on Chromebooks, too (ChromeOS is just a fork of Linux), but I prefer to just install it on PCs. Particularly if price is a consideration, you can usually find used Thinkpads for fairly cheap on eBay. 
+True. But you could always get a used laptop and install GNU/Linux.
+I personally like him. I'd still prefer Belotti, but Morata would be a nice consolation prize, particularly if Jose wants him. 
+That's true. But at the same time, Dortmund have done quite well without Klopp. They're both great managers, regardless, but Jose has had more success, and in a greater number of situations, and he's gotten plenty out of non-elite players. 
+Mou won the Champions League with Porto. I think it's fair to say he gets a lot out of mediocre players. 
+Part of me prefers Belotti, but Lukaku is actually proven in the PL. 
+I've considered switching to wildflowers for that very reason. Only needs to be mowed once per year. 
+r/shittyfoodporn
+It's geared more towards freedom than security, but I sometimes use GNU Icefox. 
+Makes the leg break totes worth it. 
+Air purifiers seemed to help my car allergy a lot, too. 
+Postmates delivers ice cream. 
+Not sure I agree with Sylvia Anna and Olgierd being classified as villains. 
+The Premier League has a deal with NBC, so there's usually a match or two on there every week. If you have NBC Sports Network, you can see virtually all of them. Depending on how much you're paying for your current cable package, it may make sense to switch to something like Sling or PS Vue. 
+The Nether Zone is easily my favorite episode. 
+4 years old and already cooler than I'll ever be. 
+Another fugly, racist asshole that inexplicably thinks they have superior genes. 
+Atom and Vim are all I need. 
+What is your spaghetti policy here? 
+I kinda wonder if they're training. Looks like the upstairs windows of that house are already boarded up. 
+I couldn't agree more. 
+I hear the Spectre is good. A guy at work recently picked one up and installed Arch on it. Sounds like it runs great, though there's only USB-C ports. 
+Yeah, the Galaxy S8 will most definitely have a better camera. But is it really worth the extra $400, particularly when it'll have more bloatware and likely worse battery life? 
+Dennis Ritchie, Ken Thompson (and Brian Kernighan, who is Canadian but unavoidably connected to the other two). Between them they wrote Unix, the C Programming Language, awk and Go (among other things). 
+
+Virtually everyone uses a Unix-like operating system, as those include Android, iOS, macOS (formerly OS X), Linux, BSD, Roku OS, Orbis OS (PS4), etc (basically everything that isn't Windows). C provided the foundation for nearly every modern programming language. You could therefore argue that the three have influenced the design of nearly every computer, server, smartphone and other smart device in existence, yet most people have no idea who they are. We tend to shower affection on people like Steve Jobs and Bill Gates, but they largely built empires on the back of engineers like Ritchie, Thompson and Kernighan. 
+
+On the same note, not nearly enough people are familiar with Grace Hopper, who wrote the first compiler and whose ideas led to the creation of high-level programming (which make programming much more accessible to non computer scientists). She also is often credited with coining the term "bug" when referring to issues with software. 
+If you're gonna buy an unlocked phone, why not wait for the OnePlus 5 and save $300-$400? Also, why not Zoidberg?
+GnU fUcKIn sLASh fuCkiN LiNux
+A house with an ocean view must've cost them a pretty penny. 
+Does r/gaming lead all of Reddit in reposts? 
+I would happily buy that shirt. 
+Pretty sure this picture was on Cracked like, 2 years ago. 
+Old school fake innovators and thieves. 
+Agreed 
+Sadly, if they do lose constituents, it'll only be for a single election. We Democrats are good at failing to capitalize on an opportunity, which is why we have the same incompetent congressional leadership that's been losing ground for years. 
+I'm still fucked up months after finishing Witcher 3. 
+Agreed. Fortunately, they make wall mounts now that you can pull out and over a mantle when they're in use, which is what I'm gonna be doing. But yeah, if someone is using their fireplace regularly, the TV shouldn't be there at all. 
+Lara Atkins from Word to the Wise wrote an interesting blog post on Unroll.me: https://wordtothewise.com/2017/04/mailbox-tools-are-a-security-risk/
+CounterLPT: install Linux and use Atom, emacs or Vim instead. 
+I think the RPi is also causing a lot more people to view GNU/Linux as a viable desktop OS, considering how well  Raspbian runs on a $30 machine. 
+Sadly, if it's the 2016 MB Pro, they won't even be able to run Linux properly. 
+Or like a robot butthole. 
+Chocolate and mint at midnight sounds like a recipe for terrible heartburn. 
+I'm on Gnome, so I merely view my desktop as I would any other directory. 
+I've had a good experience with my Thinkpad 13. It's not the perfect machine, but I got it on-sale for $600 and it checks all your boxes. 
+You could always report them to their email service provider. If this doesn't violate CAN-SPAM, it should at least violate most ESP's terms of use. 
+It's true that mistaking someone's ethnicity isn't inherently racist. However, when you use their race as the butt of a joke and don't even get the race right, it's pretty racist. 
+Should key that shit. 
+Chicago police say a lot of bullshit. 
+I majored in English and minored in Poli Sci, and now I'm an engineer at a well-known software company. I don't see why you can't major in history and go on to be successful, though keep in mind that it'll probably be difficult to land a job that specifically requires a history degree. 
+I basically leave gnome unaltered. 
+Congrats! This made my night. 
+Funny. I went to public schools and ended up becoming an engineer at a well-known tech company, all without becoming an asshole with low self-esteem. 
+He earned that, too. 
+I guess you didn't learn much about humility during your time at those schools. 
+If it were honest with itself, it would realize that the solution would be to replace Windows with GNU/Linux. 
+As someone who spends 8 hours per day working from the command line, I understand this. Your desktop is nothing more than another directory. 
+You do realize that it's considerably harder for Asian Americans to be accepted to universities​, right? And they're an ethnic minority. If anything, it's easiest for white Americans to get into college, as there isn't a "quota" on how many of them can be accepted, and they tend to face much less discrimination in their day to day lives. 
+The really fucked up part is that many of the more prestigious private universities have endowments large enough to cover everything every student's tuition, room and board, yet few of them do it. That's despite the fact that they could cover those costs while still having billions left for research. 
+ThinkPad 13 and nothing to complain about. I jumped around a bit for a while out of boredom, but I quickly came back to Fedora. 
+I just installed Manjaro after seeing how popular it has gotten on Distro Watch. It's okay, but unless you're dead-set on pacman (and assuming you aren't comfortable with Arch, Slackware, Gentoo, etc), I would probably recommend Fedora. It has a larger community and it'll be easier for a newbie to find instructions for installing software that works with the distro. 
+RegExr.com is a big help if you're new to regular expressions.  
+I mean, they donated to Notre Dame, which is one of the most respected universities in the country. 
+What the fuck. 
+Probably depends on what I need to do. 95% of the time or more, I can get by just using bash with a mix of sed, awk and other utilities. Since I'm better at Linux than I am at Python, I can generally accomplish things more quickly. 
+
+That said, there are times when it's hard to beat importing a Python module. 
+I think I've seen 3 or 4 variations of this same joke. 
+The original iPhone absolutely was a marvel, but that doesn't mean they remain amazing. 
+We'd have more historical artifacts if we didn't commit cultural (and literal) genocide against the people that lived here for thousands of years before us. 
+I don't have first-hand experience using the 2015 model with Linux, but at least one Dev at work has had horrible experiences trying to get Arch to run on it. 
+I can blame them for supporting Trump. 
+Eh, looked fake. 
+Ryan's Tutorials is a good place to start learning Linux, IMO. 
+Repost, but I ain't even mad. 
+I started working as a Sysadmin at a company where everyone assumed that Apple was better. Naturally, I gravitated towards Linux because fuck that iBullshit. 
+I was fortunate enough to visit Azerbaijan in April 2016. I'm not sure how happy they'd be to have American visitors in 2017 :( 
+Yeah, was gonna mention that all the windows on an Azerbaijan Airlines flight I took looked like that, and it was a brand new 787B. 
+Is your wife actually Ricky from Trailer Park Boys? 
+Just install GNU/Linux and you'll never have to deal with Microsoft's bullshit again. 
+I feel like this belongs in r/mildlyinfuriating
+Whatever they did seems like way more trouble than just opening command prompt. 
+So many man pages are horribly written, so I usually look for examples on StackOverflow or use the tldr man pages. 
+Going from a Note5 to a OnePlus 3. The OP3 came out less than a year later and cost considerably less money, yet it felt like a major upgrade in the areas where it matters most. 
+You're a masochistic. 
+I was an English major that went on to become an engineer at a software company. I ultimately would've been better off majoring in CS, but I feel like my liberal arts background allowed me to develop into a well-rounded engineer. 
+Very sweet, but it's also a repost. 
+Thinkpads are generally a safe bet when it comes to Linux, and it's easy to find one that fits your needs. 
+I don't see a Dreamcast, so 1/10. 
+Experience is the best way to learn Linux, but I also highly recommend picking up a good book. Ryan's Tutorials also has great beginner tutorials on Linux and Bash scripting. 
+I find your lack of Dreamcasts disturbing. 
+Chrome has a more than 50% market share now, so it's technically the most used browser in the world. IE + Edge are number 2, though. 
+Eating Vietnamese food like a goddamn hero. 
+Wouldn't it have made more sense to work towards a "real resolution" before taking office? You know, like coming up with a plan that didn't just involve telling legal residents that they can't come home. 
+She's a leech for becoming a doctor and doing her residency at one of the most respected medical institutions on the planet? Sounds like she's doing more for humanity than basically anyone I know. 
+You're kinda projecting human behaviour onto animals that mostly just wanna be left alone. Though I do agree that people shouldn't fuck with them. 
+Repost of a shopped image. 
+I ended up using PIA with OpenVPN, since I run Fedora at home. Maybe that'll work better?:
+
+https://www.privateinternetaccess.com/forum/discussion/18003/openvpn-step-by-step-setups-for-various-debian-based-linux-oss-with-videos-ubuntu-mint-debian
+Atom is better.. fight me. 
+Writing a new bot for the chat client we use at work. 
+From what I can find, it runs Debian. This just feels like a cash grab from another corporate monolith wanting to capitalize off of someone else's ideas and work.  
+It really depends on the distro. Arch has a reputation for being one of the most difficult to install, but running Ubuntu or Mint probably isn't anymore challenging than running Windows. 
+What am I even looking at? 
+Plasma and Nemo. 
+I haven't noticed any issues, but I'm on a ThinkPad 13. 
+Thinkpads are hard to beat. You can get newer models for a reasonable price, but there are serious bargains to be found when shopping for used models on eBay or Craigslist. 
+I moved to Atlanta a few years ago, and I currently work for a tech company with offices in a building that was formerly a massive Sears, Roebuck & Co warehouse. It also has a tower that's nearly identical to that one. 
+Late 90s shower thoughts? 
+I think you can edit Chrome's settings to prevent it from creating a new process for every tab, but then you're better off using Firefox, anyway. 
+That's a harsh overgeneralization. Have you ever tried befriending Muslims or attempted to learn and understand their cultures, or are you basing that statement on what you've read about them on Facebook? 
+I'm 29 and already preordered both the console and Breath of the Wild.
+From what I could find, there are 100+ matches for Thinkpad that appear to be certified for pre-install, at least. The Thinkpad 13 is among them, and it's what I currently have at home, running Fedora. I'm not sure if it quite meets your needs, since the choice of CPUs we're kinda meh, but it might still be worth checking out: 
+
+https://certification.ubuntu.com/hardware/201603-20851/
+
+
+You could always buy one of the many ThinkPad models that are certified by Canonical and install Ubuntu yourself. 
+They didn't handle it any worse than we did in Atlanta, where we ended up creating the worst traffic jam in American history. It took some of my co-workers more than 24 hours to make it home. 
+I've been a lifelong Nintendo fan, but their handling of the NES Classic and recent foray into mobile is seriously making me reconsider whether I should buy a Switch. 
+
+Regardless, the Classic is a needlessly limited piece of crap. RetroPie all the way. 
+A used ThinkPad seems like your best bet. 
+I'm pretty sure this used to be on Netflix. 
+Reminds me of when Pikachu cosplayed as Psyduck.
+Maybe use it to learn *Nix? It's possible to do some powerful things with a basic understanding of bash, particularly once you learn things like sed and awk. 
+I think you meant "the greatest game anyone has ever played, ever."
+Best recurring side character in Trailer Park Boys history. 
+I came here to say the same thing. Dragon Age: Inquisition is one of my all-time favorite games, but now it just seems kinda crappy compared to Witcher 3. 
+The answer is always Shenmue. 
+Maybe if they're sexist assholes. 
+:(
+Install Arch and learn Linux (if you don't already know it). 
+I'm all about forgiveness and the rehabilitation of our prison population, but there comes a point when someone is beyond rehabilitation and should spend the rest of their life in jail. 
+I didn't realize that animals could look smug. 
+The first new Star Wars I saw in theaters was Episode 1 😒
+I think it's genetics telling him to grow a longer neckbeard that he can comb over his chin and lip. 
+I'm more infuriated that they're using the native mail app. 
+Fuck you. 
+Karamoko Dembele didn't have much trouble with FCB's youth team.
+Reposts are 2016 in a nutshell. 
+Some people prefer MacBooks for their reliable hardware, but I'm with you. Give me a ThinkPad any day. 
+They never stop being your best friend. 
+I guess we should just abolish everything, because you say so. 
+Saying a rhyme ain't a crime. 
+I mean, the original song was pretty racist. 
+And may he burn in Hell for all of eternity. 
+The coolest fucking mugshot ever. 
+Depending on where you live, it may help to just apply for a Support position at a tech company, work there for a year, then attempt to transition to something in engineering. 
+I bought a ThinkPad 13 with 16 GB of RAM, a core i5 and a 256 GB SSD for ~$600, but that was with Black Friday/Cyber Monday prices. 
+But there are still loads of jobs available to people with a background in Linux, even at companies that utilize Puppet, Salt and the like. My company, for example, has Systems Engineers, Infrastructure Engineers, Networking Engineers (and Architects), Site Reliability Engineers, etc. OP just needs to find a speciality, if anything. 
+TIL that bash has a logo. 
+Multics? Seems computer science-related. 
+I think this belongs on r/shittyfoodporn 
+Because I'm sure someone that was handily beaten in the primaries would've somehow done better than the candidate that beat them. 
+Giving up meat isn't particularly hard, or at least it wasn't for me. Cheese, on the other hand, is incredibly difficult to live without. 
+Talk to the hospital administrators, insurance and pharmaceutical companies about that, not the doctors. 
+These goddamn onions. 
+Korea still has compulsory military service for all able-bodied men. 
+I'm only using 10 of the roughly 64 GBs of my phone's onboard storage, so I don't think I'll ever need a MicroSD slot. I care a lot more about battery size, RAM, the processor and even having a dual sim card tray for travel. 
+And no more TouchWiz. 
+I LOVE my OnePlus 3. My previous phone was a Note 5, so it was extremely liberating to switch to a phone running near Stock Android without all the bloatware that's typically associated with Samsung. 
+I think it's cheaper and more practical to just get a secondhand iPad and download Duet. Then you have an iPad that also can function as a 2nd screen. 
+I loved Azerbaijani food. Best kebab I've ever tasted. 
++1 anyone that doesn't like khachapuri can rot in hell. 
+Is your dad Paul Newman? 
+I immediately forget everything I know about Linux whenever someone is standing behind me saying to use a particular utility. 
+SPF ultimately isn't all that useful, since it performs validation against the MAIL FROM address, which the average MUA won't display, anyway. It's still WAY too easy to spoof the header from, assuming all your domain has configured is an SPF record. 
+
+DMARC (and therefore by necessity, DKIM), however, is incredibly useful. 

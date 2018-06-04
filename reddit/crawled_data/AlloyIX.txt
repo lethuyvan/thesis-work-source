@@ -1,0 +1,453 @@
+I got a Mexican Strat a little while ago in an HSS configuration (I figured if I wanted to get a single pickup at the bridge later on it would be easier to switch on a Strat). However, I noticed that the humbucker on it isn't great. It's worse than the one on my $100 Yamaha beginner guitar. It sounds quieter and has a lot less crunch/bite. It almost sounds somewhat muted. Is there a way to fix this besides changing the pickup?
+Had to log in just to reply to this. Born and raised in Ontario and I fucking hate bagged milk. Hate hate hate it. Maybe I'm an idiot but I always spill it. I work at a grocery store and every second bag of milk someone tries to buy is broken and leaking within the larger bag. I have a cousin in the US and whenever I visit I feel like a king, pouring milk from a jug. Don't care what people say about bags being more materially efficient or blah blah, bagged milk can fuck off and die.
+> I got it turned on for Nova Launcher, and it only listens when I'm on the home screens.
+
+I think the Google Now launcher might have similar settings for only listening on home screens.
+
+Yeah, there's no guarantee that Google isn't listening regardless of what our microphone settings for various things might be. But I'm sure they already know more about me from google searches and web activity and other stuff. Facebook is the scariest, I don't trust them at all. I would like to delete my account, but it's actually incredibly useful for school. Never heard of WeChat, but I'll avoid it if it ever comes up. I stopped using Hangouts three years ago after no one I knew was using it lol. I use WhatsApp as well, even before they encrypted everything. I'm surprised they did so when it was implemented after Facebook bought them out.
+
+I check the permissions of apps before installing as well, and I'll revoke many questionable permissions when I install any app, and revoke almost all permissions for questionable apps (and I avoid questionable apps unless neccessary). Never caused me any usage issues with any of them, which makes me question why a permission was there anyways when I'm never prompted to allow it after I've blocked it, and the app works perfectly fine.
+
+Yeah, I'll try to return it probably. It's a decent phone though, so I might keep it around as a backup. I'm also a little wary of reselling/returning phones because I've read factory resets on Android don't wipe all your data, and your sign-in tokens for apps are still recoverable. I think the article I read was before KitKat though, so I'm not sure if things have changed. But I doubt it's changed drastically, especially since I didn't encrypt this phone before I used it. Android encryption is inferior to Apple's anyway's, unfortunately. Apple uses hardware encryption, while only some Android phone support it as far as I understand it. Qualcomm seems to not really care about providing a good hardware solution for encryption on Android.
+
+I would have played around with my N5 before getting a temporary phone but I needed it immediately. Opening it up isn't as intimidating after seeing it done. It looks simple and safe enough. The power button on the Nexus 5 is attached to the motherboard, so I'll have to do some disassembling anyways haha
+Hmm, that's weird about the OP3 and OTG cables not working with more than one adaptor. Yeah, I think you'll need a proper USB-C OTG cable. $5 isn't too bad at least. But I won't need to deal with that thankfully, I guess waiting a bit was a good idea haha! I usually use Google Drive for moving around a few files.
+
+>It's especially pointless now that you can just hold down the home button and get the search bar or just say "okay google"
+
+I turned off okay google because I don't like google having the microphone always listening for voice commands. It's probably a baseless fear, but I wouldn't make use of it anyways. I uninstalled the facebook app for similar reasons, after there were reports that it used the microphone to listen to you and target ads, as well as its horrid effect on battery life. But holding down the home button to search is very useful, so yeah the ever present search bar is useless space and just taking up screen space.
+
+Ah, that's what tethering is. I've actually done that a few times, but I didn't recognize the term tethering for some reason! lol
+
+>the expected time was 8 days. So I guess it was pretty accurate for me.
+
+It's good that it was delivered on time for you, hopefully the Jan 6 is delivery date is on time and will be the latest for me.
+
+> That really sucks, were you able to resolve it?
+
+I haven't resolved it yet, I just went and bought a cheap $100 phone for now to use temporarily. It looks like the bootloop issues with Nexus 5's are typically power button issues, so when I have time I'll open up the back of the phone and clean the power button. I watched a tutorial on it, it looks like a pretty simple process. Since it's probably a hardware issue, I probably don't need to go into the bootloader menu, which is good since I don't know how to lol
+Thank you, I appreciate it :)
+The A7 is $519 CAD right now. But there was an amazing deal on it on Cyber Monday. It was like $459 or something (don't remember exactly how much), and came with a free charging brick and headphones (Beats I think). It looked pretty crazy, too good to be true. But ultimately I didn't need those extras and I didn't like the software at all.
+
+Yeah my N5 OS takes up about the same amount of space. I don't really mind, I still have like 6 gigs of free space on it anyways. I think I read that the OP3/T doesn't abide by USB C standards or something and OTG doesn't actually work with it. In any case, I went with the 128 GB 3T. I thought it would be much more than the 64 GB version (which was $599), but the 128 GB was only $40 dollars more. That's the price of an adaptor and SD card right there haha.
+
+I'll take Nova for a more thorough spin one day for sure. I turned off the Now screen on the leftmost swipe, because I didn't find it useful (I tried it out for a few months, but it was useless). I don't like the search bar always being there either, but I don't mind.
+
+>Congrats!
+ 
+Thanks! I'm super excited, I'm sure I'll quickly love it. What does tethering a phone to another do?
+
+Thanks for the heads up about the battery. I didn't even consider the temperature sensor being lost. I'm not too heavy with it so it usually doesn't get too hot. I'll keep that battery app in mind if I ever want to know more about my battery, thanks.
+
+> Mine showed up exactly one week after the order, so Jan 6 might just be the maximum wait depending on their supplies.
+
+Hopefully mine will come sooner! How long was your OP3 expected to come in? Mine was 5 weeks (well, 4 weeks now).
+
+I could really use the phone right now, my Nexus 5 just went into a freaking boot loop an hour ago! Now I'm out of a phone if I can't fix it (I've tried looking up how, but can't find anything relevant to my situation beyond it being power button issue, and I've tried the suggested fixes). This is a **really** bad time for me to lose the use of my phone, I'm on finals the next three weeks and I have work. I'm looking into buying a cheapo backup phone for now.
+I actually have a guitar that I play! It's pretty fun, even if I play terribly haha.
+Tomato tomato
+It would be pretty cool if OTA updates also work on custom ROMs and are as seamless an experience as stock OTA updates.
+
+Yeah, I believe the lack of an OOS download for the OP3T is due to it's novelty. Hopefully a vibrant custom scene will come for it with time. I'm pretty sure that the 3T will need a slightly different ROM since the hardware is slightly different (I've seen this info from a few places like the OP forums and XDA), but I wouldn't imagine the difference in the ROM to be anything too big.
+
+Yeah, I definitely prefer the vanilla Android experience. I was strongly considering the ZTE Axon 7, but the software experience just looked too different for me and I'm not interested in essentially being forced to flash a custom ROM if I wan't a vanilla experience from the get go. I'm disappointed the successor to the affordable Nexus line is the expensive Pixel line, but at least OnePlus is an option that offers a clean and even slightly improved nearly vanilla experience. Interestingly, I remember one review of the OP3 saying that OOS and all the files/apps/whatever it came with took up 15 GB of space on their review unit...which is a huge amount for such a (seemingly) mild tweaking of vanilla Android. My N5 OS uses way less.
+
+It's funny, I actually have Nova Launcher too because I bought it when it was on sale for really cheap, but I never use it. I only use the Google Now launcher. There's a *little* too much customization with Nova Launcher for me. I like a simpler experience, but I always have it around for when I want it.
+
+Just to let you know, I actually ended up ordering the 3T a couple of days ago! I just took the plunge. I'll still use my Nexus 5 for things, most likely for practicing and experimenting with custom ROMs before I would do anything to my 3T haha. I might even change the N5 battery and use it as a music player and a backup phone if the 3T ever needs repairs.
+
+I'm so excited to get the phone! But the expected delivery is January 6! Damn, what a long wait :( I hope it's worth it!
+I'm thinking Arby's
+No personal opinion myself, but I would imagine it's because people see Buzzfeed as offering no valuable or educational information beyond the clickbait hook, whereas this article in question does.
+
+Edit: spelling
+Interesting info about those different components and how updates work. Thanks for that.
+
+I had a question typed up for you about whether it's possible to flash OnePlus's official OxygenOS (OOS) after you've installed a custom ROM, but some research I did before I posted the comment showed that yes it's possible, and you'll still get OTA updates (which is great news) haha. But OP only has an OOS download for the OP3, not the 3T. I hope they support it. And I hope the custom ROM community supports the 3T as well, because I've heard that some well respected custom ROM makers are angry with the 3T and might not support it.
+
+So the groups that release their custom ROMs probably include the latest Android Security Level Patches as well?
+
+I don't think Oxygen OS (OOS) is developed by CyanogenMod (CM), but OOS might have been built off of CM from the OP1 (as far as I know, CM was only used for the OP1, after that OOS, developed by OnePlus, is used). I think I remember the OnePlus CEO saying they'll never release their full operating system code (which is understandable), so I hope the custom ROMs out there are pretty close to replicating it.
+The real LPT is always in the comments
+She must be out, or she'd pick up the phone
+Thanks for insight into how you update your phone, I found it very interesting. I might not want to go through the effort to do it myself, but if I do I'll keep your comment in mind and use similar procedures. Yeah, flashing a custom ROM is always an option after official updates stop, so I'm glad to hear they've gotten easier to do. Thanks for those app links by the way.
+
+I like to use my phone for opening email/sms links (obviously not spam or questionable stuff ofc) and web browsing, so I'd definitely like the security updates for those reasons. How do security updates (like exploit patches) work; are they included in the flashing of a custom ROM? or are they separate things that must be downloaded?
+
+Interesting, I got a push update for my N5 about a month ago. Which is nice, because it means that even though Google no longer updates the OS to a brand new version level (M to N), they still send out security updates. I hope that's what OnePlus will do after they've abandoned officially bringing new Android versions to their phones. Yeah, I've even heard of someone/group making a ROM for the Galaxy Nexus for Nougat for example. Run's terribly I'm sure, but there's always a use for the hardware lol.
+
+Yeah, that's basically the tradeoff I'm considering. If I want a decent spec phone in the mid priced range, they'll face similar software support issues as OnePlus. If I want a phone for the convenience of consistent and long-term software support, I'll need to pay more. I think I can get away with using the OnePlus 3 until they stop pushing official updates, at which point I can either continue without any updates, or learn to do the tinkering to get a custom ROM installed.
+Cool, I'll check it out. Thanks for the suggestions dude
+Type II error right?
+Yeah, the process itself isn't complicated, but I don't have great dexterity. But I'll probably still give it a go. Any batteries that you recommend, perhaps the one you used? I don't want some cheap battery to destroy my phone lol
+Thanks for the case suggestions. Hopefully in a while there will be those types on Amazon Canada. Other online retailers will get my business if not. The OP3 and OP3T are indeed identically shaped, which they confirmed in that AMA. So that's pretty good.
+
+Yeah, the affordable Nexus/Pixel train has left so I'm not really sure what I could be holding out and waiting for. Maybe some Motorola phone, or a phone from some other Chinese company. But they probably won't be as nice and have high specs for a decent price like a OnePlus would.
+
+You can manually update the firmware? I thought that was a thing only manufacturers can do. And I suppose I could flash a custom ROM. I'm just worried that it's too hard, that I'll permanently mess my phone up, and that I have to wipe it every time I want to update. Seems like a pain when I'm the type who wants the phone to just work without manual fixes haha
+Thanks for the great info about power banks, it was very useful! I’ll keep it in mind.
+
+Yeah I was thinking the SIM card itself may have been the issue. I’ve tried cleaning the SIM contact plates with a cloth, but not rubbing alcohol. I'll try that out, and if it doesn't work I can go to my provider and ask.
+
+I actually have a very similar case for my N5. It has a kickstand and that 2 piece case design. It's great and I like it a lot! I agree, I would like that case a lot probably. Too bad there's none of those cases on Amazon Canada (there are other kickstand cases but they look very bad lol). I could search eBay or Aliexpress. The name brand cases industry is a racket lol.
+
+I don’t have a screen protector for my N5 and the screen is actually perfect still. Perhaps I've been lucky. It's probably been protected by my case's lip, and my being careful with it. It sounds like you’ve encountered way too many issues with that that tempered glass screen protector haha. I'll probably pass on it if I were to get the OP3, since my Nexus has been fine without it. I noticed Spigen has a version 2 of their OP3 tgsp though. Thanks for the screen protector info.
+
+To be honest, at this point I'm actually back to thinking I won't get the 3T. My Nexus has no major issues and it serves my needs more than enough. And I was actually super close to getting a 3T last night; I was a click away from placing the order. But I decided to do some last minute research on OnePlus as a company, and it kind of scared me off. They're horrible with software updates apparently. I don't need the latest and greatest (I'm happy with M on my Nexus and have no desire for more), but bug fixes and security updates are essential. They can't even provide those it appears. I was reading the AMA that happened a week or two ago with the OP staff about the 3T, and they ignored every single question about the OP2, when it will get updates in the future and what it's update future is in general. For a phone that's only a year old, it's very scary that they've seemingly abandoned it. Maybe I'm spoiled with Google and the Nexus line, but I expect at least two years of updates. And I can't really compromise on the lack of security updates and bug fixes. That makes me sad, because the OP3T looks soo good. Do you think OnePlus will change their tune going forward about consistent and long term support? Past evidence suggests it's highly unlikely, but I want a reason to get the 3T haha
+Thanks for the info, I'll definitely consider it! I'd be scared of screwing up my phone in the process, but then I'd have a legit reason to upgrade lol. It didn't look too hard in that video. And even if I don't do a battery swap, I'll probably still stick with the Nexus for a while. Or maybe not. I don't know lol.
+That sounds like some pretty good results. I think I can get a lot more life out of this phone if I replace the battery. I suppose I don't really need a new phone. How do you replace it though? I know the plastic back has glue and clips connecting it that can be removed, but can it be reattached good enough? And is the battery easy to replace in terms of taking it out and reconnecting a new one? If it requires any kind of soldering then I'll probably pass lol. Any good beginner step-by-step guides?
+Yeah, you nailed the real question. My Nexus 5 satisfies all my needs for now (even if it isn't always the fastest while doing so), because I'm not too heavy on it. The battery is awful though (1 hour on a reddit app can bring the charge from like 100% to 20%). But it's actually quite manageable with my usage patterns.
+
+Realistically, I don't know if I can get more than another 8 months of use out of the N5 anyways, since all the issues will be worse and more may crop up. As an aside, I have this really annoying SIM card issue on the N5 where it doesn't detect it, and can only be solved by restarting the phone (I've tried all the other fixes).
+
+Given that, I'll need a new phone, if not now than in the coming months. And another good phone for a (relatively) decent price and great specs isn't guaranteed to come out in the next 6-8 months if I wait to upgrade, whereas the 3T *is* a phone like that and it's here right now. So I'm thinking I might as well get the 3T now. It's specs are really freaking good, so a phone that may come out in the upcoming months probably won't be that much better.
+
+I think I'm convincing myself, but I would feel bad not using a perfectly serviceable phone, and I don't exactly have a lot of money either lol. Thanks for quelling some reservations of mine about the size, by the way :) Do you use a case on your OP3? And how's the grip without one? If a case is too bulky, one of those skins to add grip without adding a case is always an option haha
+It doesn't sound too bad to hold onto, but it's probably slippery without a case, and any decently protective case would probably add enough bulk to make one handed use very hard. Really though, most phones with decent specs and price will probably be around 5.5", so no use in me disqualifying the OP3. I'll have to get used to it lol
+Oh gosh, now you've made my decision even harder! :) I'm a super indecisive person, so I'm unsure with most things I buy.
+
+I guess my reasoning was that I know I can get more life out of the N5, but I don't know if I can get one more years worth. I mean, I probably could in terms of it still functioning, but it'll be slower and worse with battery than it is now. Not really at a desirable level of functioning. So if I can realistically get another 6 months out of it, I'm wondering if there will be good mid priced flagships around that time next year. Will the next OnePlus be out then? Will it be priced reasonably? Will it be good, or crap? Those are the main questions I'm considering. The 3T is out now, and it meets those criteria about decent price (relatively) and good quality. I'm not guaranteed to find a good phone by waiting, so maybe I should bite the bullet and get the 3T now. But maybe I will find a good phone by waiting. Ugh, it's soo hard to choose :$
+How does holding a Nexus 5 sized phone (around 5") naked compare with holding the 3T naked? My N5 is perfect in the hand without a case, but I use a case anyways because I can be clumsy occasionally, and accidents happen. The case makes it hard to hold, so I'd love to ditch it, but I know I probably shouldn't based on past times I've dropped it and was saved by the case. I'm having a tough time deciding between a thick protective case, thin minimal case, or nothing for the 3T.
+Thanks for the reply! I've actually held my friend's OP3 sandstone case and it's incredibly nice. It looks very cool and premium, and it feels amazing in the hand. I'm sure you'll love it. The only reason I'm not seriously considering it myself is that after having held it, it doesn't seem capable of protecting the phone from much. It's more of an aesthetic thing, although the added grip definitely helps.
+Nice! I am so close to getting a OnePlus 3T myself, I'm just hesitating. I'm still holding on to my original Nexus 5 and I don't know if I can justify a switch. The OnePlus 3T is expensive in Canada :( And the Nexus 5 is such a great phone. I've treated it very well, but the battery life is pretty crap now. I feel bad abandoning such a good phone, but I think it's time to move on.
+
+Just curious, what tempered glass and case did you get for your 3T? I was researching cases earlier because the 3T is much bigger than the N5, and I don't have big hands so I need a case that's very grippy.
+This isn't strongly related, but in one class I had, I learned that economics doesn't take into account the environment or negative impacts on humans. The impact on the environment as a result of their economic activity isn't factored into their models or calculations whatsoever. Those impacts are labeled as "externalities", and these externalities are often imposed on our shared public resources, like the environment, on foreign countries and disadvantaged people, etc. For example, ~~selling electronic waste to China~~ paying China to take our electronic waste, who will happily accept it and who have no problem dumping it on their poorest citizens. The cleanup costs for environmental damage caused by economic activity is of course passed onto the taxpayer. A company would go with project A, which has high returns and a significant environmental impact, over project B, which has slightly lower returns but significantly less environmental impact, because the environmental impacts in A are "externalities" and don't get factored into their considerations whatsoever. I understand it can be hard to quantify environmental impact and costs, but I find it very disturbing that in *economics as a discipline*, anything other than the direct costs of business are classified and termed "externalities" and ignored. There's not even an attempt to factor them in as a cost of business (other than how much they can get away with before having to pay penalties, and which option is cheaper. Hint, it's usually the penalties). It's irresponsible and immoral.
+
+It seems like a similar case here, where the impact on people isn't considered important enough to give serious consideration. Those pesky humans, morals and rights, and the environment, getting in the way. Why should companies have social responsibility as an inherent feature? Their only inherent responsibility is to make as much money as possible, no big deal. Who cares if a compromise is considered worse than violating human decency and playing with civil liberties? Ideology and/or greed must be defended! I hope I didn't need an /s tag for those last lines
+
+Edit: realized I made a mistake in my China example, strike-through reflects changes
+thx bby 😘
+My days in one sentence. Close reddit app. Open 30 seconds later. Go do work on computer. First site opened is reddit. Open reddit app on phone while still on reddit on computer. I probably (certainty) have a reddit addiction. And a lot of the time I'm not necessarily enjoying it, but just mindlessly clicking through links.
+It's Stephen Rein, what do you think?
+Maybe they're taking about their own breasts?
+I've recently been trying to pick up the guitar again after giving up as a beginner like 8 years ago. It feels nice when you can play something that sounds like the actual song.
+I find cotton to be the most sensual of all the textile materials.
+Karl Pilkington?
+There's a chrome extension called AlienTube that replaces the YouTube comments below the video with the reddit comments from the various subreddits it was submitted to, if it was in fact submitted to reddit. It's a really easy way to see the reactions of different subreddits to the same video actually haha
+Fascinating article tracking the evolution of that Dante quote. Thanks
+Reminds me of the Dante Alighieri quote:
+
+The darkest places in hell are reserved for those who maintain their neutrality in times of moral crisis.
+I mean, it still might. You may want to get it tested.
+I may have been lucky, but when I voted (Canada) it was literally a 5-10 minute thing. I went, showed my ID, voted, and left, all within 10 minutes or less. Also, my local polling station was a 1 minute drive/10 minute walk.
+Ah, makes much more sense. Cents, huh? And here I've been complaining about the Canadian dollar compared to USD; at least it isn't as bad as that.
+
+Side question: there are many countries whose currency is like that: 3 000 000 whatever equals $10 000 USD. Does that have an impact on the daily cost of things for those citizens, or is everything, including income, scaled in the same way relative to the US dollar, so having an incredibly high numbered currency doesn't in fact make a difference to them?
+Oh, that makes sense. My fragile picture of reality is stable again. Thanks for the clarification!
+Holy fuck, *trillions* of income *net*!? How can a company net that much? It boggles the mind.
+But you are. You do realize that except for yourself, everyone here is a bot, right? Including me.
+That last picture has 4 different signs that say The Shire lmao
+Please someone make this into a Moving Pictures (by Rush) album cover somehow!
+I'll wait for the "Compliments" or "No Name" stuff
+But jalapeño Cheetos tho...
+Mild inconvenience? Enough of a reason for me
+Survivorman? More like *Wildman*!
+Also, burning alive seems like the most painful way to go. Much worse than jumping and dying (although if you survive the jump, I imagine the pain from a broken body, with no one around to help get you to a hospital, would possibly be as bad as burning).
+Didn't find it that funny at first, but when you put it like that it becomes hilarious!
+I think it's a joke
+Ah, the good old por
+\*accidently presses b\*
+
+...shit
+Lookin cool with the hat and glasses
+Wow, you weren't kidding. Those are stunning. That first one doesn't even look real
+Wool is a pain in the butt to wash though, and I'm really lazy so I'd rather avoid it lol. (And it's expensive, and I'm cheap)
+
+The lint on my feet is coming from the inside of the sock, not the outside/bottom, so I'm not sure whether a smoother insert to prevent abrasion would help. Haha, toe socks sound interesting! Don't think they'd be for me but I'll check them out.
+Someone down the thread was saying that discipline allows you to develop good habits which will eventually remove the need for the constant application of discipline on ourselves. Sounds pretty accurate, so that's good!
+It's irritating knowing there's so much lint, and it takes a bit longer to clean when I take my socks off.
+Or also, motivation is like the key to start the car, and discipline is the fuel. We can turn the key easily (initial motivation), but run out of fuel (discipline) very fast. Actually, I like yours more.
+Shit, am I going to lose my feet?
+In my experience, still not as much with the white socks. When I remove the lint from the afflicted areas, the amount of white lint is much less.
+Hey now, white socks with a black suit show you're on a mission from God!
+
+Sidenote: I have mostly non-black (light grey and white) socks, (and also a few black pairs for formal dress!) and that's because black socks leave *huge* amounts of lint all over my feet. Between toes, between toenails, all over bottom of feet, etc. No matter what kind of sock I've worn, this happens. From expensive to cheap socks, dress to sport socks, etc. Why is this?!
+If they smell so bad, how do they taste?
+Holy crap, that first one was amazing.
+If man is still alive...
+oh im definitely already joined. i got to class 5 minutes late this morning 😎
+cuz ur not a mad lad. prove me wrong
+no u wouldnt
+It was an excellent musical! An amazing cast with hilarious content. You'll definitely love it.
+Yeah, the comedians on that podcast try to move the conversation forward, or at least in a more "explanation for laymen" direction. Except Eugene Mirman, he's kind of funny (albeit very predictable), but I don't find he adds much to the educational aspect of things.
+You're welcome.
+Wait, it that the guy from The Office on the left?
+TOOL is TOOL.
+What are "rubs on the chin"?
+I was thinking of getting "FUCK THE POLICE" on my forehead.
+Interestingly, in this one class I took, we read excerpts from Normal Accidents by Charles Perrow, who argued safety features and redundancies can actually make a system less safe, by increasing the amount of unpredictable and complex interactions, which can start out small and cause huge cascading effects. Complex, tightly coupled (highly interdependent; no buffer time between processes, etc) systems are impossible to predict, which means accidents cannot be prevented and will inevitably happen, which is why he calls them "Normal Accidents". Operator error is also a huge point of failure in a system in his view, due to operator complacency/inattentiveness caused by increased automation, improper training and poor understanding of how things operate following the introduction of brand new technologies, etc. To him, technology isn't the problem; the problems are societal and organizational. He did a really interesting case study on the Three Mile Island nuclear reactor accident as well. I don't know why I wrote all this. That was probably the most interesting class I've ever taken. I should read the whole book one day.
+...oh
+What's the name of the group? sounds fun
+Good point about many possible interpretations being needed to allow for moderation in the religion! I hadn't though of it that way before.
+Thanks! The ending there certainly does say the first covenant is obsolete. And it's stated in a pretty strong, unambiguous way. Now I wonder how many passages contradict it lol
+Agreed, but some people benefit from the structure of school though. Self-learning can be hard if you want to be deep and thorough in your learning. I know I couldn't handle learning as complex a subject as law or whatever by myself. But I'd love to just take a few classes in my interests for fun.
+Do you know the specific verse where Jesus declares that the Old Testament should essentially be ignored, and that the New Testament is the only one which should be followed? Because if that's true (and not just some weakly-stated/ambiguous/easy-to-interpret-either-way passage) that would settle the issue of Christians not having to follow the Old Testament, where the majority of violence seems to be advocated. I'm skeptical, because if Jesus declared the Old Testament essentially void, why do Christians still include the Old Testament in the practicing of their faith (ie reading passages from it during mass) and even in their Holy Book itself? (not the strongest argument, I know, but I admittedly haven't done much research). Then there's also the question of if there are any passages advocating violence in the New Testament. Because if so, that is another problem for consideration. Not attacking you or anyone, just genuinely curious and wanting to learn. This question is also open to anyone of course.
+
+Edit: upon further reading of this thread, it seems that there was a debate within the early church about which parts of the Old Testament were valid and should be followed. So it appears that it's not an all-or-nothing issue with regards to accepting or rejecting the Old Testament, but rather that some parts of it are valid and others not (or to be uncharitable, cherry picking). I'm curious to see which parts of it the modern Catholic Church accepts and which parts it rejects, assuming it's not an ongoing debate going back centuries now. And of course other denominations of Christianity besides Catholicism may still accept the Old Testament in its entirety.
+https://i.imgur.com/dgGvgKF.png
+So, the TPP would be good in this case?
+Collections can self sort?
+Ye, leverage dat debt brah
+That guy is prolific af
+Cool, a lucky guess. It looks like a completely different language. I love how matter-of-factly it was stated too, "you do the math". Uh, yeah, totally :$ so fireballs are like the hammer from Smash
+No it's amber. It's especially more effective if there's a mosquito trapped in there from the Jurassic period.
+Is that some DnD stuff?
+
+
+>Everyone I know will be there. 
+
+Sounds like hell alright
+[How I imagine him](https://i.imgur.com/iBsCmDB.jpg)
+It was, but you gotta try right? :)
+Fun fact, it's morning in some parts of the world
+Omg those ears flapping as they trot along! Too cute!
+Ahh, I always close my apps after I'm done so that's probably it. I never considered that most users don't do this lol. The vast majority of my battery usage is from the screen as well (around 40%). I use Relay for reddit, and although I usually close it, the only times it's used over like 5% of my battery is when I'm using the app for over half an hour.
+I'd like to know as well. I'm going to uninstall the Facebook app because of this monitoring shit, but the messenger app is so damn good.
+You know, I've heard the battery complaint about the Facebook app so many times, but I frequently check my battery usage and Facebook never charts any battery usage at all when I don't use the app. And even when I do use it, the battery usage is miniscule. Of course, maybe the Facebook app hides its battery usage under different process names to trick us. I don't know if that's the case. However, this monitoring business is very worrying. I'll probably finally uninstall the app because of it. I just hate all the alternative apps, which are just the mobile site in app form (and I hate the mobile site).
+Look at this fatcat, able to afford eggs and shizz
+Cool. He really was. Heh, yeah that view might have caused some problems.
+Is your username a Frank Zappa reference btw? I fucking love the album Hot Rats
+That's so punk rock
+On the Facebook app for Android, how can I turn off notifications about notifications? I mean notifications like: "You have 35 unread notifications, 3 group updates, 4 close friends updates, etc...". Meta-notifications, if you will. I went into the app settings for notifications, and I see no options to turn off these meta-notifications. I don't want to go the nuclear option and turn off all notifications for the entire app, as I still want to see notifications about things like when I get tagged in something, friend requests, and stuff like that. But these meta-notifications are plaguing me. I get them constantly. Please help. Thanks!
+I didn't know this was an album, and not just the first picture, so I was considerably confused by what made this post funny. Thank you for helping this idiot, I laugh now.
+Lol thanks dude
+Is there anything similar for Canadian politicians?
+There's a bunch for different celebrities it seems. The most popular seems to be Jim Carrey. My favourite is Michael Cera though
+How did OP fuck up almost every detail about this picture??
+Thanks!
+Yeah, Goulet is definitely one I should look into. His website is a great resource, especially the nib size comparison tool. Hopefully shipping isn't outrageous though. Y'know, I found a Canadian vendor that sold online, but their prices were ridiculous. Waay more than Amazon for just the pen, with ridiculously high shipping on top. Thanks though :)
+Thanks. That kind of sucks, but not a huge problem.
+Thanks
+I would kill you right there
+Since we're on the topic of Metropolitan's, you say it comes with a converter. This allows you to use your own ink, right? Because I have many ink bottles and I'd rather not use disposable cartridges. And do you know if it will come with a converter if you buy the pen from Amazon, since I can't see any mention of it in the listing?
+Hey, who you calling stoopid!?
+How well does this work? Does it work on Amazon (where I do most of my online shopping)? And does it work in Canada? I have a feeling it's more US centric.
+That article was fascinating! I learned so much more about SpaceX's history.
+Can we talk about the fact that he seems to have a closet in his bathroom. That's dope
+What the fuck?
+I believe they're taking about the encrypted messaging app on Android called Signal. What is PGP though?
+I like this. I'm taking it.
+Sorry mate, I think you're dead
+Oh god, the memories of playing Super Monkey Ball with my friend when we were young! Soo fun. I wanna play it again now
+Incredible, thanks for posting!
+Ah, I've always used single quotes inside double quotes. The English way looks odd to me.
+They do that Jupiter song, right? Pretty decent
+What makes Christianity more logically advanced when it comes to freedom, according to Hegel?
+Are there other ways to do it?
+Roger that, we are Oscar Mike, over.
+TFW
+Google knows much, much worse about me
+The study of paleomagnetism
+I had a feeling each one would be "can't tell" after the first one.
+That article was great, if not terrifying; I fear for the future of the internet in Russia. It drew me deep into the story. I kind of wish it was longer, like novel length. 
+So (s)he's giving OP permission to be their hero lol
+Eat courteously pupper
+Math is fun
+I believe op said gif.
+Was he searching in the sun for another overload?
+Rivendell in the back is a cool idea.
+Ah, makes sense.
+If my personal front page and the subreddit /r/FrontPage are the same thing, how can the subreddit have over 6000 subscribers?
+(Talking about Caress of Steel)
+
+>the songs completely divorce themselves from reality, and even as fantasy stories, they’re as stupid as their titles sound.
+
+Don't know what's wrong with the author of this article. The stories of the songs and the lyrics were awesome to me. The Necromancer remains my favourite Rush song.
+Really cool design. It has all the elements that I'd want in a Tolkien tattoo. Unfortunate to hear it might not hold up too well
+No, but in Very Long Baseline Interferometry (VLBI), two radio telescopes use a quasar to measure the distance between the telescopes. Since quasars are so far away, they're essentially fixed points in the sky. The telescopes are pointed at the same quasar, and the time delay between the reception of identical radio signals from the quasar between the two telescopes tells us with millimetre precision how far apart the telescopes are. Which is the most accurate method of measuring long distances, and also the most expensive (due to expensive atomic clocks, like the ones GPS use). It can be used to measure how much tectonic plates shift.
+Holy shit, are those comics real? Pooh is such an asshole in them.
+Shit, your right. This is serious
+I've always thought I was 5' 10". Went to the doctor recently and got 5' 9.75". The fuck is that, I'm 5' 10"
+Wow, I've never heard this guy's music before, but it was really fucking good. Right up my alley. Thanks OP!
+I like how at the end he revealed the potential to find not just negative side effects of the combinations of different drugs, but also positive effects that wouldn't have otherwise occurred had the drugs been taken separately. Also makes a good case for why user data can be an incredibly useful source for research.
+Man I love this guy. But I don't see how the dildo and plastic vagina going at it would free themselves up.
+Seneca's letters are great. Yeah, he frequently quotes Epicurus in the early ones, less so in the later ones. You should definitely read more of Epicurus. The Vatican Sayings and the Principal Doctrines are good and quite short. Also, the Letter to Menoeceus that someone else mentioned is very good.
+At my universities' toilets, the water level is very high, and the toilet bowl is shallow, so it results in your dick being dipped into the water if you even slightly lean forward (or have a long member). It's incredibly annoying.
+Disabling custom CSS shows the downvote button.
+Agreed. Soliloquy is my favourite part of 2112. You can just feel the raw emotion coming from Geddy's voice and Alex's guitar.
+Really nice tattoo! Buckethead is one of my favourites, didn't expect to see a tattoo of him! I'd be worried about the vibrant colours fading though. What does the writing on your wrist mean?
+The video itself was way too funny! I'm dying.
+One of my favourite bands as of late. Check out their album Become the Sun, it's my favourite of theirs.
+I'm honestly not a fan of Android's emoji designs. I like them trying to make the emojis look more flat/material, but I hate the redesigned shapes.
+Cool, I didn't expect Hades. Thanks for the reply. I'll try to find the statue if it exists.
+Really nice! Does anyone know who/what the person in the top left is? The one with the beard and helmet. I've seen this in multiple tattoos and always thought it looked really cool. I might want it one day.
+Never was into comics, but good lord this was a funny article!
+/r/frugal_jerk is the more active one
+You've made the right decision, OP.
+Y'all know there's a button to view all the slides on one page, right?
+The royal we, you know, the editorial...
+That's my dream. Don't need a lot of money or anything fancy. But life makes that hard.
+East coast = .... beast coast?
+Thanks for the unambiguous answer.
+Cool looking tattoo. I like the colours as well.
+Bingo
+On the second last line, 7x is being subtracted from both sides. So 8x - 7x = x
+I see. Hopefully it works out. Thanks!
+Thanks for the response! Oh, I didn't realize nose blowing could do that. I'll stop immediately. I've been sneezing (involuntarily, of course) as well. Does this cause the same problem?
+
+Yes, I have an appointment in two weeks. I'll bring it up then. One more question (which I posted here yesterday, but no responses): Three of my wisdom teeth were removed completely, but the fourth one couldn't be fully removed because it was too close to nerves, at a very odd angle, etc. He only removed the crown. Is this bad? Can food get stuck there now? Thanks.
+Wait, Shaq has a doctorate? Wow, good for him. Always thought he was a super nice guy, but it appears he's also quite smart.
+Slow and heavy as fuck. Goddamn this is good. My favourite song from this album is The Wizard.
+!cabbagefacts.subscribe()
+Yeah, get 'em tiny bros!
+Yeah, it's too absurd not to be a joke. But if it weren't a joke, it seems right coming from Jeb of all people.
+Holy fuck I'm dying! The email's real! Jeb is literally a cartoon character
+Holy. Shit. How have I never noticed this. I've had the same question as the OP for a while, and you provided a perfect solution.
+I don't know about the last point, I only use proper grammar and spelling when I text. It just feels wrong otherwise.
+Interesting, never seen a tattoo like this. I like it.
+M'itsubishi
+Man, that was funny. Hope he comes back.
+This scene is contained in the movie Inception.
+/r/tautology ?
+Find the area of a plane in the solid. The plane would be a circle, so use pi*r^2. The radius would be an x value on the curve. Then, integrate the area from 0 to 4. Once you find the volume of the solid, [this](http://www.jiskha.com/display.cgi?id=1398796349) question I found online might possibly help with finding the m value for a line dividing the solid into two solids of equal volume. Change the bounds to [0, c] for the first integral and set that one equal to the same integral with bounds [c, 4]. Evaluate the integrals, and isolate c. I don't know if that will work, just thought I'd suggest it. I hate those work done pumping water out questions, don't know how to help. Sorry.
+Haha, *thanks*. But what I meant was this species in particular seemed more human-like than any other ape, chimp, monkey, and primates in general, that I've seen. I think it's their eyes.
+I can't explain it, but there's something oddly human-like about it.
+I hope fresh start doesn't mean cutting it all off! It looks great.
+I question my choice of breakfast cereal in the morning...
+Why does this "somebody" share the frequency of their random erections with you?
+I'm pretty sure the whole weed thing was Peter Jackson's doing though. In the book, wasn't it simply tobacco?
+OP is Michael Scott.
+Do they even Newton's First Law?
+Rushcast? Is that a podcast about Rush? How have I not heard of this! Caress of Steel is probably my favorite Rush album, but I don't really know any lesser known facts about it. Sorry :$ I do know that the album was considered a flop, and put their record deal in jeopardy. It was blamed especially on The Fountain of Lamenth and The Necromancer, which surprises me greatly since those are my favourite songs from it. Nothing I said that wasn't already on the wikipedia page though. Maybe try searching some songs from the album on songfacts.com . Good luck on the program!
+Why can't they just keep the caption? It's funny, accurate, and harmless.
+Honestly, nothing shitty about it. Good find OP.
+This is so cool! It's one of my new favourites, gives me inspiration for a future possible tattoo. But I just have to mention that you included Pluto lol.
+Yeah, and the person who designed those low underpasses was Robert Moses.
+
+>*So I saw this duck the other day...*
+
+
+*Wait, you saw this fuck the other day?!*
+Wow, one of the coolest examples of Brutalism I've seen.
+This is even better.
+Really cool, I like it a lot. Looks great in black and grey.
+I would love to walk through there one early morning.
+I don't know, but one time I saw an old lady clipping her nails on the bus. It was disgusting. Like, there are so many better times throughout the day to do this, why on the bus!
+But the hair is the wrong colour!
+
+
+>food library
+
+Metal
+I agree, but I like the lyrics of Working Man :) Also, to be fair, on the first album Geddy had to write the lyrics for each of the songs right before recording them, because Rutsey was supposed to write the lyrics but he ripped them up right before recording because he wasn't happy with them or something, and they could only afford studio time for the next two days. So he had like no time to really write the lyrics.
+I love that song, in my top 5 Rush songs for sure.
+What are you, a fucking park ranger?
+Or movies about gladiators.
+Exactly, we just need to seize the memes of production.
+One of my favourites. Van really is the man.
+That was very interesting. How can they afford to have humans powering it when there are so many users, I wonder (I don't know much about it though, maybe this is only a test release of it for review by tech sites)
+Recycling papers is considered plagiarism at my university. Did you ever get caught?
+Alex looks a little like Nathan Fillion here.
+Holy shit, the beginning of the movie and that house will stick with me. Just....I have no words
+Perhaps you should have planned your meals and bowl movements a few days in advance to have avoided this.
+Barnie Sandlers
+I have a copy of a more recent translation by Robert Bartlett and Susan Collins that I thought was pretty decent. I haven't read any other translations so I have nothing to compare it to, but I didn't have any complaints about it. Just wanted to throw that one into the mix.
+Well both look really good, so that must be where the confusion lies!
+This is so amazing! Honestly! We're you the person that did a calligraphy version of Blondie from the dollars trilogy too?
+My old philosophy professor said that in the US military it's standard for recruits to read the Enchiridion during training. I don't know how true this is, but I can see why it would be because Stoicism would really help in the military (I'd imagine, having no personal experience). Check out Rhonda Cornum, she's a former US Army officer and her story and outlook sounds exactly like that of a Stoic, although I don't believe she acknowledged Stoicism or is aware of it. Here: https://youtube.com/watch?v=5rRGDWeaoXY. It's worth the watch.
+Bee Gees tickets.
+I wonder how many are economic migrants.
+Holy...shit. I literally just started watching Beavis and Butt-head Do America on TV right now. Coincidence? I think so!
+April Wine has a great cover too!
+That was the Immigrant Song in School of Rock. The Destiny ads use Black Dog. But yeah, Led Zeppelin *rarely* seem to allow their music to be used in, well...anything. Didn't see that ad coming either.
+
+
+>blinking eyes independently
+
+Winking?
+Love me some J.J. Cale
+/r/TheSquadOnPoint
+My stock Nexus 5 occasionally has this pop-up
+Yeah, it looks cleaned unfortunately. A set eh? That's cool, maybe I'll run across others. Thanks for the info.
+Thanks for the information man! I thought it looked like it was made of something different, but I didn't think silver for some reason. It's a pretty cool coin.
+/r/me_irl
+*Playing Dust In the Wind*
+Sounds like a recorder.
+Spectacular! There was an amazing piece on Trajan's Column a couple months back in National Geographic magazine. Had a full fold out poster with the column and everything. It was actually originally painted. I really learned a lot about it!
+Moondance - Van Morrison
+Yes! Thank you, that's my favourite Rush album!
+Story of my life...
+Ah, that explains it. It looked quite damaged before, and is basically new from halfway up.
+Astonishing, doesn't look touched by time at all.
+What about "Quantum of Solace"?
+Well, the sub is called badphilosophy and I'm pretty bad at it so....yeah.
+Anyways, I had no idea Newton had this jerk streak in him. But I guess some scientists did and still do.
+What did Newton do?
+Ah, you're right. My bad.
+This was literally on TV yesterday and of course I had to watch it, as always when it comes on.
+No, he is a Maiar, a type of spirit. All of the wizards are Maiar. Look up "Wizard (Middle-earth)" on Wikipedia.
+How many pages are in each notebook?
+Snek?
+What?! You can't kill Paarthurnax, he's a total bro!
+What's the difference between a pike and a spear?
+Cat.
+Amazing, I had no idea Jain's built temples like this!
+This was an **amazing** reply, thank you so much! You answered all of my questions very well. I think I'll avoid Haldane and Kemp's translation. And I may first get Everyman's abridged version, because I don't know a lot about Schopenhauer and since this would be one of the first primary works of his I'll have read, the full version is a little daunting to me, like you said. So once again, thanks for the great reply.
+It's looks very cool. I like the medieval look.
+Hey there, I'm one of the few people that also loved Voyager!
+Thanks for the excellent reply. I'll definitely read the WWR. I have a few issues with his ideas (mainly with his idea of the Will, a metaphysical entity, which to me is an unknowable thing). But I haven't actually read him and his justification for it, so I probably don't understand it as he does. I think in general I'll find most of his ideas agreeable.
+What are Schopenhauer's ideas on ethics? And why did he reject Kant's ethics? I kind of like them...
+
+Also, if I may ask, what do you think is a good text or resource to start learning about Schopenhauer. I've been interested in him for a bit, but I'd like to know where to go to learn beyond a superficial understanding. I was thinking of buying The World as Will and Representation. Sorry for my greedy personal question.
+http://i.imgur.com/atsiR.gif
+Hey man, this aggression will not stand!
+First 'Don't Follow' and then 'Rooster'.
+http://31.media.tumblr.com/5ef2c118bb3e7ca9f273682f942905b9/tumblr_mskrbrYBk81r33r0fo1_400.gif
+Wow, what a bad boy.
+The Romans founded London.
+{x element R : x>=0}
+I'm Canadian. I wish we had $1 bills, I really hate the coins.
+Postdated too!
+Yeah, I've listened to this video before, very interesting. But I've heard Synaulia isn't as accurate as some other groups. I have no idea personally, though.
+That's pretty cool. It's amazing how much languages can influence each other.
+Really? That's pretty interesting actually. What's an example of a word like this?
+You must be exhausted.
+THE DAY I'M CORRECTED BY A RETA..... I'm sorry, sir, just trust the analysis.
+Or two birds stoned at once.
+Thanks, I wanted an image that wasn't a photo. This looks really nice
+Prob. It looks super similar, but not the same.
+It really did tie the room together
+I think it's the middle line, since South Korea and Russian are above and below Canada on the list
+Well it's okay, because the life support machine called
+Now naming my future dog this
+Blimps are almost never seen where I am, so it's actually interesting to me to see one.
+Ha, I actually love your version!
+Hmm, good analogy. I didn't consider how inhospitable the rest of the undeveloped land was. I know I would not want to move to those areas if given the choice. 
+I wasn't surprised about central Canada, but I was also really surprised that the BC population is so sparse. I thought it would have way more people
+What, he really needed that free guitar lesson.
+I figured, just wanted to get in on the action.
+Sorry, *spelling
+Maybe it's the app you're using. I use bacon reader, and when you open the gif link, it takes a little bit of time to load. The amount of time it took to load seems to be the same amount of time that the gif has already played.
+Holy crap, mint condition you lucky b*stard!
+*whispers* you're my boy
+To make it worse, these fuckers can get huge and can even kill a snake. I saw a video of that on YouTube, and the centipede owned the snake.
+True, the video is very well made for what it is (whatever that may be).
+No nightmares, just really confused. What's the point of this?
+In the worst case Ontario.
+I love Meatballs, such a good movie
+Baby carrots are just the undesirable carrots that are cut down to make them look more appealing. There are no actual baby carrots
+Moondance, by Van Morrison
+I've had mine for almost a year and so far its holding up great. I usually take off any watch I have when I wash dishes or shower. I usually keep on the weekender when I wash my hands, with a low water pressure. If you want an very durable watch for any situation, the weekender isn't that, but with responsible use, it is a very good watch. If I need to submerge the watch for long periods of time, I'll just take it off.
+Good point, I should have mentioned that. While the weekender is waterproof, it's rated up to 3 atm of pressure, which is okay for just some splashes and stuff. But I wouldn't recommend washing your hands with it on. Not that you can't, but the watch will last longer, since there is more than 3 atm of pressure coming from a tap. The digital I mentioned I'd rated at 10 atm, so it's safe to wash you hands, shower and swim with it on.
+Exactly what I thought of. This sculpture looks so similar.
+If you want a digital watch, I'd suggest the Timex Ironman 30 lap memory watch. It's easily the best and most durable watch I've ever had, with many great features and an unencumbered design (not like a g shock at all but just as strong). If you want an analog watch, I really like the Timex Weekender. Very simple and cool design. Both if these watches are waterproof, and very reliable. For affordable watches, I think Timex is the best.
+Hi
+When waking on the sidewalk, I step on the breaks with the other foot every other step
+Its funny, because with a chemistry degree, you'll probably only make 30k a year. You need to get a masters at the minimum if you want to make any kind of decent money.
+I used to hold b while the ball was in the air, then tap b as fast as possible as soon as the Pokemon enters the ball.
+This is actually a very good idea. Thanks for the tip.
+I think Marcus Aurelius put it best:
+"Live a good life. If there are gods and they are just, then they will not care how devout you have been, but will welcome you based on the virtues you have lived by. If there are gods, but unjust, then you should not want to worship them. If there are no gods, then you will be gone, but will have lived a noble life that will live on in the memories of your loved ones."
+I like to chew even amounts of food on each side of my mouth. It feels weird if one side isn't chewing.
+Go hulk on that thing and rip it apart
+I love this, it sounds so raw.
+Dragonite, so I can fly to places
+Follow subreddits you like. Just jump into a conversation. Check rising subreddits.
+That I'm hardworking, when I'm actually really lazy
+I didn't believe he was really here until you posted this.
+Whats an example of his bullshitting? I agree that maybe he maybe isn't the most qualified to talk about politics, but a lot of his points are really good
+Dude, I wish I had your talent
+Should prove more that pluto isn't a planet
+That's amazing. It makes my lifespan feel so insignificant in the grand scheme of things.
+I wish I had good handwriting

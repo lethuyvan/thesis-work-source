@@ -1,0 +1,999 @@
+It has a simple to remember 16 digit number at least.
+Doesn’t look nailed to me. It’s attached to the wall of the house with a simple hook catch so probably just pulls away after you unlatch it.
+The linter screaming at you “WHAT HAVE YOU DONE?!1?”
+>	I’m not gay
+
+With a username like `Marmite_Badger` ... are you sure?
+That’s more than enough time. Just make sure you use an agile process. That way, you’ve always got something shippable through the time you spend working on it even if it’s not feature complete. It’s better to have half an app that all works than it is to have a full app of half working things.
+Did you know, if you don’t set a start time, only an end time, the car changes the start time every day based on the SOC?  That way, set the end time for an hour after you will actually leave and never hit 100%
+No. If you want to make it hard to recover those things you need a full write through the whole disk. It’s in disk utility as a security option. You can do 7 write throughs if you like but bear these two things in mind:
+
+-	it will take flipping ages. You need perhaps several days of time for it to finish.
+-	it puts a huge stress on the hard drive. It might push it over the edge and the hard drive will be broken and unsaleable.
+And generate lint warnings if the comment doesn’t start with “Gets or sets the *variable_name*”
+I’ve seen this photo posted before.
+Sounds like you should be able to fit a few more Amazon Warehouses in then.  You know, like closer to people so it doesn’t take so longer for stock to reach them.
+`while (i++ != ++i) {
+   bbq();
+}`
+
+Happy? 🙂
+I don’t know how Americans put up with such slow shipping. Prime in the U.K. means order today and receive it tomorrow. I’ve ordered at 9pm Sat before and received it before midday Sunday.
+It’s Switch control, not Swift control. It’s for people like Stephen Hawking who could only interact with a switch. When the thing they want to tap is highlighted, they press the switch and the phone taps it.
+You read it wrong. The wedding ceremonies were 3 days. Then he spent 5 days “celebrating” his new wife if you see what I mean. What a dawg!
+It’s probably web based. The signs are most likely connected to ethernet.
+1! == 1 is true
+
+But:
+
+1 != 1 is false
+They’ll be picked up again. If you power cycle the bulb it’ll look for its hub, won’t find it and will go into pairing mode automatically.
+
+I had near identical issues with our Echo in the past. Factory reset did the trick for us.
+Almost. Have you actually changed the photo setting to Optimise iPhone Storage? If not you still have all your full size versions on your local storage. You need to turn that option on and Photos will free up space for apps over time.
+
+Check out the Settings > General > Storage screen for advice on freeing up storage including offloading unused apps which removes the apps you aren’t using regularly but leaves the icon on your home screen. When you next go to use it, it will redownload and look exactly like it did before it was removed automatically.
+Tap the phone on the back near the camera. It has a rattle sound in response. It’s the lens mounting bouncing around. When focusing the lens is positioned by magnets.
+There must be a Link somewhere
+This is an important cause. Many Scots haven’t ever seen ANY sun EVER. Their skin is incapable of surviving more than 60 seconds of exposure without the Scottish National Emergency Sunscreen (SNES for short).
+Now tell us a similar story about the cons of wired headphones.
+
+-	They’re often cheaply made to keep the costs super low.
+-	The wire catches on everything either throwing your iPhone off the desk when you catch it with your arm or ripping the headphone out of your ear. Maybe even breaking the wire and rendering them useless.
+-	The wire gets all sticky and dirty over time. It’s literally disgusting.
+-	You have to physically move them between devices to listen to something else and you can only stay within cords reach of that device.
+-	You have to repeatedly buy dongles that are expensive but break to plug them into your iPhone.
+They’re not all junk. My wife’s was built April 2016 and has 92% SOH after 2 years at 26000 miles. We never leave it sat at 100% for any length of time and set the charging timer up so it reaches 100% at exactly the time she leaves for a 30 mile commute Tue to Fri.
+Like base jumping? Awesome
+Space is not created, it is merely made available.
+It just sounded better than Quite Shite Britain.
+But you do all have to buy purchases on the same credit card, right?
+What you really need is 365 million cores so you can do it in 1 day.
+
+There must be some compute cluster on AWS or Azure that offers that level of scaling :)
+
+Try taking out the time delay and doing it in C for better speed.
+Ah right. Ok.
+It was the last one to contain an i7 processor. The “upgrade” in 2014 made the highest spec machine slower.
+You should check someone isn’t missing a kitten before you decide to keep it. It’s hardly “finders keepers” when it comes to animals.
+To be fair those good old days contributed quite heavily to land fill. Most users would end up throwing one of those items away unused.
+My goodness! Massive ear tufts AND the longest whiskers I’ve ever seen.
+That’s my photography lesson for the day
+I’d like to know people’s experiences on this too. I’m inclined to say Dark Sky has been more accurate overall so far for me, but Weather Underground did predict a thunderstorm the other night that Dark Sky said wouldn’t happen. It was a cracker of a storm at 3 am!
+Don’t forget you can double tap to switch weather sources quickly so you’re only really choosing the first weather source in the settings.
+I see. Do you have a reference for the 85% charge showing as 100%? I’m genuinely interested to see that’s what they’re doing.
+
+**Edit:** 2 days later, still no reference. That’s what I thought. Stop making stuff up.
+It’s not about safety. All I said was that charging up every night causes battery degradation. Whether you agree or not is of no consequence, it’s scientific fact that batteries at 100% end up coating the lithium ions in graphite which reduces their ability to provide power.
+It literally says it in the article you linked. Right before the heading for “Keep it cool”. If you charge it every night overnight regardless of whether it needs it or not, you keep the battery at 100% more often and this degrades its maximum capacity.
+There’s always a better error message to be displayed than “Unknown”.  To use your example you of course wouldn’t necessarily say 503 but you might say: “Sorry, we tried to post your comment but the Reddit server gave back an error. Would you like to try again?” Software doesn’t have to sound like it has no idea what’s going on to be friendly.
+Username checks out. Wasn’t even a joke!
+The doors should unlock automatically during an accident so don’t worry about it. Plus pulling the normal door release lever unlocks the doors so if you’re conscious enough to press the unlock button you’ll also be able to pull the lever which shouldn’t require illumination.
+Ah, the good old “Unknown Error”. I wish developers would stop with the “Unknown”. Every error is created for a reason and it’s never unknown.
+Certainly convenient, but just so you know in case you don’t, charging these devices for several hours each day when they’re not even below 50% will degrade their batteries faster. After some time you’ll have to charge them every day and they’ll run down to zero faster. Your charging habits will make that day come sooner.
+Never gonna happen. That’s a Boston Dynamics robot and nothing to do with Amazon.
+
+Or have I got the wrong end of the stick and the Jeff Bezos looking thing is your home butler?
+You can see the latest hooligan burning off down the hill in this photo. In a .... Corsa?!
+In the car park behind the camera.
+Lovely cat, btw. But I don’t like the portrait effect on cats. It does things like blurring out the whiskers and makes all the fluffy hairs around their face look like a solid line. I bet the non-portrait version is nicer. You can take the portrait filter back off a photo you’ve already taken if you want to in the edit menu.
+And the radiologist doesn’t contract early age tumours from accidental over exposure to gamma radiation.
+And it sits on the backs of elephants riding on the back of a giant turtle.
+When you take out a loan, the paperwork says you know of no reason why there would be a change in your circumstances during the loan period. If you sign and take the money knowing you’re going to die you’d be committing fraud so yes, the credit company would be entitled to take the loan back from the estate.
+Yuuuuuuck
+Nope, the thing I found isn’t there. Mine was to ask to get out the crystal ball. It’s hilariously funny IMO.
+I posted about something fun my Home did and the moderators removed my post. Not sure I understand why. Maybe if you’re not complaining you can get the f**k out!
+Were you looking at the actual history? It’s in the settings screen at the very bottom.
+One of my two won’t stop swatting at wasps and bees either. 🐝 I’m waiting for the day he comes in with a poorly paw like this.
+Boaty McMiniBoatFace
+Nope. This dog’s been injected with steroids and is being prepped for fighting. It’s ears have been cut off so they don’t get ripped off in a fight.
+
+Such horrible arseholes that do this.
+The diagonal measure is a marketing trick to make you think the X is larger at 5.8 inches vs 5.5 inches on the plus phone. But because the plus is wider and shorter in aspect ratio, the area of the screen is almost the same on both phones.
+
+However, the notch and rounded corners make the useable area of the iPhone X screen smaller. Apps have to avoid those areas of screen for normal UI components whereas they can go all the way to the edges of the plus sized screen without problems.
+Exactly. You define your own interface to the API in the form of a class. Nothing needs to know how that class gets its answers.
+
+There’s probably no need for the class to be singleton. Generally you only need a singleton if it has to maintain variables to be available all over the app or if it’s expensive to create a new instance like if the constructor parses a file to populate some fields. The main problem with singletons is that they consume memory that never gets released until the app is shut down and they can become confusing if they hold state because different callers of the singleton may change the state in ways you can’t predict and management of the state starts to fall to the callers of the class instead of by the class itself.
+You should still have your music as iTunes appears to have duplicated music as you imported it. You can test this. Instead of delete the music, move it to a folder on your desktop while iTunes isn’t running. Start up iTunes and see if all your music still plays. Set up a smart folder in iTunes that looks for music where the content is missing and it should hopefully be empty.
+It’s generally good programming design to put all your methods for requests to an external API in a separate class. This means you don’t then need to know about the endpoint for that API all over the place. Encapsulation will make your life easier in the long run.
+How very pink
+Ergo all injection moulding leads to dildos.
+I would suggest you focus your efforts on being a master of the UI which is uniquely important to touch interfaces. You need to be able to do complex layouts and handle touch gestures like swipes and pinches/rotations.
+
+Think of an app you’d like to make. Make it and put it on the Play Store. Nothing says “I can do Android development” like having an app on the store that employers can download and try.
+
+Your list is an excellent summary of Android development overall but I would say that’s what you’ll learn over years of employment, not what you learn before you start. By all means have a summary description of what each of those things is which will make you sound knowledgable in them but don’t try to learn them thoroughly or you’ll never have time to apply for jobs.
+The first rule of app development is releasing small changes regularly or else fall behind and lose customer faith.
+Correct. But so what? How are you going to generate another signature based on words people type in? You’ll never be able to let everyone choose their own wake word with the current hardware.
+Nerd!
+If it’s that easy, let me know when you’ve reprogrammed it.
+
+I guarantee you it’s not simple. The chip is dumb, like super dumb. It compares the waveform it hears with a known signature (maybe many different ones to cater for accents) for the wake word. Generates a score for the closeness of what it heard to the signature and once the score exceeds a threshold it wakes everything else up. It doesn’t consult the internet and doesn’t even know how the wake word it’s listen for is spelt. You can’t create a new signature just by typing a word in a box.
+Even if it can be flashed, which I’m sure it can, you can’t just flash it arbitrarily. It doesn’t even know how the wake word it’s listening for is spelt. It will have a series of shapes in a waveform it’s doing a fuzzy match against and if something that sounds like that is heard it’ll trigger the clever hardware to wake up. If you want new wake words, their waveforms need to be analysed and a signature for them created. You can’t just type the word in a box and flash away.
+Most people aren’t doing more than checking Facebook and their email. If you want to operate Excel for anything beyond tweaks or you want to use lots of apps at once, you need a proper laptop. Making the iPad more comprehensive will be the death of iPads. They serve a purpose that just isn’t the one you’re trying to achieve, but 95% of people don’t want all the hassle your needs bring with them.
+That article says using unexpected words bricks your Echo. This doesn’t surprise me. The Echo only knows how to listen for specific words. There’s a hard coded chip that’s both dumb and low power that only listens for hard-coded wake words. If it thinks it heard one it wakes up the high power intelligent chips that check to confirm the request. The dumb chip can’t listen for arbitrary words that Amazon hasn’t told it how to listen for.
+The hardware can’t allow this. There’s a low power chip in the unit that’s hard coded to listen for “Hey Google” or “OK Google” and it wakes up the more intelligent chips. You can’t change the name because this chip wouldn’t recognise the new name.
+In a lot of ways to a lot of normal users the appeal of iOS is how restrictive and sandboxes it is. You don’t need to install anti-malware or anti-virus and every single app gets vetted by Apple. Practically removing the possibility of malicious software makes the iPad perfect for 95% of people.
+I bet you’re a hoot at parties. Use your imagination.
+Just because you made a joke doesn’t make you sarcastic. What you said here is sarcasm.
+http://knowyourmeme.com/memes/thats-what-she-said?full=1
+That’s what she said
+Nor do you, apparently. What you said has no sarcasm in it.
+The S model is VERY basic. For me, I couldn’t live without the Carwings and the touch screen. I have no idea whether you can actually fit aftermarket stereos in the LEAF or not. The central console isn’t a normal shaped stereo slot.
+
+I have quick charged my LEAF around 3 or 4 times in the past year and my commute is very similar to yours with occasional extra 30-40 mile errands on top. It’s worse in winter for range than it is in summer.
+
+Remember that batteries charge way faster from zero to 80% than they do from 80 to 100% so 2 hours charging at 6.6kW is going to get you much more range than 4 hours charging. If, on errand days, you have somewhere you stop for even 30 minutes that you can grab a 6.6kW charge, you’ll easily top off the extra range you need for a 70 mile total day.
+
+Also note that lots of short journeys that aren’t back to back use more battery than one continuous one. The cabin heater eats 1-2 kWh per warm up in my experience. If your 50 miles day is mostly all in one you’ll squeeze that in without too much trouble.
+
+Do check the battery is in good condition before buying. All the above assumes a battery health around 90% or more.
+And you’d be right. As a developer there’s nothing you can do on WatchOS to let you play streamed music content on the watch just like there’s nothing you can do to make Siri work with Spotify either. It’s all locked down by Apple until they’re ready to support those things in a way that doesn’t make the hardware look bad.
+Not dendrology. I studied senescence in Arabadopsis thaliana which is a weed. Title of thesis was “Modelling transcriptional networks in plant senescence”.
+No, just a joke :)
+It’s called senescence. I studied for a PhD in exactly this, trying to find out which genes are responsible at each stage for this transition.
+I have a 12 year old HP laptop running Lubuntu’s latest version and it’s fine. It’s not even a top spec machine in 2006. A core duo, 32-bit processor with 2 GB RAM.
+Version 1.1.10 just released moments ago.
+
+**What’s New**
+
+• Fixed in-app purchase for michaeljackson99
+Yup! I don’t leave Flash installed system wide as it’s junk but I have Chrome installed which I think still has it bundled in so I use Chrome when I want to access flash content which really is once per 3 or so months. I make do without it at other times. It’s the only way web developers are going to stop using it if we stop going to their sites.
+Not sure which is worse; MacKeeper or Flash. Either way I think your wife needs a non-admin account 😁
+You can make it work in the U.K. if you set the language to United States (I tried it), but it won’t play UK radio while in this mode so no use to me, and the US voice is a bit jarring when you’re used to the British one.
+
+I don’t think this is licensing. I think it’s localised wording they haven’t added yet.
+
+You’ll notice if you try US language that the Google Home says TOTALLY different things in response to your queries. They feel unfamiliar to a British ear so I think Google have put a lot of effort into making the responses right for each market.
+Nothing on my 2015 when I turn the lights on permanent. Sounds like yours makes the same sound my 1986 Ford Fiesta used to make when you left the lights on. On that car they didn’t turn off, you just came back to a flat battery after a few hours.
+Not really joking
+Mine’s an Acenta (the European name for the mid tier ... SL in US terms?)
+
+I can still turn my lights on (I.e. not auto) so I’ll see what it does tomorrow.
+
+Yeah the beeping is mighty annoying if you open the door to check you’re in a parking space.
+Are you sure it’s the lights doing this? If I open the driver’s door before I turn off the vehicle it beeps constantly until I close the door again, even if I turn the vehicle off after it starts beeping.
+
+Not sure how that’s a useful feature but you wouldn’t want to leave the car on when you get out I suppose. Just not sure why it keeps moaning after you do turn it off.
+“Err, excuse me miss. There’s a sign that clearly says No Smoking at the top of the pillar.”
+Well the Dot has it, but not the Sonos speakers. Only Sonos devices with it to my knowledge are Play:5 and Connect / Connect:Amp
+Hey Google, stop the alarm in the bedroom
+I took it back to the Nissan dealer I bought it from and they refilled one of the parts of the drive train with grease. There’s a joint that naturally has a tiny bit of play in it and switching between force one way or the other causes a clack as the metal taps inside the joint. They repacked the joint with grease and the grease makes the play a bit slower so the metal doesn’t clack around in the joint.
+
+Sorry I don’t know which joint it was, but the bill (which I wasn’t responsible for paying) was pretty small. Around £120 which is something like $170.
+My Picanto was the 1.25 L engine so still small but not as small as the 1L. I know cars are enormous in the US from the one time I visited. The taxi I got in to had what felt like a sofa for the back seat.
+Who said anything about a contract? It’s a licence and if you’re not within the terms of it you’re not licensed to use the software which is illegal.
+Oh really? It’s available in all models in the UK so that must be a legal thing in the US.
+Sadly it’ll be dark orange after a while. The colours go darker and patchy with time.
+I think so, but what value would `i` have afterwards?
+
+`i+1` or `i+2`?
+Sounds like you can’t because it merges the pdfs together with the auto-save features of macOS these days. You can probably use the Automator application to print a load of PDFs without even opening them. Automator has a drag and drop interface. You’ll want a Selected Files block followed by a Print block. Save the workflow for reuse then highlight your PDFs in the finder and run the workflow and sit back with a smug grin.
+How many watt hours is the battery capacity? Divide that by 85 and you have your answer.
+My wife and I often talk about a fictional camel monkey so if you’re looking for inspiration ...
+I have two in my living room “front light” and “back light”. I can only control them by saying “Ok Google, turn on the living room back light”. Back light on its own isn’t enough. It would probably be enough if I removed it from the living room “room” in the settings.
+Ba-dum tish!!
+When I bought mine it made a clacking noise when switching between acceleration and deceleration. It’s caused by a link in the drive train drying up and needing regreasing. A minor piece of work but one of the only things that goes wrong on them.
+
+To test for the above, hold the car still with the foot brake using your left foot. Switch between drive and reverse, tapping the accelerator after each switch. If the joint needs regreasing you’ll hear an unmistakable clack each time you switch and accelerate.
+
+When taking a test drive, turn off the climate control completely with the On/Off button underneath the Auto button and turn off the simulated engine sound with the button next to your knee. This makes the car almost entirely silent. Any annoying creaks, knocks or rattles will be much more obvious. Every little sound will drive you crazy if you can’t shut it up. I know because my parcel shelf knocks some of the time and it makes me want to throw it in the trash.
+It’s illegal to run macOS on anything other than a Mac. In the end user licence agreement it states that the software may only be used on Apple computers.
+Thanks both for the explanations. It helps to understand. I also heard from an American that gasoline isn’t the same as petrol and is less refined so perhaps that also contributes a difference?
+
+My Kia Picanto before my LEAF I tracked the MPG carefully using pump volumes and mileage. I would often get high 40s to low 50s in good weather. Obviously it’s a tiny car but it was petrol and had AC. It seemed fairly average MPG for a car of its size.
+
+Do you know why US gallons are 20% smaller than UK gallons? I don’t have the whole story but apparently the 20% is an ages old tax thing.
+23 MPG kills my soul a little. Why are cars so inefficient in the US? A typical car in the UK would provide 40-45 MPG average
+That’s hardly “best” case. My LEAF does 60-80 miles per charge and only takes 20 minutes charging to do another 50-60. At 60mph that’s nearly an hour of driving and 20 minutes stopped. Even when I had an ICE car I’d stop for a drink, a stretch and the toilet every 90 minutes which takes at least 20 minutes.
+Bravo!
+Probably best not to over-analyse it. Otherwise you’re gonna start wondering why his face covers his entire torso and he eats at his belly button. The mind boggles!
+I think you’re allowed to “decorate” the screenshots so long as it doesn’t falsify the screenshot itself. You can have screenshots that don’t show a screenshot at all though.
+
+If you’re not allowed they’ll tell you during app review and you can remove the offending screenshots and pass review on the second try.
+To be fair, that’s what you did when saying you’re damaging the battery.
+
+When I fill our 30kWh up on a journey we can plug in with 5% indicated and go to 95% indicated but the pump only charges us for 24kWh so I can say with certainty that what’s indicated is not what’s actually available.
+Ha ha yes, this. 40 miles left? Every other day I leave the house for work with that.
+Out of interest what’s a number 2 pencil on the B/HB/H scale?
+Definitely looks like a fault in the accelerometer/gyroscope to me. The phone uses parallax effect to move the icons in tandem with the phone’s movement to create the effect of the icons floating above the background but they don’t normally do that.
+
+Try opening the Compass app and moving one screen over with a swipe to access the spirit level. Does that behave weirdly too?
+
+Also, try going in to the Settings and turning location services off and back on a few times. This seems to restart calibration of these sensors.
+I would suggest you hook your Echo up to the IFTTT service if you’re in the US or Canada and then create a trigger on IFTTT to start playing music. That should work.
+From what I’ve read, the Google Home has a preferred order of speakers to use. If the Bluetooth speaker is off it will use the internal speaker, otherwise it’s supposed to reconnect automatically when the Bluetooth speaker is in range.
+“My surgeon drilled me and gave me a black eye”
+Glad you found the device you wanted. To let others make a fair comparison.
+
+Google Home Mini sounds louder and way clearer than Echo Dot.
+
+There’s no 3.5mm jack but you can cast to a ChromeCast compatible speaker and you can connect to a Bluetooth speaker.
+
+Home automation works on all my home devices including Nest, Wemo and Philips Hue and supports scenes for Philips Hue which Echo does not in my experience.
+
+Spotify works a lot better with Google Home than it does with Echo where Echo often ends up playing something random.
+
+Google Home supports follow up questions. So if you ask for the latest album for some artist. You can follow up the answer with “When was that released?” and the Google Home will know you mean the album it just told you about whereas Echo would say “I’m not sure” or “I don’t know that one” because it’s already forgotten about the album conversation.
+Try the Google Home. You’ll wonder why you stuck with Echo so long. I’ve switched all ours over and am so much happier as they are much more useable in my opinion. Less quirky than Alexa by a long shot.
+
+Also, if you’re in Europe now they’re heavily reduced until 4th April.
+I had this problem too amongst dozens of others with Alexa. I bought a Google Home Mini and let’s say I then switched all my echos with Google Home. It works so much more reliably and does so much more than Echo in my experience.
+Have you tried the web app? It would at least give you some functionality.
+This is easier to do on a Google Home
+Admin privileges are not for learners. I think you need to chill, or I’ll take your admin privileges away too and you can go to bed without dinner.
+“Without consent”, yes, but not without permission. It wouldn’t be able to install and change your proxy settings without admin privileges which no doubt your dad once gave when it asked for the admin password and he entered it without knowing why he was having to.
+
+It’s a lot safer for parents if they run in a non-admin account where they won’t have the option to give admin privileges to an app. If something needs them, they can then phone you to remote in to their machine and install whatever they were trying to with your admin privileges. A hassle? Yes. But security always is.
+You’re more understanding than I manage to be. Other people’s kids remind me daily why my wife (35) and I (37) decided not to have any. If anyone asks when we’re planning to have kids, I tell them “when the vasectomy I had turns out to be faulty”.
+
+If we decide we made a mistake in future, we’ll happily adopt an older child after they’ve outgrown the whiny, overactive toddler years.
+I had mine but they completely messed up the amount. Sent me €149.95 instead of £149.95 so now I’m having to chase them for the rest!
+Have you looked at what’s involved to change the components like the processor? You have to remove the glass front with suction cups, remove the 27 inch display and access everything through the front. Putting it back together without leaving fingerprint or dust inside is basically impossible and will drive you mad.
+
+Also, I had an i7 and after 3.5 years it glitched and completely died losing half its value in a few seconds. This design of case isn’t good at dissipating heat and the i7 runs a lot hotter than the i5. I think all the heat eventually damaged my graphics card.
+You better believe it 🤓
+You only need 3 candles (and 4 empty candle holders) to make 100 in binary.
+
+1100100
+When it’s on the screen, open Terminal and type `ps ax` to list all the running processes. The list will be long but look for anything suspicious sounding and google the name to see if you can identify it. Probably easier to parse the list if you close all other apps before you run the command.
+A lot of solar producers are opting to install giant batteries like those on electric vehicles these days. You put your excess during the day into the battery and at night you run your house off the battery so you genuinely take nothing at all from the grid.
+The only bit that makes you think it looks unnatural in my opinion is the eyes. Cover those and the rest is perfect! I think they’re looking in slightly different directions is all.
+The shadow’s also in the wrong place. Compare it to Obama’s head shadow and the gap between Obama’s body and Bush’s head where there is no shadow shown.
+You’ve not lost your marbles. It was removed in iOS 11 but came back in one of the early patches.
+Why waste time? Time is money!
+Well, you know you should have backed up. Never go without backups. Personally I have two different types of backup.
+
+As for fixing your issue, try holding shift as you hear the bong noise on startup. This will boot into safe mode. If you get this fixed, don’t even think about doing anything until you’ve done a full backup.
+Getting his Brucie bonus
+Thinking about killing and killing
+Not saying this what they did, but what you think is Voodoo is real technology from several years ago. https://www.wired.com/2014/04/lytro-illum/ you can refocus the picture after it’s been taken.
+Looks like the screen was opened too far and the hinge started bending the metal to open a bit wider.
+That wouldn’t work. You’d either have Crackle, Snap and Pop or Pop, Snap and Crackle.
+Fair enough. I seem to remember getting an error to do with cryptography when I first installed it but Googled it, made a quick change to one of the files and I was away. Shame it didn’t work for you too.
+I saw a similar sign in Pets at Home in the U.K. last Easter.
+What problem did you have? I have been using AirSonos on a Raspberry Pi for two years and it’s perfect.
+I bought the Sonos One back when it launched and returned it within a week for exactly the reason you’re describing. It simply refused to respond to anything but raised voices compared with my actual Echo devices.
+I take it you’re in the US? In the U.K. they do (or did two years ago, they might have stopped) a 4 day test drive. It’s such a clever idea from Nissan because my wife and I bought one each within 6 months of our test drive.  My wife’s was a brand new 30 kWh and mine a 2 year old 24kWh.
+
+I’d be surprised if it doesn’t fit your lifestyle. Most of what you fear about the car being different turns out to be baseless worrying.  YMMV depending on availability of quick charging and your actual daily mileage.
+Ding ding ding ding!! We have a winner.
+Also doesn’t appear if you press the power button without holding the foot brake to access aux mode.
+• Oxford UK
+• 6.5 years professionally, have been coding for 30 years
+• Software engineer
+• £43.5k
+
+Mostly iOS development but sometimes Android work too.
+You see all these colourful things? I don’t even know what these are but they’re all mine, OK?
+And all you were doing was fixing up your old t-shirts with new colour.
+Username checks out?
+If you did that, you’d see the text and symbols normally shown in that area of the screen
+When you’re right you should expect most people to agree with you really. It’s even better if you don’t quiz them over their agreement with you.
+And what about the ones that didn’t last? Apps are a difficult business to be in and earn a living. Especially if they have high ongoing maintenance costs like the Imgur ones Apollo has.
+I have no idea - I’m just being realistic about his cut. Let’s say it was 200k users. That’s £600k. Apple takes 30% so that’s £420k left. Income tax plus other costs on earnings that high are 50% ish where I live so that leaves £210k and Imgur have been billing him thousands per month so he’s perhaps made a good develop wage for 2 years with ongoing Imgur costs to face. The app’s made its big sales already so it will only dwindle from here as almost no-one will tip and there’s no other revenue once people go pro.
+
+The reality is, each user only paid the equivalent of a cup of coffee for the app and you only expect coffee to last 20 minutes. I agree bugs need fixing, but new features are going to thin out over the next few months I’m sure of it. You can’t expect more value for your money in the form of updates for very long.
+Put a spectacle cleaning cloth over the charger. It won’t affect the charge but it’ll provide some soft friction for the phone.
+I use the large post layout so perhaps most of the bugs are around the compact layout you’re using. It’s obviously not the screen size since we’re exactly the same.
+What device are you running it on? I have next to no issues on iPhone 8 Plus
+How much effort do you put in to pleasing customers who paid £3 for apparently unlimited updates?
+Personally I wouldn’t do anything with that information but I’m not a douche bag. I wouldn’t post that information online. Now it would be a lot easier to scam the OP with a phishing attack purporting to be from their actual bank made to look genuine with the digits from their card. Perhaps you can use this info to pretend to be the OP if you know of something they sign up to online using these payment details. It’s a risky attitude to have if you become ignorant to the power of these small snippets of personal information.
+I knew there was a reason I’ve kept this since about 2001: https://www.dropbox.com/s/pw8yr1jjmrdgho1/Irish%20Virus.jpg?dl=1
+Well now we know the last four digits of your debit card and which bank you’re with.
+One way to avoid leaving the battery at 100% for any length of time is to set a charge timer but only set the end time for just after you usually leave in the morning. The car works out when to start to be finished at the time you set. Because you leave just before the time you set the battery is at 95% when you leave and has only just got there when you unplug.
+Is it a self portrait? You have a skill for capturing detail very nicely.
+I see you already have your answer. My question is what the hell must be wrong with it to get only 0.8 miles per kWh?? Even if you’re an utter looney using 100% throttle to drive up a never ending mountain you expect better than that. A normal number is between 3.5 and 4.5.
+To be clear, the fuse box might not be on the driver’s side if it’s right hand drive. I believe mine is on the passenger side.
+The solution is simple. Get one with a white back. You cannot see scratches on a white iPhone. Mine dumped on to tarmac from waist height and I can see scratches on the aluminium next to the glass but I couldn’t tell you if the glass is scratched if I wanted to.
+Aww that sucks! Use a blow torch to cut your own RAM door :D
+They used to be until someone added a space between `for` and `(` like an idiot
+You can change the RAM ;)
+Do you visit your friend in prison now?
+Calibrate while you’re not holding it. Put it on a table and calibrate - that’s where it’ll be when you use it.
+Lose your house?
+You need to retrain Siri in the settings. Don’t hold the phone when you do this, you won’t be holding it when you use the feature and when it lays on a table your voice sounds different to the phone. Teach it your voice when it’s laying down on charge.
+They’re exactly the same on the inside.
+I would recommend Tado as they’re better integrated with things.
+I’ve obviously been trying too hard as a software engineer. I could have just been typing all this time!
+That’ll be based on rumours like these:
+
+https://9to5mac.com/2018/02/22/new-airpods-2-hey-siri-water-resistance/
+
+https://www.macrumors.com/2018/02/22/airpods-new-version-this-year-hey-siri/
+
+To be honest, batteries do more than you think. Dedicated chips that listen for Hey Siri are quite low power. I thought electric cars would be rubbish lasting maybe what 5 miles? Now I have a LEAF and know better but I’m still amazed by my car going so far on a modest sized battery pack.
+You can’t expect to make dealer prices in a private sale. Dealers have to offer warranties and do repairs before they sell plus they have overheads. I’d say if dealers are selling for 11k-12k you should expect to make 10k or less privately.
+Get a thunderbolt to HDMI or DVI or VGA (VGA sucks) adapter and you can plug a second screen in to the iMac.
+Thanks for investigating, that’s interesting to know 👍🙂
+That’s because it is if you read their comment. It was a stop gap after their Nexus 6P broke.
+RemindMe! 1 day
+Why are yours shortened to “backgd” when the others are not?
+Good spot! He got so excited about the new box he forgot to take the iPhone out.
+Kotlin’s been supported for Android development since October 2017 so it’s a baby compared to Java. Google are confident you can do everything you want in Kotlin, but I would say you’re going to have a hard time understanding discussions on websites such as StackOverflow if you don’t know Java. Supposedly Android Studio auto-converts Java code you paste into a Kotlin file which probably helps but there’s no 1:1 mapping of Java to Kotlin much like everything else that is a conversion. Kotlin supports non-nullables while Java does not for example.
+
+I would bite the bullet and start with Java in the current state. You can mix and match Java and Kotlin in your app as time goes by.
+We’ve currently got -5°C weather in the UK and my 2015 LEAF could go 54 miles one way. It’ll do closer to 80 in warmer weather.
+
+Is there a Nissan dealer nearby that’ll lend you one for a couple of days to try it out?
+
+In any case, don’t assume longer journeys are impractical. My wife and I used ours to go 250 miles in a day easily. Rapid chargers will give you 90% battery in 30 minutes which keeps you going for another 1.5-2 hours. Sounds like a long wait but if you follow the rule of taking regular breaks you’ll find that 30 minutes is barely enough time for you to use the toilet, grab a drink and a snack and consume them.
+Be careful when choosing tyres for the LEAF. You’re going to want to get the lowest noise rating ones that you can. Almost everything you hear when driving is tyre noise in the LEAF as I’m sure you know.
+This is correct. It may be that Apple are reluctant to offer strong integration with third party music services, but the technical challenges are enormous. Trust me, I’m a software engineer and I’ve seen how SiriKit works. It’s a fantastic way to process what the user asks for but it also means you need huge integration with the data the app offers. The library of things you can ask for from Spotify is very large and not easy for Apple to query in a Siri request.
+
+Apple’s reluctance to add third party music support to Siri should diminish rapidly now they have a speaker on the market.
+Look up your computer’s benchmark score on the Geekbench website. Then look up the benchmark score for the one you’re thinking of buying. Ignore the numbers they’re marketed as, look at the real life benchmarks.
+
+I agree with others though. If I had an i7 MacBook Pro, I’d keep it. Just because one part (probably the most common to fail) went wrong doesn’t mean the rest will. All the most expensive parts have a life expectancy way beyond the time you’ll keep the laptop for.
+The problem I see with that is when you need something after the date and you don’t really know how the wallet works. Stuff just deleting out of the blue causes massive mistrust in end users. If the default was to keep everything and a fairly hidden option let’s you set the delete behaviour that could possibly work.
+I think it’s more that Apple haven’t gotten around to it than they won’t allow it. SiriKit doesn’t just pass the words you spoke on to an app, it tries to understand the request and breaks it into snippets that represent the parts of what you asked for. This makes voice control so much easier for app developers.
+
+The biggest problem this poses for something like Spotify working with Siri is that in order for Siri to understand the request it needs to do verification with Spotify that something exists in their library and that the request isn’t ambiguous. Doing that requires a full integration with the music provider that has to be generic enough to work with any music app.
+
+It’s a tall ask when Apple tend to focus on keeping your data secure. They only want to send the third party the bare minimum they can to protect your privacy. I don’t think the HomePod will become a successful product without this integration though so perhaps they’ll pull it out of the hat in iOS 12.
+That was Dr Evil’s line
+If you like that, try bringing the key board up, press hard anywhere on it and drag around. You get a mouse cursor to place the text cursor anywhere in the text really quickly and accurately. (That’s 3D Touch)
+The trouble with Activities is they can only be full screen. So when you want two screens from the phone side by side on a tablet you can’t do it.
+
+In my experience you use fragments for everything and one activity that hosts and switches between the fragments. You only use another activity for something that’s a completely separate part of the app like the preferences screen for example.
+You think?
+Lots of companies jumped on Swift when it first came out and later switched back to Obj-C. I’m not talking about risk of the app breaking. I’m talking about risk of choosing a technology that somehow limits the flexibility you have later. In the case of Obj-C vs Swift the latter couldn’t do everything Obj-C could do and it made some things harder. Kotlin will not be adopted by the largest software dev companies for some time until it’s proven itself with smaller companies.
+A note taking app satisfies all this. The first activity has a fragment with a recycler view to list the available notes. A Google style plus button in the bottom right goes to the second activity where you can type your note. Coming back to the first activity shows you the new note with a preview of the entered text.
+
+Personally I prefer to minimise use of activities as it makes converting for a tablet interface harder when you use an activity for each fragment.
+  `Child child = new Child();`
+You can’t have an *amount of* puns. Things you count in whole numbers are *number of*, continuous measurements are *amount of* like an amount of sugar.
+A for loop to iterate over every value of an integer when you could just:
+
+```
+int i = 1;
+while(i != 0) { i++; }
+```
+It’s the amp draw you want to focus on, not the voltage. Divide the kW requirements of your car by the 110 V to get the amperage during charging. Get an extension cord that can support higher than those number of amps for long periods of time. If the cable will be heated by the sun get an even higher amperage cord.
+
+The connection between the cord and the EVSE needs to be waterproof too, obviously.
+Companies don’t like risk. Java isn’t a risk, Kotlin could be. Swift is still avoided by my company because it means:
+
+-	The whole team have to switch languages when we already have highly skilled Objective-C programmers.
+-	Libraries written in Objective-C need bridging headers to use with Swift.
+-	Swift makes your app size huge because the runtime has to be bundled in the binary.
+-	There’s nothing you can’t do in Objective-C that you can do in Swift.
+
+We’re probably now at the break even point with Swift. I often find myself having to convert Swift examples online back in to Objective-C where Objective-C is falling out of favour. I doubt that Kotlin is at a break even point yet. Indie dev companies love to play with the latest and greatest but large companies prefer to wait and adopt a technology after it’s proven to be the way things are going.
+Did you feed your mogwai after midnight?
+I would guess % has a meaning to the backend that you want to insert a variable and the next character is thought to be the variable name which doesn’t actually exist hence the next character being wrapped by `!` and `(MISSING)`
+Yeah it’s in the screenshot you posted.
+Not sure I understand what you’re trying to say. iPhones don’t use a thermometer, they pull the data from the web and Apple Weather is the Weather App. It should all be in sync but clearly they’re reading different locations or one device is using an old cache.
+It’s literally called EVA. It’s on iOS and may not be available in your region. https://itunes.apple.com/gb/app/eva-leaf-connect-to-your-nissan-leaf/id1050429958?mt=8
+Wasting charge cycles is not using them and the battery degrading because it’s always at 100%. At 100% the lithium ions get coated in graphite and in future the elections struggle to flow through the battery losing capacity.
+There’s no air between the screen and the touch surface so either your phone isn’t the same as all the others or the dust was always there and you didn’t notice it before.
+Shoulda got the Plus
+That’s an inevitability on Android
+My trick is to keep the battery cycling. Don’t leave it plugged in after it finishes charging. Let it run down. This applies to literally all modern batteries, not just Apple products.
+I expect it will be but you sound like you absolutely know this as a fact.
+Is a “fucking password” like a safe word only you and your partner know?
+Ok that’s slightly different from Cared 4. We get the first bullet point (although my car had several faults when I picked it up so they don’t check that carefully).  There’s a 1 year warranty extendable to two years for a fee. That’s about it.
+
+If you service your car with a Nissan dealer they give you a year of breakdown cover which takes you through to the next service. Not sure where else you can service a LEAF to be honest.
+Try downloading the EVA app. It’s free, not as feature rich but covers the most important features such as checking your battery level, starting a charge that’s currently waiting for the start time and starting the climate control remotely.  I’ve found it much more reliable than Nissan Connect’s app.
+How the heck can they sell a car with an accident as certified? That undermines the certified status so much!
+
+They call it “Cared 4” in the UK but I expected better from Nissan.
+
+Certified pre-owned is a funny name though. “Yes we can certify this was definitely owned by someone else before now.”
+Is the SOS button a new thing or just something they don’t fit in UK cars?
+Yeah my 2015 doesn’t have that plastic partition so that must be a gen 1 thing.
+<ol><li>ha</li><li>ha</li></ol>
+My wife has a 2016 30 kWh LEAF. We live in England so the weather is rarely stupidly warm or cold but she drives it an average of 240 miles per week and last time I checked it’s on 93% SOH after 22 months @ 23000 miles. That was a single reading as I’ve never checked it before or after and your mileage may vary, but we’ve had zero problems and the warranty should cover any future problems up to 100k miles and 8 years.
+Somehow emptying the trash sounds like screwing paper up which I’m guessing we already did before putting it in the trash to begin with.
+Doesn’t the voltage drop as the battery becomes depleted? Meaning although there’s 400V available now, you won’t have 400V for all 115 A hours so the calculation 400 * 115 is an overestimate of the true capacity of the battery in kWh.
+
+That would be my guess anyway given how close the other calculations are to the nominal 40 kWh capacity.
+The steering rack is normal but the power steering is electric rather than hydraulic. This has the added benefit of being dynamic with speed so it works harder for you at slow speeds and less so at higher speeds.
+If you don’t care about the cloud haven’t you just given up your USP?  How is it going to be more interesting than Scrivener?
+Interesting read. Thanks. I do have one outstanding issue though.
+
+Everything you wrote aligns with what I said and asked, but you still downvoted.
+
+I hate advertising too. That’s why I don’t watch TV and don’t have a TV licence.
+Yes indeed. Because business has always been about offering free services. Do you get paid for anything you do? Because if you do, you don’t deserve to get to do that thing.
+It’s a free web service that also works in a browser. You give it a trigger (the thing that it’s looking out for like you coming home) and an action which it performs when the trigger happens.
+
+In other words you set up various rules on it and when the triggers happen, it causes other things to happen too. IFTTT stands for “if this then that”.
+Do you like reading those snooty newspaper websites? I mean, if so how are they supposed to make any money if all they do is write news articles for you to read and you never pay them anything back? In the long term you’re hurting yourself because the news sites will shut down and you’ll not have any to read.
+
+I already know this comment will be down voted, but I’m only telling it how it is. Of course we should block ads online. I just think we should be selective about what we block and only block the ads which are utter crud and shouldn’t be allowed in the first place. Quality advertising should be left unblocked to help fund sites that deserve it.
+I would expect any bump you see in SOH to be temporary. A rapid charge is hard for the battery management circuits to track the true profile of the battery and they may be fooled for a while into believing the battery has a different charge/discharge profile from the true one.
+
+Damage to the health of a battery, whether it be by abuse or just age and normal use, cannot be undone. The true SOH of the battery always goes down and never up. The measured SOH as reported by the circuits can sometimes go up through bad readings.
+You know, if you pay for a battery replacement on the Series 0, they swap it out for a Series 1 because they don’t stock the Series 0 even as a refurb any more.
+I don’t know why rapid charging would balance the cells. The way the cells balance is they all charge up together until one hits 100% then they all stop. The higher cells burn off a little power using resistors then they all start charging again. This is repeated several times until the lowest cells have caught up.
+
+Leaving it at 100% is bad as you suggested. The lithium ions get coated in graphite that blocks transfer of electrons. If you set the charge timer and ONLY set an end time for the morning; when you plug in the car waits. It works out for itself when to start and reaches 100% just before you leave in the morning.
+That’s the forum, not the bug reporter. You want https://www.virtualbox.org/wiki/Bugtracker
+Thanks for the update. Glad you got your new LEAF home safely :)
+Well fine but 11.3 brings iMessage in the cloud so everything should then be in sync
+Then it isn’t going to happen. Developers gotta eat.
+As a test, I drove to work today in my LEAF with the blowers completely off and started at 99% battery. The dashboard showed 89% when I had travelled 8.0 miles and changed to 88% when I’d travelled 8.7 miles. This was 7°C with light rain, no hills and half the journey at 50 MPH, the other half at 10 MPH.
+
+Hope this helps you to feel confident it’s doable, but you need to drive really gently, try to maintain a constant speed and turn the blowers off completely until you’re sure you’re going to make it.
+Thanks. I thought it might be but I don’t use Facebook so I wasn’t sure.
+Which messaging app is this?
+Not sure if this a joke or not.
+
+In fact I’m pretty sure this is a joke because the LEAF battery is 96 separate cells and they’d all have to reverse. Plus the inverter converts your DC to AC for the motor and reverse isn’t achieved by reverse polarity as far as I understand.
+Yes indeed. With 3.3 kW charging you’ll be adding about 12 miles of range per hour of charging at the bottom end of the battery. So if you have two 40 mile legs after the initial 72 miles you should expect to be charging for a bare minimum of 7 hours in total.
+
+Don’t forget to ensure you have an appropriate Type 1 to Type 2 public charging cable as the chargers won’t have a cable attached for 3.3 kW charging.
+How long has it been for these issues to surface?
+Just search for the user in the screenshot and watch your Reddit app crash.
+All software has bugs. If the bug were in Android a fix would be provided but you wouldn’t be able to install it for many months because of third parties like the phone manufacturer wanting to tinker with it first. Denying network providers the right to do that was the smartest decision about iOS Apple ever had.
+People who sign up with a username ending in 69 are usually teenagers wishing they weren’t sexually inexperienced. The reason they’re sexually inexperienced is because they spend all their time like this instead of learning how to socialise.
+Bear in mind there’s the Connect and also the Connect:Amp and you’ll need the latter if you aren’t using an external amp.
+When I plugged in the Ethernet to one of my Play:1 yesterday while music was playing, the Play:1 immediately rebooted and then the other speakers in the house stopped playing music a few seconds later so I knew something was happening.
+
+In the Sonos app I looked at the Advanced settings and there’s now a SonosNet channel shown. Setup Wireless is at the top which would be to switch back to using my WiFi. Also, under the About my Sonos System menu there’s a list of technical data. The IP address of the speaker connected to Ethernet is the one listed as the associated ZP for the system at the top.
+
+I was convinced all this meant my SonosNet was correctly set up.
+A healthy 24 kWh battery will do about 60 miles of driving at high speeds in summer and 40-50 miles during winter. At slower speeds you’re looking at around 80-85 summer and 50-60 winter.
+
+The winter mileage is massively affected by how much you use the cabin heater. In winter, stop start has an effect on your range because of the heater running for longer. In summer, less so. The AC doesn’t seem to be as big of a drain as the heater.
+
+In any case, 36 mile round trip should always be doable, even in winter at highway speeds.
+
+Do be wary of the 2013 model as after they introduced B mode, which some don’t have around that time, they also introduced new battery tech which it seems degrades more slowly. The health drops more quickly on the older tech. B mode is also very good at recovering more energy when you’re slowing down without using the foot brake.
+Perhaps care for your devices a bit more? You’d be surprised how much you can sell them for if you don’t trash it.
+The ignition fell to pieces and now you just have two wires you have to touch together manually.
+Scruffy McScruff face
+I understand this might not be the answer you want but Spotify does exactly what you’re asking for. You start a song on your phone/computer then choose an Echo to take over playing what you chose. Also works exactly the same with Sonos speakers.
+A “friend”
+Though shalt not register thine 2018 LEAF on the day of the Sabbath or the day after it.
+This is why we need autonomous cars that always follow the rules. The worst will be the in between phase where humans are driving some of the cars and bending the rules. The autonomous cars alongside them won’t know what to think of this rule bending and may appear to make poor judgement calls as a consequence. Of course the rule bending humans will lie about what happened and make out the autonomous vehicle was in the wrong making people wary of the future.
+I read this bot’s username as “img url bum bot” 🤭
+P engages a peg in the gears which means you can’t push it. N removes the peg.
+It shouldn’t be that surprising. If I worked at, say, McDonald’s and went in shouting out “Man, McDonald’s sucks massive donkey balls. I’d way rather go to Burger King!” I’d expect to have a tricky career progression.
+
+If you come to the iPhone sub-Reddit just to say how much you hate iPhone, well, gonna have a bad time.
+At least you could swap it out. When my company had an issue with the touch screen on a Nexus 4, we contacted Google, sent it in for repair and it came back 5 months later! 5months!! Who takes 5 months replacing a screen or sending out a refurb?
+In the UK, in the first 2 weeks they don’t swap for a refurb.
+I think the difference here is you can’t turn left or right in the crossing so it’s less hazardous and relieves the roundabout of the traffic going straight over. Obviously it’s not worked here but it would work if people followed the rules of not blocking the junctions.
+This is why black is the worst colour of iPhone IMHO
+It’s had a battery replacement so you’ll get at least 2 if not 3 years out of it before any CPU throttling happens. Besides it sounds like you usage is light to medium weight. iOS is so much nicer to use than Android so it should be a pleasant switch for you.
+Take it back to the Apple Store. They’ll apologise profusely and swap it out, I guarantee it.
+
+Also, screen protectors are a waste of time and make your screen look worse overall than not having one. 
+And you’d be right. Safe mode does a lot of checks and fixes like this when you boot into it.
+I’m always amazed at how unambiguous American language can be. Waste paper basket over bin. Sidewalk over pavement. Mail slot over letterbox.
+
+Now you know what goes in that basket, not to walk down the centre of the road and to expect a slot instead of a box.
+
+There are many more examples!
+When is the album coming out?
+VPN isn’t free because all your traffic has to go in and out if someone else’s internet connection. The internet isn’t free. Netflix only knows it’s a VPN because they’ve made a list of known VPN services. I’m pretty sure if you made your own VPN server they wouldn’t detect it. But you’d need a high bandwidth internet connection in the target country to do that and be very technically savvy.
+If this angers you enough to blow a gasket as badly as this comment, how do you deal with the real issues in life without bursting an artery?
+And if no audio is playing? I take it your TV shows nothing on screen when you change the volume? What about your car stereo?
+Snap, Crackle and Pop
+If you don’t, what do you do when you have two sentences in a toast?
+
+*Your request is complete. Please enjoy*
+
+Noooo, I can’t cope with that.
+Well said. I totally agree. Normal end users need big obvious responses to their actions.
+That’s disgraceful. In the UK allowing cats you own to go through that would lead to prosecution and perhaps jail time.
+Ah I see. I don’t use the website. Does Apollo search the sidebar text?
+Do subreddits have spaces in the name??
+He doesn’t like grooming either. He’s cute as anything when he wants food or somewhere to sleep but doesn’t much appreciate contact the rest of the time from anyone. He’s coming around slowly as he gets a bit older but growling at him shows authority and that’s how the cat world works. You’re either the alpha cat or the rest of the glaring.
+
+He tries to act alpha so I show him he’s not. This actually calms the cat in the long term because the alpha cat has stressful duties like protection of the other cats. By taking on those responsibilities (as far as he’s concerned) he can relax and enjoy life.
+
+Pets are so spoilt!
+The trick to trimming is to sit down and lay the cat upside down across your lap. It helps if someone can sit on the side with their head and talk to them, but otherwise mine know the drill and just let me take one paw at a time and get the job done. Sometimes DC growls, but I stop what I’m doing, look him in the face and growl back louder and he soon shuts up again. The trickiest part is the dew claws which refuse to pop out for a quick snip.
+Why anyone even considers declawing I have no idea. I trim our cat’s claws once per fortnight and they have plenty of surfaces especially for their scratching. It’s a simple process, takes 10 minutes a fortnight and they damage nothing they shouldn’t do.
+The Sonos is excellent sound quality compared to Echo but you’ll only notice when they’re side-by-side. The microphones on the Sonos One are awful. You almost have to shout Alexa for it to trigger and it’s 50:50 whether it’ll trigger at all. Then it’ll trigger spuriously while you watch TV. The Echo does a far better job of listening to you.
+See even more tips about safe mode directly from Apple here: https://support.apple.com/en-al/HT201262
+And if you hold shift while it’s booting does it successfully boot into safe mode? If so, then reboot normally and see if you’re golden. Booting into safe mode cleans up some settings that might help.
+No, that’s a cat
+There are no viruses on iPhone so don’t worry about that.
+Racist much?
+Your iPhone 6 had reached the end of its life in terms of running newer software. They were sold in 2014! It’s 2018. I remember when phones did the same on day 1500 as they did on day 0 and that’s all you should expect.
+Almost as many cores combined as the iMac Pro.
+Username checks out
+I’ve always just kept the old ones and put the new ones from the new iPhone in the sale. Same reasons. If the old ones break in the next year, Apple wouldn’t know they’re the old ones and would replace them under warranty. Now I have AirPods so the newest phone came with unopened headphones anyway.
+One year guarantee? More like a couple months left before you even use them :)
+Yeah exactly, leave ass flossing to G-strings.
+My teeth are so tightly pressed against each other there’s no way I could get floss to run up and down their sides.
+
+I use rubber coated sticks with rubbery little hairs all along to poke the gaps at the gum line and even that is super tricky for the same reason. Those are my definition of floss sticks. What you’re describing are what I think if as dental harps and are clearly a terrible idea compared to actual floss if not just for the wasteful use of plastic.
+While this can be true, Readdle are not a fly by night company and produce a whole suite of apps on both mobile and desktop. If they were abusing people’s Gmail accounts I can guarantee Google would revoke their app’s Oauth rights almost immediately and when you as the end user want to revoke those rights yourself the whole point of Oauth is that you can do that from Google’s side guaranteeing you maintain control. It’s not like you’re giving them your actual Google password which would be a bad idea.
+Looks like an interesting alternative. I haven’t tried it but I’m somewhat put off by no mention of an Apple Watch companion app and several reviews say it doesn’t also support iCloud email which makes it a deal breaker for me I’m afraid.
+Not my personal experience but you obviously have had more issues than me. Just trying to balance this negative experience with some honest positive experience.
+Lol is all I can say. There’s nothing less secure than letting Google handle all your email communications. They’re a company that uses their customer base as an advertising platform and are only second in being evil and invasive of your privacy to Facebook.
+Try Spark if you like Inbox. It’s got a lot of nice features including instant push notifications for Gmail and snoozing of emails. Best of all, it’s free! If you are worried about using a free app for privacy or whatever other reasons, try AirMail which is similar but costs a little money. To be honest though, if you’re worried about email privacy, perhaps Gmail isn’t for you to start with.
+Yes you can buy AppleCare (not plus) any time in the first year of ownership. It only protects against manufacturing defects and never covers accidental damage.
+
+AppleCare+ is insurance as Apple say in the first sentence on this page about the product. https://www.apple.com/uk/support/products/iphone.html
+No because you have to buy it within 60 days and they only let you buy it if you show them your pristine MacBook, otherwise it would insurance fraud wouldn’t it? https://www.apple.com/shop/product/S6124LL/A/applecare-plus-for-macbook-macbook-air
+Nope, AppleCare+ is only available during the first 60 days and only after they’ve inspected it for existing damage. https://www.apple.com/shop/product/S6124LL/A/applecare-plus-for-macbook-macbook-air
+If you paid an excess that’s AppleCare+ not just plain old AppleCare. The former is insurance against accidental damage as well as the extended warranty.
+Way more detailed than my inaccurate answer. Thanks :)
+Quack!
+That’s good then. Must’ve been one of the first 2nd Gen LEAF. They switched to a new battery technology they call the lizard pack when they brought in B mode. The battery is much more tolerant of temperature changes and degrades much more slowly than the 1st Gen batteries based on empirical evidence.
+The only thing that you could worry about would be the battery degrading by sitting too long but unless it was completely flat for some time I wouldn’t worry about it. Besides you said it’s a Flex model so if the battery has issues they’re not your issue. This is even more important with it being a 2013 model which have the older battery tech (unless it has a B mode) and the older battery tech degrades more quickly than after B mode was made available.
+At first I thought the cat was wearing a sock! 😂
+Like the sticky caps lock key.
+I was thinking back to the first ten iPad the other day which came in 16, 32 and 64 GB options and was gobsmacked by the guy next to me forking out over £1000 for a 64 GB with cellular. Who could possibly need 64 GB?? Well we’re almost at the point where 64 has dropped off the bottom of the available options and costs less than £500.
+I’m entirely aware other people have different experiences — I even said that in my first message.
+
+If you’re assessing the quality of High Sierra from within El Capitan you should probably try High Sierra before knocking it. I had a couple of issues in Safari in 10.13 for a few weeks but none at all for months. Perhaps Safari is better from High Sierra than it is in El Capitan.
+Those users are the ones I’m concerned about. Particularly root.
+Don’t you need the same number of busses etc for two 32 GB chips as you do for two 128 GB chips?
+Which bugs exactly? Your experience must be very different to mine. I have had zero issues apart from Xcode 8.3 UI layout being a bit weird at times.
+Are you experiencing bugs? If not, why be so hasty to try to roll back?
+I have no idea what a CPO programme is but I can tell you there’s hardly anything to go wrong.
+
+The only issue I’ve ever had that required a fix was when I could hear a knock sound each time the car switched between accelerating and regen braking. Turns out there’s a part of the drive train that has a little play in it and normally a thick grease prevents the play from causing knocking sounds. They repacked with grease and the noise was gone. Would be £95 at a dealer but they did it under warranty.
+Sounds like you might only be looking at processes for your user if the fan’s going mad and the CPU getting hot while those numbers are shown. Check the menus to show processes for all users.
+Reinstalling won’t help. Chrome is just really inefficient. Look at its energy usage score in Activity Monitor. Now compare that to Safari or Firefox.
+
+Besides, what did you plan to do to reinstall? If you mean delete the app from the Applications folder and download it again, that isn’t a reinstall. All the actual settings for the app are elsewhere in your file system and it is those that need resetting for a reinstall to have any effect.
+Ropeland 
+Perhaps. It depends what you do with it, how you charge it, the weather. There are many factors.
+
+When the battery is bad enough for 6 bars missing you’re probably going to notice the regen braking not working or being intermittent since the battery won’t like taking a charge. You’ll also notice the performance dropping off because the battery won’t like discharging in rapid pulses.
+
+There’s a lot more than just range affected by a poor health battery. The good news is you don’t necessarily have to replace the whole battery. If you replace individual cells, you improve battery health without replacing the whole thing.
+Tap the lock button once. That silences the phone but doesn’t reject the call. Now press home to leave it silently ringing in the background.
+Such a weird expression I’ve never fully appreciated. To me it says, “We certify that, yes, this was pre-owned.”
+Ok so the theory was right, but the exact date was wrong. I guess what I really meant was that if it’s 2014 you’re safely in the 2nd gen tech. But yes I had misremembered the date.
+Not 100% accuracy? You’re the guy who reviews apps as “Perfect” but only leaves 4 stars aren’t you?
+That’s because the pre-2014s have the old battery tech that appears to degrade much faster than the post 2014s. They only come in cream coloured interior and don’t have B mode on them. They’re much less desirable.
+Yes I find this very annoying. I’ve submitted feedback.
+We’re all from the past, my friend.
+Weird, when I ask Alexa to set the Hue lights in my house they fade exactly the same as Siri. If I say “Alexa, front light 90%” it definitely doesn’t just pop to 90%. Do you have the Hue bridge? Just wondering if perhaps it’s the Alexa connecting directly to the bulbs if you have an Echo Plus. I do not.
+At that price, check that the battery isn’t leased as part of a flex deal. If you don’t own the battery, you have to pay a monthly subscription to Nissan.
+Just checking, is anyone using d98fc694-1660-4efb-8fc3-9d41a04b7466?
+Potholes — that well known nemesis of computers.
+It does, but the recovery partition is on the hard drive he removed and replaced.
+True but he doesn’t have the recovery partition because he took the old hard disk out. Instead, the recovery mode of the machine in that case is to connect to Apple and download the installer for the OS the machine was sold with.
+Try saying “Alexa, play [name of radio station] on Tune In” and I’ll be amazed if it doesn’t play the FM station you mentioned.
+
+I also use ours for cooking timers. Or if you remember the old text adventures you played years ago, try installing the skill called The Magic Door, then say “Alexa, open the magic door”.
+Not available to the UK so I couldn’t install it
+Check out Amphetamine on the App Store. It’s the best app for controlling sleep on your Mac.
+Sorry, I didn’t know. Sounds like you’re doing your part 👍
+Actually DDR 333 is very old and it’s probably 167 MHz. I hadn’t acknowledged how old it is, but DDR 333 was never made in 8GB sticks.
+I hope you reported him to your local cat homing shelter. They can round him up, take care of him, clear up any problems he may have and find him a loving home.
+What is FluffMUCK? And why is your cat logging into it?
+Look for one that supports AirPrint. They require no set up at all on a MacBook. When you choose to print it comes up immediately as a printer option as long as it’s on your WiFi and you can start printing straight away. You can even print from iPhone and iPad with AirPrint.
+I’ve seen so many RAM sticks like this and yes it’s 8GB. RAM is always made up of lots of modules and the * means multiply. It’s 512 MB x 16 = 8 GB.
+Let me Google that for you: https://betanews.com/2018/01/12/spectre-iphone-performance/
+No. I’ve only ever seen the option to choose one audio output under macOS. You have to choose either TV over HDMI or the internal speaker.
+It’s a MacBook, not a Windows machine.
+As a software engineer I disagree, but clearly you know better and won’t be convinced so we’ll leave it here.
+That’s what I was saying. If the message changes on the API your app could break. What if they put two numbers in the message, for example?
+Unless you’re getting 135 miles per gallon something’s off in your calculations. 1 kWh will give you 4 or more miles of driving on average. Less than 10 cents per mile is surely cheaper than gasoline, no?
+
+In the UK (where I live) petrol costs about £4.50 per gallon and gets you around 45-50 miles of driving. Public chargers are usually around 30p per kWh for the most expensive ones which is still cheaper than petrol.
+
+Some public chargers here are s fixed monthly cost. A friend charges his BMW i3 for a one off £8 per month. A lot cheaper than the equivalent monthly petrol costs.
+And how’s that going to work? No API = no Reddit apps.
+You’re assuming the API responds with just the number. What if the whole message is coming from the API?
+Yeah fair comment. It depends on how much of that message came from the API. Matching a specific response from the API is dangerous because the response might change in future and your app suddenly breaks.
+Could be a thermal cut out if the CPU or GPU are failing to cool. Maybe the heatsink has become detached or the fans are choked full of dust.
+You can give someone a piece of your mind when you’re telling them off, but in this context you’re looking for peace of mind.
+I think the number is returned by the Reddit API, in which case what can Apollo do? It’s just rounded down from 0.49 minutes and below.
+Personally we are a two car household and both cars are LEAFs. No regrets, it’s never stopped us from doing anything we choose to.
+Exactly. Cheap cords will not carry the 2.5 kW of power the EVSE charger uses for any length of time. They will burst into flames over a period of time. Additionally, it would need to be outdoor safe.
+
+I think public charging is the reality the OP should be using to base their decision to buy the car.
+The AC doesn’t impact the battery as badly as the heater for some reason.
+
+Charging a phone and Spotify have practically no impact at all. The car’s battery is 24,000 Wh and the phone is about 12 Wh so you could charge the phone 2,000 times for each charge of the car.
+
+Bear in mind a new/young driver is much more likely to be involved in an accident than an experienced/more mature one. I was told when I bought my LEAF (by the Nissan dealer) that almost any non-light impact accident would write the car off because the electronics are delicate and expensive to replace. He was a sales person trying to sell me gap insurance though so it was probably garbage information, but worth noting that a cheaper starter car might be more appropriate.
+Fair enough. It doesn’t sound like the knew about or wanted to offer the fixed price fix though. They don’t exactly advertise it and as far as I understand it’s around $200 - $250 to fix any issue. Or so I’ve heard from various reliable sources. I would enquire again and specifically ask for the out of warranty fixed price repair.
+The cable it’s referring to is the network cable. PXE-M0F relates to booting over a network. This means that either your hard drive is failing to identify itself at boot and the computer’s falling back to other boot options, eventually trying to boot from the network. Or it might mean you’re holding a key that’s asking it to try to boot from the network instead of the hard drive.
+You shouldn’t use them anyway. They are major contributors to RSI by forcing you to overflex your wrists.
+Ditto - especially the overlords part
+Apple do fixed price out of warranty repairs if you just want your old one fixed. It’ll be cheaper than 500 euros for sure.
+Are you sure the GPU works OK? I built a PC once that turned on, started booting, beeped then shut off. It turned out to be a bad seating of the CPU heat sink and it overheating and emergency shutting off. Might be the same issue on your GPU.
+What sort of school is going to let school kids play games with an 18 rating? Wouldn’t it be even better to network up some game consoles or even some Raspberry Pis / old towers for way less and play some less intense titles?
+Reinstall the OS, find you’ve resolved the issue, add more RAM. Got yourself a decent machine without all the crud it probably came with.
+The demo for that software offers to fix the first 50% of a file without payment.  So the workaround without needing a crack is to take your corrupt video file and double its content using a terminal tool such as calling `cat corrupted.mov > doubled.mov` and then `cat corrupted.mov >> doubled.mov`.  Fix the file you just created in the software demo and you get the whole video from the first half of your doubled file.
+I don't think there was any sound.  Or at least the reference MOV doesn't seem to have any.
+
+Thanks for letting us know how you did it.  It's good to know these things in case we're in the same position as the OP.  I think he seems pretty pleased with the result.  He probably shouldn't share the repaired files until all his insurance has been sorted out and even then it's obviously his choice.
+
+And, good choice using a virtual machine!
+Out of interest, what did you use to do the repair?
+This is shopped - I can tell by the pixels
+My two haven’t done this in a while but once DC went direct from the floor to the work surface and then the top of the cupboards in a single effort. The gap is the height of a cat in our house so he has some pretty accurate jumping skills. Too short and you’re in big trouble when you don’t make it. Too long and you’ll bash your head.
+Interesting story, thanks. I can see how you feel the way you do. Hopefully you’ll get everything you need from a company more willing to support where you live.
+Sorry I assumed you were in the U.K. as we are because you said it was a U.K. LEAF. The 30 kWh ones were priced at about £31,000 but with the government grant, Nissan contribution and the dealer also putting in a contribution we got it for £17,040 new.
+
+Haven’t seen deals like that for some time so we’ll stick with this one for a bit and get a 2018 one when they’re a couple of years old.
+
+Based on what I’ve seen, the 2018 is only special if you get the top trim model anyway. Otherwise all you’re getting is the E-pedal and the 40 kWh battery which are nice to haves for our usage. At least they’re 6.6 kW charging as standard though.
+Well my wife went the other way with 30 kWh and 3.3 kW charging and we’ve never had any problems. She does 30 miles each way to work so the bigger battery made more sense. Especially in winter where the battery does those 60 miles and only has 25% left.
+
+The DC charging is what makes long journeys practical. But we do long journeys maybe 3 or 4 per year so it’s no big deal.
+Ah yes, the 6.6 kW charging LEAFs have always come with both. My wife’s is not a 6.6 but they include it anyway. You can still use 30+ amp public chargers but it only draws 16 amps.
+4 POUNDS!? Wow. I’ve not tinkered with graphics cards since 2004 when all you needed was a flimsy nVidia weighing about 250 grams. It’s amazing how much more stuff is on the graphics cards of today.
+When in 2015 was that? A friend bought in Sep 2015 and didn’t get the cable but in Apr 2016 my wife’s 30 kWh one did have the cable. Sadly my Jan 2015 LEAF which I bought in Mar 2017 didn’t have one :(
+There is? I need to try this.
+I know it isn’t as good as, for example, my Sonos speakers but Bluetooth renders all speakers junk, so I’d still rather a built in speaker in a normal Echo over a Dot with Bluetooth speaker.
+Sorry, that can’t be done.
+That doesn’t look like it’s sagging. The top looks level to me. The bottom looks bent. It might be the camera lens distorting it.
+They started including the Type 2 cable as standard at the start of 2016. I have no reason to believe they would stop doing so in 2018.
+You can buy genuine Nissan parts on eBay from Nissan dealers at knock down prices. I always do this for my car mats. See the seller nissan_parts_direct for an example.
+Well not redundant if you want to use the lights with HomeKit on iPhone/iPad. Echo Plus lets you control the lights with Echo but nothing else as far as I know. The official hub supports things like HomeKit to control them from other systems as well.
+It’s hard to say for sure, but definitely worth noting that magnets are unlikely to break your computer. The laptop probably has several inside already. They’re used for things like detecting you’ve closed the lid and hard drives have super strong magnets inside to move the heads between the platters.
+
+My guess would be that there’s an electrical connection that’s friction fit and the magnet was somehow opening the connection by attracting one part of it, breaking electrical continuity. Removing the magnet allowed the connection to spring back and pass current again.
+
+Either that or the magnet fooled the laptop into thinking the lid was closed and it has a feature to prevent it booting up with the lid closed so it doesn’t overheat in a bag if the power button gets squeezed while it’s closed.
+You should really avoid global variables where at all possible. Try changing `hasArrived` in to a function `hasArrived()`
+What do you mean by synced? You can set up Echo so you can change what Sonos is playing, but you cannot play music through both the Sonos and Echo at the same time.
+
+The only thing that makes me think you might be able to is that in the Alexa app, under Smart Home you can set up groups of Echo devices which can then play Amazon Music as a group. I don’t know if the Sonos One can be in a group or not. It’s a bit of a Frankenstein’s monster and doesn’t support everything a normal Echo can do.
+To be honest, whilst I think it’s great for you to provide this recommendation, the real advice should be that if someone is planning on buying a dot and a Bluetooth speaker they should just buy the normal echo. It’ll cost about the same, but you only have one thing to plug in and its microphones work better with the built in speaker.
+Yeah that desk is horrible!
+You also have to give back the broken one. It’s not exactly a bargain.
+>	You know that Machine Learning you talked about so much in the last keynote? Can you implement some of that into Auto Correct? The most annoying thing is having AC "correct" a perfectly good sentence into one that makes no sense.
+
+They did! That’s how “I” was being changed in to “A❔”. Somehow the machine learning thought one person wanted that replacement, then that person messaged someone and their phone provided the same auto correct and it spread like a virus. That’s the cost of machine learning - sometimes it learns the wrong things.
+I can’t imagine anything worse than using a phone as a game pad.
+Was my sarcasm too subtle?
+Definitely not font nerds anyway. Who hangs 8 up with the smaller circle on the bottom?
+Because it costs half the original cost of the phone without it if you break anything other than the front screen. With AppleCare+ it’s $79 even if the phone’s been snapped in two.
+It would be entertaining to watch Samsung try to sue Apple for copying their flaming fireball feature.
+That’s exactly what I mean by “while people use your app”
+In my experience if you submit a new binary after a rejection (which is the only way to “try again”) the review is either performed by the same person for consistency or the new reviewer looks at the reason for the rejection before and checks that first.
+
+You’ll get a reply like “The cause of the original app’s rejection has not been addressed”. I know this because I’ve seen this first hand.
+
+At the end of the day, I can see why the app’s in breach of the guidelines. There’s no good reason for that guideline other than “we want our cut” but it’s there and if you make money via a subscription while people use your app it has to give Apple a cut.
+Back up ASAP. If you clone the drive you may not need to fiddle with Windows keys/reinstallation but give Microsoft a call and they’ll help you keep your existing license working.
+See Amazon and Kindle books for the same problem. You’re not offering access to a database anyway. You’re offering access to a website. If your app links to the website and then the website takes money, Apple will reject the app.
+
+You can’t argue your way out of a rejection - you have two choices:
+
+a) tell people they have to register from Safari on their phone and then log in to the app after they’re registered.
+
+b) offer in app purchase of the subscription and let Apple have their 30% cut.
+
+If you choose b) you are allowed to set the price higher than the website to help cover Apple’s cut. I believe that’s what Spotify did/do.
+Not the best approach, but they did post their question in the comments. Images can only have a title. He should have posted the question in the title though.
+That’s the worst CMOS battery housing I’ve ever seen. It looks soldered to the board!
+Have you used it on iPhone? It was designed to be hot garbage 😆
+Hey you haven’t ventured that far yet. You’re gonna feel pretty dumb when you reach the gridded area on the screen and outside the car is nothing but grids on the floor to match.
+Yup, in good weather I do mine every weekend. It’s a reasonably good workout too so two birds with one stone.
+Try putting your finger inside a china thimble and whacking the thimble with a hammer. The thimble will break so you won’t feel any pain in your finger.
+I feel you have to be a fool to not have AppleCare+ on the iPhone X. If you need it just once for the front screen you still end up better off. And if it’s the back of the phone then you’ll probably need a new mortgage without it.
+The measurements on the dash are not accurate. If you drive with the cabin heater off, you get similar range as in warmer weather. It’s even worse when you do journeys from cold like the two the OP is doing. My commute is similar to theirs and my battery sometimes is the same in cold weather.
+
+You get more capacity than you’re stating. Even in cold weather. I know this because the usage on house’s electricity supply align with the apparent higher consumption in the car.
+It’s quite common (in Britain at least) to refer to all Americans at once as “Yanks”.
+
+Not sure if they find it offensive or not. I often feel that slang terms for people of a nation are used in a derogatory sense so I avoid this term in general.
+All charging methods slow as they reach higher percentages. If they didn’t you’d risk overcharging and turn your phone into a flaming fireball.
+The way I find it easiest to understand rebasing is to:
+
+a) realise that Git is just a chain of commits, each only knows about its single parent it was created from (except for merge commits which have two parents).
+
+b) while you’re still using the tree analogy, think of rebase as taking a branch of commits, chopping that branch off the trunk and grafting the same branch on higher up the trunk (or lower if you’re doing something weird in Git)
+
+It’s a bit more complex in reality because, as people have said by using the word “replaying”, the rebase commits are new ones, cloned from the originals, but those are semantics. The analogy above is accurate in terms of the end result.
+Are you the senior dev or the intern in this story?
+With no history of the conflict when you resolved it incorrectly.
+The trouble I find with rebasing is that it’s rewriting history. As such, if someone deals with a merge conflict badly during the rebase it’s not obvious what happened at a later date. Someone’s work can be overwritten and it’s really not obvious when or why it happened from the history. With merges, at least the stock merge commit message for a merge with conflicts is to list the files that caused a conflict. Rebase doesn’t have any such commit or message.
+Sounds like you’re using master correctly, but why not make branches from master for each new experiment and merge them back to master if they’re a success or just delete them if they’re not? Having a branch for development sounds like an unnecessary source of merge conflicts to me.
+
+It’s not necessary for master to be production/release worthy at all times. When you’re ready for a release, you create a release branch off master which is effectively a code freeze. You test that while development continues on master. If anything comes up in testing you fix it on the release branch and when you do the actual release you tag the final commit in the release branch and merge it back to master before deleting the branch.
+So you branched off and got a new boss instead?
+No merge conflicts! Well, none that Git sees anyway. You’re actually doing branching if you use that strategy, just without a master branch so you never know which person’s folder is furthest ahead.
+
+Also, you repo will grow in size way faster with that approach, rendering it unusable for new developers who have to download normal repo size * number of past developers.
+
+If they don’t like branching, fine, but how about having a different forked repo each and merging back to the base repo instead? An approach termed “forking” by GitHub and later adopted by others.
+Thing is, that *was* superior to CVS.
+“Oh I see. And how big was the team before this happened?”
+
+“That’d be 7”
+iPad charger is 5 volts at 2 amps = 10 Watts (5 x 2)
+
+USB is always 5 volts AFAIK. All that varies is the max amperage.
+If they’re Hue lights the phrase seems to be “Alexa, all Hue lights off/on” maybe when it works with “all of the lights” it’s mishearing you.
+Yes, this exactly! Siri always either says it’s done and it has, or it tells me it couldn’t do it.
+
+When Alexa says OK but does nothing I wonder just how many toilet rolls Amazon will be delivering tomorrow that I didn’t actually order.
+I had exactly the same thought. Our two came from Cats’ Protection who were excellent and they had the same room / sleeping arrangements. Ours came from Newbury.
+So this is what happens before the next Big Bang. You’ve enlightened me.
+There’s nothing inaccurate about my claim that I’ve seen no degradation. It still achieves the same mileage as when we first bought it.
+
+LEAF spy claims a 93% SOH so really no major degradation over the past 21 months / 23k miles. All the cells are very similar voltages so while your experience may differ, I haven’t seen “horrible degradation” of the 30 kWh battery.
+I certainly found that thread interesting though I’m not reading 77 pages of it. Two things that make me very unbothered by this are that I don’t see any of this degradation on our heavily used 2016 LEAF with the 30 kWh battery and the battery warranty is 8 years or 100,000 miles so if it does degrade horribly then Nissan will sort it out.
+
+Battery packs don’t typically go bad as a whole due to fault. They’re made up of dozens of individual cells and those cells go bad. The cost to replace a few cells is much lower than the cost of the whole battery.
+
+Also bear in mind, just because many people come forward in a thread doesn’t make it an epidemic. Who is going to spend time searching for threads about things that haven’t happened to them just so they can post “nope, everything’s OK for me”? Whereas people with the problem will search for the thread. Nissan must have sold literally tens if not hundreds of thousands of 30 kWh batteries to people and only a handful of people are having a problem in that thread.
+Supposedly Apple are going to be putting battery degradation info in to iOS so you’ll know without having Geekbench
+Ok so I guess some must be. Best assessment of this would be to log CPU utilisation during the game. Wouldn’t verify if the GPU was the cause of under-utilisation though. I would have thought if there’s very little lag and a good frame rate nothing is going wrong though.
+I’m not that surprised by those temperatures. The CPU does so little in games compared with the graphics processor. It’s actually really easy for a CPU in games. There’s not a lot of non-graphics computation to be done.
+What is your basis for saying the 30 kWh batteries degrade horribly? We’ve had a 30 kWh battery since they launched, done 23k miles on it over 21 months and have seen no degradation at all.
+You better hope you don’t have an accident with that lot. Not only is it likely to kill you instantly when it comes flying forwards, if you manage to hold on to life for a few minutes, you’re covered in manure.
+And if it cooks the charging circuits of your car invalidating their warranty it’ll be worth every dollar saved.
+Just be sure to secure the cable. They cost over $1000 to replace if someone steals it. Don’t rely on the cable staying locked to the car because the car’s locking mechanism is to stop tampering, not thieves. Buy a small padlock which goes through the charge handle’s trigger and prevents it being removed by stopping the button being pressed
+If you’re happy to do some surgery, quick wins would be changing the hard drive for an SSD and adding more RAM.
+I see you scienced the heck out of this myth! I approve of this.
+Yes indeed. I’m sure they have people reading those forums all the time for just these sorts of occasions. People only picked up on the post after the issue went public. Hindsight is a very exact science.
+Well 8 hours have passed without an update so it’s not looking good AFAICT.
+Old news. That was patched in under 24 hours
+Sounds like the right approach to me 👍
+https://i.imgur.com/uRW9Wtr.jpg
+From everything I’ve seen so far, the case doesn’t have Bluetooth in it. It can’t communicate with the phone unless there’s at least one AirPod inside which is why you can’t see the battery level of the case when it’s empty.
+If you don’t want to get bored of fiddling with details and have the app turn into a massive crud ball of pain I would start with your account hardwired in with no authentication in the app. Make a minimum viable product and grow it out from there. V1.0 doesn’t have to be the all singing all dancing version you have in your mind.
+They don’t care if you’ve made an app that crashes now and again. They have clearly defined review guidelines. They’ll reject it if the app crashes first launch for example. They reject it if it doesn’t match the description or doesn’t hold much value on people’s devices. Also if it uses up a lot of iCloud storage on launch without asking the user. They have a way of scanning the methods you call in your code and if they see any calls to undocumented private methods Apple uses in the iOS framework they’ll reject the app.
+
+They’re basically testing for a good user experience rather than how well you made your app. There are hundreds of possible reason for a rejection but none test the fabric of your app. Most of these reasons can be automated with the hundreds of iOS test devices connected to their testing rig. They also do some manual testing as well, but not as much as before.
+Apple changed their ways about a year ago. Apps started getting approved in around 1 day. My guess is they rely more heavily on automated tests now instead of actual people.
+All updates no matter large or small take the same amount of time. Apple never just looks at the changes.
+Ask him to demonstrate his claim.
+I like big buts and I cannot lie.
+And then when you update iOS the phone checks in with Apple again and you’re completely screwed.
+Yup, if the battery is full or it’s super cold the dots that are single ringed don’t work. As the battery gets emptier they become available. In summer this is 1 available at 99%, 2 at 96%, 3 at 92% and 4 at 88% but these percentages are much lower if the battery is cold. A cold battery can’t accept as much power to charge as a warm one. This is because the battery has a higher internal resistance when it’s cold and if you threw more power at it, the charge voltage would be high while the current is low and it would be destroyed by the high voltage. Remember, resistance is voltage over current so resistance is proportional to the ratio of volts and amps. And power is volts times amps so more power in a high resistance circuit means very high volts and very low amps.
+I’ve never owned a cat that doesn’t have condensation so it’s not like the LEAF is terrible. The Micra is terrible for it from around 2006 IMHO. My 2003 Ford Fiesta seemed good for avoiding it but it had a heated front screen so maybe that skewed my opinion.
+Ask Santa for one?
+
+Seriously though, I was a student for 8 years and I doubt you hold off buying booze and going partying when money is tight. Just avoid one night throwing money away and fix your computer instead.
+I see you’re familiar with its appearance.
+You seem to know a lot about this. But I think you’re wrong. Apple can disable an iPhone from ever being able to boot by blacklisting the serial number. If Apple won’t approve it, the phone can never activate and therefore is only as good as spare parts.
+And only two dots of regen available. Must be pretty cold where you are.
+Also wear warm clothes and turn off all heating in the car unless the windscreen fogs up.
+As you already know, it’s not going to do 110 miles on a single charge. My 24 kWh LEAF goes 80 miles in very good conditions and that’s in mild weather. It’s more like 60 miles in winter. It’s worth noting that the battery charges fastest when it’s more empty and you don’t need 100% to finish the second leg of the journey so you don’t need to stop for the entire charge time.
+
+Best would be to put it on a flat bed, but if you can’t do that, try to drive at around 40-50 MPH where you get the best miles per kWh and stop for a 4 or so hour charge when the battery is around 20% and you may just make it in two sessions.
+When you Worcester pon a star
+Absolutely no-one can use the entire charge of both the AirPods and their case in a single day. They’re a once per week charge and even then it takes like one hour tops.
+The most important question here is “You wear AirPods while shaving?!”
+If you can factory reset a PC easily, I’ve never heard of it. Usually you would be looking at downloading the installer for Windows, rebooting the computer with the installer on a USB thumb drive or a DVD so the installer can start without booting into Windows. Erasing the entire hard drive so it’s empty, then installing Windows so you have a fresh install.
+This is me as well. Plus size phone, easily 2 days usage with lots of music listening. People need to turn off their notifications more often. Don’t just let every app ping you all day. You’ll be OK not knowing about every update in the universe.
+They glue the new screen with black rubbery gunk that sets hard. I know because they replaced a screen for me too and afterwards the black gunk leaked for about a day and then just broke away when my nail rubbed along the seam.
+Not sure about that little wheel at the front.
+That’s why it has a Digital Crown. It makes the volume make so much more sense on the watch.
+And to any other position other than the top.
+Instead of scrolling content on the screen at full speed immediately you ease into and out of full speed like you do when accelerating and decelerating your car.
+Who needs iFixIt tear downs when this guy’s offering iBreakIt smash ups instead?
+He’s a bit of a Reddit troll TBH. Look at the downvotes he gets on so many of his comments.
+This! Thank you for being one of the sane ones.
+
+-craig
+I think the current design was intended, but I like how you’re thinking. If there’s no back button to display, move the title up. If there was a back button showing people would stop complaining about the way the animation works or the extra white space.
+I’m sure there will be nothing to complain about there.
+And yet during those 20 years they’ve gone from insignificant to the world’s most valuable company. So they must’ve done something right. They revolutionised the smart phone, pioneered sleek and light laptops, invented the most popular watch brand in the world. But they’re clearly rubbish.
+
+I know some of their latest choices have been a bit meh and some just downright bad like the horrible touchbar but have you seen the competition? Other brands make utter garbage.
+Yeah I can’t stand the notch either.
+Not sure what else it should do. It only looks like the screenshot when you’re at the very top of the scrolling view and it doesn’t flash between that and the centred title, it cross fades on my phone.
+
+Also, try tapping into a section of the shop while the title is large. It slides and cross fades the colour of the title into position for the back button and looks great.
+Well I learnt something new today
+Philosophically, is it still white space with that colour scheme?
+They can, but if you’re not jail broken they’re unlikely to be able to do much. Each app can only access its own private area of the device so a dodgy app can only really break itself. Also, the chances of a dodgy app reaching the public App Store are slimmer because Apple hand reviews every app before it goes on the store and checks for obvious bad practices.
+
+Android, on the other hand, has a more open infrastructure and any person who pays a few dollars to Google can put an app on the Play Store and distribute it without anyone checking what it does.
+Just use you.careAboutDev without the == True part.
+
+If you’re writing a logical condition you never need to compare with True or False as a literal
+>	== True
+
+You monster!
+Master Yoda would be proud
+To understand ....
+Not sure if tiny motherboard or massive graphics card
+Sexist much?
+
+Our IT department is about a 60:40 split.
+String concatenation without separating spaces - gonna have a bad time.
+With choices like that it’ll be a shutdown soon
+Please don’t use this new knowledge else expect death by a thousand slaps by your colleagues when they see you do it.
+You also seem to be accelerating while you take this photo 🤨😱
+Groan!
+A new kind of zero. It would be a bit dumb if it let you actually silence it completely given that’s your only interface with the device.
+Alexa, volume zero. Alexa, turn off the TV.
+Actually the first one enables the root account that’s normally disabled. The default root password is always blank.
+Always start with an SSD drive. You’ll blow yourself away with the performance boost.
+Just flip the 6th bit of the ASCII code and voila!
+Ahhh that explains a lot. Although the case must be able to do something because when AirPods first came out, there was an app for finding lost AirPods and it only worked if you had the (empty) case available.
+If you do a lot of vigorous typing, it often gets confused and thinks you’ve walked around a bit awarding you the hour.
+Raise it with Apple while you still can. Replacements only come with 3 month warranty.
+Exactly. The series 0 and series 1 do not have this feature. It’s something you can toggle in the Watch up for S2 and S3 under General > Wake Screen
+The Setting is under Clock and is called Monogram. It only appears on the Colour watchface.
+On your phone you can add up to 4 characters for the Watch face to display such as your initials. The Apple logo is a typeable character. But iPhone keyboard doesn’t seem to have it so you’ll have to copy it into the clipboard and paste it in the Watch app. Here: 
+Mine was very unstable on a 5 GHz network but I connected it to my 2.4 GHz network and have had no further issues.
+What do you think?
+
+If you have to ask, you already know the answer.
+Yeah, unfortunately that article is wrong. It doesn’t work now. Not on my newest Echo anyway. Didn’t try my older ones.
+They are both pretty much identical in their capabilities but the large Echo (I.e. not Dot) has much clearer sound. The Dot sounds tinny and is only really any good when connected to a Bluetooth speaker which they also both can do.
+
+If you can get hold of it, I would say the original Echo has the clearest sound of all. I think Amazon sell them reconditioned.
+Yup I got that and you still can’t oxidise hydrogen so your chemistry joke isn’t a chemistry joke. It’s a fairy tale land joke.
+We’ll aren’t you just the cutest little shit bag?
+Don’t worry about it. I was once the only person to get a question right in Maths class. Just because your answer is unique doesn’t mean it’s wrong. In fact, being unique but proving it correct is a requirement for getting a doctorate :)
+I see what you were going for but I don’t think you can oxidise hydrogen atoms — unless that’s part of your joke?
+That’s a good catch and explains why the volume bar keeps appearing each loop
+Yeah you try to find an Ikea with the puck style one in stock!
+In the older days Xcode didn’t create an extension class with the properties in. You’d add whatever functionality you wanted to a model class by editing the file you’d been given. Trouble was, when you change the model schema, Xcode would generate the updated model class by overwriting the file, losing your changes.
+
+The extension separates the auto-generated stuff from the bits you decide to add yourself.
+“Alexa, where should I go to pick up dirty girls?”
+Isn’t it the competition between them that makes them strive to do better? If they partnered there’d be no point in being better if they were already the best.
+If that was obvious why did you ask the question?
+There was an issue in early iOS 11 versions where someone somehow wrote those characters instead of the capital I people use when talking about themselves. Somehow the phones of their associates learned that this is a suitable substitution for a lower case i and started always substituting i with A[?].
+
+It was something to do with the machine learning they’ve baked into iOS 11 and it spread somewhat like a virus. 11.1.2 fixes it by reteaching the phone not to substitute i for anything other than capital I.
+I think most people have that on, it’s the default. It only affected you if you interacted with others who were affected because your phone learnt to do it from their messages. That’s the price of all this machine learning.
+When you say “getting it” you mean when you type I you still get A with the question mark appear?
+I take it you don’t have sticky keys turned on in Accessibility Settings? If so, it keeps modifier keys pressed after you release them.
+
+If not, maybe the keyboard is at fault. Try a different USB port and maybe a different keyboard if you can borrow one.
+Nope, the port is always in a state of flux. It detects you’re about to plug something in and moves the block to make it impossible.
+
+You try it one way — denied
+Try it the other way certain of success this time — denied
+Back to the first way — success!
+Is that a euphemism?
+Mine is an early 2015 Acenta. I don’t know what trim that is in the US market. We have three trims and this is the middle one. The lowest is Visia and has no sat nav touch screen. The higher spec is Tekna and comes with Bose sound system, leather upholstery and 360 cameras for parking.
+That’s a lot of detail! I appreciate your input. I did already understand the relationship between voltage, current, power and resistance but forgot to think about internal resistance so thanks. My science background is in biology but I dabble with electronics occasionally.
+
+I think working backwards from regen power to resistance might confuse people. You can’t change the resistance, you can only vary the input voltage and current. The key is that the car is monitoring the current resistance and varying the current to maintain the voltage.
+
+Also, for what it’s worth the max regen is 30 kW in the LEAF according to the dash info.
+My wife drives hers 30 miles each way to work and back. Usually has 50% battery left on her 2016 Acenta with 30 kWh battery. We also use hers for longer journeys. In excellent weather we just about make it to my parents who are 115 miles away. Even when we go further, it’s no big deal. You can put 100 or so miles more in the battery in about 20 minutes on a Chademo charger like we have at all service stations in the UK.
+
+Mine is a 2014 Acenta so only 24 kWh and I mostly only go to work and back 12 miles each way. I get 2 and often 3 days commuting between charges. I’ve used mine for longer journeys of around 75 miles but it’s more hassle and you feel you might not make it.
+
+If you’d be getting a 2018 model that’s 40 kWh so I doubt you’d even have to think too much about your journey no matter where you go. You’ll need a break to recharge yourself before the car needs one!
+
+I’ve not lost any blocks. I’ve got 23k miles on the car and it’s 35 months old. I’m expecting to lose the first block some time in the next 6 months to be honest, but I have nothing to base that on other than watching how laptop batteries deteriorate with age.
+It’s the only car my wife and I own. Never been a problem.
+That cat flap needs a wet cloth!
+Of course they are. But it doesn’t harm them to trim the tips off once in a while. I’m just saying if you don’t like them being sharp, adding scratching posts doesn’t make them less sharp.
+Is it?
+Just say “Alexa, switch accounts” before you start the music.
+That makes it worse. My two get claws trimmed every two weeks. Only one of them achieves pin pricks within two weeks again and he’s the one that uses posts all the time.
+But they didn’t centre it on the turntable *OCD twitch*
+Thanks, it’s reassuring to hear others have seen this.
+Isn’t that the same person making both those comments.
+I see what you mean, but what I can’t get over is the fantastic length of his enormous whiskers!
+Lol. Documents and Settings. They didn’t have that in Windows 3.1.1 at my school.
+A literal crapload of space per student. When I was at school between 92 and 99 you had 20MB of personal storage. If you needed more than that you had better bring some 1.44MB floppy disks along with you.
+Unless it’s per student
+Try not to charge the car say on a Friday and leave it at 100% all weekend. Charge it to 100% as close as you can to when you want to use it. Up to 80% and left all weekend is fine. Lithium ion batteries don’t like sitting at 100% all the time.
+
+Similarly, try to limit how often you deplete it to less than 10%. If I see getting to work and back will bring me into that zone, I’ll top the battery off a bit before heading out. Charging is really quick in the lower half of the battery anyway.
+`++C` or you’ll be off by 1 when using the value
+This is the first tine I’ve seen this on a non-iPhone. X screenshot. Hasn’t happened to me on iPhone 8 Plus yet.
+It does seem a bit redundant
+Yes you’re right. I thought it was 40 but I saw it today when going to work.
+As an iOS user I don’t mind paying for good apps. I definitely never pay for subscriptions to use an app for, say, a month or a year at a time unless the content changes and is worth it like Netflix.
+
+I never pay for consumables in games like gems or gold or hints.
+
+I will pay to unlock levels, but the free levels have to show potential for great content to come. I sometimes pay to unlock premium features but only if it’s a one off.
+
+99p is barely even worth thinking about.
+£1.99 has me stop and think whether I really want it.
+£2.99 has me really wondering what value I’ll get.
+£5.99 I spend super rarely.
+The most I’ve ever paid for an app is £9.99.
+
+Hopefully this will help, but Android is even harder to monitise than iOS. Good luck!
+Perhaps this is a premium feature? I didn’t stay free long enough to notice what was missing.
+Ah, I hadn’t considered but I think the abbreviation I’m seeing is in the client I’m using. Apollo app on iOS.
+Absolutely. The car’s only done 21k miles and I hear it’s reasonably normal to keep all 12 up to 30k or more.
+Is the cat called Pixel?
+Your theory would be sound if it weren’t for the fact they were called Activity before Fragments existed. Back in the day, all you had were Activities full of Views and nothing else. Fragments were introduced to allow tablet layouts to be different from phone layouts without writing two separate apps.
+No, it’s the left one
+I do drive with eco mode so it’s not that, but a good guess!
+
+The warm pack from using the timer seems a great idea. I’ll definitely look into that if this is an ongoing issue.
+Thanks for the info. I don’t know the first clue where to find a Chevvie dealer in the UK. They don’t seem to have made it as big in the UK.
+Interesting. I’m not at all worried since it’s under warranty for 2 more years. I’ll mention the late availability of full regen at the service in a month.
+
+The slower acceleration is likely in my mind. It just feels like it might be a bit hesitant when very initially pulling away from zero.
+
+I don’t think UK LEAFs have the battery heater. We rarely dip below -10°C which is 14°F so it would never come on anyway.
+Wow, thanks for the info. When my LEAF is using all 4 regen dots, it’s 40kW which works for me for most braking.
+
+I believe they changed the battery design in the 2014 LEAFs to add B mode for higher regen and to help resolve high degradation of the first gen batteries.
+Cool, but what about the database that records the current vote count?
+
+Also an interesting display choice by Reddit to show > 1000 as 1k but at -400,000 you get no ‘k’ abbreviation. I expect they never anticipated someone having negative thousands and the logic is something like “if over 1000, divide by 1000 and append ‘k’”.
+It does help a bit if you name your timers, but I totally agree! However, I can imagine it getting a bit tricky to work out what she meant with more than one timer.
+
+“There’s 5 minutes left on your 30 minute timer. 10 minutes left on your 20 minute timer and 20 minutes left on your 35 minute timer.”
+
+Wait WAT?!
+Oh if only their solution really worked. Set two timers for the same amount of time then ask her to cancel one and see what happens.
+Thanks, I think you’re right but just wondered what other users are experiencing as well.
+
+For what it’s worth I don’t think my LEAF has a battery heater like some other countries do, but I do expect the regen is limited by the rate at which the battery is capable of receiving a charge and that rate of charge is likely to be reduced in cold temperatures.
+Thanks for this. Sounds like there’s a feature coming to learn who in your household is speaking and the error shouldn’t be coming up at all but in the UK the app has a bug and shows this message before realising nothing has really gone wrong so the error goes away.
+For me I’m a regex-a-holic and nothing has yet surpassed Sublime for that. Its real time match highlighting gives you confidence that you’ve written the correct pattern and to try complex patterns out.
+You do know VSCode is not full visual studio, right?
+Oh yes! He has the personality to match. A proper little gentleman.
+I’ve not seen anything even close to this on my 8 Plus
+Yes. I heard breakdown companies are rolling out vans with batteries on board to give you enough top up to reach the charger.
+Wow, just how much water do you use each time you use the toilet?!
+Thank you for the clarification. I was trying to work out why there was bacon in the top left!
+The iPhone X does seem like a hot mess
+My first guess would be this is related to TrueTone which might vary the colours shown because of the changing background colour illuminating the room you’re viewing in differently.
+That’ll be because if an ICE car runs out of fuel you can bring some to the car in a can. Electricity doesn’t fit in cans quite so easily so you have to bring the car to the charger.
+That’s cool! Is that crocheted?
+Obi Wan
+You can stop by paying off the entire remaining balance at any time and keeping the phone. You can then, if you want, sell the phone and it should be worth more than the remaining balance you had to pay unless you do this after only very few months.
+I suppose it’s also worth considering that the best camera tech only comes on the Plus phone. There’s no portrait mode on the smaller one. I don’t think the Plus is way larger than the S8 and the smaller phone screen feels tiny compared to most Android phones.
+Let’s put it this way. You get to 12 months and want to upgrade. You return the phone (keep the accessories) they cancel off the rest of the payments. Then you sign up to the new upgrade programme on the next phone with exactly the same terms and payments as everyone who’s signing up for the first time.
+It’s good to hear you’re enjoying the new features. I decided to wait a year and let the wrinkles get ironed out first, but the successes sound promising.
+
+For what it’s worth, I know you said you can’t wait to see what people do with the notch but Apple’s design guidelines say developers shouldn’t try to use the notch. They might even reject an app during app review if it’s obvious you’re trying to take advantage of the notch.  This tells me Apple are possibly thinking of changing its position or size in future and don’t want apps to break again at that time.
+Get the Plus. Battery can be two days with moderate usage on the Plus. I know it seems far too large, but you get used to it far quicker than you expect, then the non-Plus looks too small.
+Exactly. I did this on my iPhone 5s back in the day. Phone up Apple Care and ask to purchase Applecare+ within 60 days of receiving it. They’ll press some buttons their end and a diagnostic option will appear on your phone. You run the diagnostic, pay the money, and you’re covered for two years.
+Apollo is very new. Version 1 was only 2 weeks ago. It’s showing amazing promise.
+When you reset your phone did you restore a backup? I think the Podcast app’s documents might be in the backup.
+
+There’s a screen similar to the iCloud one for looking at contents in the iPhone’s internal storage. Is the used space listed there?
+If you go to Settings > iCloud (at the top with your face) > iCloud > Manage Storage . Is Podcasts in that list? If so you might be able to delete it from there.
+I had this problem a few years back. There’s no way other than to reinstall the OS by resetting the device. Uninstalling and reinstalling Podcasts or any other built in app doesn’t really uninstall it. It just hides the icon.
+
+I stopped using the podcasts app for this very reason as it kept losing space on my device to silly bugs. Try using Overcast for podcasts and you’ll wonder why you haven’t done so before.
+I charge mine all night (7 hours or more). It’s not a problem to leave it plugged in that long. If it were plugged in for more than 3 days I’d worry, but a few hours is fine.
+Thank you! Yes I hadn’t noticed it had messed with the spelling :)
+Don’t forget to tell the tax man about your extra income.
+Oh yeah! Same here. It’s called a moire pattern and is caused by two grid patterns that aren’t aligned. In this case your devices pixels and those reflected in the photo I imagine.
+Good bot
+Yes well that’s the great thing about automated testing. Clearly it was so good they didn’t have any bugs on the first release.
+
+It sounds like you should get your CV over to them. If you can test an entire OS in an afternoon you’d make a valuable member of their team.
+You can’t adjust this, it’s a built in feature of iOS. As a developer all you can do is tell it which characters of the alphabet you want it to show and the sizing is completely out of your control.
+This seems to happen when you say you want posts or comments from the last day for example. Then the infinite scrolling just loops around the top entries.
+As a developer myself I would say it’s great that you are reporting the problem you’ve experienced but I doubt the developer for Apollo is going to be able to do anything with a report like this. Unless you can make it happen consistently and can bullet list how it’s reproduced or at least say what the last few things were that you did before the problem happened, it would be like finding a needle in a haystack.
+!isbot CoolAppz
+Almost certainly because it needs careful testing on dozens of supported device models before putting it on millions of live devices. The calculator bug may be annoying, but it would be even more so if the update bricked your phone. These things come when they’re ready. There’s no space for under-tested software in OS updates.
+Only 93.7253%? That’s actually quite low.
+That used to be true. No it’s no longer a legal requirement but sites continue to do so. Someone very stupid came up with this law when they decided cookies could be used for bad. Users need to learn how to control their browser instead.
+That’s what I was just thinking!
+Is it even what? On a wall plaque?
+Yes I know. I checked and people were still talking about using it in iOS 10 so I thought it might still be useful information.
+I can’t agree there’s a “huge” quality difference, but to each their own. I don’t have a dongle hanging out of my phone and the quality is more than fine.
+Bluetooth is always coming along. I don’t feel the quality is particularly different from wired. I can highly recommend the Jabra Move if you like can-style headphones but want to try Bluetooth for not much money.
+You need to get on the Bluetooth headphone wagon. I have AirPods for my iPhone 8 Plus and they’re truly amazing. No wire means no accidental snags on things.
+It would but the notch isn’t a compromise.
+
+Apple have long made iPhone identifiable as an iPhone because of the round home button which no other phone uses. Then people said “we want edge to edge display” and the home button had to go as it wouldn’t fit. The iconic design would become like every other edge to edge phone.
+
+However, put a notch on the screen like nobody else has and that’s your new trademark. People see the notch, they know it’s an iPhone. It’s recognisable and that’s what Apple wants.
+Unfortunately there are still apps in the store that don’t support the larger iPhones, so it will be a while. As a developer of iOS apps myself, I also know it’s particularly tricky to get your app right for iPhone X. This is my number one reason for delaying buying the new form factor iPhone until next year.
+Where do West and South fit into this list? One quarter of the globe have a lot of scrolling to do.
+AFAIK you use a Mac desktop app to change the carrier display settings. It talks about it here https://www.cultofmac.com/207903/you-can-finally-change-your-iphones-carrier-logo-without-jailbreaking/
+Better try a large amount to test the system’s limits
+Just to clarify, when you send money via Apple Pay it doesn’t go into that person’s bank to start with. They have a wallet with Apple that the money sits in until they decide to put it in their bank account. The money arrives in that wallet immediately. When you pay with Apple Pay in say a shop I believe you can use the credit in the wallet instead of your cards. I’m speculating on that last point!
+Thanks for the info. That was useful.
+Ah I see. Yes I agree with that sentiment.
+So how would you write the isOdd method?
+
+if (x % 2 == 0) {
+  return false;
+} else {
+  return true;
+}
+
+???
+
+If so, you’re doing it wrong.
+Try searching for the app by name using spotlight and see if you can find anything useful in the list.
+Go to the clues screen of three different puzzles of different colours. Tap the first clue of one, the second clue of another and finish with the third clue for this puzzle for it to light up.
+Just added you, I'm 34 and username is SDJMcHattie friend code 5258-2199-9095

@@ -1,0 +1,827 @@
+Code says letters need to be upright.. I guess if the device was unmarked then yes, this would be okay, but it’s marked, so it’s not okay.
+
+EDIT: Still not okay because someone mentioned that the reflectors in the strobe are aimed specifically to go down. If the reflectors didn’t matter, and the lettering wasn’t there, that is the only way this would be okay.
+Yeah.. Even if that's the case, a real technician deals with the rat's nest and fixes all issues.
+Any chance you know if string based will work with Softphone apps for anyone with a VOIP app on their cells?
+The raspberry pi idea is interesting, but visiting each existing phone isn’t an option. I’ll look into string based when I get back to work
+Think I would benefit from not opening the default port, but maybe switching to a different port not commonly used for SIP? I know it isn't idiot proof, but it might help discourage bots.
+Haven't heard of opensips before today. Interesting, and I'll look into it. I have PFSense up and running as a firewall, would that be an appropriate solution as well or would it be better to utilize opensips?
+Your post said this is in the garage. Does the reading change if the CO detector is moved to your apartment?
+/u/wildchildbird Listen to /u/Northern-Canadian here. Your detector is fine. A lot of us commercial fire alarm guys don't like Kidde for reasons that probably don't interest you, but that's more of a company based thing rather than their actual product, and it's unfortunate that most people think that Kidde makes bad products, because they don't - They generally make very good products.
+
+Kidde has recently had a few big recalls on extinguishers and smoke detectors, but that again really doesn't apply here. The items themselves were fully functional, but they were recalled due to manufacturing mistakes more than anything. SO! With that in mind, don't waste your money on another detector.
+I’m with you, that’s a no no.. despite the windows being open, that’s her living space and you don’t go looking into someone’s living space just because you can
+Okay, I found the original comment to see what the karma got to, but I see the OP was deleted... Reading that title, however, what on earth was the post about??
+Chicago.
+No chance they can “donate” just, like, $1 Million to me maybe?
+May God rest your soul...
+I'm in Databases, and an Intermediate Java course.. Didn't think Java would teach me more about databases than Databases would.
+In my development mode, I made it work on mobile, and when I rolled it into production somehow it's not working quite right.. Still trying to hammer that one out. Hopefully I'll have a fix within a couple days.
+Thanks again, got it updated!
+The grammatical error in “They’re” infuriated me more than the OP...
+Cubs fans never leave early. Leaving early is a sign of weakness.
+I didn't realize how cold it got so quickly.. Was watching the game in my dorm and went out in jeans and a t-shirt to head to class.. I was cold, but didn't bother going back for a sweat shirt... and now I'm going to regret leaving class later.. (Watching game in class of course)
+Thank you! I'll get those updated and next time I push and update to the production server, those changes will be made.
+It's not mobile friendly yet. I'm almost done with updating the CSS to make it happy on mobile!
+If it helps, I'm going to start a series basically going over everything from small to big with alarms. Making hands on videos and such. I'm not as good as Joe, but I'll try to do my best.
+I asked him the same thing. It just came down to time. He got promoted and is just so busy he doesn't really have the time to make the videos anymore, for now at least.
+These videos taught me a lot when I first started. Low and behold I ended up in the same company this guy works in. Had no idea, as I started watching his videos YEARS before I applied. Check him out here: https://www.youtube.com/channel/UCU6G3_8kDy3n0GtIcYj5wBA
+As much as I feel that'd be helpful, that varies quite a bit from state to state, and to write a full list would be crazy. I could probably try to find a link to local state codes for things like that.
+I considered that, but while I'm off at school I don't have a code book sitting in front of my face right now, so I kind of just went with what was off the top of my head.
+
+I'll have to look into that in more detail. I appreciate the feedback!
+Side note: please let me know if I spelled like a moron. It's possible.
+That’s true!
+Dammit.
+DAMMIT!
+Baez - Go for base hits, not home runs.
+J-HEY! You just made me change my mind about you!!
+"Bases loaded! Who's up? Oh crap..."
+Upon further inspection that city is in my market.. Wonder if it's my company's inspection?
+Must be voice evac..
+As someone who lives close enough to hear the fire works, White Sox are playing... Freaking south siders.
+Normally I’d still have a copy of the paperwork, but we were supposed to be elsewhere that day so only the lead tech got it at the time.
+
+I just know that it’s the older version of FCPS 24 that does not have syncing options.
+That just means I didn't do an actual exercise that day, but still burned the calories, hit the exercise minutes, and stand goal.
+We’re close to the party now
+RemindMe! 2 hours
+18 inning party starts in one inning
+
+FTFY
+I did have another guy with me. He let me out, it was my first week on the job. Pretty embarrassing. Wasn’t synced, we wrote it up, not sure if the AHJ wanted to do anything about it or not. The power supplies were too old to do sync.
+Well, that's nice.. My HP G5 DL360 is running Plex on Ubuntu Server in a Proxmox VM.. Transcoding (especially Live TV) isn't great... Might be my crappy 20 MBPS up connection slowing it a bit, but even local streaming could be better.
+Happened to me in a middle school. In the school's defense, it's likely a security measure and the exit was behind me, but it was hard to do the rest of the test: https://youtu.be/AkCe5x_u90w
+
+Edit: it's important to note that I stayed back to make sure the doors fully closed.
+And of course they are from Illinois. Drivers here generally suck more than most places..
+I thought this was /r/Chicago for a minute.. Go through OTC all the time, unfortunately I missed this lovely inflatable.
+There is already a thread about this: https://www.reddit.com/r/youtube/comments/87dnrj/cant_scroll_through_subscriptions_anymore/
+
+Adding the following to the end of your YouTube page brings you to the older UI, which still works with the scroll bar.. Hopefully the new UI fixes it soon.
+ 
+    /?disable_polymer=true
+Adding the following to the end of your YouTube page brings you to the older UI, which still works with the scroll bar..
+ 
+    /?disable_polymer=true
+Update: I’m not crazy https://reddit.com/r/firealarms/comments/85qk36/co_detector_question/
+Someone confirm I’m not crazy: hasn’t this been posted MULTIPLE times before?
+I tried my best.. I’m still new-ish with Plex so I knew what I was trying to say, but didn’t know how to say it.
+See /u/Majawat's comment. It explains what I mean: https://www.reddit.com/r/PleX/comments/86dcl3/plex_home_users_cannot_tune_to_live_tv/dw4ippl/
+Thank you, this is what I was trying to explain.
+Well.. You're a friendly fellow..
+
+Yes, they are FRIENDS who are also part of my HOME users.
+Sorry, I should be more clear: They are Home users, but not managed users. They have their own Plex account.
+I got it to go away with a restart for now.. I know that it's new, but I don't see that why for months I should have to keep restarting the server to tune a channel.
+That is checked for those users.
+Friends. Each user in my household has their own account as well.
+AES generally works well in higher metro areas, but they go out pretty far because it's a mesh network.. Whoever set you up with monitoring before (likely who you pay the bill to) is the person to contact about this.
+
+IP/GSM is a good option in most places with good cell signal which I see you mention is a non-issue, but definitely call a licensed company to have them talk to you about your options.
+
+Unfortunately, even though it'd be nice and easy to hook up a VOIP to analog converter, this is not UL listed and if internet goes down, so does your panel. That's why we like dedicated AES (very popular in areas like mine) or IP/GSM.
+Don't worry devs, I've got you covered
+
+    #text {
+         word-wrap: normal;
+    }
+
+sauce: https://www.w3schools.com/cssref/css3_pr_word-wrap.asp
+
+Steak Sauce: I'm TOTALLY an expert 😎
+
+You guys can thank me later for saving Reddit.
+Side note, it works right on classic
+Link to original comment: [https://alpha.reddit.com/r/funny/comments/85r5rg/stephen\_hawkings\_cat/dvzzqkv](https://alpha.reddit.com/r/funny/comments/85r5rg/stephen_hawkings_cat/dvzzqkv)
+Those little battery operated things do weird stuff. Nothing to worry about unless it continues doing the 4 beeps. Those beeps are a self test upon boot up, which is normal.
+
+When testing higher end CO detectors on commercial fire systems, upon testing the light turns red, and goes back to green wen the test is complete. You probably have nothing to worry about.
+That wire looks damn good!
+That returns those IDs I need, but I don't know how to use the IDs to pull the other information. That's what's getting me stuck.
+In terms of your store.. Consider selling those universal DC adapters? With the ability to select voltage and different plug ends? May come in handy... I know Radio Shack used to have a shelf of all the adapters (different voltages and amps) as well as any DC plug size you could dream up.. Unfortunately my closest radio shack is now over an hour away..
+[I'm broke.](http://f.thumbs.redditmedia.com/wPjOQrGRacUELOnM.png)
+Side note: I’m aware that might be a bit of a noob question, but I’ve never had to do it
+If and how could one pull the sensitivity from the MS-9200UDLS using a laptop?
+Hey Ken! I happen to know he has sent in Modmail. Please double check! 😉
+You’re*
+They shut them down? Anyone know why?
+Thanks! Cool how that works!
+Well, I understand that but can anyone outside of Simplex actually use these things or are they pointless if you aren't a Simplex tech?
+Nothing too notable, but I feel better than I used to!
+All too often.
+I’m in college, so luckily I have access to a couple fitness centers around campus. I often do an indoor run, elliptical, or bike for a very long time and work my ass off. If I’m traveling around the city, I treat every walk like a healthy power walk outside so I track those too!
+We have the elevator tech come out. We tell the customer upon scheduling inspections that if they have an elevator, they must schedule with the elevator guys in advance. If they don’t schedule it, we inform the customer that it will be written up as “no test” for those devices and we’ll have to send that to the AHJ.
+
+The most access I’ve ever seen us do with out an elevator tech on site was reset elevators that go into recall upon a general alarm. Beyond that, we will not go near those elevators. We test smoke functionality in the lobbies too, but keep recall disabled at the panel.
+“My name is mommy and I’m here to say! Oh I can’t rap” -Rachel Green
+I need to figure out how to be more creative first! 😅
+Well damn... is it too late to be creative? Because this broke college student here is ashamed to say that all his mass storage is done on a ~~WD~~ different company’s USB hard drive and not only is it slow and unreliable, but I have no redundancy.. 😕
+Spent all my money on Apple Products.. Cannot afford Legos... send help.
+That'd be awesome! It just seems odd to expand the content and NOT have audio. I can understand the concern of auto play, but only if the content opens on page load. Expanding it should work as if I clicked the direct link itself in my mind. Does that make sense?
+Is there a setting for this?
+If I’m expanding it from the front page, I want to hear it!
+Right now Apple is the only ones I know of who actually do this.
+Yes, same guy. This was months ago now.. I can’t believe this continues.
+Correct. Connection information is not actively saved online. 
+Saw him on the green line. He placed it right on top of my bag, not even next to me even after I held my hand up and shook my head “no”. He didn’t care. I set it aside and went about my business. He grabbed it on his way to the next car. Totally knew it was a scam.
+as [u/JaysRooted](/user/JaysRooted) stated, details are not stored online anywhere. In a business/school environment, the company/school themselves may be tracking traffic going through their network, but that has nothing to do with Comcast.
+
+This is a non\-issue on a normal residential account.
+Is it possible this is just the digitizer (touch screen) that goes under the glass?
+Bad bot
+This seems to be a bug with Live TV from what I can tell. I'm seeing the same issue on my server. I see everything, they don't. Hopefully a future update will patch it right up. \(Also hoping for a real damn guide already.. Or at least the ability to tune to a specific channel number\)
+JUST came out on the Apple TV the other day! Tested it and working well for me!
+Just started using it this past weekend. There are some things that pester me, like the crappy guide, but Plex swears they are working on fixing that. It's been working pretty darn well for me after the first 20 seconds it takes to initially buffer.
+Watched this episode last night. The joke never ceases to make me laugh!
+It amazes me how little it seems the developers for these companies care to keep their program up to date, and up to date well.
+I’m not a huge Sims player, though I do have the game. My girlfriend plays all the time and loves doing these things! I’ll make sure she’s subbed to, she may be already!
+And the office! I'll subscribe!!
+Edit: I apparently cannot spell Bass... Thank you all for understanding what I meant.
+Oops... I typed that up quickly.. I'm ashamed with myself.
+Are we referring to song choice or the bass quality?
+Don't be mistaken. If you are AirPlaying Spotify from your iOS device into HomePod, you CAN say "hey siri, next track" "previous track" at least. Not sure about pause and play but I don't see why it shouldn't. Now, it probably will NOT work from a Mac, like /u/WhatsUpBras is mentioning, because at that point, it's just being sent one way. Different protocol.
+I've had trouble getting it to sync up as well. I hope AirPlay 2 maybe helps that, but I'm not sure it will. I know the Apple TV works well, but my macs are not playing nice.. 
+"Humble" my ass..
+If you laugh too hard after that procedure.. does it hurt down there?
+I was at that game last night. The bear and Tommy the Hawk walked out with their arms around each other! They did the small, medium, and large bear thing as well, and the girl kept denying each one. I saw yesterday’s post and was thinking “copy cats” and then the end happened!
+'Twas at the game last night. I have yet to see a winning game. When we got the first couple goals last night I had hope..... My mistake was having hope.
+I just pulled out my season 2 DVDs to watch these... It made me happy.
+That I understand. I actually just addressed that in a recent video of mine. I received some Notifier modules, and put them on my Fire-Lite MS-9200UDLS.
+
+I made a point of saying that even though this technically works, and everything properly reports the the panel, it is NOT UL listed and therefore, on a real system, is not allowed, but for my purposes, I’m fine with it! As long as it works, I’m happy!
+Welp.. I checked it out but no one seems to be around in the 90% room... Guess I'll be back later!
+NFPA requires that too. That being said, there might be something to be said about what is or is not UL listed in terms of using Simplex horn/strobes on maybe a Fire-Lite panel or something similar. My understanding is, depending on the jurisdiction, they may say that even though you can make it work, the AHJ might say to replace everything, including horn/strobes.
+Ah yes, FWR can supposedly kill Simplex. The first video showed the strobe going wild instead of syncing, but I put a filter in line which resolved the problem. Now, of course that filter is not UL listed for fire alarm so it cannot be used in the field, in fact the supervisory voltage is so low that the filter doesn't even let it through, so no supervision.
+
+In the field, if for any reason a Simplex panel was being replaced but field devices were to remain the same, the installer would have to get a panel or power supply with clean DC. In fact, those 4009 NAC Extenders output the correct current and the sync signal, and they can be triggered by a NAC, so I guess those could also be an option if they were existing in the system. Now, is there an easy way to sync two separate extenders? I don't know that, but it'd be cool!
+Thanks! I have a YouTube channel that showcases a lot of my projects as they come about. I don’t remember if I’ve posted a video here, so PM me if you’re interested in taking a look!
+Thank you! I have a few different speakers, so when home from college in a couple weeks I'll have to take a look at what I have. I'll see what I can find out.
+I've learned to try and ignore this guy... He trolls my posts all the time for no obvious reasons.
+it's*
+Jake, I purchased your Jersey for a reason. You became a favorite of mine very quickly. You will be missed, but do well and get signed quick! Just not to the Brewers and even though I don’t even think it’s an option, stay away from the Cards too..
+
+Do well good sir, do well.
+Ha! Sorry about that, but thanks for the feedback! I’ll be sure to cut out the magic words next time I do a video of Siri in any way! 😉
+Not HR, Sabre guy though. Gabe. I will always see him as Gabe.. or a palm tree..
+
+> Is that a palm tree or did Gabe get skinnier? Either way, let's pee on it.
+
+-The Office
+Oh.. I apologize for that. I’ll edit out the magic words next time!
+All great questions. My Apple TV is at my dorm, but I’m home this weekend so I am not sure about that just yet, but I’ll let you know when I return to school!
+
+Yes, they all activate, but one of them eventually decides to take the request and the rest shut off. While I was testing, I had my phone take requests for texting rather than the HomePod, but if the phone was in my pocket then the HomePod did it.
+The HomePod is a stand alone device, so yes, it will have its own internet connection, and will keep playing even if your phone is not nearby.
+Wait.. People still use Skype?
+No, you will need to wait for Airplay 2 to have multi-room HomePods (non-stereo). Hopefully the "later this year" isn't too late!
+Could we just have the picture uploaded to Google Drive or something for download? I mean, if it’s a Live Photo it may benefit from zipping it before uploading so Google doesn’t mess it up, but I think it can be done.. right? That way you won’t need to keep texting people OP
+I also like the idea of it all being piped. Everything is a ground, so if a wire gets damaged somehow the circuit will likely break before there is any issues, which may not always happen with Romex.
+
+After getting feedback from people here, I’ve decided that if I ever have the money to build my dream home, no matter where it is everything will be run in conduit for both high and low voltage so it can be easily replaced as years continue.
+Well this looks simpler than my antenna.. I was cutting up sheets of aluminum and taping them up to my old satellite dish.. it worked enough, but before I cut up sheets of aluminum I had cardboard wrapped in foil which did a mildly better job of getting signal.
+
+How far are you from the majority of broadcast towers? And how well was the reception? I’m 47 miles away from downtown so.. I’m on the edge of the broadcast radius.
+Don’t show up for the interview, don’t get hired.
+If not immediately, hopefully it’ll come in a software update! I’d love the feature as well!
+/u/BlackCucco posted it 3 hours ago..
+I think OP wanted to know if they can have the HomePod start playing specific music if you say something like “Hey Siri, it’s party time” which would set a home scene that starts a party playlist for example.
+Understandable. The light bulb trick sounds pretty cool! I have seen it before where someone I know cut the power from the breaker, and activated the system in alarm. Made sure the horns sounded as long as they are required to while he ran around and did his test, and then turned it back on. I don't know if it's really practical, but I guess that's about as functional as a test as you can get.
+I actually made a video of how it can be DIYd pretty easily. I got a part from auto zone that provides the proper resistance, wrapped it in electrical tape (because it gets hot AF) and sure enough it’s really damn accurate! If you’re looking for something super cheap, but reliable, it’ll do.
+
+LET IT BE KNOWN: this is not to say this is professional, by any means, but I promise it does work very well. Here’s the link to the video if anyone is interested, links to parts in the description:
+https://youtu.be/apebnhWhOJQ
+
+Side note, may not be a bad idea to keep this thing away from anything above 35 Ah.. that’s been my max out and it takes a long time to ensure the battery is doing its job. 
+Oh cool! That's in Chicago!
+To be clear, no one said that OP is a thief, but the eBay seller seems to have sold OP a modem that is the legal property of Comcast.
+Unless you're in Chicagoland and everything is run in pipe.. Then it's only metal.
+
+But I've seen what you're referring to in installations that do not follow our local codes. Plastic only IS common here.
+At first I was looking inside the panel thinking "That's not too bad" and then I looked at the rest of the picture... That is not pretty.
+That’s pretty standard, and unfortunately that is one of the models that does not have any actual functionality in the USB ports. To set this up, you can either use a secondary router that supports the functionality, or setup a NAS system with another computer on the network.
+
+Here’s to hoping the functionality comes out soon!
+Hi /u/odoyle71!
+
+This will depend on the model of modem you have. Unfortunately, there are rental modems out there that have inactive USB ports.. Just learned that myself recently. Do you know your modem's model number?
+This post has been marked as a [discussion](/r/Comcast_Xfinity/wiki/post-flair).
+
+If you have questions regarding why this post was marked as a discussion, please [reach out to the moderators](https://www.reddit.com/message/compose/?to=/r/Comcast_Xfinity).
+You may find this page helpful, it'll allow you to put in information about what's in your area, what kind of modem you need, etc... And it'll show you all compatible option: https://mydeviceinfo.xfinity.com/
+This post has been marked as a [discussion](/r/Comcast_Xfinity/wiki/post-flair).
+
+If you have questions regarding why this post was marked as a discussion, please [reach out to the moderators](https://www.reddit.com/message/compose/?to=/r/Comcast_Xfinity).
+I had trouble trying to make the Open VPN file myself. Yealink informed me that when I made it, my Mac was injecting some kind of file in it. I fixed that, but my real solution was because pfSense is my Open VPN host, I just exported the files for Yealink and it worked well!
+Okay, my order is placed with the proper delivery date. I’m happy!
+I suggest going to bed.. if the store didn’t go offline, it likely won’t be up tonight.
+I dont know... I guess we sleep and hope it doesn’t go out of stock by the time we realize it’s up..
+Is this for business or residential if I may ask?
+Well, I jumped up thinking “OH CRAP I MISSED IT” for nothing...
+To help us get a better idea of your setup, can you let us know what equipment you have? What the model number of the modem and, if it's there, secondary router so we can get a good understanding of your setup?
+/u/SaiyanOfDarkness let me further point out that I DO see this listed on Comcast's compatible modems, at least for my area, and don't initially see any particular reason why this may be out of place. I certainly hope your modem is still functioning as expected.
+
+One of the staff members here will be able to actually look at your account and provide you with more info. Until then, why don't you have a look at [this Xfinity page](https://mydeviceinfo.xfinity.com/) to ensure the modem shows up as compatible in your area as well. (It'll make you put in a download speed, even if it is irrelevant, select one that it is <100 MBPS as that is this modems limit) Also, in your search, enable the "voice" checkbox on the left hand side of the page.
+I do agree with you that this is peculiar. Now, I will say that I don't know ALL Comcast compatibility, but I do know I have a similar modem on a business account used for voice, so I am familiar with the style. To be clear, I assume you own the modem?
+This post has been marked as a [discussion](/r/Comcast_Xfinity/wiki/post-flair).
+
+If you have questions regarding why this post was marked as a discussion, please [reach out to the moderators](https://www.reddit.com/message/compose/?to=/r/Comcast_Xfinity).
+I’d love to see more posts like this.. kind of like what /r/Electricians has going on. Lots of posts from the day to day work, but also a great place to get help when needed. Always filled with new posts every day. I’d love to see that in this sub!
+You may find [this page](https://mydeviceinfo.xfinity.com/) helpful, as it will show you all compatible modems. Be sure you check the box for "voice enabled" and those will basically be your best options.
+Tempting..
+Correct me if I'm wrong guys, but security wise is opening port 5060 a good idea? I thought I've seen it before that most people recommend VPN.. That's how my system is setup but it's a royal PITA because my remote endpoints don't auto reconnect to the VPN if there is an internet outage.. users getting aggravated.
+I will say that I've noticed that sometimes it doesn't like to ever find the update.. It just keeps saying "checking for update" forever. Generally I wait a couple hours and try again later.
+OP is referring to Eduroam specifically, which yes, is a certificate and does NOT require a browser based login. My watch is capable of connecting to my Eduroam network, so not sure what OP's issue is... /u/dontsIedonme have you taken any troubleshooting steps?
+Let me also say I looked at your pics again, and it seems that bracket will NOT screw directly to the j-box. If that is the case, you may NOT use that green screw, as there will be no ground.
+**Note: I'm not a high voltage guy** but it appears that the green screw you see is designed for junction boxes that are properly grounded, but note that not all j-boxes are created equal. I'm in the Chicagoland area so here EVERYTHING is in pipe, and all pipe is a ground always. In your case, your romex wire in there likely is not in pipe, meaning the junction box itself isn't directly connected to ground.
+
+That thin copper wire in there is your ground wire and since you have a metal box, it SHOULD be attached to your ground wire. If it is, I THINK you are okay to just run the ground wire on the fixture to the green screw, and when you screw the fixture in place, it will be grounded. Otherwise, you can connect the ground wire on the fixture directly to that ground wire in the box.
+
+Any electricians who are more familiar with romex and how that works, please let me know if I'm mistaken. We aren't allowed to use romex out here so even though I think I'm correct, I don't want to give OP false info.
+I would check out this YouTube channel which gives clear instructions of how Fire Alarm systems work. When I was starting, I ended up coming across this channel and learned a lot! He stopped, unfortunately, but still great content! Have a look!
+
+https://www.youtube.com/channel/UCU6G3_8kDy3n0GtIcYj5wBA
+If you cannot find out the codes, you can always disable horn strobes the old fashioned way: grab a screw driver and disconnect the NAC wires. If the building is big enough to have any NAC Extenders, correct me if I'm wrong Simplex people, but I imagine they are likely triggered by the NACs, and not MapNet like the newer IDNet NAC Extenders (or the even newer ES series devices).
+
+Provided it's a 4100, and not a 4100U or ES, they cannot be quickly re-programmed like we are used to today. Back when these were new, the program would be written to a disk, and not really touched or modified until they absolutely needed to be. In some cases, in the event one of these panels goes bad, it can be cheaper and faster to replace the entire system than have Simplex re-program it, which is likely why they will not be very helpful.
+As a suburbanite here for school - THANK THE HIGH HEAVENS!
+I'm an IT student and I wouldn't even make such a monstrosity...
+> xmas shitdown
+
+The shittiest time of the year?
+Got that part working, but need to force those servers so end users cannot change it. You know how to do that?
+One solution I'm looking into is OpenDNS. Set up the content filtering that way, and we can force their DNS servers which should allow for filtering. Right now, I'm working on figuring out how to force DNS servers in the network and not allow traffic through to clients that try to change DNS servers... That being said I'm still new with pfSense, and still in school for ITM so I don't really know how to do that YET.
+Make sure you have your gBoard set up so it has full access. If you still don’t want the stock keyboard, you can try to disable it. This may help, but probably won’t make it perfect.
+
+For example, there are a few apps that android developers “made for iOS” by clicking the port button in their IDE. This basically forces a crappy keyboard and often makes it look lower res and doesn’t fit. That’s one reason why sometimes your keyboard won’t show. DONT PORT APPS PEOPLE!
+If you have more than one NIC, monitor the data going through to your system. Then make sure you have your inbound routes set properly.
+Guys, correct me if I’m wrong, but with out “syncing” the music, can’t you just click and drag the album up to the attached phone?
+You're making me feel old (in Apple Watch Years) considering I still own my OG Series 0 in Space Gray which took forever to show up back at the initial launch.. I was on this sub forever just watching everyone getting their new watches while I was still waiting on mine... Good times.
+You’re right, there are, but a lot less of them are actually titled “My Watch, My Ride” anymore. That used to be all they were!
+Username checks out.. speaking from experience?
+MWMR is such a throwback. I remember when the watch was brand new MWMR posts made up 90% of this sub..
+Tried it, and it stopped accepting inbound calls. So basically I have two trunks, (the pjsip one works but the system thinks it is "offline" because it's trying to find it through the incorrect network interface). pjsip takes care of my inbound, and Chan_SIP is my out... Really annoying, but until I figure out how to fix it then this will have to do.
+Nope, everything is set to allow any and all calls both directions. Setup Chan_SIP as an alternate trunk which fixed my issue for now. Right now I have some phones who don't want to reconnect, so I'm trying to work around that.
+Well, I'll be dammed. I have it set up and outbound works. I also have pjsip and inbound works. Seems like everything is working! Not sure why it was giving my trouble, but I'll take it. I have all of my extensions set as pjsip.. Is that an issue? I want to allow users to use a softphone app when they're on the go, so pjsip is kind of necessary to have multiple devices registered at once.
+I think so? Maybe you can make more sense of what I've got going on by taking a look here..
+
+* [Here is my Outbound Route](https://imgur.com/vvXLuQq)
+* [And here is my Trunk Config](https://imgur.com/a/AQMp2)
+
+Asterisk logs just show that it cannot find the Adtran, which I believe is caused by the fact that it's trying to go through eth0 (lan) rather than eth1 (Adtran). That being said, however, I was able to properly ping the Adtran with out issue..
+I’ve seen it before where a moron tried to remove the battery with a flat head... battery tore and started smoking.. if the pull tabs break (and for some reason they insist on removing the battery still) apply very minor heat to the phone. Just enough to loosen the adhesive, but keep the phone within operating temperature. Use plastic to gently pry on the battery until it begins to lift. Be patient, and never force it.
+
+Whatever this tech did, they definitely weren’t careful enough.
+You're a sinner.
+iMac 21.5 inch early 2015 I think? Has a 1 TB fusion drive.
+Well, I can certainly understand that they should. Huge safety concern. Doesn’t change the fact that it looks very cool!
+Damn! I’m in that area all the time when I’m downtown for school.. sucks I’m on Winter break.. here’s to hoping there will be some leftover when I return because that looks super cool!
+That pop up shows up when iOS wants you to update your email password for one reason or another... just needs to be updated on the iPad. That being said, either deleting the app acts as some kind of trigger for the pop up, or just a coincidence.
+Where in the city are we legally allowed to fly? I’m down for school but I haven’t brought my drone because I’ve gotten mixed answers as to what is or isn’t legal. Have a Phantom 4
+This rack looks beautiful...
+I love your username.. don’t know if people notice it often or not, but I like it!
+Got it. I assume maybe you guys don’t want all the “look what I got” pics from today?
+Hmm.. Still learning here.. how do I apply this for the entire network if I want to? I’ve never worked with vlans and my environment doesn’t call for it. Can this be accomplished with out them?
+OpenDNS isn’t too bad but it’s easy to get around.
+This raises a great question, what is the right way to do content blocking (ex. Block out adult content from the network). Using only pfSense, I know squid has given me some grief... what their options do I have?
+Throwback to “My Watch My Ride”
+How much current could a resistor that size handle? Just curious..
+Others have said that, and yet mine still asked.
+Press and hold OK requires a password. That being said however, booting in recovery (holding the speaker button while booting) may get it to work!
+
+Supposedly this is how they like to connect to TFTP and do a reset. I discovered this yesterday on a test phone I have. I didn’t have a TFTP server setup, but once I rebooted the phone again it was reset. I guess I can give it a shot with my remote users..
+
+I’ll say, I’m young and new with VOIP still. At this time, I’m taking this as a big learning experience and moving on! Everything will work out.
+Fair point. It does support TFTP, I may be able to make something of that. I have a backup of the config files (password was excluded) so I’ll give it a shot! And I’ll keep closer note of the passwords next time around! 😉
+It was me who changed it. I keep good track of all my passwords I promise, but I messed up and didn’t write down this one I guess.. 😕
+Haven’t tested it, but supposedly it’s only 10 minutes on 50%, but power here is pretty damn reliable. Sometimes the wind can mock it out for a few minutes, but it’s unlikely to ever be out for so long unless the power company is doing work on it which is rare.
+I have the lock, just not the keys 
+47% of the max UPS load. Upon power failure, server power remains to everything in the rack thanks to the UPS. It’s on the same circuit.
+One backed up the other is not. The other isn’t even part of the UPS’s non-battery outlets. Separate power line completely just as backup
+I get what you mean, and it’s a fair point, but in my case I only have that thing set up to access the machine over VGA, and everything else I view via SSH or RDP within my VPN. If something goes wrong, I’m basically in the same boat
+Got the PCIe riser card? I could use one, can’t afford shit
+It’s a 39”, and yeah, it’s pretty good condition. An APC. The reason I got it is thanks to my girlfriends father. He’s a big wig tech guy for a large company. He got the thing from there a few years ago if I’m not mistaken. It was sitting collecting dust in his garage for years, so he said I could take it.
+
+It came with a half length pull out shelf, some dell racks (I have a severe lack of a dell server), and some cable management chases I have yet to instal. Now, I had to remove the locks as there were no keys. Still have the locks and thought about tracking down an APC key on eBay or something, but I have yet to do so.
+My machine is way overkill. It was an old gaming PC from 2011 I had laying around, it’s been replaced with a new gaming machine.
+
+I’ve heard mixed things about virtualization of pfSense, so it won’t hurt to try!
+For what it’s worth, if I virtualize I’ll be shutting down the pfSense box as well as the Asterisk machine. That’ll help me get some power back
+The rack itself was free as long as I transported it! 😉
+Thanks! I’m excited and really looking forward to hopefully making the DL380 a little more virtualization happy. It can do alright but not with a total of 4 cores. I’m gonna see if I can get 2 quad cores in there and set up some VMs. Gonna dump Windows Server in the process. It’s not necessary for what I need.
+So, here's the deal. First of all, you'll notice it appears to be in an office basement setting, not a home. That's because it is. This rack won't fit in my house, but fits at the office building my father owns, so I'll take the free space, and access over VPN when needed!
+
+As for the rack, top to bottom:
+
+* Patch Panel (duh)
+* Cisco Switch. Forget the model of this one but it's a 10/100 except for the two gigabit ports. Got it for fee so no complaints
+* SIP Modem and Adtran for voice communication
+* HP Proliant G5 DL380 with Windows Server 2008R2
+* HP Proliant G5 DL360 with Asterisk
+* Custom Build with pfSense
+
+All backed with a new 900W 1500VA UPS for battery backup. Only uses ~45% of capacity!
+
+Now, I know it isn't perfect, and needs some work. In fact, I'd love to get a machine more capable of virtualization as the only machine that can handle virtualization is my pfSense build, and that is not ideal. I'm working on that, and REALLY working on cleaning up the rack and making it pretty.
+There are ways, if there is existing coax, you can convert send the output to RCA (or maybe even HDMI but not sure) and put it through an adapter that allows the tv to tune to a channel.
+Others, correct me if I make no sense.
+
+Either the email settings are wrong, the module needs to be updated, or the route to the public internet is not there. When I set up AsteriskNOW, the connection to the internet wasn’t working, and emails wouldn’t send.
+
+To be clear, voicemails still go to the user when they call their voicemail correct?
+So help me! So help me! And cut!
+Good questions. I cannot help with pricing, but the staff here can look up current pricing for your area if that interests you.
+
+As for the modem, you have two options. Rent or Own. You are free to purchase your own compatible modem (list available [here](http://mynewmodem.xfinity.com/)) and it will work just fine, no extra monthly payments. That being said, if you rent it and it goes wonky, Xfinity will replace it for you.
+
+You have 30 days to cancel if it's not right for you.
+
+As for reliable service, no company can ever promise 100% uptime but I'll tell you that with my experience, it's been very reliable. One time we had a node go out for my work which took out the whole office building (intermediate service), reached out to the guys here, and it was fixed within 24 hours. No problems since.
+
+As for upload speeds for that package, I don't happen to remember that one, and I don't want to give an incorrect answer.
+This post has been marked as a [discussion](/r/Comcast_Xfinity/wiki/post-flair).
+
+If you have questions regarding why this post was marked as a discussion, please [reach out to the moderators](https://www.reddit.com/message/compose/?to=/r/Comcast_Xfinity).
+This post has been marked as a [discussion](/r/Comcast_Xfinity/wiki/post-flair).
+
+If you have questions regarding why this post was marked as a discussion, please [reach out to the moderators](https://www.reddit.com/message/compose/?to=/r/Comcast_Xfinity).
+Technically yes, but it is likely ill-advised unless it's for a very specific purpose. However, there is technically a way to do this:
+
+For starters, it's important to note that there is another network your modem broadcasts called 'xfinitywifi' which anyone can connect to, but it is not free UNLESS you are a Comcast customer. This name cannot be changed, and devices connected to it are not a part of your network.
+
+Then there is the option of needing two networks that you can use. This will likely require a secondary router to be setup. If you do NOT want devices to see each other from point A to point B, you will need to have two separate networks running (do not put the routers in bridge mode). It would be best probably to get a second router that can have both a regular, and a guest network, so the two do not interfere with each other. If you want, you could disable the modem's wireless and instead just use another router. In this case, the router handles connections, and the modem is nothing but a modem.
+
+Overall, the process does not seem too practical for most situations, but it is possible. I had trouble coming up with the right way to talk about this with out going into too much detail. It's kind of complicated due to the fact the provided modem is a modem/router combo.
+This post has been marked as a [discussion](/r/Comcast_Xfinity/wiki/post-flair).
+
+If you have questions regarding why this post was marked as a discussion, please [reach out to the moderators](https://www.reddit.com/message/compose/?to=/r/Comcast_Xfinity).
+/u/Mackay-420! I have been successful! I was able to use another device, in my case my iPad, which allowed me to update the controller's firmware. And it's all good! Your controller should be on firmware 1.9.3 to work correctly!
+I have the same issue. Supposedly the controller firmware is the issue, but I'm having no luck getting that to update. It wont even allow me to do so. Any help would be great!
+Here you go OP: https://www.amazon.com/dp/B000BGM8D0/ref=cm_sw_r_cp_api_EUAlAb17D65QE
+
+Looks like they’re tankless and a reasonable price.. they also arrive before Christmas!
+
+Edit: this is for an RV
+Eh, it’s already been resolved. The place was put on fire watch, so it’s good to go!
+Oh, that’s not a problem for me, my 9200UDLS consistently puts off ~26VFWR.. which to make play nice with Simplex, I have a regulator that filters the current and lowers the voltage to 24VDC. Simplex, especially SmartSync devices hate FWR. They just don’t play nice together.
+I’ll admit to a mistake of my own. I primarily work on LV in fire alarm, but I took on the challenge of converting a fluorescent fixture with a bad ballast to a ballast bypass for LED. Before I did this on the real fixture, I had an old shop lamp with the same issue I decided to try it on first. The shop lamp had two white wires, and a green earth. Seemed simple enough! Figured out hot and neutral and the ground went to the case. Good to go! Easy! Worked!
+
+Then I went to the real fixture. Opened it up, (inexperienced about most high voltage) and saw 3 wires again, 2 white and a yellow this time. (Side note, I’m in Chicago area so everything is in pipe) I again hooked up the two white wires to each end of the LED lamp, and the yellow one to the casing! I’ll admit, if I was using my brain, or my meter, I would’ve been smart enough to realize that when I removed the ballast, there was likely a reason the two whites were tired together... needless to say, the breaker flipped when I flipped the switch. I realized I’m an idiot and it’s fixed now. It’s been a few years and my house hasn’t burned down yet so I guess I did a good job.
+Two questions.. 1. how does one replace a H/S with out testing it? 2. When you replace it with the proper smart sync model.. any chance you want to help me grow my collection of fire alarm crap by sending the removed device my way?
+Was about to head south bound and was smart enough to look up the train schedule, I was confused but guess I’ll be walking to the L instead... I just want to know how the heck this happened..
+Could have been a flash player issue?
+Uh.. Well. I'm going to be honest and say I'm not going to be able to answer most questions. To be honest, I'm not sure exactly what I did to make it work properly. I will note that I'm stuck on the SIP protocol due to the fact I could not get the newer version of FreePBX/Asterisk to work with pjsip. Still trying to work that out.
+
+Each NIC is assigned a static IP in the machine. Each on a different subnet. Adtran is on the first subnet, and the LAN on a second. Not a pro, but it works. Still trying to learn more to make it work better, and allow pjsip with out dropping calls.
+I have a similar setup wit my provider. They provided the Adtran but cannot allow us to have the Adtran be part of the network. Instead, I have two NICs in the machine. One goes to the Adtran, the other goes to my LAN. Simple.
+Don't get me wrong, I know this is all sorts of messed up.. but I've seen much, MUCH worse..
+It’s a feature I’ve suggested forever ago... I keep hoping that one day I’ll know.
+With out having too much information (and not being to familiar with FCI) if the DACT is part of the panel, it is likely a disconnected phone line. Either a wire is removed/cut or someone didn't pay the phone bill.
+
+If the DACT is an external card that is ADDED to the panel, it could be more than just a simple phone line failure. Either way, it means that your DACT isn't working which means if the fire alarm goes off, the fire department may not get the message automatically. Needs to be fixed ASAP
+The final episode if I'm not mistaken.
+My favorite is in the end of the series, where he "fires" Pam and Jim when they go to let him know their moving on, just so they can have a severance.
+“EA’s Dick, it’s in your ass”
+
+Disclaimer: not my quote, found on /r/YouTubeHaiku a while back.
+And people call me crazy when I tell them I'm into life safety equipment (fire alarms, I collect them). I know anything can happen, whether or not people are home, but I fully intend to have full fire protection in my future house if I ever have money to build it. We're talking sprinklers, a monitored fire alarm system for Fire Department auto response, etc.. This kind of thing is horrible, and no one should have to go through this.
+
+Op, thank goodness it wasn't worse, and I hope that everyone ended up being okay in the other 6 homes like you were. This is some very scary stuff, and I can't imagine living though such a situation.
+“But he’s an idiot!”
+Well, this feature alone makes this my new favorite weather app. I don’t know why I never downloaded it before... on my way to the App Store!
+
+EDIT: I remember now, I’m broke.. Christmas is coming. $5 will eventually appear..
+For starters, please double check to ensure your cable box setting are correct in terms of resolution. This can be found by pressing the Xfinity button on your remote, scrolling to settings on the right, and it’s in that menu somewhere. (I apologize for not being more specific, as I’m not in front of a TV at the moment)
+
+Also, please note Xfinity does offer 4K X1 boxes now! The staff here will be willing to help you with that if you’re interested. This supports 4K streaming of Netflix and other select content. As channels begin to broadcast in 4K, this will be great too! I assume the 4K box will have an easier time with the higher res TV no matter what.
+On the off chance you get that before the staff can have a look, please update us. I'm willing to imagine they'll get back to you here first. Thanks for the extra info and hang tight for a staff response!
+Interesting. Well, as soon as the staff have time they should be helpful to you to see exactly what is going on. As you stated, apartment buildings can sometimes make more issues than you might imagine, but the staff will know.
+
+When is your replacement expected?
+The staff here will be able to check signals in more detail. When they have a moment, they should reach out to you to take care of that. From there they can determine a bit more if it's maybe an issue with the modem, or if a tech should visit the site to do some more investigation. Until then, any lights on the modem act differently when the internet appears to drop?
+A guy I went to high school with had a snake named "butter" that looked just like that. They guy had all sorts of reptiles, cool guy.
+Lucky you! There is a version of the 4100ES that has a larger display than the regular 2 line LCD. It is NOT touch screen, it just shows more info.
+I would assume so, but it was odd that only SOME speakers/strobes were out, and only SOME waterflow sensors were out. Unless of course those are triggered by SLC
+That's what I was hoping.. You know, one with a big TrueAlarm display and everything (I think that's the one with the big screen). Unfortunately, the issue was resolved when I returned today. It is down to one trouble, and the construction in a suite underneath the building was the cause.. Too bad.
+Can confirm :( https://i.imgur.com/imPUpBM.jpg
+[I tried to re-order and was left sad..](https://i.imgur.com/imPUpBM.jpg)
+"Spaghetti"
+UPDATE: The building is on fire watch and it turns out that some construction in a retail location located at the street level of the building, which is not affiliated with the school, is the cause. It is unknown if they severely damaged the panel, or just disconnected something. I will keep everything up to date here in case anyone is curious. 
+The building put up a notice to all students to inform them that the building IS on fire watch, and they left specific procedures if there is to be an emergency. I'm thinking CPU needs replacing.
+That's because it is. But if you're ever in the windy city, you'll see.
+Chicago. They have Sprinkler trouble (indoor) and Fire trouble bells here almost everywhere. Both are silenced, causing yet another trouble on the panel for both.
+Literally went to the Museum of Contemporary Art today and I kid you not, I saw a toaster taped to a light.. “Art”
+My thought too. Both the trouble and sprinkler bell are silenced too, interesting. I guess I’ll find out next I’m there and it’s fixed.. I know programming from a 4100+ to a 4100U or ES won’t be very quick. I’m not mistaken in saying that the 4100 and 4100+ were programmed on an IC chip correct?
+My reply to your previous comment may give you more information.. I'm wondering if maybe the panel just went to hell.. Wouldn't be too surprised if the old 4100 CPU failed.
+Right! That's what I meant. Thank you for the clarification. I will say now that the panel has a few hundred troubles, mostly disables but it seems random. Not ALL sprinklers are disabled, and not ALL speakers/strobes are disabled. Some pull stations are also part of it, but again not all.. That's weird enough, but the panel didn't have everything enabled before they stopped working for the night.. The security staff in the dorm do not seem to be on an active fire watch so.. That's cool. Glad it isn't my dorm.
+How interesting that they even took that into consideration.. I wonder if that was a custom time for that building, but either way it’s cool!
+Well, thank you! I like working with things just to mess with them. I also like working on the field (where of course I always follow code).
+
+Haven’t heard of that. Any videos or something about it?
+4 total panels here, one not seen. 18 floors 1 City block long by half a block wide. So.. yeah! Big. 4100+ panels with voice evac through Wheelock Speaker/Strobes. Two stage system, each pull station has 2 locks. One for reset, and one for stage two
+Looks that they are working on it, mostly disabled but not everything you’d expect to be disabled. Some speaker/strobe circuits are still on. Just found it funny, all it had was one trouble on a pull station circuit. Unknown as to what it was, but I’d think they’d disable jut that
+I have those relays I use for low voltage work. Yes, they are rated at 10A for 120VAC... This is a no no
+I never knew that.. I didn’t even know apps could implement that feature! Cool!
+I’m just excited!! Also thank you all for being awesome!
+Fair enough! Again, I'm just very hyped up and excited! I've been watching the sub all day to see that most everyone seems as excited as me! I'm sure it'll show up soon!
+Why is your Apollo icon different than mine? I’m confused.
+Care to send a pic when you can?
+My Santa is going to think I’m freaking weird.. I pull fire alarms not just for my job, but also my hobby. Call my crazy but pulling fire alarms is so satisfying!
+
+If you’re my Secret Santa, I’m sorry I’m weird.
+I saw these things at CES in January and I was blown away
+1:28 PM.. Getting ready to go to class... Don't want to go.
+This pull station is behind a garbage can at my local Subway.. I told them they should move the can, they don't care (I was not on the job at the facility, just an observation during dinner).. Unfortunately, this is Chicago which means the fire department doesn't come around to make sure everything is up to par here. Many buildings are not even required to have fire protection here if they are under (I think) 8 stories or something. (Also schools, nursing homes, and other important places) Most others only have systems for insurance reasons.
+
+Not sure if this will ever get resolved. 
+Definitely sounds like it'd make more sense to replace it. These house smoke detectors expire after 10 years, and are set up in some cases to automatically let you know 10 years is up. Probably makes sense to replace them all, to prevent this from being an issue. 
+Exactly. I'm hoping (and praying) /u/maineff is referring to a, you know, UL listed way of charging batteries externally? In a separate cabinet, that is designed for that.
+
+To be honest though, I'm not sure that it's cheaper much than swapping the board on the 9200.. A quick "upload configuration" from PS-Tools will get this one covered quick (keeping labor costs down) and I bet the board itself costs about as much or less as a separate cabinet, which would cost more to also install.
+Oh! Well I should’ve noticed that.. Ha!
+Not a Dukane System is it? Those things are a royal pain in the ass, and the newer versions under the ‘CareHawk’ brand is not any better.. the high school in my district always has issues, but there is one staff member there who has done everything possible to get it as working as he can. It’s not perfect, but it’s functioning enough I guess.
+
+There was one year we had a power failure (the system is on a UPS but is designed to shutdown when it gets too low) and it just never came back up. For almost half the day there were no bells, no paging, nothing. The system tried to boot but would just crash anytime anyone wanted to interact with it. The vendor came out and was able to reset it to a working condition, but man that could’ve been an issue if it lasted too long. The system is used to initiate lockdowns and severe weather notices, and in any school the inability to inform everyone of a lock down is a big issue.
+Dissolved? Like, my group? No, I’m trying to get the whole thing organized again.. people are hard to deal with.
+For the past 4 years now, I've been running a Secret Santa operation for a group I'm associated with. It has since over doubled in size but still manageable. This is the first SS that I'm actually partaking in as JUST a participant, and not a coordinator. I will say that my group is not nearly as large as Reddit's SS exchange and I want to rip my hair out year after year... So! To the mods and everyone in charge of /r/SecretSanta.. I solute you.
+Fair enough! I forget that if you’re in high school, you can get a student discount, but if you’re in college Metra gives you a middle finger and says good luck affording to go home and see your family.
+Probably cheaper than Metra tickets from Harvard every day... Harvard is the end of the UP-NW line... that is no cheap ride..
+There are so many factors.. It's hard to say whether or not it is one thing or the other. For starters, tell me a little about your network environment? How many devices are on the network? Is your streaming PC wired or Wifi? What modem/router are you using?
+The answer to “is Comcast throttling Twitch” is no. I can tell you as someone who streams himself, it certainly works great, not to mention the fact that throttling data to a specific website is unlawful.
+
+I’m willing to bet it might lie somewhere between your computer and Twitch specifically. Check your settings in OBS to ensure they line up best with what Twitch wants.
+Thank you. Makes me feel a bit better about myself.
+
+In terms of the Pi, I still want to implement that feature, but right now I’m trying to balance that hobby and college. I do have a serial cable I plan to use to experience with over my winter break.
+That is correct, and is the proper way of doing this.. you may notice I got a lot o hate from people. I know that the example in my video is not UL listed, I never said it was. Just thought it was kind of cool to show this kind of solution, and show that it is possible.
+If/when you do it, if you want please post how! I’m not long distance but it sounds like a cool and simply fun project!
+I was waiting for your comments when I posted this... you’re right, and a DC to DC filter is not UL listed. I understand that.. I just thought it was kind of cool and that I’d share.. there’s little harm in that.
+Thank you, I dont recall if I mentioned it in this video or the one I’m posting tomorrow, but I do point out the fact that this is NOT a UL listed solution and should not be done on a real system. As a hobbyist who collects these things, I like to tinker with them. This setup is the way to be able to sync these things without a Simplex panel or other filtered power supply, which is why I’m proud of it.
+
+Never did I say, or even encourage, that anyone do this in the field. Life safety equipment is a VERY serious thing that not even I take lightly. That’s why a system like this is the only thing I’d mess around with in this way.
+If a 4009 is in place, then yes. But in a smaller building, that may not be the case.
+According to the manual, dip switches 1 and 2 both in the "ON" position should accomplish this. That is not the case from what I can tell, at least not with these horn/strobes. In flipping them to that setting, it still just does temporal coding. I'll try it again when I return home from school this weekend, but that was my experience thus far.
+You are correct. I can have it continuous, temporal, or silent. That's it unfortunately. I tried for more, and to see if I could make the panel do anything cool by setting the module to continuous and coding from the panel. It didn't work. Not the end of the world though. Better than these horns doing nothing!
+Seen it done before. A quick relay pulse will at least get strobes to flash in sync. The hard part is figuring out how to activate the horns. Not easy.
+I don't think this violates their patent.. I'm using all Simplex devices.. Can Simplex patent filtered DC current?
+I know I'm late to the party, but I'm curious if we'll see more Juliette around? Noticed she hasn't been around much, and I absolutely loved the vlogs you guys would do. Such a great couple, and I hope to see more of you two together!
+Simplex is a beast. These devices require filtered DC current, and their sync protocol for 2 wire operation is something only Simplex panels and modules support. Hooking these up to 24VDC will do nothing until power is lost, and then the strobe will flash.
+
+The thing that makes my setup different is that my panel outputs 24V FWR current, which Simplex devices do NOT like. So, I filtered the current, and added the module in order to sync/code the horn/strobes. It works, but the only issue is that with this filter in particular the supervision current does not pass through, which is a problem, as it leaves the panel in trouble. I'm trying to figure out a way to go around this while still providing clean DC power to the devices. That is the missing piece to the puzzle.
+
+So, where is this practical? Retrofit applications. An old Simplex panel may go bad, and need to be replaced, but if the owner of the building does not want Simplex to handle the panel swap, this kind of solution is an option.
+I don’t usually have issues unless there is an accident on the tracks, which I’ve been lucky enough to never experience, but I’ve heard stories. For me, I’ve only been 15 minutes behind due to a delay, just because of track construction. Otherwise, mostly on time.
+I happened to be taking the Metra line in this day. Where I came from, there was no snow yet. By the time we got here, things looked like this. Honestly, didn’t really set us back. I was surprised.
+I was on a northbound red line train about a week ago. The operator for the train was a very nice guy! He announced stops himself, as well as whatever the recordings said. He was more specific though. As we came up to Harrison, he said something like "Welcome aboard Red Line run 12! I hope you guys are having a wonderful day, I know I am! Harrison is the next stop where you can find Columbia, DePaul, and Roosevelt Colleges! Thank you for riding and continue having a wonderful day!"
+
+As I heard that, it made me feel like I was at Disney world.. Until I smelled the urine in the subway as I got off the train.. Then the Disney feeling went away..
+Real talk right here.
+I agree. Here, everything is required to be run in pipe.. I cannot believe this is done like this at all.
+I did donate, but I wasn’t able to post. The issue seemed to be elsewhere. And I have not had issues since. It’s been a few days and I really like the app so far now
+I've flagged your post to the mods, /u/cookiemonster981. Hang tight -- your post should get an official response shortly.
+If JC is willing to pay for me to move out there, we'll talk. Honestly though, I don't think I could make that move. Even Chicago is too noisy for me. A friend of mine from NYC says it's quiet here compared to there.. I like the rural side of things more than anything.
+Oh, sure, but at least most if not all Tyco regional facilities have a training room! I know the location nearest me has a 4100ES demo panel. Pretty cool system, kind of jealous, kind of want one... REALLY can’t afford one.
+Sounds like fun to me actually. If it means I can learn to program and set off alarms, I'm happy.
+I love seeing this! Would love to be there myself someday!
+Well.. You're right but you made me watch this twice so... I also hate you.
+Same issue here. Just downloaded and 'donated' to the app.. Not happy at the moment.
+Can confirm, works for me too!
+Not in the area, but it is possible it could have gotten moved to a different channel, renamed, or simply has been replaced.
+
+In my market, we have a similar thing happening later this month. A channel formerly owned by PBS will be signing off, and being replaced by another network. No longer a PBS station. For smaller, local networks, these things happen.
+I've flagged your post to the mods, /u/Kirushi. Hang tight -- your post should get an official response shortly.
+Don't worry /u/Kirushi, the staff here will be able to help you out! We can see that the ping is clearly not ideal. Hopefully it's an easy thing to get corrected. No need to call, if a tech or more details are needed, they'll reach out to you.
+I've flagged your post to the mods, /u/2toad. Hang tight -- your post should get an official response shortly.
+
+They will be able to tell you what is officially available in your area!
+Do you ever wonder how people functionally test smoke detectors? You shouldn't spray it close enough for any real liquid to get in there.. In fact, by law, most AHJs require test smoke to be used so.. There's that. Also, this is for a beam detector, no chamber.
+I've flagged your post to the mods, /u/KartalAbo. Hang tight -- your post should get an official response shortly.
+First things first, the staff here will be more than happy to help you out!
+
+As for cost, the way it was described to me when I asked them about it last night is that you can have a self install kit sent out, and you swap out the box. No extra charges (maybe shipping but I don’t know that). Availability may vary based on your area.
+
+I’m on mobile now, so I cannot do it at this very second, but I’ll make sure your questions get sent onto the staff!
+“It works pretty wet”
+
+Oh.
+We are currently at that odd transition stage, like we were back with HD cable and content when it first came out. Many people "Didn't need" an HD TV or box because no shows came out in HD, but now HD is the standard, and 4K soon to be the next standard within another few years I would think. If enough people have 4K boxes in their house, alongside 4K TVs, the content will come.
+
+On another note, remember that Netflix has some 4K content already, and these boxes do support 4K Netflix if I'm not mistaken. If XOD doesn't have content yet, I bet On Demand 4K movies aren't too far out either.
+This post has been marked as a [discussion](/r/Comcast_Xfinity/wiki/post-flair).
+
+If you have questions regarding why this post was marked as a discussion, please [reach out to the moderators](https://www.reddit.com/message/compose/?to=/r/Comcast_Xfinity).
+Glad you had a good experience! I can tell you the team does work as hard as they can here to make sure that Xfinity customers have the best possible experience! They will certainly enjoy seeing the feedback!
+Sounds awesome! Keep me up to date! I want to see what you come up with!
+Very true! Just modify whatever messages you want to send based on the GPIO pins and you’re good to go!
+If you’re not sure what do do with the UPSs.. I can take one of them for, uh, proper disposal.
+Why would such a monstrosity exist...
+RF radio is VERY common in my area. It is not built into panels, but my company installs Keltron radios for our customers. Provided the network is large enough to be redundant (a minimum of 2 strong RF paths, though we normally try for at least 3 or 4.) RF radios can be a great, low cost monitoring option! DEFINITELY cheaper than copper phone lines, and if the company is actively growing their network, it can be a great system to have in place.
+
+So, my point is, RF in relation to fire alarm IS possible.
+Dish Hopper has it
+I'm guessing bad charger as others have stated. I have two of them and they both work great.
+Thanks. Fixed! Too used to my Apple products!
+I love the new CC. Customizable to a degree, more functional. It’s nice!
+Bears. Beets. Battle Star Galactica.
+
+Edit: Spelled "Beets" like the headphones..
+1 in each bedroom (4 bedrooms). 1 in the hall by the bedrooms, 1 in the kitchen, and 2 in the basement (1 by furnace, 1 in living space) so.. yeah! Well protected I guess.
+It may be an ionization type detector which is generally good at going off when you’re cooking rather than the other type, photoelectric, which is less likely to go off just from steam itself.
+
+If they are not due to be replaced (which is 10 years from the manufacture date) then you can likely find a photoelectric model that is compatible with the interconnect of the rest of the house. So! If you want, you could just replace the one that is giving you grievance and keep the rest until they need to be replaced.
+
+Makes it a little cheaper if your house is anything like mine with 8 detectors.
+Update: this applies to the US as well!
+The monkey at 0:26 is my favorite.
+“Here’s what I found for ‘Hey Siri, what’s wrong with my engine’”
+I woke up this morning to my alarm, I was tired and groggy and couldn’t get my eyes open enough for it to open for me which was annoying, but as soon as I fully came to, it was better.
+
+As others have said, I’d make sure you’re moving your head around as much as you can so it really scans everything.
+I don’t know why, but I expected the dog’s present to be an iPhone X... then I remembered it’s hard for a dog to text with out thumbs.
+Not the first time I’ve gotten that comment on one of my videos. I’ll try to turn it down a bit more next time. Like I said in another comment, I tried using my laptop which apparently messes up my audio in several ways. I normally use an iMac which is much better at handling everything.
+A lot, and I know it. It's mostly for my own fun I guess. But it's more fun knowing people watch it, even if it's just a few views!
+Thanks! I'm not looking to be big. I really just like making videos. 
+
+I tried using my laptop for this one, kind of on the fly, and apparently Premiere made me think my audio sucked, but it was just an issue in Premiere. I normally use a better computer when I'm editing.
+I honestly don’t blame you. That box would absolutely stand out from the rest!
+Oh. They both are
+Siemens isn’t even user friendly. At least Simplex can be simple when you are just doing a test, Siemens isn’t even that.
+UPDATE: I found a fix, if anyone else has a similar issue, open the activity app on your watch and adjust your daily move goal. This should update it to the phone and fix it again.
+I saw it in one of the YouTuber's videos yesterday.. (Maybe iJustine) and thought it was odd... Thinking that needs to be replaced.
+Only thing missing is the iPhone 5C
+Wife: "/u/noahio! BE HERE FOR ME!!!!"
+
+Op: "Sorry! I just got a text from your parents, they want to see how you're doing."
+
+Wife: "THE HELL?? HOW DOES IT LOOK LIKE I'M DOING?!"
+The most beautiful thing I have ever owned is this phone in my hand.
+That doesn’t lose data right?
+People don’t like that Simplex has so much control over everything. And they can be pricey. I like all the Simplex stuff and addressable notification is really cool, but they’re kind of the Apple of Fire Alarm.
+Just rebranded Simplex stuff.
+[Their website is more helpful](http://autocall.com)
+Nope. They use Blackboard instead which is a shitty version of Canvas
+Ah Canvas... you were in my life in high school and I thought you sucked.. now in college I have blackboard, and I now miss Canvas more than I ever would have imagined..
+I think he meant to put /s at the end of his comment..
+Mine’s available at http://localhost because I’m not some sketchy ass who hands out his IP address to people.
+Is the notch on the bottom of the display down there?
+I’m an IT manager. We ordered 18 Yealink phones. 15 T41Ps, and 3 T46Gs (bigger for reception and the bosses)... I got to provision and install them all. Peeling was the final step... it was a great day.
+iPhone XI - pronounced iPhone 11
+Why the rumors guys... Let me at least get my iPhone X first.
+Yours still sitting there?? We’re a day out!
+Just curious which gen watch this is?
+https://gfycat.com/gifs/detail/beneficialimmensebass
+It’s Jake... from State Farm..
+Password was saved.. where? In your browser?
+Tested. Had internet access.
+Not sure, I am on my college WiFi. Never had issues like this before. That being said, it eventually went through.
+Yep. Hoping for movement soon! As long as it doesn't "disappear" I'm okay with it. Just get it to me on the 3rd of November, 2017. That's all I ask.
+My Verizon order is marked as shipped with a tracking number.. hmm. 😕
+Funny.. My groups are still here. Are you sure you don't just have all groups enabled instead of just the 10 you want?
+I assume this is something they will put right into 11.1.1
+From what I can tell, it may not be an Xfinity thing, but more of a Disney issue. They should be the ones to decide whether or not to broadcast in HD, and even if they are starting to broadcast HD with some providers, they have contracts between Disney and Xfinity that I imagine will come into play. Maybe some of the Xfinity guys will be able to explain better, but that is what I'd say.
+I’m pretty sure /u/EverythingApplePro is the legitimate user, but that doesn’t change the fact that we are all waiting to see the 100+ changes he has found in iOS 11.2 beta 1!
+Though by 108 you mean 89, this city went from mid 70s to low 40s real quick this year.. woo! Chicago!
+I already have my Spigen Tough Armor ready to rock and roll! Have used them since iPhone 6 and LOVE them. Good looks, great functionality!
+My Verizon order shipped today via FedEx
+I encourage everyone to look back at this guy’s comments. He is always salty, and never explains why.
+Ignore him. /u/FireAlarmPuller doesn’t like me simply for the fact I have a hobby system of my own I use to learn how to use things. In my past posts he left comments on it, with out any real justification as to why he was being an asshole. Pretty sure he is, in fact, a kid.
+The other day, I asked my watch “What’s the temperature?” It said, “it does matter what room temperature is, it’s always the temperature of the room!.... just kidding, it’s 54 degrees outside”
+A sprinkler head I THINK counts as more of a heat detector, which may be all your building required according to your AHJ. The sprinkler system is more than likely tied to the fire alarm system, so if a sprinkler head pops, the system will detect water flow, and set off the system.
+Knowing location may help, if you’re willing to share. Some places like Chicago don’t actually require fire alarm systems in non-high rises and non-school buildings. The only reason any system is installed is because insurance tells them to.
+
+I’ve seen many buildings in Chicago that only have sprinklers, or only a single horn/strobe and pull station. Heck! A panel I pass every day has had a Supervisory on it forever and nothing has been done to even attempt to fix it. It’s very confusing how that works
+Alert! Verizon website and app appear to have died!
+And glad I went through Verizon! Still cannot load app or website for Apple
+Got it through Verizon. Space Gray 256. Nov. 3
+To be more detailed, they do on launch day, but not pre-order.
+You can buy multiple, but I think you need a Sprint account to purchase (could be wrong). I doubt they are selling SIM-Free phones right at pre-order. Can Cricket take pre-orders?
+“No one is able to pre-order until /u/TheAlmightyZach gets his order in”
+
+-Tim Cook
+
+Sorry guys. I’ll order quick, don’t worry 
+Starting to see my keyboard outlining my display on my 2017.. I guess we'll see if I'm one of the defects..
+What the hell? I brought my late 2013 to my store and they said, "sorry, it's out of warranty"
+I've flagged your post to the mods, /u/SpongeFreak52. Hang tight -- your post should get an official response shortly.
+I cannot say I have ever personally worked with those modems, as I do not have gigabit service myself (yet) so I wont be to helpful, but I'll flag the post and someone who is more familiar will be able to walk you through that. The guys from Xfinity will be able to look up more detailed information on their end, and they'll likely be able to determine if the node is damaged and send techs where needed.
+Sorry to hear about such an issue. But I’m glad to hear that it sounds as though you have taken the proper troubleshooting steps.
+
+Knowing that there is nearby construction makes me wonder, but like you I don’t want to jump to conclusions either.
+
+Do you have any other services like TV or Phone? And if so, how are they holding up?
+Yeah, I'm leaning towards that as probably the best option unless there is some big breakthrough in the technology.
+My plan A is ship to home. If I have some ridiculously far out date set to get the phone, I might take my chances heading to a store and if I get one I’ll cancel my online order.. I guess we’ll see!
+The only issue I see with that is that my AHJ requires AFCI in bedrooms, even for outlets. So what I think I’d probably do if I were to design a house like this someday, I’d have one GFCI breaker covering all the upstairs bathrooms (again, each bedroom having its own bath would mean 5 bathrooms, which may be too much for one breaker) And then another breaker for the rest of the bathrooms downstairs and in the basement if equipped.
+
+Honestly, I’m just thinking about my dream house, and how I’d be able to make it all work. Basic logistics of it at least. Just so in the future, if I have the money to build a house, I have things figured out so I don’t have surprises coming my way, and instead I can have a basic plan.
+Understood. If you guys could answer another question, lets say each bedroom is attached to it's own bathroom. Could they use 1 15 amp breaker for both the bed and bath, or is there another way you electricians would do it?
+
+These questions are more of a curiosity thing, something I want to learn more about so I understand what is actually going on someday when I eventually own some house somewhere.
+Thanks /u/lobsterCheeseguy and /u/JohnProof. Does that mean you guys do not find these to be practical, or would they be more practical with the right setup?
+I much prefer Fire-Lite, Notifier, Simplex... those are my top 3 to work with. (Fire-Lite and Notifier have easy programming, Simplex has a user friendly UI but if you have to program anything, good luck)
+
+I’ve worked with Siemens, Mircom, Silent Knight, and most of the other ones out there, needless to say, I don’t like them almost at all.
+I see. Thanks! Very helpful!
+This is true, but it can at least assist you in your troubleshooting. If you get it to activate, then you know it's the RTS.
+Perfect! Wasn’t sure the sounder bases could do it!
+Oh! So those bases are addressable, and syncable?
+If I’m not mistaken there is the option to spray test smoke in front of it and see if it activates. Correct?
+Sure, but it still needs 24 volt power from a NAC or non-resettable correct? I think it's syncable at least, because I'd want to set it up for IDNac devices to be doing temporal, as well as the bases also temporal on a general alarm.
+
+I'd want temporal for the base only when that device activates. I feel like this could easily be done.
+Eh, I think I'd stick with the standard. Cheaper, effective, and insurance will surely be happy to have that over nothing.
+
+Remember, it'll be many years before I have ANY money to build such a house, so who knows what will be available then!
+Oh, I was mistaken on that. So, the newest sounder bases do not work with the IDNac correct?
+Well, sounds like it’d be better to just have a separate system and hope it never goes off. Cleaning up disgusting water is cheaper than letting the entire house burn down!
+I love the self test feature! I just wish that the sounder bases were part of the TrueNAC system. From what I can gather, and tell me if I’m wrong, they are not. Intelligent notification is an amazing technology that I’d love to utilize!
+But.. you went to prison?
+Bootleg grounding. Not allowed, done in retrofits to get away with it. Not safe.
+Personally, I found that the headphone jack being gone hasn’t really affected my daily life. I switched over to Bluetooth, and am very impressed with both my AirPods and the Beats Solo 3. Have Bluetooth in my car, and haven’t needed the adapter since!
+
+That being said, however, I can see how people who use the headphone jack for certain things where that is there only option won’t see a no headphone jack phone as a possibility.
+You could give them to me.
+I don’t have an answer for you but I visited Knoxville over the summer. Beautiful area!
+I prefer LF but this system is just a demo system in my basement I use for me to learn how to hook things up. If I were to be installing a whole home system which I someday hope to do, I intend to use 100% synced, temporal, low frequency devices.
+
+What would be the best way to wire them to sound individually on a Supervisory, but have them all sound on a general alarm?
+So, to answer my question I need a B200SR, not a B200S. Thanks! I tried finding that page but I guess I didn't look hard enough. I appreciate the help.
+Yes, the coax from your house will be the one and only connection to Xfinity. As you said, you can just plug both the phone and fax into each telephone port on the back of the modem.
+
+Just be sure that the phone is hooked up to the line you use for your phone number, and the fax hooked up to the fax number. Once you get them plugged in you can simply test this by calling both numbers, your phone should ring and your fax should make screechy fax noises to you.
+I see. Well, it is true that you can move that modem inside, but it would require you to run wire from your modem to the phone lines.
+
+In your house, it is very likely that all of the telephone jacks are wired up together, so you may plug the modem into one, your phone into another, and that should work. As for the fax, you can either hook it up directly to the other line on the modem, or find some similar way to get the wire from point A to point B.
+I may be misunderstanding your post.. so, you have two phone lines, one for a phone, one for a fax. You previously had two modems to handle this task, but now you should have a new modem that is also capable of being the host of both lines.
+
+So, I assume you previously had one modem in the garage to handle one line and another in the house to handle the other?
+Yeah, sends an email to myPhoneNumber@myProvider.com which translates to a text message.
+Yes, they do.
+
+I don’t care what the minimum is, I want to exceed it. I don’t see why you have to be so aggressive about the topic?
+I'll probably have them because, you know, why not. Again, the scenario is pretending I have all the money to spend on this system.
+Good point. So, whenever I buy a house, get good insurance that’ll cover that kind of stuff. I hear that most insurance companies have lower rates when sprinkler systems in accordance with monitored systems are in place.
+1. No strobes in bedrooms, only common areas like halls and family room, basement, etc..
+
+2. Definitely, but I’ll be keeping in mind that seconds matter in the event of a real fire
+
+3. Good thought, by that is more expensive. I have considered it.
+
+4. True! I’ll keep that in mind if this ever becomes a reality
+
+5. Eh, it’s for myself more than anything. I like to pull em (when I’m testing of course!) so I’ll make sure my future kids know they are not a toy!
+
+6. Thanks
+
+7. I’m aware, and if I do have gas appliances I’ll have CO detectors
+Can I ask you what the hell your problem is with this whole thing?
+Well, I do have a 9200UDLS already. Maybe I’ll just hold onto that for a few years until I have money to go with such a big project like building a house
+Well sure, but from what I can tell from reading up online is that those sounder bases seem to still just be conventional devices. Not sure how to go about that.
+
+I know that I could have, say, an ES horn separately in every room that will be the only device sounding upon alarm for that smoke detector, but if the sounder bases are still conventional, then that makes things harder to do.
+
+I haven't worked on Simplex equipment any more than logging in to level 3 to disable a horn circuit and cleaning detectors. I have the B key, and plenty of conventional Simplex devices of my own, but not ever actually seen the cool stuff the ES is capable of.
+Did not know that was an option, but great to know!
+Interesting, but my fear with that is that I'd like to have a water flow switch hooked up to it into the fire alarm system. I'd have to put a long enough delay on the water flow time to ensure a toilet flush wont cause an alarm.
+Understood. Any sprinkler systems that don't let water get disgusting, or would it just be worth wile to put in a wet system and hope it never gets used?
+Thank you for your opinion. I do work in fire alarm and I think it is exciting, and the reason I want to shut off gas to things LIKE water heaters and furnaces, is that it could save my future house. The smallest spark in a CO infested environment is enough to cause an explosion. Furthermore, if one had the money to do this kind of stuff, why wouldn't they spend the money to put EXTRA safety measures in place? It just makes sense. CO kills, fire kills. I don't take risks. Let's hope I never have to see these devices ever activate for a legitimate reason.
+
+Now, I came here to get the opinions of other people who were actually going to voice opinions related to what I'm asking here, so you can answer my questions or you can stop questioning.
+And cutting off the furnace and water heater prevent more gas flow. Could save lives and prevent a house explosion 
+You misunderstood. Having the system open the windows on a CO event can help air out the house and overall keep it safe. Honestly, it’s just be hooked up to a relay module that acts as a switch. Upon activation, the windows open, and ventilation begins alongside an evac of the house with a call to the fire department.
+Not sure that’s the route I want to go. Looking for the kind of thing you’d see in a real public building. Which, I’m sure these Napco panels do show up but I’m leaning towards Notifier, Fire-Lite, or Simplex. Problem is I want to be able to program it myself so unless I’m working for Simplex, it’s unlikely I’d go that route.
+Follow up question: Sprinkler systems sound like a great idea but I don’t like the idea of a wet system. If I’m not mistaken, a dry system would prevent water from A. Freezing in a attic of something, and B. Prevent the water from becoming absolutely disgusting.
+
+What paths go about fixing these two issues? Are dry systems the solution or is there something else?
+/u/Northern-Canadian, is it possible to program Simplex 520 Hz sounders to cause a supervisory when they go into alarm, but also have them sound (And be coded) upon a general alarm?
+Stubbing into an attic would be the plan. Not sure how I’m gonna go about a potential finished basement yet though, with runs up to the first floor. Those may need to be pulled through pipe
+Thanks! All good points! I like the idea of 3/4” for low voltage. It’s not often to run a cable through the wall before getting a crimp or something on it, but who knows what situation I’ll be in in the future? The EMT will also make it easy to run cable and put insulation in all the walls if I want to in order to help with noise  and heat flow
+I probably fall into that geeky category more than anything!
+The 4010 is nice because there are ways for anyone to program it. But if I ever work for Simplex, maybe the 4007 is where I’ll go! 😉
+Well, I already have a 9200UDLS so I guess I can check that off the list
+Chicagoland guy here, I'm not an electrician but I work in Fire Alarm. I have lived in the area my whole life, and I can say that I always get confused seeing anything that is NOT run in pipe. The only places I see something outside of pipe in this area are normally older homes or in DIY projects where people don't really know to follow the rules.
+Sorry guys.. I just started watching the game to witness that grand slam.. Must be my fault.
+We had those last year at my school! Great shirts to have around, and I love mine now. What made me mad, though, is that they replaced the colored dots with only our school colors. 😕
+I haven’t put the beta on my watch yet. Does it fix the issues with some notification app icons not working or is that more of an issue with the app?
+Update: Just ended the Finale.. every time... 😭
+Sounds like a fun project, hope to see it when it’s done!
+Oh! My understanding is not too crazy. It uses the dry contacts on the fire panel to cause a short between the GPIO pin and a ground pin. It’s a Python script I wrote constantly searching for the GPIO state to change. My code can be found here if you want to take a look: https://bitbucket.org/TheAlmightyZach/piremonitor/src/7ee727bc67fe8edff8b6e640b40b098f4df4e7cd?at=master
+“In case of dirt, Push in and Pull down”
+Sounds like a fun project! Some relays are probably a good start
+My apologies, of course! The system is s standard fire alarm system that I tinker with in my spare time. As I now keep it on and running 24/7, I felt it best for it to alert me when any condition happens on the system. Below are the 3 main issues that, in the real world, are required to be supervised:
+
+Alarm: This is the main one. When the fire alarm actually activates, this event would automatically call and dispatch the local fire department.
+
+Trouble: An event that occurs when there is some sort of wiring fault or other issue out of place on the system. This could be a short, a disconnected wire, dead batteries or any number of issues.
+
+Supervisory: often programmed to happen when a valve on a sprinkler pipe is shut. This alerts anyone with access to the panel, as well as the fire alarm monitoring company, that the valve has been shut.
+
+Now, my system only texts me, it does not contact the fire department, but it works great and upon an even that is abnormal, the text arrives within 10 seconds. It is the first real project I have done with my Pi since I got it at Christmas last year. Glad to say it works very well!
+Pi is using the dry contacts of the panel in accordance with the GPIO to determine if the system goes into alarm, trouble, or supervisory and automatically sends me a text!
+
+It is powered by the non-resettable power from the panel. It uses the voltage regulator to step it down to 5 volts. Works great!
+Pi is using the dry contacts of the panel in accordance with the GPIO to determine if the system goes into alarm, trouble, or supervisory and automatically sends me a text!
+
+It is powered by the non-resettable power from the panel. It uses the voltage regulator to step it down to 5 volts. Works great!
+Here are my thoughts that I posted elsewhere:
+
+I want to like Google, but they are making it very hard to do. Last year, upon release of the original Pixel phone, Google blatantly bashed Apple for removing the headphone jack on the iPhone 7, as seen in the video here: https://youtu.be/Rykmwn0SMWU?t=42s
+
+Well today. What does Google offer? Another "new" smartphone, the #Pixel2. This year, no headphone jack, though it does have some updated specs and a fancier display. That being said, the company who claimed they'd never remove anything from a phone, but only add to it, has removed the headphone jack too... I personally find it pathetic, and sad.
+
+Sure, the Google Pixel 2 is a very powerful phone and creates strong competition for the iPhone, but if Google is going to make a big deal about a headphone jack just a year ago, to remove it the following? It just shows how it was a front to attempt to lock you into the ecosystem.
+That's the goal.. I'm doubtful though.. 
+Sure thing! Just let me know if you have any issues and I’m happy to help!
+
+I’m still working on making the process better. For starters, I plan on making a better configuration file so it’s much easier to set up. Also, I want to eventually be able to pull data from the printer port of a fire panel so it can be viewed digitally. Plenty of plans!
+Fixed in source code!
+Well shit..
+Ha! Yeah. For my hobby system, I’m okay with it as it’s only that system, but that being said, I get notifications from work for that panel. Only get them during abnormal conditions though.
+Let me say I fixed the word “Monitor” so it no longer says “Supervisory Monitory Restored”... turns out when you spend hours coding and writing they word “Supervisory,” you tend to add a why to words ending with “or”
+I have (and forgot to put that in my to be added section on but bucket). I need quite a bit more programming experience before I can figure out exactly how to do that, but I certainly want to.
+
+Part of my problem too is that I’m away in college so I don’t have a lot of time to program. Might be a GREAT winter break project!
+IMPORTANT NOTE: This is for my hobby system, and is not to be used on any real commercial grade system!
+
+This is the first program I have ever written in Python, and for use on a Raspberry Pi! Started from scratch and after a lot of Googling, I came up with this program after about 7 hours worth of work!
+
+It is fairly simple, as it checks to see if a GPIO pin is shorted out (which is caused by relays in a fire alarm system). Depending on the shorted GPIO, an email or text will be sent from the Pi as seen in the picture.
+
+Because of this, the concept works well for many situations! The next step for me would be to take it to a broader home security standpoint. I know the concept has been done before, but I’m proud of it.
+
+I’d be happy to share some pictures this weekend when I have time to wire up the fire panel. Right now, all I’ve been doing is simulating the short circuit with a jumper wire. Source code can be found here: https://bitbucket.org/TheAlmightyZach/piremonitor/overview
+This is the first program I have ever written in Python, and for use on a Raspberry Pi! Started from scratch and after a lot of Googling, I came up with this program after about 7 hours worth of work!
+
+It is fairly simple, as it checks to see if a GPIO pin is shorted out (which is caused by relays in a fire alarm system). Depending on the shorted GPIO, an email or text will be sent from the Pi as seen in the picture.
+
+Because of this, the concept works well for many situations! The next step for me would be to take it to a broader home security standpoint. I know the concept has been done before, but I’m proud of it.
+
+I’d be happy to share some pictures this weekend when I have time to wire up the fire panel. Right now, all I’ve been doing is simulating the short circuit with a jumper wire. Source code can be found here: https://bitbucket.org/TheAlmightyZach/piremonitor/overview
+Want a potter PFC-5002? (2-Zone conventional) I’m selling mine.
+Yeah, you can melt art. Hey, can I use your phone?
+Why?
+In my college, one of the dorms is a new enough install with Advances set to Continuous, no sync.. they also go off ALL the time. (Thank god I’m not in that building, mine is NHs with local smokes only. Only auto detection is sprinkler)
+
+I want to encourage the school to fix it.. but I’m in no position to do so. They also likely don’t care. Main reason is that in this city in particular, the fire department has decided fire protection is not required for buildings up to a specific height.. only reason most buildings have systems that are monitored is for insurance. Bad system if you ask me!
+Right, but some people don't understand why this happens, which is why I posted the video. I saw another video where an INSPECTOR says that it's totally fine.. He thought nothing of it.. Horrible.
+
+Here's the video: https://www.youtube.com/watch?v=Kzxtt60WnDE
+No one likes a grammar nazi Mr. Bot.. if I say AC current or DC current, you can fight me!
+Wow! Those are both names I haven’t heard for a long time!
+Right, my line.. the amount of times I see posts on Facebook from people in my area saying “trains are stopped cause someone got hit” followed by a “I’m on the train that hit the guy” is really messed up.
+Most of them are, this is true. But if you have a panel with filtered current, such as an MS 5/10 UD, and devices old enough to function on 24VDC with no fancy stuff needed, then a sync module will work to both code and sync the Simplex devices properly.
+
+That being said, you’re right. TrueAlerts only like to play nice with Simplex!
+Simplex devices do not like Full Wave Rectified (FWR) current, but rather prefer Filtered current. On my demo system, I hooked up a Simplex sync module to an FWR power source and the strobe just goes nuts.
+
+For example, if a Simplex panel dies, and another company comes in and tries to do a retrofit with, say, a Fire Lite addressable panel, the panel will provide FWR to the NAC. For code, the company doing the retrofit would attempt to sync the existing Simplex field devices, leading to the strobes going crazy such as in my video.
+
+Basically, Simplex+FWR= 😰
+But Simplex+Filtered= 😄
+I collect alarms. This was on my demo system. Simplex SmartSync module trying to sync with an FWR power source. It didn't go well. Works really well when it is hooked up to my Simplex 4004!
+Sounds like they’re due. Never bad to remind them that you’re talking life safety here. Never want to skip out on that!
+I used my maps app on my S3 yesterday and it was way faster than my S0!
+I literally just watched this on Netflix last night while binge watching the entire series for a third time... I got the feels so hard
+I am thinking about getting into unboxings. Felt good to start with the Apple Watch Series 3! https://youtu.be/8FsqQ_nQSSI
+Thanks! I guess if I’m not actually using my S0, but rather just keeping it for my own personal Apple collection, it doesn’t make too much sense to keep it active. Maybe I should just unpair and restore the backup?
+I’d imagine instead of the serial it’s probably scanning the IMEI... I could be wrong but that makes more sense to me.
+Wow, that’s crazy. I imagine even in a situation like that an RF radio wouldn’t be too reliable over phone lines of power is out or batteries are dead, an RF mesh is probably not too reliable at the moment. That’s crazy and I can’t even imagine.
+Oh boy. How many ground faults are you chasing after all that weather? I'm sure that water is contributing to some fun.
+The S3 did it for me. My S0 is still running strong, but it’s time for GPS and I’m giving cellular a chance.
+(Same guy here, had to be done with that username)
+
+I’d say yes, it’s quieter, but you literally live in a fallout shelter shaped like a toaster
+Work with fire alarm systems here.. can confirm they aren’t random... most of the time. Just because it smells like burning doesn’t mean there is smoke. There needs to be actual smoke that reaches the detector, and VERY little may be enough.
+
+On newer systems you can set the sensitivity for a specific detector. That being said, sometimes detectors like to say they are in alarm when they aren’t. This happens only when a detector is faulty.
+
+As for your kitchen\electrical room story, it’s common for those locations to have heat detectors so a little smoke won’t set it off, but a real flame will.
+I’m in the only city in Illinois known to people who aren’t from Illinois, Chicagoland.
+
+Totally understand the chaos caused by all that. Good news is that you’re a little more making money I hope?
+/u/Twitchy993 Wanted to give you an update (I am no longer /u/doglover129 anymore because.. Well, who wan't to be known as "Doglover?")
+
+Managed to find a Rev 2 9200UDLS on eBay for pretty darn cheap. Got it and a brand new cabinet for $200. The panel was removed because of a loose terminal on the NAC Sync output. It needs some very basic soldering to fix that which I don't think I'll have any problem doing myself. As this is not a real life safety system, I don't care.
+
+Now I'm trying to get my hands on some spare modules/detectors. I have none, and right now the panel is useless with nothing on the SLC. 
+Looked it up on UPS via reference/ups my choice
+Ha! I figured that was you. (I just set this account up because I was sick of my old user name I created MANY years ago)
+
+Sorry to hear that you have no luck. I wish you the best!
+Have you tried holding both the power and crown down to cause a force restart? Might work just fine after that.
+Hoping they hand you a replacement!
+Certainly head to an Apple store and have it looked at. I'd be concerned about that battery.
+That’s the plan for me! I also agree with what some are saying, about how the phone shouldn’t have been on airplane mode while sending an SMS, it won’t work to send that from your phone number because a connected device can not share your phone number while your phone is activated. Furthermore, the demo shows that iMessages WILL work over LTE with no assist from your iPhone.
+Let us know if it shows up!
+
+Edit: Mine says it's in Louisville now... Finally here from Anchorage! I highly doubt it but a small part of me is hoping I'm one of the lucky ones who get's it before Friday! 
+As someone from Chicago.... The bears actually suck so much. This made my day!
+In my mind, bugs are bugs and no one is perfect. It’s great to see an honest review, and some of that info is not too promising, but I’m willing to give it a chance.
+
+A lot of the issues (minus maybe a poor connection) sound like software bugs that just need a little time to work out. As for the poor connection, well, we’ll have to see. I’m certainly going to try it on my Verizon plan and hope I have better luck than the reviewer
+/u/Twitchy993 explains it a little better
+As others have said, it’s pretty simple. I managed to tech myself the software pretty quick. Once you hook up to the panel, you have to go to the upload and download settings. Download the configuration FROM the panel, and save the configuration. When you hook up the new panel, upload the configuration TO the panel and it should be that simple.
+
+Just save the config under your customers name.
+I personally am holding out for the X, but the 8 and 8+ look so nice! For all of you getting yours on Friday, enjoy!
+The GM from the beta is the full release..

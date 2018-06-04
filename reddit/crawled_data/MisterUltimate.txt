@@ -1,0 +1,1134 @@
+Fook'in bullet-proof camerahs.
+Thanks OP!
+/r/BlackMagicFuckery
+Welcome!
+Thanks for this. I’ll check it out 
+No, but I have sometimes accessed it on my university network. Might the same though I’ve encountered the same problem on my home network too. 
+Cool, if you feel that way, then there's nothing I'm going to do to change your mind. Though, you haven't provided any sources for your claims.   
+Haha thanks, me too!
+Yeah same. Maybe one day. 
+I think the Now Playing widget allows this if you're using Apple Music? 
+From what I understand, either. Ideally both working together to find the ideal solution but who knows? Either Google finds a workaround for why ITP wants to block the authentication or Apple whitelists Google Drive? Though the latter seems unlikely.  
+Np mate, mine start next week. 
+Let's not even start with Siri on Mac. The simple task of asking even reminders sometimes results in no outcome. *"Here's what I found for Remind Me [...]"*. I swear, Siri has so much potential on Mac, like the fact I could restart, shutdown, sleep or lock my Mac by using voice would be a heavenly thing for me. But no, even weather? No dice. Ffs Apple, get your shit together. 
+How is ITP blocking authentication between two sites *not* ITP's fault? Google Drive is used by millions of people across different platforms and they aren't facing this problem so I'd argue that Safari's ITP blocking Drive's authentication is in fact ITP's fault.
+Yeah, but at the rate I'm using Google Drive, that isn't the ideal solution, but neither is turning off ITP. I guess I'll have to switch browsers until there's an official fix from Google. 
+RIP, hope that exam went well. 
+I actually don’t understand it myself. I’ll research a little bit when I get off work today. 
+Thanks, will try this out too!
+Yeah but like the whole reporting thing is a defining quality of this subreddit 
+No I know. I just wasn’t expecting that kind of help in this jocular subreddit 
+Rofl gtfo 😂😂😂
+Rofl
+I feel so bad for laughing so hard at this. *WHATHAVEYOUDONEOP*.
+GIF originally by /u/what_ok 
+This is my new favorite gif *of all time*. 
+5268 -- Far Cry 5 PC. Thanks OP! 
+I feel like the way Apple has been treating Siri so far, this feature is something that might be implemented by like 2024, maybe. But then again there's always the question whether MacBooks and iPhones will still be devices by that timeframe. 
+This is most likely a custom hand lettering done by a designer specifically for this person. 
+Oh haha must be nice. There's no such thing as 'just for calls and texts' with my generation
+Hahah that’s nice. How did he hold out for so long if he’d seen what the bee devices can do?
+Damn, wish there was one of those react videos for this. 
+In the end, it doesn't even matter.
+You can make a Bootable Install USB. Do this with a the last OS that supports it and then from there you could do an update to the latest OS available. [Here's a bunch of youtube tutorials on how to do this.](https://www.youtube.com/results?search_query=make+a+macos+bootable+usb). I would follow [this one](https://www.youtube.com/watch?v=64IOWM8ezyk). Then from there, all you have to do is boot into recovery, clean your disk and then reboot on the USB. Install new OS from them. 
+According to the Code of the Website, the fonts in use are
+
+* Segoe UI
+* Segoe
+* Brandon Grotesk
+* Helvetica Neue
+* Arial
+Posts like this make me which I had a elder brother. But then again, if I had one then i basically couldn’t have been where I am today. 
+This. I bought bulk pack of glue-tak just for this. 
+Better yet, use a cubic bezier function. 
+I would say, though, beautiful, this design won’t work as a resume. I think if you really want this design, make it into a website instead. You’d be improving that 4 in HTML and CSS that way too. I’d then make a print version for this, restricting myself to a A4 or letter size, since a lot of the times, resumes are printed and they need to be normal sized for office printers. The illustrations also don’t make much sense in the context, I’d think about how you can make it relevant to the content of your resume. Also, please take out the “(please hire me)” in the resume. Be more confident in your ability, and project yourself that you. Right now, that one line is hurting your chances for getting most better jobs. 
+Hasn’t this been a thing like since iOS 7? I remember this pretty clearly. Just another one of the smaller details I love Apple for. 
+I mean, MoviePass does this already for $10/month. You can watch one non-3D movie per 24 hours. In most cities, a single ticket costs more than $12 so you can imagine people are getting on this. My entire group of friends have one. 
+It took me a solid 30 secs to realize they were statues. 
+The best way I can think of is to:
+
+1.	Generate Clouds in PS (you’ll get the standard B&W PS clouds)
+2.	Use the liquify tool and “smudge” the clouds around until you get the desired liquid effect
+3.	Once you have that, apply a gradient map as a clipping mask to it. 
+4.	Final step would be to orient and apply final adjustments. 
+I haven’t seen this mentioned in the few top comments I’ve read but this is the biggest thing for me: the compatibility and the ecosystem. If you invest into Apple, it’s almost like it invests into you. Everything works as advertised and it lasts. Ever used AirDrop? Or Handoff? Those things alone should blow you away. 
+That’s on cocky ass pigeon 
+30 fucking percent!?! Holy shit. 
+IIRC you install and unzip via decompressor from the App Store  
+I agree with /u/Police_Telephone_Box 
+
+The website looks like every free blog template available out there. Not trying to be rude, just honest. I think you need to look at good examples of popular blogging platforms and go from there. Right now it's just too generic.  
+Facebook, DoorDash, Apollo (reddit client), Citibike, the new Starbucks app ( holy shit this new design is so good). 
+Keep at it! 
+Right off the bat I can say that the text size it too small and often condensed. In some cases you're cramming in way too much text. Overall I good first attempt, though I would recommend recreating already well-designed apps and what they do right. It'll also give you a sense of proportions and text sizes.
+Neat-o! You need to fix the overflow-x issue though. Also might be a good idea to ignore case on 'next'.
+Looks like he took away his only escape. 
+I've done that 3 times already. :/
+Coming to realize that. Thanks.
+It's closed now.
+mistletoe
+Thanks for doing this OP.
+Thanks OP! Would love a copy :) 
+good bot
+Yeah, it's crazy that she can keep track of all those threads and arrange them in the right order. Feels like one wrong move and *kaboom* you're fucked. 
+Apparently yes. I think the whole system works like that. It's there, but cutout because of the actual hardware. It's also just that there's nothing allowed to be in that area.
+Is your dick MFi-certified? 
+Yeah same, wish it did like a 'breathe' effect on wake.
+Interesting, I don't seem to have that problem. Does your force touch work properly?
+Yeah. Wish they did activate automatically. But I actually also find the force touch weirdly relaxing, especially with you match deep breaths with it.
+*feels bad man*
+Ah I see what you mean. For some reason I think it's like a glittery substance in the liquid that's making it seem pixelated. But that's probably just me.
+Do you mean on the gif or on the actual phone?
+Removed. Don't fall for scams please.
+On a side note... does anyone know what is the piano track playing in this? 
+In this case, Nature is **literally fucking lit**.
+Yeah, I know. I've since then *turned the feature back on*, upon learning it's use. Still seems unethical, and there are several accusations at Google over privacy violations. I'm **all** for tech but man thinking about this is scary. 
+You're right, I meant to say: Google is actually being sued over *something* like this.
+It's because Google as been accused of doing this before. If they did it then, what's there to stop them from doing it again.
+Yeah, me too. But GMaps was still able to do it. I've opened a support request with Apple. 
+> common knowledge like it’s a conspiracy. 
+
+And how did I do that?
+Thanks, I will.
+That's what it was originally, and it was tracking data. 
+Pretty sure. It was Thanksgiving week and I was taking my friend around all the tourist spots in NYC, places I've been to a thousand times and literally didn't need the app at any point.
+I don't know dude. I set the privacy setting to be only on "when using" and it was still able to collect all that data.
+They actually were tracking my location when even the setting was on "Only when using" in my location service settings. [Google is actually being sued over this](https://www.bloomberg.com/news/articles/2017-11-30/google-sued-over-data-claims-on-behalf-of-5-million-iphone-users).
+Maybe. I'm not sure though.
+Yup, I've had that setting on since the beginning of me owning my X, which I got on launch day. [Google is actually being sued over this.](https://www.bloomberg.com/news/articles/2017-11-30/google-sued-over-data-claims-on-behalf-of-5-million-iphone-users)
+Source?
+Lol 
+I did have that setting on, but it still was. [Google is actually being sued over this right now](https://www.bloomberg.com/news/articles/2017-11-30/google-sued-over-data-claims-on-behalf-of-5-million-iphone-users).
+You're right. Besides from battery drain, I don't have much problem with it. I *did* also turn the feature back on so I can "contribute" in that sense. But really, though, while I'm OK with this, I wonder where we'll ever cross the line. 
+I believe they can approximate by your other activity as well as popularity of those stores (ok maybe not). But I believe GPS can be that accurate + your Google searches.
+I see, thanks!
+Oh! Didn't think about this! Too bad I'm currently using Firefox.
+Like I mentioned in my post :) 
+Thanks for this. It makes sense, and you're right the satellite theory may be a possibility but unlikely. Google does say that they use this data for traffic approximation. However, are also being sued over this: https://www.bloomberg.com/news/articles/2017-11-30/google-sued-over-data-claims-on-behalf-of-5-million-iphone-users
+I'm pretty sure they do.
+Ikr!
+Right, didn't and wouldn't actually think about that.
+I guess that's kinda cool. If only people value my travel paths as much
+For me, it's 2018 and in terms of technological needs, this seems like a basic feature.
+I have no idea either, but it ~~was~~ is being done. Actually here's an article for your reference: https://www.bloomberg.com/news/articles/2017-11-30/google-sued-over-data-claims-on-behalf-of-5-million-iphone-users
+Nope, definitely different. I've had that setting on since I have my new X (launch day) and it still has all the tracking information.
+I would use it, except it puts apps I download to ALL my devices. I keep my games on my iPad, and more productive stuff on my iPhone. Tbh I can't remember the last time I used my iPod but that's there as well. It's too annoying to have to manage the apps on both. Plus, also hasn't apple removed the Apps feature from iTunes? It no longer automatically opens for me in iTunes.
+May sound dumb but I thought they use satellite information for that.
+I agree with you, being a tech enthusiast, I've always ignored stuff like this. But recently it started sending me notification asking me to confirm places I've been to. When I opened it, it had an accurate log was everywhere I've been to, the accuracy was astonishing. It even knew when I was running, or biking (I use Citibike in NYC, don't drive). Tbh honest, I found that too be a little out of my limits and a little tooooo creepy..
+> I find it really useful.
+
+How so if I may ask?
+I agree with you, being a tech enthusiast, I've always ignored stuff like this. But recently it started sending me notification asking me to confirm places I've been to. When I opened it, it had an accurate log was everywhere I've been to, the accuracy was astonishing. It even knew when I was running, or biking (I use Citibike in NYC, don't drive). 
+How come? Just learned to deal with it?
+Does this still happen if I delete the stock Maps app?
+May sound dumb but I always thought Google did that through satellite information.
+
+EDIT: I love how I being downvoted for this. Gotta love this community.
+Touche
+O:)
+Huh, didn't think about this. Thanks. Still kinda sucks though, it could be as simple as clicking a button on Safari. Apple could implement it as a handoff feature too, right?
+yeah Imgur fucked up. here it is again: https://redd.it/7go0qn
+Tweeting this was the worst way of sharing this exploit. Thanks the the greed of the OP (tweet), millions of wanna-be hackers are going to try to access people's Macs. Should've privately contacted Apple and claimed their bounty. *sigh*
+[Got this from Amazon](https://www.amazon.com/gp/product/B06ZYLQ2TP/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1). Works pretty well and I'm pretty sure it'll support the faster wireless charging with the update.
+Can we talk about Gmail and Maps please. What the actual fuck, Google.
+Oh shit! I hope I can see him one day...
+I haven't been able to play any AC games on BootCamp since Unity. None of them launch. Just stuck at splash screen without using any system resources. Apparently this is a very wide spread issue with BootCamps where AC games don't recognize the C:/ drive. I don't think Ubisoft cares enough to make a fix for it. I'm only surprised that no one from the Mac community has found a work around. Did you try using drivers from bootcampdrivers.com, instead of the stock drivers? I have the custom BCD drivers installed but haven't bought AC:O yet.
+You have a defective screen. You need to get it replaced at an Apple Store, or if you prefer, calling them and then shipping it back to them, only for them to then ship a new one to you. 
+I really wish this game wasn't a fricking PS exclusive.
+My pleasure!
+Ok I just tried it in Firefox Quantum and the site was a piece of cake for it (found my new default browser). I like the concept though I thing one of the most crucial things you need to do, despite this being a supercool idea, is that you need to make this *faster* without loosing it's strengths. Someone formally reviewing your portfolio will not spend large amount of time on it. Find a way to make this work while also jumping straight to the important bits.
+Sounds like your hard disk is failing. Run a hard disk test and see what's the status. Recommend taking a backup immediately.
+I assume you can restart, unlock via passcode and then access the settings.
+Ludovico Einaudi is a fucking genius. Glad you have in in your playlists.
+All I get is black top and two icons on the top right. That's after safari is done loading.
+Website isn't working for me. Safari MacOS High Sierra.
+I think it'll ok for me if you skip v1.4 and just focus all round on v2.0 
+Maybe. Try a system reset?
+Anything connected to the phone/car or did you add anything new to the car that might create interference?
+Pretty it’s the Flip 4. I had a flip 3 and it started happening to me. Sometime it was fixed by restarting it. I ultimately just bought new speakers because my flip 3 just got worse. 
+You just made my day
+While we’re at this can we talk about how google hasn’t updated any of their core apps?
+This is awesome! Thanks!
+Same thing here. I verified by identity twice and they sent me the confirmation both times but my all my limits are 0.
+I do! Omg how did you know
+ Why did I read this as: Tea Spoon Tea Spoon...
+Use the [offline sync method](http://www.dummies.com/education/internet-basics/syncing-local-music-with-spotify/). You will need your own music files for this though.
+Mine do that too
+
+sigh
+
+*unzips*
+NaughtyNaughty
+Yeah I got this: https://www.amazon.com/dp/B06ZYLQ2TP/ref=cm_sw_r_cp_apip_Wej7kAY1UNx9P
+Works as advertised. Though I don’t know if it’ll fast charge once Apple enables it OTA
+From what I understand it’s a different technology? But don’t know for sure and they do seem essentially the same 
+I would be if my Apple Watch S2 was also supported...  I don’t mind buying the case for my AirPods but like. My watch Apple whyyy. 
+I’d say getting there around 11:45 is a good bet. Not too early,  not late either. 
+**EDIT:** I fixed it by enabling “manually manage media” under iTunes iPhone settings.
+I fixed it by enabling “manually manage media” under iTunes iPhone settings. 
+Aw :( Hang in there
+Yeah doesn’t seem to be working for me
+I’ve been trying that but that still working for me anymore 
+Yeah
+It's a good post but I'd like to point out that Apple Pay adopt is still kinda shaky. I live in New York City where you'd think that all the places would use Apply Pay but you'd be surprise that 2 out of 10 stores I'd visit won't have Apple Pay. There's a lot of bank politics that hasn't allowed Apple Pay to reach it's full potential. I know that CVS has some kind of flick with Apple and therefore they don't use Apple Pay in their stores at all. Which is a shame, quite frankly.
+Still haven't gotten yours? :P 
+Same
+Username checks out
+Yeah I got this: https://www.amazon.com/dp/B06ZYLQ2TP/ref=cm_sw_r_cp_apip_Wej7kAY1UNx9P
+
+Works as advertised. Though I don’t know if it’ll fast charge once Apple enables it OTA
+I concur. Please for the love of god post that picture 
+Indeed
+Thanks!
+Yeah that’s what I’m hoping. He took down my phone number and has that his boss told him that they’ve had some last minute iPhones show up. That might be why tracking says rescheduled delivery to 3PM today. I’m just hoping this was the case. Otherwise I skipped work for nothing. And need to deal with UPS and Apple Support. 
+UPS has this beta follow my delivery map thing that updates on the map with trucks location. Like this: https://i.imgur.com/u2M6Yph.jpg
+Maybe, but my online tracking said that the truck was already at my place. :/
+Welp, someone at UPS fucked up because the tracking shows that the truck is at my place but the delivery guy swears that they only gave him 2 iPhones. Both weren't addressed to me. Tracking still shows delivery has pending so let's see. I just don't want to deal with a lost iPhone... I just cannot. I've waited too long for this.
+If only... they're making the rounds now and I have to leave for work in 30 mins. God they need to skip a few and just drop by my building already
+UPS is already downstairs but I live in a large apartment complex so it's going to be while before they reach me. :(
+Fuck that's fast
+I feel like, apart from all the comments here, you should try and go to an apple store nearby. Ask to speak to a manager and talk to them directly and see how they can help you. Sounds mundane but talking to a person face-to-face can make a big difference. This is also a long shot, **but**, try writing an email to one of the senior executives at apple. They're known to write back and if you can get in touch with them, they'll mobilize an army of people that will help you.
+welcome :) check the post on /r/apple that's updated with better files
+Someone's 'bout to get fired.
+Added! Thanks
+Doesn't even give me the option
+That probably means that either, the label still hasn't been created or Apple is maybe using FedEx for yours.
+http://lmgtfy.com/?q=UPS+Track+by+reference
+I signed up for my choice and it automatically started showing for me. 
+Even if you pick it up, Apple is blocking activation until Friday :( but good luck though
+Use UPS my choice and teach by reference using your phone number or order number without the last two digits.
+Use UPS my choice and teach by reference using your phone number or order number without the last two digits. 
+Weird, doesn't happen for me. Are you using the normalized files? 
+All the pages are blank for me. Safari MacOS 10.13.1 
+Welcome! O:) 
+Welcome! O:) 
+Welcome! O:) 
+EDIT: It's called CopyTrans
+Unfortunately not. I do there's a program called Transfer-*something* though. Look into it.
+Hmm, oh well. I'm glad you made it work.
+Hmm, intriguing. Are you on Windows? Because that might be it.
+Yay!
+Welcome! O:)
+
+Omg! Thanks! You're an MVP! EDIT: Made a edit to the main post too.
+Is the aiff not working either?
+Welcome! O:)
+Great! Glad you got it working!
+Video, thanks to /u/taco_friend
+Welcome! O:)
+Welcome! O:)
+Are you running the latest version of iTunes?
+Welcome! O:) 
+Thanks! O:) EDIT: Wait, I really got gold!?!?!? Thank you so much!!!!!
+Same! It's my ringtone!
+I have a dream, that one day I'll be able to do *everything* without iTunes.
+O:) 
+> original
+
+Sounds right to me, maybe something happened with the dropbox compression?
+
+I took the tones from the video that was uploaded earlier. Link me the files and I'll make those as well!
+Me too!
+Welcome! O:) 
+Welcome! O:)
+[Made the Ringtones! Guide here](https://www.reddit.com/r/apple/comments/79tprq/ringtones_i_made_the_new_homepods_sounds_in/)
+[Made the Ringtones! Guide here](https://www.reddit.com/r/apple/comments/79tprq/ringtones_i_made_the_new_homepods_sounds_in/)
+[Made the Ringtones! Guide here](https://www.reddit.com/r/apple/comments/79tprq/ringtones_i_made_the_new_homepods_sounds_in/)
+I wish I could make some of these my notification my phone. 
+
+**EDIT**: [Made the Ringtones! Guide here](https://www.reddit.com/r/apple/comments/79tprq/ringtones_i_made_the_new_homepods_sounds_in/)
+Good bot
+I have no freaking idea. Apple chose the worst youtubers to 'review' this phones.
+That's... not it. 
+Heheh no worries :) 
+:P To be honest, AM isn't really there yet for me. Plus I can't live without my Spotify playlists.
+Thanks! O:) (PS: It's actually 162 ;) 
+Yeah, I couldn't get through it.
+I know right! 
+Same here. I'm worried I'll be baffled if I have to use the home button again. 
+Yeah, I've had experiences like this too. Usually, my Apple deliveries come beforehand.
+Yay! Enjoy!
+Hmm, interesting. The officially reddit app can be a hot mess sometimes, so I wouldn't be that surprised. Try using Apollo or try opening the link from safari, [here it is again for convenience.](https://open.spotify.com/user/22wsjtnimzzrypfh65vkfksxq/playlist/5qwP9yQ3norqr1w7P7wDsl)
+Which songs did you add that weren't in my playlist. I would like to add them as well.
+Don't know about grimy but mine collects a lot of lint in the edges. I also find the buttons to be hard to press sometimes. Just ordered a 
+Caudabe Lucid Clear case as well, will see which one I like better. 
+> https://www.amazon.co.uk/gp/aw/d/B01N0XZDMD/ref=mp_s_a_1_5?ie=UTF8&qid=1509302650&sr=8-5&pi=AC_SX236_SY340_QL65&keywords=wireless+charger&dpPl=1&dpID=41Vy3CiWmWL&ref=plSrch
+
+Aw man it doesn't ship in the US. Oh well, I'll come something similar. Thanks though!
+
+Stayed up 3AM EDT and got mine for launch delivery through IUP! Feel bad for all those folks affected by the AT&T and CitizenOne glitches.
+Yup, they make solid cases. I just saw the comment about the Caudabe Lucid clear case that a lot of people seem to be swearing by it too, so I ordered that one as well. Comes much before than what Tech21 is shipping right now. I'll try them both out and return the one I didn't like.
+Hmm I'm not sure about that, but it's definitely much better than the official app in all other regards. Maybe the folks over at /r/ApolloApp can help you out?
+Amazon Basics has a nice nylon braided lighting wire.
+Which charger did you get? Link perhaps?
+Link please?
+Well you could try and get it replaced if you don't like it. Or much simpler, get a colored case when you get tired of it.
+I'm not sure what you mean? Like live "new comments"?
+During WWDC'17
+[Got this from Tech21.](https://www.tech21.com/en_us/pure-clear-iphone-x-clear-t21-5859) Offers solid protection and is as light and slim as you can get with the protection it offers. Been using this with my 6S for over 2 years now and it's saved my ass so many times.
+get Apollo m8 you won't regret it
+fuck fam. hang in there.
+Yeah dude, trying to get by until then :( 
+O:)
+It started with the 6s I believe. iPads as well, but not MacBook Pros I guess because my 2016 MBP has FCC markings
+> Sadly European iDevices – which don’t need FCC markings – are still saddled with the equally-ugly CE markings for now.
+
+https://9to5mac.com/2014/11/27/back-of-idevices-set-to-lose-ugly-fcc-markings-as-e-label-act-signed-by-president-obama/
+ORDERED: Silver 64 - 10/27 3:08 EDT
+
+DELIVERY: Delivery 11/03
+
+RECEIVED: Not Yet
+
+STATUS: "Preparing to Ship" *Updated 10/27 7:00 PM*
+> Sadly European iDevices – which don’t need FCC markings – are still saddled with the equally-ugly CE markings for now.
+
+https://9to5mac.com/2014/11/27/back-of-idevices-set-to-lose-ugly-fcc-markings-as-e-label-act-signed-by-president-obama/
+I mean the modulated instrumental version. Can't find that anywhere
+Wish I could download it from somewhere
+It's in the playlist.
+In other regions, they do.
+Ugh, hang in there man.
+Gossip - XYLØ (modulated down instrumental-only version)
+Same, silver for me too. Space grey, looks like a weird mix of dark gray and midnight blue to me.
+Ugh same, but we'll get through. I plan on watching movies and as many TV show as possible.
+All of the above except Apple retail stores.
+In the US, apple was approved to remove the symbols.
+But why go through all that trouble? There isn't any money in this.
+Only in some regions. Some regions still require the symbols and information to be on the device.
+:) 
+Welcome! O:) 
+Good job on giving credit.
+Depends on the region. Some places still require the symbols and information to be on there.
+Probably
+Silver looks dope!
+Wasn't mine.
+Same!
+Oh huh, didn't know this existed... thanks for this.
+I would, if I had it, which I don't not because I genuinely prefer Spotify more. ¯\_(ツ)_/¯ 
+I would, if I had it, which I don't not because I genuinely prefer Spotify more. ¯\_(ツ)_/¯ 
+Oh ok, well mine changed to preparing to ship last night at around 11:30PM. NYC.
+Huh very intriguing. Thanks!
+How can go about doing this?
+Yes, but mine's preparing for shipment too now! 🙌🏼
+Yeah you're right
+Preparing to ship! NYC 64GB Silver!
+Thanks mate
+I haven't even gotten any email from Citizen One yet, do you know if there's any time critical setup I have to do once I've placed my order with apple for citizen one?
+Hopefully. My CC did get charged this evening. But only the tax, nothing yet from Citizen One.
+So the apple store is showing my delivery date as Nov. 3rd but I actually haven't received any order confirmation from apple? Is this normal? I did it through IUP. Earlier today I also bought a hard drive from them and immediately received a order confirmation email. 
+The $174 might be the tax upfront? I paid $106 upfront today + $50 that citizen one still has to charge me. But since you're on AT&T it might be different. But I'm guessing it might be tax.
+Huh, thanks for this.
+Where are you located?
+Oh I might have mixed the two groups up. But I read that both phones cannot operate on the other's bands.
+Ah lucky you! Still processing for me; IUP Spring 64 Silver
+>Tried calling Apple but they are not taking calls (lolwut)
+
+Yeah been calling them all day but as soon as they detect you're calling about an iPhone X, they're suddenly experiencing "high call volume".
+AT&T really fucked things up this year with the X.
+Because you bought the Sprint version, you can only use Sprint or T-Mobile as that phone only supports those networks (i.e. CDMA). AT&T and Verizon operate on GSM which mean you'd need that carrier model to use with that network.
+Unlikely, you'd be better off picking it up.
+Same, card got charged 7PM EDT but still says processing
+Just got CHARGED by apple but the order is still processing. Hoping it’ll be in preparing shipment by tomorrow night. 
+Apple let’s people in, in batches. Probably why the app didn’t load. I had to wait 4 minutes after 3:01 EDT to get in. 
+Well said. This article just felt like a rant. 
+Yes, most certainly. 
+Good luck! 
+Yeah I agree. I was prepared for the worst and at the time nothing was loading for me. Eventually google chrome in a incognito window loaded so I had to type all of my information in. Took me a good 10 mins before I was able to complete the process. My iPhone comes nov. 3. 
+Indeed! At least you don’t have to wait 5-6 weeks like other people. 
+>  After a couple of days
+
+I bought it after the first 10 minutes.
+Wow, I almost feel sad. I had to sign up for IUP and all my save info wouldn't load (i.e. App Store app and safari). What loaded was Google chrome in incognito and I had to fill up ALL my information first. I still got Nov. 3rd. Hang in there guys! 
+Oh darn :(
+Oh damn I'm sorry. I was lucky enough; my IUP got approved and my phone comes on the 3rd! Hang in there!
+BOOM NOV 3 BITCHES! YAYYYAYAYAYYAYAYAYYY
+yeah...
+Ah well, good luck! You'll probably get one at launch!
+I'm with Sprint so all (I think) I need is the wireless account number and the corresponding PIN.
+Someone who did the IUP last year, can you tell me exactly what to expect and what info I'll need? So far I've gathered the SSN# and Carrier details. Is that all? 
+At least 1200 people other than me. Well fuck this makes me even more scared since I have to actually sign up for IUP. 
+Where, and which telco? Also were you provided with a delivery date?
+Hmph, I'm on Sprint so maybe not? I tried testing the waters with the iPhone 8 and all it asked me was for my PIN.
+Same here, and I've preordered before!
+Will do thanks
+Hmph. Guess I'm calling my dad then.
+Huh. I thought all I needed to verify the carrier was the PIN? I'm on Sprint.
+For IUP, do I need my SSN# or the SSN# of the **carrier account holder**? I plan on using my own Apple account but my carrier is under my dad's name.
+I don't believe so. You best bet now you be to have you info copied in your clipboard so that you can paste and move on quickly 
+Wait social of the carrier account holder? I am using my own apple account but I'm on my dad's carrier plan. Does that mean I need his SSN or mine?
+Nope you should be all set!
+Instead of that, I'm planning on keep an auto refreshers on Google Chrome. As soon as it come online there, I'll fire up the app and start tapping *violently*
+Go to art school, you'll get the entire suite for free. :) 
+Somebody **fucked** up and didn't outline the head.
+It's always amazing to look back and see just how far we've come.
+I would honestly stick with Apple... because at the end of the day, they are the ones liable for getting you your phone. Not to mention they have a good track record with customer support. 
+God I hope you're right. Over the last month, I've come to expect the worst.
+Same bruh, I feel you. Except I fly out on December 18th and don't come back until Jan 20th. 
+Fuck. Yes. Finally. Now if only CitiBike also brings this.
+I've been using mine since Nov last year and it's been running great. Only had a dust issue once, and even then the key was working, just a little harder to press.
+Nvm, just checked, the option is no longer there. My bad. My roommate traded in this laptop earlier in the summer and he was paid through PayPal. 
+~~You can always get paid through PayPal. That way, if you have the money, you don't need to wait on buying the watch.~~
+
+EDIT: The option is no longer there.
+Unless you're paying for it outright, you'll need to use a CC.
+You need to unfreeze to enroll. Make sure you do that if you want to go through IUP.
+My bad it's 00:01 PDT, as stated on apple's website.
+Pickup and delivery range were more or less the same. When I went to pickup my product, the rep said that it they still had to take it out of the box (don't know what they exactly meant by that...) and then I asked from China? And they said yes. I don't know how true is it. 
+I mean they did it like that for the MacBook Pro. I stayed up and preordered it and it was nevertheless delivered from China to the Apple Store I was picking it up at. Whether it was with delivered with a whole batch of other orders or not, we'll never know for sure.
+I just think it's unfair for the people who line up for hours (more likely days) that people could reserve it for themselves. 
+Glad I could be of help :) 
+I guess my point with the blue shadow was that it's the only one, meaning it felt out of place. I guess he can pick one color, black or blue, and use that throughout. Just as long as there is some consistency.
+I don't know. I'm guessing if you preorder for store pickup, they will ship from China to that store to pick up. I don't think they will set it aside for you, since, that wouldn't be so fair for the people who line up at that store.
+Typing on a high-quality mechanical keyboard.
+Wrong subreddit mate.
+I would wanna say yes, because they technically move that piece for you on the side. But I would go to the store you want to pick it up at, and talk to one of the reps there.
+I don't think the typography is working. I would much rather see this work with a san-serif font. Not sure if the blue glow/drop shadow is necessary either. With your icons, the blue shade is blending with your shade of gray. I would say try using black or white for the main icon colors. 
+But according to [Google, 12AM PDT is 3AM EDT](https://www.google.com/search?q=12+AM+PDT+to+EDT&oq=12+AM+PDT+to+EDT&gs_l=psy-ab.3..0i71k1l4.0.0.0.19238.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0....0.KLIv3G-eRTM).
+Wait fuck, I'm still new to this. So pre-orders open 2:01 AM if I'm in New York City?
+**27th** 3:01 AM **EDT**
+Yes! This can been happening to me on and off since launch. I have already gotten my AirPods replaced thrice, since then, for various issues. One of them being that they completely stopped working.
+Get some poster putty and you're all set.
+/r/apple
+What I imagine Trump does as president.
+As someone who held out on the AirPods, I've got to say: DUDE YOU'RE MISSING OUT. Trust me, go try them at a Apple Store. I promise you; you'll fall in love with them.
+>There are almost no apps that are taking advantage of the A11. Unless you enjoy playing around with furniture from IKEA.
+
+I was making a point countering your point. Albeit poorly framed.
+I use it all the time. Mostly on Safari, Settings and moving the cursor while typing.
+I don't think you have to enable this, it just works. At least it works for me without any hiccups, may sometimes take time though. Also, do you have older device(s)? I have the latest laptop so maybe that's why it works better?
+
+Well then, have fun and happy birthday :) 
+The fuck is this shit. How did I completely miss this
+I guess it varies. Most people I know would get the latest/greatest and then think of the price tag.
+I honestly see myself there too. Considering that I have to sign up for the Apple Upgrade Program through my uncle (who isn't that tech savvy). I definitely see my delivery range being 6-12 weeks (maybe more). Meaning I'm going to be out of the country when the delivery happens. Seriously considering getting the 8, and then getting the next gen X next year. Currently I own a 6S.
+Not right now, but 3-4 months down the line I guarantee you that they'll apps that start utilizing it.
+Damn. I guess it's just not a priority for Apple right now.
+Right now? Why not the 7+?
+I don't think that's fair to the 50+ million people you bought the 7 and plan to keep it.
+Is Taptic feedback different than the Haptic feedback? Because my 6S has it. Plus coming from a 6S, the upgrade is pretty big anyway.
+You're right, most people don't buy on "technical moofoo" they buy on the greatest number. 8 > 7 > 6.
+This is just speculation and not actual numbers, so we don't really know for sure.
+It needs more work for sure... not sure if the developer has stopped updating it or not. We definitely need a more modern implementation of this. But because there's not much like this out there, Magnet will have to do.
+You should really try it, its one of the first things I download and something I probably cannot live without anymore.
+Well there's that opinion. Made me giggle, thanks for that.
+You should probably look at an Apple Store. But then again, the 8 seems like a unpopular choice anyway so maybe it doesn't matter in the end.
+Nope, never. But I've only been using it for ~2 months, maybe less. I have the subreddit set to EarthPorn so I doubt there's going to be something NFSW there anyway.
+It's true, I'm not going to argue with you on that, but until Apple officially releases those sales numbers, speculation is all we got.
+True. But in terms of future-proofing -- the A11 Bionic will be able to handle things better as Apple brings more intensive features to iOS.
+O:) 
+Possibly. I high-key want this to happen because then the shipping time *might* just improve. 
+For the love of god, I hope they don't do a 8C. If it's anything like the 5C, it's not going to be worth it.
+Does it have hot corners, in the sense that if I drag the window to one side, it'll resize to that side? Because Magnet does that and I cannot simply live without it.
+I'd definitely look into it. I was avoiding it so far because I thought it was in alpha and glitchy at best. I'll look into it now because I see a lot of people mentioning it.
+Yes, sure is. I guess in some way, web developers are also designers.
+For the people who can actually utilize the power of the A11 Bionic, I'd like to bed to differ.
+Seems fair.
+Not really bad for the company, but the customers it serves.
+* Magnet - Windows styled widow snapping and resizing.
+* Copied - Beautiful and pragmatic clipboard manager
+* Sip - Universal color picker (for designers)
+* Wallpaperer - Takes the best photos from Reddit and makes it your desktop wallpaper.
+With the demand for this phone and the scarcity in supply, I'm sure people will be lining up days in advance. But yes, no one's getting it by just walking in. 
+What. How would that even work. Those devices are powered down and on the setup stage. They won't accept updates. Not to mention how much longer (compared to wired transfers) a wireless data transfer would take, especially for devices in boxes.
+Really depends on where you're coming from and how much loose change you have lying around. In terms of the technology, I think it's pretty worth it, **if**, you can use it.
+Which seems to be a lot, apparently.
+It's not. I guess it just goes to show that Apple *might* have made oversights with the whole 8 thing. They should've gone all in with the X. 
+Yeah, same here. My roommate picked up a 7+ (previously 7) rather than the 8 because it was cheaper.
+Yeah, that makes sense.
+8 is pretty significant over the 7, in terms of camera, processor and wireless charging. Seems to me the 8 is more of a no-brainer over the 7.
+You misunderstood every part of my comment. Bravo. 
+I think the trade-in only works when you buy in store.
+I don't get what the question is. 4.0 has already been out. 
+I literally live there, and I had no idea this was going on. What. I'm not buying it though. 
+I've been consistently getting over 2 days on my S2 since the day I bought it. I would've expected the S3 to last at least 3. But it's still something I guess. Better than the competition anyway.
+This was posted 2 months ago, but sure. Thanks. 
+Huh. Didn’t think about that and it actually makes sense. You have to be trolling me. 
+Yeah, I think you're right.
+Yes, it's crazy. But you get what you paid for. So no, not that insane.
+Wait you’re going to upgrade from the 8+?
+While, yes, I agree with you on certain points. Kuo has been scarily good with Apple predictions lately. 
+Oh damn. I’m in the US, and I’m going to use apples upgrade program which is $50/mo w/ tax upfront 
+While you make a good argument, you're using 6S numbers. Wasn't the 7 numbers, much, much higher?
+Yes, yes and yes. People please listen to this man and get a 8 so that I can get my hands on a X. 
+Same. I hope mine get's delivered before December 18th, before I fly out of the country for vacation. 
+On the contrary, I think people will shell money out for it. $300 isn't that much big of a jump for all those features and making a statement. Less, if you going to be on the upgrade program. 
+To be honest, same. 
+We'll get a decently reliable number one week after the preorders. 
+With my whole heart, I hope you're god damn right.
+Better, yes.
+A glimmer of hope.
+Fairly easily, enough to not remember struggling. But then again, demand wasn’t nearly the same and I was buying one of the most expensive models. 
+Only the 2016 MBP. Was able to get it within the 3-4 weeks range. But demand for that wasn’t nearly on the same scale. 
+In all likelihood yes. But again, depends on payment method. 
+Honestly, within the first minute. It's best to keep expectations low. For me, I just hope I get it before December 18th, which is when I fly out of the country for vacation. 
+I've picked up 2 products in the last year, both times, I was charged when the order was ready to be picked up. Which was essentially almost immediately. 
+No Problem! Would be happy to help further if you need it!
+Current CD Parsons Student here, I completely agree with /u/ChefRamesses There is a huge mismatch in the apple and the background. Stick with one style and use that. Possibly avoid a "flat" style since it's being overdone so much now. Additionally, play with the layout and look at real life stamps to figure that out. For some reason, the stamp feels empty and you need to figure out a way to make all the information in there feel **purposeful**.
+Look at:
+
+* Typography (this is a huge one for GD)
+* Size and Layout
+* Color
+* Texture
+I'd say try you luck on the pre-order day and if your estimate is really long, then camp out on Nov 2nd. Ideally you'd want to be living in a small city so you don't have to wait in an insanely long line.
+Thin ones. And ideally avoid ones made of rubber. 
+You only a need a CC if you're planning on getting the phone through the Apple iPhone Upgrade Program. Otherwise, as long as you have funds, you should be good to go. Remember, Apple will charge you **when they ship the item**, but since you'll be using a DC, they might place a charge authorization on your card.
+Yeah, this was very very very poorly executed on McD's part.
+I don't know, this was very very very poorly executed on McD's part.
+Apparently you need wristband. It didn’t say anything about that on the website 
+Haha yeah. One can dream though!
+Thanks for this. 
+Does that mean I finally get better service and faster data?
+What does this mean for customers?
+[The website straight up doesn't want to load in Safari](https://imgur.com/a/wWb3Q)
+Ah yes. Hopefully that'll do. I would be a nightmare if I had to travel home every year to upgrade.
+But he could just do that online and get the phone send to me right?
+How will that part work exactly? Would I have to send my phone to him or can he just set it up on his Apple ID and I could go in store and get it trade it in?
+O:) 
+As long as you enter all of that into the health app (or maybe the activity app), the watch automatically adjusts to the best settings for you and continues to do so depending on how you meet your goals. 
+I know, it's the worst.
+Yes! More 64GB for me!
+/r/UpliftingNews
+I'm more concerned about the drop tests that have concluded that the back glass is super fragile... even with Apple Care+, it's gonna cost to get the back fixed should it break. 
+No, I'm not blaming you. I'm just surprised at the lack of actual journalism from Forbes. 
+There's nothing new in this article, everything it says was covered during WWDC.
+Thanks
+It's the little things that really matter.
+IIRC you will have to pay, but if T-Mobile has a different system then it might just be that you can pay in store. Maybe call T-mobile CS?
+
+Oh ouch :( 
+Yeah, I've increasingly been seeing less and less audio drops/glitches since GM release.
+;) 
+But the Apple Upgrade Program isn't through the carrier at all. It's though Apple and Citizen One. 
+Screw this, I'm not sticking with Sprint for the X. I'm going to switch over to Apple's upgrade program even if it costs me $50/mo. I just want that beautiful phone god dammit.
+I would still recommend a backup and clean install. Just to prevent any potential future problems.
+Says I'm not eligible but my phone's battery drops from 95% to 75% in under an hour. Anyways, I'm waiting out for the X anyways so I don't plan on putting any money into my 6S right now. **I just came here to appreciate the fact that I could just copy the serial from my iPhone and paste it on my mac's browser without having to do anything.**
+Same, I simply despise the waiting. I think what's making it worse for me is that I want to get it on contract through the Apple Upgrade Program and I'm not a part of it so I think some of that will interrupt or delay my order. :(  *feelsbadman*
+True, we need a little bit of positive news in regards to the X. I feel like it might be giving me false hope.
+Do we know who reliable this is?
+I do. 
+They have smart invert now. That's the closest we're getting to dark mode for iOS for at least another 2 years. 
+I don't know which comments you're referring to when you say people are calling it a 'massive' increase but the X is compared to the iPhone 8 not the 8 Plus, because it's the same size. Over the 8, it is a "massive" increase. At least in the case for iPhones in general. 
+Because I'd like to carry it around. 
+I honestly don't fully understand the point you're making and I'll admit to not have so much knowledge on processors and it's related tasks whatsoever. But here's my point: The device outperforms other devices in the same class, and in short burst performance, edges out even an i5. In the case of the i5 argument, I'm not talking about sustained performance but other short burst tasks that the chip will be doing on a phone anyways. [I'll use /u/maladjustedmatt 's comment on this for argument.](https://www.reddit.com/r/apple/comments/71vhju/iphone_8_faster_than_a_core_i5_13inch_macbook_pro/dnebbm9/).The comparison here isn't the same as a fully cooled i5 that is meant, established and manufactured with continued performance in mind, even though it is still prone to thermal throttling. Put the A11X in a properly cooled environment, measure out it's performance and then we can really compare if it stands up agains a desktop class processor. 
+True, but they do also offer other comparisons. Geekbench is a starter and while I know people say synthetic tests are meaningless, it's considered a industry standard measurement for a reason. They also have some real life tests compared to Android (S8 or N8 I believe). I do agree with you on the encoding thing though, it's not a measurement against laptops but the comparison was made against a equally positioned Android phone.  
+Edge cases? 
+Yeah, hopefully Apple **does** have a plan in place and will officially announce it soon so I made a damn decision already. 
+I agree with you.  The processor can handle short bursts of intensive tasks, which is what you'll be doing with a phone anyways. So yeah, the comparison with the laptops isn't a great one, perhaps even misleading, but it's something that was put into laymen's terms. I think the main comparison here is between Android and iPhone. 
+Yeah, thermal dissipation was something that they went over in the article and I do agree with you. The processor can handle short bursts of intensive tasks, which is what you'll be doing with a phone anyways. So yeah, the comparison with the laptops isn't a great one, perhaps even misleading, but it's something that was put into laymen's terms. 
+Apparently the iPhone Upgrade Program will refund you the months until you receive the phone. Provided that you sign up for the X with them of course. Hasn't been something that's been officially confirmed, so take it with a grain of salt, but it's something that's been going around it might be a possibility.  Chances are the Apple has already thought this out. 
+I mean, isn't that something we're testing here. How much better 'general purpose processors' in the mobile class can handle? 
+True, but they don't specify if they used the same app or not. 
+"M-Morty... *buurrrppp* Stop looking for hidden layers and just be impressed."
+Actually no, everyone get the iPhone 8 so that I can get my X when it launches. 
+I want to wait for the X no matter what. But the constant thought of having to wait until next year to get my iPhone makes me want to bite the bullet and just get the 8. I would buy the X outright but that leaves a hole in my pocket and it would be a much smarter decision to get it through the upgrade program.
+Let's hope this isn't true. 
+Stfu and give me my X already. 
+I'd be interested, have had some mod experience with online forums. Not on reddit though.
+Now only if CitiBike also implements this... 
+Sorry for the late reply. But yes, it’s all prefect now!
+Thanks for all your help. 
+555
+I managed to install the lastest CI but the connection limit was still 200 not 55, which I then manually changed. I guess my previous PCT settings are overriding the new CI’s one. Guess I might have to do a complete fresh install of PCT if this doesn’t work as well. 
+Yeah, that's why I'm seriously considering the Apple Upgrade Program instead. 
+> latest ci. version
+
+Thanks for the reply. I didn't realize that I wasn't on a CI build. Really hope they introduce a update check or auto update feature in PCT soon. Also, 200 connections did seem a little excessive. I just downloaded the latest (sept 1st) CI #254 and will see if things perform better now. Thanks for all the help. 
+While I don't know how true this is, it's probably best to wait until Sprint officially announces it. I wonder if I should stick with sprint or get it through Apple's iPhone Upgrade Program. That costs $50/month for a 24 month lease with the option to upgrade free ever 12 months. Additionally, you also get Apple Care+ with the contract. Sounds pretty tempting. 
+PopcornTime itself freezes. Usually my downloads go to up ~8 or 9/MBPS. For example, I'll start downloading a movie about (3GB). The initial download finishes and VLC starts streaming. At this point PCT is trying to download the rest of the movie, though somewhere  at around ~2-3% PCT freezes (no value changes or anything). Video starts glitching out or if I'm watching a TV show which is shorter, the playback gets stuck, probably because there's nothing being streamed to VLC. At this point, I usually have to quit VLC and force-quit PCT. In rare cases, PCT manages to resume itself and in those cases I can enjoy the stream *almost* flawlessly. Connection Limit is 500, as is DHT Limit. I haven't messed with those settings.  
+Alright thanks for all your help. 
+So to upgrade I’ll have to pay this phone off first and then be eligible to upgrade? Also do you have any tips on how I can secure a phone when sprint makes it available?
+Thanks for replying! Can you expand on this a little bit? I’m a little confused as to which plan I am on right now because it doesn’t say it anywhere on my dashboard. Additionally, do you think I’ll be able to trade this phone in and upgrade to the iPhone X? Also what exactly is loyalty credit? Sorry for all the questions! Have a good day. 
+Yeah, can't believe Sprint. Most carriers already have offers and plans in place.
+Gotta love Sprint.
+It's because then, it's *technically* not bezel-less.
+That's interesting, I do agree with you. If I get a $1000+ phone, I'll want to use it every chance I get.
+Haha yes. Maybe a precision cut red sticker ? :P
+Interesting. In what scenarios do you think you’ll need your watch but not your phone?
+Wow maybe you should. I’ve hear there’s a night and day difference in speed and performance from just S0 to S1
+Yes, and I always have my phone with me anyways so there's really no point. 
+Yes! Just got myself a fancy new magnetic loop band. The watch essentially feels new already. With OS4 I'm sure it'll over all feel like a brand new product.
+RIP my 6S that I got last year and still have 12 months to go. 
+Oh nvm, finally got it to work. I saw that but isn't that from Apple instead of Sprint right? 
+Hm I can’t seem to be able to click on the link?
+[I don't see one?](http://imgur.com/a/IxDOI)
+Well all I know is (since it's on my uncle's family plan) that I have to pay $40/per month including everything. I get unlimited call and text but share pooled data (so ~2GB/month). But thanks for all your help though. 
+I'm on a Sprint family plan. Don't know which one. But it was a 2 year contract back then so I will have to pay off my current plan anyway. Would you recommend Apple's plan or Sprint's?
+So can you explain to me what's on Apple's website. Is the $549 (2 year contract) a Apple thing or Sprint thing? Also is the $549 the only payment I have to make for the phone (plus of course sprint's service fee) or is it $549 + phone payment + sprint service fees?
+Wouldn't be much of a Apple subreddit if it didn't. That's like going to a rally for something and then hating on those people for supporting/defending it.
+I guess? Sprint hasn't said anything publicly yet. That was all Apple. 
+Well, then, you sure did do a very good job avoiding the super controversial leaks for this event.
+Here's to hoping. *clink*
+Sounds about right, though that is through Apple not Sprint directly.
+$549 down payment + month fees? Wowza, I think I'll switch to Apple's IPP then. 
+It didn't fail, it was literally disabled by a passcode. Happens to TouchID all the time, not really failure if its a deliberate failure.
+It's been known for over 3 months. At this point, it's really not criticism. 
+And here comes the quarterly apple hate... 
+[Uh?](http://imgur.com/a/gQOXp)
+Would like to be in on this...
+Only S1 and S3 will be available. S2 is being replaced by S3, in all likelihood, to increase the adoption of S3. Basic marketing strategy. If you really want a S2, you could probably score one off of amazon or eBay for a good price soon-ish.
+Only S1 and S3 will be available. S2 is being replaced by S3, in all likelihood, to increase the adoption of S3. Basic marketing strategy. If you really want a S2, you could probably score one off of amazon or eBay for a good price soon-ish.
+Based on the iPhone 7 (which had 1960 mAh). Since they didn't say anything about iPhone 8's battery life, yet, for the 10 they say 2 hours more, I'd say that the batteries in the 8 are the same act the 7 and in the 10 they are ~100-300 mAh more bring the total battery to around ~2100-2300 mAh. 
+Nope, LTE Advanced. 
+Physically getting ready for this... 8 more minutes to go WOOOOOOOOOO
+That’s interesting. I’ll look into it 
+That’s what I suggested in first place but the client is adamant that she wants it there and that’s it’s “purposeful”. 
+Thanks for the feedback, I’ll mock it up and follow up
+Haha thanks for the feedback. Will definitely try that and follow up. 
+I love the text. Simplifying it further would make a night and day difference. Right now I'm looking at too much detail for it to be a clean and 'corporate' styled logo. 
+I agree with /u/IncidentsNAccidents. I think bold san serif fonts will work better, perhaps with some cuts and negative space to make it more interesting, rather that another "I could do that" logo. Serif fonts usually end up making things look antique and therefore, in most cases, take away from the original intention. 
+I like the first one the best, though, I would prefer the 3rd design if the inner most ring wasn't there, or perhaps as balanced (equally spaced out) compared to the outer rings. 
+Thanks
+Honestly, just return them when they arrive, maybe use them a few days too, to reduce the overlap in time from when you order and receive the newer AirPods. You get 14 days to return them from when you receive the headphones. 
+Any ideas when the preorders go live?
+Far Cry 3 - Steam (I'm assuming.   
+913.  
+I like to be there (in any way I can) for anyone who needs me, even if they are a total stranger. 
+So this is the 'phat booty' all the rappers keep rapping about
+Is this the spider they used in Harry Potter and the Goblet of fire where Mad-Eye Moody was showing the class one of the forbidden curses? 
+Here ya go: https://refer.citibikenyc.com/s/sinhashivam199  Lemme know if you use it
+wut
+Uhh, which guy?
+GOD SAVE THE QUEEEEEN.
+Man, only do this if you really hate your gf that much. 
+Short stories are the best.
+Looks great! I agree that left aligning the text will look a whole lot better and more legible. Also try and play around with some textures.
+Agreed.
+Ah, thanks. 
+Why are they together in the same place in the first place. AirPods in bathrooms sounds like water damage waiting to happen.
+How's the smell and the texture? Does it have the same "rubbery-ness" like the noodles?
+>I can even use the iPhone as a microphone for my hearing aids, so I can place the iPhone somewhere and it can send sound directly to my hearing aids if I want.
+
+Guess you now have an method on eavesdropping on literally anyone or anything. 
+So did you end up having to pay the $1200? 
+Wait wait what? What is this?
+Try mine: https://refer.citibikenyc.com/s/sinhashivam199
+This is the most extra thing ever.
+Check [this kickstarter](http://kck.st/2wAz95C) out. Would seems like something you might want to invest in.
+>(Bologna is probably my least favorite food, I just use it mentally as an indicator of hunger, because if you don't want to eat something you hate, you are not hungry)
+
+Probably the best mental tip about hunger I've ever read. 
+*cringe*
+Anyone know if Christmas is going to bring any good deals? Historically has there been any?
+One CAN hope. I just ask that it isn't as bad as Unity and Syndicate... games that I still can't run on my machine because god knows why. 
+No. 
+Wooooo!
+"fuck"
+
+"fuck"
+
+*ohio*. 
+I like it overall, but it feels... empty? I know your work is WIP but I don't know. Maybe it's something with the spacing. I also think you might really benefit from at least one highlight color. 
+Yes, everyone hype this so that Ubisoft is forced to release this on time with a half-assed PC port. I don't want to be a party-pooper, I just don't want AC:O to be a nightmare for all PC gamers like the past 3 releases have been.
+/u/FearTheBlaziken
+
+This look much better. But I feel like you still have too much on the posters. If it's really needed, then have it otherwise I see no reason for so much text. I really like \#1 but I also see really nice potential with the graphics in \#2 so I would really like to see those two combined together. I also think those shoes might work better with a slightly lighter shade of blue you are using in \#1. Reduce your font sizes, that'll help with the text saturation that's happening right now. Also play around with the text, combine two different fonts and see how those work. I totally see Avenir working brilliantly on these posters. 
+
+Hopefully you'll be able to find at least some of thise helpful. 
+This is old now, but damn those Junkrat buffs have me so freaking excited. 
+I think it's more of an awareness campaign, but I do agree with you. Client seems lost and has told me to rely on my creative ability. I will mention this to them and try my best with this project. Thanks for all your help. 
+Thanks for your feedback. Since this is a logo for a NGO that I was referred to by a close friend, I'm not charging anything for this logo. Therefore there's no profit in this for me. I know the concept is weak, but at this time I'm just brainstorming possibilities (because this is a rather challenging project) and making mockups. But again, I really appreciate your candor and I will look into your idea :) 
+The one thing I'll say is that you have way too much on the poster. Minimalism is key for posters like these. For me personally, the most vague and visually intriguing the poster is, the more I actually want to see it and enquire about it. 
+Thanks for this! So I've been going back and forth emailing with the client and she seems really uncertain about what she wants, but she knows that the idea of the logo is to show that "you're leaving the likes behind and sort of moving on". She wants a symbolic logo for this. Any ideas? 
+This is great, thank you so much! As far as I know, it's going to be used across all media and in junction with the NGO logo. The NGO looks like a "thunder girl". [Literally.](http://www.golivegirl.com)
+Thanks for the help!
+Thanks! This is beyond helpful. 
+I'm trying to represent the multiple aspect of the 'million' part. How do you think I can approach this with out multiple thumbs?
+I updated the post with some context for the logo. Thanks for taking the time to reply!
+I updated the post with some context for the logo. Thanks for taking the time to reply!
+Thank you for your candor! I agree with almost everything you said, and I think it's something I need to work on general as a growing designer (I only started last year). I updated the post with some context for the logo.
+Was/Is your intention to bring in material design aspects? Seems to be right from the Material design playbook. 
+I would totally wear that to work. 
+Oh shit I didn't even think about Evil Morty. 
+I look at this and all I can think about is Black Flag. 
+It hasn’t aired yet? 
+This is playing Season 2
+Apple will actually refund that for you, contact them. 
+Use PIA. I just snagged a deal for 2 years of VPN for $50 from 9to5toys
+Yeah no problem! I think it would also be awesome if you just showed your normal catalog too, instead of going a personalized recommendations. As a customer, I'd also like to see what I'm missing out on. Might get you more business that way.
+
+On a slightly unrelated note, do you go to Parsons? 
+Yes, they replaced the whole thing for me the first time I got mine replaced.
+"So like, have you ever **had** AIDS?" I made her repeat that thrice. 
+Absolutely wonderful! I love the minimalism and practicality of the design. The only thing that annoys me is in the menu, where the social icons (insta and twitter) seemed to be misaligned on the left. I would much rather see them below the quick link line. 
+
+EDIT: It you also be nice to see all the perfumes you offer. As far as I can tell, there's no direct way of doing that?
+I am on safari iOS and it is stuck on loading 😔
+Thanks for the feedback, I really appreciate it. In your opinion how could I better this so that the faces are more prominent? It would be really helpful if you could draw a quick mock up but please don’t feel the need to do something extravagant. Again, I appreciate all the help and feedback.
+Ah
+"Honestly is doing the right thing when no one is looking" - My father, who slightly altered this from C.S. Lewis.
+Cotton pads and some rubbing alcohol do the job really well. No need to sand the glossy layer.
+Holy fucking fuck that look incredible. 
+I don't know what else you want me to say. 
+It's technically not. But also, there are only so many combinations of a sentence/thought. Isn't it possible that someone else thought of the same thing? 
+As /u/AirRaidJade already pointed it out, and as I also replied to him/her, I actually didn't even read that post yet. I'm sorry if it seems like I ripped your comment off. I didn't. 
+Thanks! That's also very interesting. I'll continue playing with this idea!
+I did? I didn't even read that post. :S 
+Yeah thanks 🙏. I’ll play around enough to satisfy at least myself. The client seems happy for now. 
+This video makes me so happy. Reminds me of the time my dad and I used to do fun stuff like this together. 
+Well, the color of the human skin is and was not my intention at all. The 'human' part of the logo is (in my mind at least) is the two faces that make the 'H'. It also (kind of), shows human interaction, which is what the client wanted in the first place. 
+I did not. But that's a great idea, I'm going to try it out right now. Thanks mate. 
+EDIT: [This is what it looks like now](http://imgur.com/sxP2W9x). Kinda feels off for some reason. 
+So a FitBit isn't that accurate? I was wondering why is took only 1040 strokes. 
+Lmao 😂
+I agree, the second one seems a lot more balanced, while the first one is much more left-heavy to look/glance at. I guess, the two faces somehow represented the human interaction part that they wanted me to focus on, but that wasn't my original intention anyway. I had originally [proposed the 'H' as a symbol](http://imgur.com/a/9oPGD), but they wanted a textual logo.
+I had [that as a version](http://imgur.com/a/en5H4), but the client preferred the first one. 
+*spams voice lines*
+So how does this "control of I/O" work? What happens to old currency, and how does the increased use of electronic currency change/affect this?
+/r/NatureIsFuckingLit >> they love this kind of stuff
+To be honest, I would wait another year for the next line of processor and a possible upgrade to the touch bar. I would use a eHDD to get by until then. The next year's edition is something I would consider a worthy upgrade in this case.
+Sounds like a R-rated Charlie Chaplin episode.
+Nice LPT /r/LifeProTips material
+Love the design and the concept. Beautiful execution :) 
+Touché. PS: You’re def not the only one that happens to. Happens to me all the damn time. 
+Boiii why
+Oh shiiiiit
+And how's the performance compared to a similar GTX card? Thanks for all the info mate
+For which tier? The highest end or the mid tier? 
+:) 
+[Like so?](http://www.bymysidegoldens.com/wp-content/uploads/2014/06/golden-retriever-with-glasses.jpg)
+We need to make some chances, friend
+I think so too
+Haha exactly!
+Well lucky him 
+Maybe
+Indeed
+He suddenly decides mid-catch that he doesn't want it lol
+The application is already in
+It's the trying that counts though ;) 
+Yeah, it's like he suddenly decides he doesn't want it and is like Nope. 
+
+Love this! Definitely agree with /u/beauchanan that the font doesn't really work with the whole concept. My own other critique will be that from a distance, it does't really look like anything, and therefore only confuse people. You should try to play with the stroke thickness to remedy it.
+He just eats it right off the ground, so the clean up is taken care of. 
+But... but then the video will be about him catching the food.
+World record.
+Haha I know right!
+Why you doing me a heartbreak? :( 
+Oh. Ohhhhhh. OK that makes a lot more sense.
+I need vids.
+Indeed.
+Pretty sure the dog would just eat off the ground once the food falls. 
+Uhhh, ok? 
+At least he could get like on piece. 
+Which is also much more expensive.
+Well hopefully those price drop soon. By, like, a lot.
+The only software you need is the one that Apple bundles with it's Bootcamp support drivers. As far as I know, Apple or AMD don't issue any updates for Bootcamp. There are, however, third party driver updates that enthusiasts make. Though be careful with those. [Link](http://www.bootcampdrivers.com)
+Just got the dimming light kit. Didn't realize that I'll also need a gateway. Too bad that delivery for Ikea is also $10 for just one bulb.
+>update the firmware of the bulbs
+
+Never thought I'd hear that sentence. 
+That's not entirely true. There are certain combinations points of comparison that no two faces can have. What I originally meant with that comment is that it's possible that FaceID can read your face better every time, just how using "Hey Siri" multiple times makes it better at recognizing that command in your voice. Granted that voice, pronunciation and accents are something different than facial features. With being said, Apple is going to need a way to track facial changes (such as hair color, hair style, change in grooming habits etc) and that's what I imagine machine learning could possibly do. Maybe not now, but soon enough. At the end of it all, no two faces will ever have the same combinations of points of comparison. Which is why it's apparently going to be more secure than TouchID. 
+Technically, yes. In order for the system to see it as qualifying for the student promotion.  But essentially, get just give you the product you already have. At least that's how they did if for me. 
+Thanks.
+Absolutely. 
+That's because of Intel's expensive licensing fees. Intel's dropping that in 2018 apparently.
+Nice, any idea when in 2018? Also, with all the crypto mining going on I don't know how easy it's going to be to get a GPU either :/ 
+Ah alright. Thanks!
+[Source](https://www.macrumors.com/2017/08/10/apple-2017-13-inch-macbook-pro-refurbished/)
+Yeah, I'm waiting until eGPUs become a thing. Well popularity wise anyways. I just hope that my 460 lasts me until then. Even GPUs aren't the way they are supposed to be prices with all the cryptomining that's going on. 
+Well, technically you're entitled to it. But if that's how you feel, I completely understand. 
+It's only because it's a relatively "new" technology. Give it a year and those prices will drop right off. I'm hoping my 460 will last me until then. 
+Does anyone know how I can make sure to get the iPhone 8 ASAP if I'm using Sprint's IUP, any way to reserve one so I get them as soon as they are available?
+1. Yes
+2. Both, but a script can turn off the internal one if needed. (not on Bootcamp)
+3. Yes, but only on MacOS
+4. Newer, they are essentially a new laptop just without the touchbar and in most cases, slightly lower specs. 
+Yes. I got the manager to get me a exception @ Grand Central store NYC. Otherwise I'd had to send in the iPad by mail, only to get it back with the headphones. That would've taken ~5-7 days minimum. Instead I walked into the Apple store, explained the whole situation to the manager and she helped me out no problem! I guess it was lucky for me that the manager was a recent college graduate :P 
+It already is. 
+I'll raise you 200^-1
+Yup, Apple only. Though you could return your iPad at Best Buy then use that refund to get it from Apple. 
+I got my before the minimum 1 month requirement, the Apple support lady did it for me anyway. The way she did it was that it did a return on the product, the basically used the refund to a gift card to buy out the same iPad, and therefore making me eligible for the promotion. If you go into the store, the manager can make an exception and still do it for you. :) 
+I got my before the minimum 1 month requirement, the Apple support lady did it for me anyway. The way she did it was that it did a return on the product, the basically used the refund to a gift card to buy out the same iPad, and therefore making me eligible for the promotion. If you go into the store, the manager can make an exception and still do it for you. :) 
+I got my before the minimum 1 month requirement, the Apple support lady did it for me anyway. The way she did it was that it did a return on the product, the basically used the refund to a gift card to buy out the same iPad, and therefore making me eligible for the promotion. If you go into the store, the manager can make an exception and still do it for you. :) 
+This is actually makes so much sense. 
+Do you have any tips for making less typos? 
+That's with iTunes where the bill is generally much smaller than your bill for a new computer. Even with iTunes, Apple places a hold on your card before actually taking the money. With larger purchases, transactions are generally instant. 
+I'm sure Apple already thought of all of this. With all the things you mentioned, there are still enough points of comparison for FaceID to verify your face. I'm sure every time you use it, FaceID will train itself to be better, even potentially through machine learning. Remember, with things like you mentioned, your eyes are not the only thing that will be compared. Judging from the rumors, it's going to be a 3D scan, which improves recognition further. 
+Does anyone if I can combine this with student discounts? 
+If the iOS mail app was as efficient and intuitive as the Gmail app and UI on web, I'd switch in an instant. 
+Use some poster/wall putty. Push it a little bit, not too much, and then pull out carefully. 
+The minute eGPU enclosures don't cost $300+, I'll gladly invest into this. For a simple PCIe enclosure, the cost should be ~$100 ($150 max). $300+ seems way too excessive. 
+I use it all the time. Literally. I'm lucky all my friends either have a Mac or a iPhone or both. We virtually share all our links and even links through AirDrop. 
+Homefront! Thanks OP! Hope I win! :) 
+I'd invest it into something that'll keep me good for the rest of my life. Obviously it's not going to be easy, and it's not necessarily going to be your only source of income. But with all the resources available (i.e. internet, google, subreddits like this), I'm sure it's not going to be too hard. 
+That’s the reason I didn’t get them for myself. But the AirPods fit me impeccably so I don’t worry about it. Apple made the case really precise so I doubt there is anything will fit. In all honestly I would recommend exchanging these for Beats X until gen 2 where hopefully Apple leaves room for accessories. 
+Try out EarHooks
+Welp, time to become a widow main. 
+In retrospect, I think I agree with you. But in all likelihood, this is *most* what the iPhone 8 would (should) look like. There's not much wiggle room for Apple to be different that what has already been leaked and confirmed from the HomePod leaks. 
+Haha, here's to hoping.
+Haha, wish I could I watched this video twice. And def, that beat is nice.
+Haha I know right! But for me it's the second guy who get's something in his mouth
+Already been removed. But thanks tho
+I missed the streams, where can I watch now? 
+Well all credit cards still don’t require PIN so I don’t know.  ¯\_(ツ)_/¯ 
+Haha 😂
+That would be a really bad choice, in my opinion. My white case scratches easily, just imagine what will happen to glossy black.
+You’ve gotta do what you’ve gotta do. 
+I hear it’s full of old people 
+Do you notice a crackle when playing audio? You speaker might have been damaged. 
+Help yourself and don't buy it from your Boss. He/she is your boss. If something is wrong with the iPad, you'll end up blaming him/her for it and that's not something you want in a relationship someone who employs you. But that's just me. 
+Clean it out with poster putty! [This stuff](https://www.amazon.com/Scotch-Mounting-Putty-Removable-860/dp/B000AN7EW4/ref=sr_1_8?s=office-products&ie=UTF8&qid=1501819663&sr=1-8&keywords=poster+putty)
+\#worthit
+>Siri as default action for double-tap is meh.
+
+/u/AliasHandler:
+>You can change this in settings to make a double tap "play/pause" instead of siri.
+
+iOS 11 gives you the option to change tracks too. E.g. I set my right AirPod for next track, and my left AirPod to previous track. To pause, I just take one out and they auto-pause. Siri isn't that important too me so that doesn't really matter to me. 
+Well said
+Yup, been doing this myself. Though I also have an Apple Watch so I'm excited for WatchOS 4, which is essentially just make volume changing much more easier. 
+Touche
+The most popular ones are called EarHooks. Amazon has them I believe. Make sure you get the AirPods edition. 
+I actually appreciate them for their "lack of seal". Helps me be more aware of my surroundings when I'm walking and commuting the streets of Manhattan, much like yourself. 
+Yeah completely. Plus we don't know how hard/complicated it is for Apple to manufacture these. I'm thinking Apple is all hands on deck with the new iPhones since early this year and don't really care about the AirPods too much at this point in time. Especially considering all the rumors we're hearing about the manufacturing/supply issue Apple is supposedly having with the new iPhones. 
+Really? What do these "people" think the new features are going to be? I don't know how Apple can improve these more given that the technology to better them doesn't really exist yet. I'm talking the volume gesture and more battery life that people are complaining about. 
+I honestly don't see that. It was mocked when they came out but: [this](https://forums.macrumors.com/attachments/tobeclear-gif.711155/)
+Yes, I tried them while napping too! Though they came out at the end of what was supposed to be a nap but turned into full on bed time. Guess I'm a "messy" sleeper too so I don't blame the headphones. Generally listen to ASMR while asleep/going to sleep. 
+I guess you could find something to put them in. You could get creative and get something little those earbud plug boxes that used to come with Skull Candy headphones.  
+Agreed!
+3 of my friends have the switch. The same 3 friends also have these headphones. I guess you don't live in a major city or a technologically-savvy area? 
+T_T
+The major cities, I would presume. I see at least a pair in NYC everyday.
+The freedom from the wires is real. 
+Highly unlikely they will release new ones, though, no harm in waiting 4-5 weeks more.
+It's a possibility, and also something Apple can use to justify that price point. No harm for another 4 weeks, eh? 
+They show up time to time on Verizon and AT&T. I think if you're motivated enough you'll find a pair. Most people don't look beyond Apple stores. 
+Well, seeing that I've always asked whenever I'm at a Apple Store (always go to a different one), they're always out of stock. Both my parents want a pair and I just can't get my hands on them. It's NYC too so it's understandable. So guessing by that, I'd say they are pretty popular. 
+The AirPods or the birds? 
+Glad you found an alternative!
+Try EarHooks? 
+Right? I'm are more precious than my phone!
+Design (form factor) and the "smart" features (auto pause and play, double tap gestures). But for me personally, they sound good and get rid of the god damn wires. 
+They are already pretty competitive with the other BT headphones in this class, but yes, a lower price would be nice. 
+So this is what I sound like when I talk tech to girls 
+:( 
+I would, but my monitor is my USB hub. Both my keyboard, mouse and external hard drive are connected to it. So as soon as it looses video connection, it goes into power-saving mode thereby not allowing my keyboard to send the input in time. Also, even if it did, I don't think my monitor can display anything since there's no video data being sent while in the boot partition menu. 
+Ah, lucky... you. I guess. 
+How'd you lose them? In entire case, only one? 
+Agreed, closing to 8 months on mine and I'm loving them. 
+Nah, they are real hot in the UK too. I'm guessing not a lot of people are able to get their hands on them. In NYC, I almost always see someone wearing these in the streets. 
+Design, features, battery and honestly the freedom from the damn wires. 
+True
+Ikr!
+Lol
+Colorware? 
+Not that they are waterproof, but a lot of the AirPods have survive washing machines and swimming pools. I doubt sweat will do much
+Nice
+Ask a friend in a different city to buy it for you? 
+I don't think that the AirPods are targeting that at all. You should try the EarHooks though, I've heard they create a really nice seal. 
+How does one get this said gift? 
+Maybe get it from someone else? I feel like maybe Brexit is the reason why you to pay a whooping 160 pounds. Maybe ask a friend who's coming to the US to buy it for you? Much cheaper that way. 
+Glad to hear!
+I guess they want it from Apple for reliability? Idk, tbh. It's also possible that most people just don't know about it. 
+Have you tried/considered EarHooks? 
+Absolutely, I cannot live without mine now. 
+OMG Tim, you do me a heartbreak. 
+It's 5 years old so of course it's going to be 1/3 the cost something release end of last year. Do your headphones do all the same in the same form factors like that of the AirPods. What are they? I'm really interested to see these headphones, link them please. :) 
+Yisss! I love mine as well :) 
+I bet your LG headphones don't have the features AirPods do. Can you link me to these headphones you are talking about? Also, losing these headphones are something that's completely dependent on you. I've had these since lost and I haven't lost them once. Not even for 30 seconds, but that's also because I take care of stuff. That logic doesn't work here because you can lose anything, it depends on how you take care of your stuff. Additionally, these headphones fit 75% of the people. I can link you to several videos that demonstrate that these don't fall out. Whether you're jogging or headbanging. 
+So did you get up getting them?
+Yeah, NYC seems to have a lot of them. 
+As they have been since launch last October.
+Yeah I know. The only thing I can think of is that Apple severely underestimated the demand and continues/d to do so. 
+Well, that's a understandable feeling. Though just by seeing all the popularity and demand here on reddit, I doubt Apple is "faking" it.
+That's a very precious skill to have - to be happy with that you have.
+:( Hang in there!
+Yes, along with battery issues I brought up. The second pair straight up stopped working.
+Yes I agree. Though, if you're willing to pay for it, you can get your AirPods colored in any color you want.
+Haha yes. For me, it was ordering them online 3 minutes into them making them available. Thank you boring History class!
+Noice
+Hehe
+Been looking around
+I’ve been seeing a lot of people with these in NYC now. It could also be because it’s mostly out of stock and many people still aren’t aware that this is a thing. After all, Apple didn’t go big on advertising this at all. 
+Haha to be honest I think you’ll be fine. Use disinfectant wipes if you’re too concerned. But hey, if you’ve got the cash, it doesn’t hurt to get a backup pair, eh?
+I think it's because the game might be accessing your microphone while simultaneously streaming audio. Happens with FaceTime on MacOS, though not on High Sierra anymore interestingly. Try playing with your in-game microphone settings and see if it gets better.
+Huh, this explains a lot. Which phone are you using. I'm using a 6S and was wondering if getting a newer iPhone would help. I'm in NYC too. 
+Yes you're right. And it's not a bug, technically a feature because the settings are stored on the AirPods, therefore you don't need to keep changing the settings on each device. 
+Yup, happens to me quite often. I use mine with a 6S. I got my AirPods replaced thrice and still the same thing which leads me to believe that it's the 6 and 6S. I've rarely seen a 7 owner complain. They also work flawlessly with all my other devices, and they work just fine. I'm waiting until the 8/7S comes out and I'll be purchasing that.
+Lmao, really? 
+Highly unlikely, but no harm in waiting. 
+
+Yay! Congratulations! 
+
+Light? 4K? Yeah, good luck. 
+I had no problems whatsoever in the Oculus, but have bad cut outs when walking on random streets. Don't know why it happens, just happens. Sometimes in the same place, sometimes not. I'm thinking it's my phone, which is a 6S and I've seen many 6S owners reporting the same thing. Have barely seen anyone with any problems on the 7. 
+Yaassss this will be so awesome. 
+So everyone was recording this but didn't call 911?
+"What is your name mate?"
+
+"Samwell Tarly". That's some GoT reference. 
+Hey there! Thanks for doing this! My favorite game of all time is Bioshock Infinite. Life is strange is a close second (can’t wait for the next one!). Anyways the reason I love Bioshock Infinite so much is because of it’s story, but mostly also because of the great AI (Elizabeth). No game kept me as hooked as Bioshock Infinite did. I skipped a school day because I was so hooked on the game and just had to finish it. Then gameplay, mechanics and voice acting was just so great that it completely consumed me. The story itself was also so good. I had to keep searching and reading about the games story for weeks after I’d finished it. What’s you favorite game OP? :)
+ELI5?
+I know right! Designer are basically not appreciated by the common folks at all. Hopefully, that’ll change in a few years. 
+Wow thanks you're so helpful! Next time also try to read the entire post :) 
+On a side note, the track you posted is really good! Keep doing what you're doing! And put this put on Spotify so I can keep listening to this :) 
+That's what my parents threatened to do if I kept wandering off too far. Guess this kid bluffed, and failed.
+Yeah, this is definitely the only thing that has been working. I'm going to basically stick to this forever now. The only thing I will change is that once I reach my goal weight, I can have carb cheat days. 
+Wow more than double my weight loss! Almost at that 2-ish month mark and I've only lost 15 lbs! Anything special you did to lose all the weight *that* fast? 
+M/19/5'10"/205lbs
+If you need power, then yes definitely go for the 15". It's quad core and those two cores could really help. Like /u/MisterDeluxe said, if you value portability and not screen real estate then go for the 13". 
+
+I did too! :)
+Or if you don’t plan on bootcamping then just get a good external hard drive 
+
+Submit feedback to Apple!
+2017 seems like the best deal. For $50 more you're getting a new *slight* improved laptop + headphones worth $250
+Ah, I mean the stock weather widget on the compilation. Phone's installing now, guess I just wait it out. 
+Is weather syncing for you? That's the only thing that's not working for me. 
+Ok, thanks for the answer.
+Ok, thanks for the answer.
+Send your saddest songs my way...
+Since the battery is below the 80% capacity under 1000 cycles? Doesn't that mean I have a faulty battery?
+Yes, better to not mess with Apple Watch betas until they figure out a way to let users downgrade the watch themselves. 
+This is only for developers. There’s no public beta for WatchOS. Is something goes wrong in the beta, there is no downgrade method. You’d need to send your watch to Apple. 
+I mean beta MacOS high sierra.
+Oh whoops replied to the wrong comment, sorry!
+I just noticed yesterday that my left speaker of my 2016. tbMBP15 is now distorted. I run bootcamp and high Sierra public beta. I also hear the crackle/sizzle sound now. Definitely didn't happen before. Have you contact Apple yet? What was their response?
+/r/TIFU material. 
+Had the problem too, along with severe audio cut out issues while outside. I've had that since launch last year and have had them replaced 2 times already.
+I have a 460(4 GB)  with the slight higher performing processor (2.9 GHz) and I can running it at ~29-34 FPS @ 1080p. The game is poorly optimized right now, and their servers are also having a lot of issues. Remember, it's in early access right now. I'd recommend waiting for a official launch rather than getting on the twitch hype train. I did it and I'm not that happy with it. Other than that, I think your computer should be able to run it at Medium 1080p with ~30-40 FPS at launch. 
+Your laptop should be able to breeze through anything under 4K 300 PPI, with multiple layers. Are you running beta software by any chance? 
+Wish I had a retina MBP15. I have a non-retina 2012 MBP 13" just still there, and there's nothing I can do with it. 
+Give it 100 because updates, and downloads. Also you might end up wanting to install PTR which is about another ~45-50 GB. 
+Draining batteries until dead will add to your charge cycle count. Make sure you don't cross that 1000 charge cycle limit
+>stretched the budget
+
+Were there any others that were competing in price? Curious because I felt that Apple was pricing their headphones reasonably well. 
+>To the Apple employees messaging me, I know.
+
+I haven't laughed quite this hard in a while as I did when I read this. 
+Didn't the mods verify him though?
+You got it
+PS: All promocodes have been redeemed. 
+You should be good but just be prepared. It’s a real good movie and frankly Nolan’s best work yet. 
+I Jus got out of the theater and although I had no heritage with this movie it was quite powerful. Enough to make me tear up a little. I’d advise caution. 
+Oh boy. Thanks. Here’s to hoping I don’t go 10 lbs back up. That’s essentially all the weight I’ve lost of far. It’s be really discouraging to see that happen. 
+This wasn’t me but a friend, it’s too good not to share. So my friend And I used to hang out all the time and so I was over at this house all the time and vice versa. Well one day he got a baby sister and suddenly he had all these responsibilities, his parents were giving more attention to her and the usual sibling stuff. The last straw for my friend was when I was no longer allowed to come over and he wasn’t allowed to come over to my house anymore. I don’t know why. Well he got mad and decided to “get rid” of his sister. How? Put her in a trash bag and “take out the trash”. Boy was that a shit show. He wasn’t allowed to leave the house anymore. Essentially never saw him again. The only good thing that came out of this for him was that he was never asked to take out the trash again. 
+Would love to get in on this to combat those college debit! This is such a cool concept! RemindMe! 2 days Donation for /r/millionairemakers
+:3 
+That's great progress. I'm ~8-9 weeks in now and I've lost about ~12 lbs. A lot more to go but I was wondering on how the whole plateauing thing went and what, if anything, you did to deal with no weight loss. I've been hovering around the same weight for about 2 weeks now. 
+I understand. It’s Hans Zimmer after all, you know the music is going to be moving. I’m going to watch today. If you want, I can let you know if it has those scenes. No spoilers I promise :)
+Wow mind blown. What if Apple is creating fake rumors to battle the actual leaks? I know it sounds crazy, but *if* by any chance they are doing this, it's working pretty well.
+This was a great read! Did you go see the movie? If you did, what do you think about it?
+How long as it taken you to get here?
+That's your springboard crashing. 
+Happy Birthday OP! Would love either doom or h1z1, your call :) 244
+Amazing! Keep going! I've been plateauing for about 2 weeks now... waiting for that "sudden weight drop".  
+:(
+I was 2 days over the 30 days limit, was sad. Manager came over, gave it to me anyway. 
+Is this only happening for rMBPs or MBPs (2012) too? 
+AppZapper, nice and tiny app.
+I linked the original video and never claimed it's mine. With that said, I'm done with this conversation. You should find someone else to bother with your pettiness. There's plenty of people doing the same thing I did, so you shouldn't run of out of people to bother anytime soon. 
+Ok. Since you can clearly know all my intentions, please enlighten me. 
+Please do. If they really think it’s worth removing, then get it removed. That 3 karma is really going to hurt me though. 
+Whatever. Your point makes no sense because this subreddit is place to share good content. I don’t get what problem you have with this because you’re neither the owner of the content or an admin of this subreddit who has a legitimate reason for removing this. 
+And by that logic, it’s ok to have the same jail sentence for rape and stealing pencils in 3rd grade. 
+Congratulations! And I feel you. I’ve not don’t it so far either and it’s my 8th week in. 14 pounds down!
+A tip for hunger, which some people here might hate me for, is to take green coffee bean extract. Get the pills from amazon and take it for more than 2 weeks religiously. Works for me, might work for you too. 
+Really? And no one Reddit does that?
+Well don’t have TV. Might be a completely different story there. 
+Hmm I’ve heard a lot of people with troubles who coincidentally also have 7(s)
+I never claimed I did? I’m just sharing content I think was interesting and worth sharing. Everyone does that. 
+My only gripe with firmware password is that you have to enter the password *every time* you start your laptop. The amount of time I switch between Windows and MacOS would probably drive me insane every time I started my laptop.
+Got dammit really wish something happens to my 2016 MBP so I can get in on this .
+Anything vulnerable is blocked by Apple. Unless you know your way around terminal (or rather don't) you can't really mess up your system. Oh, but don't fuck with permissions on Macintosh HD.
+Dammit missed it by 2 days. Also I got it online. 
+The color schemes when time, battery or any of the shortcuts is active and that the media player bubble finally works. Also tapping on it takes you to the music app. 
+Why not?
+AirPods work fine so does my Watch, however, weather on my Watch isn't syncing. 
+Nope, I can install apps just fine. Try a fresh install. 
+Yeah me too. 3D also doesn't work on the homescreen. 
+It's intentionally been removed. 
+Yeah wait for a few more. 
+Didn't notice this, nice catch. 
+Hmph, everything seems fine on my 10.5
+Yes, finally.
+Wait for at least one more public beta release, I would say. 
+Which phone? 
+Facing a lot less crashes. 
+Neither does 3D touch on the homescreen and it's killing me. 
+It's not hosted by apple therefore, not officially by Apple. My intention here is that Apple hasn't "officially" shared this with us, the public beta testers. Can't explain this to you any further. 
+Yes, I meant that Apple isn't hosting them. It's from a developer hosting it on his dropbox. Hence, "not officially from Apple". 
+Yes, I meant that Apple isn't hosting them. It's from a developer hosting it on his dropbox. Hence, "not officially from Apple". 
+Not in the same situation, half my purchases are from the Indian store and they work just fine. 
+Ok then. Start your engines. 
+'Twas was when I was a Hanzo main. Now I'm junkrat... don't know if that's any better.
+Intriguing. Everything is fine for me. Try a fresh install or just downgrade. Your call. 
+I mean, I didn't have to. But hey, if it worked for you, go for it. 
+Excellent! I love the detail you paid to this. Especially how the whip thing shakes when the propeller spins. 
+Yeah yeah you got me. 
+Haha yes don’t do it if you rely on it for work. I also need it for work but I know my way around problems and I don’t solely have to rely on my iPad so I’m good. 
+
+Good luck! 
+Yes. 
+Depends on your region I guess. I’m in the states so I got it instantly. Try restarting to see if it gets it. Or just wait a bit. 
+Ok then. Everything seems fine on iPP 10.5. Maybe you’ll benefit from a clean install. 
+You’ll be just fine. 
+Don’t actually know for sure if Apple publishes it for us or not. Just know that they’ve made it absurdly hard to find it, if it even exists. 
+Lockscreen media player is all fixed now for me!
+Wait, really? It's been flawless so far on my iPP. Granted, I use my iPhone more so I might have missed a few kinks here and there.
+Interesting. Will see how my 6S does on the PB.
+It's all in the software. So yes, all the performance issues will be gone. But of course, go account for an aging device. A older device will slow down with every major update.
+Apple doesn't, but we have one [here](https://www.dropbox.com/s/cdqdvbgvvnmc6be/iOS_11_beta_3_Release_Notes.pdf?dl=0).
+Yeah happening here too. Probably a lag thing. Should be eased out in the next couple of betas. 
+Good luck!
+
+:S Fresh install?
+Feels snappier too, though, that just might be the system overall. I never had problems with Safari to begin with. 
+Yes, just tap on it. 
+No, app switcher works fine now.
+Weird. Try doing a fresh install. Which parts are you seeing the second language in?
+Yes you're the beat testing group. I believe it's called that because you have to enroll you devices, therefore be a part of this group. 
+Yayaya! 
+Try setting your language to something else, restart. Set it back to English, restart.
+Yeah, can't tell about those yet but the music player notification bubble and CC are now working again. Thank. God.
+Yeah don't do it. Watch and Betas don't play nice. 
+Yeah they mentioned the Apple Watch issues in the release log. Are you running WatchOS 4 or 3? I don't have the older notifications on swipe up? Wondering why you have it. Give it a restart and see if it still shows up. 
+Here are a few notable changes I can already feel with the update installed:
+
+* Phone feels much much more snappier (iPhone 6s)
+* Multitasking now actually works.
+* Pull down for notification actually kind of feel intuitive now. Phone also doesn't lock, which is nice.
+* Animations are much more smoother and snappier.
+* Change changes to the CC are appreciated 
+* No more 3D Touch delay, feel snappier again! (Yesss!)
+* No misalignment of notifications and Today view, at least for now. 
+
+Will report more on:
+
+* Battery, seems like different people are having different experiences.
+* AirPods connectivity. 
+* AirPods Switching from device-to-device.
+Yes, my 6S feels sooo much more snappier right now. 
+Delete the update, restart, and try it again. My phone just rebooted after the install and it already feels *great*. 
+Yeah me too. Glad it's out now. Installing right now and I'm already jittery with hype.
+Oh. My. Gawd.
+Oh, then I'm in hell too apparently.
+Alright, until then.
+Hmm, that might be doing it. But then again, it is a beta. Consider downgrading if it's too much. 
+Check battery settings, is there any rogue app hogging battery? Also are there apps that have constant access to your location? 
+There's a special place for you in Overwatch Hell. 
+Interesting... I've heard different from so many other people. What device are you on?
+Ah gotchu 
+:(
+Doesn’t that fuck with the colors tho 
+Doesn’t really make a difference but I’m glad you found it to be perfect 
+Hahha lemme try it too. 
+Ah I see. 
+If they get enough resistance they will. Everything does.
+Umm, your LED will be the generated heat. At this point I'm not too sure if you're trolling or not.
+\#rebel
+Seem to be working just fine on my iPad and iPhone. I’m running PB1 though 
+Noice 
+They’ll try to fight it. We have to resist 
+60%
+Imagine a Harry Potter world too. Fuck that'd be incredible. 
+Hang in there!
+Hehe lol your battery won't like you for that. Better get an Apple Watch for 24/7 tracking. 
+Re-pair. Repairs sound like fixing it. FTFY. 
+Have you tried it on High Sierra? It's amazing there as well. Much faster load times and better responsiveness overall. Seems like Safari can better handle JS and CSS3 animations now. 
+Noice.
+Set it's location services to "When using only". Maybe that'll help.
+Not officially from Apple, a developer uploaded it there for us to see. I don't think we as a public have access to those. 
+Try directly updating to DB 3 from iTunes using the IPSW? 
+Hopefully today, otherwise tomorrow.
+Yeah everyone's been salty about that. Best thing to do now is provide apple with feedback and ask it back. 
+What? Feedback in third party apps? I've never had this. Is there a setting for this? 
+Glad that I'm not the only one. 
+Might as well have the room lights on then. Also you don't want that kind of head being generated if you tend to browse for longer times. Also battery. 
+It's still too bright in most cases and for most people when using it in the dark i.e. in bed before going to sleep. 
+Whoops, just realized I provided the instructions for iOS 11. My bad, thanks for the correction!
+Yeah, that's be cool. But overall, during the day, if your white-point is higher, you'd be consuming more battery. So overall, having it a average value helps you day and night. That's provided you can find a setting that makes it usable for you both outside and inside.
+I find it too bright even on that when using the phone in the dark. 
+Yes, this would remove the airplane mode step, thereby keeping FindMyiPhone active. Meaning if the owner can activate it in time, they can get a location and lock the theft out. 
+Idk yet, but will let you know when the PB is out. For now, you can either: 
+
+* 3D touch a notification and then tap on it again
+ * OR 
+*  Rest your finger on touchID to unlock (lock will go away from the status bar) and then tap on the notification. 
+
+These two steps are a pain, I know, hoping Apple works them out.
+Hoping it's today, otherwise tomorrow.
+PB isn't out yet, hoping it's today. Otherwise should be tomorrow. If you're running PB1, it's going to be a OTA (WiFi) and you need at least 75% battery. 
+Yeah the alignment was a real issue. I can tell you once the PB is out. 
+Polarized Ray-bans only.
+I guess so. I stand corrected. Curious as to why apple is running two different betas with essentially the same software. However, at the same time, PBs are much less frequent thereby less likely to have deal breaking bugs. Therefore, in my mind, stable. Doesn't necessarily have to compared to DBs.
+The public beta comes out a few days later to make sure the developer beta are not breaking or bricking any device. Therefore being more stable.
+Care sharing that with us?
+No problem!
+I mean, no matter what people tell you, since it's a beta, it **may** be different for you. I'd suggest updating, and hopefully, it's better. If not, downgrade. And remember, always take backups. 
+Thanks for heads up!
+Yes it is. Guess, Apple is still figuring things out. 
+Not *on/off*. It now disconnects from the networks it was connected to. For WiFi, it disconnects from the network, and "temporarily" disables auto-join for that network.
+Some people have reported much better battery life. But don't count on that being the case for you. 
+How is AppleSeed testing different than public testing?
+:( 
+And you're sure this is the Public Beta?
+Yaaasssss!
+Hey, it's a free world. More people providing feedback. Making PB safer for the rest of us. 
+Yaassss finally! Was hoping this would be fixed! Killing me rn on PB 1 on 6S. 
+This is the developer beta. The PB should follow soon. 
+Developer Beta 3? I'm curious because a majority of users have been able to install flawlessly. 
+Hmph. It works in the AppStore but doesn't (in most cases) any where else. I mean unlocking the laptop or Apple Pay. It does work under Settings though. Don't know what's up. Restarted 3 times, and things seem to work now. But still kind of iffy. 
+You could've done this from the beginning. Go to CC, tap on media player and then tap the little airplay icon. From here, you can select which device to stream content on.
+Always, always, always backup before any update. Even if it's a public GM release and especially if it's a beta. Nothing happened to me and I'm running dual boot with Windows. 
+I mean, I would. But I'd rather not send in my Apple Watch if something does fuck up. 
+I mean I assume a password manager would kind of be a big deal. 
+Guess I know someone who’s downgrading. 
+Don't look at me, I love apple. 
+Make sure you’re not getting yourself into trouble by doing this. 
+Noice. Apple has outdone themselves again :P
+It’s only fair I guess. 
+Are you even reading? I’m not even recommending him to buy a iMac in the first place. I originally just recommended him to buy a monitor and run it off of his MBP since he clearly doesn’t need the power of his gaming PC. Seems to me like since you’re so anti Apple you think every comment someone makes in this subreddit has to be “Pro Apple”. If I haven’t said anything to help him, then you haven’t either. So please check yourself before being some sort of fact checking nazi. 
+You’re going for a hat-trick!
+Huh. I don't know if Mavericks was truly responsible for this but my HDD was completely done have those PB nightmares. Had to get a new drive entirely.
+Pretty sure I had a worse experience with Mavericks. Not saying this is any better, but Mavericks was definitely a pure nightmare to handle.
+Yup, that works just fine on my iPP. I'm talking about my iPhone here.
+Should ideally be out by tomorrow. Worst case in two or three days. 
+Interesting indeed. Snapchat has been atrocious for me and I don't really know if the apps freezing is the app switchers fault. 
+Thank god Chase is working just fine.
+Good on you. I don't have that kind of self-control, really.
+Oh yes, I'm talking about iOS 11, and yes it's changed to be so. Have fun with your baby.
+I'm talking about iOS 11 all together. iOS 10 isn't even being discussed here.
+Compact: contrary to your belief, some people have small rooms and limited space, desk space is quite valuable to some people. Plus more desk space means greater freedom to work on your desk. OP mentions that this is a benefit for him. 
+
+Performance: Mac OS and an iMac are greatly optimized for each other and therefore significantly more efficient when compared to the odd combination of windows software and random hardware. If you can't really understand this, then I fail to see how you understand Apple at all. 
+Yes but I think they've been playing around with font-weights throughout the OS and that's why they've done it in weather too. 
+Can't wait until PB2 when I can try this out for myself! Glad this has been worth the wait.
+Interesting. What device are you on? Maybe it's device specific. 
+Nah, Apple won't do that. They can't. Otherwise the graphic designer me is going to die a whole lot. 
+From CC, Airplane mode doesn't effect Wifi and Bluetooth. That's the feature. If it's not working like that for you, then it's probably a bug. 
+Yeah wow that's bad. No consistency in capitalization and don't even get me start on those time stamps. 
+Ah, noice. More convenience, I love it. 
+Wait, you mean lock screen's swipe up? Because I don't really know what the Notification Center is now. 
+I've heard the battery life is much better so I'm hoping I'll be able to stick to the PBs. 
+I'm going to see how bad PB2 is. It's as bad is PB1 (which was that bad to begin with), then I'll probably be downgrading too. 
+Noice. Glad to have that back.
+Airplane mode *actually* doesn't turn it off. If you're connected to networks, it does not disconnect them automatically. Has to be done manually, but I guess it's just extra steps. Apple should apply different behaviors to these buttons if they are on lock screen vs home screen. 
+Yeah, I'm on Public. Maybe that's why. 
+Hmm are you on DB or PB?
+Yes but the Phone could still search of networks thereby having a location. Also it's only temporary, so it would reconnect.
+I have not tried that, but I would figure that a restart should've fixed the loop? Unless it's broken by default. 
+Swiping up apps won't actually close them, if you double clicked the home button again, the app would still be there. Switching to a app sometimes took you to a different app than intended. Also, sometimes when switching to a app, the app would fail to resume and freeze. That's at least what I've been facing. 
+Wait, not it's not. 
+Thanks, good to know.
+Wait really?
+Turn off auto-join network.
+How do you delete the update?
+Not really. I basically have it on all the time and yet my 6S is still dead within 6 hours.
+I think it's good that you can't disable Wifi and Bluetooth from CC anymore. It's a good way to prevent thefts from happening and disabling Wifi and Bluetooth basically renders Find my iPhone useless.
+:) 
+I've read someone that it's still not there. It's been removed on purpose. Don't hope to get it back soon. However, I feel though that if enough people request it, Apple will have no choice but to add it again. 
+PB 2 should follow by tomorrow or worst case, day after tomorrow.
+Ah yes, someone thought it might have been a feature. I certainly don't like it.
+Same tho. 
+Handy
+Enroll your device into the Public Beta, they are more stable than developer betas. PB should be out by tomorrow.
+I would honestly recommend doing a fresh install. 
+huh?
+Yeah, no messing around with betas on my Watch. Too risky
+Touché
+Guess I'll be able to tell you when it comes out!
+
+Hmm smart move

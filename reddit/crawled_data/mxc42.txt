@@ -1,0 +1,174 @@
+I've got a G5 Plus, I'm really happy with it. My only complaint is it doesn't look as nice as the X4 does, but at the time it was a lot cheaper. Now that the X4 keeps going on sale I would grab one of those if you see it for 250 again. The X4 also has Oreo already, although the G5S Plus should get that *soon*
+
+The Moto G6 isn't too far out either, it might be worth waiting a little longer for that. 
+Oh awk sorry. 
+https://github.com/FastLED/FastLED
+You could try adding a comma where you want more pause. (Although I haven't tested that yet)
+Nice timing. Apparently it's rolling out in Australia and New Zealand already, other countries shouldn't be far behind. 
+https://www.xda-developers.com/motorola-rolls-out-android-oreo-moto-z-z2-g5-g5s-more/
+This. That phone was so hard to move on from. I still miss the form factor. 
+Perfect, glad I could help. Good luck with your projects!
+You should be able to use your fingernail to flick up a plastic hinge where the cable connects, slide it back in and then close the little hinge again. 
+Which part came out? I'm having a hard time reading your picture sorry. 
+Has anyone found a good way to interface a google home mini with a Pi? I've found a lot of round a bout ways but wondered if anyone has a simpler solution. If I could run a bash script in response to an assistant command that would be awesome.
+Along the control pins?
+Alright I'll give it shot, thanks. Is there anything else that could be a factor? Researching it I've found people recommending diodes, capacitors, and few other things but I'm not sure which are applicable here. 
+Alright thanks, I'll give it a shot.
+I don't have another board ready, but each output works fine most of the time, it's just the reset sometimes. Even just plugging another cord into the powerstrip without doing anything at all to the Arduino can trigger a reset.
+
+And sorry, I forgot to reply to your earlier question. I'm running firmata on the Arduino to connect with it serially, and every time the Arduino resets it runs through an initial sequence, which is how I know it's resetting.
+By the relay board source ground do you mean the negative wire? And then the Arduino ground being the one completing the control pins circuit? [Like this?](https://i.imgur.com/9MvJUMK.jpg)
+
+Yes, they are transformer based. The problem is more prevalent with them but still sometimes happens without.
+
+Good to know, I'll get a better platform for that asap. Thanks.
+Thanks I'll give that a try when I get home, if that was the issue wouldn't I have the same behavior when the power strip isn't receiving power though?
+The power for the relay gates is supplied by a 5v  external supply, I'm not completely sure with the terminology I'm just starting to learn this stuff but all the wiring is shown in my picture, the control pins for the relay go straight from the relay board (which I believe is opto isolated) to the Arduino pins, is it those connections that I should have a diode on?
+I mean it's always possible I guess but I've checked that several times already. 
+Thanks for the reply! I've tried that already, but it's still not working. 
+I've tried external power for the Arduino as well, to no avail. Everything works fine when the controlled powerstrip isn't receiving AC power, so don't think it's an issue of whether the Arduino's power is enough for the relay.
+After browsing quite a bit it sounds like my problem has something to do with EMF or EMI generated when the relay switches, somehow feeding back into the Arduino but I don't understand that at all yet.
+Thanks
+Kinda hard to wipe an hdd if you don't have a computer to do it with. 
+omg I love this
+Ice Cream Sandwich
+
+Edit: I dun goofed
+Aren't those all based on cm anyways? 
+Hmm ok I'll try that. Thanks so much I'll let you know if it works. 
+Resurrection Remix right now, but based on cm12.1 yeah. If it's working for you I may switch to whatever you're on. 
+It'll show the path when I start navigating, but when I start moving it doesn't update my location. It's been a problem for me since cm12 came out and was recognized on the xda bug lists. Maybe there's a fix now? I'm on the latest build right now and have never had it work on any version. 
+It's based on cm12.1, just with more features. Doesn't work with cyandelta as far as I know but it does have its [own ota app](http://imgur.com/ndHmPy6).
+
+Edit: added screenshot
+Cm12 is actually really stable right now with the exception of turn by turn navigation, which is really annoying but is you never use maps it's great and very fluid. I'm on Resurrection Remix right now and love it. 
+Leave it to Ive for the skeuomorphics.
+3dank5me
+I've had good luck with 3go, 5 witch, 11 wiz, 8 wb, 2giant. I've been using 2 heal 1 rage 1 jump but some bases don't need a jump. 
+thank mr skeltal
+Rip. Might still be worth a try. 
+Same happened here, after seeing the same error on cm and stock I decided it was hardware and got a warranty replacement. 
+But at least nexus will always get the full operating system. While old iPhones get updates they don't always [get the full update] (http://m.pocketnow.com/2013/06/25/feature-fragmentation). Plus, who uses the stock rom on a nexus anyway?
+But I wanted a fun fact
+[Traps](http://imgur.com/QZ2uWv1)
+Yep, tired of his crap. I've been using his base for the last week and win about half of my defenses, which is still pretty good but not life changing, especially when you need a full cc and spend 100k rearming traps every time.  
+Then you die
+All that's going to do is keep lower levels from sniping, making it more likely to get full on attacked. Why would you want to make your base look trapped?
+Tried a factory reset, still nothing. Recovery also won't boot. Trying to do an sbf but can't find a link. Verizon 5.0. 
+I have an og g watch and outdoors is brighter than gwr. I'll take the tradeoff for no bright black I can't stand it on a phone let alone a watch. 
+In general OLED isn't as bright in sunlight as LCD. I don't actually own a gwr so I can't say for certain but have an moto x and there's definitely a difference in outdoor visibility.  
+Gwr has more battery to start with, I mainly just like the look of OLED since the black doesn't glow in the dark. Not as great outside though. 
+[Genymotion](https://www.genymotion.com/) is my personal favorite. 
+I think a few do. I'm pretty much just clash and lol rn. 
+That's the only one I have right now, we took a break from war so I don't have any other screenshots. I don't really know why I'm arguing this cause I don't really care if your accept it or not but whatever. 
+Honestly it's been pretty good on any base. There was a pretty condensed one a couple wars back with fully maxed defense that I 3 starred. It's been by far the most reliable 3, and even if you mess up the worst that can happen is a 2, unlike hogs and lavaloon that can turn into a 1 star pretty quickly. Plus, you don't have to draw cc. 
+http://imgur.com/a/sPPta
+[Been a pretty good 3 star strat for me](http://imgur.com/a/sPPta). Would post more but our last war was last week. I've 3 starred their one for the last 4 wars in a row. 
+[I beg to differ](http://imgur.com/a/sPPta)
+I find it the opposite. Gowiwi has been a very reliable 3 star for me while I struggle to consistently 3 with lavaloon. 
+Gowiwi has been consistently getting me 3 stars against any th9. I'm my clans top and have been able to 3 star the enemy 1 every time for the last 5 wars. I use 3 golems, 2 giants, 8 wb, 11 wiz, 5 witches, and a cc full of max wiz(lvl5 clan). 
+screw u m8
+I just got my iron checked after a crappy track season, went from a 4:30 1600 last year to barely being able to break 5 minutes this year, turns out my iron was low all season. Rip my senior year of track...
+Alright I'll look into that. Tbh I wasn't really expecting anyone to care enough to respond, thanks for going so in depth I'm feeling much better about the project now. 
+Alright thanks for the tips that'll help a lot. I was worried when we weren't getting any variation but that's a good idea. Thanks so much!
+Ok thanks. 
+Yes, hypothesis is that it will change by location. So best suggestion is just not force any test on it?
+Yeah it was an experiment for a high school class. We used cheap pH strips along 10 miles of river and didn't notice any change. 
+Dope
+Soooo... coming back anytime soon?
+Reds. You're still just filthy pressers. 
+danker than dank
+You sneaky doge
+Who's me?
+Yeah that's what I said. They just don't have a separate antenna, at least from what I have seen. 
+Fairly sure the ones that do have a chip don't have a Wi-Fi antenna either, they just use the Bluetooth one. 
+Yes, indeed. 
+I feel I have found a brother here, resisting the 42 bandwagon. 
+I think this would make full collector raiding so extreme that sc would make a move to stop it. Why would they do this in the first place?
+Just so you know this war was a disorganized mess because I left to go watch another clan war. If this war has gone normally, well, http://imgur.com/if9c61z
+Oh and by the way, your one had a nice attack too :)
+Lol yeah we know our one sucks we got him from global a few days ago. He's going to be kicked. 
+Love you too
+Lol. I'm guessing you're from tru? If so, you did it first. 
+doot doot, thank mr button. you have been visited by the button of the abyss. pain will be gone to you but only if you comment "thank mr button"
+
+thank mr button
+Yeah I did that before xposed for lollipop came out but I prefer gravity box for long press previous app and long press kill app. 
+Ah thanks for clearing that up. Also, my autocorrect has been doing that too lately. Some lollipop bug maybe?
+Hopefully it's not too much longer. Isn't it supposed to be sometime in the next few months?
+I'm on Resurrection right now, is it worth flashing stock CM for 5.1? 
+
+edit: Nvm, forgot I can't go without Gravity Box for pie. Has anyone tried the unofficial Xposed on 5.1?
+I feel the same way when global is full of "free co."
+When I would do something bad as a kid, I would get grounded from reading and have to go outside. Traumatizing.
+Sorry to dig up an old thread, but this just saved me a wipe. Thank you. 
+If I'm wrong then good. That's just what I've gathered from a few searches. 
+From what I can find 360 has it, g watch doesn't. 
+Meanwhile the lg g watch with no Wi-Fi chip. 
+Genymotion works very well too, and isn't as annoying as bluestacks. It also works on Mac. 
+Yes, yes it is. Praise Duarte. 
+Exactly. Further, even if the single core performance is better, apples chips only have 2 cores. The latest android phones have 4 cores along with a quad core graphics chip.
+Androids have very different specs than iOS devices.
+Nice try Satan
+I refuse to believe this. Have faith brother.
+What is this blasphemy? I shall not be tempted. 
+nogirlfriendmasterrace
+"Is that the iWatch?" - most strangers
+You don't need another device for another account, just another Google account. You can clear data on the app and simply sign into whatever Google account it's saved on. Also, Nexus 6 is pretty much the biggest phone you can easily get, and Galaxy in general is a terrible choice. 
+If you're not getting all the stars from th8s and 7s, enforce at least first attack must be a dragon raid. It's more expensive but is a sure way any th7 can 3 another th7 and most th8s can also be fairly easily 3 starred. 
+Seriously. Idk why people get so annoyed by this. 
+While I mostly agree with you, Moto X stock with Xposed is amazing. Active Display plus custom rom features has yet to be beat. Also, many people use xposed on a locked bootloader due to carrier/warranty restrictions, so custom roms aren't an option. 
+I just prefer links that lead straight to the file, and Drive has been much more reliable personally. 
+Direct link on drive for sprint 2013 4.4.4 https://docs.google.com/file/d/0B40Fxwu1IYvlcThDdTVCVWtRMUU/edit?usp=docslist_api
+You can come check out Frisky Fighters, we're a fairly new clan with constant war. 17-1, about to win another. We welcome anyone who will use both attacks in war. 
+Wow I'm an idiot. Sorry to waste your time sage. I just wasn't tilting it enough. 
+Tried the above, still nothing. I bought it new in box from someone, I'll see if I can get a warranty replacement. Thanks for the info. 
+I was on the latest for awhile and then flashed Gohma 2.3, neither work. 
+I don't use it while charging, just noticed it woke when I tilt it on the charger. It's turned on in the settings. 
+Don't get me wrong there are people that aren't happy. Most of the people like that typically go inactive, but I can't think of anyone in my ward that isn't happy and enjoyable to be around. I home teach (visit every month to talk and make sure everything is going alright, help with anything they need) two elderly widows, an ~85 year old and her daughter, ~60. They have major health problems, the daughter has a muscle condition that no one has been able to diagnose that essentially causes her muscles to lose energy and not be able to move, causing all sorts of problems including randomly not being able to breath. There are a bunch of other health problems along with this, and her mother has some of the same symptoms but milder. They have also had a pretty hard life relationship wise, and have lost contact with a sister over a failed marriage. They have barely enough money to pay rent on their small apartment. They are the nicest people I know. Every visit they teach me and my companion a new balloon animal and supply us with balloons to make for others. We'll often walk away with other spontaneous gifts and treats. They can barely walk up the stairs of their apartment complex yet they haven't ever missed giving a balloon animal to every kid in my neighborhood on their birthdays. Take that how you will, I believe most Mormons are in general happy people despite the circumstances they're in. 
+Lol. As a Mormon, I truly believe the religion makes us happy. We know that God and Jesus Christ know us personally, and that they love and care for each us. Knowing that, and that there's a plan for each of us, is what makes us happy. 
+Personally I always feel safer with hogs. If you disarm the double gb in that empty space hogs will destroy that base, it's so packed together with no room for other traps. 
+Having recently done the same, it really doesn't matter how you layout your base. Once you get above ~2300 it's almost all th10, and if they want your loot or trophies they will take them no matter what you do. I would put your th outside the base to at least try to preserve loot. Stay on clash as much as you can, watch tv while you next to snipes. If you're not sure you can star a base, don't, it's not worth risking losing an hour's work. Above 2400 I purely sniped, and while annoying, you can get there in a couple days, especially over the holidays. 
+I haven't felt any need to upgrade from first gen. I'm usually dying to get the latest and greatest but I'm honestly still very happy with this phone. 
+Don't be afraid of custom roms. Best thing you can do to a Samsung. 
+1st gen X for sure. It will at least get lollipop, and even if it doesn't get updates after that the development community is starting to take off. It's a much more premium phone than the G. 
+Messenger by Google. https://play.google.com/store/apps/details?id=com.google.android.apps.messaging
+Unlock bootloader- https://motorola-global-portal.custhelp.com/app/standalone/bootloader/unlock-your-device-a
+
+Twrp - http://techerrata.com/browse/twrp2/ghost
+
+Adb and fastboot - http://forum.xda-developers.com/showthread.php?t=2588979
+
+ROM - http://forum.xda-developers.com/moto-x/development/rom-unofficial-nightly-lollipop-5-0-t2960768
+
+Follow directions on the first link to unlock. Download the latest twrp img from the second link. Install fastboot and adb from third link onto your computer. Download and copy to the phone the ROM and gapps from the last link. Reboot to bootloader and in cmd with the phone plugged in "fastboot flash recovery (path to twrp img)". Then use the volume buttons to scroll to boot into recovery. Once twrp boots click wipe and then swipe to confirm. Then click install and choose the rom and then gapps. Once they complete reboot system and when it boots you'll have lollipop. 
+The cyanogen mod app won't give you the rom. You'll need to unlock your bootloader (voiding warranty) and flash a custom recovery like twrp. From that point you can flash cm. Really though there's not much point, you're losing the Motorola features and not gaining much since Motorola's ui is essentially the same as cyanogen mod. 
+Yes cm12 is lollipop. After unlocking bl you have to flash twrp and then the rom there are plenty of guides on XDA. 
+Yes all 2013 models will get lollipop. Since you have an XT1056 you can unlock the bootloader and run a custom rom like cm12. It's been running great on mine. 
+If other headphones work this probably isn't the problem but occasionally pocket lint can get in the bottom of the jack and make them stop working
+I would love to take a free case.
+Never really sure what people are talking about with burn in I've had mine for over a year with pretty heavy use and can't tell at all even on a pure white image. 
+Oh yeah I forgot about that. My bad. 
+If you can guess where the button is, you can get this cable and plug a USB mouse into it http://www.amazon.com/gp/aw/d/B00871Q5PI/ref=mp_s_a_1_1?qid=1416667136&sr=8-1&pi=AC_SY200_QL40
+Nexus. Nexus is Google's version of Apple's model. If you want updates faster get a nexus or unlock your bootloader. 
+For sure still a great buy. Running CM12 right now and have no lag whatsoever. 
+No it happens after flashing a factory image, so there are no 3rd party apps installed. 
+Seriously guys this is Android you don't have to wait for the ota. 
+Sorry didn't realize you were in a car.
+Yeah probably the best idea. Hopefully it comes soon. 
+Then you have the option to unlock the bootloader (different than carrier/sim unlocked) at the expense of your warranty. If you want to you can follow the steps here https://motorola-global-portal.custhelp.com/app/standalone/bootloader/unlock-your-device-a
+Not necessarily but if you don't have root you're probably not unlocked. What carrier?
+Motorola has officially announced that the 2013 will receive official lollipop, it's just a matter of time. I would expect we'll have within the next couple months. Not sure if you're trying to spark something with the apple comment but in response I'll say that while apple updates old devices they don't include all the new features of each new os.
+If you're unlocked with a custom recovery you can use this. As far as I know it's the only lollipop port right now. Good enough to use but some bugs including mobile data not working depending on what model you have. http://forum.xda-developers.com/moto-x/development/unofficial-cm-12-0-ghost-t2941657
+If you're rooted, the full version of bubble unpn can stream audio fairly well to a Chromecast or most dnla devices. 
+Had the same problem, not even a custom ROM fixed it. I'm assuming that means for sure hardware. Got it replaced through warranty. 
+If you think it's bad enough to replace, try to get an RMA. Based on some other threads it looks like you could get lucky and receive a 2014 replacement. 
+I tried it on a sprint model, loved it but couldn't get data to work which is obviously a deal breaker. Restored a back up with no problem. If a backup doesn't work, you can always sbf back to whatever stock version you were previously on and then restore. 
+Good point. They could've worked that out better. I'm guessing you're on a pure edition so you can always root it. 
+Picturing 12 and River trying to get along... Nope can't see it. 
+I don't remember where I read it but it essential comes down to carriers requiring the aosp messenger, and Google offers their version through the play store. You can basically lump messenger with the other carrier bloatware. 
+Always something better on paper, but not always real world. I still love my Moto X 2013 even though there are much better phones out there now. For me it works and it's still the best phone out there for it's size. A note on the battery, in mkbhd's review he mentions the battery isn't actually all that good on the Nexus 6 due to the QHD screen.
+If you're not too into modifying like xposed, custom roms and such, the only real noticeable difference personally is size. All the specs and everything else matter, but not enough that you'll notice anything huge. If you want a huge phone, go Nexus 6, if you want a normal sized, stick with Moto X. The only other factor for me is Active Display. I haven't fully seen how well Ambient works on the Nexus 6 but so far nothing compares to the ease of waking the Moto X with a simple tap on the corner or brush of a hand. 
+Is this where I can find out about the lollipop update?
+
+No, this is Patrick. 

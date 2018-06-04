@@ -1,0 +1,1347 @@
+How was that not forward and back?
+THAT IS COMPLETE FUCKING HORSESHIT!  Fuck the refs
+GET YOUNG OUT THERE. HE IS HOT GARBAGE RIGHT NOW.
+Why are we shooting 3 pointers like we are down 20?  Just get some damn points!
+ARE YOU FUCKING KIDDING ME? 
+He going WWF style and cutting himself with a razor? lol
+
+Curious what it is he hit; didn’t see since we gotta go straight to commercial...
+LeBron isn’t going to deep throat himself.
+fuck the cavs...that was such fucking bullshit
+I know he calls it out in the video but holy gallon of thermal grease @ 10:18!
+I really wish Vic would have just realized shit wasn’t dropping for him and stuck with driving or passing.  So many wasted opportunities...
+Good job on Fox Sports Indiana with a 2-2 CLE Leads” in the upper right.
+What the hell are they doing right now???
+Just keep getting Vic to the line. He can’t make em from the field but...and I cursed him.
+But my water isn’t thanks to Kinetico!
+/s
+Anyone see what the tech on LeBron was for?
+I found it odd that all of the passengers got in the front seat Seems like typically you get in the back for ride share/taxi.
+smart play boys!
+holy shit that shot came from the fuckin JW marriott!
+nice pump fake
+gotta love how the refs went from letting them play to full deep throating the cavs
+where is the god damned foul on that rape of a rebound???
+bull fucking shit
+wtf. THAT was a foul?  cmon...
+lol @ LeBron just chilling under the basket like a little bitch on the transition
+What the fuck was he even doing?
+By recording my screen with my phone?  Got it.
+It is possible to have more than one orchestrator in the world.
+Way to back up your statement with facts.
+He’s definitely right. If you’re looking for a simple to learn scheduler to keep your applications running at an expected state in a cluster, it’s great and relatively easy to master.  Just don’t try to do things outside of its capabilities and it’s solid. Even better for stability sake, don’t use the routing mesh and overlay networks. Publish ports on the host and route using one of the many registration and routing tools out there. That pattern is solid and has been working for many people in large scale for years.
+
+If you understand that k8s and Swarm mode have strengths and weaknesses, you’ll be ahead of most people. It’s not always a one or the other solution and nothing else can be right.
+Big if true!
+And I was here thinking that was some kind of scaffolding during construction...I am not a smart man.
+[Shat his pantaloons!](http://weknowmemes.com/wp-content/uploads/2011/11/ah-good-sir-i-do-believe-i-have-shat-my-pantaloons.jpg)
+This is probably the most efficient answer to keep the build process in a single command. Otherwise, you’re simulating the same process with running a container and taking the built artifacts and copying them into your image at build. Same result but multi-stage builds require no external tooling.
+I really appreciate the broadcast staying with more exciting battles right at the end instead of watching Newgarden cruising to the victory after taking the lead.
+...or a month. Honestly, the month between races felt like forever.
+It is surprising how many people lack the ability to comprehend these emails. Sometimes makes me wonder what other things they fail to comprehend on a daily basis.
+It’s treason, then!
+[DIPLOMATIC IMMUNITY!](https://m.imgur.com/r/highqualitygifs/PNj3vME)
+That’s interesting. Not sure where you got the stats but I was curious if those drivers that finished 2nd starting from the back were because of qualifying or mechanical issues causing them to start at the rear?
+Seriously. That would only mean more cars that have absolutely no chance of being competitive on race day.  It gets bad enough as it is down in the last couple of rows as it is.
+Hospital? For a wart?
+Must?  No.  Ideally, yes.  There are some circumstances that I feel like 1 process per container makes no sense because it is technically challenging (code refactor) or for performance reasons.
+
+But yes, in this case, I would separate the database and possibly run Apache and PHP together for small, individual sites, especially when isolation is important. In some instances, I keep PHP as a “centralized” service for multiple sites where the sites and PHP processing can be scaled individually based on load.
+"Don't mess this up or you'll end up like these guys!"
+That's not how this works.
+That is exactly who I was thinking of.  I never understood the love for Addai.
+O
+One can only hope that is the outcome...
+It’s going to turn out like Star Wars. Anakin was supposed to bring balance to the force...well he did, just not in how they expected. Same with Trump.  His claims of draining the swamp will happen but due to the fallout of his time as president.
+It also weighs more than the 9.2oz listed on the package yet is shorter than it looks to be in the package.
+Yeah, that's pretty much standard practice when you have to check a bag.  You can not use the paper boarding pass then.  I still just use my phone because of the awkwardness of the different scanners at different airports.  Many have the scanner where I would need to flip my wrist over and that can be a little awkward vs just putting my phone on or under the scanner, depending on orientation.
+You can play it online: https://classicreload.com/indianapolis-500-the-simulation.html
+The why is because the packages are verified using other methods. At a high level, repos are trusted using signing keys so if a package isn’t signed or the data is modified, it won’t be trusted.  That’s why if you add a random repo, you’ll get a warning about not having a matching signing key.
+Are they selling before noon on race day or something?  I thought they were selling noon-8 only on Sundays.
+Exactly! It was incredibly frustrating trying to understand his position because he really didn’t have one besides everything sucks.
+Yeah same here. Great thing is I have a button on my steering wheel of my Mini that activates Siri.   It is basically the only useful function to me because everything else she seems to just want to search the web if you want anything above basic shit.
+I guess construction season started to really take off in Jacksonville.
+Exactly. It’s not illegal; just against the rules of the Olympics.  Illegal means forbidden by law and last I checked, the IOC doesn’t write laws.
+[I knew it! I’m surrounded by assholes!](https://youtu.be/sen8Tn8CBA4)
+Savage lol
+`docker start $(docker ps -a —-filter name=x —-format ‘{{.Name}}’ | grep ^x)`
+
+Not sure if the filtering will be off or not; looks ok to me. grep is needed to only show containers beginning with x as others have indicated.  I am using format to return the container Name instead of the ID so I can do further filtering using grep.  Cleaner than using awk/sed.
+Yes the Docker EE trial is fully featured. It would be worth reading through the install docs, specifically the prerequisites sections of UCP and DTR and understand the architecture sections as well.
+This happened to the child of a lady I worked with. Her husband drove to work and forgot to drop off their son. He had fallen asleep on the drive and he didn’t look before leaving to go in to work. Unfortunately it was a very hot day and he died.  I can’t even imagine living with that guilt...
+Yeah, they have no clue what they’re talking about. That’s not how upgrades work.
+100% agree there - been there and that's exactly what it is like.  It's almost like a paid internship compared to a few years of experience if you are decent at what you do.  Huge difference.
+Ah well duh... of course!  Hopefully no garbage disposals in the bathtub this time.
+This is awesome but how are Jerry, Kramer, and Elaine there at the restaurant?  Who is the other person to make it even? :)
+When you think he is going onstop but he goes through anyway: “Hello there.”
+It’s going to depend on the position and skill level but those salaries are going to be st the high end for Indy.  My company is based in SF but we have people all across the US and Europe and we adjust our pay scale off of cost of living. We have 3 scales where places like SF, Chicago, NYC, and London are on one; Dallas, Indy, Raleigh are the mid and then a low end scale but I don’t think there are many places that fall into that.
+There is no way the pay is on the same level as those other cities.
+I hope McDaniels eats a fucking Tide pod.
+I mean as fun as it was listening to Collinsworth gargling Brady’s nuts all night...
+lol @ “I give up!”
+3rd and si-hiksssh
+Well if it works...
+Looking more like Manning “running” as the years add on.
+Isn’t that only when they have the ball?
+It is possible to enjoy beers one at a time. There is nothing to say I have to drink the whole case at once.
+So a single parent would need a baby sitter to get cold beer?  Gotcha.
+Good example.  No need for any volume driver besides `local` if it is a bind mount point type and the `source` would just be the full path to the mount point you would like to bind mount. Make sure the directory already exists as the mount option will not create a nonexistent source.
+Utilize labels on your nodes and then use placement constraints to schedule the containers on that node that need access to the disk.  If it is just mounted to a certain mount point on the host, utilize the mount option on your service create with the bind type.  It should be on the `docker service create` docs page with the syntax.
+“rkt is totally killing docker”
+-nobody
+Huh...well that makes sense.  You’d have to actually try to lay on your back and if you’re that messed up, there isn’t really any way you’d be able to.
+That 4D checkers from the brilliant mastermind!  Lord Trump must know something us plebs and almost all of congress doesn’t!  He has the most bigly good best people around him so he must be right!  Low energy congress doesn’t realize it was a waste of time!
+
+/s
+Do you have a passcode enabled?  I was thinking it disables the sync of keychain possibly if you don’t. I may be mistaken though so take that with a grain of salt.
+Docker also has mailing lists on google groups.  Not sure how much people use them outside of announcements though as I don’t sub to them.
+There is #docker on freenode or there is also a community Slack.
+The little X to close a tab when I am done with it.  The one real exception is if a mad googling session leads me to too many tabs, that window usually just gets closed for my own good.
+Yes, it says that in the article that they are indeed using compute modules.
+I would guess because they’re incorrect. The Internet is not the world wide web.  The WWW [was invented at CERN](https://home.cern/topics/birth-web) but the [Internet came from the ARPANET project](https://en.m.wikipedia.org/wiki/History_of_the_Internet).
+I tried the whole safety razor thing but quickly had it up. Not because I didn’t like it but I travel a ton for work and I can’t pack those in my carry on. My trips are short enough all the time that checking a bag is silly and it isn’t worth buying blades where I am to only never be able to take them back.  Stupid TSA rules...
+GOP would run a dog, obviously.
+Knew what it was as soon as the first frame loaded lol. I have to watch this multiple times whenever it is posted. Can’t help but have a goofy grin on my face too.
+Or you know a budget could have been passed with a simple majority at any point last year but whatever.  Way to be uninformed and spewing bullshit.
+Seriously. Have him take that cheap screen protector off and if he really wants one, pay a few bucks for one that doesn’t suck. After all, he spent a large chunk of change for that iPhone.
+It has nothing to do with a lack of commitment.  It's all about stability for the [Docker EE with Kubernetes release](https://blog.docker.com/2018/01/docker-ee-kubernetes/) which is now available in public beta.
+Apologizing because we forgot the party was on Sunday and we couldn’t buy and liquor or beer the day of. Also discussing the origins of the term Hoosier.
+I’d guess public intoxication.
+“Oh wow I accidentally sent you $200 random person!  Can you send that back to me?”
+
+As a disclaimer, I haven’t used Apple Pay so I don’t know how it works.
+Try Ewan! That’s a good trick!
+We know how that feels...
+Putting the “win” in Win94.  That was impressive and some nice work using the truck and rocks for some solid cover.
+If he built up a bit more muscle, I think he could pull off a convincing Wolverine.
+...supposed to be trained professionals.
+No, it relies on kernel changes and Hyper-V capabilities to function.
+Not to mention that you Windows Server 2016 to run Docker on Windows natively.
+Wow!
+Wow!
+Wow!
+Just wait for the nuclear winter olympics! NBC is gonna lose their minds with the extended nuclear winter coverage of the games!
+In that case, there may be orphaned data in the sparse file. This is a bit more common with older versions of docker due to things like race conditions.  It can also be relatively common from doing things like `docker rm -f` on a running container as that triggers a kill and remove immediately can trigger the race condition. You may need to clear the data files to get any space back.
+
+I’d also suggest setting up direct-lvm if you’re using this for anything besides a quick lab type setup. The default loop-lvm performs terribly.  Instructions are [here](https://docs.docker.com/engine/userguide/storagedriver/device-mapper-driver/#configure-direct-lvm-mode-for-production).
+Try a `docker ps -as` to show the size of containers on disk to see if you have one or more writing something to the copy on write file system. Otherwise check and see if you have a lot of old images with `docker images`.  Volumes will not use the data sparse file.
+Try a `docker system df` to see where it says the space is consumed.
+Throw the god damned ball... jesus.  He was 5 yard upfield at least.
+GRIT...just one more time
+Was Anthony think he was playing flag football there?
+“tag! gotchu bro!”
+*whispers* Clark! *whispers*
+Does the sweet CGI graphic of a shoulder count too?
+lol random commercial
+Every time they show Luck - drink!
+Every time they mention this is likely Chuck’s last game - drink!
+Any time they mention how many yards Gore needs - drink!
+I am definitely seeing the issue of having landed and the loot hasn’t yet spawned.  Seems like it takes around 5 seconds or so for things to appear. And no, it isn’t an issue with the speed of my drive; I have a Samsung 960 EVO NVMe SSD.
+No offense but I don’t want my next iPhone to cost $2500 because it was “made in America”.
+Yeah, I used to enjoy dropping in player heavy areas but since 1.0, that is problematic because you spend the first few minutes rubber banding everywhere...you know, the most important minutes when you're trying to quickly loot without dying.
+The docker daemon itself runs as root but the containers you run don’t have to (they do by default).  Running docker containers is running your process on a host using all of the isolation capabilities of the kernel but in an orchestrated way.  There won’t be anything specific with docker that relates to the encryption on disk; just make sure the persistent data location is on a secure/encrypted disk.
+“Sucked the least in the AFC South”
+What is the point of this thread?
+What a great time for a block!
+Yup, it's just plain predictable and typically made worse with poor execution.
+Seriously, that's just plain stupid.  Need more awareness.
+Fucking stupid play.  What the fucking shit was that.  Fire Pagano now.
+Maybe they just have a controller plugged in. I play a lot of Rocket League so I have my Xbox controller that I leave plugged in and it always shows the controller’s controls instead of keyboard with it plugged in.
+Lucky my wife and I can 100% agree on that we will never do the elf on the shelf crap. I don’t need homework to do just to try to keep my kid from being a little shit in December; that’s an all year thing.
+Dilly dilly!
+I made the mistake of putting Doyle in too... Could have really used a garbage time TD or something.
+Should have gone 4 verts!
+Just schedule the pizza party for the week after the end of the season then Chuck won’t have to foot the bill!
+Damn, gotta make that tackle and do it in bounds!
+Farley has gotta be careful talking shit. Looked like something they could have called taunting there.
+Seriously, glad they cleared that one up.  Not like he just needed a Snickers or something.
+Nice tackle there. Could have been ugly if he didn’t get that.
+<3 Frank
+Did they really just do it again?
+That’s crazy. It looked like a minor bump...
+Well our guy has to be aware of where the ball is though.
+I’ll put it this way...I don’t think he is napping 
+...and we are back. <insert random fact here> loljk we will brb.
+It’s interesting tech, cameras on long wires that reel in and out to move anywhere across the field. Gives one hell of a view on run plays to watch holes pop up and collapse.  That part I love.
+They paid a bunch of money for stupid cameras that are a bit gimmicky. It’s neat everyone once and a while but I prefer the classic view myself.
+Try without -i and then without -t and then both and see if any of those three fail to work.
+It might be possible that the command needs eithe an interactive shell or a tty attached for the process to run. Are there any headless arguments you might be able to pass?  How are you running the container to test it with as an entrypoint?
+I believe there have been some issues with the manifest lists where they are showing up incorrectly.  See https://github.com/moby/moby/issues/34875
+Hmm, almost sounds like Moore was actually the one who was going to be taking away the rights of the people of Alabama... oh wait, it's only taking away your rights if you disagree with someone else or they have a `(D)` next to their name.
+So you almost got the D.
+Yup, /var/lib/docker/volumes
+That’s brilliant! Thanks for the link!
+I was really surprised they didn’t try to plow it to be honest.
+That and a vehicle that can get through a foot plus of snow in the parking lot!
+Pretty much.  Like is there anything at all you can actually learn from watching the tape of a game like today?
+Exactly, mixed emotions on that one.
+Yeah that was such a bullshit call.
+Yeah but we are the Colts.
+The only thing I can think of would be because the field was already clear there but shit... 10 more yards would have been great.
+GOAT
+Excellent pocket awareness /s
+
+Get rid of the fucking ball moron.
+Might as well just throw it in the garbage. 
+[I don’t know much about computers...](https://youtube.com/watch?v=1eA3XCvrK90#t=0m25s)
+I am guessing lots of big trucks and big SUVs. I’d think everyone in Buffalo would be used to several feet of snow falling pretty regularly.
+I love snow games like this, especially when there is nothing lost for us on the outcome.  Otherwise these games are infuriating since you lose a bit of skill that separates the players.
+It has to be pure muscle memory for him to be able to place the ball so well.  I can’t even tell they’re on a football field let alone where the end zone is.
+What a turn of events!  Nice strip!
+He did lower his head quite obviously from one of the replay angles. I’m totally ok with the hit if he isn’t lowering his head.
+I’d say there is no way he sees the field for the rest of the game, he looked to be out for a few seconds there with the “floating arms” look.
+Love the Jackson break down.  Savage.
+Mother would be proud.
+I had always wondered if I was in their shoes if I would have wanted to be one of the first with all of the excitement and unknowns of being the first & such a short stay or one of the last, staying for a longer period and doing more science.
+I love that movie.  [GOD BLESS YOU! GOD BLESS AMERICA!](https://getyarn.io/yarn-clip/5d227e79-348c-4658-8601-f57571cc8002)
+Exactly. Parking like this just shows that this person doesn’t think or care about others, especially those who also need handicapped spaces with a ramp.  Pretty typical “I got mine” sort of mentality.
+I thought it was an answer on Jeopardy.
+“Alright Peyton, smile...on second thought, don’t.”
+I do the same; works well for me; pretty similar concept to using dotfiles. I started doing it before realizing git would work just as well if not better because of git history but it serves its purpose.
+FADE EM!
+wtf is this rookie shit.  no game tread? come on.
+Seriously. Considering how long try are around for pictures and what not; that has to get pretty nasty, especially on those really hot 500s.
+Yeah, my wife has a couple items that have been out for delivery since Friday.  I’m guessing they might show up sometime today.
+That doesn’t matter. Docker just runs the process as that UID and GID. That only real reason to care is if you don’t want the user/group that is 1000:1000 on the host to have access to those files.  There might even be an option to override the user and group that the container runs as.
+
+In the container, 1000 might be user foo. On the host, 1000 might be bar. Docker runs the container so that the process runs as 1000; the human friendly name doesn’t really matter; it’s just a name mapping.
+The process in the container wants the data to be owned by UID 1000. If you mount the CIFS share with UID 1000 it ought to work.
+
+Since permissions don’t work the same when you’re using CIFS, the data gets mounted with a specific UID and GID of a user and those apparently aren’t 1000. From your previous post, it appears to be owned by docker:docker.
+I am not sure but Fox had Colts vs Titans today. Must be something in the contracts.
+How is it failing?  Have you checked the container logs?  That’s going to be the most important thing because if it is failing, it would be the app itself that would fail as Docker should have no issue with any mounted file system from the host as it is just bind mounted into the container.
+Exactly what I was hoping for!  Thanks!
+This is awesome and is definitely desktop worthy as an arm chair space geek.  Did you make this /u/obviouslyducky or just find it?  Just curious as I was wondering if there was a higher resolution available beside 1920x1080.
+Gotta get some fucking touchdowns instead of field goals from the red zone.  Still the same fucking pathetic team as we have seen the rest of the season who can’t close out a game.
+Seriously. This video makes me miss watching Luck.
+That looks like something that would happen to me except I would have died.
+I would strongly suggest you create a separate profile for Work so your personal stuff isn’t available on your work machine.
+:(
+Audioslave - Audioslave. That has to be one of my all time favorites.  I love hearing the song [Cochise](https://youtu.be/KDMvN45sjo4) because it reminds me how awesome the whole album is.
+NISSAN VERSA!
+What about the Droid attack on the Wookies?
+I recognize the first. Stan Fox from the Indy 500.  That was a nasty one.
+THE LACES WERE IN! THEY WERE IN!
+Oh jesus christ.  That’s the kind of shit people get fired for.
+Yeah I suppose if you count all of the preseason activities it would be more “mid-season” if season means the football activities for the 2017-18 year
+I've come close a few times but I am just not very good when the circle gets smaller.  I'm fairly stealthy when the map and tend to pick people off by looting early then watching people come in to areas that are known to have decent loot and pick them off which gets me top 10s fairly regularly but it makes for frustrating ends.  I am not great at positioning myself for the last few people and end up in bad spots.
+My friend bought the 4 GB for his first iPhone. I had trouble finding 8 GB in stock for a while around me. It didn’t really matter at launch since you couldn’t download apps but it’s funny how quickly that storage disappears.
+This is in reference to a Marta bus that drove in front of a news crew filming the Georgia Dome implosion. Th bus pulled up and stayed blocking the video for the duration of the whole thing.
+Docker EE basic is only the certified Docker EE engine and doesn’t include UCP and DTR. You can see a feature comparison st https://docker.com/pricing
+
+Technically you can just continue to deploy using the EE basic engine just the same as CE; just depends on if you need a registry and GUI for Swarm with security features and whatnot.
+I was thinking that is the Delores was in the goal during the lightning explosion, it should immediate demolish the DeLorean just like Doc getting hit by lightning in BTTF 2.
+I think we should be flattered. I’d love for us to be a sucky version of the Packers!  We are at the far end of the suck spectrum at the moment though.  Really shows how much a team is really built around a QB vs being able to win with a QB just being a game manager.
+Maybe it shows up when you google search for an image that has whatever is in your image. I have a teamspeak server image that gets tons of pulls for some reason.
+Now that would be infuriating. I understand that that’s their thing to update people on sports news but ouch.
+[He is Vigo!](https://imgur.com/OwuLYj2)
+Well like her or not, she has had a history of being competitive in both races and she did finish 3rd in the 500 after all. Somehow she has seemed to be able to turn a lot of laps and finishing the race is certainly easier said than done.  I would rather have her in a ride than yet another Buddy Lazier who is just filling the field, that’s for damn sure.
+Well that’s great to hear!  I’ll take anything over the current poor multitasking. Reminds me of when Apple first introduced multitasking as is today.
+Seriously. I can switch from one app to another, barely use the app and when I switch back to my original app, it’s reloading. I can only assuming that’s from being closed by memory management.
+You can do exactly that. Export the image to a tar, then import that tar as a new image. The new image will be one layer.  Just don’t confuse that with save and load which saves and loads the exact layers.
+
+Multi-stage builds help keep the image lean natively and out of the box so you can install whatever build tools you need to build your app and then pull out the artifacts to a leaner image that just has your runtime dependencies.
+Well if that is what it takes, hold my beer and put me in a car!
+Also [JPM](https://usatodaysports.files.wordpress.com/2017/03/montoya.jpg?w=768&h=512)
+AJ Foyt was [mighty husky](https://youtu.be/hg7rzVPEfkk) at the end especially when you compare him to most drivers today.
+I may be odd man out in this thread but I use Chrome out of habit more than anything. I tried it for a few days when I got my first Mac like 4 years ago but I was also coming from Linux and Windows where Chrome was the browser of choice for me. I also ran Firefox for years before that but I didn’t like the UI redesign and once I no longer needed the FoxyProxy extension, I switched to Chrome.
+Nope, they would never do that.
+Great first half...you dumb cunts
+Should have just let them score. We would have at least been given a chance.
+CLASSIC FUCKING COLTS!  Way to fall apart and break our hearts.
+lol @ that face on the PFM statue...
+Zero o line blocking. Zero.
+He has no time.  What do you expect?  Ben could take a fucking siesta behind their line.
+Jesus christ... Brissett looks like he is a lot of pain.
+QUIT SUCKING SO MUCH ASS O LINE!!
+God fucking damn it
+I feel bad for our RBs when they’re getting hit immediately after the handoff.
+Did he just say brisket?
+Trust the process!
+Amen!
+IT’S THIIIRRRRRD DOWN!
+No joke! That was some Peyton “[laser rocket arm](https://youtube.com/watch?v=2G0loI0Jn5M#t=0m15s)” Manning type shit there.  
+GOAT
+Go figure the Colts are play well in a game I think most people expected us to get smoked in. I know it’s not the 2nd half yet but this looks promising if we can keep their offense on their heels.
+It slmost looked like it was out of his reach slightly but man am I relieved he caught up to it. What a great play!
+It slmost looked like it was out of his reach slightly but man am I relieved he caught up to it. What a great play!
+Should have just ran straight up the field instead of across. Could have easily been 5 yards further.
+Does the app need specific kernel access? Might be worth looking at privileges to see what might be needed. Big hammer is to run with `--privileged` to see if that works. If so, the app is trying to use a privilege that docker removes by default.
+I am not sure where around Indy you’re looking for but Jersey Mike’s has options for any sandwich being a wrap and they’re pretty good.
+Thanks for providing an answer, specific to one event or not. As someone who isn’t affiliated with any specific political party, although I admit I am now more of a democrat than republican, I am looking for examples of what the results of a platform are; like what the promises translate to.  Sure there are many variables but I want me vote to go towards people who get shit done in their whole body of work.
+Please inform me of what Obama’s massive failures were.  I am genuinely curious.
+The call probably didn’t bounce that close to the net very often. Might be a different story if it was toward the baseline.
+Yes, the extension matters.  The file name does not.
+Awesome article. Love the level of detail.
+Ah yeah, whoops. I need to learn to read.
+I mean, I can't blame them.  I barely want to watch the Colts play this year.
+/r/nocontext
+I’m also impressed with how little ground you lost despite sliding half way around the track.
+TIL that gluing the feet back on will cause your caps lock to get stuck on.
+Holy shit that is such a terrible hack of a workaround.
+This is the comment I was looking for. ShellCheck is awesome and it makes my scripts work more reliably and I’ve learned a ton using it.
+Yeah, why would anyone pay by check when there is no fee associated with paying via debit card?  I am genuinely curious if there is ever a benefit of paying by physical check and mailing it in.
+Little of column A, little of column B. Trump is a bit over 6 foot , like 6’2” or so which isn’t exactly short but Sato is quite short.
+I had this wheel previously and had it working with Windows 10.  It doesn’t require any software. The only way to disable and enable FFB outside of software is the force button on the wheel.
+I do remember there is a build limit, otherwise you could do stuff like mine for crypto coins using Docker Hub.  I don’t remember what it is right offhand though. Was thinking it was in the order of an hour or two.
+All I could think of was https://giphy.com/gifs/JW9r0SmMeX0TC/html5
+Oh man...I had completely forgotten about those!  I had one of those in a PCMCIA card.
+Gotta take it to the next level with another contract extension!
+Then go apply to be a police officer with your infinite wisdom. It’s not a job I’d ever sign up for willingly.
+And go figure, the Colts make no moves.
+He’s looking smarter as each week goes by.
+rest in peace in peace.
+I dunno, he seems like he is learning in one area while declining in others (like holding on to the ball when he should just get rid of it).
+Bring on the fire everybody thread.  I really do love this team but god damn it.  They're so easy to hate right now because of how stupid they are.
+BREAKING NEWS - THE COLTS SUCK!
+What a stupid play call.
+Doyle is gonna get it down the field if it kills him.  Brissett just needs to keep throwing confidently and not overthink it.
+HOLD ON TO THE BALL AIKEN!  YOU FUCK!
+Whoo! We took a knee!  Easy 1/4 of the field!  Well done!
+...so that's how this is going to go downhill.  I was starting to wonder when the stupid shit would happen.  I should have known better to think that we might actually be able to put them 2 scores down... lol
+Colts: making that cluster fuck look like "a designed play"
+Why in the fuck do we continue to take the ball out of the endzone when we can't get close to the god damned 25?!?!?!? Christ! We obviously don't need the extra yards to have to make it to the end zone!
+It’s incredible how much momentum we give up with these drops.  We make some of these catches and it would feel like a much different game.
+He definitely didn’t need to drive him into the ground like that. Thanks for the free yards! Just hope Brissett isn’t gonna be feeling that for the rest of the game.
+Catch. the. damn. ball.
+Are you kidding defense?  What the fuck was that???
+Huh, so this is what it feels like...
+I think they were on but they just decided to spare the rest of the world.  You could always turn on a vacuum and get the same experience because it’s been a suck fest by both teams so far!
+
+Just kidding, I just checked the HANK FM app and they’re streaming there.
+Whew. Turned into a decent return!  Was a bit sketchy to start with!
+At least one person showed up today!  Thanks Henry Anderson!
+Clip clop
+[**clap clap clap clap clap clap**](https://media.giphy.com/media/l2YWvw0CUOGfoOVHy/giphy.gif)
+Well obviously gmae wasn’t working. Ran out of grit and the forest was done already chopped down.
+This seems oddly familiar but at the same time not. Gonna need McAfee to break down Sanchez’s weak hit on that one lol
+Bring on the epic play calling!
+THAT IS FUCKING HORSE SHIT!  Where was the ball moving?  His knees were down!!!! Fucking blind cunts.
+Bullock is hard core rockin’ the dad bod.  He could give Janikowski a run for his money in that category. Can’t speak for his kicking but one thing he looks like he hasn’t missed recently is a meal.
+A Chuck coached team not know the rules for football?  Say it ain’t so.
+I loved the juke back and forth move while not forcing him to go towards our other defender.  Classic!
+It’s like we are saying to ourselves “how can we make this unproductive drive worse?”
+That’s what I was thinking. Looked like he was definitely favoring one leg there.
+Jesus christ... a blocked punt 
+No doubt. He must hate the socks.
+Did you let them know right after?  They have insurance for that and there is a reason they have cameras before you go in as they can verify the damage wasn’t there before you went in. Of course that would be assuming you noticed while you were still there.
+There are also bricks scattered all over the grounds in random places, like in a creek near the golf course if I remember correctly. This past year someone scoured the creek and found a couple bricks in pretty great condition.  Obviously not in the same quantity and condition as those in storage but still.
+Correct. You can say that about any registry though as they are all based on the v2 registry.
+http://i.imgur.com/1cZT0TA.gif
+Docker Trusted Registry is also worth mentioning since Docker wrote it.  https://docs.docker.com/datacenter/dtr/2.3/guides/
+I don’t get it. It’s like we can’t afford reflectors or at the very least reflective paint.  One thing I found very useful in another state was that they pained the road black behind the lines with a bit of an overlap and the lines stood out like crazy. I love a good road with reflective lines. All the time when it is dark, people are missing the one shift at 465 and 37 S on the south side just past the exit ramp.
+There were also tons of plays they highlighted during the game where there wasn’t a single WR open. Can’t make plays when all you’re going to do is throw and INT.  Plenty of blame to go around. The team sucked in all aspects except for maybe punting. I bet Sanchez was in the tub next to Brissett soaking a bruised foot due to so many punts.
+A `uname -a` is only going to tell you about the kernel of the Docker engine your container is running on.  That’s the shared kernel from the host OS.  A Docker container has no kernel of its own in use.
+Chuck lead teams can not play a full 60 minutes. Leads, no matter what size, so not matter. It doesn’t matter how shitty or great an opponent is. We had the ability to play down to the worst teams in the league at our high. At our worst, we struggle to beat the worst teams in the league. Our two wins could easily be two more losses.  It’s mind blowing that Chuck is still here because he has been getting progressively worse every year.
+I will be happy if Chuck is gone. That means no matter what happens, he is gone. No week 17 bullshittery where Irsay has a change of heart because of some wild gunslinging to beat some “not making the playoffs” team.
+Now that takes true grit.
+Fuck this team.
+He’s just tired from choppin’ all that wood!
+That tackle was fucking hilarious. Over pursue much?
+It’s definitely a sign.
+But no sprinkles. Sprinkles are for winners.
+lol colts. Can we just forfeit? 
+Three **and** out.
+Thanks for the no call refs. There was no reaso for the tuck and roll on top of Brissett. Pretty sure e could have easily not fallen on him.
+Good job you stupid fuck
+I don’t know, looked like it went right over the pylon to me.
+Challenge that god damn it Chuck! That was a fumble out of the end zone!!!
+Well put. I didn’t realize that was her purpose until you said it. Definitely could have done more to make it more obvious instead of being a bit of an afterthought.  Maybe Alexa needed more development to feel more impactful or something.
+Wow, I’d be curious to see how well those glass doors would have handled the direct wind slamming into them.  I’m guessing it would have been guaranteed failure. Still very surprised they held up as it was!
+Seemed like in the 90s when I remember going to Pacers games, it was common to see scores in the 120s or so. I think they even had a promotion with a good place about a Pacers win and keeping the opponent under 100 to get a free or BOGO sandwich.  I’m guessing it’s play style and rules changes about defense that make a difference in the scores over the years.
+You shut your whore mouth!  Don’t give Irsay any ideas!
+Wow...that’s completely unacceptable.
+VimConf 2017...in 2018?
+I get what you’re saying but it would be silly to advertise for a conference that happened last April.
+Oracle already has certified containers to run on Docker EE. It was announced this year at DockerCon US.
+According to this comment, the family approved the photos being taken: http://reddit.com/r/pics/comments/776yje/the_wife_and_daughter_of_a_real_american_who_knew/dojm0i4
+Well that simply isn’t true that money isn’t being made on Docker EE and Swarm mode.  Their reason for supporting k8s is similar to why Microsoft supports Linux on Azure - they want any workload, no matter what it is. Docker supporting k8s opens the door to those who didn’t want to run Swarm.  Suddenly it opens the door to a larger potential customer base.
+I don’t think that Swarm mode is that bad.  I love the simplicity and ease of use but really someone dropped the ball by stopping new feature development. It didn’t even have feature parity with `docker run`.
+Just curious, why?  Do you run k8s today?  What distribution? Or are you running vanilla k8s?
+*Can* but it won’t be the recommended deployment.
+It’s things like this that are big difference between the experience of a NFL vs college football game. That just looks like tons of fun.
+It has been a while since I have done it but try using the GID number instead of the name. I believe that should work.
+Fuck this coach. Fuck this team. Such a fucking waste of space.  LEARN TO STOP FUCKING SUCKING CHUCK!!!  Save some face and quit. What a dumpster fire.
+Does Bray know we automatically get it at the 25 if he doesn’t run it out??
+Why does he run that shit out?!?!?  TAKE A KNEE FOR CHRIST SAKE!
+For starters, if you do utilize overlay networks, they’re not encrypted by default. Yes you can enable encryption but I wouldn’t want to take that chance. Docker doesn’t do anything regarding TLS between containers; it does do TLS encryption out of the box between nodes for cluster communication though which is what I expect you were referring to.
+
+When it comes to the security of your network, I don’t think that being overly secure is a bad thing. I wouldn’t want my data in clear across the internet. In addition, if you simply use the public IPs for communication, that means that all nodes will utilize the public IPs for any and all communication. While that may not sound bad, in most environments, there is actually network overhead due to additional routing.  You have to do this because of the way Swarm mode uses gossip.  Each node must be able to communicate to each other and that means a shit load of firewall rules.  It can quickly get out of hand and makes it difficult to troubleshoot.
+I would use VPNs between the data centers.
+Sounds like you'd want to look at the following due to their support of push: iCloud, Hotmail, Outlook, AOL, Yahoo and any Exchange Server-based mail provider
+Are you talking about hosting for your own domain or a personal email?  For hosted with your own domain, Office365 is what I would say is on par with the G Suite if you need more than free. It’s $4/mo.
+
+If personal, why are you looking to move away from Gmail?  Without knowing that, i might be hard to figure out what would be a good alternative.
+Just install Docker from the official Docker repos.  The Debian docker.io package is ancient and should not be used.
+With Chuck still around as head coach...
+MOTHERFUCKIN’ BOOTLEG FIREWORKS!
+Actually I am pretty sure my wife didn’t have her engagement ring on during the ceremony, I believe it was on her other hand so not really strange at all.
+Definitely. But this just showed that it was not coached well. If they saw a defender that close, they should have practiced aborting the trick play and just gone with a standard return. Yes they might have but it has to fall back on coaching as that’s what makes them a head coach.
+Or the special teams bullshit that could have easily gone the other way and likely would have cost us the game in the end.  Lean the play football before you get. all fancy Chuck!
+I figured he had gloves on for a reason. “I better not drop this...”
+True, he wasn’t playing defense.  More like disappointment from Vontae.
+lol jk
+Now this is what I was looking for.  How about them apples?
+No but people looking in the Indianapolis suburbs will often look further out of the downtown area. Compared to many other cities, Carmel and Zionsville and quite close to downtown.
+Is hard to say specifically as there are some bad areas spread all over. I grew up on the east side so that is where most of my knowledge comes from and pretty much everything from just outside downtown out to nearly Hancock county is pretty meh.  Yes, there are nice pockets of older homes and some newer that are fine but in general, I’d stay away from Post Rd from Washington (US 40) on up. There are always people getting shot in that area on the news, lots of run down businesses.
+Welcome to Indianapolis. Yes, housing is that affordable.  It tends to get more expensive on the north side like in Carmel, Zionsville and in random pockets around the city but is very affordable in general.
+Not if you want iOS on a phone that has released within the past two years.
+Look for it attached to the headphones.  It’s there.
+Something tells me that isn’t going to make it any better either.
+That was going to be my other guess.
+
+http://www.speedsport-magazine.com/media/images/meldeliste/zoom1000/panther-racing-dallara-ir0-oldsmobile-goodyear-34891.jpg
+
+Looking at more pics, the more I believe you are correct.  The older Lights car looks similar but that’s not really too surprising.
+Here is an album of three cars that were at IND in May of this year, including the car in your post which was still there as of Thursday evening.  You might be able to read the text from the sign in my picture if you zoom in.
+
+https://imgur.com/gallery/vWNy3
+
+The first is the DW12 they use for promo purposes which has the fuel buckeye on the wrong side for an oval. The third, I am not 100% positive on, but I believe that’s an Indy Lights car.
+[We invited the strippers, JFK, and Stalin.](http://assets.nydailynews.com/polopoly_fs/1.2344500.1441127815!/img/httpImage/image.jpg_gen/derivatives/article_750/stalin2n-3-web.jpg)
+Neither can he.
+That’s not what any of this means. That may be what it means to you but thankfully everyone has rights.
+If someone at the office isn’t able to tell me what providers they work with, I am walking out the door as that is basic shit to not know.  Labs are very standard so I would fully expect the office to send me somewhere to get my blood drawn that, you know, has at least the same providers.
+Why? Make sure you have a backup and you can roll back. If you’re not backing up, why not?  Apple makes backup and restore to easiest process of any OS I’ve ever used.
+https://youtu.be/MIboLtRtx9E
+No, that’s fucking stupid.  The doctor’s office knows everything about your insurance; that is why they look it up and ask for your card. I can maybe understand for a referral to a specialist to check but for something simple like labs, why would they send patients somewhere that doesn’t take the same insurance??  The level of incompetence is outstanding here.
+Yup. Have a one and a half year old who is perfectly fine sometimes but occasionally can only make it until about when the main course comes out at a restaurant before melting down. To me, it is embarrassing as hell to have that kid so I’ve often taken him outside for walks while everyone else eats. It’s just the right thing to do to not be annoying to everyone else.
+Exactly. I use macvlan exactly for this reason. I’m actually running multiple docker engines on one docker host and assigning IPs using macvlan so they basically act like individual machines.
+And that would be the one time they would come early and when you’re gone.
+Had an iPhone since iPhone 2G (upgraded every other year) and I’ve always restored from my iTunes backup so I have the same data since the beginning I suppose. No issues here.
+I honestly never knew that was a thing. How did it work? Single press?  Or do you mean silencing the ring tone when someone is calling?
+I was really thinking about getting 256 GB this time but then I realized that I mostly have two categories of things: apps and pictures/videos.  For now, I went with a 50 GB iCloud storage plan which should last me for a while as I have about 17 GB of pictures/videos and that only costs me 99 cents a month.
+
+Doing that math, I can have that iCloud storage for much longer than the additional cost of the jump to 256 GB.  The price difference of $150 means that I could pay for basically 150 months of 50 GB of iCloud storage.  If i needed to bump up to the 200 GB plan for $2.99/mo, that would pay for 50 months so if I needed the 200 GB plan and I only keep my phone for 2 years (24 months), it still costs less to pay for iCloud storage which is automatic in syncing my photos and just keeping thumbnails if you are running low on space.
+I'll be honest, I put my case on like right away but I don't see much in the way of fingerprints on the front of my silver iPhone w/white front if I try to make finger prints.
+That is super cringe worthy.  Reminds me of the shit you see in /r/LookImAFirefighter
+Should have sent his ass to the Patriots.
+Yeah, it just hurts because we fuckin blew it.
+wtf moore?!?? fucking idiot 
+That’s the only thing I can think of. The half assed replay didn’t show shit.
+Most restaurants.
+I wonder if it could have been related to this: Meteor last night from the Outback
+http://reddit.com/r/space/comments/70n6s6/meteor_last_night_from_the_outback/http://reddit.com/r/space/comments/70n6s6/meteor_last_night_from_the_outback/
+
+I honestly have no idea if the reentering rocket could have traveled that far through the atmosphere or if the timing was even close
+If you’re looking from your web browser, it might be holding the session open.  Try a hard refresh or test with something like curl to see if the behavior changes.
+Yeah, I force closed the app and launched right at 3:01
+Which in all fairness would be on par for the release.  I was trying to decide if I should keep my 6s because of a lack of new features then I remembered how every `s` version just seems to be polishing of the previous version and figured I'd go ahead and upgrade just for the sake of having a phone that isn't 2 years old if nothing else.
+Same here - went with the sim-free unlocked.  I noticed that for the X there didn't seem to be an unlock sim-free option like the 8 did.
+Yeah, it was dead simple.  I actually ordered just using my iPad with Apple Pay and of course that just works :D  Was great - just worked fine at 3:01 Eastern.  The Apple Store app loaded right away at 3:01 even though the website said it was still under maintenance.
+
+I also ordered a new Apple Watch this morning - also with an expected delivery of the 22nd.
+Courage.
+If I remember correctly, it was 12:01 am Pacific which is 3 hours behind Eastern so pretty much 3 am :)
+Mine seems about the same on GM as the latest 10.3.3.  6s here
+Yup, arm band was the way to go for me.
+Exactly why I am not getting the X
+Pilots could be sent messages, similar to text messages.  Many received notice of what happened from that, telling them to not open the cockpit doors for any reason.
+Hey, we have the same record as the Patriots! 2017-2018 season participants banner incoming!
+He just wants to get in on the suckfest!
+Never tell me the odds!
+The first car shouldn't have gone. The driver of dash cam car didn't go because you're not supposed to block the intersection.  The stupid cunt driving the lead car likely figured he was such a special snowflake that the driver was leaving it open for him.  Such entitled fucking morons.
+The scale only goes to cat 5 which is complete destruction.  The scale is meant to indicate the scale of destruction, not the actual wind speeds, amount of rain, etc.  https://en.wikipedia.org/wiki/Saffir%E2%80%93Simpson_scale
+You aren't the only one.  I don't mind it being in the developer tools but they could have included a direct link to open the dev tools and display the cert info after clicking like it used to work.
+I'm not even mad.  That looks life changing.
+You forgot the part about the dove returning with an olive branch.
+Yeah, distant objects really make the lower resolution stick out pretty badly.  The immersion is impressive though, no doubt about that.  I just got an Oculus Rift and have only done a few races with it so far. I still wish the FOV was greater so I could use my peripheral vision fully.  I'm still struggling with making sure I'm not getting too close to the walls vs leaving speed out there by being too conservative.
+TIL...
+I think the word you were looking for is pilot.
+I thought I saw it this morning.
+Swarm relies on quorum.  Quorum is achieved with odd numbers of managers so 1, 3, 5, 7 are typical number of manager nodes.  The more nodes, the more failures you can tolerate.  More managers does not equal more capacity - actually the opposite.  It means more replication traffic.
+
+For tolerance, 1 get you 0 failures, 3 gets you 1, 5 gets you 2, 7 gets you 3.  The key is that you need >50% of the managers to be able to vote to determine who the leader should be.
+You can't create a highly available Swarm with two nodes either.
+Have you checked the logs to see what is going on? That ought to telly out if there is an issue.
+I filed a support ticket two days ago but did get a response today. They said it should be resolved now but I haven't tried to race so it is hard to say.
+...except Southwest has the cattle herd seating where you sit wherever. Replace with United or American and it's believable.  With LGA being an American hub, that'd make sense.
+It's Ballards all the way down!
+I don't. Apparently I am not missing anything by not using it; I don't resize partitions and that seems to be a big draw.
+Exactly. This in no way comes in contact with the ice cream.  There is a motor that makes the [air pump](https://is.alicdn.com/img/pb/906/965/104/1279239847832_us-myalibaba-web5_921.jpg) function and those o-rings that seal the inside of the unit. Some mix will make its way past the o-rings (which are lubricated with food grade lubricant) and that's where the catch tray comes in. Much better than having it collect at the bottom of the machine forever!
+Yeah, that's actually an internal catch tray.  It slides into the side of the machine; most have a couple of these.  It's a mix of lubricant/ice cream mix.  This is actually fairly normal to look like that.  We had a machine that was meant to be broken down weekly and if you didn't clean the trays mid-week, they'd look something like that.  Probably just depends on how much the machine leaked and how old the gaskets and o-rings were.
+I have weekly sales team meetings for work and I get crap for being so quiet. I just say that I'll speak up when I have something to say that will add real value to a conversation. It does work though because when I do speak, people listen.
+Maybe not so much of a microscope but more of that he is live tweeting what seems like every thought that is entering his brain.
+ladder? latter 
+I'm surprised they only give 24 hours notice; hadn't really paid attention to maintenance windows before so I just never noticed.  Thanks for the suggestion; I don't spend any time on the forums so I didn't even know they posted them there.
+Ah I see that now.  I haven't been around very long but I thought they took steps to prevent people from joining events that would be impacted by the maintenance.  Is that normally the case or do you just get kicked from the event?
+Well, apparently it was scheduled: https://twitter.com/iRacing/status/890562336586641409
+
+Didn't see anything in the sidebar ¯\\_(ツ)_/¯
+Yeah, that's not first class.  Seats are too close.  In first class on any domestic airline I've seen, you're going to have a full arm rest for both people, not just the little fold up arm rest that you and the person next to you play elbow wars over.
+Dumpsters go for $1 mil in CA
+Check out https://download.docker.com Its browsable and there should be tarballs of static binaries for the different platforms.
+Pretty much.
+There aren't enough races there and the track is absolutely huge so it'd be a lot of lighting needing to be added besides to just light the track itself. You'd have to light under the grandstands/public areas too
+Well there aren't many people there, I think last year was only like 40k or something estimated but it makes it look even worse when the stands seat 235k.
+Same here. Just not interested enough.
+[Yup](https://www.google.com/amp/amp.travelandleisure.com/airlines-airports/no-drivers-license-tsa-rule%3fsource=dam)
+Hard to predict? How about using flight schedules and historical metrics?  Doesn't sound that hard to get pretty darn close.
+You lost me at Oregon.
+but Docker *does* provide isolation. If you're finding it doesn't, it's a kernel bug as Docker is utilizing isolation capabilities built into the kernel.  In reality, Docker is orchestrating those isolation capabilities and if Docker doesn't isolate, it is because of how containers are being used, not the underlying technology used for isolation.
+Speak for yourself
+Have you seen if any of the existing community plugins will meet your requirements? https://docs.docker.com/engine/extend/legacy_plugins/#volume-plugins
+Holy field of view Batman!
+That depends on what your docker build command looks like.  If you perform a `docker build -f app/Dockerfile .` from the parent directory where the `.dockerignore` file is then it would include the `.dockerignore` but if you are in either `app` or `server` and run `docker build .`, it wouldn't be included as `.dockerignore` isn't in the build context.
+No.
+I validate using DNS and I like it so much better than http because I have all sorts of internally hosted stuff that can't be available to the internet. I use the acme.sh client and a custom written route 53 plugin to create the records so I know exactly what it is doing.  Combine that with AWS keys with a limited scope of access and there is a fairly limited attack surface.
+Check out `docker system df` to see where space is being consumed.
+Don't forget Sum Ting Wong!
+It wouldn't surprise me if a large chunk are people who voted because MAGA and then largely ignore politics until the next presidential election so they have no fucking clue.
+Based on the "M" there, you should be able to put it in a manual mode to downshift just fine.
+Exactly. I pick quick chat messages that can't be misunderstood. I removed some of the standard sarcastic responses from mine just to prevent heat of the moment jackass comments and it has greatly helped me being a better teammate even if I want to tell them that they suck.
+
+There is a certain level of frustration when you have no clue what the other person's game plan is.  Are the super defensive?  Will they try to hit every ball that is even close to them without understanding where you are?  That can lead to bad decisions and just make things worse by trying to recover from those situations.
+[yes it does](https://gifsound.com/?gif=i.imgur.com/2swfA9A.gif&v=m3zvVGJrTP8&s=155)
+well it certainly isn't [boring_wozniak](https://github.com/moby/moby/blob/5aa44cdf132788cc0cd28ce2393b44265dd400e9/pkg/namesgenerator/names-generator.go#L600)
+Nice! Will have to check that out.
+I just use tmux with synchronized panes on for sending commands to multiple panes at the same time:
+https://stackoverflow.com/questions/16325449/how-to-send-a-command-to-all-panes-in-tmux
+/thread
+Wow, looks like maybe one or two cars made it through without serious damage.
+Wouldn't the Dale Jr of NASCAR be...Dale Jr?
+Yup, exactly. He just went up like he didn't realize they were three wide expecting Hinch to slide up and the rest was history.
+Yeah, that contact looked like it might have just been enough to cut the tire. The rear guard sure moved quite a bit from the contact so it wouldn't surprise me at all.
+Not sure but no push to pass on ovals.
+It might just be because there is a lot to be excited about but the NBCSN commentators are doing a great job. Last few ABC races felt like too much dead air and regular phoning it in (I'm looking at you, Cheever).
+Seriously.  You could pull some of the same sorts of detail from the bible if you took 5 minutes of scanning.
+Why mercury? What was it used for?
+I was thinking the same thing, thought I was seeing a car come out of the pits a little too hot on the accelerator.
+You have to remember that it is a chance to win one of the weakest divisions in the NFL.  That's just sad.
+You'd think Sato drank OJ by how some bad apples are acting...
+He traveled 500 miles faster than everyone else in the field.
+
+/thread
+For those who are confused: https://youtu.be/w-HKSWf5xso
+Darn, I was hoping I would be able to use this code as I just expired.  Looks like it isn't good anymore.
+Memorial Day weekend
+Damn it! Stop with the yellows! Such good racing to be had!
+Tell drivers to avoid the debris.
+Pushing the clutch in to disengage the engine so the RPMs drop to save fuel and just letting the car coast around.
+Choo choo!
+Good timing for the caution for Davison.
+Former Indy 500 Champion Buddy Lazier! Nooo!
+It does but isn't common these days. Used to happen very frequently back in the day.
+It had debris on it earlier and I don't think they could clear it yet. Been watching his onboard all race and they had it on earlier.
+He is my dark horse to win. Let's go Graham!
+Probably easy enough to adjust for it, especially since most run with just a driver side for quals so they know what it does to the handling.
+Not at all.  As long as you're near the front pack, you're good.  Just gotta stay on the lead lap, make sure you have the right amount of downforce for the last stint - the race has been lost by running too much downforce at the end and just not having the speed to lead.
+More racing?
+
+...No?
+Just ask Marco about his 2006 race coming off turn 4... Especially no guarantees if the 2nd place is right on the rear of the 1st place car.  The draft is real.
+Go away with that shit.
+No they don't race back to the line and it is single file.
+Kinda refreshing.
+Final 20-25 laps you really want to be up near the front.
+I was curious if they would replace it. Figure they ought to know if they can run without it after that short stint.  After the penalty, I'm surprised if they didn't go ahead and replace it.
+You might be underestimating how loud the Snake Pit is. You can hear it quite clearly and feel the bass in your chest in turn 4.
+Is that two sips or finish your drink? I lost my official Indy 500 drinking game crib sheet.
+Ah gotcha. Yeah, that's typically only if there is massive debris blocking the track or if there is safety repair, like to the catch fence or SAFER barrier, that needs to be done where they need to block a significant portion of the track.
+Not sure what you're watching but we are under YELLOW.
+Just looked at the weather forecast and it shows no chance of rain before 6pm. We will get the race in with plenty of time to spare.
+Oh wow. *Something* would have had to contact that to make it come off. I can only imagine how hard his heart was pounding after that...
+Seriously... was he stung by a bee?
+I've parked at Lafayette Square mall and walked but that was like 8-10 years ago. 
+If an app is going to store my passwords, If rather have the transparency of detailed changelogs than not, that's for sure.
+I highly doubt he would be wearing it if that was the case or it is negligible.
+That is awesome to hear that he is as eager as ever to get back in the car.
+Oh man I'd love to see Townsend again especially with a team that has some fast equipment and the right team to back it.  No clue if there would be any chance of that happening but he has been extremely competitive in previous years but seems to end up doing something careless/gets caught up in the moment.
+That's not how any sponsorship works. Nothing gets on the car advertising wise without $$
+I Duno if that's accurate.
+Same here. I've done the glamping the past few years and he was constantly stopping by to ask how things could be better or if we needed anything. His visits brought an extra bathroom trailer and more security when people had concerns about randoms walking through. Definitely approachable and realizes that fan experience is absolutely everything.
+Yeah, true. It was larger than a mirror watching the replay again.
+I was trying to figure out what that was.  Seemed tethered to the car but I am not sure what it would have been.  Are the rear view mirrors tethered?
+Probably a bit but he couldn't exactly do anything to scrub off any speed.
+Hopefully they keep the stream up on WatchESPN.
+
+edit: appears so. good thing since i don't get ESPNnews
+In his defense, Sebastian put up his visor which is the universal sign that he is ok. 
+Yeah, that was horrible. The snap back to go head on in the wall was incredibly scary.
+Video of the same: https://youtu.be/au2rU6aPkNc
+gfycat of Sebastian's accident: https://gfycat.com/LightUnsungIndianrhinoceros
+Holy shit what a crash
+Yes, yes it was http://i.imgur.com/gqCOi2K.jpg
+edit: sorry for the potato picture of my tv
+I took an Uber home last year. I waited well until after the race when surge dropped. I live on the south side (still in Marion county) and it was $18.  After the race was a cluster fuck because there were so many people waiting for an Uber st a designated point down on Main St and like 10th.  Instead of waiting there, I just kept walking east until I could get a car.  You should just be super patient if you're doing it on race day and I found it is better to get dropped off a ways away from the track and just walk in the last bit.
+
+I took an Uber down the night before the race because I was glamping but had to come home for a bit and it was $18 then as well.
+I think he'd like "Indianapolis 500 winner"
+OK great.  You're on the right track. Is the application in the container listening on the same port you're publishing and just to verify, are you publishing the port?
+It could be related to the lack of loopback on Windows containers: https://www.google.com/amp/blog.sixeyed.com/published-ports-on-windows-containers-dont-do-loopback/amp/
+That's a good example - pretty much any scenario when you don't need a network interface.
+You'd think it would be that easy...
+SAD!
+It's a directory. Copy the file there.
+That's interesting.  CLI is always just reading the letters; don't think I've heard anything else.
+No clue; not sure how to really measure that.  Would happily measure if you have any ideas :)
+Linux graphtest 4.4.0-38-generic #57~14.04.1-Ubuntu SMP Tue Sep 6 17:20:43 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+
+Ubuntu 14.04
+
+Full results with all output - https://github.com/mbentley/docker_examples/blob/master/build_speed_test/README.md
+Do you have any benchmarks showing that AUFS is slower than devicemapper?  One thing I had previously tested was speed of graph drivers when building images with large previous layers.  AUFS was the fastest by far, overlay and devicemapper with direct-lvm were similar.  This was 2 years ago on 1.6 though: https://github.com/moby/moby/issues/10161#issuecomment-107720435
+
+Or are you just talking about read/write performance to the copy on write filesystem?
+
+*edit: did some updated benchmarks for build:
+
+    ### aufs
+    root@ubuntu ~/d/build_speed_test:master:0:0# time docker build --no-cache -f Dockerfile.scratch -t test .
+    real    0m0.302s
+    user    0m0.016s
+    sys     0m0.000s
+    
+    root@ubuntu ~/d/build_speed_test:master:0:0# time docker build --no-cache -f Dockerfile.jessie -t test .
+    Sending build context to Docker daemon 6.144 kB
+    real    0m0.300s
+    user    0m0.012s
+    sys     0m0.004s
+    
+    root@ubuntu ~/d/build_speed_test:master:0:0# time docker build --no-cache -f Dockerfile.gcc -t test .
+    real    0m0.340s
+    user    0m0.004s
+    sys     0m0.004s
+    
+    
+    ### devicemapper direct-lvm
+    root@graphtest ~/d/build_speed_test:master:0:0# time docker build --no-cache -f Dockerfile.scratch -t test .
+    real    0m4.841s
+    user    0m0.016s
+    sys     0m0.000s
+    
+    root@graphtest ~/d/build_speed_test:master:0:0# time docker build --no-cache -f Dockerfile.jessie -t test .
+    real    0m4.835s
+    user    0m0.008s
+    sys     0m0.000s
+    
+    root@graphtest ~/d/build_speed_test:master:0:0# time docker build --no-cache -f Dockerfile.gcc -t test .
+    real    0m38.762s
+    user    0m0.008s
+    sys     0m0.004s
+    
+    
+    ### overlay
+    root@graphtest ~/d/build_speed_test:master:0:0# time docker build --no-cache -f Dockerfile.scratch -t test .
+    real    0m4.359s
+    user    0m0.012s
+    sys     0m0.000s
+    
+    root@graphtest ~/d/build_speed_test:master:0:0# time docker build --no-cache -f Dockerfile.jessie -t test .
+    real    0m4.475s
+    user    0m0.004s
+    sys     0m0.008s
+    
+    root@graphtest ~/d/build_speed_test:master:0:0# time docker build --no-cache -f Dockerfile.gcc -t test .
+    real    0m37.011s
+    user    0m0.004s
+    sys     0m0.008s
+    
+    
+    ### overlay2
+    root@graphtest ~/d/build_speed_test:master:0:0# time docker build --no-cache -f Dockerfile.scratch -t test .
+    real    0m4.402s
+    user    0m0.012s
+    sys     0m0.000s
+    
+    root@graphtest ~/d/build_speed_test:master:0:0# time docker build --no-cache -f Dockerfile.jessie -t test .
+    real    0m4.969s
+    user    0m0.008s
+    sys     0m0.000s
+    
+    root@graphtest ~/d/build_speed_test:master:0:0# time docker build --no-cache -f Dockerfile.gcc -t test .
+    real    0m20.606s
+    user    0m0.012s
+    sys     0m0.000s
+Seriously. I can't find shit in landscape.
+He didn't even sign inside the designated box!
+Yeah, I try to not do anything loud before 10. That's more than fair I think.
+Exactly. It makes it clear what is Docker, what is a fork, and what uses the Docker format to provide containers based off the standards. 
+I understand the reference but in all seriousness, what is wrong with his approach?
+I still remember when a number of the first GPS apps came out. If I remember correctly, one company had a phone holder that mounted in the car that actually added a GPS chip for better location and it was over $100 for the app.
+
+edit: found one
+TomTom Car Kit for iPhone (compatible with iPhone, iPhone 3G, iPhone 3GS) https://www.amazon.com/dp/B002X2F2N8/ref=cm_sw_r_cp_api_9Wi.yb9GJ82QA
+lol same here
+Not really. A better anaology for forks of docker still calling what they're shipping docker would be like megablocks calling theirselves LEGOs.
+I was just thinking the same thing. Neither team knows how to keep a lead if their lives depended on it.  Maybe the Pacers just need more grit. /s
+Server 2016 or on Windows 10 with Docker for Windows installed.  Docker for Windows gives you both Linux and Windows options.
+My answer would be Ubuntu because of AUFS support. It is the best graph storage driver in terms of performance and reliability.  Anything hat uses devicemapper should be avoided if you can help it. Using overlay2 is an improvement and is close to AUFS in terms of speed and reliability but AUFS still has the best performance.
+You can run Windows containers on Server 2016 as it comes with Docker EE basic (engine only support) from Microsoft as a part of the license.  As others mentioned, the base Windows images are microsoft/nanoserver and microsoft/windowsservercore.
+No. As a user of docker, nothing changes.
+I don't know, [Griff at 4th and 3](https://youtu.be/6i7VKQwDS2s) is pretty clutch.
+What the fuck...that's messed up.
+And that's why I just skipped the ceremony and picked up my diploma.
+The ability to resume where you were in the comments would be awesome.
+I was hoping that was going to be the video linked.
+Take a look at https://github.com/twistlock/authz and see if that helps with any of your use cases.
+I think my eyes are bleeding from the 3 fps gif.
+Noooooooooooooooooooo!
+Change all of the TVs to play Michael McDonald's hit song Yah Mo B There nonstop all day.
+Done did it!
+Doesn't that make the cake soggy if you don't eat it quickly?  I'd imagine the pudding just kinda soaks in.
+Oh god that sounds terrible.
+Actually, shows like Game of Thrones that are unedited with sexual content are almost always available on in flight entertainment provided by the airline.  This is true for American and United airlines. 
+With dnsmasq you can basically make it so *.dev can resolve to a given IP address so if you want different names to resolve to the same IP without needing to add them each to the hosts file, dnsmasq is a great choice otherwise hosts file is dead simple for just your single machine.
+No, something is going to need to provide that record to your computer. You could use dnsmasq to make that happen but you're still editing config files. Might as well just edit the host file unless you want everything .dev to go to a given host (dnsmasq does this easily).
+Through the screen?  Not sure if you missed the screen in the window.
+If you actually like narwhal like I do, I paid to have an ad free experience. Totally worth it to me.  I just considered it a test drive to have to see ads while checking out the app.
+/r/getnarwhal
+Same here. My night vision isn't great now but I can still see fine after my LASIK which was a year and a half ago.  I couldn't wear contacts because I spend all day looking st the computer screen and I apparently forget to blink so my eyes dry up and felt really gritty with contacts.  I tried so many different types of contacts but nothing ever worked. I also had a long recovery time until my eyes felt normal. I had a lot of sensitivity to light for about a month and a half. I just treated  the dryness with eye drops. At least now I don't need glasses but my eyes can get tired by the evening if I've been using my laptop all day.  I use a pretty high resolution on my laptop so that probably puts extra strain on my eyes.
+I second the Broncos. Horse bros for life.
+I used to work in the food industry and I pretty much always complied with customer requests regarding resolving mistakes or issues with food but as soon as someone throws something at me or one of my employees, we were done.
+
+Favorite incident was getting a sandwich thrown at me.  Then they refused to leave after requesting they do so. A number of county sheriffs frequented our place due to the free meals they received and me offering to get the opinion of the officers eating quickly diffused the situation.
+I have a space gray iPhone 6S and I have a product red silicone case. Big fan of the look.  I also have a silver iPad with the product red case and the white just doesn't look quite as good to me. It's not terrible but I prefer the black.
+This is borderline /r/forwardsfromgrandma material
+I agree. I don't think the movie would have been as enjoyable with someone else. His delivery just fits so well for some odd reason.
+For sure, he no doubt has talent. You almost feel bad for him at times as it seems like bad things have happened around him but then he will seeming have a lapse in concentration and go for something that just isn't worth the risk.
+So you're saying that Marco and I led the same number of laps last year?  Sounds quite promising for me!
+Same here. I am on the "s" 2 year pattern right now. Was going to break and get the 7 except for the lack of the headphone jack made me think differently so here I am still on my 6s.
+Correct - Windows on Windows, Linux on Linux.  Windows containers have only been GA since September of 2016 so there isn't going to be much usage compared to Linux.
+Those numbers are two years old so I can't imagine they're even close to accurate anymore.
+What is Docker doing that is being "too enterprisey"?  I don't fault them for wanting to make money so that they can be around in the future.
+Before the announcement, you had zero days before you were on an unsupported version. So if you were on 1.12 and 1.13 came out and a security issue was found in 1.12, it would have only been fixed in 1.13. Now that is not the case for that month at least, giving some runway for upgrading.  That's going to be part of the "cost" of running on a community supported piece of software.
+
+The amount of effort it can take to backporting fixes for something as complex as Docker can be a huge task so 1 month isn't exactly terrible considering the cost (free).
+Can you define what supported by Red Hat specifically means here?  What sort of ability do they have to actually provide support for the Docker Engine?  I don't understand how that support model works.
+Windows Server 2016 already ships with a Docker EE engine enabled. There is no additional cost as the cost is already built in to the licensing costs of Windows Server 2016.  The difference in EE and CE is the CE is available for free platforms. Those free platforms also have the option of EE (like Ubuntu). Paid for only platforms (like RHEL, SLES, and Windows) only have EE.
+Yup, exactly. Wife has the 5x and it works well.
+Probably just wishful thinking for standardization across devices like phones and to be able to go usb-c to usb-c.  I don't have a new mac with usb-c ports but I totally get the appeal of usb-c. That'd mean I can share a charger with any number of people as usb-c seems to be the standard for new mobile devices not created by Apple.
+What does this have that is t available in 1.13's prune commands?
+You have to realize that inside the container, 127.0.0.1 is only inside the container and doesn't bind on the eth0 interface inside the container so it does not get exposed via the port mapping to the host. That is why listening on 0.0.0.0:8000 inside the container would allow you to expose the port on the host properly.
+because it is awesome to watch again and again: http://imgur.com/vfxZ6zX?r
+Say you have two files with different content.  If the SHA1 hash matches, that means that someone could give you one of the files (which contains incorrect/malicious content) disguised as the other file and checking the SHA1 wouldn't indicate that the files are different since you could use the SHA1 to verify the contents of a file are what they say they are.
+
+The graphic from the blog post explains it pretty well too:
+https://3.bp.blogspot.com/-Ca6n5XsDQU4/WK6ljCSebeI/AAAAAAAAAa4/MXeyy0z13yIqp9DEWVLiqjJ_xSP2u7YOgCLcB/s1600/Collision-illustrated.png
+BRB grabbing my iPad. You're a hero.
+
+edit: of course it doesn't work with third party keyboards but i'll take what I can get!
+I've started using Gboard for the swipe capability because it seems like I'm constantly correcting typos otherwise.
+It is amazing how much I got used to this. When I'm using my iPad, I realize how much I use force touch for moving the cursor.
+As someone from Indiana, it isn't far off.  There was a strong obsession with Johnny Appleseed.
+Snapping is the biggest thing I use it for too. After coming from Windows, snapping was too hard to give up.
+Thanks! I didn't realize that did a sync with the health app.
+COME ON AND SLAM!
+Add one more vote for turn 4.  Get a decent seat and you're seeing turn 3 exit , 4, front stretch, turn 1 entrance and then assorted places around the rest of the track.
+These look like the older traditional bins but you're right - the drop down bins make a plane feel relatively huge.
+Holy shit...is he *still* going on about the election?  Give me a break. Spoiler: the election is over, you won. Do your fucking job now.
+The shaky cam style really jumped the shark hard for me when I watched Transformers 2. I had no clue what I had just watched in any of the actions scenes. It just felt like one huge blur.  It might have been made worse by watching in IMAX 3D with the screen being so big but I honestly had no clue what had transpired.
+Jackie! Kick down the door!
+That'd make me wonder if your VPS is in a blacklisted IP range.
+It didn't go forward because of the QB's arm. It was because he was hit that it went forward.
+FREENEY!  I miss that man.
+Yeah his receivers have been missing some balls they should be catching.  Brady seems like he is just a little off on some throws, just getting them out of reach.
+That's not blood, it's from the logos painted on the field turf.
+You must be forgetting about the Broncos massacre of Super Bowl 48.
+Gotcha.  So if you're following that, I'd expect that it should still work using Jessie's method but I am not sure exactly how the IPs have to be allocated to the server; I would assume that they have to be made available to the host and like you mentioned, no config necessary since `docker network create...` would create the network and utilize the allocated IP range.
+How are the IPs available from the servers?  If the IPs are available on the host (configured as separate interfaces), then you should be able to use `-p 198.255.1.1:80:80`, for example, to NAT port 80 from the container and expose it only on the interface that has `198.255.1.1`.
+Yes links are deprecated with services. You're better off using the internal automatic DNS service discovery and secrets to share credentials.  Secrets came in 1.13 and v3 of compose supports secrets. v3.1 of compose will add secrets to the compose standard.
+Unfortunately I didn't have the time to figure out what the hell was going on the other day and I just gave up on Chromium and installed Chrome.  Seems like an overly aggressive tradeoff exchanging usability for security.  
+Damn that's filthy!
+Easy there satan.
+If it is a sanctioned league, they'd know.  The stats would be available for your year book average.
+Except it didn't prevent anything so there is that.
+Since you are running the CS engine, get in contact with support, your solutions engineer and your sales rep to figure out what is going on as that isn't expected.  I wouldn't try to solve something that should work out of the box with a workaround.
+Who the hell gives a gift like an iPhone without knowing for certain that is what someone wants? 
+Ah well that would make sense. It's like I have to click on every notification for it to realize I've looked at the notification page.  
+Must be taking a page from the Chuck Pagano playbook.
+And I thought I was just doing something wrong.  I hope they get this fixed. It really bugs the hell out of me.
+Fun fact: Hydrox came out before Oreos. [source](https://en.wikipedia.org/wiki/Hydrox)
+But this one isn't weird. Red Vines are awesome but I'm not turning down either if someone offers me one.
+The inability to work with existing displays is so stupid and short sighted.
+Sorry I wasn't more clear - with it being Tech Preview, it'll likely be fully supported in 7.4.  Thanks for the verification and clarification!  That's going to make the lives of many people much easier.
+It's not that overlay2 isn't supported by Docker, it's not supported yet in the CentOS and RHEL kernels. It is being backported to 3.10 and last I heard should be available in 7.4.  You need a 4.4 or newer kernel if you're following the actual non patched kernel tree in order to use overlay2.
+
+For now the officially supported graph drivers for the commercially supported version of the Docker Engine is AUFS for Ubuntu, devicemapper for CentOS/RHEL, and btrfs for SLES.  These are determined based off of OS vendor support and Docker recommendations.  The future looks like everything is headed to overlay2 but it is a waiting game to get it in a supported kernel.
+
+I also personally love overlay2. It is fast like AUFS but is in the mainline kernel unlike AUFS so it will eventually be everywhere.
+Oh wow, you're definitely right. I was just messing with the very edges of my finger and when you start from the center and rotate outward after a number of presses it begins to learn more of your finger.  The screen highlighting which finger you're using is priceless for better fingerprint learning.
+Yup, frequent traveler here. I started with a 15" mbp but downgraded in size to a 13" just for this very reason. Yeah it has a little less horsepower than a 15" but it is totally worth it for being able to actually use it on a plane, even when the person in front of you reclines.  It makes it a bit harder if you're in standard coach but it still works.
+What is slow specifically?  Is it just the initial connection being established that is slow or is the terminal being slow while you're connected?
+You better believe he is going to get a banner in Lucas Oil right next to the 2016 AFC South participants banner.
+Whoosh
+One wouldn't think so but here we are, failing to make any sort of basic open field tackle.
+Or attempting to put on closed toe shoes!
+It probably didn't help in this example that he struck the ball so lightly but that does look quite silly.
+Don't log out of Chrome. Why would you?
+What is up with the title?  It's quite misleading. Why would Docker Inc do **anything** with Portainer?  It is a fork of Docker UI which was originally written by a Docker engineer and they have the Universal Control Plane (UCP) in their commercial offerings anyway.
+Seriously. What a waste of a decent drive.
+Right, I understood that.  Same applies when just using docker to build a binary.  The version of Docker doesn't matter, it's more of what is in the image you're using to build your binaries. As long as that stays the same, you'll get reproducible builds.
+Yes, even across different versions of Docker.  The image format itself has been extremely stable.  Docker hasn't had many [breaking changes](https://docs.docker.com/engine/breaking_changes/).
+You'll actually get a more reproducible artifact after building. Both you and me can use the same Docker image and run a container to create a build artifact and we should essentially have the exact same results. If we built the same directly on our OS, I'd expect variations. Same with a CI system; I don't have to worry about my slaves drifting version wise or wait for a slave with a specific set of tools available. I just need a Docker engine. 
+Yes, they have fields for those on your profile.
+Yup, visited there for a business meeting once and walking through the place felt like I was looking through their catalog.
+╰⋃╯ლ(´ڡ`ლ) 
+Yeah, it's true, it wasn't this one play.  It's the same Irsay type thinking of "the ball just didn't bounce our way" that can really put the blinders on to the fact that we have terrible coaches and/or players who are not able to consistently produce.
+Big Adventure
+You're now subscribed to Brady facts! To stop, reply ELIMANNING.
+I'd hate to see what really over the line looks like in your book.
+Yes I believe so.
+How do you feel about Docker containers coming to Server 2016?  Do you feel like it is seen as a big feature internally at MSFT or is it something most people don't know much about?  Any big pushes toward workloads in Docker?
+Ideally apps in containers log to stdout and stderr and if you need to collect them, do so by sending them from the daemon elsewhere via the logging drivers.  If you don't need the logs but are just parsing them or something, then I can see using a volume approach to share that to a second container to read the logs.
+Well didn't you lie since you were walking 5 miles a day or were you doing that daily before?
+And people say he has no experience...
+Ugh, we are gonna need points every time we can get to the red zone tonight. That hurts.
+I use mine for conference calls. They fit fairly well for me, never fall out but occasionally I feel like I reposition them slightly every so often to get what feels like an ideal fit.  Definitely not falling out for me but I am also not running with them.
+And I feel like that is such bullshit. I need to know what a candidates policies are before I vote for them, not when they're taking office.  He has practically said nothing to indicate what his real policies will be.
+See https://github.com/docker/distribution/issues/1732. There is apparently a manually built image that works on Windows if you're looking for a native on Windows registry. Still some work to be done.
+The volumes are stored outside on the host file system for native performance and because they are meant for persistent data.  That will not change. I would suggest making /var/lib/docker its own partition as you mentioned if you're looking to put that data on its own disk. This is going to also include logs for containers if you are using the default json log format.
+Try creating a network for your container and create it with the --internal flag. That will restrict external access. Connect the other container to the internal only network as well as another network that does not include the flag. That will allow the apche container network access while restricting the php container on the network with the internal flag to only talk to the apache container via the shared internal network.
+
+This isn't exactly what you're asking for but ensures your php container can only communicate to apache.  The built in DNS resolution is quite useful for these types of scenarios for communication between containers joined to the same networks.
+I haven't tried from a command prompt but vim in poweshell isn't bad.
+I was just thinking this the other day. It would be nice to be able to at least know if it is email, a text message, or some other 3rd party app that is giving me an alert.  It would be fantastic to be able to enable or disable the sounds on a per app basis via notification settings for the watch.  Without knowing what type of notification I am getting, i tend to look at my watch more often than I ought to.
+I think that's why they couldn't overturn it based on what angles we had. He should have had the perfect view to see if he stepped out.
+It wasn't an interception. Point after touchdown attempt doesn't change the possession after the fact no matter what happens.
+I don't understand how this is infuriating. This is literally how time works.  Sounds like you just don't know that 12am is just after midnight.
+Exactly. Might be able to get away with some types of cheese with a wire cutter but something like this is the wrong tool for the job.
+Yup, has heppened to my S0 about 3 times in the past couple of weeks that I have actually noticed.
+South sider here.  Mike Pence is a man who should be held up high on a pedestal...and get fucked by it. Hard. Equality?  Nope! Education? Let me fuck that over too by taking an elected official who has the job and experience to fix the education system and completely strip them of their power. I was really just hoping him running for VP would put him out of a job, not put him next in line to run the country.
+Yeah, it's somewhat random for me.  I can't find a common site that could be causing it either.
+Awesome, thanks!  Just in case anyone else isn't the biggest fan of the background color, I made [a version with the background a bit more black](http://i.imgur.com/LDLpJ6m.png) in 2560x1440.
+Do you have any higher resolution?  I'm running 2560x1440 with my external display and it gets a bit muddy but I love the wallpaper!
+Gonna need the squirrel in our banner now.
+Just applying some of that GRIT
+ARE YOU FUCKING KIDDING ME?  Where was the hold on that???  I didn't see it.  Is it just assumed when Robinson makes a good play that he must have committed a penalty?
+I should probably just let this go but you obviously have never typed on a keyboard without hunting and pecking. That is exactly what "using the function keys on a regular basis, so hardly worth removing the function keys and not offering physical keys on their top end model" means.
+You're missing the real point.  How am I supposed to feel that my finger is on F3, for example, if there isn't a physical key?  The lack of feedback from the bar isn't the same as a physical key.
+When I am already pressing a multi key combination with a function key, I don't need a Fn key to press.  While I may be in the minority, I'm in IT and if you go to a conference, you'll see somewhere around 90% of the people with Macs and I would fully expect many of these people are using the function keys on a regular basis, so hardly worth removing the function keys and not offering physical keys on their top end model.
+Or have it configured so I never have to press Fn to use my function keys because I use them constantly.  Shortcuts I used to be able to use without looking at my keyboard are no longer a thing. Functionality lost.
+Yes. Comment out those lines in your sources list and try again.
+Oh man, I really wish I held on to my PS/2 Model 30.  That'd just be fun to still have for nostalgia sake.
+Yup. Only thing prevent defense has ever prevented in the Colts organization is a win.
+I wish we knew...it pretty much is a shock to almost everyone how he still has a job.
+Even if we somehow did pull some magic trick to make it to the post season, I don't want to imagine the ass raping we will receive from an actually good team.  I'd rather we go all out in losses if it means getting rid of our worthless coaching staff and front office personnel.
+Why is xXpepXx calling for 4 verts?
+We can't even be that lucky...
+From the above, the output of docker info is failing. I don't know anything about how synology sets up docker but it looks like the user you're running commands with doesn't have appropriate permissions to talk to the socket. Docker 1.6 should have no issue talking to a v2 registry.
+Docker either isn't running or you don't have permission to access the socket.
+The whole town's water system being fucked doesn't count?
+The use of apps with a GUI hasn't really been perfected for Linux based apps. You can do it but it isn't awesome. On Windows, I haven't heard of anyone getting that working yet. 
+Try these free training courses: https://training.docker.com/self-paced-training
+I absolutely hate these. It is absolutely stupid to let people cruise around 465 going 70-75 easily every other day of the year and then they decide to pull out one of these bullshit traps a few times a year. I thought I heard that they couldn't increase the speed limit on 465 due to losing highway funding if they did but the speed limit is a complete joke.
+BRAAAAAAAAAAAAAAAAAAP
+Haha oh god, loved that.  It's like I am watching it right now.
+Nobody is actually going to officiall fork Docker besides what Red Hat has already done a long time ago.
+That fits perfectly. Can even hear Jackie say it. lol
+Minnesota has one of the best defenses in the NFL. right now. Not a chance in hell unless we pull something out of our asses.
+We aren't that lucky
+LOLTACKLES...kill me now
+Our grit didn't make the trip over.
+How is that a late hit?  He was up in the air RIGHT before the hits.
+No flag on Bortles for shoving a Colts player to the ground?  ooookay...
+How in the fucking shit do we not realize they are running the same god damned play all the way down the field?  Jesus christ...
+He was earlier though.
+Yeah, that's nice.
+Interesting. TIL... Thanks for the explanation!
+I don't understand what they called. Illegal touching?  Anyone know what that was all about?
+OH MY GOD YES TY!
+Hate to see someone hurt but hey, free timeout.
+Review?  He was obviously a yard past.
+Punt?  No, we have to go for it if we want to have any chance.
+Most definitely. This is actually how I would prefer doing the backup; running in a container. Use a host mount volume (mounting a specific path on the host) and your named volume to get access to your data and back it up to the location you want.
+`docker volume inspect <volumename>`. Look at the path it returns. That's where your data exists on the system.
+It's definitely a huge circle jerk about anything where religious people are caught doing bad things; mostly religious leaders molesting kids.  Just feels so "I told you so!" type bullshit.
+Yeah, that guy played it pretty cool.
+Ah yes...Bob "Made of Glass" Sanders. I miss that man while he stayed healthy.
+How in the world can that fucktard of an announcer **STILL** not pronounce Vinatieri right?
+Don't have a bible or the Internet in Alabama?
+Also, circa should be used when you do not know the exact date but have a good estimate.  For example, if you know it is 2002, then circa wouldn't be the best use.  https://media3.giphy.com/media/R6bDgXEXCLcIw/giphy.gif
+A 2.5mm jack is the exact same problem for people who don't want to have to deal with adapters for using a single pair of headphones.
+I posted this in another thread but it is extremely relevant to this question:
+
+I have a MacBook Pro. It has a 3.5mm headphone jack. I have headphones that work with a 3.5mm jack.  I have an iPhone on which I take conference calls and work from constantly. I need to charge my phone regularly while I am on calls with my headphones in. I do not want to have wireless headphones I also have to charge nor do I want to have to carry and second set of headphones. What is the solution to my problem?  Apple hasn't presented one to me as far as I am aware.  I was planning on buying the new iPhone but I won't until my needs are met as my 6s still works well enough for my liking.
+I believe those are fairly valid responses from consumers in this situation.
+I have a MacBook Pro. It has a 3.5mm headphone jack. I have headphones that work with a 3.5mm jack.  I have an iPhone on which I take conference calls and work from constantly. I need to charge my phone regularly while I am on calls with my headphones in. I do not want to have wireless headphones I also have to charge nor do I want to have to carry and second set of headphones. What is the solution to my problem?  Apple hasn't presented one to me as far as I am aware.  I was planning on buying the new iPhone but I won't until my needs are met as my 6s still works well enough for my liking.
+What does your compose file or docker run commands look like?  It should just work if you added the file.
+For anyone who comes across this, they really do have amazing food at Bosphorus.
+https://youtu.be/zZ1_p9IXRxQ
+Did you buy one and measure the contents to see if it equals 20 oz?  They look pretty normal to me.
+Why didn't I concur?
+I just made a trip to Toronto and used a data only sim in my iPhone 6s from my wife's fi account and I have to say it worked great. I just used my google voice number for calling and hangouts for texts.  Had no problems at all. So much better than getting a prepaid SIM card or paying insane prices from other carriers.
+Enjoy and Newark should never be in the same sentence.  That place is a shit hole.
+Likely a promo item you could purchase. That sort of stuff was the norm in the 80s from what I remember growing up. From glasses to video tapes. Everything used to come with points where you could "buy" stuff like from Betty Crocker.  Many of my hand me down kitchen utensils were from that sort of thing.
+I'm assuming you mean for OS X. What OS is your pi running?  See https://raymii.org/s/articles/Build_a_35_dollar_Time_Capsule_-_Raspberry_Pi_Time_Machine.html
+People may do dumb shit due to religion but how is that a political message?  I honestly have no clue how religion intersects with politics because of someone who will vandalize a car because of a license plate that relates to religion.
+...but this not a political message.
+When your phone connects via Bluetooth, it will default to audio going over Bluetooth. As far as I know, there is no way to change the default behavior but once connected, you can switch by swiping up from the bottom and changing the AirPlay option to iPhone. You'll have to watch back to use Bluetooth audio.
+Yup, just officially announced.  Incredibly sad.  RIP :(
+On your first point, it's all relative especially when you have Mike Pence playing cleanup and someone turning that into a dumpster fire.
+Not if you exclude it.
+I would not kiss the bricks either if my parents named me Brexton.
+A dongle is just annoying, especially when it is a commonly accessory needing a dongle. I also charge my phone while takin calls as well so that's gonna be a fat dongle on my headphones.  I keep the earbuds in the case they come in so they never get tangled.  If the Apple case for the earbuds don't have a special place to hold the dongle, the more of a chance I'll misplace it.
+I use my headphone jack multiple times a day. I am in sales and phone calls are a many times a day occurrence.  No jack might be a deal breaker for me.  I personally just use the included earbuds from Apple so if they make some way an adapter will fit in the headphone case or if the Apple provided earbuds don't require an adapter, that might make it work for me. But not being able to use headphones because I can't quickly locate a stupid adapter would suck.
+The audio quality of Bluetooth is noticeably worse than a wired connection if you have the ear for that sort of thing.
+Seriously, every time. They should be friends, not lovers!
+Legend says this was the top comment last time this was posted.
+Honestly, there isn't a 100% right answer here.  If you want to reuse a single container of MySQL and a single container of Postgres where the sites share the database servers, that's fine.  You most definitely want MySQL and Postgres running in their own containers, at the very least.  If you end up running a dedicated database for each site, that's also fine.  It depends on how coupled or decoupled you would like your services to be from the databases.
+The atmosphere is awesome, food is great but not for the price, not overly impressed with the beer (decent but nothing I can't really get elsewhere), and I've had better service.  I've probably been there a dozen times or so with a friend who loves the place cause it's close to his house.  He's like Norm for Cheers there lol
+Marsh charges too much for the same quality you can get elsewhere, plain and simple.  It's why I don't really expect them to be around long term.
+Whoosh!
+My thoughts exactly. If you're trying to really do all of that in one Dockerfile, you are severely going against suggested best practices.
+
+I'd suggest checking out the v2 format of compose as it has some enhancements that'll help make things work easier.
+Using applications in containers that store persistent data outside of a container using a volume works great.  The argument of only putting stateless applications in containers may have been valid like 1.5-2 years ago but not today.
+My personal favorite: https://i.imgur.com/TdoFmvb.gif
+Sounded good and loud on TV!
+Well that is what happens. You use one app for Facebook and then another for Messenger.  So you do use one app then two if you want to use Messenger as well.
+
+edit: holy shit, didn't know I needed a sarcasm tag. then vs. than...
+You are correct that it will only install stable and security updates.  `DEBIAN_FRONTEND=noninteractive` should work as you mentioned.  I use unattended-upgrades so I can control additional options such as removal of dependencies as well.
+You are correct that it will only install stable and security updates.  `DEBIAN_FRONTEND=noninteractive` should work as you mentioned.  I use unattended-upgrades so I can control additional options such as removal of dependencies as well.
+I wouldn't do upgrades like that. See https://wiki.debian.org/UnattendedUpgrades for a better way of handling unattended upgrades.  Just running `apt-get upgrade -y` is bad because you may be prompted especially when there have been config file changes that need manual attention.
+Install the docker client binary in the image you're running and bind mount the docker socket and then you can launch containers or whatever from inside the container you are running. They'll run on the host since its talking to the engine via the socket.
+In case you haven't found it, there is a doc on how to configure a drop-in for docker: https://docs.docker.com/engine/admin/systemd/
+We used BitTorrent sync at my previous employer and it worked great for us.
+Thanks!  Only link I've found working!
+It's listed there but it never loads.
+
+*edit: you apparently have a sub to ESPN NEWS.
+Not working here.  Do you already subscribe to ESPN News?  I don't and I just get a notification telling me I don't get it.  Worthless.
+I am not getting a working stream on ESPN3, just getting an error.  Anyone else having the same issue?
+
+edit:  Actually, it was the HTTPS everywhere Chrome plugin that was breaking it.  Disabling it solved my problem
+Be warned that your modifications to the default systemd service file provided by the docker-engine package will be overwritten by many package managers upon upgrade which is why using a drop-in is recommended.
+Eh it actually loaded on my phone without stuttering forever. Not like anyone really needs a full res 4K gif to see what is going on.
+
+Sick save!
+I had LASIK done back in September of 2015. My vision was pretty terrible for the first month and a half due to extreme light sensitivity and night halos but they went away suddenly after that for the most part. I will say that I am more sensitive to light than I used to be but it isn't that much worse for me.  I do still notice some star bursting if I am purposefully paying attention but I suppose I am used to it now.  My longer healing might have something to do with the fact I work on a computer 8+ hours a day.
+
+While it really hurt like a bitch for the first 24-48 hours after, I would do it again.  I could never wear contacts due to them being so uncomfortable.
+I was able to stream the driver's in car cameras two years ago. They had about 9 different camera views going. Matching that with the radio was amazing!  Not sure if they still do that as I was at the race last year.
+Yeah, there aren't that many big planes that fly in and out of Indy regularly.  Many smaller regional jets. Typically the biggest you're gonna see commercial airline wise would be like an A319, A320, or some 737s.  More commonly you might see larger cargo jets for FedEx.
+Ah true.  Fires were absolutely terrifying. Those are the incidents that will haunt you.
+Ah true.  Fires were absolutely terrifying. Those are the incidents that will haunt you.
+Indeed. One of the most remarkable things was how long Mears drove at Indy without ever being involved in an accident.  That's quite impressive.
+Honestly I really wish I could do figure the button on my apple earbuds to mute instead of hang up. I'm constantly using mute for conference calls and it is super annoying to have to unlock my phone to unmute.  Otherwise I find myself disabling auto lock while on a longer call so I can quickly do it.
+Wow, I had no idea that wasn't the original image...  interesting!
+Ah gotcha, understandable.
+What about the commercial registry available from Docker? https://www.docker.com/products/docker-trusted-registry
+Or in this case - Nazis
+Yup, that scene = waterworks every time.
+I wish that there was also someone better than Dave "I'm no Tom Carnegie" Calabro on the PA at the track throughout the month of May. I think I'd almost rather listen to Guy Fieri...
+You should probably share your compose file as you can't have multiple volumes pointing to the same mount point.
+That karma isn't going to collect itself!
+Pretty sure the point was that he cleared the ball on the first one that didn't actually give him a save. If you watch, you'll see a player from the other team about to slam it on home if he hadn't cleared it.
+Jesus... this bullshit is why this town has a hard time really getting behind this team of ass clowns.  Learn to finish a fucking game for the love of all that is holy...
+Are you an elf?  How much maple syrup did you put on that?
+Yup, we took our pictures before the wedding ceremony so we didn't keep everyone waiting.  Had a wedding where we had to wait at the reception hall for over 3 hours before the wedding party showed up.  No drinks, no appetizers, just sitting around. It was then and there we decided we weren't going to be that couple.
+She still is a maintainer of Docker even though she is working at Mesosphere now.
+I haven't really used it all that much but after reading these comments I feel like I've really been missing out!  The problem with learning 3D Touch is not knowing the shortcuts that work ahead of time. I didn't even realize the keyboard could be used to move the cursor.  That's a game changer for me as I'm writing many emails from my phone.
+I feel like this would have been better if they just put a couple cookies down instead of this whole stack.
+Especially Washington Square.  I'd hardly call that place a mall these days.
+Yes, he does have one good eye.
+Or if you're using `systemd` and have the Docker distributed package installed instead of the often out of date package is shipped by most distributions: https://docs.docker.com/engine/admin/systemd/#http-proxy
+
+The Docker shipped package doesn't make use of the `/etc/sysconfig/docker` file as that is a very OS specific method of configuring things.  Using the standard configuration in a systemd drop-in file makes setting up the configuration options work the same on any OS with systemd.
+Thanks!
+You probably should have added an option for sometimes. I typically only use my case when I am traveling since it is the apple battery case.  It adds bulk so I only really use it when I need extra battery and the protection is nice.
+Yup, I'd keep an eye on the traffic through downtown and take 465 if it looks slow.  I live on the south side and often am headed to the airport for work travel around rush hour and I can't think of a time I've had trouble.  The Indy rush hour is really just about a rush hour; I'd say it's only really heavy maybe like 7:30-8:30 and even at that, it tends to still flow well.
+Exactly; we only did this during the summer months. Our product supplier had bags in 5 and 20 lbs that we could buy for a long time but we only started doing it when we started to get more and more requests and the owner got on board. We probably sold several hundred dollars worth of just ice on the big cookout type holidays.  We just kept a decent quality of bags in our walk in freezer so we didn't have to shovel them out every time and so we wouldn't run out of ice.
+Really?  It's the opposite here.
+Honestly I am not sure if this impacts you but I had intermittent issues with Samba shares after upgrading as well.  I found that I needed to add `server max protocol = NT1` to my `smb.conf`.  Complete list of values can be found here: https://www.samba.org/samba/docs/man/manpages/smb.conf.5.html#idp61929632
+
+In my case, the automatic negotiation would randomly work.
+with mint frosting
+For Google calendars, try going to https://calendar.google.com/calendar/syncselect?pli=1 and seeing if you can unselect those you don't want.  Not sure about the rest.
+Only if they pass the 15 question test, duh. I read it on Facebook.
+Oh wow, I had completely forgot about Juno.  Looking back, I remember how excited I was to find it because I was always running low on hours.
+Maternity wards do have quite a bit more security actually. You typically have to be escorted through or have a passcode for entry around here. I'm near a decent sized city but in the suburbs.
+If your internet connection is that slow, getting a hard line isn't going to help at all.  Your wireless is probably bored out of its mind because your internet is so slow.  The only thing that will make your internet faster is to get faster internet.  Anything else and you're just wasting money to be honest.  I mean, wireless running using 802.11b would almost max out your internet connection.
+In Docker Datacenter, the Universal Control Plane component uses Swarm for the orchestration of Docker workloads and it is designed to be able to run as an on premises or cloud based solution.  While you can actually do a hybrid cloud deployment where they are nodes in both, the performance suffers from the network latency across the internet.
+
+Swarm really has a very minimal footprint, specifically for the actual nodes that are in the cluster.  Resource utilization of the Swarm controllers (or managers, whatever you'd like to call them) can go up as the cluster gets to a fairly large state so that might be your resource constraint.  So swarm can run anywhere you have a Docker Engine, nothing special you need hardware wise.  Your workloads are going to be a much bigger resource constraint than swarm itself (for the nodes, that is).
+Yes.
+^ kill it with fire
+Do you really power off your Mac every day?
+Yes. It went 1.0 nearly two year ago in June 2014.
+But`--iptables=true` is the default; did you mean `--iptables=false`?
+Yup!  TV was on the other day while I was in the other room, did a double take since I heard the notorious HIMYM laugh track dude since I thought Friends was on.
+I feel like it would have to be something like eink to be able to do that. I bet the screen is one of the biggest battery drain sources.
+Seriously. I feel like I am reading an article from 2014...
+^^cough *bullshit* ^^cough 
+I use this: https://github.com/Neilpang/le
+
+He keeps it up to date with features and it's simple to script automatic tooling with it.
+Do you have a list of the apps you had installed previously?  Like the dpkg -l output?  That'd help install the apps if you don't know what they are. I'd still manually go through and figure out what files you really need if this is a one time deal.
+
+Stuff like your home directory should be pretty basic to drop back and all of your configs will be there.  Make sure ownership is set correctly in case UID and/or GID changed.
+That totally depends on what you need and what your goal is. Need to reinstall an app and it had a custom config?  There you go. If your goal is to start fresh, only restore what you need, as you need it.
+Rotating pictures is totally overrated.  I just looked like a derpy bird trying to view this sideways to determine whether or not this is a melt.
+While that's neat, who really cares about some arbitrary benchmark?  It's more about the user experience. For me, I could not care less if my iPhone was 10x slower in a benchmark. If my apps load fast, the interface is snappy, and my phone continues to just work, then I'm happy.  The numbers game is pretty silly.
+You'd need to update your /etc/apt/sources.list file where all wheezy references would need to be changed to jessie.  Then your commands would work.
+They mean work in fast food as in you'll be salting fries to make a living.
+Trying to navigate or select text now with 3D Touch is so terribly annoying. It never works how I expect it to because of some bullshit 2 second delay that was added in.
+It does but that doesn't help people who do not have a Mac.
+I see the same for PC right now.
+I totally agree. I use the official images on Docker Hub since the maintainers can do it better and faster than I can.  Not to mention they know the little tricks to keep images as small as possible. I doubt I can get a standard Debian image down to what they can.
+This is probably the one thing that I don't necessarily think has to be a requirement but is more of a personal preference for how you or your organization wants to standardize your Dockerfiles.  You can gain some caching benefits by making multilayer images though so that should be taken into consideration.
+Sure, that could be a different scenario. If you do not have the ability to recreate the image from scratch, that could be valid but is far from ideal. The problem you get is that you will end up with inflated images because you'll be storing copies of anything modified which is why you might be better off rolling your own base image if you really need updates that soon.  For example, the images on Docker Hub are actively tracked for CVEs and their resolution: https://github.com/docker-library/official-images/issues/1448
+Welcome to the RedHat FUD machine. This is nothing new, vulnerabilities have come out plenty of times and have been patched plenty of times. If you didn't take patching into consideration when you designed your container infrastructure, that's a gaping flaw regardless of where you get your images from or who updates them.  The real story here is that there isn't one. Another day, another vulnerability that needs to be patched and your containers redeployed.
+Pretty solid advice. I'd definitely stay away from sitting on the inside behind the pits. You can't see shit from there besides the pit stops.  Turns 1 and 4 are my favorite.
+The daemon uses the ephemeral ports available on your host:
+
+    $ cat /proc/sys/net/ipv4/ip_local_port_range
+    32768   61000
+
+You can modify them:
+
+    echo "49152 65535" > /proc/sys/net/ipv4/ip_local_port_range
+
+I found this documented here: http://www.ncftp.com/ncftpd/doc/misc/ephemeral_ports.html#Linux
+
+*edit:  Oh yeah, I probably should include the Docker docs that explains this as well... https://docs.docker.com/engine/userguide/networking/default_network/binding/
+Also not working in narwhal. Keeps coming back.
+Ah ok, that makes sense. It works on my iPhone 6s but not my iPad mini 2.
+Ah ok, I haven't used consul with multiple endpoints, only etcd.  That could be why.  Sorry about that!
+Hmm certainly seems like consul isn't listening on that interface or there is a firewall blocking the port for consul.  Might you be able to get the output of `sudo netstat -ltnp | grep 8500` to make sure?
+I wanted to point out that you can provide multiple options for the `cluster-store` daemon argument as comma separated values.  So if you have multiple consul servers, which you said you do, you can point your daemon to multiple.
+
+```
+--cluster-store=consul://localhost:8500,1.2.3.4:8500,3.4.5.6:8500
+```
+These option look alright to me and should work so it probably isn't your parameters.
+Can you show me the error you're getting now? It should be different because last time it was complaining about localhost connection refused.  I might be minor but important.
+
+Also, can you try to just do a basic curl from your host to make sure consul is responding properly?:
+```
+http://172.16.103.30:8500/v1/kv/docker/nodes?consistent=
+```
+
+You should get something like:
+```
+[{"CreateIndex":23,"ModifyIndex":23,"LockIndex":0,"Key":"docker/nodes","Flags":0,"Value":null}]
+```
+You can't use localhost:8500 in your swarm docker run command because localhost when ran inside of the container is the container itself and not the host. Use the host's IP address instead of localhost
+I've been using https://github.com/Neilpang/le which is based on basic curl/bash.  It supports DNS and has a pluggable DNS configuration capabilities.  I was able to create an easy AWS Route 53 plugin that works with it with the awscli tools and a bit of bash.  It's my favorite client so far.
+I found a link in a random thread where people had gone on a tangent. After playing with it for a couple minutes, I instantly bought the upgrade to remove ads. I just couldn't believe how quickly everything loads compared to AB. That and narwhal looks beautiful compared to AB. There are a few features I'd like to see but it sounds like you guys have a lot of those little tweaks I'm looking for in roadmap items from browsing posts with other feature requests. Either way, I'd take narwhal over AB in its current state any day!  Nice job all.
+I don't get it. Everyone hated the year they had to throw competition cautions every 20 laps for the Brickyard that one year they had severe tire issues.  That absolutely killed the race from an attendance standpoint from then on.
+Those are his happy feet. That usually means good things are about to happen...usually.
+Maybe you're sitting upside down.
+Gotta love it!  I spend more time than I'd like at the airport for work sometimes but if I have a call that is close to a flight, it's nice to know that I can just go early and use the wifi for video calls and screen sharing unlike the crap you get at most other airports.
+Hah, wow, I didn't catch that one to the side the first time. It looked like he was scared to spin it, just being happy the ball was down.
+Exactly. The ball can take a much more exaggerated trajectory because of contact with the laces since they don't flex the same way the ball does, pushing it further than it would otherwise.
+I can't believe the holder did it twice in one game, too!  He got lucky that first time but wow...
+http://i.imgur.com/RhnJ6fa.jpg
+Yup, that's exactly when I ditched AirMail and went native webmail with Goole via Fluid.
+It seems that especially since the 2004 season and the Malice at the Palace incident, Indy hasn't been really behind the Pacers like they use to in Reggie's prime.
+Indeed, welcome to the ghost town!  Mods too busy to give a shit apparently lol
+Right now, I would pick an OS that supports AUFS because of issues that I've seen with devicemapper, even when provisioned using direct-lvm (mostly space related but still very critical).  Overlay still has some bugs.  I've yet to have issues with AUFS and it's great for performance.  That means Ubuntu or Debian.
+If you're looking to do a registry with basic auth and SSL certs, you can do that all from the registry image itself. See https://docs.docker.com/registry/deploying/
+Really?  Fuck off.  This isn't the time or place for dumb bullshit like this.
+He's on the local Colts radio broadcast so he's definitely still around. Doubt he'd want to sign up to be killed though.
+Actually Pat McAfee is the emergency QB now that Griff Whalen is injured.
+It is up right now. They had the same graphic up before the game too.
+I don't know but unfortunately it doesn't matter since the Texans are up 17.
+Seriously. MORE GORE!!!
+But by staying down as long as he did, he gave himself up and the whistle blew (assuming he wasn't touched as well).  He should have jumped up right away instead of letting them blow it dead.
+Makin it look easy!
+It's ok. He has grit.
+Greg "I gargle goat balls" Toler everyone!  JFC he is terrible.
+Of course we can bring it when it is totally out our hands! Might be one week too late
+FRANK THE TANK!!!!!
+Nice scramble to get back open but he should have just gotten rid of it. Lucky that time.
+Don't get why they are reviewing it when there was a penalty...
+
+*edit: ah headsets.
+Amen.
+It's a Christmas miracle!  Untouched to the QB?  What team is this?!?!
+Aah too bad Matt didn't look Boom's way.  Still can't believe Pat was snubbed on a Pro Bowl spot.
+Really?  Do not upvote?  Do you not realize how Reddit works?
+This is Joe Pesci (Harry) in the picture. Daniel Stern (Marv) did the AMA.
+As if there is another version of him...lol
+Solo standard means you can't be in a party individuals only; Standard allows parties of players.
+More like he became Jar Jar
+Ah ok,likely unrelated then as docker stats should not include any of the docker-proxy stats.
+Is the docker-proxy process showing a great deal of memory usage for these containers?
+Great defense Toler.
+Buzzer beater haha
+LORD REEKUS!  GET THE WATER!
+Yup, I've been charging my iPhone overnight, every night for each one I've owned. Nothing serious in regards to battery degradation for any of them. I've kept each phone for 2 years which I think it a good sample length of ownership.  I'd rather have a full charge to start the day no matter what the results though.
+So did you win in OT?
+Whew!  That was a big conversion there!  Let's close this out boys!!
+Ah geez...we just needed some points out of that!
+Gotta make sure we capitalize on this!
+Too busy biting my nails!
+I blame Mike Fucking Pence. He is the biggest fucking toolbag we've ever had as governor.
+Just to troubleshoot, can you try to use --net=host to reuse the host networking stack instead of the port mapping?  Another thing to try is to specify the IP of your WLAN interface in the port mapping? -p 1.2.3.4:69:69/udp
+Honestly you will get the best performance and reliability when using an kernel that supports AUFS (Debian or Ubuntu).  Using the official docker apt repo will ensure you have the latest and greatest directly from Docker as well.  At some point, AUFS support will probably go away since it isn't in the upstream kernel but it works quite reliably for now.  If you want some more info on the different graph drivers and why they might be better or worse, check out https://jpetazzo.github.io/assets/2015-03-03-not-so-deep-dive-into-docker-storage-drivers.html
+
+If you do need to use devicemapper, don't use the default configuration as The default config out of the box is crap because you need to use a non-loopback device and there is no way docker can safely set that up for you. Configuring it to use direct-lvm performs much better: http://developerblog.redhat.com/2014/09/30/overview-storage-scalability-docker/
+I'm not sure how updates are breaking Docker containers.  At this point, I am seriously curious what broke and why because of an update.  You don't mean updates to the engine, do you?
+Correct, docker switched the default from LXC to libcontainer in docker 0.9.
+That's something that is known in overlay with Docker which is why it isn't the default.
+Sure, you might not be able to do it directly from docker itself but that doesn't mean it isn't totally possible to do so via other means.  I'm not sure if I've seen a PR that adds an engine option that would only disable Docker Hub.  I've seen other patch bomb like PRs previously though.
+Wow, did docker come and piss in your Cheerios?  I'd love to hear about this unreliability with nothing but FUD to back it up.
+Look into adding the argument `--userland-proxy=false` to your daemon to no longer need `docker-proxy`.
+If you can't even access the admin UI to upload a new license, delete the file `/usr/local/etc/dtr/license.json`and then do a restart: `sudo bash -c "$(sudo docker run docker/trusted-registry restart)"`
+
+That will get you back to an unlicensed state where you shouldn't have any problems getting your license applied.
+Yup, latency for all of these reasons.
+Adams going out seemed to be a defensive turning point, for sure.
+Not at all worthless.  If we didn't score, then the Broncos would have just needed a field goal to tie.  Putting 3 more on the board would have made them get a touchdown for the win.
+Wow...
+Seems that the general consensus is that most Colts fans still have a great deal of respect for him and will root for him as long as we aren't playing them.  Then again, there are others who just kept on riding the Manning bandwagon all the way to Denver.  Still love to see him succeed myself.
+Killer run by Luck, we got a favorable spot there!
+Seriously... are they deaf?
+Kinda shitty to see the Broncos take Gore to the ground like 5 seconds after the refs blow the god damned whistle...
+Indeed would be interesting to see.  I'm thinking that the results he put up at the end of the game Monday might have something to do with it.
+IN CHUD WE TRUST!
+Nice effort!
+Seen a lot of snaps for Griff on offense...
+I think we just flipped back to the original universe where the Colts were named Super Bowl favorites.  Looking strong!  So great to see the Colts come out ready to play.
+Oh shit - Adams down...
+Oh hey a stickied game thread...see you guys over there.
+Heh I was half kidding and you're right - he always seems to show up when we need some yards in those come from behind scenarios but holy shit does he scare me at times when he returning the ball.
+Short memory of this season from excessive drinking to cope like me, eh?
+Yes it does.
+Honestly I've never really thought the data container idea made tons of sense when I could just mount a volume wherever I wanted on my host. I definitely see docker volumes replacing data containers.
+Yeah I get it. Watched it happen so many times. Timeout, kicker misses but then punches it through. Just expected it...
+Yeah, I get it but every other fucking time...
+No timeout?  Really?
+PLEASE MISS!!!!  COME ON!!
+MISS IT!
+THANK YOU JACKSON!
+Oh jesus... I forgot about that guy lol
+wow
+I like the way you think!
+MONEY!
+Get the 3 and let our defense do their thing!!!!
+lol Gruden loves everyone so much...
+Let's put this together!  One. Last. Drive.
+SEE YA IN OT!!
+OH FUCK!
+Hey! They actually stopped the clock!  Christmas miracle!
+HOLY HELL!  Griff and Pat for MVP
+Smart play with the 1st down and out!  Come on boys! We have this!
+Come on clock bitch... YOU HAVE ONE FUCKING JOB TO DO!
+GRIFF AGAIN!!!
+DAMN IT!  ALMOST HAD IT TY!
+STANDS!!!
+That's what I am afraid of :/
+OMG Griff!
+holy shit.  here we go!
+I think that was a "Ref you suck"
+Just add a voice box full of feel good motivational speeches one might give to the worst team in a peewee league at the trophy ceremony and you've nailed it.
+Seriously? Luck is back out there?!?!
+THEY MISSED THE EXTRA POINT!  THE DOOR IS WIDE OPEN NOW BOYS!
+Are you fucking kidding me...
+Woooo!!! Thank you football gods!
+Might as well throw on a proactive mute then lol
+Yes.
+No, It is a fucking terrible challenge.  What do they think dislodged the ball???
+That ball was stupidly far behind him. He's not going to make that turn around like a WR especially on a wet field.
+I pretty much do the same thing but with a small twist since I also use swarm frequently:
+
+	dm_env() {
+	  if [ "${1}" = "--swarm" ]; then
+	    eval "$(docker-machine env --swarm ${2})"
+	  elif [ "${1}" = "" ]; then
+	    eval "$(docker-machine env -u)"
+	  else
+	    eval "$(docker-machine env ${1})"
+	  fi
+	}
+
+This allows me to provide `--swarm` as an argument and just `dm_env` to unset the environment variables.
+Ugh, exactly this.  Every. Damn. Time.
+No clue what this other dude is talking about since McAfee kicks off but I'm assuming you're talking about the one earlier in the game. Montcrief recovered the onside kick but the idiot refs called NE ball, we challenged the ruling and despite video evidence where you can see Montcrief recover the ball, especially you can plainly see where blue gloves have the ball, they didn't overturn it.
+Have you tried using the local ip of the b2d instance? You can see it using docker-machine ls and reading the IP or by docker-machine ip <instance-name> and it'll tell you the IP. You'd use that instead of localhost. I haven't tried it myself but it ought to work unless it relies on it being called localhost.
+Toolbox just used docker-machine now with the same boot2docker ISO do if it works on b2d, it should still work with Toolbox.
+Your service inside the container bound to the container's IP address it seems.  What are you running in the container?  Can you hit the service using curl from an exec bash process inside the container?  If so, my suspicion is correct.
+I ran into this 3 matches this morning after refusing to forfeit.  Boy was that frustrating.
+You can always save the reply after the match since it's built in.
+Did you bring me a monkey?
+Take a look at synae's post. That is how I do it but just in script in Jenkins (or whatever CI system you have)
+I'm not sure I've really run into an instance for the vast majority of people to actually need to run Docker in Docker. In most cases, including this, I just don't see it as being necessary to achieve what OP wants to do.
+Sure you can use a volume in your CI to use Docker containers for disposable build environments.  I run Jenkins in Docker and then run the software build in a container.  Using the volume, just have a directory in your workspace where your binary ends up and use a second command as a part of the same job for simplicity sake to build a new slim image that has your binary.
+
+Let me know if you need more info and I can throw together a more concrete example.
+Mistakes happen, fixes are issued.  I'm fairly surprised how few major breaking changes have been introduced in Docker.  I've been making sure to run the docker packages from the testing repo to try to identify RC bugs and unexpected behavior before a new version is shipped as backwards compatibility is taken quite seriously across the board.  The code base is pretty large at this point and there have already been steps to make it more modular with libcontainer, libnetwork, and libstorage.  I'm hoping that limiting the scope of the core of docker can help prevent issues like you've mentioned, including making it easier to review PRs as that can be a full time job for a whole team of people and still not make a huge dent in things.
+Ah you're right. I wasn't sure if the boot2docker binary was still being installed; I just didn't read far enough.
+Machine will replace boot2docker in the future at some point; just not quite yet though.
+Yup, Booz Allen talked about their contract with the government to build an open design platform built around Docker during the day 2 keynote. There are tons of other enterprises interested in these features, that's for sure.
+closed; won't fix
+Might have something to do with your delivery.  ALL CAPS never seems to go over well.
+Yup, it sounds like the intermediate certificate is missing from the bundle.  I posted above as well but that's the behavior I've seen when the trust chain can't be completed.
+> -e REGISTRY_HTTP_TLS_CERTIFICATE=/certs/wildcard_2015.crt
+
+This certificate should contain the intermediate and server certificates concatenated together as a bundle.  The [docs](https://github.com/docker/distribution/blob/master/docs/deploying.md) mention:
+
+"You then configure the registry to use your certificate bundle by providing the REGISTRY_HTTP_TLS_CERTIFICATE environment variable."
+
+I believe this should be the server certificate on top and any intermediates (in correct order) after.  The problem is that your docker engines are not able to verify the complete chain of trust as they should have the CA certificates installed from the OS but they likely do not have the intermediate certificates and the certificate you specified should have the public server certificate.  Once it works, you should be able to use curl to verify that the complete chain works as expected, returning a HTTP code of 200 similar to this:
+
+    $ curl -I https://<v2-registry-fqdn>/v2/
+    HTTP/1.1 200 OK
+    Content-Length: 2
+    Content-Type: application/json; charset=utf-8
+    Docker-Distribution-Api-Version: registry/2.0
+    Date: Mon, 03 Aug 2015 23:29:29 GMT
+Isn't it just for the first 30 minutes?
+I'd agree, try both, see what works. I've done both methods myself and really it is just a matter of what works best for you as I don't see there being one method that is preferred over another, as long as it works for you.
+Well docker machine is going to be replacing boot2docker soon actually.  The next gen b2d is in the works and it will only use machine.
+There is a discussion going on now about how that should be handled. The proposal is pretty detailed but I think the targeted release might even be Docker 1.9.
+Here is an example using an entrypoint where I perform some checks before running an application:  https://github.com/mbentley/docker-ec2tools
+
+Instead of running checks, you can perform whatever task you need (i.e. - set the root password) when it launches the container.  So then you could do something like `docker run -d -e ROOT_PASS="mypassword" myimagename`
+
+To build on that, take the example ssh service shown here to start from:
+
+http://beta-docs.docker.io/v1.6/examples/running_ssh_service/
+
+Instead of having `RUN echo 'root:screencast' | chpasswd` in the build, that would be what is being executed in your entrypoint script; something like `echo "root:${ROOT_PASS}" | chpasswd`.  Make that entrypoint script the entrypoint and after it runs the entrypoint script, `exec "${@}"` will execute what is shown in the CMD in the Dockerfile.  Let me know if you need further examples.
+Build your standard docker image from your Dockerfile but add an entrypoint shell script that sets the password based off an environment variable you provide at run time. Have the shell script then exec whatever command you want the container to run (I am assuming ssh). Then you can reuse the same container for every time you run it.
+If they were trying to pull over speeders, it was absolutely fucking useless a bit after 6. They successfully slowed traffic to a crawl for miles...
+It is because Red Hat does not support docker on RHEL 6: https://access.redhat.com/solutions/1378023
+
+In specific, it is buggy devicemapper issues that have caused problems. Docker on RHEL 6 is best effort but no guaranteed support from Red Hat or Docker. 
+Not yet in a publicly consumable way but it will. Linux containers on Linux, Windows containers on Windows.
+That is because login on startssl.com uses client certificates and you are apparently not providing one through your browser.
+Another idea is to set an environment variable using `ENV` to invalidate the cache.  It adds a layer but works:
+
+```
+ENV cachebust-1434316717
+```
+
+In this case, I just set the number of be Unix epoch time.
+It might not help that you are using RedHat's version of the docker binary. They have added patches so it acts differently than the binaries shipped by Docker.  With the release of 1.7, there will be a repo to install from.  I'd strongly suggest ditching their package in the future or even just replace their binary with one you can pull down today, just to test.  It is just a single binary to pull down to see if it just works.
+The panel above the CD-ROM folds down and there should be two disk drives: a 3.5" and a 5.25".  I had one of those back in the day.
+This has to be my favorite performance of all time.  Gonna have to watch it again just because :)
+While probably not a really popular idea if you're not willing to walk a few miles, I've parked at Lafayette Square Mall and walked to the track a hand full of times.
+
+Easy in - just park and then walk to the track.  No traffic to worry about at all.
+
+Easy out - By the time you walk back and since you're further from the track, you can just jump on to the main road where traffic is flowing away from the track.
+One of my favorite places to sit where you can actually get tickets pretty easily is in turn 4.  NW Vista is great but Stand J or even on the northern most part of Stand H aren't too bad.  I prefer about half way up the stands or higher to get the best view.
+
+I love that you can see turn 3, turn 4, the entire front stretch and into turn 1.  I have to say that I am quite impressed with the new video boards as well.  Great visibility from pretty much any seat.
+Thanks for confirming that!  I was hoping that would be the case but wasn't sure.
+I was impressed with Rugg's play last night.  It seemed like he was really making opportunities happen whenever had had the ball.
+I have a friend looking for a BYB section ticket...
+Well he didn't say it was because of the rear wing. He was just comparing it to the rear wing on stock cars when they went with the "ricer wing".
+
+I don't know about the history of the underbody and what might have changed between last year but I'm guessing the tunnels at the rear are different/new and aren't helping the cars stay on the ground when they get turned around.  They way both cars hit, they are just naturally lifting up a bit due to their momentum and then the aerodynamics take over once air is really able to get under the car.
+Sounds you like did not clone the repo or try to pull it down as raw text and instead got the html of a page.
+Ah gotcha.  The post initially made me think machine 0.3.0 had been released upon first reading it.  Thanks!
+Not sure why exactly this was linked to as machine 0.3.0 isn't out yet as this is just in ehazlett's fork.
+Ah, a classic case of gamer's thumb.
+If that is the case, then it is an incorrect configuration of sudo or it not being installed.
+https://gifsound.com/?gfycat=ScarceDeadAegeancat&v=siwpn14IE7E
+Also take a look to the cluster fuck of a mess Pence has caused in education in Indiana.  He is like a tornado fucking everything up he touches...
+As to why you are getting that error, you need to load your environment variable to tell docker where your docker daemon is running.  See here for more info:  https://docs.docker.com/installation/mac/#from-your-command-line
+No...
+When I am looking for Dockerfiles, I just check out the links from Docker Hub myself.  Some of the images might be a little odd (like swarm) but that is because they are statically compiling it in go and pushing an super minimalistic image (basically just the binary) that comes to a beastly 7.19 MB.  Two step docker builds should be able to solve this in the future but this is how it has to work at the moment.
+Most of these images are maintained by the creators of the software in cooperation with Docker.  Also in terms of these being official, security review is done on these images before they are pushed to the hub.  They're also reviewed to ensure they are following Docker best practices.  Either way, there are partnerships in place to ensure that these images are appropriate for each application/service/whatever.  Typically, a repository is built by the team that creates the software, they notify Docker, Docker reviews it for Docker related tweaks and security concerns, and then it can then become an official image.
+The links to the Dockerfiles are on the repository's information page that you linked to:  https://registry.hub.docker.com/_/postgres/.  They're on the top under 'Supported tags and respective Dockerfile links'.
+
+No, there isn't an environment variable to provides the host IP.  You could certainly get the Host IP through some logic and pass it in yourself as an environment variable though.
+Docker will never replace virtual machines. By design, that is not the intent.  It is made to be able to build, ship, and run applications anywhere. Sure there are system requirements so anywhere isn't exactly anywhere but I think you get the idea. Any modern Linux OS has the capabilities to support docker containers.
+
+Reasons I use docker are things such as speed. Docker containers are instant in terms of running an image. If designed properly, builds are very fast as well, especially when rebuilding images.  I love that I can essentially get a throwaway system that I can mess around in and break things if I need to. I can ditch that container and start back from a known good state.
+
+Speaking of known good state, using docker for compiling/building applications through CI is amazing.  I get a clean build container every smile time. Builds are totally reproducible no matter where they run and I get more consistency in my build processes. I can provide developers with the exact same build image that is used in CI on their local workstations so there aren't surprises when they commit their code and have CI build and then deploy their app.
+
+Really, you don't even need to ship your code in containers if you're not ready for that. Using docker just in CI is a huge win even if you extract your artifacts and push them out in more traditional methods.
+At least Microsoft is trying to change that as of late.
+I think the reasons you said plus a solid mobile client answers that well.  I've been using slack since early 2014 and it just works and is dead simple to get powerful integrations.
+I was just coming here to say this.  I'd expect an upgrade through iTunes will just work.  Who knows what it could be causing the OTA upgrade to not work properly...
+You don't want to use your container IP.  If you use ports, they will map to your docker host's IP address.
+For a second there, I thought you were Kenny Fucking Powers in that second picture.
+To expand on this, if you want to publish the ports to specific ports on your host: 
+
+	mainDb:
+	  image: postgres
+	  ports:
+	   - 5432:5432
+	statDb:
+	  image: postgres
+	  ports:
+	   - 5433:5432
+
+
+You can also specify the PostgreSQL port to have Docker map it to a random host port:
+
+	mainDb:
+	  image: postgres
+	  ports:
+	   - 5432
+	statDb:
+	  image: postgres
+	  ports:
+	   - 5432
+
+And from there, you can find the port it is being mapped to on your host by using `docker-compose port mainDb 5432` and `docker-compose port statDb 5432`.
+Must be going for the Shatner pause...
+See https://github.com/docker/docker/pull/10745.  It has full details on why just using a volume doesn't work.
+Yes, when a PR is hopefully merged, the `--privileged` option will not be required in order to get access to devices so `/dev/snd` will be able to be shared directly.
+Sure, it might not be a complete security sandbox but it does provide some basic protection from a fair amount of malicious crap that can come across a web browser.  If a container gets impacted, it would most likely just be something in the file system so removing the container and starting a new one does provide *some* isolation.  To me, some isolation > no isolation.  You just have to realize that the point of running apps in Docker isn't for security isolation.  Some isolation is essentially a side effect.
+That's using pulseaudio which can be passed over TCP so that is how it is handling the audio.  It's also using ssh forwarding instead of using X11 on the host.  There are benefits to both methods but it depends on what you are trying to do in terms of sandboxing.  Utilizing your host's X11 opens up potential system access to Chrome and whatever is running in your Chrome container but on the flip side, you're using ssh tunneling into a container which always feels icky to me any time ssh is being used in a container in some sort of workaround fashion.
+
+I like what Jess is doing here as it is ready to take advantage of some new features that will hopefully make this a much cleaner process (not needing the wider privileges to be opened up) and it doesn't require installing anything extra on the host w/additional configuration to get it working.  For me, that is always going to be a win over having to install stuff on my host as I am super picky about keeping my hosts as clean as possible.
+I'm guessing it is to get sound in/out of the container.
+Nice!  I just took the bit with `perl` from something I found online.
+I see that I am not the only who who likes to see git info in my prompt.  I actually just wrote this the other day so I am sure there are many inefficiencies all over the place and some tweaks that make it work on OS X and Linux so I apologize for the ugly in advance:
+
+	function git_branch() {
+	  git_branch=$(git branch --no-color 2>/dev/null | grep \* | sed 's/* //')
+
+	  if [ $git_branch ]
+	  then
+	    white="\001\033[0;37m\002"
+	    yellow="\001\033[0;33m\002"
+	    blue="\001\033[0;34m\002"
+	    red="\001\033[0;31m\002"
+
+	    git_status=$(git status --porcelain 2>/dev/null)
+	    git_count_t=$(for i in "$git_status"; do echo "$i"; done | grep -v '^?? ' | sed '/^$/d' | wc -l | sed "s/ //g")
+	    git_count_color_t=$(if [ $git_count_t = "0" ]; then echo -e "$blue"; else echo -e "$red"; fi)
+	    git_count_ut=$(for i in "$git_status"; do echo "$i"; done | grep '^?? ' | sed '/^$/d' | wc -l | sed "s/ //g")
+	    git_count_color_ut=$(if [ $git_count_ut = "0" ]; then echo -e "$blue"; else echo -e "$red"; fi)
+
+	    echo -e "$white:$yellow${git_branch}$white:$git_count_color_t${git_count_t}$white:$git_count_color_ut${git_count_ut}"
+	  fi
+	}
+
+	short_pwd() {
+	  cwd=$(pwd | sed "s#${HOME}#~#g" | perl -F/ -ane 'print join( "/", map { $i++ < @F - 1 ?  substr $_,0,1 : $_ } @F)')
+	  echo -n $cwd
+	}
+
+	set_bash_prompt() {
+	  if [ "$UID" = 0 ]; then
+	    #root
+	    PS1="\[\033[0;31m\]\u\[\033[0;37m\]@\h\[\033[1;37m\] \[\033[0;31m\]\$(short_pwd)\$(git_branch)\[\033[0;36m\]# \[\033[0m\]"
+	  else
+	    #non-root
+	    PS1="\[\033[0;32m\]\u\[\033[0;37m\]@\h\[\033[1;37m\] \[\033[0;32m\]\$(short_pwd)\$(git_branch)\[\033[0;36m\]$ \[\033[0m\]"
+	  fi
+	}
+
+	set_bash_prompt
+
+...and here is what it looks like >> http://i.imgur.com/p4oyS5Q.png
+Just run this fixed command then:
+
+    sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.discoveryd.plist && sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.discoveryd.plist
+While Vagrant certainly has a place, I'd personally prefer to use docker machine (https://github.com/docker/machine) to create a boot2docker VM on VirtualBox if all I need is a docker host to work on.  I can certainly see the benefits if using Vagrant if you're needing to utilize packages outside of Docker on the Docker host since boot2docker is based on tinycore.
+Seriously, this was a huge dick move for a buggy upgrade and a UI that looks worse than v1. I've since moved to using FluidApp to create a dedicated app browser window for my Gmail and I am looking to switch to the default mail app for my Exchange account.
+Nice! I'll have to take those for a spin soon.
+I used this a few weeks ago and it worked perfectly right out of the box.  Awesome experience with minimal work required on my end.
+haha that's a good one.
+If this was me, it would be easy to tell that I was doing something besides taking notes because my laptop would be attempting to engage hover mode to keep cool.
+Sure, it says that it isn't treating docker containers as a VM but when you look at it, it leans toward being a VM more than it does just running a single process - either way, running init in a container isn't what Docker is being designed to do at the present time and there is potential for certain things with an init system in Docker to work as expected.
+
+There are plenty of instances that running a single process works just fine; but I will most certainly agree that there are processes that do not run well in Docker with the "one process per container" model because of how they are designed.  However, I prefer to keep any Docker images as lightweight as possible and that includes not running init and syslog where it isn't necessary.
+I would just like to point out that Docker isn't intended to be a VM to anyone who isn't aware. It is designed to be lightweight, ideally run a single process, and for the containers to be disposable/stateless.  With that being said, these images are interesting from the point of what is possible in Docker but really isn't an intended use.
+Totally fine as long as you make sure to ground yourself before touching components.
+Yeah, the benefits were great for us.  We were able to allow the developers to do what they needed to do without needing to learn anything additional about Docker or how to make the entire application stack work from the ground up.
+Personally, I have used Vagrant to spin up a development environment where developers can have their applications compiled and dockerized so that they can run the entire application stack on their local system using a VM no matter what host OS they are using.  This gives me the consistency for each developer.
+
+I also used a wrapper script around Vagrant to help make it easier for the developers to perform functions; it was based on this >> https://github.com/relateiq/docker_public.  I added some specific features around the application to perform the compilation and dockerization as well as taking care of loading data into PostgreSQL, etc.
+
+It really turned out to be a great and very consistent setup no matter than platform a developer was using.
+Same here but it is my skin that has a very slight yellowing instead of anything really noticeable with my eyes. 
+Definitely.  I would either pull my code down natively in the Linux VM or if that wasn't an option, I'd use a shared folder in VirtualBox if the code had to be on a Windows host machine.

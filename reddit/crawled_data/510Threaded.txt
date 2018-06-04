@@ -1,0 +1,1495 @@
+And rush
+I prefer Ragatha
+no, you do still have to change /flash/config/go  to  
+
+    /usr/local/sbin/zenstates --c6-disable
+    /usr/local/sbin/emhttp &
+You only have to do this if your are getting the iPXE boot issue
+The rom bar is the Base Address Register for the ROM of the device. Setting it to off removed the virtio's network option ROM and it allowed the VM's bios to skip the setup and loading of the ROM which also disables the iPXE boot.  
+
+[Here is where I have it](https://imgur.com/YcEyYxI)  
+My nic is only a 2 port one though
+Something that I had to do with my pfsense VM was add "<rom bar="off">" in the xml for each of the passed through ports else it would have tried to do an ipxe boot on each one.
+Why i saved it for last :)
+Completely forgot why Blizz's ISP got DDoSed...i 'member now
+Plus a Pi would let you use a higher level language (python, c# (dotnet core or mono)) that you are comfortable in instead of the Arduino IDE
+Ain't nobody going to mess with my metrics
+The Earth King has invited you to /r/LakeLaogai.
+A raspberry pi could work too if it's connected to your network.  
+
+What you could do is have the pi poll Tautulli every few seconds or even every second and if a remote steam is active, set a GPIO pin to high, if not, low. That way you could have it anywhere in your house and not tied to your server.
+Still rocking my Huawei Watch with the 400
+Good guy witness
+Ladies and gentlemen, the Pharaoh suddenly died.
+It's also like it's a preview...
+The settings dark mode looks good, could use a true black mode though
+And TitaniumBackup
+> Luna looked right pissed that Celestia did that  
+
+[Agreed](https://imgur.com/3vyjtsl)
+i kinda felt Jimmy's pain when he got hit
+Yeah, that's when ghosting the hit comes in
+Fair point
+Its more on the premise of being a respectful human being.  
+
+I do not vape in public, unless i am in my car, or when I am in a vape shop.
+Hand checks galore in that sub.  
+
+/r/electronic_cigarette is the sub for reviews, advocacy, questions, etc. Hand checks are not allowed unless its in the Weekly Pics Thread.
+I had a similar thing happen to me but it was just 1 transaction.  
+
+Over a year ago on a Friday night I got an email from Blizzard saying my WoW sub failed to renew. I immediately checked my CU account and noticed a $400 charge from a Chase bank in Illinois (I live in a different state and I don't use Chase for anything). I then called my credit unions emergency number and had my card (debit) canceled.  
+
+The next day as soon as I woke up, I drove to the credit union and signed a fraud charge agreement and they told me that if the charge goes through (if was too late for the charge to be denied) I would get a credit reimbursement while the investigation was ongoing (only had like $110 in my checking account so the charge pulled 300 from savings (i then turned off overdraft protection)). Charge went through and about 2 hours later, i got the reimbursement.  
+
+
+After seeing the charge on my account on Friday, I immediately changed all passwords that I used and setup my account to notify me of ALL authorization and posts.
+He will find a way
+Nope, because Apple
+Disable C States in the bios
+Paladin instantly respawned....sounds about right
+I honestly don't miss my jack.  
+Would it have been nice, hell yeah.
+next 5 expansions. 3 per year
+5' 7" with rice you mean
+Nothing, its up to the user how the content gets there. Same with Kodi
+[and it never stops coming](https://imgur.com/3O2sDmx)
+[Look before you repost](https://imgur.com/3O2sDmx)
+Correct, Chat is not an app, but the framework for RCS (iirc)
+nick nick nick nick nick nick nick
+I remember how that ending goes  
+
+ AND DIE....
+I keep trying Emby but I can't get past the crappy UI and the media detection isn't nearly as fast as Plex
+As with lotion and Kleenex as well
+code probably got skimmed by a bot
+Yep, all of the arrs are in C# (Mono and I think one of them is .net core)
+Before /u/abdada posts  
+
+##TOP
+Woo, mission complete
+0!
+That's going to be fun. I upgraded my server to an 8700 at the same time I got the expander
+Ahh, i have an LSI 9211-8i flashed to IT mode with 2 mini sas connectors with 2 mini-sas to 4 sata splitter
+Def a sas expander. Recently installed one in my server and it's awesome
+Shit...I have been doing it this way without common core shit
+Are you able to add a PCI NIC to your server?
+A file extension is just a way for a computer to figure out what a file is without having to open it. This also let's the computer open the file with a program associated with opening that file.
+Damnit, and I just started my rewatch of Brotherhood
+Agreed, do the same for alltheflavors, ELR and steam-engine
+Always start in Greenland
+Welcome bear greets you with a hug
+And subbed
+Nope
+[1 of the 10000](https://xkcd.com/1053/)
+Oh yeah,they are very consistent. In fact I just placed an order with them yesterday :P
+> without js  
+
+The exciting part
+i'm not sure you know the male anatomy...
+Eciggity is my go to place for mods and attys
+Shut your fucking face, Uncle Fucker
+The data was porn, the most important of data
+Didn't expect that in Bethany
+I can think of a few school districts, but i do not remember this happening around my home town.
+Highly unlikely
+Nope, legacy software requires the AS/400
+0 issues with my 4TB IronWolfs
+I had to write an extractor program that queried data from our AS/400 into a text file for each table (multi-GB files). Then i created a program that programmically creates an SSIS package from a template, makes all the changes to map the Balanced Data Distributor component to the right table and it's column mappings from those files and then execute it in memory......I never want to touch that project again
+\> $1
+I have used Dirty Unicorns (would be on it now, but there is a Project Fi eSIM bug) and it is awesome
+If it went a little bit slower to give the liquid time to move to the bottom and not stick to the sides of the bottle, then it would be fine
+Sounds good
+I can help you with that....
+Get that furball some sand to roll in
+I hate 80+ days honestly. Give me anywhere between 45-65 and ill be set
+That is fair, and another idea is to not add the Shudder's BC effects to the battle cry list for the next Shudder
+Congratulations on over 2 weeks smoke-free!  
+
+The main thing is that they have to want to quit smoking. The right mindset is required to quit using almost any method.
+and? I have not played ranked lately
+I have tried that with docker compose
+The drives do not really need to be precleared. A simple format is good.  
+
+If the drives are brand new, then a preclear would be useful.  
+
+What OP can do is get 1 large drive to act as a holding drive. Transfer all data from 1 drive to the holding drive, add the drive to unRAID and format it then add the data from the holding drive and repeat. The holding drive can now be your parity drive when finished.
+If you go over 30 disks in your array, you dont want to use unRAID and should move to a proper RAID setup
+Whats the file system on the disks?  
+
+You have mix and matched disks and if you want an easy solution, then try out unRAID. It is well worth the one time purchase.
+It releases on my lunch :P
+Greetings, friend
+Also called an omnibus bill
+ROMs are available
+Oh lol, mine is just Tardis
+Its down to channel 1. Channel 11 looked busy
+Lemme guess, lucky guess that it defaulted to 8?
+shit...how did u know that was my 2.4 SSID......  
+
+and holy shit it is on channel 8
+Thats when my SSID would mess with people....Tardis
+Infamous is so close! Can't wait
+I'd call it a pre-veal
+I like you....  
+
+plays [[Glacial Chasm]]
+Only activate HH if he has lifelink (usually from [[Basilisk Collar]]
+You said in the OP that you were running it in a docker container
+I just run LibreElec in a VM and pass through my GPU that is connected to my TV
+Same
+That's what they want...
+Butt fucking is something I can get behind of
+The widget the Project Fi app has is really useful too   
+
+https://imgur.com/U9T4Rw6
+Thanks for the heads up Kelly!
+Use it for my work's VPN, agreed
+sigh.....subbed
+The only good things that are on the front page from our state are the DOT Signs
+Got out of here, Harrison Jones
+The legion launch was very smooth (besides the DDoS attacks on the ISP that Blizzard uses)
+I don't do windows VMs and it was the only GPU in the system
+I pass through my GTX 760ti to a VM without having to do a ROM dump. Was able to on my 8320e and can still do it on my 8700
+*hint hint*
+RIGBY
+...why have i never heard of this
+The ability to write to NFC tags is not new. Its been around since at least 2012 (had the Nexus 4)
+Flair checks out
+Change your work location
+Don't worry, the key is safe with me
+May I seek an audience with the Earth King? I hear the greatest tea maker in all of Ba Sing Se was once invited!  
+
+Edit: snuck in while disguised as a waiter
+/u/PersonalityInsights 510Threaded
+Probably to gauge the general public's response (I.e not us). I'll personally be buying like 5 of them and a few beefy 5 layers a few times each week. But that's just me.
+Honestly the sauce makes that entire taco
+Could those please swap....i'm in OKC :(
+Never in Oklahoma :(
+....yet
+Hold the power button and press and release the up volume rocker on the No Command screen
+Laptop
+Wonder if my band director is in it...a trombonist
+Prevents code scappers
+That moment when you spend more on RAM than anything else in the system.  
+
+Damn impressive and jealous
+same, got mine too
+Bingo. It will be tracked down to the call to Hooli from PP location
+Before that
+[Closest I could find](http://www.icd10data.com/ICD10CM/Codes/V00-Y99/W50-W64/W61-/W61.52XA)
+I feel there is a power metal song about this encounter
+...it was added to the Spotify playlist
+It will probably end the same way as Richard's girlfriend did
+You were not buying a year of game time at that moment, you were signing a contract saying you will keep your WoW subscription active for 1 year. You still paid your normal WoW sub/billing plan
+Guess it draws it's power from what it's measuring?
+We are the list
+And when DJLsb goes into detail on something, he goes into detail. One of the reasons why I like his channel a lot
+And he doesn't take criticism well about his products
+LG G3 -> S6 Edge  
+I hated the s6 so much after a few weeks
+Dirty Unicorns  
+Waiting for the release build (not RC) for my Pixel 2 XL
+[Source](https://us.battle.net/forums/en/wow/topic/20762186570)
+...I hate you
+RIP my sleep....time to read
+Vapes so well too in my pulse 22z also I didn't use paperclips :P
+[How's this?](https://www.reddit.com/r/Coilporn/comments/88okir/tricore_fused_clapton_3x26g_w40g_wrap_019_ohm)
+Might try that, thanks
+yeah, i can never keep mine flat. It still vapes really good though
+Ain't got a macro lens :(
+Probably made someone really happy or gave them a new fetish
+100
+Same here in OKC except with TMobile instead of Sprint
+that might backfire on them
+As a fellow OKC resident, I agree
+OP is now deaf
+How's it's pgp encryption when compared it to something like Secure Blackbox?
+Yet
+[I have no issue and i'm on the latest update](https://imgur.com/a/068ml)  
+My nav bar buttons are at 0% opacity btw (fuck yeah Dirty Unicorns ROM)  
+
+No chromecast in my place
+This reminds me to really thank my mother for her amazing credit guidance she gave me. 21 years old and at about 735 (she is in the 840s)
+As a programmer analyst in healthcare, I hate the yearly HIPAA reviews.
+.16 you mean?  
+Looking good btw
+That is exactly the box my drives came in from Amazon last Friday
+I'd try horse
+Dang, all good
+I got mine last Friday in padded boxes
+I just meant the talking, quiet and short. But then again, panic attack
+i know a kid...
+only bought about 2100 pizzas, id call that a success....and a feast
+Is it just me or did Richard start talking like Peter Gregory at the end?
+they know the future....
+you want /r/SiliconValleyHBO/
+how is the IOMMU grouping on that motherboard?  
+Would it allow the passing of a GPU to a VM easily?
+Can confirm, me and my friend have it and it fits my XL 2 and his 6P with ease
+It does, I'll probably be ordering soon but I am moving at the beginning of next month
+Or i might have /u/Analog-Dan commission one for me since I listed one of his creations exactly :P  
+
+oh wait: http://analogboxmods.ca/Box-Mod-Kits/DNA75-Squonk-Kit
+Were they made just for the CM?  
+
+Thinking of making a mod:  
+Single 20700  
+Squonking  
+75c
+
+Just don't know which enclosure to use
+where can i get the holder and brackets?
+even duckdns has an api to update your TXT record
+I'm in IT and we do both
+Eciggity has it for 54.99
+I did not mean your as in referring to you, but a your as a in referring to the owners and admins of Reddit.  
+
+I am not okay with the sudden policy change, and it needs more explanations as to why it occured.
+Your idea of okay goes down when $$ is involved
+Because politics and public image
+Tell the news the Reddit has a /r/cocaine...wonder what will happen
+How the fuck is that still around
+I think it was  
+>that ass
+Ahh, I do not have that
+She's 13
+Currently at:  
+1x 4TB SG Ironwolf (parity)  
+1x 4TB SG Ironwolf (rest are array)  
+2x 2TB SG barracuda  
+1x 120GB Kingston SSDNow (cache)  
+Total Array: 8TB  
+
+
+But tomorrow, I will be upgrading to:  
+1x 4TB SG Ironwolf (parity)  
+4x 4TB SG Ironwolf (array)  
+1x 120GB Kingston SSDNow (Unassigned for VMs)  
+1x 250gb 960 Evo PCIe NVMe M.2 (cache)  
+Total Array: 16TB  
+
+
+I have had 0 issues with my Seagate drives
+explain
+Interesting, my body naturally produces a higher than average number of platelets.
+3mg of utter BS....oh wait  
+/s tis a joke
+Fusion summon only
+Can only be casted from hand. I.e no cheating out
+Can not be recruited, resurrected, or Barnesed.
+Yep, I'm moving at the beginning of the month in April
+Adaway on my phone and PiHole as my DNS server....   What ads?
+Damnit Garrison
+What's the current price of a 1070 FE?
+I paid 205 :(
+I have 2 R5s and I put the 5 bay cage that came with the one I am using for my main computer into my server for a total of 10 or 13 drive spots
+Ahh, I like my name's short and to the point
+If each one still have SRVR then can't you just do PLEX01 and WEB01?
+Yeah, high-water
+Your disks are probably set to ~~waterfall~~ high-water fill, when disk 5 gets 70% filled, it will start on disk 6
+Oh right, I'm on Dirty Unicorns and it uses a custom kernel (still Safety net passing surprisingly)
+nope, didnt fix it.
+hmm, maybe that is my issue, thanks
+How did you get viper working? I keep getting an IO error
+I can't remember much from that class
+Ahh, I understand now.
+I still got a little bit before my quarterly TLA rewatch
+It's easier to give someone a bulletproof vest than it is to change live rounds with blanks and back again.  
+
+Basically it's easier to not let the sperm have anything to bind to (no ovulation or thicker mucus on the cervix), than it is to remove the sperm from the semen temporarily.  
+
+Honestly, i would take them too. I don't want kids.
+It's not as detailed as discrete structures is
+Fuck that shit, I somehow got into that class and it required having done calc 2.....I have not even started calc 1....barely passed
+/kneel
+I'm at 25 GB of songs on my phone and I listen to reach one. Entire thing is on shuffle
+True
+Watched it when I was 6 or 7 I think......so many nightmares
+I got mine... It didn't last long
+The question is then, how did the Gene chip get into Tony's pulse 80w?
+So there goes a lot of reviewers then
+Mine actually returned it (her dad dropped it off while I was at work).... Have not worn it since
+[I only have 1 response](https://www.youtube.com/watch?v=FLqqbtrP56s)
+[Who wants fish oil?](https://i.imgur.com/KTRZPMB.png)
+> to use on a mod with almost the same size and form factor as the drag  
+
+Most mods are in the same form factor, including the drag. You going to blame Sigelei for ripping the form factor of the 150 from the drag?
+
+You wanna compare the sizes of the drag, pulse and other mods?  
+
+Drag:   90x54x24mm  
+Pulse:  77x50x27mm  
+Pulse 80w: 82x54x25.9mm  
+Sig 150: 103x57x23mm  
+Battlestar: 83.5x40x34mm  
+
+Sizes look very close to each other  
+The front has to be similar because it was designed for a chip
+They aren't, VV gets the resin from the same supplier that VP uses
+Give a key to a door to someone and freak out that they can open said door.  
+
+Give a program admin access or access to flash the bios and no amount of security can save you.
+24 hour notice is sketchy as fuck
+Latest security update with latest Magisk, can confirm that Pay still works
+Just the simple accusation is enough to bring some men to suicide.  
+ Word gets around and people believe the first thing they hear.
+munchkin
+munchkin
+its a munchkin :)
+Yeah, saw him in TLA a few hours ago.... Comment is in the -200s. Doesn't irk me though, downvote and move on
+> nothing better to do with your lives than make and look at memes?
+
+says the one commenting on a meme
+I tried it, but their email support kept emailing me to find out how i liked it...u would think after 5 with no response they would give up
+[even better, no try catch](https://msdn.microsoft.com/en-us/library/system.appdomain.unhandledexception(v=vs.110\).aspx)
+Pretty good, have not had any issues
+For those unaware, DNR stands for Do Not Resuscitate
+You have a credit card with a $4,000 limit and use say $3,900 of it
+fuck yeah
+[yes](https://i.imgur.com/sO1YjpO.png)
+I think I won 3 packs
+So you set the preferred murder victim in the car of a dead lock? Programmer Analyst here, I just query the data and make the occasionally table and stored proc
+That's the sound of the space bar being pressed 4 times
+[Define prominent](https://i.imgur.com/6XwZPai.jpg)
+One time fee that is well worth it. Everything is so easy to setup plus u can add another drive to your array whenever u want (as long as its less than your parity drive)
+They never expect it
+It was a joke :P
+Damnit, always get you two mixed up
+wait, there is a left click option for the orbs?
+Vaping on ~~/u/ID10-T~~ /u/Vurve's clone recipe right now...so good
+My friend still has his....def a tank
+I love playing Moria honestly
+Idea: script that queries Radarr for any movies that arnt out and watched for. It then downloads a trailer and imports that into Plex as a temporary file
+Got hired as an intern (paid well) about a month after graduating high school as a programmer. I am almost 22 and have had been putting into my 401k for almost 4 years now (also 4 years of programming experience and healthcare experience)
+They don't know if it's a prank or not...*cough* swatters
+Kodi isn't, it's just a player that you provide the content to. Just like Plex and Emby
+/r/nocontext
+Env kills are best kills....even when you fall to your own death
+^^^^^^^^^^^^^penis
+i think he does, but since Sound Barrier was currently active, it stopped him from gaining ult charge
+Nope
+I am honored to accept his invitation.
+Not people who are allergic to their saliva... Hello hives
+If a paw is a sleeping pill, what would the entire body be?
+Damnit dude, I'm in class
+OTA is the single cost of the HDHomeRun and antenna
+The 4 stages of honor
+I had 0 issues on my phone and my car. Coworker called me while I was driving home and it sounded normal they they could hear me with no issue.
+It really helps to have a heat gun.
+Open up the new wrapping, slide battery in to just the right place then use the heat gun (about a foot away and in a sweeping motion while rolling the battery with something) til the wrap condenses down. 
+right when u replied, i remembered that i hadnt checkd the About page in Ombi :P
+I just realized....which discord server? :P
+Worked for me too
+Plot twist, it's a tide ad
+Awesome, thanks
+Can do later tonight, at work right now
+I'm learning Angular 5 right now, got any good pointers?
+Yes, they will have to stay home
+Being near the positive just really increases the chances that something can short it, like a coin, or wire clipping.  
+
+Plus wraps are 10 for $3 so when in doubt, rewrap
+Under the thin PVC wrapper is the negative connection. All of the battery besides the positive terminal is the negative.  
+
+If the wrapper is torn near the positive terminal, then anything conductive could cause it to short.
+That made me laugh since its on the WoW youtube channel
+*whoosh*
+What does the PRNDL do?
+Those tables are perfect for MTG
+I swear I read this exact same connect in another sub
+Good points, but the main thing is the legallity. After they breakup, she could easily fuck him over and tell the police.
+Man update that to GRUB2
+Flip the genders, what do you think now?
+En livstid i krig by Sabaton  
+
+[Swedish Version](https://www.youtube.com/watch?v=y8jki4i4raQ)  
+[English Version](https://www.youtube.com/watch?v=zvdbDw5bXnQ)  
+
+If you get them synced up, it sounds amazing
+Statutory rape, legally they can't consent, therefore rape
+and if the 14 year old girl was down with it....its still rape
+/r/theydidthemonstermath
+which OS?
+The stars have judged you, and found you wanting. ;)
+Went from 40 min drive to work to a 8 minute drive at the end of 2016...best decision ever (plus my first apartment)
+My piggy bank is where I put all my change. Last time I cashed it out it was at $90
+3 beefy 5 layer  
+2 beefy fritos burritos  
+1 bean burrito  
+Side cup of creamy jalapeno and nacho cheese  
+
+That's my usual, but I mix and match the numbers (usually 5 or 6 items that are eaten through the day) and sometimes get the LTOs
+All of last year
+Can't say Avantasia and not bring up [Edguy](https://www.youtube.com/watch?v=EUIJ7hWI11Q)
+What are you, a background extra?
+Wow....i am a few days older than him
+Apple Pie Moonshine...done
+Allergic to dog saliva, always break out in hives wherever they lick me
+Mainly a blizzard to go with my Bell on lunch
+But did any of them wiggle?
+Furry Balls Plopped Menacingly On the Table Incorporated is a better name
+I am more curious about [GRAVITY_THE_ISLAND](https://imgur.com/0by82B2)
+Agreed, if you are ever in Oklahoma, we shall feast at the Bell of Tacos, also, yours too
+You know....
+The driver....Linus Sebastian
+Good bot
+Reread the title :P
+But i thought the plan for a startup was:  
+
+1. Start Up
+1. Cash In
+1. Sell Out
+1. Bro Down
+I was about to say something until I read downtown....that shit is expensive. That's why I live in an apartment surrounded by neighborhoods and in a good community instead
+besides the v10
+Ahh, have not tried the breakfast ones, mainly the more dinner types
+Max of those I can eat at a time is 4, what kind?
+Crest is an Oklahoma-based grocery store
+[Oklahoma based grocery store](http://www.crestfoodsok.com/)
+This was all of last year for my Food & Resturant category
+If the opponent has an ice block...or even better, Yogg throws in a [[flare]] before the [[Embrace the Shadows]] and [[Tree of Life]]
+I just update before I go to bed when there is an update available. Dont understand how people get mad after they have been asked several times to reboot to finish updates
+Have not had a blue screen since I was first overclocking my computer (blue screens are expected when you overclock too much), and none of my devices ever randomly reboot for an update.
+Wait....does that kill both players or just you?
+Basically you get a Nexus 7, unlock the bootloader, and flash a custom kernel that is made (by the community) that makes it act like an Android Auto headunit  
+
+https://www.reddit.com/r/timurskernel/comments/51lhgf/v40_for_android_601
+Ahh, the rare Jestriff
+I'm not your friend, buddy
+I'm not your pal, guy
+I'm allergic to penicillin :(
+Horde too if you don't want to take the zep
+Pliers are useful when making more complex coils with a drill
+I have been using unRaid for over a year and have had 0 issues. Let's me mix and match my drives plus I can throw in a new drive when running low on space and not have to buy 4 or 6 of them at a time to upgrade the current ones in the VDEV or adding a new VDEV (still multiple drives to purchase)
+What's your issue with unRaid?
+https://www.testufo.com/
+My Alien last me well over a year and over 100k puffs
+/r/diy_ejuice and check out the sidebar
+THE BOULDER IS CONFUSED
+Yep, lvled another monk to get my Nightborne heritage armor
+also note that the buff stacks up to 24 hours
+HOW DO YOU LIKE IT
+Yep, alt codes are awesome on desktop
+I'm between you guys, OK here....it's going to be cold
+Depending on location, but the beefy 5 layer is 1.59 at my bell
+Just ordered after college and they did have them....the real test will be when I get home for that sweet chili cheese
+Didnt even know the one nearest me had the chili cheese burrito.........brb
+Good point
+so...Exodia mage?
+TLDR: VV has multiple date marked designs of the atty about a month or so before the dude sent his submission
+I take it you have not read the update from both that dude and vandy vape?
+Also works on RX2 20700/21700
+The 2016 Olympics water events
+*cup tap*
+My dad used an old cell phone belt clip holder to hold his mod
+We may have had a game to see if you can lick someone's elbow without them knowing in high school...
+I was just in Moore
+Don't forget Zen Flying! Most quest objectives can be picked up while on it an in the air (some ground you)
+NW OKC :P
+Like fragile, tiny shells
+Thats if all of the quests are right on top of each other and did not include travel time
+define "did", was it a full group of level appropriate, or just you and a booster?
+at 98 at attacks were doing 30k....my artifact ability....300k
+> so so much traversing back and forth across the zone for 2 quests, only to get 2 more and have to do the same thing.
+
+Welcome to the oldest quests in the game
+if you have draenor flying
+I went from 90-98 in about 3/4th of Frostfire and 1/4th of Gor on my monk (had xp potion from garrison)
+> kobold from Northshire Abbey
+
+found the old Alliance player
+Maybe Sweden
+Live for anarchy
+a proposal of a date to get legally wed
+Not sure, have not asked them. I have an RX2 20700 that they easily last me all day
+Can Canada or the UK adopt me?
+Only goes up to 80 since its a single battery mod, maybe a bypass mode hopefully
+I am fine with 60-80 for the kit
+Its the Pulse BF but with the chip that is inside of the VooPoo Drag
+I've been using my friend's pulse and it hits really nice on a fresh 20700. You do have to know ohm's law and of course battery safety on a mech
+Kit price with Pulse 24?
+Soon™
+Awesome
+Yep, Hearthstone was made in Unity so I'm guessing with C#
+Why cast a net when you will always end up in the same boat as you were before?
+wait..guys have emotions? I thought we were not allowed to have them
+0 times here  
+
+Why even bother looking?
+> the ability to be a parent without having to give birth
+
+Adoption?
+WARNING: Link stays blue unless you wish to cry
+
+[Leaves from the vine,  
+Falling so slow.  
+Like fragile tiny shells,  
+Drifting in the foam.  
+Little soldier boy,  
+Come marching home.  
+Brave soldier boy,  
+Comes marching home.](https://www.youtube.com/watch?v=B5kDt-zEMi8)
+Saw this before i went to bed....had the song stuck in my head while i tried to sleep
+Full kit for 80 including the Pulse 24 sounds about right...hopefully
+VTC/Tony just posted a video about it  
+https://www.youtube.com/watch?v=NxiDU9FQcto  
+
+Excited to see its insides
+Yep, it's fairly common
+Went to a urologist about a year ago and get a lump checked out on one of my balls (actual testicle, not scrotum) and it was a [spermatocele/epididymal cyst](http://www.chop.edu/sites/default/files/styles/16_9_large/public/epididymal-cyst-illustration.png?itok=NxtlP3I_). It is where it is in the image but the cyst is smaller
+RemindMe! 3 weeks "Pulse BF Gene Chip"
+It says it in there privacy agreement that they can change it without notice, don't know if they have done anything yet though
+Price is just a number :(
+Better than emby which can change their privacy agreement whenever they want to, without having to tell their users.
+I liked Frozen, but I can never watch it again since the first time I saw it, I(17) was with my first girlfriend(16)...too many memories
+Or Adam vs Jamie
+Crack of current
+To blind drivers ahead of them at night
+"
+>People who have ~~light bars on~~ lifted trucks 
+
+FTFY
+https://github.com/nvllsvm/emby-unlocked
+i think you mean [[Clone]] :P
+oh very much so, as soon as i draw a non-land, i know i can (probably) play it
+That's why it says distilled water
+I have had 0 times when i needed a headphone jack over the past 4 months.  
+
+wow...downvoted for not being in the headphone jack circle jerk?
+Dirty Rat fucks exodia mage too
+I am a programmer and a simple change might sound simple on paper, but once you dig deep into the codebase (i.e. WoW and the default bag issue (yay extra 4 slots)) and make the initial change, you realize you just broke something else or some cards are coming up more than others so you fix that issue, but that creates another bug and so on.  
+
+Plus the other answer
+Not the best song for resetting a heart beat (although it is correct) ...but that's how I wanna go
+business casual at work....but not for IT :P
+I would rather be mana flooded than starved
+OP was a [fagot](http://www.dictionary.com/browse/fagot)?
+No issues here, Feb update too
+im running no quest Exodia Mage and i'm having a blast
+""girlfriends""
+Can't find anything if you dont have friends, but thats just me
+Im guessing +1 refers to having 1 in the chamber, i.e ready to shoot
+Would u say that place is....the bomb?^^^^^i'll ^^^^^see ^^^^^myself ^^^^^out
+When i really need to cry  
+[Trail of Broken Hearts - Dragonforce](https://www.youtube.com/watch?v=xS62zFXDLzw)
+The goblins and worgen are in their own little pre-cata space (cataclysm happens during both zones) so there is no way for monks to be possible. 
+Nightborne joining the Horde is well....after Argus, well after monks have been a thing
+These guys look....baked
+When i worked at Papa Murphy's and it was really slow, i decided to see how much it would be if someone got 1 of everything (of every size we had).....it was a lot
+Oh how I have missed you
+Mine uses openstax books
+I feel like i might be relevant in this
+FAST AS THE WIND, THE INVASION HAS BEGUN
+
+    #if DEBUG
+        Debugger.Break();
+    #endif
+Legally there can not be
+I used to do that when i had a few drives in my server, now i need another or a better sata controller to be able to directly passthrough all of my drives.
+Reminds me when I was Hex and near the end of the game (I had the necronom) I visited an alerting vet.....got him. Last person hexxed
+hundred and twelve*
+Not going to lie...i could live off those cinnamon rolls
+yeah, its like telling someone who has severe depression to just "stop being depressed"
+No reddit open in background, so fake /s  
+
+Happy Birthday!
+If you really want to make them happy, Donut Mondays and/or Fridays
+After court, /r/OSHA welcomes you
+It is possible, but it's getting more rare
+I just have one question......why 11 1 photo albums?
+Troubleshooter was unable to connect to the internet, would you like to troubleshoot this?
+The BBB is a scam, almost as bad as yelp. They are just a business
+By the price i am going to guess:  
+Under 25 / not married - confirmed  
+Male  
+Full coverage (due to car loan)  
+
+You have the weapon for the spec u choose on boost, the others u have to do the quests for as normal
+Heritage is available...if you level all the way to 110. No tricking the system
+Going from Good Sumaritan with 0% Insurrection done, should you about 3 or 4 hours or so
+i....i cant follow that. That was perfect
+I almost fucked myself with that this morning. I slightly remember waking up at 7:20 and grabbing my phone to turn off the alarm and it turned off on its own (from squeeze but I wasn't thinking at the time). I accidently fell back asleep and then....SNOOZE ALARM
+So this is where Patches went....
+i only know lua because of WoW
+No other preorders have been swarmed like this one has. I expected issues
+yes
+The only 1 with the order number is the real one, the others are just holds due to multiple attempts, should be fine tomorrow
+mainly due to the funneling in the first zone
+Same here, 0 issue with paypal
+Mine said 2 days....ordered about 20 mins later
+/pets release day 1070 founders edition
+was it because she went out with you?  
+/s
+Doing just the name on the document wouldnt do anything, everything about the doc can be searched
+Almost the same reason for the Nightborne joining the Horde. Tyrande is a bitch
+Adrenaline is one hell of a hormone
+I recently started my quarterly rewatch and i noticed this too...missed my chance on that sweet karma :(
+Watching now
+[i was going to post this](https://imgur.com/YY2Owiy)... :P
+If only...
+Got a 1070 Founders Edition on launch for about 400....now it's about 800 or ao
+Get to jerry rigging a connector
+ITT: Links that are staying blue
+You can't not bring up the chair room
+No  
+
+EDIT: thought you meant a non-toggleable buff, if its toggleable, then yes i agree
+not renew, upgrade  
+It's well worth the cost too
+almost a day later and I am honestly not surprised. People downvoting because they are like "WTF BLIZ MAKE LVLING EZ" and not providing a response
+Did u try getting it out with another fishhook and end up having 2 stuck in your thumb?
+Found a lump on one of my testicles a few years ago and decided to make an appointment with a urologist at a nearby hospital ( one of the largest ones in the state). Cost me $40 or so and found out it was benign. It was a [Spermatocele](https://www.urologyhealth.org/urologic-conditions/spermatoceles) about the size of a small grape.  
+
+Years later and no issues
+I am anticipating condoms and birth control to be talked about in season 2. Especially with where we are at the end of S1
+Yeah, we all are having a blast leveling together even though we are all separate levels and completing zones
+Yeah, I meant perma
+Hardcore isn't just ~~insta~~permadeath
+Well said.  
+All of my friends (RL) and I love the changes made to leveling.
+I want Hardcore mode
+Those are instant kills for me
+Gemhide or Manaweft with haste sliver
+My Kill Priority:  
+Slivers  
+Brago  
+Mill  
+Everything else
+I have it running in a Debian VM along with a pfSense VM. Had to disable DNS rebinding to get the unraid SSL cert to validate
+It was a bookmark for me for the longest time
+A toy version of me had free will but I didn't?
+.img is not the same as .iso  
+
+A .iso file is essentially a virtual disc that is mounted and then executed from.  
+A .img file would be akin to a virtual hard drive and the partitions and data that a VM makes changes to are actually written to the .img file.  
+
+You should be able to boot straight to the .img file by pointing to it in the Primary vDisk location field on the Edit VM screen
+Decoy snail though
+Season 4 Episode 7 - A Pharaoh To Remember
+Kinda like Legion
+And miners don't need to buy out all of a shops GPUs. I see your post history
+Worked for me
+Not a cheater, but I found my high school best friend's girlfriend of 4 years (they are still together) on Tinder a few days ago and the profile looks very up to update (with recent photos).
+not going to lie, for me it was [The Chosen Ones](https://www.youtube.com/watch?v=MM_c_avPlx4)  
+
+I listened to it on repeat for awhile....
+Ah, my introduction to Power Metal
+that i am not sure about
+awhile since i go to taco bell almost everyday for lunch at work and constantly restock
+Just about anything
+Because it slowed them down to get to the "real" game
+The software I make is not given to users. It's automated processes
+Yep, introducing it to a friend right now...on my 2nd rewatch
+Where I(Programmer Analyst) work we(devs) are able to get local admin access. Very very useful for devs
+Might I suggest Big Mouth on Netflix.
+I only go through drive thru....they know me too much
+I am someone to loves to level new characters (even after I already have all classes at 110). I moved to a new realm to be with some RL friends on Tuesday and we are having a blast leveling new toons. I was on my lvl 15 monk and my friend was on his level 7 warrior and we were questing together. I wasnt one-shotting mobs for him and we both had a ton of fun doing ALL of Eversong and Ghostlands.
+I've been through every single RC and have had 0 or only very minor issues (that were resolved) and updated to stable 6.4 smoothly
+6.4 is still so much faster than 6.3.5 IMO
+Going from a trial to a paid license requires internet to validate it. After that, you are good
+I had some of my heirlooms, but not all of the ones that i had on live. Decided to level some alts with looms so i copied a character over a few times to dupe their gold to buy all of the heirlooms and upgrades
+Had to check which sub I was in...
+I do, still interferes with my 8-5, but at least I can leave work early for class and then remote in from home after to get my 8 hours
+I close them because it creates a glare on my monitor
+No, it and never will
+If that happens....well IT is paid to mainly Google stuff
+Misread that as Overwatch patch....and it still made sense
+Which is exactly what Blizz said about deck trackers
+> perfectly track the opponents hand  
+
+no, its just what turn it was drawn, if it was created by a spell or returned to their hand. You still have to keep track of what it was when it was created or returned to hand
+Yet
+My friendly neighborhood sysadmin is either playing games or watching anime, but if there is an issue he is there
+I only understood Ruby....
+Yep, my company reimburses tuition (up to 5k a year). I can only take a max of 2 classes per semester due to there not being many evening classes. I will gladly get my Assc slowly with 0 debt than quickly with a ton of loans.
+If it happens again, i would create a program that runs in the background and executes "shutdown /a" every 10 seconds
+why not FORTRAN?
+Same on my s3 and 6P
+Incoming Gruul Player out of nowhere  
+[[Pit Fight]]
+90% is closer
+Sorry about MyMethLab
+We need the Dad that cut the snow cake to take a bite out of this
+yeah, and I love being able to fully complete zones. Silverpine's ending is amazing
+Don't stop them, its natural selection at its finest
+True, but at least they are all custom made for that console and are not subject to the massive price increase due to miners
+Good luck finding a decent graphics card on a $310 budget.
+Thought the same thing, needed more context to figure out what it actually was
+I am leveling with a friend from 1 and we are at about lvl20 (me druid, him warrior) and we are having a blast going through all of the Ghostlands quests. When he was level 7, I decided to see how it would be to quest with him on a level 15 monk and it was still even, I wasn't 1 shotting things for him and we were both getting full XP.
+No where is it mentioned that he used heirlooms
+IT class: Google (said by the instructor)  
+Math: OpenStax book (free PDF of the entire book)
+And due to them thinking all Android devices are exactly the same as that $50 one they had to get from Walmart
+It's mainly due to iPhones being a status symbol here in the US
+Oh, wrong Amazon
+I made some feedback about that, it took way too long to kill a mob spamming Shadow Bolt, even went OOM multiple times.
+Starting zones (like EF, Dun Morogh, Trisfal Glades, and Durotar) will scale from 1-20 not 1-60
+*flick*  
+*flick*  
+*flick*  
+*flick*  
+*flick*  
+*flick*  
+*flick*  
+*flick*  
+*flick*  
+*flick*  
+*flick*  
+*flick*  
+*flick*  
+*flick*  
+*flick*  
+*flick*  
+
+....dont give me ideas
+no
+If the original's candles have not been draw yet then it will be an exciting play once all 3 are drawn....but until then only 3 usable board spaces.  
+
+EDIT: I derped, cant cube unless its a creature
+Was it bought over the course of a few years, and not all at once recently?
+Pretty sure you spent more on RAM than the CPU or GPU
+Yep, i kept switching classes to decide on what to level when the patch goes live (im moving to new server probably too) and I had a blast on almost every class. Even with full heirlooms, i could not pull more than a few mobs. 
+
+Probably going to do either a druid (balance or feral), shaman (elemental), hunter (MM), or priest (shadow).
+I see you are a fan of retro-brighting
+I got mine October 26th and I have had 0 issues whatsoever. Blue shift is all I have, and even then I don't notice it since it requires a large angle
+100 30ml unicorn bottles for about $35 is what I love about Heartland
+ahh, right. Forgot that List is not thread-safe
+Hmmm  
+
+    List<Vehicles> vehicles = new List<Vehicles>();
+    Parallel.ForEach(objs, (obj) => 
+         {
+             if (cap.Match(obj.Test())) {
+                 var veh = obj as Vehicles;
+                 if (veh != null && !cap.SourceContains(veh)) {
+                     vehicles.Add(veh);
+                 }
+             }
+         });  
+
+
+Now if I had to rewrite the LINQ:  
+
+    List<Vehicles> veh = objs
+        .AsParallel()  
+        .Where(c => cap.Match(c.Test()))
+        .OfType<Vehicles>()
+        .Where(a => !cap.SourceContains(a))
+        .ToList();
+I just went from the latest RC to stable 6.4
+You would only be able to access it remotely if you forwarded a port on your router to unRAID's port 443. Otherwise it would have literally no access to it.  
+
+DO NOT PORT FORWARDING TO ACCESS UNRAID REMOTELY, USE A VPN
+I didnt have these issues, the RCs have been really stable for me (FX-8320E)
+The only disk i precleared was my parity drive :P
+I love seeing Fry
+Oh, it was under the "Show more settings" link in the docker config
+or just delete the appdata folder for it
+Have not tried it yet as I was at work when i posted the fix. Ill try and see what happens
+I was offered both pieces at the same time.....and a forge to bind it together
+Update Magisk Manager to 5.5.4 then go to settings and all the way at the bottom is the option to enable fingerprint auth
+You dont have to update Magisk for that, just Magisk Manager
+I can't hear you over the sound of my flapping
+#Update  
+
+LinuxServer.io pushed a temp update (around the same time that I posted this thread) to allow for validation over HTTP. To do this, add a new environmental variable in the Update Docker page  
+
+    HTTPVAL = true
+Yep
+ITT: TRUST NO LINKS [.](https://youtu.be/dQw4w9WgXcQ)
+*Looks at url*  
+Fuck the gXcQ
+Also, you will have to use another way to validate the CA for the VM too, but at least you have that option unlike the docker container
+It kept failing for me and when I googled the error I got in the logs, it came up with a post like a day ago says its temp down.
+I'm experiencing pretty good battery life on the January update (also Magisk rooted).  
+
+https://imgur.com/a/rVl0D
+Idk, not a dungeon spammer
+Guess what, you can. BC and Wrath is 58-78 or 60-80
+Nah, leveling is a blast now. No more 2 shotting shit and can actually finish zones for full XP gains (plus you can skip Outlands)
+
+    adb install <path/to/trusted/apk>
+Make it cost 1 more mana maybe?
+MOP Demo with GoSac'd felgusrd = warlock tank
+Been playing on PTR.....it's a difficult choice
+Knowing my luck...land, land, land, land
+Be glad, GPU prices are....bad
+This guy burns
+And lone wolf being moved to a tier 1 talent is amazing instead of it being at 70.....I don't like pet management
+Turned you into a beefy tank if you sacced a felgusrd
+Even faster, don't preclear
+That is if the data goes directly to the array and not to the cache drive.
+I also do not travel nor really eat out at restaurants so the Sapphire would not be the card for me. It's just gas, groceries, college (work reimburses based on grade (up to 5k per year so I am taking it slow))
+Ahh, good to hear they were quick
+Not a fan of Chase as I have had a random unauthorized $600 charge from them (reported it to the CU as soon as they opened on Saturday) and I had never used them before. Credit union gave me a reimbursement about 2 days later (got it on Monday morning and the charge occurred Friday night)
+The normal 6 limit per month.  
+
+Any recommendations for a rewards CC?  
+
+Oh very
+If you only use the GV number for 2FA it will be a lot more difficult to even get the number to spoof
+[For people with a Honeywell GCV](http://waterheatertimer.org/images/temp-settings-ICON.jpg)  
+
+#ALWAYS KEEP IT ABOVE 120 DEGREES
+
+    = null;
+Easy, upgrade to the crack mansion
+Yep with enough slack on it to be flat where the standoff would be
+Photos decided to automatically stylize 2 photos that I took this morning of the Oklahoma sunrise on my Pixel 2 XL and the results are.....stunning.  
+
+The darker ones are the originals  
+[Link](https://photos.app.goo.gl/p2FEG4D4aJvTLHMR2)
+I lost my motherboards m.2 screw and standoff when I got my first nvme m.2 a few days ago....lets just say i got....creative
+Decent explanation of it, plus i love the alt text
+2 tanks iirc
+nah, we were all (including me) going "WTF?"
+The pause at the end is me typing to match chat
+Canadough
+An app that doesn't modify the system parition
+> Edit #4: #Alright, who did it? Who guilded the booty stabber?  
+
+Now tagged as Booty Stabber
+I use the 600 for WoW and the 502 for everything else. Got the both connected to a hub that has toggleable ports
+Now I have a G502 and G600
+Make sure you are on the latest RC for unRAID and you should be good to go.
+I had a Logitech G35 that I loved, but the left cup broke off. 1 email and 1 week later, new G35. Repeat once more bout 3 years later.
+no it doesnt, i did not preclear mine
+plus the GUI is awesome especially for adding Docker containers and VMs
+btw, it does not float (thank you Linus)
+FX-8320E /w 16GB DDR3  
+GTX 560Ti for passthrough to OpenPHT VM (connected to TV)  
+Fractal Design R5 Blackout - (i have 2 of these cases, other is my main PC so I use both cases 6 bay drive cages in my server)  
+
+OS: unRAID 6.4.0_rc19b  
+
+Drives:  
+4TB - parity (rest are data)  
+4TB  
+2TB  
+2TB  
+128GB SSD -cache  
+
+Docker Containers:  
+
+* Letsencrypt for reverse proxy  
+* Plex (/transcode mapped to /tmp for RAM transcoding)  
+* Sonarr  
+* Radarr  
+* Sabnzbdvpn - (Sabnzbd with VPN and privoxy)  
+* Organizr  
+* Duckdns updater
+7600k here....Ryzen+ may be what I do next
+i was read that was super-bowl, took me forever to realise that its superb-owl
+Late to the party, but oh god the customizations in this music player. So much more than poweramp
+its actually fairly simple using the dev tools tool....not that i know
+It is a very recently added screen, added in the OG Pixels
+Ahh, corrupted screen i take it?
+wanna describe softbricked and any and all issues that you had?
+What's so funny?
+When was this donation?
+So uhh...who's in charge?
+https://www.youtube.com/watch?v=JlLaoMcGrRU
+So, self abuse sometimes?
+i found better just now  
+
+https://github.com/tidusjar/Ombi/wiki/Nginx-Reverse-Proxy-examples-(Linux)
+Are you having an issue with letsencrypt to reverse proxy it to the internet? I just created an issue on their github since I was having an issue  
+[link](https://github.com/tidusjar/Ombi/issues/1839)
+That is what i meant, not charging for overages.
+what docker repo are you using?  
+
+is it lsiodev/ombi-preview
+The issue...it was in a silver hand deck with Justicar's Ring and +1/+1 flag
+As is tradition
+"Finally, its my turn"
+Nah, its actually a warming tray
+All Cox plans were technically unlimited since they weren't keeping track of overages until October or so of 2017
+[Can confirm, trying to push Echo](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=Google+home)
+I know many couples that met over WoW, even one of my good friends met her boyfriend in WoW and he is an awesome guy.
+this was before the last boss and i had neither piece of the sword....had to pick the forge
+Can confirm, am bad
+i mainly do so that I dont have to search for it, plus its all on shuffle
+Looks nice and gives me a few ideas on how I want my unit frames to look in ElvUI
+Nah, a perfect 5/7
+My work enforces dress code kinda...just not for IT
+I remember a few years ago after FNM (Friday Night Magic) a group of my friends and I would go to a nearby Whataburger after the LGS closed to continue to play MTG or play Cards Against Humanity (we bought food and drinks and would quiet down if other customers came in (this was very late at night))  
+
+Long live Whataburger's 24 hour stores
+[actually in Louisiana](https://www.google.com/maps/place/1234+America+St,+Mandeville,+LA+70448/@30.3942,-90.5279736,7.25z/data=!4m5!3m4!1s0x862759cf684de50d:0xe61cafc27ab2894c!8m2!3d30.3593055!4d-90.0464079)
+no, a new president is needed
+updraft to be more specific
+just got released as in 2017/12/29 recent
+makes sense since the . will refer to the local computer name thus the local computer domain
+Half a dozen in one hand and six in the other.....oh that probably won't work here
+Check the top post from the 27th or the 28th
+also forgot /u/MTGCardFetcher [[Call to Arms]]
+/u/MTGCardFetcher [[Collected Company]]
+I am ok with proxies as long as it's not power nine AND actually thought was put into the proxy itself. If it's just a sliver of paper with the name of the card and mana cost on top of a basic land in a sleeve, then no. I don't want to constantly have to check the oracle text on my phone when I forget what that card did. (Also applies to full art proxies, all oracle text and basic card info is required and unobstructed)
+Why i use unRAID...not having to buy multiple drives at a time (more than 2 as I usually upgrade the parity drive at the same time)
+Custom skin?
+Oh god, the graphics card will be PUSHING dem pixels
+nah, just up to dual parity
+I had a friend that I liked introduce me to Reddit at an IT summer camp (summer before senior year that lasted a week)....that was 4 and a half years ago.
+> suction-stick her polluted squid  
+
+This is how you sell stories, gotta suck people in
+Just after noon and I think I am done with reddit for today.....
+
+also, i am not a fan of hospitals  
+
+yeah.....no
+and just changed my credit union's OTP to be sent through email instead of sms.
+damn smug people going to end the world
+Super is not a remake of the originals, that is Kai (originals in better quality and no filler episodes (i.e only manga canon episodes))  
+
+GT is NOT canon and Super takes place right after the Boo Saga.
+Plex and Emby both support something called transcoding which is when the client device does not support the direct playback of the file (either the video or audio of it). One thing that those 2 have that Kodi does not is the ability to access and play your library across the internet. Transcoding over the internet allows you to watch your bluray ripped Linux ISOs at a lower quality so that the server is able to serve the video to you (i.e. you have a slow upload speed).  
+This also you to have a central server in your home that can stream to any client on your local network (usually direct play so full quality)
+you cant show that and not say the skin, and is that a Kodi backend, or is it Plex/Emby?
+Nice, I love getting Wax Ravager when one of my passives is double deathrattle
+Lemme guess, he now owns a hybrid
+Roll Tide
+> unRAID in RAID10  
+
+something dont smell right
+Clever, but I would classify that as meta gaming
+Currently at 8TB in my array (unRAID), but if I get 2 8TB drives (1 to replace my parity drive with) I would be at 20TB.  
+
+Current:  
+
+
+Size | Type
+----|----
+4TB | P
+4TB | D
+2TB | D
+2TB | D
+
+
+Soon™:  
+
+
+Size | Type
+----|----
+8TB | P
+8TB | D
+4TB | D
+4TB | D
+2TB | D
+2TB | D
+Do NOT play Wax Ravager against him...even though it has a special interaction with Waxmancer...and again when it is destroyed
+Yep, used sprites from RoD
+Same, so much screen real estate for WoW and amazing fludity in Overwatch
+i got g-sync, only bad thing is that its a TN panel but ill take it for $400 for a 27"
+I upgraded to the 1440p and 144hz masterrace at the same time.  
+I can never go back to 1080p @ 60hz
+Had to make a game for college this last semester (in fucking java) and i did an Arkanoid clone.
+That is honestly not a surprise
+States would mainly be:  
+
+Destroyed on the board (aka "graveyard") - what resurrection spells pull from  
+Discarded from hand  
+Milled from deck
+Can we get more information?  
+
+Mainly from which disk to which share (/mnt/user/xyzshare).  
+How did you move the data?  
+Which disks are set to use the share?  
+
+Mine are 80% timers, 10% weather, and 10% texting
+so almost the entire site then?
+True  but I'm talking while solo/leveling
+I was able to mill out the Darkness on my Hunter Run (of course after 2 entombs and 2 screams). I play DK Rex and built a beast.....  
+
+[[Dreadscale]] + [[Stubborn Gastropod]]
+SPOILERS for possible Allied Races questline (on mobile and forgot the spoiler tag syntax)  
+
+
+
+
+Nightborne going horde is mainly because the blood elves had to deal with the same addictions but to the Sunwell, and Tyrande treated them like shit.  
+
+Void Elves going Alliance is because the Blood Elf leader (can't remember name) did not trust Alleria being near the Sunwell (because void magic)
+40% extra burst every 8 seconds for 3 seconds from PW:S... Best talent
+I went with the same case that my main computer is in (but a different color) (FD Define R5).....dem R6s though
+It's possible
+Nah, hats = skill  
+Oh wait that only works in TF2
+More slots are not coming in 7.3.5, they are coming with the expansion launch (or pre-xpac patch)
+multivitamins is Slurm Loco?
+I'd say that's about 10% luck and 20% skill
+was about to as well
+As is tradition
+Still waiting on Blizzard
+
+    tree  
+
+is the best virus scanner, right?
+and then find out that many of the games you play are Windows/MacOS only. Wine is useful when it wants to work though
+The bathroom in my apartment is half carpet half tile. Its carpet from the door to the end of the counter. Toilet and bath/shower have tile in front of them.
+Did the same in Oklahoma, was in Central Park, and the next in SF Bay and then Alcatraz
+I made a docker container that used python to query my electricity usage every hour from my utility's site.
+Best Buy is my only store CC as well and I do the same as you.
+got a request for you /u/spaceinvaderone, a guide on using FileBot
+I'm going to need a big bucket of popcorn for this
+And whenever you down vote someone, you hear a kobald say "You no take candle"
+The penmanship is amazing, but its a little hard to see.
+or urban dictionary
+no, someone said [Thunderfury, Blessed Blade of the Windseeker], get it right
+Didn't even need to see the clip to know the reference
+how about....no
+https://www.tukui.org/download.php?ui=elvui
+found the Javascript developer
+Not officially, just speculation on what is in the PTR, and I'm the same as you been unsubbed for a few months and coming back to a new realm for leveling
+7.3.5 has a lot of new models for the event, so expect the patch to drop January 16th or so
+
+>ruin Lordereon
+
+Guess she doesn't have to do much
+Disable the Windows Update service
+And actually had the spirit of a hundred year old demon
+Is is very quiet for anyone else?
+I am honored to accept his invitation. 
+and they all love my boogers and cum
+I did this on priest.... Survived with 2 health against Xol
+OD on water too
+dont forget that 99% of them (cig-a-likes) taste like shit
+Yep, nic salts are a hell of a lot smoother, plus 1 or 2 puffs and I'm out
+CBD ( made from industrial hemp ) has been legal to sell in all 50 states
+nah, out of headlight fluid
+If you have current installed, then just copy your current WoW folder somewhere else and rename it to WoW Public Test (i think?) and point battle.net to there. Should just download like 2 gigs or so
+*googles 2 + 2*  
+
+just...making sure
+I....uhhh...Rod of Roasting and survived with 2 hp
+> While I agree that Blizz should use their own testers,  
+
+Yes, but what they are wanting is feedback from the player base, not the workers.
+You dont need to completely redownload the game. Copy over the current game into the PTR folder and it will only download the update  
+
+[see here](https://www.reddit.com/r/wow/comments/7ji1sd/blizzard_needs_as_many_people_as_possible_on_the/dr6qyrk/)
+Yep, I am currently waiting for 7.3.5 to go live before resubbing and i have been playing on the PTR
+i honestly forgot the numbers that fizzbuzzed used....fixed now
++/u/CompileBot C#  
+
+    using System;  
+    
+    public class FizzBuzz{  
+        public static void Main(string[] args){  
+            for (int i = 1; i <= 100; i++){  
+                string output = "";  
+                
+                if (i % 3 == 0) output += "Fizz"; 
+                if (i % 5 == 0) output += "Buzz";  
+                
+                if (output.Length == 0)  
+                    output += i.ToString();  
+
+                Console.WriteLine(output);  
+            }  
+        }  
+    }
+                
+
+    
+    adb shell input string [anykind of text]  
+
+Because some of my passwords are annoying (usually only do this when I setup a new device and my password was generated by a password manager)
+As soon as ES shit the bed, i jumped ship to Solid, never looked back
+you forgot free
+Ouch, each apartment where I am has it completely separate from each other. Also dont have to worry about having a double NAT. Direct line to my I$P 
+Nah, I was the teenager
+I've done this to see if my family was home from my room
+its not like anyone currently uses usenet....  
+\*looks away\*  
+unsubs from usenet subreddits
+this is what people dont get  
+
+I have never had any of my computers update while I was doing something important. When i am about to go to bed i check if there are any updates and if so "Update and Reboot"
+[Found the Arch user](http://i.imgur.com/WM8P82e.png)
+I got mine on AT&T yesterday
+Which carrier?
+i wouldnt touch that sub with a 10' pole, but thats just me.
+oh wow, i derped. I just assumed it was like all other Nexus/Pixel devices. Did not notice the extra step just for the 2 XL
+i think i made something similar
+Factory reset?
+We didnt have a microwave, only a few small ovens that we use for school events and for workers to cook some pizzas when we wernt busy.....have you tried a stuffed stuffed pizza? 3 layers of amazing
+Those always took me the longest. Cinnamon Wheels were easy (if the spread had time to heat up)
+I have used this library at work (Healthcare) with some clients that php encrypt their files.
+Yay, something to do when I get home later
+Driving a 2013 Corolla Limited Edition S coming from a 2001 Honda Accord v6 coupe... miss the engine so much
+> To be fair Beetlejuice is a planet[.](https://m.imgur.com/cXA7XxW)  
+
+FTFY
+Im not sure you understand the meaning of that word
+Leave Tom Cruise out of this
+The one thing that slowed me down while making peps is when they sick to each other and don't slide off easily
+Want to make some Smores pizzas? Prepping in the morning required me to make so many of them.
+Family sized stuffed pizza..... I'm good for a few days
+Worked at one of the Papa Murphy's Corporate Training stores. I loved the 50% off everything when I worked there (as did my family). Glad i started my first job there
+[Amaranthe](https://youtu.be/SxOybZcRXhI?t=1m4s)
+Yep, Transcriber 0, 1 and 2
+/u/fell_ratio has some competition for good human
+The Earth King has invited you to Lake Laogai.
+someones' rose-tinted goggles are on a little too tight...
+if it takes you 12 hours to notice a missing curly brace then you need a better IDE
+> Well documented
+
+You lost me
+the important question
+i got 160Mbps and i pay for 150Mbps
+Mine is used to it :P
+Nah, it only cost $400
+I have 1 at home with LA Watermelon from BCF, really easy to open
+My Tn panel is pretty good, I got the latest revision of it
+Kinda the point of an OTA image post
+Don't need to if you have the OTA image
+Unless you have it set to show warnings as errors, then yes, it will still compile.
+That is one damn good analogy, OP and OP's OP
+The public tends to go towards whomever is the loudest on social media and the news. All the bad stuff about something gets a lot more attraction to the public while anything even with facts and sources towards the good stuff just goes under and few believe it.
+The charges are nothing when compared to the accused life that is left them to rot. Nothing can fix that. Honestly, I would kill myself if I was falsely accused of rape
+I'd watch it
+Warning: local variable Me not in conjunction with language naming convention
+Got a 27" 2560x1440p 144hz monitor with G-SYNC last week...I can't go back to 60
+Syntax error: undeclared variable A in line 2
+> half-cup Frank's Red Hot to taste  
+
+So the entire bottle? I love that shit
+I can always tell when Tara Strong is a VA without checking the credits
+Oh right  start up options with a Button to restart to bios
+Hold shift while pressing restart to get to UEFI options and even BIOS now
+hmm, ill have to  check my bios and Windows settings for that when i get home
+I have that exact setup and still use hibernate with 0 issues
+2 hot wings for 7.10  
+1 sampler plate for 5.80  
+1 Mixed Fruit for 2.15  
+
+Total is 15.05
+
+
+Foreach loop? Just a sign that you need more LINQ
+Pied Pipah
+My first cat was a munchkin and she had no issues whatsoever even lived until she was 16.  
+I love munchkins
+Good human ^(you, not the sightless hater)
+the only time i see ads on the start menu is after an update, then once "Show me recommendations" is turned back off, i get no more
+Win Key + R = skip everything
+I got bluetooth everywhere, but yeah, i am minority
+Anything about the new Pixels always ends with  NO HEADPHONE JACK  
+
+I've have even forgotten that the phone doesn't have one since I never use it to notice
+I am, going from Horde to maybe Alliance since I have not done those quests in a long time. So excited for 7.3.5, especially if the mobs have much higher health and actually makes leveling part of the game
+[[Splendid Reclamation]] needs a matching alter
+can confirm am programmer, need reddit for..."programming questions"
+Its a World Quest for the kitchen zone
+A flaccid penis tends to stiffen without the guy wanting it to.  
+Passed out is possible.  
+Pushed him down and got on top of him.  
+Had a gun or a knife to him or even threatened to kill themself  
+There are many ways
+
+Also, don't ask a rape victim how it happened. That's as bad as asking "Did you like/enjoy it", especially with someone as personal as this.
+Nah, its for turning in the quest. A exclamation point means that hey have a quest to give you.
+perfect 5/7 comment on the rating system
+Well i do like my meat rare
+Lemme guess you are someone who thinks that men can't be raped?  
+Consent is a 2-way street.
+[Relevant Comic](https://d1ejxu6vysztl5.cloudfront.net/comics/garfield/1980/1980-12-26.gif)
+...I have 12  
+
+I got distracted easy
+.................brb (after I finish my term project that is due on Sunday night)
+Or a trip to the friendly city chiropractor
+78% with 2h SOT on 8.0 Nov
+It's still in beta, so there is more to come  
+
+**Pixel 2 XL I meant
+If the phone is encrypted, then they would still need the encryption password
+You are not reassigning the variable which is giving you the warning. Ints are initilized as 0
+Just saying, u said flying in Outland and Cata without another skill....Cata requires Flight Master's License...aka a skill that is learned from the flying trainer. Outland is just baisc flying though
+Outlands: requires Expert Riding  
+Old World: requires Expert Riding and Flight Master's License
+It is a bug, same for Northrend
+There are several bugs currently on PTR, so while I am hoping this is true, it is not set in stone.
+If anyone is reading this alone and at night.../r/eyebleach is calling you
+Fellow Okie here, can confirm more earthquakes than the past
+/u/MTGCardFetcher [[Rules Lawyer]]
+Reverse image search passed, approved for production
+Don't forget the emotional abuse too.  
+But men can't be emotional about it since we don't have emotions, right?
+and my axe!
+Actually, OP states they didnt know any other SUV made by Chevy. 
+ 
+Leaning more towards this being true now
+It's possible, but why specify a model, why not just say SUV. That would have been more believable
+2004 (first year of the Equinox) + 15 = 2019  
+2004 + 23 = 2027
+Oh no...making someone else lift up the lid is sooo much work.  
+Its fair for all parties
+calling /u/PitchforkEmporium
+>round scars that even after 23 years still look red and puffy.  
+
+neither add up
+
+>  after serving 15 years of her 40 year sentence
+
+OP, /r/quityourbullshit  
+
+#OR
+
+~~OP did not know Chevy made any other SUV than the Equinox and was only told SUV and Chevy.~~  
+
+NOPE,  OP IS FULL OF SHIT
+Not Hotdog
+and people who are unable to go into the bar they "reviewed"
+more like /r/outoftheloop
+[Mixing verde with diablo](https://i.imgur.com/IazJWlU.jpg)
+[and then comes motherhood mode](http://4.images.southparkstudios.com/blogs/southparkstudios.com/files/2014/04/1303-and-itsgone.jpg?quality=0.8)
+plus its one of the best feelings in the world
+A habit that I can never break....closing both the seat and the lid after going to the bathroom
+Ordered mine this last Monday (sadly it was $399) and it was the A07 revision
+oh yeah, i just dont have a clamp style RTA and not really a fan of RDAs
+Why i wont run under 0.15...the lower the resistance (and usually higher the coil mass) requires more wattage to reach the right voltage which reduces battery life
+Nope, regulated 20700s  
+I just a sweet spot of 0.25 for my tank
+yeah, i like my ohms to be around 0.25 or 0.3.  
+Plus 8 wraps wouldnt fit without shorting in my RTA
+It was ohming too low for my liking so i remade it in kanthal and 6 wraps
+but a very good one for the internet ;)  
+
+/s
+well u would have to also remove the BIOS
+'bout tree-fiddy
+....i'll start the synthesizer
+1 is wrapped clockwise and the other is counter-clockwise meaing they would be sharing the same post holes since the leads line up
+I was testing which way how fewer twists
+so my SP3 is safe...
+It was ohming out too low for my tastes in dual coil, [remade it in kanthal](https://imgur.com/eCZp56o) without fucking it :P.  
+
+Thanks for the insight though
+The fuck-up was that I accidentally wrapped them in opposite directions.  
+
+Usually my fused clapton wire ends up being all kinds of twisted. Usually I wrap clockwise and that did not end well. Decided to try wrapping counter-clockwise and its perfect.  
+
+[Did it again with all kanthal for a slightly higher resistance](https://imgur.com/eCZp56o)
+those 2 are unusable together in a velocity deck.  
+
+I have a vice that has 3 connected ball baring swivels that holds the fused cores at one end and the other is connected to my drill and I kept the cores very taught while i claptoned it.  
+
+Cores: 2x26g SS316  
+Wrap: 36g Kanthal  
+ID: 3mm  
+
+have not ohmed it out yet, but steam engine is saying 0.37/coil or 0.19 dual
+  
+    #define true __LINE__ % 2 == 0
+I had a pure white munchkin named Precious. Loved her more than anyone else and the way she would lay her head on my arm while i was in bed.
+i still see that dQw4
+1 of these things is not like the others
+True
+> Direhorn 
+
+How would Norherid be better?
+
+my ISP uses the IEC prefixes
+Whats funny is that my ISP usings Mb for speed and GiB for usage
+Convenient yes, but its stored on someone else's computer (i.e. cloud)
+> Personally, I don't like the idea of a 3rd party website having all of my passwords...even if they are encrypted. I went for a manager that was offline only. It uses open source code, so there are also apps available for my phone.
+
+Yeah, its not LastPass. Probably Enpass or Keepass
+nah, its a HIPAA guideline
+can confirm, am people
+Only if you wear a tie and your profession does not involve pipes
+/r/LakeLaogai is leaking
+There is no movie within our walls.  
+Here we are safe.
+T_D being the worst of them all
+Quit watering that plant and come help me.  
+
+- 
+...10% TFA Honey is a meme on /r/diy_ejuice due to it tasting like shit at high percentages
+I was just thinking 10% TFA Honey
+https://www.youtube.com/watch?v=l4DJGrhsG5o
+Unlife + [[Solemnity]]
+New recipe name....brb
+mainly the g-sync for the price
+actually went to a nearby best buy to check it out....it was glorious. So much better than my crappy 1080p 60hertz 5ms monitor
+thats why i made the comment :P....btw...i just bought one (the 27")
+all the difference 3 inches make...
+[maybe..](https://i.imgur.com/5ntGGmv.gif)
+I'll just put this with the rest of the fire
+Same thing for something related to HS graduation. Last name has a v instead of a u so I easily knew
+Do you have the exact error?
+Have you tried plugging the flash drive into your desktop and confirming that the label is still UNRAID?
+Right? They got the budget for anything
+Scoop  - 0 CMC  
+Instant  
+
+Leave the game.  
+
+If Scoop was not cast during one of your main phases and the stack has no other spells or abilities, phase in a dummy player with the same life total, permanents, mana pool, counters, hand, library and graveyard that takes your place until the end of turn or the dummy would lose the game.
+Nice, sadly we have to go up against some of the top bands in the country for our state comps since we are in the same bracket (Owasso, Broken Arrow, Union).... It's a challenge
+I love how Assistant says "and free ice cream on Wednesdays". Short pause after the 2nd, and then a quick tone for the 3rd
+Mine was late July to late October/early November.  
+  
+My calves are still amazing 3 years are graduating 
+We may have our differences but right now we shall fight as gamers for tonight WE DINE IN HELL
+Can confirm, school didnt fund shit for the band program. All of our band events was fundraised by the 150 or so band students.
+If I'm the one who's drunk, why are you seeing double?
+can confirm, spent more time with my band director (and other assistants/teachers) than any other teacher for all of high school and I respect all of them for devoting all of the time for the students.  
+
+Lets add this up...  
+
+Band Camp (8am-4pm M-F (3 weeks before first day of school) on campus) - 7 hours/day - 105 hours  
+
+6:50am-9:20am (before school to 10mins before 1st hour ends) every school day after the first day of school (Mid August) to November (Marching Competitions (went to BOA Grand Nats my senior year)) - 147.5 hours  
+
+3 to 4 local (state) competitions (on Saturdays 8am-8pm (sometimes later)) - ~12 hours each - 48 hours  
+
+Friday Night Football games (we went to every single one) 5:30pm-~11pm - 12 games @ 5.5 hours/Friday - 66 hours
+
+Total of 366.5 hours or 15.27 days per marching season  
+
+4 years of HS marching band - 61 days of just marching band related activities  
+
+P.S. I played and marched the Euphonium
+
+[source](https://i.imgur.com/xIolo.gif)
+or third degree murder (called crime of passion murder)
+[Khadgar](http://img.memecdn.com/khadgar-is-an-asshole-didn-amp-039-t-need-that-legendary-anyway_o_5684553.jpg) is leaking into the real world
+Stock up on Unstable for dem sweet Full Art Basic Lands (legal in sanctioned events)
+the important question....which Doctor Who episodes?
+nah thats too nice....i like dead more
+yay for being on the top floor....now i have to worry about the people below me
+sooo.....flex?
+1 more reason why i want to move to the UK
+i see a lack of 10.5
+NW OKC represent
+John Smith
+She should get locked up for 3rd degree murder
+Fuck her, she is an example why some actual victims are not believed. Just those accusations are enough to destroy a person and drive them to commit suicide. (See other commenter)
+how bout dem generics boi  
+
+aka Java generics are shit
+DOZENS....OKC here
+And the Darwin Award goes to....
+and taken from /r/TheLastAirbender 
+I remember when I was donating blood and I feeling very lightheaded and they used smelling salts on me as well as ice on the back of the neck. It was not an ammonia smell though, it was a strong menthol smell and i liked it. It really helped
+I remember doing this with 2 of my female friends, i just stayed with them and since i wasnt building a bear, just watched
+Yay for the lucky 15-30% of the population that is born without them (including myself)
+A UPS is not meant to run the server the entire duration for power being out, it's to allow you (or more likely an automated process) to safely and gracefully shutdown the server.
+Could it be the app itself refreshing it's data?
+That's exactly what I'm doing, and in on AT&T
+Hacker as in chopping with an axe, and first line mentions food
+The username and the first line of the post got me worried...
+CRAB PEOPLE, CRAB PEOPLE, TASTE LIKE CRAB, LOOK LIKE PEOPLE
+cat.
+Cat.
+Oh, I didn't see any other videos that had Prof
+Source: https://www.youtube.com/watch?v=IgJI9PND7W4
+None at all, got adaway running with no issues too
+Nah, I just patched my stock boot image using magisk and then flashed it in the bootloader. Might install TWRP once it its a more stable place, also i am passing all of the safetynet validation
+something i always do when using a public ATM, pump, or any place my card will be
+What, did you not listen to the countless accounts of people saying the Verizon Pixels have a non-unlockable bootloader?  
+ - from an unlocked and magisk rooted Pixel 2XL on 8.0
+Good Brain
+Ahh 2013 and 2015/17
+3: competition? For many people, they only have [1 choice of ISP](https://youtu.be/izXnCkrfjO0).
+VS Code is not an IDE, it's a code editor.   That's like comparing Notepad and Word
+Or maybe it's the kid sex change, one of those  
+/s
+It's a place for kids clothing, kids exchange...no idea about the URL though
+I guess they would rather be in the sex scene with their parents
+but how else am I going to get to kidsexchange.com?
+which is the creation and now distribution of CP
+\*inserts preteen in search bar\*  
+"like that?"
+Pixel 2 XL owner here, all of the "problems" are very overblown.
+Don't tell /u/SethBling about the 3rd option, he can and will do it with redstone
+Good volunteer
+Plus 1 shot if you are playing the drinking game
+This is awkward...  
+Yukon is the rival school of my hometown...and honestly not surprised
+Looks to be a hunter weapon
+I remember being in WSB during Mists, ahh good times
+Zaheer best villain 
+Can confirm, pain is painfully
+reset DBM?
+High School Euphonium player here  
+
+Marching Euphonium is the heaviest instrument that is carried with no support (its all arms), but damn it's fun to play
+What other addons do you use?
+He missed the train to flavor town.
+bout free-fiddy
+Good cat
+Just give them more Brainfuck till they blacklist this sub :P
+Sounds about right with Grack or Watermelon Crack Clone by /u/Vurve
+Fire: Iroh  
+Water: Kya  
+Earth:Bolin   
+Air: Tenzin  
+Girders: [no contest](http://static1.squarespace.com/static/51a655b0e4b0449f53c1e503/5522c8f1e4b091cad96f0a03/586c5715d2b85773858e7277/1494274356307/?format=1000w)
+but then we wouldn't have the greatest lemur commander of the century
+Well you obviously arnt addicted to Grack Juice :P
+LA Watermelon for sure  
+No other watermelon compares  
+
+Also INW Grape
+Also Sokka really knows that there are no bathrooms in the Spirit World....from experiences
+I started my quarterly rewatch a few days ago, already in the middle of season 3
+The Earth King has invited you to /r/LakeLaogai
+Don't forget the fact that all of the text in the show is not just scribbles, but an actual real world language, each with its own writing style of who wrote it in the show.
+I am honored to accept his invitation.
+The master password of course
+well 86ish
+The password would be hashed and salted
+i usually do 8 minutes at 450 degrees for really anything Taco Bell  
+Mainly 5 layer burritos, BFB and bean burritos
+Disallow or stifle
+i hope we have the better api for lua, vanilla addons were shit
+All of humanity is like this, not just the internet.
+salt dont burn
+even better, have the options to use new character models and animations in the settings and default it to unchecked
+[They arn't](http://www.mmo-champion.com/content/7154-Shadow-the-Fox-Plush-Collegiate-Dungeon-Race-Developer-Interviews-WoW-History)  
+
+> Classic servers will not have the features added to current WoW such as Dungeon Finder.
+[They arn't](http://www.mmo-champion.com/content/7154-Shadow-the-Fox-Plush-Collegiate-Dungeon-Race-Developer-Interviews-WoW-History)  
+
+> Classic servers will not have the features added to current WoW such as Dungeon Finder.
+its an EDI file format  
+
+https://en.wikipedia.org/wiki/ANSI_834_Enrollment_Implementation_Format
+Original creator of DTBars 1 here (Caedis) before Darth took over when I took a long break from WoW.  
+
+If this is still an issue, are you getting any kind of Lua Errors, and how did you create the toggle?
+
+Also, if you want more information datatexts, check out my other addon [ExtraDataTexts](https://www.tukui.org/addons.php?id=66).
+Def going to be using Immersion once 7.3.5 hits. Really want to lose myself in the lore while lving.
+When you get something to easily create 834s...let me know
+I can't listen to Linkin Park's The Hunting Party without thinking of that night
+!RemindMe July 2018 TELL US
+And.... It's dead
+-500k, only 100k subbed and currently 60k are currently active
+Actual episode is:  
+Season 8 Episode 10 - Pre-School
+same
+pfssh, WoW taught me how to type without looking all those years ago and without the home row bullshit
+Metal programmer checking in
+And it's a laxative if applied in your end
+told
+Somebody
+I got something for that  
+
+http://e-liquid-recipes.com/recipe/180895/Fresher%20Taste
+Yep, I've been running OPHT as a VM with a passed through GPU on my unRAID server. It's amazing
+Just like how everything gives you cancer in California
+I can confirm that the sandboxing does in fact work. I was curious so I asked my friendly sysadmin coworker to try and wipe my phone. He took the challenge and failed as only my email data was wiped. (had to remove my phone from the OWA web settings to readd my phone)
+now do it in the sun
+I-44 in OKC is pretty hectic...
+Soon™  
+
+FTFY
+The people with no issues are far more likely not to talk about their device having no issues, this is known as the vocal minority.  
+
+Also, 0 issues with my screen

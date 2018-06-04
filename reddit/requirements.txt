@@ -1,0 +1,7 @@
+praw==5.4.0
+scikit-learn==0.19.1
+sklearn==0.0 # WTF
+numpy==1.14.2
+scipy==1.0.1
+tabulate==0.8.2
+colorama==0.3.9

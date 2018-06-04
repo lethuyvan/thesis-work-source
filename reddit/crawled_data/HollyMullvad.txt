@@ -1,0 +1,134 @@
+nevermind, fixed it by adding: vers=1.0 at the end of the line :D
+
+thanks so much man
+thanks for the reply buddy, none of them worked :S
+Every day I comb, everyday they fall. Anyway, take a read here : https://medium.com/st-kilda-beard-care/help-my-beard-is-falling-out-9ba7793ca00d
+Got it working by mounting my drive this way:
+
+sudo mount \-t cifs \-o  username=myuser,password=mypass,vers=1.0 [//routerip/u](//192.168.1.1/usb-0bc2-8CJBQE_1)sbdrive /media/xternal
+Will try. Thanks buddy
+its mounted, but i can't select it. i'm trying to figure it out
+What do you suggest? Rsync I guess
+what about gnome memory leak? Did they fixed it already?
+Yeah, I figured that out. Thanks for the info & links
+[its closing down](https://www.techradar.com/news/opera-vpn-to-shut-down-here-are-4-alternatives)
+Oh, thanks for the clarification buddy. I'll look into solus
+Never tried budgie, i heard it's a very young distro and its not very mature in terms of stability. Can you guys confirm that? I am looking for a stable distro with the best support for hidpi (retina macbook). 
+I love ubuntu mate, tried beta and the hidpi wasn't really what i was expecting :/. Gnome shell isn't for me either... so i'm looking for alternatives
+Can't see the size, but I bet he's king of Moria!
+Nice try NSA
+Great beard there. And yeah.. Balm is the best thing in our world :D
+also, i wonder how the hell does he eat and drink ahah
+Damn... What a fantastic beard. You should get an axe and go straight to the lord of the rings cast 😀
+Thanks all for the tips, i edited the post with the solution
+edited my post with the solution. Thanks for the tips
+what should i be looking for? marked in red, i have the following:
+
+   5.141544] mei_me 0000:00:16.0: version message write failed: ret = -5
+[    5.141548] mei_me 0000:00:16.0: hbm_start failed ret = -5
+
+
+on top of the list i have the network manager, but its only 8 seconds. my boot is way....way over 30 seconds
+It's a hard fight, but you should trim a bit buddy
+Massive. I see my future beard there, mine is thick too. But your color is awesome buddy
+I use oil and balm in the morning, then I reapply oil at night before sleep. My beard is pretty dry so... It works for me
+Holy shit, Morpheus! Forgot about that one. Good old times aha. I still use soulseek for music and still kicks ass
+[Alarms](https://vgy.me/2Avuwx.png)  
+
+Could it be GPS related?
+Sorry buddy, can't get more info, how do you do it? Also, what do you mean by alarms?
+Security Now, with Steve Gibson and Leo Laporte 
+Count me in! I'm keeping away from the red zone 😀
+Into the badlands 😀
+postal 2. because gore is a manly thing :>
+Bloody awesome beard and color! 
+i feel we need a phone with 13 cameras and 7 flash leds on the back. Just leave 1 or 2 inches of space free so we can handle the phone without ruining the shot and fill the rest with cameras and sensors and shit. Future?
+It's alive and kicking the lamma's ass!
+Anyway... Back on your question, is emule still working? I don't remember any other options besides torrenting bro 
+Now you reminded me of kazaa media desktop ahah, full of Spyware and shit. Then the kazaa lite.. Our savior. Shareaza too kicked in... But Napster... Oh man... Those were cool times. Miss being teenager 
+Fuck that bro. I'm 33 and I'm going Gandalf, wizards rule the world 
+Thanks God 
+Thanks! I guess it depends on genetics mostly
+Shit, you look like a wizard! Nice mustache. Congrats 
+the flagship killer
+it worked!! thanks so much man!
+I was an IOS user. Came back to android few months ago. Last time i used android was icecream sandwich (i think). But i remember third party clients had push notifications for gmail back then.
+Right now, i don't know if they made changes to this
+i'll try. thanks man
+i turned off battery optimization for this app. My problem isn't with battery cutting it off, my problem is: there isn't any option for push. minimum time option is 5 min. i find this weird, since in my other account (exchange) i can set sync to push
+Funny thing with pirate Bay... Lots of fakes lately. Movies with thousands of seeds, just to find out its a fake or some WMV file crap with instructions to get a wonderful codec on your system lol. Anyway, I don't trust the number of seeds anymore
+thanks a lot man!!
+wow, really worked! thanks a bunch buddy
+i'm using stopAD. no  complaints so far
+oh, I'm sorry. I'm making mine from the scratch :). I''ve been wanting to make new ones anyway.sorry buddy
+what do you mean? download a playlist to the phone?
+ahah, since google music offers 30 days, why not giving a shot? so far i'm happy, but if the future points me into spotify direction again...sure! i'm open to good changes. But at the moment, i'm giving my money to google
+A few days ago i made the switch from spotify to google music.. and my god...what i've been missing. Loads a lot faster in every device i own, and the search...oh the search. I always hated the delay when you start typing and the results actually showing up. Anyway, all gone now
+Gimli??
+Thanks for the replies guys. Sure i'll post progress here :)
+cheers
+where did get data for this research? spyware on the phones?
+ ¯\\\_(ツ)\_/¯
+root & remove 
+I want FF14 complete because I never won shit in my life, no lottery, no slot machines, I lost every contest that has a prize associated, so for the first time in my life, I better win this one
+Thanks
+can i buy it for MAC at the same deal? if yes, how will the game work? standalone installer or is it steam related?
+My all-time favorite
+Linkme: Antimo icon pack
+rumour says the kernel sources are being released next week. i'm still on nougat, and from here i'm going custom rom
+Ahahahahah I think I just shit my pants 😂. Thanks for this post
+I had the notification for quite some time and at one point yes... It was canceled. After several days, it's back again. Don't know why it was pulled, anyway I'm not updating until I see everything fixed
+allright! experience so far with mac client is great!! i can't help to comment on how fast it connects! i compare it with my previous app ( pia ). 
+I open my laptop lid, and this thing is already connected! how come? i can't even watch it connect. damn, and the speeds are awesome! and did i mention i didn't have a disconnect so far(unlike my previous vpn). 
+i'm damn sold :)
+Just bought 1 year plan. first test on android with openvpn connect, pretty fast! can't wait to get home and test it on my mac. I think we have a winner :)
+dnsleak test passed on my phone 
+if we are talking about this guide released in december 2017:
+https://imgur.com/a/wUdmh
+then, you can get it. i have some more days left on my trial account, and i just download the guide on second time just to test.
+Grandmaster: https://imgur.com/a/YLs4R
+
+thanksss
+Actually it is try before buy. If you register a trial account on gtd connect, then you can get this guide and many others free.
+i'm having to use firefox just because of todoist. in the future i'll use brave browser. I like having a dedicated client, because i save many links to see later when i'm at my computer. anyway, thanks for the input buddy
+Actually i found that one too, but i was a bit affraid to test it for 2 reasons:
+
+1 - Don't know if its secure to put my logins there, since the client does not come from todoist guys (i guess?)
+
+2 - The project seems abandoned wich is a bummer
+
+see here: https://i.imgur.com/kRYlsdq.png
+thanks for the tips guys, i'll look into those 
+yep, me too!
+Or you can install the grub customize utility, go to options and enable there. Worked for me
+Solved guys!
+
+Did a fresh install of cinnamon again. This time i followed no tutorials, no hacks no tweaks. just updates and then installed  4.14.12-041412-generic.
+working like a charm. Also, my battery now goes about 5 hours, with barely no tweaks
+Just installed kernel 4.14.0-041400-generic
+still not working :s oh well...
+Free and reliable in the same sentence, feels like weird
+i'll go crazy and install the latest stable kernel available, to see if it works. I'm sure it will break the wifi, i hope someone can help me later to install bcmwl if it indeed breaks.
+i'll post back later. thanks for the tips guys
+thanks for link, but did not work either
+i know how install a newer kernel, the problem doing that is my wifi driver, it breaks it. 
+i dont have the knowledge to compile bcmwl into newer kernels
+you're right, they edited the post. However, i can't confirm if xiaomi start rolling out the update again. Still, i'm waiting for the next patch to see how they handled the bugs
+Holy shit. It's awesome! Can you share those widgets?
+thanks, its working. awesome app, btw
+hey buddy, code not working anymore. have you got a spare one? thanks
+Yes, thanks God it was pulled. I no longer have the notification
+[Check here](http://en.miui.com/forum.php?mod=viewthread&tid=1316545&extra=page%3D1&mobile=2) for news
+Looking awesome man! RemindMe! 6 months
+Thanks for the help guys
+Thanks, from where can I get the tpu one? Has to ship internationally
+Great. Might try the black one, do you have any link for it? Thanks
+The phone in general is pretty good. If you're too picky with the audio (specially on headphones), then might not be for you. I'm waiting for the kernel sources to be release by Xiaomi ,then with the development of ROMs, i think it will be pretty awesome. There's also an issue with the scrolling (multi touch), if you're a gamer...be sure to check it out first
+
+Edit: take some time to check some of the posts around here: https://forum.xda-developers.com/mi-a1
+I'm using PIA, very good speeds,decent apps (client) can't really complain. If you don't like, they refund you very quick. Never tried tor guard though
+Loved it!
+The stuttering occurs when slow scrolling. Very slow. Like in [this video](https://youtu.be/wu4CR9tOw8o). Can you confirm?
+[Old tutorial](http://dafacto.com/2015/creating-a-kill-switched-vpn-on-mac-os-x-with-pia-and-little-snitch/) but should give you an idea
+May 2018 bring us the kernel sources so the healing can begin
+Oreo!!! yeeeeeeeahhh! Oh wait, the hissing audio bug is still here. oh well 

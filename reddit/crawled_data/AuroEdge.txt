@@ -1,0 +1,255 @@
+I like my Nexus 6 but it's over 3 years old. I wouldn't pay over 100 for a used one
+I actually just made a post about this. I had the same bug you're referring to for a long time. Then a week or so ago Bluetooth battery usage went back to normal.
+
+https://www.reddit.com/r/nexus6/comments/8edour/nexus_6_bluetooth_battery_usage_corrected_stock/
+Any theories on what the update was? If Google were to make a change tomorrow reverting to the previous bug I'd have no idea what to do
+I believe on Nougat there's a lot of underlying framework Google can update without an OS update.
+I would recommend not using a cable with a small gauge (thin conducting wires). More prone to break and may not be able to fully carry Quick Charge power level
+To give everyone a benchmark, my Nexus 6 on wireless charging is > 700 mA. If your wired charger is providing less than that I would consider discarding it for a new one. You can pick up a couple quick charge 2.0 or 3.0 chargers for $20.
+What I find interesting is it seems possible autopilot driving systems may become widely accepted not because they may make roads safer, eventually, by removing humans from the act of driving but rather because it's easier & more convenient for the vehicle owners.
+Did a little bit of digging. Looks like some or all of those internal screws fit with T4 screwdrivers best. Really I just look at that as a small detail.
+
+What I'm more concerned about is finding a halfway decent battery. On my previous Android phones it was nearly impossible to find good batteries once the phones were 2+ years old. The OEM replacement batteries were rare, extremely expensive, and had sat on a shelf for a while anyway. Most of the batteries on Amazon had fake labels applied or were nearly impossible to figure out who made them.
+
+Any info you saw on the make of the iFixit supplied battery?
+This is interesting. Accubattery reports my battery at 83% health, so with your reading and OP's gives us a good baseline for the rate of Nexus 6 original battery deterioration over time.
+
+I'm wondering if the batteries can still take a decent max charge, ~82%, but some battery component(s) have degraded that cause power instability. Which... would be an issue at lower charge levels especially on custom kernels that don't throttle.
+
+Which battery did you use for replacement?
+I'm wasn't disagreeing with you
+If you assemble a free body diagram you'll get an idea on net acceleration applied to the vehicle given the community's estimates on fuel remaining and thrust performance at altitude
+I wasn't able to tell what type of screwdrivers the toolset includes. T3? T4? Thank you for the link BTW.
+We may not know until Block V has flown successfully at least 7 times consecutively
+Can you confirm the capacity of the battery, possibly with AccuBattery or some other application? Looks like this battery's capacity is 6% smaller than the OEM capacity.
+Has there been any news about man-rating reused Falcon 9 boosters? In particular for the NASA commercial crew contract
+Recommendation on which battery to buy? I'm considering the one the ifixit guide site sells
+I'm not sure what they mean, could be they insist flashing the latest factory image from Google for Nexus 6. That way you're not on an outdated bootloader, radio, etc.
+If there was any doubt about the purpose of the arms these images certainly help explain their function.
+
+Great job on getting these pictures
+Is there a really comprehensive guide you all would recommend? I've heard replacing the battery is a rather detail oriented task.
+
+I've seen guides that also directly link to stores with the recommended battery and tools required. That'd be really helpful too
+This helps reduce actual Bluetooth usage, but the Bluetooth reporting is still broken. Adjusting these options used to successfully reduce reported Bluetooth usage however this is no longer the case for latest 7.1.1 stock OS
+There is no fix that I'm aware of. I use BetterBatteryStats the results from which suggest there's a bug in the Nexus 6 7.1.1 bluetooth battery reporting. Appears that bluetooth is behaving okay in reality
+Lineage OS doesn't appear to follow the same release convention as CyanogenMod did i.e. nightly/release candidate/stable. Is there some sort of analog to know which Lineage OS nightly is "more stable than others"?
+Original battery from early 2015. Screen on time on stock OS is around 2-3 hours.
+
+I need a new battery lol. I'm not up to doing it myself & cheapest place near me is $79
+I'm not following. You're saying methane & oxygen aren't storable propellants for deep space. Isn't SpaceX proposing using those propellants for their ITS/BFR vehicle?
+I've monitored betterbatterystats for a few days on stock 7.1.1 with Bluetooth enabled. The phone is in deep sleep almost the entire time the screen is off. Of my current 9 hour uptime I've had a bluesleep kernel wakelock for 18 minutes. This doesn't seem like an exorbitant amount of time. All other Bluetooth related battery stats show low usage.
+
+Built-in Android OS battery reporting still shows impossibly huge Bluetooth battery usage. The betterbatterystats results suggest Bluetooth isn't grossly misbehaving. Do with that what you will.
+For stock 7.1.1 I have tried many different combinations of settings including turning instant tethering off and Bluetooth location scanning. Doesn't work. I picked up better battery stats recently so will see what that app reports
+What a nice thing to do!
+I would be extremely surprised if SpaceX hadn't properly accounted for this analytically let alone with verifying their results with the actual individual cores.
+Not high. Having had reams of data on Falcon 9 performance during Falcon Heavy development helped reduce mechanical analysis uncertainty
+I don't recall any live static fire feeds previously. However, I strongly suspect official footage will eventually be shared
+I don't recall seeing any Falcon 9 in-flight views that weren't either straight down or internal shots like the tanks and interstage
+Makes sense. AFAIK takes ~1 day to integrate most payloads so schedule would be pretty tight
+I'm guessing these concerns are part of the reasoning for doing helicopter based landing zone radar testing
+Preface: I'm not attempting to give Apple an out with this comment.
+
+No matter how Apple could've communicated this concept of slowing down iPhones to ensure random shutdowns due to  normal battery degradation don't occur there would've been unfounded backlash. From a 1st principles perspective makes sense why Apple slowed the phones but I really don't know how they could've successfully made peace with most iPhone users on this
+My understanding is information on any core's engine origins has been scant. I believe it's been said some previous new cores had a mix of new and used engines
+Yes, hopefully it will be replaced with the source video
+Are you sure you weren't seeing other structures lit up? I think this is a more common mistake on pad 39a because of the pad tower and RSS. Looking at day old satellite images of pad 40 I'm only seeing the lightning towers and those are fairly thin
+Could you elaborate on the history of this wakelock? I'm unfamiliar with what it is
+I'm experiencing the same issue on stock 7.0.0 so I'm convinced it's a Google app or something on their backend type of bug.
+
+I'm really not sure what tool may help diagnose this problem. I found out there are other phones with equally frustrated groups of owners with the same Bluetooth battery bug
+What is forcing SpaceX to publicly disclose why the launch was postponed? Why couldn't SpaceX have said nothing at all instead of fabricating a reason as has been proposed?
+I think I figured out the issue, would you be willing to try this out? Go to: Settings - Location - 3 dots menu at top right - Scanning - Disable Bluetooth scanning. Make sure you have both settings for Instant Tethering disabled as well
+
+Edit: also need to disable these settings:
+
+Google app settings - Voice - Bluetooth headset (records audio through Bluetooth headset if available)
+
+Settings - Google - Nearby - Both/All settings
+
+Upon disabling these settings, reboot for changes to take effect. I noticed if after rebooting you visit the Nearby page you will again have weird Bluetooth battery issues till next reboot
+Since starting this thread I've tried uninstalling any apps that utilize Bluetooth, googling the 7.1.1 OS Bluetooth battery bug, and followed the stops found in this thread. I haven't had any luck so far. I'll keep trying but if I don't have any success may just revert back to 7.0.0 and get Night Mode back as well.
+
+I did find there were other phone makes and models that also have this strange Bluetooth battery usage bug on 7.1.1 as well. It's not just the Nexus 6
+Had my hands on an iPhone 8+ this past weekend. Feels like a nice phone. We'll be interested to know how the change in ecosystem and OS features goes for you
+This is curious. Anything unique about your phone's setup? Unencrypted formatting? I started a factory reset yesterday, walked back 30 minutes later & it was sitting at the 1st boot user wizard
+Its atmosphere is thick enough to be useful. Reason why the dV to get to Mars from Earth is similar to the atmosphere lacking Moon from Earth. The atmosphere reduces 99% of the kinetic energy spacecraft have which are attempting to land
+Which version are you using? Mine is 16.0.0.8.124 updated on October 9, 2017. I checked and it still doesn't support GIFs from Google Keyboard
+Did you try sending a gif? Google keyboard says the text field in messenger lite doesn't support that type of input i.e. doesn't work
+I used this forum thread to find all of the shrine and side quests. What makes it an effective resource is the list the user provided is in the same order as in the game menu.
+
+https://www.gamefaqs.com/boards/632936-the-legend-of-zelda-breath-of-the-wild/75119510
+The build date is October 5, 2017 for the Verizon OTA. It's possible this OTA won't be received until then unless the user manually checks 
+What if you use Google keyboard's gif search?
+I came from April 2017 7.0.0 NBD92G & my OTA was 368.0MB
+I can confirm Verizon has pushed the 7.1.1 OTA to my phone. It's 368.0MB
+My guess is it's a carry over from the BFG in ID Software's Doom game
+I finally completed the rounds with Motorola, Google, & Verizon. They all confirmed what we already know: the manufacturing and developing companies have released the updates to the carrier. Verizon will not confirm what type of bugs are holding the update back. The only recourse is to bug them on social media (which I am not bothering to do)
+I'd think this happening would depend on factors external to SpaceX like a grounding of ULA's rocket type supporting USAF missions
+Upgrading a Nexus 6 to 7.1.1 removes Night Mode
+There is a way in an app's settings to disable notifications. I recall people used to do this for a particular Google app to eliminate OTA update notifications.
+
+Maybe this is the issue you're experiencing?
+Give it a week or so I guess, sometimes performance drops until you reboot again and system has time to settle. If issues persist try a factory reset 
+I recall with Verizon there were initially issues with activating a Nexus 6 on their network. The workaround was to drop in an already activated sim card from another phone 
+I just got off the phone with a Verizon technical support representative. They're going to contact Verizon's liaison to Google to get information on what's happening. Hopefully in a few days I'll have more info on whether there's a projected release date or news on issues holding the security update back
+Hopefully carriers lagging behind on running recent Nexus 6 OTAs will push September's security update. There's a lot of Nexus 6 owners out there with no knowledge on being able to manually push updates over USB.
+Launch pad is still subject to change as far as I know. 39A is what's currently scheduled
+So this person owns a home in an area likely to flood, did flood, and is critical of others for owning homes in an area likely to flood?
+That's not the case, common etiquette for a wedding anywhere
+You're attempting to convey people new to the Houston area built homes in the wrong areas, places that you've seen flood before. You said your house flooded.
+
+Wat?
+If a competitor is going through the effort of designing fairing recovery systems it's fair to assume they'd be willing to design their fairing separation mechanism to be compatible with fairing reuse.
+
+I hope you're right -- SpaceX is just waiting for good success on fairing recovery to show it off. Doesn't really fall in line with how they provided coverage of their initial stage 1 landing attempts failure or not
+Speculation: SpaceX is being more tight lipped about fairing recovery info & media b/c this is a capability a competitor could implement into their current production vehicles. What this means from our perspective is we won't be given much information until SpaceX has fairing recovery figured out. It'll be interesting to see if they'll eventually make full duration fairing recovery videos available to the public
+This is on Google's end. Will take some time for the SSIDs location to refresh
+Inclination greater than 90° could signify a retrograde orbit
+Your comment raised an interesting thought for me: where and to what extent does SpaceX test the landing legs? Fully assembled extension test in Texas? 
+In the US the typical fiscal working week starts on Monday. Most non-work calendars start on Sunday though... just to add to the confusion
+It's a bug in 7.1.1 for Nexus 6. I would've thought it'd be fixed by now, but I guess not. It's at least a battery usage reporting issue and at most indicative of a bluetooth stack code issue. There are some devices like FitBit that work on 7.0.0 but not 7.1.1
+Barring an official tweet from SpaceX or the customer(s), is our only solid evidence prior to launch an RTLS landing will occur an FAA request? 
+I've read posts with people saying to take your sim card out, turn your phone off for a little bit, then boot up and get the latest Android OS update
+For this interested about Verizon and AT&T, their supports sites are still listing April 2017 7.0.0 as their latest OS update for the Nexus 6.
+
+https://www.att.com/devicehowto/index.html#!/?make=Motorola&model=Nexus6XT1103
+
+https://www.verizonwireless.com/support/google-nexus-6-update/
+Hopefully we'll get some sort of confirmation on thrust rating for the engines being used today. It's been stated in this subreddit the rocket is a block 4, but it's possible it's some combination of block 3 and block 4 technology including engine rating employed (even if the Merlin hardware is the same across both blocks)
+I guess my perspective is calling the proposed "final" variant of the Falcon 9 block 5 gives us a common name for it and not really much else. Not particularly satisfying there's not a consistent version nomenclature convention -- oh well
+Maybe. But this kind of sounds like a revision of a revision i.e. ITS scaled down to mini size, then scaled and designed for the Falcon family.
+Google removed night mode functionality in 7.1.1 for the Nexus 6. About the only thing keeping me on 7.0.0 until Verizon officially pushes 7.1.1
+Just an FYI, AT&T and Verizon both have 7.0.0 listed as the latest software upgrade available for the Nexus 6. If you want 7.1.1 you'll have to sideload   
+I'm familiar with how data is post processed to perform "acoustic triangulation" in an internal cavity, but how would "acoustic triangulation" be carried out for an exterior attachment point?
+You can turn on airplane mode then enable WiFi to keep your phone from searching for a cellular signal. There may be an option in the Anroid OS settings to better disable the cellular modem.
+
+That said, Cell standby should be capturing the battery drain from your modem so doesn't answer your Android OS power usage question.
+The only compelling feature on this phone anymore are the decent front facing speakers i.e. listening to audio when you've only got your phone. Some newer phones have better screens, power management, processing capability, cameras, and features like fingerprint scanners.
+
+Only reason I still have a Nexus 6 is I'm eeking out my original investment in buying the phone 2½ years ago. Looking forward to what the new Pixel and Note handsets will look like.
+Landing legs will become reusable? If so will be interesting to see what the new design looks like
+April 7.0.0 is the latest OTA pushed unless you've manually flashed builds through fastboot or recovery
+I'm still in the camp the first SpaceX craft to land on Mars will already have enough fuel for a return mission available from a presupply mission. Even if ISRU has already been accomplished on Mars prior to the first crewed mission, there's the possibility their ISRU production could fail prior to having enough return fuel 
+OK Google is Google Assistant. Not sure what app my car command is routed through. Also, I'm on 7.0.0
+I experience both speakerphone and Bluetooth calling when commanding my phone to make a call in my car w/ builtin Bluetooth calling support.
+
+If I command my car to send a Bluetooth voice command to my phone to make a call, the phone defaults to speakerphone. If I say OK Google directly to my phone to make a call, it will connect to my car's Bluetooth microphone. WTF lol
+Soyuz capsules aren't reusable as far as I know. Too big of a risk to land a dragon capsule on ground and risk damaging the heat shield or shock the pressure vessel I'd imagine. May be possible in an emergency scenario to safely land on ground as far as the crew is concerned.
+That's my interpretation from what you've shared. I've owned this phone over 2 years and the LED has come on exactly once. It only comes on for a stock Nexus 6 when the battery charge is extremely low AFAIK
+What are NASA's options?
+That's an important detail. Looks like OP forgot to include any level of useful details other than what kind of phone they have
+You should still be able to use adb to sideload an official Google OTA in recovery with a locked bootloader. What you can't do is a full flash with the factory imaging script with a locked bootloader.
+I have stayed on 7.0.0 so I can't speak from personal experience. I believe I've read other users on this subreddit saying you need to sideload April 7.1.1 or later for your Nexus 6 to receive the 7.1.1 OTAs automatically again.
+That's very true. Whenever we're out and about and we only have phones for music, everybody always wants to use my Nexus 6 speakers
+Most of what people comment say SpaceX vents the liquid oxygen overboard. Given how much the Falcon 9 has onboard that would take a long time and pose a risk to anybody wanting to approach the pad. Why not just pump it back into storage?
+I believe I read SpaceX tested a longer endurance stage 2 on the recent NRO mission. Wasn't clear if the new endurance capability demonstrated was any where near enough for direct GEO insertion
+Is there a typical group or website that provides SF images or sets up a stream?
+Google has been misleading and convoluted in their 2017 Nexus 6 software updates. The best you can do is flash the latest 7.0 image or flash the latest 7.1.1 image. I know with Verizon they officially recommend 7.0 as do I given the build issues Google's Nexus 7.1.1 updates have had.
+
+You'll have to flash the factory image from your computer if you choose 7.0 
+Same here on pad 39a. It will be interesting to see what proportion of launches from there are commercial Falcon 9s. Depending on launch demand when SpaceX finally reduces their current backlog there may not be that many Falcon 9 pad 39a launches
+Payload wasn't mated when I checked earlier. Booster has been lowered
+Speculation in the launch thread is GSE testing. Hopefully we'll get something more official soon. https://forum.nasaspaceflight.com/index.php?topic=35587.msg1691958#msg1691958
+Okay, I think I fully understand the state of your Nexus 6 and troubleshooting steps. As far as I know a broken recovery on a locked bootloader is as bad as a broken bootloader. Also, not sure how nonstandard partition formats, like F2FS, break stock Android if those were applied. I am guessing when you were advised to lock your bootloader that person was hoping it would wipe out the changes you flashed, but it may have gotten stuck on the different format.
+
+Best I can help is try making a forum thread on XDA detailing the specific steps you took. It does sound like you may be stuck having to contact Motorola support.  
+If you were able to previously flash TWRP, I would think you should be able to flash the stock recovery. You're not going to be able to use Google's stock image batch script as is since it attempts to unlock the bootloader. Just flash the stock recovery.
+
+As far as your OTA zip sideload signature verification error, it sounds like either an issue with your platform tools environment, recovery on your phone, or your OTA download has a bad checksum.
+
+Once you've exhausted all other options try another USB cable you have confidence is good.
+I think you need to flash the 7.0.0 recovery from the stock factory image to have confidence in knowing what recovery is flashed on your phone. As far as 7.0.0 vs 7.1.1 it's a matter of what Google said was the "official" update path. Given the build quality issues of the past with Nexus 6 7.1.1 releases I'd at least try 7.0.0 with getting your phone working. 
+Is your current situation you've got TWRP recovery on your phone, your phones system partition is hosed, and you've got the latest fastboot and adb from Google installed on your computer?
+
+I've seen issues with installing official Google OTA zips when I haven't had the latest platform tools installed, which could be the case with toolkits, but sounds like you've tried the latest tools. Can you put the stock Google recovery back on your phone? If so, pick the latest 7.0.0 recovery and get the OTA zip for the same 7.0.0 build number. I'm hoping the issue is TWRP and that you can flash the stock Android recovery.
+
+The fix I'm proposing is to flash the latest 7.0.0 OTA on the latest 7.0.0 recovery to rebuild your system partition. From there you would have a semi working phone.
+Try installing the latest Android sdk and use the fastboot tools it downloads onto your machine. It's possible these 3rd party tools have an issue with fastboot on the later Nexus 6 OS releases
+Yes, what Google is doing OTA wise on the Nexus 6 is not something I've experienced on past Google phones. Last word from them is 7.1.1 isn't the official upgrade path but it's currently the only version being updated. There's been no word on them discontinuing supported updates for Nexus 6 but unless you sideload you're stuck on 7.0.0 April. That's what I'm using and I don't have any complaints so guess I'll wait it out 
+Between the built-in Nexus 6 battery power management and Android OS you should be able to recalibrate your battery with just a few full charge/discharge cycles. If your problem persists you'll want to take a look at your custom kernel's modified power demand
+Try limiting your kernel's clock speed to a lower voltage at say 20%-30% battery remaining. See if you can go low enough to eliminate your phone prematurely shutting off before 1% battery remaining
+There's an adb command to dump your /sdcard/ contents. If that doesn't work not sure what else you can try.
+No 7.0.0 image was released for May and I'm not aware of any carriers pushing 7.1.1 updates to people currently on 7.0.0 versions. We'll have to wait and see what updates get released June 2017.
+
+If a 7.0.0 image is released, you'll probably get it pushed eventually. If only a 7.1.1 image is released, it's a 50/50 tossup whether it'll ever get pushed.
+Before I reverted from 7.1.1 to 7.0.0 stock I experienced the same massive Bluetooth battery reporting bug too. I tried disabling instant tethering but didn't work -- did it work for you?
+
+There must've​ been a big change in the Android Bluetooth implementation from 7.0 to 7.1 b/c certain Fitbit devices support 7.0 Bluetooth but not 7.1 (not that Fitbit has a shining record of keeping their devices well supported)
+That makes sense. All logistics and hardware must be working well in order for a static fire to occur successfully. Once everything is worked out for a static fire, makes sense the launch would generally go more smoothly.
+What information do we have pointing towards this being a block 4 first stage?
+I haven't seen any carriers moving people from 7.0.0 to 7.1.1 so may not be the "supported" upgrade path (yet)
+If you're fully stock, have you tried a factory reset and reassessing whether any apps are causing performance issues? I'm on the latest 7.0.0 and performance is decent
+Something you've got installed already just for testing like Facebook Messenger. Send the same screenshot with Android Messages and with the other app
+What about if you try another MMS app?
+Is the west coast ASDS already configured to support the Roomba?
+At the bootloader try 'fastboot oem unlock'. Then you can flash a Google factory image using Google's instructions. Also, your original post is confusing. You link to a Nexus 6p class-action lawsuit 
+Going along with your comment, expendable Falcon 9 launches may use up the outdated variants of landed boosters SpaceX already has e.g. block 3 boosters. I'm not aware if there are current plans to reuse any GTO landed boosters prior to the final upgrade version of Falcon 9 but these would be good expendable candidates too given their limited remaining durability
+Last charged 21 hours ago, currently at 54% charge. Bought phone new April 2015. Run completely stock on April 7.0.0 stock build. I don't run any battery saving apps
+Easiest advice to follow to see if hardware is the problem is install the Android SDK and flash the latest 7.0.0 factory image. Don't do any goofy toolkit installs or keep userdata custom installs. Just install the latest factory image as Google intended i.e. a complete flash of the phone's NAND.
+
+Don't install any 3rd party apps and use the phone for a week. If your battery problems are gone, your previous software setup was an issue. If the problems persist then you have a hardware problem. Shortcutting this process will give you an unclear analysis of what the problem is.
+What directory does the OTA zip need to be copied to and what must the .zip be named? 
+FYI Verizon's Nexus 6 page has April 7.0.0 NBD92G posted as their latest OTA. Based on feedback in this subreddit a few carriers are remaining on the 7.0.0 track for now. T-Mobile hasn't updated their Nexus 6 page yet https://support.t-mobile.com/docs/DOC-32241
+Based on my readings, I don't think bypassing McGregor means skipping refurbishment. True or not I've seen it mentioned some refurbishment is possible at Kennedy Space Center in Florida
+I had not considered there's probably a threshold for maximum payload size/mass horizontal integration allows which is lower than vertical Integration. This assumes the fairing volume constraints are large enough to support such a massive payload
+Has anybody gotten the May 7.1.1 build as a carrier provided OTA? So far I've only seen people manually flashing it. Verizon is listing the April 7.0.0 as their latest push
+Can we get this thread destickied and sticky the May 7.1.1 OTA thread?
+This sounds more like what was explicitly stated: SpaceX wanted to test being able to generate thrust after having been in orbit for a while -- battery power and propellant temperature limitation testing. Aero braking is typically used in lieu of propulsive braking like for orbital insertion at Mars.
+Lollipop had soo many bugs even on 5.1
+With the booster landing at or near sea-level pressures, it wouldn't make sense to me to use a different bell than is already used on the Falcon 9 booster.
+Same was true for me all the way up to the 7.1.1 March release. Don't know if the April 7.1.1 release has this bug, I'm not seeing it in March 7.0.0
+The article reads the 360° cameras will be at the pad and not on the rocket. Be interesting how they'll take advantage of 360° viewing, hopefully it's fairly close to the launcher
+May want to do some research and see if cellular connectivity is affected on your carrier by upgrading past 6.0.1. My guess is no so if you decide to update I would use the April 2017 7.0.0 security OTA
+I don't trust bluetooth battery reporting beyond stock 7.0.0 on the Nexus 6. That's been my experience
+Verizon is pretty slow but they eventually get them out middle of the month
+Yes
+From the day I installed 7.1.1 till the day I reverted to 7.0.0 factory image. Possible April 7.1.1 security update fixed it, not likely though
+On 7.1.1 Bluetooth had a bug where it would register power usage much higher than the capacity of the battery. On 7.0.0 it doesn't
+Kernels play a big part in what voltages/currents/powers your processor operates at. Imagine if you will a battery in fair condition that operates fine with the well-grounded stock kernel but doesn't with 3rd party kernels running custom voltages. This is only exacerbated by changes to the governor controlling the kernel too. 
+Did you install stock 7.1.1 April build? If so, have to wonder if there's an issue with 7.1.1 and Assistant and Google pulled it back. Or, could be yet another 7.1.1 Nexus 6 issue
+I too started having pretty severe performance issues on 7.1.1. I went back to 7.0 since I'm questioning the build quality of the 7.1.1 Nexus 6 releases: speaker phone stopped working, standard Android Pay verification system stopped working beginning of March, most carriers have kept Nexus 6 on 7.0. Plus, Night Mode is nice to have back.
+If the phone is lost or stolen while left unlocked, it may be easier to gain access to data. Maybe ultimately makes little difference I just went ahead and relocked the phone since I never flash anything.
+I had been sideloading the 7.1.1 OTAs from Google's website. I too was experiencing slowdown I hadn't seen before on this phone. I unlocked my phone, flashed the latest 7.0 factory image, and locked it again. It's been running great since then.
+
+Baseless speculation: there are build quality issues with the Nexus 6 7.1.1 releases. Could be why most carriers have kept the Nexus 6 on 7.0
+It could be a moot point. Even with Block V I think it's reasonable to expect refurbishing cores will "take a while" at first. I wager more than 7 flights of new Block V boosters will occur before first reuse
+I am excited for a stock everything Android O Nexus 6 port later this year, assuming there aren't hairy driver issues etc 
+It really depends on where the phone is operating. There are locations I get 10 Mbps, other places I've gotten well over 50. XLTE is supported on the Nexus 6 so that helps. I've tried TMobile twice in the past 5 years and there is no comparison to Verizon's service in my experience
+It just works I guess is all there is to say.  Don't have any troubles LTE or call wise
+Couldn't you use adb to perform the OEM unlock command?
+I've wondered if the battery becomes "less stable" at lower battery levels i.e. some CPUs need to be disabled
+I thought OTAs were supposed to be smart enough to check not only date but compatibility like previous build name/number. I guess not
+I've been aware of people having this issue for a while. I haven't really noticed it on my phone, wonder if it's because I keep the brightness slider set pretty low
+This website says what Verizon Nexus 6 handsets should be updated to. Maybe there's something up with your phone e.g. previously unlocked and flashed. Could try pulling SIM card and doing a factory reset, then check for an update over WiFi with SIM card still removed. http://www.verizonwireless.com/support/google-nexus-6-update/
+In the same boat. Probably replace it when the battery starts to degrade due to age/cycling
+I'm using N6F26U on Verizon, works fine besides Bluetooth turning off after reboot. Don't know if 7.0.0 has this bug but I live with it fine. I don't know if Android Pay is fully functional again since I rarely use it for instore transactions
+I'm on the 7.1.1 March security update and my Bluetooth continues to be disabled on reboot and battery stats show a huge impossible Bluetooth battery usage 
+I went to my local corporate store over the weekend & the Verizon representative said military discounts can't be applied to single lines on the new unlimited plan
+Sounds like you'll need to flash one of the March security OTAs when they become available
+Not only is offloading the cargo a tough challenge, but it seems like developing an autonomous propellant plant to work here on Earth would be extremely hard let alone on Mars
+What are the qualities about Portra 400 film that are most desirable particularly with respect to rocket launches? Color, sharpness?
+I've looked at a few news sources about the presidential address to Congress tomorrow. Didn't find any direct indication NASA or SpaceX will be discussed... We shouldn't be surprised if Elon's announcement is completely divorced from anything in that direction.
+
+Edit: tomorrow night not tonight
+When I had a Samsung Fascinate I bought "OEM" batteries off Amazon but they always ended up being fakes. Short of a reputable battery website I'm not sure you can be 100% the seller is indeed providing a real OEM battery
+Around that time I saw an extremely bright light shifting from white to red then back to white to the west. I assumed it was a planet or star at first since its position didn't change in the sky. After about an hour or so it either dimmed or went below the horizon  
+Why does SpaceX have to stop fueling when the current strongback retracts?
+I'm not saying you're wrong, but I'm not aware any guarantees about timely updates. From what I'm aware of Google hasn't said anything loud and proud about timeliness. If they have it'd be good to throw it at them on social media (Twitter etc.)
+There are so many repeat posts about not receiving OTAs that it's clear the mods are nonexistent in this sub and too many people don't read previous threads. Since the beginning, at least for almost every Android phone in the US, updates must be supported by your carrier. Here is a link for Verizon http://www.verizonwireless.com/support/google-nexus-6-update/ for example.
+
+If an update isn't supported by your carrier, it isn't happening. Fortunately, Google has official tools on their website for quickly and easily updating your phone as if the update came over the air. You have the option to use community created tools, like 1-click tool kits, although I have no idea why you would.
+
+I don't recall Google making concrete promises for Nexus 6 software updates other than they'd receive version upgrade support through ~2 years and security through ~3 years. No mention of guaranteed instant updates. Until Google widely televises this capability with their phones, it's not happening.
+If you want to know when Verizon officially supports a Nexus 6 update, check this link https://www.verizonwireless.com/support/google-nexus-6-update/
+Some things are better left unsaid
+I use night mode so I'm gladly hanging out on 7.0 w/my Nexus 6
+This seems like fighting the symptoms and not the cause.
+Will be interesting if we find out with this launch, assuming there's a propellant loading procedural change, if there's any change to the Falcon 9 performance and robustness to launch scrub. We don't know yet for certain if the "fix" is simply a modification to the fueling process. Given that, we can't know with 100% certainty if the previous target subcooled LOX/fuel temps are still achievable and if it's become difficult enough to reach these targets that we start to see launch delays again due to propellant temperature issues.
+Is it reasonable to expect the receivers for the initial test satellites will look different from the eventual production hardware (size wise)? 
+I have been wondering what work will need to be done to enable methane/oxygen production. Solid water doesn't last very long when exposed to the Mars atmosphere, so there will be some level of excavation for water ice. Unfortunately, it would seem to me the ISRU challenge is more difficult than the sum of taking parts to Mars and assembling them.
+How long does a full charge take for a dead battery? I bought a different wireless charger a while ago off Amazon that takes ~4 hours
+The report I read suggested NASA agreed the most probable cause was with a strut, but NASA wasn't convinced the failure mode SpaceX identified was the only possible mode
+What you're describing is a possibility in terms of something accidental occurring. Even a very thorough TOPS8D might not uncover such a cause
+I had GasBuddy installed and wondered for the longest time why I had trouble getting through the day. Dropped it like it's hot & back to charging every other day or so

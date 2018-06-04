@@ -1,0 +1,1191 @@
+v4.2:  
+
+- PMDG 737-800  
+- FTX AU  
+- AS16  
+- Tomatoshade
+- Bonus shot [1](https://cdn.discordapp.com/attachments/304906290399019008/439815887663398932/2018-4-5_12-1-21-722.png) & [2](https://cdn.discordapp.com/attachments/304906290399019008/439816053644853263/2018-4-5_11-35-50-593.png)
+good old r/ScottishPeopleTwitter 
+well... It is an A380, that's a pretty limiting factor when it comes to looks ;)  
+
+In all seriousness though, it's not too bad a model, though the texture resolution is slightly lacking so I'm tempted to do some higher res repaints for it.
+called you a whale, what are you a deaf whale? /s
+It's just a dodgy add the model and edit contact points kinda thing so it flies exactly the same as the BBS346. Works well enough for when I feel like flying the 380 though.
+I'd say your entire response is pretty accurate from my experience.  
+
+ What I was trying to say is from my position as a scenery developer for primarily P3D, I can put together something dodgy or make a tweak to an existing scenery really quickly and so can anyone once they learn how. Any new platform needs that ability. It honestly wouldn't surprise me if it is just as or even easier in X-Plane, I just haven't played around with it enough.  
+
+ I'm sure for anything more complex than a scenery though it is a major pain, even scenery would be a pain if we didn't have all the tools we have to act as a proxy to the SDK.
+It was also the same guy that did it so...  
+[Source](https://www.avsim.com/forums/topic/123969-has-lefteris-kalamaras-left-pmdg/)
+This is what will make me buy X-Plane
+- P3D v4.2  
+- BBS340/PA380 Merge
+- FTX Global  
+- Tomatoshade
+But unless someone creates something that is both amazing and easily tweakable and modable it won't succeed. My favourite feature of the ESP platform is I can botch together something for FS9, FSX or P3D (and easily convert between the 3) using Photoshop and a text editor in 10 minutes, and it applies not only to default stuff but to pretty much every addon ever, because they all work the same way.  
+
+Sure, retaining that functionality limits what can be done with the sim, but it makes it so much easier to do stuff with the sim in the first place that anyone can do it with quite little knowledge. Any platform that is going to succeed needs this functionality because community add ons are essential to flight sim.  
+
+And I realise that XPlane has functionality like this as well but I haven't played around with it, and I don't believe it is as easy as ESP from what I've read though I could be wrong.
+I might be wrong but I think I’ve read that the rights to offer FSX through steam are a different thing completely
+To be completely honest, I think they kinda do. It’s not as if they don’t know what their platform is used for, otherwise they would not be going to flightsim expos and they wouldn’t be doing AMAs. I’m pretty sure they would benefit from acquiring it but I’m sure there could be reasons why they wouldn’t be able too. Possibly dovetail might not want to give it up, I’m not really familiar with how all those rights works.
+I’ll be interested to see what happens with dovetail and their ‘entertainment rights’ for the ESP platform now that they’ve given up on FSW. I haven’t actually used XPlane other then the demo, and while I’ve certainly been impressed by some aspects, there are a few little things missing for me.  
+
+I think however XPlane will keep improving and so will P3D, Multiplatform addons will be come more common (the FlyTampa scenery that came out, Active Sky which is apparently in development, the A380 if that comes out etc.).  
+
+I can’t see any new sim taking over the market but I think we will be seeing some big improvements in the future.
+Here's what I do: for flights when you are able to check your PC, check every half an hour to see if you have been contacted. If you can't do that disconnect until you can do. As long as you aren't in a controlled airspace when you reconnect you are fine to reconnect.  
+
+As for tracking, projectFly is amazing, even if you aren't a massive fan of Matt Davies, what he and his team have created is a pretty nice piece of software as far as tracking goes, and it will even tell you landing rates and show your touchdown point.  
+
+By doing this you get too see traffic and be controlled as you can be online whenever you are there to see it, and you can always track whatever flight you are doing, even if you decide to fly offline.
+This was flying in
+- v4.2  
+- BBS A332  
+- FTX Global  
+- Reshade  
+- [This thing](http://shadertweaks.ga/)
+It's the BlackBox A340. It is much better then a lot of people would have you believe but it's still nothing super amazing. They do update it every few months and there are pretty decent improvements each time. I have another [post here](/r/flightsim/comments/8bxz0b/27l_cleared_to_land/) that shows off the cockpit, they so far have only modeled CRTs.
+it's the one on the r/flightsim discord in #community_addons 
+Off the top of my head: the new SDK allows developers to do a whole bunch of cool things with scenery eg. the multiple improvements required for features such as being able to walk up the tower in FSDT KMEM, SpeedTrees, Dynamic lights, Dynamic reflections.  
+
+ There are a lot of optimisations to the engine, things such as allowing frame rendering to be on a CPU core by itself instead of being on the same core as other things such as physics calculations and loading scenery and objects. Speaking of that other stuff, a lot of it is offloaded to the GPU now as well and there are signifigant improvements to how the CPU is used while loading.  
+
+As someone that does a lot of repaints, to be able to hit a button and reload the user object is a great feature.  
+
+Being able to use the Add-ons menu with 'addon.xml' files so you do not have to reinstall your add-ons if for some reason you have to reinstall the is also a great feature. Speaking of reinstalling the sim, it can be done in modules now so if you accidentally break the base scenery, for example, you can uninstall and reinstall only that module.  
+
+In addition to all of these, one of the biggest things is that is works properly on modern Windows. Not that they were painful to deal with but things such as uiautomationcore.dll and HIGHMEMFIX=1 are not issues with P3D.  
+
+EDIT: Just going to add this to the bottom, being based on the ESP engine, and being similar to FSX is something I would call a feature as it means that a lot of older addons will work fine and even older ones require little work to update.
+P3D 4.2
+Addons:  
+
+- [BBS A346](http://www.blackboxsimulation.com/index.php/products/airbus/airbus-a340/) with [AusFS VIR Fleetpack](http://ausfs.tk/repaints/index.php)*
+- [FTX ENG](https://orbxdirect.com/product/eng)
+- [FTX Trees HD](https://orbxdirect.com/product/ftxtreeshd)
+- [AS16](https://hifisimtech.com/as16/)  
+- [Tomato PTA](http://shadertweaks.ga/)
+- [Reshade](https://reshade.me/)  
+^^^.  
+
+^^^^*not ^^^^actually ^^^^released ^^^^yet ^^^^but ^^^^should ^^^^be ^^^^in ^^^^the ^^^^next ^^^^2 ^^^^weeks
+Yeah, they remodelled it in the most recent update and it is a lot better then what it used to be.
+;)
+^^^^just ^^^^don't ^^^^mind ^^^^the ^^^^787 ^^^^and ^^^^777... ^^^^;)
+That's correct. They are working on an LCD panel however, so hopefully it will come out soon  
+ [Facebook post](https://www.facebook.com/BlackBoxSimulation/photos/a.208744025877670.52636.189473337804739/1506329042785822/?type=3&theater)  
+[Screenshot of Facebook post because Facebook is a bad website](https://cdn.discordapp.com/attachments/304906290399019008/434524026191478785/unknown.png)
+we don't question blackbox... It does some funny things
+Addons:  
+
+- UK2000 EGLL  
+- AS16  
+- FTX ENG  
+- BBS A346
+Blackbox A340-600
+To be honest I was too busy noticing how dodgy that repaint is [;)](http://ausfs.tk/repaints/index.php)
+You need to create a spec map and make the aircraft black. [Here](https://cdn.discordapp.com/attachments/304906290399019008/431973897580052501/unknown.png) is what I've done for my Qantas 747 Fleetpack, obviously, that is for the 747, not the 777 but the procedure is the same; [texture name]_spec.dds and make it black to remove reflection. I have made mine grey so that it is still a little reflective.
+BIG DCT DIK over the English Channel is always a good one too
+https://www.reddit.com/r/flightsim/comments/7yh4zu/fslabs_a320_installer_seems_to_include_a_chrome/
+It looks like the RealAir model, they don't make sales anymore due to the passing of one of the developers or someone close to one of the developers if I remember correctly.
+The issue is that the window is too tall, for the best comparison have a look at videos on YouTube of other 737s in the sim (iFly, Wilco, IXEG, Milviz) as that will give you a direct comparison.
+A lot of stuff works, a lot doesn’t, generally more complex stuff like other comments have said, but a lot of sceneries can be fixed if you don’t mind renaming or modifying some files. UK2000 sceneries for example can be made to work by ‘turning off’ a few broken BGLs and this works for a few other sceneries as well. As a general rule, if it is a native FSX scenery it should work, though the APX might need updating to properly support the apron/taxiway draw flags. If it was a P3D native scenery then it will almost definitely work, I haven’t found any exceptions. The only issue with this is most sceneries aren’t native to one sim, some have parts made with the FSX, FS9 and FS8 SDK as well as the P3D SDK so YMMV.
+
+Edit: the instructions to get the FSX UK2000 sceneries to work in v4 are about 1/3 way down this page http://www.uk2000scenery.org/forum/index.php?topic=8834.15
+Says someone with a $1000+ phone... 
+>	Now when you move a space on one monitor it doesn’t move on other connected monitors.  
+
+Isn’t that just the ‘Displays have seperate spaces’ option in mission control preferences?
+Instead of upgrading motherboard you could probably save money by getting a second hand 7th or even 6th gen i5 or even i7
+Which from my experience when I was in the US are surprisingly rare 
+do you have a link to them by any chance?
+https://www.reddit.com/r/flightsim/comments/7yh4zu/fslabs_a320_installer_seems_to_include_a_chrome/
+
+
+https://forums.flightsimlabs.com/index.php?/announcement/10-a320-x-drm-clarification/
+>They need to apologize and rebuild the installer without the password dumper.   
+
+Well it appears they've edited their post to do this, so that's a positive.
+
+^^^^I ^^^^guess ^^^^they ^^^^got ^^^^all ^^^^the ^^^^passwords ^^^^they ^^^^need
+v4.2  
+FSLabs A320X  
+FTX AU  
+PTA  
+As others have said, the performance with the new update is much better, OrbX YBBN which previously in this aircraft I was getting about 10-15FPS I now get a very flyable 25-30 FPS.
+maybe when I said they could be faked I should have clarified that to also include could be totally false, but yeah, I am mildly skeptical.
+Maybe it should say alleged situation. Apparently they were dating then when they broke up for what ever reason, Mars basically changed passwords, deleted videos etc and basically locked Titanic out of all their accounts and started taking all the revenue from ads/iTunes etc for herself even though apparently she didn’t have very much to do with the content creation apart from the acting / singing. There are some screenshots of tweets floating around somewhere although they could be faked which is why I say ‘alleged situation’.
+Considering his current situation regarding Mars Argo I can see why he would react that way, although, he could have handled it better. I guess you do funny things when you’re on a stage in front of heaps of people 
+iMessage is one of the primary reasons a lot of people don't leave their platform... This isn't going to happen.
+I used various 3rd party keyboard for a while but I eventually got tired of my keyboard crashing. I think my ideal keyboard would be stock with swiping functionality and being able to move the cursor in the space bar on non 3D Touch devices like GBoard.
+They are definitely really nice, the design still holds up today as well which cannot be said for a lot of laptops from 2012
+2012 rMBP 13 inch use it for editing photos, browsing web, iTunes, school work and a little bit of web development. I have a thunderbolt hub connected to a KVM switch so I can use it as a desktop instead of my main Windows PC when I’m not playing games / GPU intensive tasks 
+Hey I’ve seen this, I walked up those stairs last week... still I would doubt it’s accuracy 
+>	redesigned Snapchat app
+
+Which isn’t something to look forward too 
+I’ve seen people make this point before but there are already enough blue icons on iOS... having another one would be too many
+Most people I know who follow the actual sops for the airlines they fly just find information by talking to actual pilots over social media such as Instagram and Twitter. You often get some younger crew members who are happy to answer questions.
+When I used to sim on my Mac I used [smcFanControl](https://www.eidac.de/) to pin the fans to 100%. This might help you if your computer is thermal throttling.
+Goodbye 
+because FSX crashed once and I just happened to be getting a new PC so why not switch?
+>	Bleach Blonde Baby
+
+Pretty sure you’ll find that that’s Interweb
+- Optimisations to dynamic lights
+- They should fix the bug that causes random textures to show up when you have too many addon xml entries
+- Fix cloud shadows casting up as well as down
+
+Labus = FSLabs A320   
+Aerobus = Aerosoft A320   
+Aerobus XL = Aerosoft A330  
+And I guess Blackbus and Blackbus XL/XXL for blackbox 
+I don't think it's in any of the Zo videos... idk why though
+v4, Majestic DH8D, FTX AU, PTA
+The only issue is that this is EIS2
+>Quantas  
+
+[hmmmm](http://www.traveller.com.au/content/dam/images/1/m/d/j/o/b/image.related.articleLeadwide.620x349.1mdja1.png/1427969840680.png)
+S
+E
+Just in how it feels to fly normally it is closer to FSLabs than aerosoft I have found, though the flare logic is a bit questionable, but I’ve been told that has been fixed recently although I haven’t tested it yet. It doesn’t feel as delayed as aerosoft and is a little bit lighter.
+Flyable, they seem to redo the flybywire every update, it doesn’t feel super heavy but it doesn’t feel like a Cessna. I’m not sure what an a330 should feel like but it doesn’t seem super unreasonable.
+It’s one of those add ons that only make it worth it if you make it worth it. There are cheaper add ons of a higher quality, but if you are going to fly it enough then it is worth the price. They have a demo that lets you try it out, it pauses the sim every 10 mins and lasts an hour but it can give you an idea of what it’s like.
+As u/jarlog said, it isn't very buggy at all, and the bugs that are there are all minor with very easy workarounds. What most people seem to dislike is the lack of systems depth, it's a bit lower than Aerosoft, however, it will get you from A to B perfectly fine if you follow normal procedures.
+YBAS is pretty if you have the ORBX scenery
+
+You should be able too, it replaces the default ground textures that the NL2000 scenery gets laid over the top of.
+I’d also look into the terra emergence project to replace your ground textures.
+[Here is this an improvement for ya cunt?](https://cdn.discordapp.com/attachments/304906290399019008/379288731019902976/adfgadfg.png)
+This works perfectly, thank you
+Yep, it's a pretty nice approach on both sides of the plane 
+It's not really built in the the sim like it is in XPlane, it has to be done by messing with ground polys and questionable flattens and terrain meshes. There are some sceneries that have it though and from what I've seen it works pretty well.
+P3D v4.1  
+PMDG 747v3 (+ [AusFS QF Fleet Pack](http://ausfs.tk/projects/index.php))  
+FTX YBBN  
+FTX AU  
+PTA
+Yes 
+Goodbye 
+R
+P
+>	photographer for 10 years
+
+This just made me realise 10 years ago will be 2008 in 2 months....
+The fifth revision of the third version of P3D
+I believe I have said this in a previous comment but the demand for an aircraft in this hobby is directly proportional to the amount that are operated in real life. Unfortunately for the A340 that number is declining quite quickly. It also doesn't help that their seems to be quite a large Boeing bias also in this hobby.
+Well I tried it out tonight. They have remodeled the cockpit and it’s an improvement on before, the fly by wire also feels different, its no longer super sensitive to roll commands though the flare logic is still as broken as it was since I first tried the a330 ages ago. None of the systems seem to have been changed other than the tweaks to the fly by wire though.
+C
+R
+Goodbye 
+Goodbye 
+I
+U
+Goodbye 
+K
+I
+P
+Goodbye 
+N
+Goodbye 
+L
+N
+K
+N
+Goodbye 
+O
+U 
+L
+E
+D
+A
+E
+N
+M
+Goodbye 
+B
+G
+Y
+Goodbye 
+N
+K
+Even at 0% off
+Goodbye 
+Goodbye 
+K
+U
+O
+E
+E
+D
+Goodbye 
+Goodbye 
+A
+E
+E
+E
+Goodbye 
+E
+I
+O
+O
+Goodbye 
+Goodbye 
+T
+A
+A
+P
+S
+O
+N
+Goodbye 
+Goodbye 
+Goodbye 
+Goodbye 
+Goodbye 
+Goodbye 
+It could have been, I don't remember
+Easy way to remember how to use the FCU (MCP) that I read in a YouTube comment:  Pull the knob towards you to give control to you, push it away to take control away from you (giving it back to the mcdu). 
+Except this isn’t the home owner, it’s my neighbor’s house and this guy pulled up out the front with his van and left once he had finished 
+yep, my profile is [here](https://cdn.discordapp.com/attachments/304906290399019008/373573016615124995/sam.ini). It's an ever-evolving thing that seems to change after every flight I do.
+Yep, FSLabs A320 in v4, FTX AU, clouds from [here](http://1coder.ru/SKY/downloads.html) and a bunch of stuff I've made myself.
+I’m on my second pair of these, I love them. Sound quality isn’t bad and everyone else just dismisses them as standard apple headphones so nobody ever tries to take them.
+...[14 hours](https://www.reddit.com/r/ScottishPeopleTwitter/comments/78ed9a/mon_al_show_ye_aboot/?st=1Z141Z3&sh=ac9db24a)...
+Smartphones use ddr4 since a little while ago so more demand = more price 
+I use yeah nah on an hourly basis but I don’t think I’ve every used nah yeah
+this went right over me :/
+Nah not that section https://imgur.com/a/Bdii5
+Nah they covered it with a sheet of metal they didn’t even fill it
+Goodbye 
+Goodbye 
+A
+E
+Goodbye 
+E
+O 
+Goodbye 
+N
+Goodbye 
+B
+N
+G
+S
+I
+L
+E
+N
+Lol my inbox is just full of “N”
+G
+I
+G
+I
+O
+Goodbye
+E
+O
+M
+A
+T
+Goodbye
+E
+Goodbye
+M
+ah, ok thanks
+Goodbye 
+O
+Y
+Goodbye 
+0
+Goodbye 
+F
+Goodbye 
+O
+R
+E
+Goodbye 
+I
+N
+Goodbye 
+R
+Y
+P 
+P 
+R
+Goodbye
+I think most people just look up flights between point X and point Y on flightaware and fly the callsign and a/c that it says, they don't want to really leave that comfort zone.
+Goodbye 
+T
+T
+S 
+R
+D
+Goodbye 
+M
+A
+Goodbye 
+Goodbye 
+Goodbye 
+L
+O
+S 
+Goodbye 
+O
+H
+Q
+M
+N
+T
+E
+U 
+O
+Goodbye 
+A
+E
+A
+B
+R
+A
+D
+A
+O
+9
+E
+N
+L
+C
+O
+3
+Y
+N
+A
+R
+E
+Goodbye 
+Goodbye 
+S 
+I
+R
+I
+A
+E
+I
+G
+T
+E
+B
+E
+E
+N
+Goodbye 
+O
+K
+E
+I think the problem is that for an aircraft that isn’t super innovative (ie. Concorde), the demand for an addon is directly proportional to the amount operated IRL. So I’m not trying to say nobody wants it, I’m just not sure that QW are wrong in that there is very little demand.
+Not sure, I’ll test it out and report back
+It’s still good that I don’t have to look at Tips taking up space on my home screen.
+[What is your fucking phone number cunt?](https://youtu.be/l-izDIkxAPk?t=28s)
+Though they don’t really uninstall, the icon just disappears from the home screen. You can “download” them back without an internet connection.
+I'm pretty sure its actually the same camera from the 6s, so a slight improvement over the 6.
+At Orbx YMML I was getting 30-40 on high-ish settings. I have a 6700k at 4.5GHz and a 1070. It’s pretty similar to the frames in the PMDG 744.
+Pretty much, I’ve not had any issue with it so far. I haven’t really gone anywhere super resource heavy but the frames seem a lot smoother than in v3.
+- P3D v4.1
+- FSL A320  
+- FSL Spotlights
+I'm guessing by your post history that you're coming from FSX.
+ASP4 for the weather is pretty essential, all the Orbx, FlyTampa and FSDT stuff works fine Aerosoft sceneries are a rebuy, UK2000 is fine if you have the P3D version. FSLabs just released the A320 update for v4, very nice but expensive aircraft. Otherwise, there is the usual selection of Carenado, PMDG ect.  
+
+At this point, the majority of recent addons have been updated so as to what I'd recommend depends on what you want to fly/spend, but here is my list of the essentials:  
+
+- ASP4 is important for weather 
+- GSX, if you had it for FSX I think its the same license, not 100% sure 
+- FTX Global is good, if you had it in FSX you can use it in v4. (also the regions like England that had a massive vas hit before are now viable)  
+- PTA is pretty amazing, check out [this site](http://1coder.ru/SKY/) for presets and textures.  
+- And whatever aircraft you want to fly.
+
+That should be the basics to get up and running.
+I really wish they’d add some more variety to that. Even if you change the textures to make them black and grey it’s only 2 colours and they’re all the same model.
+This will be a pretty amazing update when it releases. They seem to have fixed every issue that I’ve had in the past.
+I think it depends on the subreddit, about 30 mins normally.
+The other aircraft have all been available before though. This is the first time we are getting a decent rendition of a 787 for any sim.
+It happens when the post is new, it's supposed to stop your vote being influenced by others 
+Hmmm, I guess I haven't really looked into it with a full photo scenery, my experience was only at fsdt airports. Hopefully it's fixed soon.
+For the photo scenery, try changing anisotropic filtering to 16x, that fixed it for me.
+/r/flightsim... It starts with buying FSX on sale on steam for $5, but it’s hard to control the aircraft, lets buy a joystick, that'll be $30. Now you can actually fly the plane, you want a more complex aircraft, that'll be $90 please and with your realistic aircraft you need some realistic weather, $60 please. Now your sim is running at 5fps with your new aircraft and weather because FSX is from 2006 and not optimized for new hardware so let’s just build a new PC with very specific parts just to get a stable 25fps, that'll be $2000 please. Now with your new PC you may as well upgrade to the new sim, should be cheap because it’s the same platform, everything should work... $60 for the sim please, oh and that $90 aircraft, well there's a licensing issue so you have to buy it again for $120, same with the weather engine, $50 for that too. Now you have a new sim and it runs better, about 30fps and it crashes less, that’s a bonus, but the graphics aren't much better so $25 for a program to tweak shaders, $100 dollars for new ground textures, $40 for new cloud textures. Ok so now your sim looks pretty and runs well, but all the airports are still default ugly tiled asphalt textures on tiled grass textures, let’s get some custom scenery: you start with your home airport, it’s made by a big name developer, one of their recents so it costs $50, that’s really pretty so lets buy this airport since I fly there a lot, $30. Ooooo look an ORBX sale, lets buy a it of scenery while its cheap, a few terrain regions, $25 each on sale, a few sceneries, $15 dollars each on sale, you end up spending about $200 in the sale, your total money spent on flightsim has hit about $860 ignoring the PC you built, but you never add it up, you don't want to know. You're getting bored of your single pay ware aircraft so you want to buy another one, the FSLabs A320 looks nice, you've never done anything with airbus before, buy that $135. Now you think since you've spent so much on software it can't hurt to spend some more to upgrade your joystick, Saitek X55, rudder pedals and throttle, that’s $150, $250, and $99 respectively, except now something has broken your sim and it keeps crashing so you have to spend weeks pulling your hair out browsing forums trying to fix it...
+
+
+Mobile users: 10 people have already said goodbye after D... the mobile app just doesn't show comment threads that long.
+If you're really dedicated they were plentiful in the Kennedy space centre gift shop when I was there a few days ago.
+Probably Cape York, it works better near the equator
+>> I love the climate here in Melbourne (... I hate the cold)  
+
+?
+I believe the winglets are better but weigh more so on a long flight the extra weight ends up costing more than you save from having them. Because less time is spent at cruise in a short flight the extra cost from the weight is always lower than the savings 
+It looks like someone diving into the taxiway
+Goodbye
+It opens a new tab if you middle click a link. If you middle click a tab then it will close that tab without having to aim for the tiny x button.
+Not sure if anyone has tried loading it into the sim yet, but the engine and gear animations are very smooth, much better than PMDG and anything else I've seen.
+If you really want to start picking apart this repaint:  
+- Reg font is wrong  
+- "Spirit of Australia" is the wrong font and colour and is too far forward and too low  
+- There should no be red on the inside of the winglet, its white  
+- The QANTAS logo is too far forward and too low  
+- The Union Jack on the Australia flag should be facing the front.
+
+You pick up on these things when you almost exclusively make QANTAS repaints.  
+
+Thing is, lots of people don't pick up on things like this or just don't care. And for those people then its good enough. I'm sure when I fly airlines other than QANTAS some of the repaints I use have glaring issues that people who haven't looked closely at the livery for hours can't see, maybe because the repainter also didn't notice or they didn't care.  
+
+Little things like this are the reason I got into repainting in the first place. I had a problem and I learnt to fix it, instead of complaining. I think a lot of people in this community need to learn that. (that last sentence isnt directed to you u/detcord12b, I love your work)
+They have a beta for their object flow v2 which is made for P3D v4. In v3 I get around 15-20 fps at FTX YBBN, but in v4 its about 20-30
+Yep, I have a 6700k@4.5 and a 1070 and I can get 30-40 fps in the 747v3 at FlyTampa Sydney facing the city with relatively high settings. Its about 10ish fps more than v3 in most scenarios.
+Thanks for the help guys, I'll try out your tips tonight. 
+What kind of phone has such a tall screen?
+Try it and see what's best for you 
+Motherboard looks like it's an asus model possibly z170m-plus, most likely a non k CPU because they don't come with stock coolers, GPU is a 3Gb GTX1060
+I use P3D so my primary monitor has the sim running full screen and my second monitor is dedicated to active sky, vpilot, discord, smartcars ect.  
+Basically set up so I can see everything at once with the sim full screen.
+They would definitely improve it, but considering the age of the other components it would be much better to get an entirely new PC if you can afford it. If you are going to upgrade the video card you may need a new power supply to support it, just something else to think about.
+There was a discussion about it on discord when the Level D was updated for P3D a few weeks ago, I think the general consensus was it wasn't worth the extra money over the freeware package available on Avsim.
+If you're looking for freeware scenery there is a lot of scenery at www.freewarescenery.com/fsx.html made for FSX, but most of it works in P3D. There was a thread a few months ago about good freeware scenery I'll see if I can find it.
+A few links you might like for freeware scenery tho, 
+ 
+Australia: [OZx](http://aussiex.org/forum/index.php?/files/), [AusFS](http://ausfs.tk)  
+
+UK: [UK2000](http://www.uk2000scenery.com) make payware scenery, but they have freeware versions of most of their airports.  
+
+Netherlands: [NL2000](https://www.nl-2000.com/) have some amazing freeware scenery including a high quality freeware scenery for EHAM, but it can be a bit of a pain to install.
+
+[SunSkyJet Scenery](http://www.sunskyjet.com/) have a freeware KPHL and are working on KDTW  
+
+and [OrbX](https://orbxdirect.com/freeware) have a lot of payware airports but also quite a few freeware ones as well, just don't forget to install their libraries.  
+
+Thats all I can think of off the top of my head, there is much more though, be sure to have a look on the [AVSim](https://library.avsim.net/) library as well.
+
+For me it hides letters that I don't have any subreddits stating with 
+Bright yellow works pretty well for scoot... Not my favourite but still not completely terrible
+this comment is some kind of magic
+can the majority of people not do this? i never realized that...
+it would be bad
+
+You can kind of achieve this with http://www.makeovr.io
+Tldr from other comments: Boeing have to run an endurance test on the RR 1000 Engines so why not fly a cool design?
+To be fair they do a fair bit for not only the flight sim community but the simulation community in general. The products they make are generally to a pretty decent standard and while I can't say I've used it more than once their online shop experience is pretty good.
+Too all those that havent picked up on it yet, whenever aerosoft mention a date for anything, ALWAYS add 2-3 years to get the real date.
+^^i ^^think ^^the ^^joke ^^is ^^that ^^the ^^sim ^^crashes ^^a ^^lot
+I did
+When developing for FSX/P3D almost everything is done using .BMPs. Also the majority of SBuilders functions can be used without it knowing where the sim is, just point it towards the relevant files in the SDK.
+I would probably pick a regular 16:9 monitor over that ultrawide. The ultrawide form factor works really well but not so much at smaller resolutions such as 2560x1080. I would look for a 2560x1440 monitor if you can fit it in your budget, as it will give you much more screen real estate vs how much space it will take up on your desk.
+YBBN-YBRK-YBMK-YBTL-YBCS in the Q400 with QantasLink is fun if you have half a day spare, and I've just completed KJFK-EGPH with American in the 757 which was quite a nice flight also.
+Especially his AAL liveries for the aerobus, they're the best AAL liveries I've seen in P3D for any aircraft.
+considering what they could do with that though, the future looks good
+so is it just rip the first officer or what's going on here?
+https://m.imgur.com/a/ODl65
+I looked in there but I couldn't find any setting for it, also I don't really know why it would change to blue by itself.
+r/unnecessaryquotes?
+There is plenty of PCIe ports there. I think you'd have trouble finding a board with many more.
+This build looks pretty good to me. I would not recommend a lower wattage GPU as if you ever want to add more drives, or any other component you will be pushing your luck with anything less than what you have there.
+
+ As for the motherboard, it depends what ports you want, [but you can refer to this picture](https://images-eu.ssl-images-amazon.com/images/I/3138dqIJFZL.jpg) of the back of the motherboard as it shows the ports it has. 
+
+For overwatch performance I don't play that game but you might want to check out [this thread here](https://uu.reddit.com/r/nvidia/comments/4pgx5z/gtx_1080_overwatch_fps/). That guy is reporting 300fps at 1080p so I'd think it could do 165fps at 1440p
+This is the 3rd time this has been posted in the past 18 hours...
+It's hard to draw on a phone but what I was trying to say is I keep hitting yellow poles 
+Yeah but being able to pull an oversized trailer up a 50° hill?
+I tend to find its more like [this](https://i.imgur.com/SkwEXCN.jpg)
+It's actually crazy how much power these trucks have, for a truck.
+It's still pretty cool though 
+From memory the only restrictions with windows 10 is that you can't change the desktop background and that it shows a little watermark in the corner
+Apart from sky textures that's pretty much it. FTX Global is pretty good, big improvement over default textures.
+It wouldn't work as it uses 32bit DLLs. I think FSLabs said they'd consider updating it after the A320 is stable in v4.
+- [P3D v4](http://www.prepar3d.com/prepar3d-store/)
+- [PTA for v4](https://simtweaks.com/)
+- [Active Sky for v4](https://hifisimtech.com/as16/)
+- [PMDG 744](https://www.precisionmanuals.com/pages/product/P3D/744QOTSII.html)
+- [FTX Global](https://orbxdirect.com/product/ftxglobal)
+- [Rex Soft Clouds](http://www.rexsimulations.com/softclouds.html)
+welcome to the [rgb](http://i.imgur.com/nnGSFEq.png) master race
+Also if you have FTX England installed there is a few BGLs you have to disable I that for UK2000 Heathrow as well. I'm not at my PC right now but I will make an edit when I get to it.  
+edit:  
+These are the files to turn off:  
+Prepar3D v4\ORBX\FTX_EU\FTX_EU_ENG_05_SCENERY\scenery\ADE_FTX_ENG_EGLL.BGL  
+Prepar3D v4\ORBX\FTX_EU\FTX_EU_ENG_05_SCENERY\scenery\ADE_FTX_ENG_EGLL_CVX.bgl  
+Prepar3D v4\ORBX\FTX_EU\FTX_EU_ENG_05_SCENERY\scenery\ADE_FTX_ENG_EGLL_objects.BGL  
+That CPU won't be a bottleneck unless it's a really CPU intensive task. For gaming there is really no difference between this and the i3.
+Looks all good to me :)
+It depends on the case, some come with them part of the case, some cases come with them installed and some come with them in a bag which you have to screw into place.
+That motherboard is a Micro-ATX motherboard which is bigger than Mini-ITX and won't fit in that case.
+Personally, I would unplug the hard drive and reinstall Windows on the SSD, It will perform much faster that way. When Windows is installed plug the hard drive back (I only do this so I can't accidentally format the hard drive.)
+Sometimes different sets of RAM will not work with other sets. It should work fine and you can increase that chance even more by buying the same RAM, but there is always the slim chance that it won't work.  
+
+For SSDs, Samsung SSDs are generally accepted as some of the best you can buy, I personally run 2 of them in my system and have never had any issues. [Here is a 250GB Samsung SSD](https://www.amazon.com/Samsung-2-5-Inch-Internal-MZ-75E250B-AM/dp/B00OAJ412U).
+That sounds nice I might try that.
+Yeah I do, v3 seemed to have a bit of a performance increase with is disabled, I'm yet to test v4
+That's interesting, though this screenshot was taken at cruise. I've had to set the affinity in task manager to allow chaseplane to function correctly. Better than only using 1 core I guess.
+Wow, thanks, I've never had gold before :)
+I'm using the "2016 version 3" sky textures from this website http://navidh.se/repaint.html
+I'm not normally one to watch live streams but I've just popped into his stream now, and he seems pretty confident in his dev team. I really really hope something good comes out of it.
+Buying PTA for thousands of pounds, developing an A380, I'm beginning to wonder if this guy's just got a really good dev team or if he's lost the plot. Either way it can't be a bad thing I guess :)
+Fair enough, these things happen. As you said, anything that helps the community is a good thing :)
+>be careful, he's asking for donations for something that isn't his
+
+not really  
+
+edit: it would appear Matt has taken that line out of his post, I'm guessing it was just a missunderstanding
+I've managed to get SkyAI to kinda work, some models have issues but others work fine. There is a link floating around for it somewhere, I'll edit this post and add it when I get home.  
+edit:  
+https://mega.nz/#!UZVRRB7a!arxPNdusXdOOiGS_npeeX6djFrkJZ0wUVv93CV9-X24  
+
+https://mega.nz/#!IRVBzJhZ!UBUNrmaReZH-uFR-tKG0xvU_uFaDIYRUkzW15ogmHsI  
+
+https://mega.nz/#!qRhi3IrI!rdr6IPDIRmET2pV2mvWG6r-GmKQDgouVq_giEjYbhKI
+[Here ya go](https://drive.google.com/file/d/0B2VSgjbtRTudY3hNdTg5OFRrQVU/view?usp=sharing), it's a modified version of [this](https://www.avsim.com/forums/topic/500903-ultimate-realism-pack-v10-prologue/) and I'm sure someone on AVSIM will get upset that I've modified and re-uploaded it but whatever...
+Not too bad, I only had the sim open for 5 minutes to take this screenshot before I have to go out but it was only 1 or 2 FPS below the default F22
+PMDG 744 for P3D v4  
+FTX EU England  
+AS16  
+Rex Soft Clouds  
+PTA-to-v4 (thanks /u/tomatosalat)
+I'm beginning to think maybe I am...
+Just you wait until we get shader tweaks for v4, everything looks even better with barely any FPS hit
+>Man you are a dying breed  
+
+I never really realised how many people like free money until I made this thread... I like to work for my stuff, otherwise it just feels wrong which isn't fun
+The problem is that GTA:O uses [P2P connections](https://en.wikipedia.org/wiki/Peer-to-peer) so there is no "server-side" to install the checking mechanism on which is really stupid. They could install it on everyone's client but all it would take is 1 person to modify it on their end and create even more issues.
+It's not cashbags like it used to be, it's cash getting added to you as if you've just come out of a mission. I haven't found a single lobby without it this week.
+It wont get you banned but idk, I just don't like buying stuff I haven't worked for 
+I'd say the majority of the models are FS9 :(
+Even just messing around, random PvP it's just a pain overall
+We do a lot of CEO missions, and I/E, we both import 2 cars then export 2 of mine then 2 of his.
+SkyAI works but half the models don't show correctly... Basically anything for FS9 won't show either at all or correctly.
+FSW??^^^(no^^^probably^^^not)
+Their servers seem to be completely rip at the moment, it's taken me 20 mins to get the download to start and now it wants 2 hours for 180mb
+I've been messing around with v4 and they seem to in my opinion 
+I spent all afternoon trying to do this, didn't get very far so I guess I'll just wait and see what the community creates
+There is a forum post here to download it http://forum.simflight.com/topic/80977-updated-modules/
+Nope, P3D works pretty well and looks ok without CFG tweaks. You can make it look a lot better with shader tweaks though and normally there are community made presets for this.
+Well you don't really *have* too... I went all though using v3 without touchy my CFG once 
+That build looks pretty good too me, but I made some modifications  
+
+[PCPartPicker part list](https://pcpartpicker.com/list/rtH4QV) / [Price breakdown by merchant](https://pcpartpicker.com/list/rtH4QV/by_merchant/)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [AMD - Ryzen 7 1700 3.0GHz 8-Core Processor](https://pcpartpicker.com/product/3kPzK8/amd-ryzen-7-1700-30ghz-8-core-processor-yd1700bbaebox) | $299.99 @ Amazon 
+**CPU Cooler** | [CRYORIG - H7 49.0 CFM CPU Cooler](https://pcpartpicker.com/product/93Crxr/cryorig-cpu-cooler-h7) | $34.89 @ OutletPC 
+**Motherboard** | [MSI - B350 TOMAHAWK ATX AM4 Motherboard](https://pcpartpicker.com/product/Y4kwrH/msi-b350-tomahawk-atx-am4-motherboard-b350-tomahawk) | $94.99 @ Jet 
+**Memory** | [G.Skill - Ripjaws V Series 16GB (2 x 8GB) DDR4-3000 Memory](https://pcpartpicker.com/product/LhgPxr/gskill-memory-f43000c15d16gvrb) | $122.88 @ OutletPC 
+**Storage** | [Samsung - 850 EVO-Series 500GB 2.5" Solid State Drive](https://pcpartpicker.com/product/FrH48d/samsung-internal-hard-drive-mz75e500bam) | $179.00 @ B&H 
+**Storage** | [Western Digital - Caviar Blue 1TB 3.5" 7200RPM Internal Hard Drive](https://pcpartpicker.com/product/MwW9TW/western-digital-internal-hard-drive-wd10ezex) | $46.89 @ OutletPC 
+**Storage** | [Western Digital - Caviar Blue 1TB 3.5" 7200RPM Internal Hard Drive](https://pcpartpicker.com/product/MwW9TW/western-digital-internal-hard-drive-wd10ezex) | $46.89 @ OutletPC 
+**Video Card** | [EVGA - GeForce GTX 1080 8GB FTW Gaming ACX 3.0 Video Card](https://pcpartpicker.com/product/bNcMnQ/evga-video-card-08gp46286) | $528.11 @ Amazon 
+**Case** | [NZXT - S340 (Black/Red) ATX Mid Tower Case](https://pcpartpicker.com/product/tD38TW/nzxt-case-cas340wbr1) | $69.99 @ B&H 
+**Power Supply** | [EVGA - SuperNOVA NEX 650W 80+ Gold Certified Fully-Modular ATX Power Supply](https://pcpartpicker.com/product/g63RsY/evga-power-supply-120g10650xr) | $67.88 @ OutletPC 
+**Operating System** | [Microsoft - Windows 10 Home OEM 64-bit](https://pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $89.89 @ OutletPC 
+**Monitor** | [Acer - GN246HL 24.0" 1920x1080 144Hz Monitor](https://pcpartpicker.com/product/PmyFf7/acer-monitor-umfg6aab01) | $182.99 @ B&H 
+**Speakers** | [Logitech - Z323 30W 2.1ch Speakers](https://pcpartpicker.com/product/yx8Zxr/logitech-speakers-980000354) | $49.99 @ Amazon 
+ | *Prices include shipping, taxes, rebates, and discounts* |
+ | Total (before mail-in rebates) | $1839.38
+ | Mail-in rebates | -$25.00
+ | **Total** | **$1814.38**
+ | Generated by [PCPartPicker](http://pcpartpicker.com) 2017-06-01 00:50 EDT-0400 |
+
+I changed out the GTX 1080 Founders eddition with an EVGA model with the ACX 3.0 cooler as it will perform slightly better, and I replaced the Hyper 212 EVO with a Cryorig H7 as from what I've heard it is less of a pain to mount and "worth $5 extra" over the 212 EVO.
+maybe you will find some help [here](http://www.gingersoftware.com/english-online/spelling-book/confusing-words/bi--buy-by-bye)
+>I went to best by and talked to the experts 
+
+found your issue...
+As sad as it seems, with how much everyone relies on PTA and shader tweaking tools I don't think it will be too long until somebody else releases something to replace it.
+Most people have multiple sims for different aircraft, sceneries ect., you use multiple sims for environment effects... How have I never though of this.
+I have this set up with my DFGT. I have the pedals plugged into the wheel and the wheel plugged into the PC. You do not need the power as it's only for the force feedback. Like OP said in the Logitech Profiler set the pedals to report on a combined axis and flightsim should treat it like regular pedals 
+https://m.youtube.com/watch?v=4eE8Xmipz0U
+I've never really uploaded it anywhere but I guess there is no reason not to share. I've also included the sound pack that I use, it's a combination of the stock sounds and a sound pack I downloaded from AVSIM.
+
+[Link](https://drive.google.com/open?id=0B2VSgjbtRTudUmFVekZ6OFVQbGs)
+[Here are a few screenshots](http://imgur.com/a/lmZcU) of the CityFlyer repaint I made, though I haven't considered making any repaints for it since, the paintkit like you said is just too much of a pain.
+The only paint kit for it isn't even an official paint kit because they want to charge you for repaints, though I managed to do a 4K CityFlyer repaint that looks pretty good. To add to what /u/codee66 said about the systems modelling it's enough to go from A to B and not feel like your flying a wilco plane and by that I mean it's better than most other wilco planes. The LNAV is decent enough, though Direct to can be a bit buggy at times, the VNAV works really well, but only if the altitude constrains are entered correctly which half the time I enter a SID or STAR they aren't.
+If you know where too look I find that about 30% of the time I can find a freeware scenery for an airport that I want to fly to, maybe if you're flight GA the odds would be higher than that. Most of the time I just search google for "XXXX freeware FSX" just replace XXXX with the icao code of the airport you want to fly too and most FSX sceneries work pretty well with P3D. Sometimes I download a few different sceneries that I find to test which one is the best, some of them are just AFCADs but you can sometimes find a decent scenery in the bunch. 
+> on par with PMDG, Majestic, etc... Failures, deep systems, etc.
+
+Did they say this? Last I read it would be similar to the Aerobus, if not a small amount better.
+Put something on your feet cunt 
+This bot has to be one of the stupidest bots I've seen yet... At least most bots do something, this one just listens for some text it's stupid.
+Not even registered windows 
+It's a small window that appears when your running PMDG aircraft, it's pretty unnoticeable for the most part when your flying even at night, but I'm not sure what it does.
+* Bug fixes and stability improvements
+> downloads that literally went for days.  
+
+Meanwhile in Australia...
+I think this is one of the first times I've ever agreed with something this guy says...
+and then there's me who likes having the latest and greatest but got a new phone in late August... but I was getting an SE so the 7 didn't really concern me too much
+Did you try just copying the route into the company route editor program? 
+I like the icon as an icon but it doesn't match the UI of the app, it doesn't match the UI of iOS and it doesn't fit as well with any of the other icons on my home screen.
+ER extremely rare?
+Not sure exactly how you're sorting this but a few of the wallpapers you've got under iOS 7 were also in 5 and 6
+>on my Facebook  
+
+Think I found your problem
+No problem :)
+[Here ya go](https://drive.google.com/file/d/0B2VSgjbtRTudY3hNdTg5OFRrQVU/view?usp=sharing), it's a modified version of [this](https://www.avsim.com/forums/topic/500903-ultimate-realism-pack-v10-prologue/) and I'm sure someone on AVSIM will get upset that I've modified and re-uploaded it but whatever...
+I read somewhere that the BA 744 fleet used to use a mix of RB211-534G and RB211-534H engines, the H variant having a higher thrust rating. They were all eventually all modified to use the G engines but the aircraft that originally had G engines still have the sticker.  
+
+Edit: [Found a source for this](http://www.pprune.org/archive/index.php/t-466296.html) 
+I've just gotten into bed but I'll get you a link tomorrow, it's a slightly customised version of one of the PTA presets on AVSIM.
+P3D v3.4  
+
+Addons:  
+
+* PTA
+* PMDG 744v3
+* FTX Global
+* UK2000 EGLL
+* FSDT KJFK
+* Rex Soft Clouds
+* ASN
+* ChasePlane
+>Wireless  
+ 
+You're probably going to have a hard time getting a wireless mech keyboard, there aren't many of them.
+I'm trying to imagine what OP would write in the feedback form, "Hi Apple please could you remove this feature that I've just explained I prefer"...
+You guys really don't have it in Canada? Even Australia has it...
+I picked up chaseplane the other day, and it took me a while to work out how to use it + I had to order a new mouse because my middle mouse click didn't work, but after the first few hurdles I'd say its been one of the best addons I've bought in a while. I can't speak for EZDok v2 as I have never used it but I'd say chaseplane is well worth.
+After all the stories we hear about terrible customer support in this hobby, it's nice to read this.
+Well I guess someone would have had to have it, maybe this is the guy?
+I have to agree with this. I fly in 4 major regions of the world: Asia, Oceania, US and Europe and by far the ATC is best in Europe. Half the controllers in Oceania can't handle more than 5 aircraft at once, some of the ones in Asia have trouble with English (though that depends on where you are flying, Hong Kong controllers are great), the controllers in the US are either unreadable or can't read me, but I've never had a problem in Europe. Even flying into eastern Europe where some accents are a bit hard to understand, the controllers have always spoken clearly, and they are always able to properly deal with all traffic in their airspace. There is a lot of things things some of the other controllers could learn from them.
+I was trying to get a slot out of EHAM, but I've ended up with EGCC-KJFK
+They did say at one point it was to be released in 2016, idk what happened to that but I've no problem with waiting for a quality product, I got the BBS A330 to hold me over and it will be a breath of fresh air to fly the Aerosoft.
+As /u/sHORTYWZ said, P3D is a 32-bit application, it can only use 4GB ram, this isn't something you can monitor in task manager, you need something to monitor VAS usage, look into [process explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx) for this, I can help you set it up if you want.  
+
+As for the GPU crashing, P3D seems to be a bit weird on how it uses the GPU, even if is completely stable in other games I'd recommend trying a 100Mhz underclock on it before launching P3D as this may solve the issue.
+>Aerobus XL  
+
+XL = Xtra Late?
+sorry that there isn't someone always on standby in a 17k subscriber sub to answer questions for you...
+Don't die
+I think they originally said it had to be white, but then they relaxed the rules a bit, now it just has to be the same colour, possibly changed due to better paint? IDK, I know BA have them painted in [blue](http://globalaviationresource.com/v2/wp-content/gallery/ba787/img_7440.jpg).
+https://youtu.be/00Bi_iT1zzQ
+I'm not poor, I agree with the last guy, you come off as a bit of a twat.
+I go in to avatar mode to go and watch the GSX people loading the plane when I get board and get a different perspective on how big the plane really is. 
+Can confirm, there is no competition for apple trackpads they are amazing compared to everything else... The best non-apple trackpad I've used is on my Surface Pro 4, but IMHO its a bit too small, especially when you change the DPI scaling to fit more on the screen, and sometimes the gestures just stop working until you reboot which is super annoying.
+>swipe three finger swipe up and that will activate task view  
+
+How do you active this? I can't seem to do it on my Surface Pro 4.
+This is /r/flightsim not avsim...
+Queenstown NZQN?
+As you said, you need a SATA cable [here's 10](https://www.amazon.com/gp/aw/d/B01HUOMA42/ref=mh_s9_acsd_zgift_b3I4HjH_c_x_4_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=mobile-hybrid-8&pf_rd_r=FQDH2M5F52JDFRT9A2WA&pf_rd_t=30901&pf_rd_p=a3d64219-6023-5428-b0a3-5fe08c060ca7&pf_rd_i=3015394011)
+This made me laugh during a maths test... 
+But let me guess, you still got the flight accepted? ;)
+/r/unnecessaryquotes 
+$20 isn't a bad deal, he will still get decent performance but I wouldn't be expecting anything amazing. If he doesn't need the extra performance from the 1050 then I'd go for the 670, it will be able to run most games nicely at 1080p or lower though he might have to bump the settings down a bit.
+To add to this, the 1050 also benefits from new features that the older cards don't have ie. GPU Boost 3.0, HDMI 2.0 ect.
+  #notmylivery
+here is the original video/article https://au.tv.yahoo.com/sunrise/video/watch/34329922/crosswinds-force-plane-to-uses-reverse-thrust-to-stop-at-the-end-of-runway/#page1
+It's not actually named Longreach, all the Qantas 747s say that. The name is up next to the cockpit window, though I can't read it in this screenshot. They all say Longreach as that is the town Qantas started in, and there is a 707 and 747-200(I think 200 maybe not) sitting at the airport there as part of the Qantas museum. Someone has made scenery for the airport for FSX/P3D it's very nice, I'd recommend flying there if you have the time.
+If you still have FSX installed somewhere I'm pretty sure you can copy it across, I did it a while ago but haven't re copied it since I reinstalled.
+What version of P3D are you running? I'm running 3.4.14 and it tells me its a newer version than what it knows about but it still works.
+This is 4.957, its the latest installer I have...  
+https://drive.google.com/open?id=0B2VSgjbtRTudWFgxU0dFa0p1N0U
+I think the previous one was a bit more interesting than this one.. Still better than a lot of airlines I guess
+Yeah, a few of the repaints seem a bit rushed, the font and size for the Longreach text at the front of the plane is not very good either :/
+Update: [they fixed it](https://i.imgur.com/ePJBct3.jpg)
+[how this entire sub's going to feel for the next few weeks](http://i.imgur.com/PuhOna4.png)
+Google news. It's an aggregate news source so you aren't relying on one possibly incorrect source and you can set it to your local area/state.
+4623
+>Ewwww Melbourne  
+
+At least we have nice cool days and when it is hot it isn't humid and terrible... ;)
+Ok, just want to put a little disclaimer here, I didn't make this, someone I know sent it to me, I decided you guys might like it.
+The vineyard slightly south of the AFB
+They aren't perfect, I found the two pictures on google images, but I think the yokes on the right are fully pulled back or hidden which makes the eyepoint look much higher than it is (have a look at the top of the MCP or the autobrake switch). The PMDG screenshot is definitely taken a bit lower than the iFly, but the image still shows the difference in window size.
+I'm pretty sure they had to modify the cockpit model to make the HUD show up correctly 
+[here](http://i.imgur.com/ssSVpfT.jpg) is a rough comparison between the PMDG and iFly, though unless you've flown/been in a real 737 cockpit its not as noticeable when concentrating on flying and managing the systems of the plane.
+Mine does it and my mates does it as well, I think its normal.
+As someone whos main vehicle at the moment is a Schafter V12 it's complete beyond me how you can do that....
+replace the r in the reddit url with a c... sssshh
+My 3DS XL came with a charger in the box...
+678
+Tallbody?
+Flying over YBNA on descent into YBCG  
+
+TFDI 717  
+P3D 3.4  
+FTX AU  
+Ant's YBNA  
+ASN
+16178566
+> Don't disappoint me now Melbourne!  
+
+Melbourne disappointed you...
+Being right handed...
+r/justfuckingnews
+Rip university people
+4126
+possibly they might get it back, judging by [this post](http://www.orbxsystems.com/forum/topic/127178-paypal-restriction-the-reason-why/)
+[Exposed by alien blue](http://i.imgur.com/NKanDNa.jpg) :D
+I'm sure after the response they've gotten they will change something, I hope so.
+One of our family friends (he was an only child) died from cancer a few years ago. I never saw anyone sadder than his mother was, she had to be held back from jumping into his grave.
+[for those of you who haven't seen this top cunt](https://www.youtube.com/watch?v=JMjdahmYHmI)
+I flew into that scenery a few months ago but I don't remember it. After looking at those screenshots I think it is time to fly there again
+I have remapped the eyepoint movement to WASDQE for easy movement without buying a camera addon.
+It's interesting you say that, I had exactly the same issues in v3.3, upgrading to 3.4 has fixed it for me...
+[Here you go](https://drive.google.com/open?id=0B2VSgjbtRTudcUxvbkE4eDQ5V1E), it is a work in progress, I tweak it a fair bit, but I'm pretty happy with it at the moment.
+i7 6700K  
+GTX980  
+16GB  
+Win 10  
+I think I peaked at 3.3GB vas... That is with LOD Radius max
+Fixed!
+P3D 3.4.14  
+FTX Global  
+Rex Soft Clouds  
+PMDG NGX  
+ASN  
+PTA  
+It's hard to type on mobile when you are half asleep and on a train...
+Nah, the light and the cables that connect it are long gone
+[It still exists](https://www.reddit.com/r/flightsim/comments/5d1xek/flight_sim_sales_2016_holiday_season_megathread/?st=IW1FF5TI&sh=69a790a9), just not pinned
+soon i think  
+edit: [35% off](https://orbxdirect.com/#)
+PMDG *never* have sales....  it's pretty rip actually
+[Here is your link](https://youtu.be/Me9fCKNvBBE)
+Most of the T2G stuff seems to be on sale at Simmarket at the moment http://secure.simmarket.com/taxi2gate.mhtml
+https://i.redd.it/nw4bau9vkgwx.png
+Wasnt a fan of this VC when I first saw it but this is really nice
+thought this was a couch the first time... Had to have a second look
+The alarm at the very start of the video, you don't actually hear it as I canceled it just as I started recording, though you can see the caution light, is me taking the autothrottle out.  
+
+The caution around 2:50 was an airspeed low alert. 
+
+At about 3:00 you can see that I tried to extend flaps to allow the speed to come down further, though the wouldn't come down, because of "Load Relief", I'm not exactly sure what that message means, maybe someone with better 777 knowledge than me could help out here, though it's probably something to do with the fact that you probably can't extend flaps at FL350.  
+
+The caution around 3:10 was an altitude alert, basically the aircraft telling me it wasn't going to try to maintain that altitude anymore. It does this to avoid stalling.  
+
+There are a few more airspeed low alerts after this as well.  
+
+At 7:53 there was a master caution alarm, to alert me of an overspeed and an altitude alert caution, as it started climbing to avoid stop overspeeding.  
+
+The master caution a few seconds later at 8:01 was me taking out the autopilot.  
+
+The continuing alarm after was the over speed alarm, which you cannot cancel.  
+
+The caution at 12:03 was another altitude alert, as I pushed down on the controls to descend, trying to increase the airspeed.  
+
+The "FMC Message" message displayed on the EICAS at about 12:35 was to tell me there was a message in FMC. That message was telling me to change the altitude entered in my MCP as I was approaching T/D, not really relevant 
+
+Ok, so I just tried to perform the tests you asked for, keep in mind,  I don't have a 777-200ER, so I used its cousin, the 200LR, the main difference being it has slightly more aerodynamic wings and slightly bigger engines, so it is probably safe to assume anything that it can't do, the 200ER can't do either and I performed these tests with a ~100 knots head-crosswind. Here is what I found:  
+
+- When reducing power, at about 190IAS (270GS) the aircraft started descending to avoid stalling, as I couldn't extend flaps. 270GS was the slowest I could go.  
+
+- When accelerating, due to the headwind, we were unable to achieve 550GS without overspeeding, and descending. Even with the bigger engines of the 200LR at over 100% N1, the aircraft stopped accelerating at about 340IAS(512GS) in level flight at FL350. I took out the autopilot and manually descended to achieve 550GS.  
+
+- When turning back to the airport after stabilising the aircraft, I was able to easily achieve 550GS, when the wind was behind me in the turn.  
+
+I think it would be possible to achieve what you are looking for, but only by turning in and out of a strong wind, or else you would be stalling, and overspeeding.
+
+[Here is a video of my tests.](https://youtu.be/_zBys50SBUA)
+Try un ticking Mip-map VC panels
+How do you go with FT VHHX and T2G VHHH at the same time in terms of vas usage? I don't know if I would fly to VHHX very often, but I've been flying into VHHH almost once a week recently and the FYX global gong Kong city area really doesn't cut it, I'm thinking of buying the FT scenery.
+Did you test this by just loading up and slewing around, or did you actually do a flight? I only ask because I find that when I first installed ftx global, I had the same issue as you but when I'm managing an actually flight it doesn't bother me as much, even though I spend a fair bit of time outside taking screenshots...
+r/totallynotrobots
+it was [delayed](http://forum.aerosoft.com/index.php?/topic/116246-a318-research-edition/&do=findComment&comment=781553)... but what did you expect from Aerosoft at this point...
+I'm hoping they can do some reflection/alpha channel magic with the windows to make it look good, the flight deck is looking amazing though.
+P3D 3.3.5, iFly 744 v2, FTX Global, FTX Trees and PTA.
+Now it just looks like a guy diving into a pool
+Is it the fact that the HDD is attached with tape?
+See my edit of my original post for instructions :)
+They work fine, I gave used them for a while, you just have to take the sound files and pit them in the right location though as the readme references the old one. I might put together a little guide to install them for the new Airbus when I get home.
+A lot of 777-200ER and 300 non-ER liveries have been made for the PMDG 777. Though they are not exactly the same, they are similar enough.
+I was flying the same route, in front of you, as LCO1509 just behind musicalaviator. http://i.imgur.com/QwwqZXL.jpg
+Meanwhile, here are some pretty nice freeware sounds: [CFM](http://forum.aerosoft.com/index.php?/topic/74466-new-airbus-x-extended-cfm-sound-enhancements-v1165/), [IAE](http://forum.aerosoft.com/index.php?/topic/75946-new-airbus-x-extended-iae-sound-enhancements-v1162/).  
+
+EDIT: To install, locate you "SimObjects/Airplanes/Aerosoft Airbus A320_A321 Base" folder, or if you are using the A318/19 then "SimObjects/Airplanes/Aerosoft Airbus A318_A319 Base" folder. then make a backup of both the Sound_CFM and Sound_IAE folders. Now copy in the new Sound_CFM and Sound_IAE folders from the download.   
+  Note that the new Sound_IAE is located in the "Aerosoft Airbus X Extended Base" which is in the folder you download from the IAE link
+The gamepad has its uses. For things like Mario maker and Nintendo land, it works great. Other games like Mario kart and a whatnot, I prefer to get my pro controller out.
+I think Shanwick has done 5 controller changes in the past 20 minutes...
+For Australia, Airservices makes them very easy to access at: http://www.airservicesaustralia.com/aip/pending/dap/AeroProcChartsTOC.htm
+Think of the V/DEV (or Vertical Deviation) as the glide slope for an RNAV approach. I believe VOR and NDB approaches also show like this in the airbus, but I personally haven't done one in that aircraft myself.
+here is a link to the vlog where he said that for those wondering: https://www.youtube.com/watch?v=fftGsCpJBKw&list=PLTHOlLMWEwVy52FUngq91krMkQDQBagYw&index=484
+Apparently their English skills are very good.
+I actually bought the iFly 744 (P3D) after watching your video and found that in my sim it uses less vas than the 777. Gotta love the consistency across FSX and P3D installs....
+I hope they do fix it but I don't see it happening any time soon.....
+I just followed [this](https://www.youtube.com/watch?v=SCs-6Dn2tRk) tutorial with a few tweaks of my own.
+At the VA that I fly for, if you forget to start the tracking client or it crashes, you can submit a Vataware link, if it was flown on VATSIM and 99% of the time it will be accepted.
+I must say, I'm not a massive fan of long hauls, I normally stick to short hauls, but sometimes if I have a lot of stuff to do in the day it is nice to start up a long haul and see what that 777 is capable of.
+I love flying into Hong Kong, it is a very nice approach onto the 25s over the city area, I have done quite a few long hauls into there.
+I log all my flights with a VA that I fly basically all my flights with, it  is definitely nice to see all the hours and various statistics.
+Thanks
+Wow... that is insane, good luck with beating that, though I'm sure the 77L will have no problem doing so.
+I would have raced the real flight, but it was a bit hard to do, as I live in Australia so I would have landed at 4:30am. 
+P3D is pretty good at handling VAS, other than that, I lowered my LOD Radius from Max to Ultra and turned off all my other airport sceneries.
+Well, I made 2 apple pies, built and installed a new PC for my father and caught up on some sleep, so I would say I did pretty good...
+QTR777 - OTHH (Doha) to KMIA (Miami)  
+  
+P3D 3.3.5  
+PMDG 777-300ER  
+Latin VFR Miami  
+FSDT GSX
+[ I HATE when...](http://i.imgur.com/gGzTO9D.png)
+TFDi 717  
+QW 787  
+AS A330  
+PMDG 747  
+It looks like the plane finder app. http://planefinder.net
+Black because of the amazing amount of choice you get with an iPhone SE..... In saying that, the black case on the black phone looks pretty nice :)
+I couldn't decide if I should up-vote or down-vote this....
+My PC used to constantly blue screen with MEMORY_MANAGEMENT. Here is what I found fixed it for me, try running Windows update, then rebooting (or let it reboot itself). Repeat until you can no longer run Windows update. Hope this helps, though it could just be specific to my computer, I don't know....
+Ok the multiple visibility layers seems to have fixed my issue. Thanks.
+I still have to try this, been away from my PC for a few days so hopefully this helps when I try tomorrow.
+Ah, yes this package is amazing. I posted a rather popular screenshot flying a 737 into one of the bush airports once...
+The problem I'm having is that I can only see the blue sky in outside view, in the cockpit all I can see is the white. I had it zoomed out in the screenshot to show more clearly.
+Black Apple leather for SE
+I plan to buy it tonight. From what I have heard it performs better than the previous version.
+You will be fine, I used to run this game with heaps of assets 100k+ pop on a mobile i7 and Intel HD Graphics 4000... It wasn't pretty, but it ran and it ran at about 20-30 FPS.
+ORBX regions come with a custom terrain mesh that all the ORBX airports within that region are designed for. If you use the FreeMeshX Mesh instead of the custom ORBX one that the airports are designed to work with, that creates issues, so yes, it is a good idea not to use Free mesh with ORBX regions.
+RWY01 at Brisbane is always smooth for me.
+[Qvirtual](http://qvirtual.com.au) allow you to fly the B200 for the royal flying doctor service all across the east area of Australia. There is definitely some very fun flying indeed.
+Make sure all the PSU cable are properly plugged into their respective components, especially if you have a 20+4 mobile connector.
+The 777 is an amazing aircraft, though my first long haul aircraft was the [iFly 747 v2](http://www.iflysimsoft.com/ProductsDetail.aspx?PID=15). I remember when I was always flying into default scenery, 5 fps on my old PC...
+Nice, I haven't used an iGPU since my old Mac Mini, seems they have made a bit of progress with them.
+If somebody is becoming disorderly, or an annoyance to everyone, I kick them so they can return later when they have settled down. If I don't want someone back, then I will ban them.
+Just curious what is the iGPU like on the 6700k?
+As a moderator for a small twitch community that recently switched from team speak to discord, I really hate how when I kick someone, I have to send them the code to join and give their perms again....
+This. I have a lot of friends who did the upgrade and even regular OS features don't work, I did a clean install and it's great.
+Yeah I also make an effort note to fly at night but sometimes it is unavoidable on longhauls.... I guess it is what it is...
+http://i.imgur.com/hnbKeXq.jpg
+That escalated and de-escalated quickly...
+This definitely made a difference to how the lighting looked, but not to how the textures were being displayed, though it was a tiny bit less in your face, color 'banding' was still noticeable in the 747.
+I'd be happy enough just to see an A340, let alone an A340 on maho beach...
+ORBX YMML, YSCB and YBBN are all rather old products and came way before FlyTampa Sydney, IDK why they didn't do it, maybe it was too big for them? Though FlyTampa sceneries are always amazing and Sydney is no exception.
+Good choice, FlyTampa Sydney was my second payware and one of my favorite addons of all time, as with most other FlyTampa sceneries it is totally worth the price.
+Make sure that the throttles are in CLB mode. Also, sometimes it wont follow the flight plan immediately at the first way point so you may need to go direct to the first waypoint of the SID.
+Hmmm seems a bit [unsafe](http://avherald.com/h?article=4667a3d9&opt=0).
+I used to be a 'Proud Non-PMDG Owner' until I bought the 737 and then the 777... 777 is really buggy in my sim and the 737.... well idk where to start with that one :(
+There is a .zip with the SDK floating around on the internet somewhere. I used it before I made the switch to P3D
+As someone who mainly flies in Australia on VATSIM, the ATC there is pretty relaxed compared to Europe and America.
+Does bootcamp actually allow you to run native 5k? Last time I looked into it is forced you to scale down to 4k, though I guess they would have fixed that by now.
+Look up PocketMineMP if you have the resources to host it yourself. It was a while ago that I used it, but it works pretty well
+My exact thoughts while this picture was loading were "757 going to Kai Tak? Be funny if it were Donald Trump"
+FTX Global, FTX HD Trees, ASN, Aerosoft A320 and UK200 EGLL...
+Duplicate the layer in Photoshop, then add motion blur to the bottom layer, then with a soft eraser, erase the parts of the top layer that so the blur shows through.
+That is unedited except for cropping out the red text
+[nope](http://i.imgur.com/9oXI3Jk.jpg)
+see my comment below
+lol, the NGX really doesn't take well to sloped runways. I didn't have any screenshots from this landing, but the decel was real... here is at the top of another runway http://i.imgur.com/oiYGVaR.jpg
+Some information: P3D v3.2, FTX AYPY, FTX Global BASE, PMDG 737-800. The strip is located about here: 9°05'03.9"S 147°37'58.4"E. Also, if anyone knows of any freeware GA aircraft that could get around these mountains, that would be great.
+Flying into Jersey is defiantly worth it, a very fun little flight that one is. http://i.imgur.com/gYhRa9r.jpg
+Some of the free versions are better than others, EGLL and EGJJ are probably the best, the free version of EGKK is terrible in comparison.
+If you want to fly to EGLL, the free version from UK2000 is very nice.
+82GB
+There is [this](https://www.youtube.com/watch?v=JpJNNUi845Q).
+HD Trees is an addon you can't decide if you love or hate until you buy it... I got it for $5 on sale and love it.
+Oops... fixed it. No idea how I managed to do that.
+Sorry about the direct link, it is all I could find. [Link.](http://fullterrain.com/orbxstaff/HOLGER/AU_Regions/hydro/Orbx_FTX-AU-SP4_seasonal-water-removal-for-P3D.zip) Just merge the files with the FTX AU install and you should be good.
+I have had it for a while, I mainly fly into and around Australia. So far I haven't had any OOMS on P3D v3, v3.1 and now v3.2 with FT Sydney and AS A320, PMDG B737 and iFly B744. Performance is pretty nice, though if you are flying over areas such as Lake Eyre there is a [small visual bug](http://i.imgur.com/cP7s5Nh.jpg), but there is a fix on the Orbx forums.
+TFDi are the people who make the very popular VA software, *SmartCars*. As far as I know, this is their first aircraft release.
+
+>If you're a power user that cares about efficiency you're not using the start menu anyways since pressing windows key and typing the program name is WAY faster anyways 
+
+Except the search in Windows 10 never seems to return anything useful, though Classic Shell fixes this.
+I really like the iFly B744, after SP1a, I have had no performance issues (40 fps on short final 34L at FT YSSY) and the VAS barely gets above 3GB, even when flying into detailed sceneries. I just landed QF74 in Sydney and it is 1am and I am really tired, so if this comment made no sense that is why.
+What weather app is that?
+Only problem is [it doesn't work](https://m.youtube.com/watch?v=xzkWTcDZFH0)
+how did I only just find [this](https://www.youtube.com/watch?v=fi-q0ALVzPg)
+on that site, right click > view source
+Saw this in the store the other day for AU$30... I could make a profit...
+Right. With the text, I'm pretty sure it is the [ubuntu font](http://font.ubuntu.com/), maybe it would be possible to recreate the logo with that?
+I wonder what it would look like if you made the Reddair logo a bit bigger going over the windows, like in [this livery](http://www.aussieairliners.org/a320/vh-vfo/0320.311al.jpg).
+We could just provide an AI pack for those who want to download it, I'm sure the people (like me) who must have a model and livery for every airline and aircraft they see won't have an issue with a little googling around to find it.
+Why are you getting down voted for asking a question? Reddit is great isn't it :)
+Try this: Go to the "Aerosoft Airbus A320 CFM\Texture.Aerosoft_DAERO_SHARKLET" folder and locate the "texture.cfg" folder then copy and paste it to the folder containing your downloaded livery "Aerosoft Airbus A320 CFM\Texture.EtihadNeo" replacing the version that was there previously.  
+
+Edit: RIP I didn't read the comment below.
+I think a lot of people here probably already fly for a VA, though just as a casual airline I think it could work if run properly. If this were to be setup, what part of the world would it be based in? There are many people on this subreddit from many different regions so especially short haul flyers may be reluctant to fly far from their normal area.
+Un-tick "Mip-map VC panels", it will make the instruments less blurry.
+Brisbane isn't in the first world?
+Correct. The scenery in this screenshot is FT YSSY, however it applies to most sceneries at the moment. There is stuff like [SODE](http://sode.12bpilot.ch/?page_id=14) that is being implemented into newer sceneries that will allow for multiple jetways, but for now this is a good enough solution.
+About 6300fpm... you can watch the takeoff [here](https://www.twitch.tv/samzo111/v/56315918).
+Addons:  
+ - iFly 747-400  
+ - Default TFFJ 10/10 accuracy lol  
+
+Most FSX freeware will work with P3D, as long as it is actually for FSX and NOT FS2004. I'm sure you have noticed the folder structure in P3D is the same as FSX so you will just be able to copy over freeware aircraft and scenery from FSX.
+One of the easiest ways to line up with the runway correctly in the default FSX aircraft is to do a visual circuit of the runway. [Here](https://www.youtube.com/watch?v=CL_SL1DTzKg) is a tutorial on how to fly a circuit. The tutorial is in a C172, however the same skills can be applied to what ever aircraft you are flying. As soon as you can see the runway, enter the circuit/pattern, on downwind leg or on crosswind leg and the fly the circuit, as in the tutorial.
+P3D has this functionality built in, just change  
+[USERINTERFACE]  
+MUTE_ON_LOST_FOCUS=0  
+to  
+[USERINTERFACE]  
+MUTE_ON_LOST_FOCUS=1
+I'm not entirely lost...  
+8°43'39.9"S 115°34'11.7"E  
+0°36'12.6"S 106°31'08.4"E
+I personally would recommend buying addons from sites like Simmarket and FlightSimStore instead of buying them as DLC on Steam, though you might need to do some research to see if the addon you want to install will actually install to steam edition as it is installed in a separate location from FSX boxed and some installers don't recognize the different install path.
+My favorite freeware scenery, some of a higher quality than others:  
+[WADD](http://dl.dropbox.com/u/23175723/bali_FSX.7z) This is a direct link, it's all I could find.  
+[WIII](http://www.flightsim.com/vbfs/fslib.php?searchid=45744028)  
+[NZWN](http://www.windowlight.co.nz/store/index.php?main_page=page&id=70&chapter=2)  
+[RCTP](http://www.rikoooo.com/en/downloads/viewdownload/88/493)   
+[YBBN](https://flyawaysimulation.com/downloads/files/8914/fsx-brisbane-international-airport-ybbn-scenery/)  
+[YBHM](http://aussiex.org/forum/index.php?/files/file/617-ants-aussie-airports-vol-9-hamilton-island/)  
+[YAYE](http://aussiex.org/forum/index.php?/files/file/2269-yaye-connellan-airport-the-olgas-nt-australia/)  
+[YMLT](https://drive.google.com/file/d/0By8a-7jAShVrRGNzV19Jd0QyN1U/edit) You can find more Orbx Freeware [here](https://fullterrain.com/freeware)
+That's OSX for ya...
+[This](http://www.airservicesaustralia.com/aip/pending/dap/BBNSR01-146.pdf) was the approach that I was on, when I passed CG I could see him about 10 miles north of me on TCAS and 2000 feet below me. Then passing GEROO, I went into outside view to take a nice screenshot, and noticed that he was behind me, a bit closer, though the separation was fine. I started concentrating on on my approach, and at about 2 miles from BN I hear "Descend, Descend now", that is when I took the first screenshot in the imgur album. I would have gone around, but I was worried that I would hit him, so I didn't.
+Yep... especially when you have to account for the fact that his Vref is mine +30knts, so I had to come into the high speed exit at 70knts so he didn't hit me. I understand that everyone is taking their own immersion to a different level, but this is just stupid...
+But then you have to ~~get it repaired~~ buy a new one when you crash
+Title made me laugh :)
+>Wait, since when did we have 3D waves?
+
+If you set you settings correctly (imagine solving a Rubik Cube) you get 3D waves and they look cool.
+From my experience, FS2004 models don't show up in P3D, and I have also tried running my Scenery Density on max.
+- P3D v3.1  
+
+- FlyTampa YSSY  
+
+- FTX AU  
+
+- iFly 747-400 v2
+Out of curiosity, what is your LOD radius on? It looks rather low
+Hmm, that is interesting. I don't want to have to get a refund as I like the aircraft, however it is a bit strange that I have seen people with worse systems getting better performance than me...
+Yes, I would highly recommend it. [Here](http://library.avsim.net/esearch.php?CatID=fsxscen&DLID=175183) is a link
+I'm getting it on my Surface Pro 4, but not my main PC. I'm guessing it could be due to Windows DPI scaling.  
+edit: Also on my Surface I can't click the 'UTILITIES' button or the 'FSVE' button.
+Addons:  
+FTX AU  
+ASN  
+FlyTampa YSSY  
+AS A320
+From what I understand, they are pretty much remaking the entire scenery using modern techniques so hopefully the performance should be pretty good.
+Yep, definitely. I was very exited when I first read about it. 
+ok fine... you've convinced me
+No.
+Probably not correct, but I have heard that they use their store for distribution of the betas, and beta testers get code that makes it free.
+6
+As someone who mainly flies to small(ish) airports using freeware scenery, I am finding that a lot of the scenery doesn't work correctly in P3D (FS9 scenery) or is just obsolete. I personally think we need more freeware as the flow of freeware scenery seems to have slowed down in the last few years.
+I only have the airbus however from what I've heard the PMDG 737 performs similarly in terms of frame rate, though someone might want to confirm this for me.
+I'd want them to be paying me for that.... not just "slightly reduced"...
+
+i  have [this guy](http://i84.photobucket.com/albums/k33/ventiger/MBB329.jpg) on standby  
+i should b  ok
+nah m8 to busy cookin me some nice [grilled egplant](http://logout.hu/dl/upc/2010-03/41989_grillforce.jpg)
+Lets not turn this place into r/ayymd
+I would say probably not, Prepar3D is very VRAM heavy and easily chews up all 4GB of VRAM on my GTX 980, even at default scenery in a freeware aircraft.
+This is a 2014 Mac Mini, AFAIK unlike the 2012 model, the 2014 model is not user serviceable.
+You are getting a 767 because VH-ZXG used to belong to that 767 and was assigned to a Saab 340B delivered to REX on 11/12/15 according to [here](http://www.airfleets.net/ficheapp/plane-sf3-402.htm), so it probably got that registration rather recently and flightradar hasn't got new pictures.
+Remove Affinity mask, in my experience it just causes bury textures.
+It's a very nice arrival, though it would be better if the weather was a bit nicer!
+[SINNK9](http://www.airservicesaustralia.com/aip/pending/dap/BBNSR11-145.pdf)
+Turn all the graphics settings all down and run the game at a lower resolution 
+lol, yep... :(
+accurate...
+P3D v3.1  
+FlyTampa YSSY  
+FTX AU  
+Aerosoft A320
+Since when did FlightGear look so good?
+Sometimes you will get a STAR that doesn't line you up with the runway, and requires you to use the localiser to line up and land. Sometimes because of scenery or other reasons the localiser is just in the completely wrong spot, ILS 32L at Orbx YMLT for instance, in that case I normally just do a visual approach. Generally if you are on the ILS and going toward the runway, then you can not worry about where the flight plan wants you to go. As for the glide slope, I have never experienced that though that might be because I take out the autopilot at 500 feet and fly the visual approach from there.  
+
+Edit: Also remember that the autopilot will try to join the localiser on the smallest angle possible, so it will sometimes just point you toward the airport before actually establishing on the localiser. 
+Remember that the autopilot will not try to capture the glide slope before the localiser. I have noticed a bug in the airbus where it cannot descend and sometimes climbs, simple solution is to take out the auto pilot, push the nose down, and put the auto pilot back in.
+Yeah, definitely agree with you there. I don't often fly up to YBBN so it is ok for me. Normally I go to YBCG so I can then fly down to YMAV because the Orbx YMML scenery really needs to be redone.
+I'm using FTX AU with FTX HD Trees, allowing me to set my vegetation density to max. As for YBBN I am just using Ants YBBN.
+lol, as I see... it is all nice and sunny down here in Melbourne.
+Not really a solution but a work around, don't minimize FSX, just open other windows on top of it and then minimize the other windows to get back to FSX.
+[in case you didn't get the reference in the title](http://acimg.auctivacommerce.com/imgdata/0/0/9/7/8/8/webimg/939549.jpg)
+this hurt my bum
+I take it you mean the APPR switch when you say arrival switch. The LOC switch on the FCU will only try to capture the localiser, however the APPR button will capture both the localiser and then the glide slope, so you didn't have to wait for it to do the U-turn, but there was no harm in doing so, it will stay at the block altitude until it starts capturing the glide slope. I would normally use LOC until I have captured the localiser and when I am about to go through the glide slope I will press APPR, this just stops the airbus from climbing up to the glide slope, making for a smoother descent.
+Also be aware that the Airbus won't capture the glide slope before it captures the localiser. 
+They used to be at skyaitraffic.ga, but it would seem that site has shut down
+You need to remove all the entries for the 747-8i and f as they cause errors for some reason. There may be another model that does it too, but it has been a while since I set it up and I can't remember.  
+
+Edit: [Here](https://www.dropbox.com/s/h0uornn9ykn82qj/SkyAI.vmr?dl=0) is a link to my VMR that I use without errors.
+It is [this](http://forum.aerosoft.com/index.php?/files/file/1844-airbus-a320-iae-jetstar-vh-vgf/) livery for the A320, I turned it into an A321 livery using Photoshop and the paint kit. Since the original is not my work, I don't really want to redistribute it.
+Thanks!
+I tried AM in 3.1 and just ended up with blurry textures, as for disabling hyperthreading, I haven't tried that since I use the extra threads in other applications.
+Nope, I'm on P3D v3.1
+Yep
+Well, its just crashed again :( same error.  
+
+Edit: Apparently my underclock just disappeared 
+Ok so it seems that the darker area on the land is water, so maybe it could be a water mask issue?
+still having issues :(
+Like this? http://i.imgur.com/9p8pzCT.png
+Tried that, no luck... Just reinstalled the sim, no luck. It only seems to be in summer though, the winter, spring and autumn textures don't seem to be affected.
+>former Quantas Airline  
+
+how hard is it for people to spell 'Qantas'
+Aerosoft have an A318 that I would imagine is better than the BBS one.
+I will do. I will give them a telephone call later today and see what they say.
+The card had a factory overclock that I just removed and after a small test flight I didn't have the issue. I will do some more tests next week as I am going away for the weekend. I had actually already gone as far as to sending the card into warranty, and they didn't find any issues.
+This seems to have fixed it, though I will complete a full flight tomorrow and we will see what happens. Doesn't really makes sense  to me since I can run games like "Cities: Skylines" and "Assassins Creed: Syndicate" with no issues.
+Yes, they will act as a print server, but not an AirPrint sever. AirPrint is required for you to print from iOS. I currently have setup an Airport Extreme as the main base stations and am using an Aiport Express to extend the network.
+Good old UNIX time....
+You can make the installer detect V2 but install to V3. To do this, open regedit and navigate to "HKEY_LOCAL_MACHINE\SOFTWARE\Lockheed Martin\Prepar3d v2\" and find a string called "SetupPath", then edit -"SetupPath" to point toward your v3 install. If you have not had v2 installed in the past, you wont have a "Prepar3d v2" folder so you can create one by going to "HKEY_LOCAL_MACHINE\SOFTWARE\Lockheed Martin\" and right clicking and selecting "New" and then "Key" and then calling it "Prepar3d v2" then within that new folder create a String Value by right clicking, selecting "New" and then "String Value" and call it "SetupPath" and set it to the location of your v3 install eg. "C:\Program Files (x86)\Lockheed Martin\Prepar3D v3\".
+This worked! Here have all the upvotes I can give you (that is one)
+I see the first 77W and think "Thats' a nice  777" then I scroll down and see the 772 and think "and there is a baby one" and then I see the A318....
+I normally don't like grey liveries, but the Jetstar one I'm ok with.
+In the A320, I normally retard the throttle at 20 and flare at 10-15
+I've looked at it before, but never really got into it.
+Depending on where you are flying you can sometimes get freeware sceneries for areas of land. I come across them sometimes on various websites, try searching around a see what you find.
+>mindboggingly good PR-move  
+
+When have PMDG ever done any "mindboggingly good PR-moves"
+P3D v3.1, Aerosoft A320, FTX AU, FlyTampa YSSY
+I might actually look into this if I cannot get a driver soon
+Before anyone complains, I am perfectly aware this would have been better if it was posted a few years ago...
+I'm trying to load it into Nas4Free, so I need the driver that I can install.
+>I'm new to FreeBSD  
+
+Any idea how I can turn this into something that I can load into FreeBSD 
+The problem is more lack of floppy than lack of distro.
+I probably would have looked at it for her if she didn't ask a similar question every second day...
+In the future, I plan to use a raspberry pi as a print server, but until then it is on an old XP machine that isn't very power efficient, so it is set to turn off after 30 minutes, that should give people time to print. The boot times aren't too bad on it so it isn't that much of and issue, people are just lazy.  
+I didn't go the linux route because this computer only boots off the HDD and a floppy disk...
+The problem here is that they don't use Macs, they all have iPads
+But then it says this: "Downloads are only enabled for MetroAir Pilots. Login now to download or register."
+lol, it is great how you can get away with saying stuff like that to family.
+Active Sky Next is generally considered one of if not the best weather addons you can get http://www.hifisimtech.com/
+Knowing the airbus, there are probably plenty of alarms that go off before you run out of fuel...
+afaik the aerosoft a320 doesn't model failures
+lol, though I've noticed normally DLCs are normally 1st party content, whereas addons are 3rd party content.
+Unfortunately there isn't, quite disappointing since YMML is my local airport, however if you want to fly to YSSY or YBCG and you have a A320 then Orbx YMAV isn't too bad, and I also read somewhere that Jetstar would be launching flights from Avalon to Adelaide some time this year as well.
+FTX YMML is a very old Orbx product, and as such it doesn't have very good performance (or texture load times). 
+rip me... I read that as "though"
+No, it is just hard to see on the grey background
+I've had no issues with P3D, and from what I know FSX seems to be working fine for most people as well. Most addons seem to be working but then every now and then you hear reports of Windows 10 completely breaking peoples sims so ymmv but you should be fine.
+I don't use it much for pictures when away, there isn't much to photograph. I use it for photos quite a lot at home though.
+To the tune of "O'Christmas Tree" ♫Velocity, Velocity, we'll burn down your Christmas tree♫... seriously though, idk why I hate virgin australia so much.
+Last time I checked PHNL doesn't allow A380s....
+Question about Fly UK, where can I get models for VATSIM model matching without being a member?
+Yes, though this shouldn't be an issue because it basically just a custom install location.
+Is there a way to disable this? As far as I know it shouldn't be happening in airplane mode.
+http://i.imgur.com/GocduTH.jpg
+FTX central works fine, it just shows up as normal under Prepar3d v3.
+You can make the installer detect V2 but install to V3. To do this, open regedit and navigate to "HKEY_LOCAL_MACHINE\SOFTWARE\Lockheed Martin\Prepar3d v2\" and find a string called "SetupPath", then edit -"SetupPath" to point toward your v3 install. If you have not had v2 installed in the past, you wont have a "Prepar3d v2" folder so you can create one by going to "HKEY_LOCAL_MACHINE\SOFTWARE\Lockheed Martin\" and right clicking and selecting "New" and then "Key" and then calling it "Prepar3d v2" then within that new folder create a String Value by right clicking, selecting "New" and then "String Value" and call it "SetupPath" and set it to the location of your v3 install eg. "C:\Program Files (x86)\Lockheed Martin\Prepar3D v3\".
+Yes this is pretty much what happens, the battery drains faster when airplane mode and battery saver are on.
+Well I just installed ORBX YMAV into P3D v3 and it works perfectly fine, however I did need to do a small registry tweak to trick the installer to install to v3, I will paste the instructions here:
+
+
+
+"You can make the installer detect V2 but install to V3. To do this, open regedit and navigate to "HKEY_LOCAL_MACHINE\SOFTWARE\Lockheed Martin\Prepar3d v2\" and find a string called "SetupPath", then edit -"SetupPath" to point toward your v3 install. If you have not had v2 installed in the past, you wont have a "Prepar3d v2" folder so you can create one by going to "HKEY_LOCAL_MACHINE\SOFTWARE\Lockheed Martin\" and right clicking and selecting "New" and then "Key" and then calling it "Prepar3d v2" then within that new folder create a String Value by right clicking, selecting "New" and then "String Value" and call it "SetupPath" and set it to the location of your v3 install eg. "C:\Program Files (x86)\Lockheed Martin\Prepar3D v3\"." 
+
+
+
+Edit: Spelling, Formatting, Grammar, this post was a failure.
+And also judging by the fact that OP is running a Xeon E5 I don't think that this machine is going to be mainly used for flight sim.
+In the FSX.cfg under "[Display]" add a line with "WideViewAspect=True"
+No pressure lol, take your time I can wait. I have converted on of the A320 liveries so that it fits the A321, though its not perfectly accurate the textures look better than any of the current JST A321 liveries out there.
+If you only want to copy the models, not the schedules you can do that by navigating to your "/FSXdirectory/SimObjects" and copying the Ultimate traffic 2 folder to "/P3Ddirectory/SimObjects" then going to "%allusersprofile%/Lockheed Martin/Prepar3d vX" (X = P3D version #) and opening simobjects.cfg and adding
+
+
+    [Entry.XX]
+    Title=UT2
+    Path=SimObjects\*UT2Foldername*
+    Required=False
+    Active=True
+
+
+Where there is XX put the previous entry number +1 so if before you have [Entry.8] replace XX with 9.
+Where there is *UT2Foldername* put the name of the UT2 folder from SimObjects.
+This is why I love my 2012 Mac Mini. The only part that isn't replaceable is the CPU. I don't use it much anymore but back when it was my daily driver, I upgraded the RAM and replaced the fan after it broke.
+Yes, the steam edition includes the expansion.
+Yep, Melbourne :)
+That's fine, totally agree with you on the paintkit, it is why I'm asking someone else to make one and not doing it myself.
+Yes, if you get UT2 installed in P3D, it will just be a matter of selecting the "Ultimate Traffic 2" rule set in vPilot.
+Could you please do a Jetstar (JST) A321 livery for the Aerosoft A321? We are yet to get a nice one, as we have many Jetstar A320 liveries, but everyone forgot about the A321 :(
+Just out of curiosity, do you do texture requests?
+Anyone know if the iFly 747v2 works with this update?
+Yeah someone has uploaded the SDK to drop box for the people using steam edition.
+There is a different way to do this with SBuilderX, though I am in bed right now so I will give you a link to instructions if I remember tomorrow morning.
+Good too know!
+I believe that WOAI use a lot of "The Fruit Stand" models. You could probably do a search in the avsim library for updated textures eg. "Fruit stand 777 AAL FSX"
+Why is this a thing?
+Ok, I just checked planefinder and it doesn't show any 225 movements between those dates.
+UR-82060
+If you know the exact date you could try the playback feature on planefinder.net
+Yeah, it would be nice if Orbx would redo Melbourne using the newer scenery making techniques.
+If MetroAir and FlyUK had an equally as active airline in Australia
+Yay for Melbourne! If only we could get some better scenery for it......
+Flightsim008 is also good, he is also on is sub quite regularly 
+OOM = Out Of Memory. FSX is only 32bit and therefore is limited to 4GB of RAM, though I don't think this is your issue but it is always a possibility.
+I agree with this. Go for a 4GB 960 over a 970 it will be cheaper and the performance in P3D will be fine, it is fine with a 750 from my experience.
+Yeah, it is just your generic driver crash message pointing toward that dll that crashes :(
+Update: I have now tried reinstalling P3D, still same issue
+pccasegear.com have good pre-built PCs at pretty much the same price you would pay for just the components, they are also based in Melbourne and from my experience have pretty good customer support.
+If your PC can handle it, it is probably better to spend a bit more money and get P3D than the DX10 Fixer.
+Yeah, finding the rest of those playing cards won't be easy ;)
+I haven't tried FSX on this machine if that's what you mean, but yeah, only in P3D, I can run Assassins Creed: Syndicate, ETS2, Cities: Skylines at 1080p60 with no issues. 
+FlyTampa YSSY
+Those strobe lights are kinda intense 
+Tried re-installing, and this scenery is rather old, idk if the author still supports it, let alone in P3D
+The monitor is 1440x900 and that is the resolution it should be set to. You are getting this error because the UI is being made larger by DPI scaling, most likely set by the laptop manufacturer for the laptop screen. You can try turning it off by following the steps here: http://www.sevenforums.com/tutorials/443-dpi-display-size-settings-change.html, however it will make the UI on your laptop screen smaller.
+FlyTampa YSSY for P3D
+The high amount of aircraft flying into EIDW.
+Though do take a look at a few videos of the PMDG 737 beforehand, it is rather complex.
+Well, I will look into that, see if I get any results
+Ok, so any ideas on how to remove it?
+Hmmm... ok then, so it is probably not an issue with the scenery but with the sim I guess.
+I think this issue extends beyond just flight sim. A lot of games these days seem to be having launch issues with AMD cards sometimes taking over a month to fix... As much as I would like to like AMD they are being killed by issues that they don't create or have much control over.
+Ok, I will have to check that out :)
+Yeah it is pretty rubbish, though it does look a bit better in the copy on my PC, imgur seems to have a bit of image compression that makes it look worse.
+I know my parking was terrible.... 
+
+Aerosoft A320
+
+Scenery link: http://library.avsim.net/esearch.php?CatID=fsxscen&DLID=175183
+I think some airports just don't work by default :( I used to have the same issue in FSX SE and I still have it in P3D v3 so it is what it is....
+It runs 40-60 FPS on my 980 in the Aerosoft A320 at Ants YBNA, in my opinion anything above 30 is good enough for flight sim anyway :)
+Yes FSXWX is does a great job, I used to use it before I switched to ASN
+EK also have this with their A380 at OMDB though it's a bit hard to find, I will get a link later (on mobile)
+The sceneries with a P3D logo next to them are P3D compatible, though I wouldn't be surprised if you could get some of the other ones to work as well.
+I also like to spend my money on aircraft rather than scenery and where I fly there is tons of amazing freeware scenery... though I'm thinking of investing in FlyTampa YSSY because YSSY is kinda the hub that links all my little regional hops. 
+I really want to just be happy with the Aerosoft A320 but reading this just makes me really want this one.... 
+FTX AU 
+I saw it like that a couple of months ago, probably still a while until it's released 
+Make sure you put the ram in properly, sometimes it can take a fair bit of force to get in
+You could install a dedicated GPU into your PC, you might need to check compatibility, and a power supply upgrade might be required, but if possible this one should work http://amzn.to/1NJCIsl
+Anyone know why they were there in the first place? A lot of older planes seem to have them
+Anyone know what the tail number is?
+It kept giving me "FSX.exe has run into a problem" on the splash screen
+Keep trying to launch it, it will take up to 30 tries but once it works it will keep working, or at least that is what happened to me.
+Yeah, as other have said, razer keyboards are rather unreliable and since they use a custom switch made by Khail, I don't think you would be able to buy a new one so you will probably need to look into getting it replaced :(
+The backlight could be brighter in the new one? That is the only thing I can think of.
+It could be a motherboard issue, though the first thing I would check is the thermal paste and the cpu cooler I had one that just decided to become really inefficient one day for no good reason. If that makes no difference then it could be an issue with power delivery on the m/b giving the cpu too much power.
+There might be a Windows driver for OSX Extended Whatever format in the boot camp drivers, it wouldn't be the first time people have extracted drivers from the boot camp utility. 
+
+
+EDIT: Ok according to this thread:http://forums.macrumors.com/threads/bootcamp-drivers-for-hfs-on-non-mac-hardware.783063/ it is possible, now you just need to find boot camp divers :(
+
+
+EDIT 2: iPads are hard to type on 
+^^ This. You will have to have auto hot key running in the background but it is very light and will do the job. I used to use it on a mouse I used to have that had reverse scrolling built in.
+Try making a new user account and see if the issue persists in the the new account 
+Scrap the Xeon, go with one of the new i5s. Because the base for FSX and P3D is so old, it is designed for faster single core performance and can't take advantage of multi ore CPUs, a Xeon is designed for slow but stable single core performance, then they just add a bunch of cores, therefore Xeon CPUs at designed for programs that can take advantage of multiple cores. The r9 390 is totally overkill for flight sim, remember FSX and P3D are very CPU based and won't gain much from a high end GPU. Also, just my opinion, if you plan to be doing much other gaming on this PC I would go with an nVidia GPU over AMD just because some of the  games these days seem to be rather poorly optimised for AMD GPUs at launch, though I wouldn't recommend buying games at launch anyway so yesh...
+0/10 username does NOT check out
+Did I miss something? Since when was there a 970 Ti, or was that a typo?
+After looking around on the Aerosoft store, I didn't find any :(
+787-9 or 717 
+I would say it might run in FSX with clear skies. It runs pretty well (20-30 fps) on my Mac mini 2012 with i7 2.3 Ghz and HD4000 though I have 16GB of ram so you may have some memory issues on longer flights. I would try it if they are able to give you a refund if it doesn't work, or else I would look into a better computer.
+Ok, thanks for the recommendations, I already have fswatercontig and it defiantly makes the water in FSX a lot better :)
+Aerosoft are doing an A380?
+Thanks for the reply, based on what you have said I will probably go with the 6700K though I might wait to see if I get anymore replies. The teething troubles shouldn't be too much of an issue because I still need to work out the rest of the parts and save a bit more money. As for the i5 I probably won't go with that as I need the extra performance from the i7, its just a balance of minimum performance that I will accept and price.
+
+edit: capital letters after full stops.......
+I don't use the Wilco Airbus, WOAI or FSInn, however I will give you some additional troubleshooting steps. Start a flight on VATSIM as normal, then when the lag kicks in open up task manager (ctrl+shift+esc) and sort by CPU usage by clicking CPU at the top of the CPU column until the arrow next to it points down, and see if anything is using too much CPU. IIRC FSX tends to use anywhere from 30% to 50% on my quad core. If you see anything else that ranks high in CPU usage than that is most likely the issue and will require investigating into what it is. If that isn't the issue, I would recommend uninstalling the WOAI packages as that isn't too difficult to do, they are locating in one of the folders in SimObjects, Just copy them over to a folder in documents and start a flight on VATSIM, if you get the same result start a flight in single player and see what happens. If this fixes the issue than try reinstalling FSInn, if it doesn't than try reinstalling the Wilco Airbus, and if that doesn't fix it reinstall FSX.
+
+(I'm just assuming you use FSX)
+http://www.airlinepilotchatter.com/2013/02/why-are-md80-elevators-split.html
+Thanks for the clarification, after seeing my results I kind of assumed this, but I wanted just to check because there doesn't seem to be many straight answers out there.
+Try uninstalling the driver from the device manager and then restarting your computer. It should download Microsoft generic touchpad drivers, though if it doesn't then you will need to get a usb mouse and reinstall the drivers from somewhere.
+If you are still having issues, as a short-term solution you could try editing the URL to take the 's' out of 'https://' to make it simply 'http://' this fixed the issue on a Windows XP machine that I decided I would turn on the other day for no good reason...
+There is parental consent, just not parents that want to set it up...
+In the DPI scaling menu there is a section to change the text size, you could use that I think, I may be wrong though (I'm using a Mac at the moment)
+Like others have said, Windows doesn't like changing M/B, I would uninstall before and reinstall after you upgrade.
+Try using Chrome, Firefox and IE to see if you get the same problem in all browsers, if you do it is probably a Windows problem or your GPU may have an issue.
+I had a similar issue recently. The issue in my case was that the CPU was a Haswell-Refresh CPU and so the motherboard required a BIOS update to support it. If you don't have another CPU to run the BIOS update with then you might be able to take it to where you got it and ask them. I sent my M/B to the warranty dept. of the shop I purchased mine from and they updated it then sent it back to me.
+Sounds to me like it could be a problem with the UI scaling in Windows. Goto Screen Res settings and click the button that is something along the lines of 'Make text and other items smaller or larger' and mess with those settings. It will probably need you to log out then back in to take effect.
+If you could open up the laptop and take out the hard drive, you could plug it into the SATA port on another PC if you have access to one.
+No, to do it with just left click requires you to actually click the trackpad, not just tap.
+I wouldn't call it a mini game because it is required provided you are planning in driving to the destination. You could say if you were catching a train looking out the windows would be a mini game because it is something to do while you aren't doing anything apart from sitting/standing on the train. When you are driving you are driving and that is keeping you occupied. 
+Nice to know my money isn't 'totally' wasted then :D

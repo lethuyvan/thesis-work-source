@@ -1,0 +1,106 @@
+Several ppl have told me that now lol.  Got my hands on a couple SSDs.  Ram passed 10 passes too.  Fingers crossed that after a reinstall, I won't have any more problems.
+10 passes, no problems.  
+Date code 11262 - 2010-12-26 according to a date code site.
+
+Also, waiting on an old paper weight system to Windows update so I can use it to throw seatools on a pendrive and run it from the livecd.
+OK, I will let it run overnight just to be relatively sure.
+I'm really not sure about the date of manufacture.  Is that something seatools could see?
+Huh, weird.  I had no idea this happened and never used tags, but looked anyway.  All my nicknames are gone.  RIP
+Yes, please.  I've been silently and subconsciously hoping for this feature for years.  Not sure why, but sometimes the emoticons take forever to load, right when you need one for comedic value.
+Garry's Mod has an achievement that requires you to be in the same server as the dev "Garry".  Pretty difficult, if not impossible, for most people.  He likely doesn't even get in game anymore.
+From the sounds of it, that would make the game easier.  If enemies already 1 shot you (or 2 shot if you really pump endurance and armor), then increasing damage further only helps you kill them faster, since they're killing you at the same speed.
+I wouldn't agree with it being realistic..  I've been 1 shotted in the arm before, yet have shot raiders in the head multiple times and not had them die.  Maybe more realistic than non survival.  But we're talking about a game that spawns enemies in for jump scares.  Realism wasn't exactly their priority.
+Is the extra damage applied all at once?  Reason I ask is, that increased damage would make armor nearly worthless except against low damage rapid firing non AP enemies, from the sounds of it.
+Does that mean points in endurance and time spent on armor, won't be very useful?  Just as an example of me getting 1 shot, after I left the vault and finished making the robot happy, I went straight to the museum.  I didn't really have access to armor and being level 3 or so, I wouldn't have many points into armoring and stuff either.  So all I had was random pieces of leather.  At that time, the raiders there were 1 shotting me with my 4 endurance, sometimes from really far away with a stray bullet.  I unfortunately have a mod that nerfs stealth too, compounding things.
+Yep, it was Geolosys.  And you're right about the Kimberlite and Cinnabar.  Spent a bunch of time looking into the mod.  It used to allow you to re-enable vanilla ore beside the clouds, but the author removed that.  Worse, he enforced some kind of cap on how often ore veins spawn...  only one vein per chunk of any type, and you're unable to increase the chance on any specific ore type to make sure all chunks have at least one vein.  End result, huge areas with no ore, and the ones you do have, tend to have no redstone/diamonds.  I contacted the dev and he agreed that cinnabar/kimberlite was too rare, but he seemed to take a very stubborn stance on ore spawning in general.  It's a shame, as I liked the ore names.  Ah well, scrapped in favor of a mix of other oregen mods.
+I see.  That makes sense.  I'll check that out.  Tyvm.
+It doesn't add redstone or diamond though.  And it doesn't say anything about disabling vanilla oregen in it's description, or in it's configs that I've found.
+
+Edit:  In the other sub, someone mentioned diamond and redstone might be Kimberlite and Cinnabar.  And just lacks documentation.  Makes sense.  I'll check that out.  
+I don't think I have any mods that replace vanilla stone.  I have some mods that add globs of non vanilla stone, but they don't replace all vanilla stone.  Edited main post with mod list.  If I strip away the ground, pretty much every mod that has ore spawns it properly.  It's only coal, iron, gold, redstone, and diamond that I'm missing.  So I'm pretty sure it's only vanilla oregen that has been shut off.
+
+I'm not sure I follow on the 2nd part.  What mods would have "requirements" that would affect vanilla ore generation?  And how would those requirements being met or not being met, make vanilla ore generation not generate?
+Sure.  I don't know of a quick way to list them all so I didn't include it with the original post.  But I'll go ahead and throw it up there.
+I'm already having FPS issues, so I guess that's a huge point in favor of growing trays.  The other guy pointed out that growing trays now require 3 seeds minimum to start, which likely is also part of my problem.  Guess I'll give trays another shot, and I'll keep an eye open for that healing water.  I have some Erithan Algae seeds, and I've been screwing around on Tier X planets, so shouldn't be too difficult.  Thanks for all the tips.
+
+By chance, would there be any like..  spreadsheets or anything listing the different liquids and fertilizers and their benefits?
+That might seriously be my problem.  I'll try that out.  Thank you.
+Post what?  Alcatel Pixie Bond images with drunk vision?  Moto G3 amateur photography quality pics?  Or a picture of the camera with the 3.5 floppy drive (optionally taken of itself in the mirror)?
+I really hope this somehow goes viral and doesn't stop at just opioids.  Wishful thinking.  There's so many meds right now though that are addictive or otherwise bad for you, pushed on people by prescribers you assume you can trust..  I hate it.
+I did say kudos for not doing that.  Besides..  is it really more shit than buying your kids something, then taking it away from them, without them doing anything wrong, leading to them taking a glass half empty, see the world as a harsh reality, view on life?
+OS optimization = The phone is faster than similar devices because the "Android" part of it has been made faster.  Android is the OS, or "Operating System".
+
+Updates without carrier interference = Your Android, and any apps specific to your phone, will update without a phone carrier making changes to the app.
+
+Unlocking the bootloader = The bootloader is a system that loads before your operating system loads, and enables or disables some features used by more advanced users.  If you can unlock the bootloader, you can do more with your phone, like installing customized versions of Android.
+
+Apple doing things right = I can't explain this one, you're on your own ;)
+I feel your pain.  Had an Alcatel Pixie Bond.  Like $30 cheap.  Yet had a quad core in it, good battery life..  played games.  Did everything.  But the camera was BAAAADD.  Like, I have an old digital camera with a 3.5 floppy drive built into it (yes, that's a thing), and it takes higher quality pictures.  Worse, the alcatel camera somehow broke and images now like... have drunk vision.
+
+Replaced it with a Moto G3 (which is several years old now or something) and got it for like 50 bucks.  Blows the Alcatel out of the water, and the camera is awesome.  Amateur Photography level of awesome.  Android 6 too.  So don't give up on cheap phones.  Just find the right one.  :)
+I find this hilarious.  Also kudos for not going full deviant and doing something like...  asking for a game you're sure they won't like, but you know you'll like.  Then scratching all the games they do like, but make it look like a dog did it, or whatever other excuse you can think of.  As long as they don't suspect you even 0.1%, they'll let you play it just so more money isn't wasted on the system just sitting there.
+No problem.  I didn't realize you were the one that made FU (or on the team if there's others).  Definitely going to try the tricorder toolslot option, as I only have the MM and Scanner currently anyway.  Hopefully I pick the one the painter would have gone in.
+Naw, I didn't ignore it.  Slugman just gave me the impression that the mod author *wants* me to use it, and that it's completely optional.  And when I was put off by it's GUI design and how many clicks it does to do everything, I took what I thought was option B, to figure out how to play without it.  Then I forgot I had it.
+
+Just saying, even knowing to use the tricorder, it's a pain in the ass to use.  Put on hotbar (or sacrifice a spot and leave it there), right click, click tutorial, look down through giant list, click one of those (I started at the top and just started working my way down), cross your fingers it unlocks something useful, nope got research instead, do next one...  yeah.
+
+It's better to have the tricorder than not obviously, and it's not terrible, but other games/mods do it more fluidly.  Blame me and stereotype me all you want lol, but at least I took the time to ask for help when I wasn't able to naturally find out how do things, and expressed my confusion over the titanium when googling showed tungsten, instead of just quitting and labeling the mod(s) as bad.  I've since then fixed the titanium problem (it wasn't FU obviously), and the fullscreen suggestion helped my FPS quite a bit.  Most areas are playable now (although some are still terrible).  I'm now able to play the game.  But Frackin Universe is still...  very convoluted and time consuming to learn, for me at least.
+
+And very space intensive.  I play multiplayer and single both, so I decided to start trying to build my base up in my ship so that I don't lose access to machines when switching to single and back.  Made the mistake of choosing a pre-built ship instead of custom.  Now I'm spending all my time on making credits/finding crewman to bump my ship size up, and can't progress any further in FU because I can't place down machines.  I could hot-swap them temporarily I guess.
+
+Anyway, don't get too excited over this.  I mainly came here because of the titanium confusing me, and the lag.  Titanium problem fixed, and lag problem partially fixed.  In regards to whether I didn't pay attention close enough in the beginning... if a non mentally handicapped random player doesn't figure something out, then there is a potential design flaw excluding some players.  It's a game (well a mod of a game).  Maybe I missed something, maybe I didn't, but I wasn't able to find my way back later 'till I was reminded of the awful tricorder/hotbar system and stack of books on ship.  Not to mention, slugman's text doesn't repeat.  I tried going back to him before I came to reddit.  But nope.  Get attacked by a random mob..  have your apartment invaded by a mother in law..  have your cat get stuck behind the refrigerator..  drink too much...  etc etc, you get the point, and look away the moment slugman is telling you any relevant information, and a new player would be screwed.  All it would have taken was for him to be like "What are you still doing here?  Don't know what to do?  Be sure to click the Tutorial section in your Tricorder!"  Or maybe some reminder elsewhere to use it.  Idk, what can I say?  lol not trying to make excuses or suggest that those features are needed, but I was in this situation none the less.
+
+(goes back to taking random Glitch King in random village to be my engineer)
+Thank you for this!  My game defaulted to a borderless window or something.  Switching to fullscreen helped immensely.  Some areas are still super laggy..  mainly areas with the silver colored machine tileset and robots/humans running around.  But everywhere else is much more playable now.
+Hmm.  Well that does explain some.  I have the tricorder.  But it uses up a hotbar slot 2 hands, and I didn't see anything about quests in it at first glance.  So it's just sitting in my inventory.  The giant rabbit monster alien didn't tell me I can't progress without it lol.
+
+Edit:  And yes, I've done about every quest up portal land I can find too, although I'm sure there's some I haven't clicked on yet because hunting down quest givers is getting irritating.
+Please show me examples of tons of hints.  I beat every tutorial quest available to me and all I got was the starter frackin machine and some hints to repair my ship.
+
+The in-game guide books...  no, I didn't open any of the 15 or 20 books in your ship inventory.  When I first found them, I ran away screaming.  Then I forgot they were there.  So guilty lol.
+
+In my game, the starter breath pack does require titanium.  So it must be another mod that's doing it.  carikitty has a good idea though...  use the mech to bypass the EPP.  I don't know why I didn't think of that.
+
+Anyway, thank you for your response and clarification.  I guess my only problem now is trying to figure out how to stop the game from lagging.  Some areas are completely unplayable, which is weird considering my system used to handle the game fine, and I do a lot of 3D gaming.
+So that means a different mod set it to titanium.  Crap, I wonder which one...  getting Tungsten wasn't a problem.  :/
+
+Thanks for the info.  That mech tip is pretty helpful..  as that means in theory I'm not stuck anymore.  Yay!  I just gotta figure out my lag issue now.  Any chance you have any tips on increasing game performance?  The game used to run on this same system pretty well.  I'd ask over at the sub you mentioned, but dunno if general starbound questions would be appropriate there?
+Empyrion - Galactic Survival.  Better game that accomplishes afaik everything Blockade Runner wanted to accomplish, plus more.  Also much better than Space Engineers IMHO.  I hear Empyrion scared away some people in the past...  but the current game is pretty nice.
+Probably easier said than done.  Your average voter doesn't make an informed vote.  They vote for whoever is publicized the most in a positive manner and/or whoever supports a specific issue they're in favor of.  My own mother has admitted to voting for whoever is against abortion in the final 2 runners in any given vote.  SMH
+
+I completely agree with you.  But changes will have to be made before non-corrupt people will start being able to competitively run against corrupt runners.  The vote is too easily manipulated by those already in power and those with the most money.
+I just threw it on Facebook.  Doesn't have to be email.  Never give up the fight against corruption and greed.  There's always something that can be done, even if we haven't discovered or considered it yet.  Naw meen?  If people don't take you seriously or refuse to take an interest, try a new strategy to appeal to their personalities.  Stay strong.
+Google android cache slowdown, or anything similar.  'nuff said.  I can literally close out of recently ran apps and see my phone acting more responsive.  Caching everything and not releasing it, is just bad programming practice.
+I can agree with some of that.  But "restarting an app" using more performance vs loading a cached app, is extremely debatable.  Not all apps are opened daily.  Frequently used apps, sure, having them cached may help.  But apps you don't open very often will just take up resources for no reason, much more so than having to re-open it at some random later date.  Or apps you never use (like bloatware that came with your phone) that you accidentally open, or are set to run when your phone starts.  Letting them sit there cached and/or doing things in the background, just slows your device.  I like having a button to just close out everything, without having to resort to a "memory cleaning" app that may or may not close more than it should.
+Not necessarily.  I ran a custom rom on my old Sidekick 4G for a long time (years), and there was really only 1 bug I could remember.  The rom actually fixed some bugs that Samsung never fixed, as they dropped support for the device rather quickly.  I realize this is a different device..  but what I've been reading other people say sounds promising?
+You sound like you work for Google lol.  In all seriousness, just because you have the memory, doesn't mean it's efficient to take it up.  Not only can your device get more responsive by cleaning up those programs, but you may even get more battery life.  Android is terrible at memory management in that regard, as it only cleans up background programs once a threshold is passed.  If I'm done using an app, I want it to go away.
+So if I want to get that functionality...  guessing I should look into roms?  I've heard this phone is pretty popular with modders and they've gotten Android 7 working on it with no bugs/drawbacks.  I really miss being able to shut down apps so easily.
+Was only $50, new.  Haven't compared it to newer phones, as I was just looking at specs vs price on a new network I'm trying.
+My Pixie Bond is Android 5.1 and is able to close out of background apps with a single button, and then tells me how much memory was released.  But my new Moto G is unable to, with Android 6.  My mother's phone running Android 5 is able to close out of all background apps, but it won't tell how much memory is released from it.
+
+If it has nothing to do with the launcher, then why are all 3 of these phones doing it differently?
+
+Edit:  Nvm, CameraRollSoundSpeed explained it.  It's not stock android but rather, modifications to android released per device.  I just got unlucky with this one I guess.
+So I tried out Yowyn and the harvest quests.  Turns out even with gardening skill, they're pretty much impossible for a while.  I'm up to 9 gardening skill now and still haven't beat a single harvest mission.  I've come close.  But I've failed like 6 missions lol.
+I haven't figured out how to get more food yet haha.  I plan on doing the farm thing eventually, but wiki mentioned it being like 40k or something.  So I've been just surviving on starter food and paying the inn for dinner when I can.  Well, and corpses/vegetation/everything remotely edible I run into.
+Heh aight.  Let the gritting begin.
+I've been taking Drain Blood and/or Hypnotism so the hungry ghosts aren't too bad.  Still super annoying, cuz I end up having to eat after every single fight, but at least they aren't 1 shotting me.  Kobalds haven't been too terribly difficult either, sometimes I can kill them before they even reach me, and I can often survive a few hits when they do.  But enemies like the..  Fallen Warrior or whatever it's called, just annihilate me.  And if they show up in a town mission, they aggro by default, and RIP me.
+
+I'll definitely look into Yowyn.  Hermit Crabs are pretty easy with drain blood/hypno too, bypasses their armor.  Is it all quests in Yowyn that have easy mobs?  Or is it specifically the harvesting quests and Yowyn just has a lot of those types of quests?
+
+Thanks for the info, gonna try all of that.
+Yeah.. mostly sticking with cat just "cuz".  Curious to see what kind of monstrosity I can turn it into.
+Unless I make it my goal to have a fully armored, weaponized, mutant android 7 armed cat, muahahaha!
+Wiki says cats have a lot higher throwing skill, which is why a rock came to mind lol.  Question though..  can I remove or replace gear once I've given some to them?  Or is it a one time deal?
+That sounds really fun.  More stuff I didn't know about.  I'll have to check that out.  Thx.
+I didn't know they could equip anything.  That's helpful.  Would this be accurate?  http://elona.wikia.com/wiki/Cat It shows a shoot slot..  I wonder if I could give it a rock to throw at people lol.
+Heh, I like that attitude.  I posted the same question on steam and got a lot more replies.  They basically came up with the consensus of..
+
+Mercantile = more money, better quality items for crafting, and higher chance of getting gear that you can get without it.  It's used a lot more often, but not very useful in the end, if you're not built for crafting and/or are a completionist and are swimming in money already.
+
+Persuasion = used a lot less, but opens extra quests which means more xp in oddity mode, and even affects the game ending.  And then a bunch of small encounter avoiding uses.  It apparently opens up a lot more game story/lore too.
+
+My new build is mostly combat and no crafting.  So all in all, I think Persuasion may be the way for me to go.  I'll just have to rely more on loot and luck to get my gear.
+Haven't played it since the main post.  IRL things like nose surgery, etc etc, have been distracting.  I plan on giving it another go though.  Anyone happen to know how different the start is now, compared to before?
+No..  no you are not.  I just went through 4 starts, each one learning what to do, only to have my 4th game finally start to turn out well (5x5 ship with 3x3 interior with mining laser/food/water/etc) only to have a random rock I couldn't bust in time, 1 shot my cargo hatch.  I've instantly lost everything except 10 water.  Pretty sure impossible to recover, I forgot to save my game, and I don't feel like RNG'ing the crap out of this again.
+No.
